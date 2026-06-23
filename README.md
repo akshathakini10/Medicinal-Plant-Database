@@ -4,11 +4,13 @@
 
 This project focuses on collecting and organizing information from the Medicinal Plants Database maintained by FRLHT (Foundation for Revitalisation of Local Health Traditions).
 
-The goal of the project is to create a structured dataset containing information about medicinal plants used in different traditional systems of medicine in India.
+The objective of this project is to create a structured and searchable dataset containing information about medicinal plants used across different traditional systems of medicine in India.
+
+---
 
 ## Data Collected
 
-### Medicinal Plant Database
+### 1. Medicinal Plant Database
 
 A total of **7263 medicinal plant records** were collected.
 
@@ -27,9 +29,11 @@ Dataset:
 data/final_medicinal_plants.csv
 ```
 
-### Ayurvedic Identity
+---
 
-A total of **1407 Ayurvedic drug names** and **3900 botanical correlation records** were collected.
+### 2. Ayurvedic Identity
+
+A total of **1407 Ayurvedic drug names** and approximately **3900 botanical correlation records** were collected.
 
 The dataset contains:
 
@@ -47,7 +51,9 @@ Dataset:
 data/ayurvedic_identity_full.csv
 ```
 
-### Sanskrit Application and Use (Shlokas)
+---
+
+### 3. Sanskrit Application and Use (Shlokas)
 
 A total of **290 medicinal plant entries** and **917 OCR-processed shloka images** were collected.
 
@@ -66,8 +72,9 @@ Dataset:
 data/shlokas_full.csv
 ```
 
+---
 
-### Distribution Maps
+### 4. Distribution Maps
 
 A total of **1101 distribution map records** were collected.
 
@@ -82,9 +89,34 @@ Dataset:
 data/distribution_maps.csv
 ```
 
-### Trade Information
+---
 
-Trade information was collected from the documents available on the website.
+### 5. Statewise Medicinal Plant Lists
+
+Medicinal plant checklists were collected for the following states:
+
+* Karnataka
+* Kerala
+* Tamil Nadu
+* Andhra Pradesh
+* Chhattisgarh
+* Odisha
+* Sikkim
+* Rajasthan
+* West Bengal
+* Maharashtra
+
+Files:
+
+```text
+data/statewise_pdfs/
+```
+
+---
+
+### 6. Trade Information
+
+Trade-related information was collected from official documents available on the website.
 
 Files:
 
@@ -105,9 +137,11 @@ The extracted information includes:
 * Annual Trade Volume
 * Price Range
 
-### Static Website Content
+---
 
-The following pages were archived:
+### 7. Static Website Content
+
+The following sections were archived:
 
 * FAQ
 * About Database
@@ -122,6 +156,8 @@ Files:
 data/static_pages/
 ```
 
+---
+
 ## Project Structure
 
 ```text
@@ -129,7 +165,10 @@ MedicinalPlantScraper
 │
 ├── data
 │   ├── final_medicinal_plants.csv
+│   ├── ayurvedic_identity_full.csv
+│   ├── shlokas_full.csv
 │   ├── distribution_maps.csv
+│   ├── statewise_pdfs
 │   ├── trade_pdfs
 │   ├── trade_text
 │   └── static_pages
@@ -138,12 +177,15 @@ MedicinalPlantScraper
 │   ├── scrape_all_system_links.py
 │   ├── scrape_final_dataset.py
 │   ├── scrape_distribution_maps.py
+│   ├── scrape_ayurvedic_identity.py
+│   ├── scrape_shlokas.py
 │   ├── scrape_static_pages.py
-│   ├── download_trade_pdfs.py
-│   └── extract_trade_pdf.py
+│   └── supporting scripts
 │
 └── README.md
 ```
+
+---
 
 ## Technologies Used
 
@@ -152,12 +194,17 @@ MedicinalPlantScraper
 * BeautifulSoup
 * Pandas
 * PyMuPDF
+* OCR Processing
+
+---
 
 ## Contributors
 
 * Akshatha Kini
 * Ananya Shetty
 
+---
+
 ## Disclaimer
 
-This project was created for educational and research purposes. All data belongs to the original source website and the respective organizations maintaining it.
+This project was created for educational and research purposes. All data belongs to the original source website and the respective organizations maintaining it. The datasets are provided solely for academic study, analysis, and learning purposes.
