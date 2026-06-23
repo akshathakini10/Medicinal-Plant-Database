@@ -27,6 +27,46 @@ Dataset:
 data/final_medicinal_plants.csv
 ```
 
+### Ayurvedic Identity
+
+A total of **1407 Ayurvedic drug names** and **3900 botanical correlation records** were collected.
+
+The dataset contains:
+
+* Drug Name
+* Sanskrit Name
+* Transliteration
+* Botanical Correlation
+* Correlation Status
+* Discussion
+* References
+
+Dataset:
+
+```text
+data/ayurvedic_identity_full.csv
+```
+
+### Sanskrit Application and Use (Shlokas)
+
+A total of **290 medicinal plant entries** and **917 OCR-processed shloka images** were collected.
+
+The dataset contains:
+
+* Drug Name
+* Sanskrit Name
+* Transliteration
+* Sanskrit Shlokas
+* English Explanations
+* References
+
+Dataset:
+
+```text
+data/shlokas_full.csv
+```
+
+
 ### Distribution Maps
 
 A total of **1101 distribution map records** were collected.
