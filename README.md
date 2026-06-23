@@ -1,20 +1,25 @@
 # Medicinal Plant Database Scraper
 
-This project was developed to collect and organize data from the Medicinal Plants Database maintained by FRLHT (Foundation for Revitalisation of Local Health Traditions).
+## Overview
 
-The objective of the project is to create a structured dataset containing information about medicinal plants used across different traditional systems of medicine in India.
+This project focuses on collecting and organizing information from the Medicinal Plants Database maintained by FRLHT (Foundation for Revitalisation of Local Health Traditions).
+
+The goal of the project is to create a structured dataset containing information about medicinal plants used in different traditional systems of medicine in India.
 
 ## Data Collected
 
-### 1. Medicinal Plant Records
+### Medicinal Plant Database
 
-The project contains information for 7263 medicinal plant entries including:
+A total of **7263 medicinal plant records** were collected.
+
+The dataset contains:
 
 * Botanical Name
 * Family
 * Systems of Medicine
 * Synonyms
 * Vernacular Names
+* Detail URLs
 
 Dataset:
 
@@ -22,9 +27,14 @@ Dataset:
 data/final_medicinal_plants.csv
 ```
 
-### 2. Distribution Maps
+### Distribution Maps
 
-Distribution map information was collected for 1101 medicinal plants.
+A total of **1101 distribution map records** were collected.
+
+The dataset contains:
+
+* Plant Name
+* Distribution Map URL
 
 Dataset:
 
@@ -32,9 +42,9 @@ Dataset:
 data/distribution_maps.csv
 ```
 
-### 3. Trade Information
+### Trade Information
 
-Trade-related information was collected from the official trade documents available on the website.
+Trade information was collected from the documents available on the website.
 
 Files:
 
@@ -55,9 +65,9 @@ The extracted information includes:
 * Annual Trade Volume
 * Price Range
 
-### 4. Website Information Pages
+### Static Website Content
 
-The following sections were archived:
+The following pages were archived:
 
 * FAQ
 * About Database
@@ -108,7 +118,6 @@ MedicinalPlantScraper
 * Akshatha Kini
 * Ananya Shetty
 
+## Disclaimer
 
-## Notes
-
-The project was created for educational and research purposes. All information belongs to the original source website and respective organizations.
+This project was created for educational and research purposes. All data belongs to the original source website and the respective organizations maintaining it.
