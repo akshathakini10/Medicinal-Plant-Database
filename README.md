@@ -1,35 +1,99 @@
 # Medicinal Plant Database Scraper
 
-## About the Project
+This project was developed to collect and organize data from the Medicinal Plants Database maintained by FRLHT (Foundation for Revitalisation of Local Health Traditions).
 
-This project was developed to collect medicinal plant information from the Indian Medicinal Plants Database website.
+The objective of the project is to create a structured dataset containing information about medicinal plants used across different traditional systems of medicine in India.
 
-The website contains information about medicinal plants used in different traditional systems of medicine such as Ayurveda, Siddha, Unani, Homeopathy, Folk Medicine and Sowa-Rigpa. The data was scraped and organized into a structured CSV dataset for further analysis and future application development.
+## Data Collected
 
-## Dataset Information
+### 1. Medicinal Plant Records
 
-The final dataset contains:
+The project contains information for 7263 medicinal plant entries including:
 
-* 7263 medicinal plant records
-* 182+ plant families
-* Botanical names
-* Plant families
-* Systems of medicine
-* Botanical synonyms
-* Vernacular names
-* Detail page URLs
+* Botanical Name
+* Family
+* Systems of Medicine
+* Synonyms
+* Vernacular Names
 
-## How the Data Was Collected
+Dataset:
 
-The website's search functionality was analyzed to identify the APIs used internally.
+```text
+data/final_medicinal_plants.csv
+```
 
-The scraper then:
+### 2. Distribution Maps
 
-1. Collected plant links from all six medical systems.
-2. Removed duplicate links.
-3. Visited each plant detail page.
-4. Extracted useful information.
-5. Stored the results in CSV format.
+Distribution map information was collected for 1101 medicinal plants.
+
+Dataset:
+
+```text
+data/distribution_maps.csv
+```
+
+### 3. Trade Information
+
+Trade-related information was collected from the official trade documents available on the website.
+
+Files:
+
+```text
+data/trade_pdfs/
+data/trade_text/
+```
+
+The extracted information includes:
+
+* Botanical Name
+* Trade Name
+* Sanskrit Names
+* Family Name
+* Parts Used
+* Source
+* Medical Systems
+* Annual Trade Volume
+* Price Range
+
+### 4. Website Information Pages
+
+The following sections were archived:
+
+* FAQ
+* About Database
+* About FRLHT
+* About NMPB
+* Contact
+* Team
+
+Files:
+
+```text
+data/static_pages/
+```
+
+## Project Structure
+
+```text
+MedicinalPlantScraper
+│
+├── data
+│   ├── final_medicinal_plants.csv
+│   ├── distribution_maps.csv
+│   ├── trade_pdfs
+│   ├── trade_text
+│   └── static_pages
+│
+├── src
+│   ├── scrape_all_system_links.py
+│   ├── scrape_final_dataset.py
+│   ├── scrape_distribution_maps.py
+│   ├── scrape_static_pages.py
+│   ├── download_trade_pdfs.py
+│   └── extract_trade_pdf.py
+│
+└── README.md
+```
 
 ## Technologies Used
 
@@ -37,30 +101,14 @@ The scraper then:
 * Requests
 * BeautifulSoup
 * Pandas
-* Git & GitHub
-
-## Files
-
-* `all_systems_links.csv` – All collected plant links
-* `final_medicinal_plants.csv` – Final cleaned dataset
-* `scrape_all_system_links.py` – Collects plant links
-* `scrape_final_dataset.py` – Extracts plant details
-* `readcsv.py` – Dataset inspection script
-
-## Future Work
-
-Some possible improvements for this project:
-
-* Extract plant images
-* Build a web application for searching plants
-* Create a medicinal plant recommendation system
-* Use the dataset for machine learning projects
+* PyMuPDF
 
 ## Contributors
 
 * Akshatha Kini
 * Ananya Shetty
 
-## Note
 
-This project was created for educational and research purposes. The original plant information belongs to the Indian Medicinal Plants Database and its respective maintainers.
+## Notes
+
+The project was created for educational and research purposes. All information belongs to the original source website and respective organizations.
