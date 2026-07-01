@@ -1,0 +1,5507 @@
+[
+    {
+        "plant_name": "Abelmoschus crinitus WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1.jpg",
+        "map_id": "1"
+    },
+    {
+        "plant_name": "Abelmoschus ficulneus (L.) WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5.jpg",
+        "map_id": "5"
+    },
+    {
+        "plant_name": "Abelmoschus moschatus MEDIK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/7.jpg",
+        "map_id": "7"
+    },
+    {
+        "plant_name": "Abies pindrow ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/9.jpg",
+        "map_id": "9"
+    },
+    {
+        "plant_name": "Abies spectabilis (D.DON) SPACH",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/10.jpg",
+        "map_id": "10"
+    },
+    {
+        "plant_name": "Abies webbiana LINDL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/10.jpg",
+        "map_id": "10"
+    },
+    {
+        "plant_name": "Abrus precatorius L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/15.jpg",
+        "map_id": "15"
+    },
+    {
+        "plant_name": "Abutilon asiaticum (L.) SWEET",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/17.jpg",
+        "map_id": "17"
+    },
+    {
+        "plant_name": "Abutilon avicennae GAETRN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/18.jpg",
+        "map_id": "18"
+    },
+    {
+        "plant_name": "Abutilon graveolens (ROXB. EX HORNEM.) WIGHT & ARN. EX WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/16.jpg",
+        "map_id": "16"
+    },
+    {
+        "plant_name": "Abutilon hirtum (LAM.) SWEET",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/16.jpg",
+        "map_id": "16"
+    },
+    {
+        "plant_name": "Abutilon indicum (L.) SWEET Subsp. guineense (SCHUMACH.)  BORSSUM",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/17.jpg",
+        "map_id": "17"
+    },
+    {
+        "plant_name": "Abutilon theophrasti MEDIK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/18.jpg",
+        "map_id": "18"
+    },
+    {
+        "plant_name": "Acacia arabica SENSU BAKER Var. vediana COOKE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/28.jpg",
+        "map_id": "28"
+    },
+    {
+        "plant_name": "Acacia catechu (L.F.) WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/22.jpg",
+        "map_id": "22"
+    },
+    {
+        "plant_name": "Acacia chundra (ROXB. EX ROTTLER) WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/21.jpg",
+        "map_id": "21"
+    },
+    {
+        "plant_name": "Acacia concinna (WILLD.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/36.jpg",
+        "map_id": "36"
+    },
+    {
+        "plant_name": "Acacia nilotica (L.) WILLD. EX DEL. Subsp. indica (BENTH.) BRENAN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/28.jpg",
+        "map_id": "28"
+    },
+    {
+        "plant_name": "Acacia rugata (LAM.) MERR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/36.jpg",
+        "map_id": "36"
+    },
+    {
+        "plant_name": "Acacia sinuata (LOUR.) MERR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/36.jpg",
+        "map_id": "36"
+    },
+    {
+        "plant_name": "Acacia speciosa WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/96.jpg",
+        "map_id": "96"
+    },
+    {
+        "plant_name": "Acalypha indica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/39.jpg",
+        "map_id": "39"
+    },
+    {
+        "plant_name": "Acampe carinata (GRIFF) PANIGR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/40.jpg",
+        "map_id": "40"
+    },
+    {
+        "plant_name": "Acampe papillosa (LINDL.) LINDL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/40.jpg",
+        "map_id": "40"
+    },
+    {
+        "plant_name": "Achyranthes aspera L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/42.jpg",
+        "map_id": "42"
+    },
+    {
+        "plant_name": "Achyranthes bidentata BLUME",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/43.jpg",
+        "map_id": "43"
+    },
+    {
+        "plant_name": "Achyranthes lanata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/65.jpg",
+        "map_id": "65"
+    },
+    {
+        "plant_name": "Aconitum atrox (BRUHL) MUK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/3282.jpg",
+        "map_id": "3282"
+    },
+    {
+        "plant_name": "Aconitum balfourii STAPF",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/3282.jpg",
+        "map_id": "3282"
+    },
+    {
+        "plant_name": "Aconitum bisma (HAM.) RAPAICS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/45.jpg",
+        "map_id": "45"
+    },
+    {
+        "plant_name": "Aconitum chasmanthum STAPF EX HOLMES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/47.jpg",
+        "map_id": "47"
+    },
+    {
+        "plant_name": "Aconitum deinorrhizum STAPF",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/48.jpg",
+        "map_id": "48"
+    },
+    {
+        "plant_name": "Aconitum falconeri STAPF",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/49.jpg",
+        "map_id": "49"
+    },
+    {
+        "plant_name": "Aconitum ferox WALL. EX SERINGE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/51.jpg",
+        "map_id": "51"
+    },
+    {
+        "plant_name": "Aconitum heterophyllum WALL. EX ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/52.jpg",
+        "map_id": "52"
+    },
+    {
+        "plant_name": "Aconitum palmatum D.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/45.jpg",
+        "map_id": "45"
+    },
+    {
+        "plant_name": "Acorus calamus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/53.jpg",
+        "map_id": "53"
+    },
+    {
+        "plant_name": "Adenanthera pavonina L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/56.jpg",
+        "map_id": "56"
+    },
+    {
+        "plant_name": "Adenema hyssopifolium G. DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/896.jpg",
+        "map_id": "896"
+    },
+    {
+        "plant_name": "Adenia hondala (GAERTN.) W.J.DE WILDE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/57.jpg",
+        "map_id": "57"
+    },
+    {
+        "plant_name": "Adenia palmata ENGL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/57.jpg",
+        "map_id": "57"
+    },
+    {
+        "plant_name": "Adenosma capitatum HOOK.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/58.jpg",
+        "map_id": "58"
+    },
+    {
+        "plant_name": "Adenosma indianum (LOUR.) MERR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/58.jpg",
+        "map_id": "58"
+    },
+    {
+        "plant_name": "Adenosma indicum MERR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/58.jpg",
+        "map_id": "58"
+    },
+    {
+        "plant_name": "Adhatoda vasica NEES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1251.jpg",
+        "map_id": "1251"
+    },
+    {
+        "plant_name": "Adhatoda zeylanica MEDIK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1251.jpg",
+        "map_id": "1251"
+    },
+    {
+        "plant_name": "Adiantum lunulatum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/62.jpg",
+        "map_id": "62"
+    },
+    {
+        "plant_name": "Adiantum philippense L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/62.jpg",
+        "map_id": "62"
+    },
+    {
+        "plant_name": "Aegle marmelos (L.) CORREA EX. SCHULTZ",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/63.jpg",
+        "map_id": "63"
+    },
+    {
+        "plant_name": "Aerva lanata (L.) JUSS. EX SCHULT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/65.jpg",
+        "map_id": "65"
+    },
+    {
+        "plant_name": "Ageratum conyzoides L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/81.jpg",
+        "map_id": "81"
+    },
+    {
+        "plant_name": "Aglaia elaeagoidea (JUSS.) BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/82.jpg",
+        "map_id": "82"
+    },
+    {
+        "plant_name": "Aglaia odoratissima BLUME",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/82.jpg",
+        "map_id": "82"
+    },
+    {
+        "plant_name": "Aglaia roxburghiana MIQ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/82.jpg",
+        "map_id": "82"
+    },
+    {
+        "plant_name": "Ailanthus malabarica DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/86.jpg",
+        "map_id": "86"
+    },
+    {
+        "plant_name": "Ailanthus triphysa (DENNST.) ALSTON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/86.jpg",
+        "map_id": "86"
+    },
+    {
+        "plant_name": "Alangium decapetalum LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/90.jpg",
+        "map_id": "90"
+    },
+    {
+        "plant_name": "Alangium hexapetalum LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/90.jpg",
+        "map_id": "90"
+    },
+    {
+        "plant_name": "Alangium lamarckii THWAITES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/90.jpg",
+        "map_id": "90"
+    },
+    {
+        "plant_name": "Alangium salvifolium (L.F.) WANG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/90.jpg",
+        "map_id": "90"
+    },
+    {
+        "plant_name": "Albizia amara (ROXB.) BOIVIN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/93.jpg",
+        "map_id": "93"
+    },
+    {
+        "plant_name": "Albizia lebbeck (L.) BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/96.jpg",
+        "map_id": "96"
+    },
+    {
+        "plant_name": "Albizia odoratissima (L.F.)BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/101.jpg",
+        "map_id": "101"
+    },
+    {
+        "plant_name": "Alhagi camelorum FISCH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/107.jpg",
+        "map_id": "107"
+    },
+    {
+        "plant_name": "Alhagi maurorum DESV.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/107.jpg",
+        "map_id": "107"
+    },
+    {
+        "plant_name": "Alhagi pseudalhagi (BIEB.) DESV.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/107.jpg",
+        "map_id": "107"
+    },
+    {
+        "plant_name": "Allium stracheyi BAKER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/113.jpg",
+        "map_id": "113"
+    },
+    {
+        "plant_name": "Allium wallichii KUNTH",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/115.jpg",
+        "map_id": "115"
+    },
+    {
+        "plant_name": "Alstonia scholaris R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/138.jpg",
+        "map_id": "138"
+    },
+    {
+        "plant_name": "Alstonia venenata R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/139.jpg",
+        "map_id": "139"
+    },
+    {
+        "plant_name": "Alternanthera sessilis (L.) R.BR.EX DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/140.jpg",
+        "map_id": "140"
+    },
+    {
+        "plant_name": "Alternanthera triandra LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/140.jpg",
+        "map_id": "140"
+    },
+    {
+        "plant_name": "Althaea officinalis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/142.jpg",
+        "map_id": "142"
+    },
+    {
+        "plant_name": "Altingia excelsa NORONHA",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/143.jpg",
+        "map_id": "143"
+    },
+    {
+        "plant_name": "Amaranthus spinosus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/152.jpg",
+        "map_id": "152"
+    },
+    {
+        "plant_name": "Ammannia baccifera L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/157.jpg",
+        "map_id": "157"
+    },
+    {
+        "plant_name": "Ammannia vesicatoria ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/157.jpg",
+        "map_id": "157"
+    },
+    {
+        "plant_name": "Amomum aromaticum ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/158.jpg",
+        "map_id": "158"
+    },
+    {
+        "plant_name": "Amomum subulatum ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/159.jpg",
+        "map_id": "159"
+    },
+    {
+        "plant_name": "Amoora rohituka (ROXB.) WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/202.jpg",
+        "map_id": "202"
+    },
+    {
+        "plant_name": "Amorphophallus paeoniifolius (DENNST.) NICOLSON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/165.jpg",
+        "map_id": "165"
+    },
+    {
+        "plant_name": "Amorphophallus sylvaticus (ROXB.) KUNTH",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4158.jpg",
+        "map_id": "4158"
+    },
+    {
+        "plant_name": "Ampelocissus araneosa (DALZ. & CRIBBS.) PLANCH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/166.jpg",
+        "map_id": "166"
+    },
+    {
+        "plant_name": "Anamirta cocculus (L.) WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/174.jpg",
+        "map_id": "174"
+    },
+    {
+        "plant_name": "Anaphalis neelgerriana DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/179.jpg",
+        "map_id": "179"
+    },
+    {
+        "plant_name": "Andrachne cadishaw ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/573.jpg",
+        "map_id": "573"
+    },
+    {
+        "plant_name": "Andrographis paniculata (BURM.F.)WALLICH EX NEES.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/181.jpg",
+        "map_id": "181"
+    },
+    {
+        "plant_name": "Andropogon martini ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/725.jpg",
+        "map_id": "725"
+    },
+    {
+        "plant_name": "Andropogon muricatus RETZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2177.jpg",
+        "map_id": "2177"
+    },
+    {
+        "plant_name": "Andropogon squarrosus L.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2177.jpg",
+        "map_id": "2177"
+    },
+    {
+        "plant_name": "Angelica glauca EDGEW.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/188.jpg",
+        "map_id": "188"
+    },
+    {
+        "plant_name": "Anisomeles malabarica R.BR. EX SIMS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/190.jpg",
+        "map_id": "190"
+    },
+    {
+        "plant_name": "Anogeissus latifolia WALL. EX. GUILL. & PERR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/194.jpg",
+        "map_id": "194"
+    },
+    {
+        "plant_name": "Antiaris toxicaria (PERS.) LESCH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/200.jpg",
+        "map_id": "200"
+    },
+    {
+        "plant_name": "Aphanamixis polystachya (WALL.) PARKER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/202.jpg",
+        "map_id": "202"
+    },
+    {
+        "plant_name": "Aplotaxis auriculata DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1867.jpg",
+        "map_id": "1867"
+    },
+    {
+        "plant_name": "Aquilaria agallocha ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5663.jpg",
+        "map_id": "5663"
+    },
+    {
+        "plant_name": "Aquilaria malaccensis LAM.,",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5663.jpg",
+        "map_id": "5663"
+    },
+    {
+        "plant_name": "Argemone mexicana L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/212.jpg",
+        "map_id": "212"
+    },
+    {
+        "plant_name": "Argyreia fulgens CHOISY",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/213.jpg",
+        "map_id": "213"
+    },
+    {
+        "plant_name": "Argyreia nervosa (BURM.F.) BOJ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/219.jpg",
+        "map_id": "219"
+    },
+    {
+        "plant_name": "Argyreia speciosa SWEET",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/219.jpg",
+        "map_id": "219"
+    },
+    {
+        "plant_name": "Aristolochia bracteata RETZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/222.jpg",
+        "map_id": "222"
+    },
+    {
+        "plant_name": "Aristolochia bracteolata LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/222.jpg",
+        "map_id": "222"
+    },
+    {
+        "plant_name": "Aristolochia indica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/224.jpg",
+        "map_id": "224"
+    },
+    {
+        "plant_name": "Arnebia benthamii (WALL. EX G.DON) JOHNSTON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/225.jpg",
+        "map_id": "225"
+    },
+    {
+        "plant_name": "Artabotrys hexapetalus (L.F.) BHANDARI",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/227.jpg",
+        "map_id": "227"
+    },
+    {
+        "plant_name": "Artabotrys odoratissimus R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/227.jpg",
+        "map_id": "227"
+    },
+    {
+        "plant_name": "Artanema longifolia (L.) MERRILL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/229.jpg",
+        "map_id": "229"
+    },
+    {
+        "plant_name": "Artanema longifolium (L.) VATAKE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/229.jpg",
+        "map_id": "229"
+    },
+    {
+        "plant_name": "Artanema sesamoides (VAHL) BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/229.jpg",
+        "map_id": "229"
+    },
+    {
+        "plant_name": "Artemisia absinthium L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/231.jpg",
+        "map_id": "231"
+    },
+    {
+        "plant_name": "Artemisia brevifolia WALL. EX DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/236.jpg",
+        "map_id": "236"
+    },
+    {
+        "plant_name": "Artemisia indica WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/237.jpg",
+        "map_id": "237"
+    },
+    {
+        "plant_name": "Artemisia maritima L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/236.jpg",
+        "map_id": "236"
+    },
+    {
+        "plant_name": "Artemisia nilagirica (CLARKE) PAMP.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/237.jpg",
+        "map_id": "237"
+    },
+    {
+        "plant_name": "Artemisia sieversiana EHRH. EX WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/239.jpg",
+        "map_id": "239"
+    },
+    {
+        "plant_name": "Artemisia vulgaris AUCT.NON L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/237.jpg",
+        "map_id": "237"
+    },
+    {
+        "plant_name": "Artocarpus gomezianus WALL. EX TREC. Subsp. zeylanicus JANET",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/242.jpg",
+        "map_id": "242"
+    },
+    {
+        "plant_name": "Artocarpus hirsutus LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/246.jpg",
+        "map_id": "246"
+    },
+    {
+        "plant_name": "Arundo donax L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/248.jpg",
+        "map_id": "248"
+    },
+    {
+        "plant_name": "Asclepias asthmatica WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2141.jpg",
+        "map_id": "2141"
+    },
+    {
+        "plant_name": "Asclepias gigantea WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/409.jpg",
+        "map_id": "409"
+    },
+    {
+        "plant_name": "Asclepias vomitoria KOEN. EX HOOK.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2141.jpg",
+        "map_id": "2141"
+    },
+    {
+        "plant_name": "Asparagus adscendens ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/252.jpg",
+        "map_id": "252"
+    },
+    {
+        "plant_name": "Asparagus filicinus BUCH .-HAM. EX D. DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/254.jpg",
+        "map_id": "254"
+    },
+    {
+        "plant_name": "Asparagus racemosus WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/256.jpg",
+        "map_id": "256"
+    },
+    {
+        "plant_name": "Asteracantha longifolia (L.) NEES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1158.jpg",
+        "map_id": "1158"
+    },
+    {
+        "plant_name": "Atalantia monophylla CORR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/260.jpg",
+        "map_id": "260"
+    },
+    {
+        "plant_name": "Atylosia barbata (BENTH.) BAKER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/262.jpg",
+        "map_id": "262"
+    },
+    {
+        "plant_name": "Atylosia goensis DALZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/262.jpg",
+        "map_id": "262"
+    },
+    {
+        "plant_name": "Azadirachta indica A. JUSS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/266.jpg",
+        "map_id": "266"
+    },
+    {
+        "plant_name": "Azima tetracantha LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/267.jpg",
+        "map_id": "267"
+    },
+    {
+        "plant_name": "Bacopa monnieri (L.) PENNELL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/269.jpg",
+        "map_id": "269"
+    },
+    {
+        "plant_name": "Balanites aegyptiaca (L.) DELILE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/271.jpg",
+        "map_id": "271"
+    },
+    {
+        "plant_name": "Balanites roxburghii PLANCH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/271.jpg",
+        "map_id": "271"
+    },
+    {
+        "plant_name": "Baliospermum axillare BLUME",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/279.jpg",
+        "map_id": "279"
+    },
+    {
+        "plant_name": "Baliospermum montanum (WILLD.) MUELL.-ARG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/279.jpg",
+        "map_id": "279"
+    },
+    {
+        "plant_name": "Baliospermum solanifolium (J.BURM.) SURESH",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/279.jpg",
+        "map_id": "279"
+    },
+    {
+        "plant_name": "Balsamodendron mukul HOOK. EX STOCKS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/625.jpg",
+        "map_id": "625"
+    },
+    {
+        "plant_name": "Barleria acanthoides VAHL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/283.jpg",
+        "map_id": "283"
+    },
+    {
+        "plant_name": "Barleria courtallica NEES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/285.jpg",
+        "map_id": "285"
+    },
+    {
+        "plant_name": "Barleria cristata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/286.jpg",
+        "map_id": "286"
+    },
+    {
+        "plant_name": "Barleria longifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1158.jpg",
+        "map_id": "1158"
+    },
+    {
+        "plant_name": "Barleria strigosa WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/291.jpg",
+        "map_id": "291"
+    },
+    {
+        "plant_name": "Barringtonia acutangula (L.) GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/292.jpg",
+        "map_id": "292"
+    },
+    {
+        "plant_name": "Barringtonia racemosa (L.) K.SPRENG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/293.jpg",
+        "map_id": "293"
+    },
+    {
+        "plant_name": "Basella cordifolia LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1453.jpg",
+        "map_id": "1453"
+    },
+    {
+        "plant_name": "Bauhinia malabarica ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/301.jpg",
+        "map_id": "301"
+    },
+    {
+        "plant_name": "Bauhinia racemosa LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/303.jpg",
+        "map_id": "303"
+    },
+    {
+        "plant_name": "Bauhinia vahlii WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/305.jpg",
+        "map_id": "305"
+    },
+    {
+        "plant_name": "Berberis aristata DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/309.jpg",
+        "map_id": "309"
+    },
+    {
+        "plant_name": "Berberis asiatica ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/310.jpg",
+        "map_id": "310"
+    },
+    {
+        "plant_name": "Berberis chitria EDWARDS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/6672.jpg",
+        "map_id": "6672"
+    },
+    {
+        "plant_name": "Berberis lycium ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/311.jpg",
+        "map_id": "311"
+    },
+    {
+        "plant_name": "Bergenia ciliata (HOW.) STERN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/313.jpg",
+        "map_id": "313"
+    },
+    {
+        "plant_name": "Bergenia ligulata SENSU BAILEY",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/313.jpg",
+        "map_id": "313"
+    },
+    {
+        "plant_name": "Bergenia stracheyi (HOOK.F.& THOMS.) ENGL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/316.jpg",
+        "map_id": "316"
+    },
+    {
+        "plant_name": "Betula bhojpattra WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/320.jpg",
+        "map_id": "320"
+    },
+    {
+        "plant_name": "Betula utilis DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/320.jpg",
+        "map_id": "320"
+    },
+    {
+        "plant_name": "Bignonia chelonoides L.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1984.jpg",
+        "map_id": "1984"
+    },
+    {
+        "plant_name": "Bignonia indica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1567.jpg",
+        "map_id": "1567"
+    },
+    {
+        "plant_name": "Biophytum sensitivum (L.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/325.jpg",
+        "map_id": "325"
+    },
+    {
+        "plant_name": "Blepharispermum subsessile DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/329.jpg",
+        "map_id": "329"
+    },
+    {
+        "plant_name": "Blumea balsamifera DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/330.jpg",
+        "map_id": "330"
+    },
+    {
+        "plant_name": "Blumea densiflora DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/330.jpg",
+        "map_id": "330"
+    },
+    {
+        "plant_name": "Blumea erientha DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/332.jpg",
+        "map_id": "332"
+    },
+    {
+        "plant_name": "Blyxa octandra (ROXB.) PLANCH.EX.THW.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/334.jpg",
+        "map_id": "334"
+    },
+    {
+        "plant_name": "Boerhavia diffusa L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/335.jpg",
+        "map_id": "335"
+    },
+    {
+        "plant_name": "Boerhavia repens L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/335.jpg",
+        "map_id": "335"
+    },
+    {
+        "plant_name": "Bombax ceiba L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/339.jpg",
+        "map_id": "339"
+    },
+    {
+        "plant_name": "Bombax malabaricum DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/339.jpg",
+        "map_id": "339"
+    },
+    {
+        "plant_name": "Borreria articularis (L.F.) WILLIAMS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4536.jpg",
+        "map_id": "4536"
+    },
+    {
+        "plant_name": "Borreria hispida (L.) SCHUM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1967.jpg",
+        "map_id": "1967"
+    },
+    {
+        "plant_name": "Boswellia glabra ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/348.jpg",
+        "map_id": "348"
+    },
+    {
+        "plant_name": "Boswellia serrata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/348.jpg",
+        "map_id": "348"
+    },
+    {
+        "plant_name": "Boswellia serrata ROXB. Var. glabra (ROXB.) BENNETT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/348.jpg",
+        "map_id": "348"
+    },
+    {
+        "plant_name": "Boswellia thurifera ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/348.jpg",
+        "map_id": "348"
+    },
+    {
+        "plant_name": "Boucerosia aucheriana DECNE.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/442.jpg",
+        "map_id": "442"
+    },
+    {
+        "plant_name": "Bridelia montana WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/371.jpg",
+        "map_id": "371"
+    },
+    {
+        "plant_name": "Bryonia epigoea ROTTL..",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/637.jpg",
+        "map_id": "637"
+    },
+    {
+        "plant_name": "Bryonia laciniosa L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/839.jpg",
+        "map_id": "839"
+    },
+    {
+        "plant_name": "Bryonopsis laciniosa NAUD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/839.jpg",
+        "map_id": "839"
+    },
+    {
+        "plant_name": "Buchanania lanzan SPR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/374.jpg",
+        "map_id": "374"
+    },
+    {
+        "plant_name": "Buchanania latifolia ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/374.jpg",
+        "map_id": "374"
+    },
+    {
+        "plant_name": "Bunium persicum (BOISS.) FEDT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5998.jpg",
+        "map_id": "5998"
+    },
+    {
+        "plant_name": "Butea frondosa ROXB. ET KOEN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/376.jpg",
+        "map_id": "376"
+    },
+    {
+        "plant_name": "Butea monosperma (LAM.) TAUB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/376.jpg",
+        "map_id": "376"
+    },
+    {
+        "plant_name": "Butea monosperma (LAM.) TAUB. Var. monosperma -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/376.jpg",
+        "map_id": "376"
+    },
+    {
+        "plant_name": "Butea superba ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/379.jpg",
+        "map_id": "379"
+    },
+    {
+        "plant_name": "Cacalia sonchifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/894.jpg",
+        "map_id": "894"
+    },
+    {
+        "plant_name": "Cachrys pabularia (LINDL.) HERRNST.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/382.jpg",
+        "map_id": "382"
+    },
+    {
+        "plant_name": "Cadaba trifoliata WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/380.jpg",
+        "map_id": "380"
+    },
+    {
+        "plant_name": "Caesalpinia bonduc (L.) ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/384.jpg",
+        "map_id": "384"
+    },
+    {
+        "plant_name": "Caesalpinia bonducella (L.) FLEMING",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/384.jpg",
+        "map_id": "384"
+    },
+    {
+        "plant_name": "Caesalpinia digyna ROTTL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/388.jpg",
+        "map_id": "388"
+    },
+    {
+        "plant_name": "Calacanthus grandiflorus (DALZ.) RADLK..",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/395.jpg",
+        "map_id": "395"
+    },
+    {
+        "plant_name": "Calamus rotang L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/397.jpg",
+        "map_id": "397"
+    },
+    {
+        "plant_name": "Calamus tenuis ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/398.jpg",
+        "map_id": "398"
+    },
+    {
+        "plant_name": "Calamus travancoricus BEDD. EX HOOK. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/399.jpg",
+        "map_id": "399"
+    },
+    {
+        "plant_name": "Calamus viminalis WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/400.jpg",
+        "map_id": "400"
+    },
+    {
+        "plant_name": "Callicarpa lanata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2312.jpg",
+        "map_id": "2312"
+    },
+    {
+        "plant_name": "Callicarpa macrophylla VAHL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/403.jpg",
+        "map_id": "403"
+    },
+    {
+        "plant_name": "Callicarpa tomentosa (L.) MURRAY",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2312.jpg",
+        "map_id": "2312"
+    },
+    {
+        "plant_name": "Calophyllum inophyllum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/408.jpg",
+        "map_id": "408"
+    },
+    {
+        "plant_name": "Calosanthes indica BLUME",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1567.jpg",
+        "map_id": "1567"
+    },
+    {
+        "plant_name": "Calotropis gigantea (L.) R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/409.jpg",
+        "map_id": "409"
+    },
+    {
+        "plant_name": "Calotropis procera R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/412.jpg",
+        "map_id": "412"
+    },
+    {
+        "plant_name": "Calycopteris floribunda LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/413.jpg",
+        "map_id": "413"
+    },
+    {
+        "plant_name": "Calyptranthes jambolana MOON.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2029.jpg",
+        "map_id": "2029"
+    },
+    {
+        "plant_name": "Canarium resiniferum BRUCE EX KING",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/418.jpg",
+        "map_id": "418"
+    },
+    {
+        "plant_name": "Canarium strictum ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/418.jpg",
+        "map_id": "418"
+    },
+    {
+        "plant_name": "Canscora decussata SCHULTES & SCHULTES.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/425.jpg",
+        "map_id": "425"
+    },
+    {
+        "plant_name": "Capparis corundas -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/447.jpg",
+        "map_id": "447"
+    },
+    {
+        "plant_name": "Capparis horrida L.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/437.jpg",
+        "map_id": "437"
+    },
+    {
+        "plant_name": "Capparis moonii WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/433.jpg",
+        "map_id": "433"
+    },
+    {
+        "plant_name": "Capparis roxburghii DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/434.jpg",
+        "map_id": "434"
+    },
+    {
+        "plant_name": "Capparis sepiaria L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/435.jpg",
+        "map_id": "435"
+    },
+    {
+        "plant_name": "Capparis spinosa L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/436.jpg",
+        "map_id": "436"
+    },
+    {
+        "plant_name": "Capparis zeylanica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/437.jpg",
+        "map_id": "437"
+    },
+    {
+        "plant_name": "Caralluma edulis BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/442.jpg",
+        "map_id": "442"
+    },
+    {
+        "plant_name": "Cardiospermum halicacabum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/443.jpg",
+        "map_id": "443"
+    },
+    {
+        "plant_name": "Careya arborea ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/444.jpg",
+        "map_id": "444"
+    },
+    {
+        "plant_name": "Carissa carandas L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/447.jpg",
+        "map_id": "447"
+    },
+    {
+        "plant_name": "Carpopogon pruriens ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1471.jpg",
+        "map_id": "1471"
+    },
+    {
+        "plant_name": "Carum bulbocastanum Auct. Non Koch:C.B.CLARKE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5998.jpg",
+        "map_id": "5998"
+    },
+    {
+        "plant_name": "Carum carvi L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/451.jpg",
+        "map_id": "451"
+    },
+    {
+        "plant_name": "Carum roxburghianum KURZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2098.jpg",
+        "map_id": "2098"
+    },
+    {
+        "plant_name": "Casearia esculenta ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/459.jpg",
+        "map_id": "459"
+    },
+    {
+        "plant_name": "Casearia esculentta ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/459.jpg",
+        "map_id": "459"
+    },
+    {
+        "plant_name": "Casearia zeylanica (GAERTN.) RHW.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/459.jpg",
+        "map_id": "459"
+    },
+    {
+        "plant_name": "Cassia absus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/460.jpg",
+        "map_id": "460"
+    },
+    {
+        "plant_name": "Cassia auriculata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/463.jpg",
+        "map_id": "463"
+    },
+    {
+        "plant_name": "Cassia fistula L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/464.jpg",
+        "map_id": "464"
+    },
+    {
+        "plant_name": "Cassia occidentalis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/468.jpg",
+        "map_id": "468"
+    },
+    {
+        "plant_name": "Cassia sophera L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/471.jpg",
+        "map_id": "471"
+    },
+    {
+        "plant_name": "Cassia tora L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/472.jpg",
+        "map_id": "472"
+    },
+    {
+        "plant_name": "Cassytha filiformis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/475.jpg",
+        "map_id": "475"
+    },
+    {
+        "plant_name": "Catunaregum spinosa (THUNB.) TIRVENGADUM",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/477.jpg",
+        "map_id": "477"
+    },
+    {
+        "plant_name": "Cayratia carnosa (WALL.) GAGNEP. EX WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/481.jpg",
+        "map_id": "481"
+    },
+    {
+        "plant_name": "Cayratia pedata JUSS. EX GAGNEPAIN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/3203.jpg",
+        "map_id": "3203"
+    },
+    {
+        "plant_name": "Cayratia trifolia (L.) DOMIN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/481.jpg",
+        "map_id": "481"
+    },
+    {
+        "plant_name": "Cedrela toona ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/484.jpg",
+        "map_id": "484"
+    },
+    {
+        "plant_name": "Cedrus deodara (ROXB.) LOUD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/485.jpg",
+        "map_id": "485"
+    },
+    {
+        "plant_name": "Cedrus libani BARREL Var. deodara HOOK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/485.jpg",
+        "map_id": "485"
+    },
+    {
+        "plant_name": "Celastrus paniculatus WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/490.jpg",
+        "map_id": "490"
+    },
+    {
+        "plant_name": "Centella asiatica (L.) URBAN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/497.jpg",
+        "map_id": "497"
+    },
+    {
+        "plant_name": "Centratherum anthelminticum (L.) KUNTZE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/502.jpg",
+        "map_id": "502"
+    },
+    {
+        "plant_name": "Ceropegia tuberosa ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/513.jpg",
+        "map_id": "513"
+    },
+    {
+        "plant_name": "Chavica roxburghii MIQ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1674.jpg",
+        "map_id": "1674"
+    },
+    {
+        "plant_name": "Chlorophytum arundinaceum BAKER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/517.jpg",
+        "map_id": "517"
+    },
+    {
+        "plant_name": "Chlorophytum tuberosum BAKER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/518.jpg",
+        "map_id": "518"
+    },
+    {
+        "plant_name": "Chloroxylon dupada BUCH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/348.jpg",
+        "map_id": "348"
+    },
+    {
+        "plant_name": "Chloroxylon swietenia DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/519.jpg",
+        "map_id": "519"
+    },
+    {
+        "plant_name": "Chonemorpha fragrans (MOON) ALSTON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/514.jpg",
+        "map_id": "514"
+    },
+    {
+        "plant_name": "Chonemorpha macrophylla (ROXB.) G.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/514.jpg",
+        "map_id": "514"
+    },
+    {
+        "plant_name": "Chrozophora plicata A.JUSS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/521.jpg",
+        "map_id": "521"
+    },
+    {
+        "plant_name": "Chrozophora prostrata DALZ .",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/521.jpg",
+        "map_id": "521"
+    },
+    {
+        "plant_name": "Cichorium intybus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/532.jpg",
+        "map_id": "532"
+    },
+    {
+        "plant_name": "Cinnamomum iners REINW.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/539.jpg",
+        "map_id": "539"
+    },
+    {
+        "plant_name": "Cinnamomum macrocarpum HOOK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/541.jpg",
+        "map_id": "541"
+    },
+    {
+        "plant_name": "Cinnamomum tamala NEES & EBERM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/542.jpg",
+        "map_id": "542"
+    },
+    {
+        "plant_name": "Cinnamomum wightii C.F.W.MEISSN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/543.jpg",
+        "map_id": "543"
+    },
+    {
+        "plant_name": "Cissampelos pareira L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/546.jpg",
+        "map_id": "546"
+    },
+    {
+        "plant_name": "Cissus pedata LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/3203.jpg",
+        "map_id": "3203"
+    },
+    {
+        "plant_name": "Cissus quadrangularis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/547.jpg",
+        "map_id": "547"
+    },
+    {
+        "plant_name": "Citrullus colocynthis (L.) SCHRADER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/551.jpg",
+        "map_id": "551"
+    },
+    {
+        "plant_name": "Citrus medica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/567.jpg",
+        "map_id": "567"
+    },
+    {
+        "plant_name": "Cleistanthus collinus (ROXB.) BENTH.  & HOOK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/573.jpg",
+        "map_id": "573"
+    },
+    {
+        "plant_name": "Clematis gauriana ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/575.jpg",
+        "map_id": "575"
+    },
+    {
+        "plant_name": "Clematis triloba HEYNE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/576.jpg",
+        "map_id": "576"
+    },
+    {
+        "plant_name": "Cleome felina L. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/577.jpg",
+        "map_id": "577"
+    },
+    {
+        "plant_name": "Cleome gynandra L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/578.jpg",
+        "map_id": "578"
+    },
+    {
+        "plant_name": "Cleome icosandra L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/579.jpg",
+        "map_id": "579"
+    },
+    {
+        "plant_name": "Cleome pentaphylla L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/578.jpg",
+        "map_id": "578"
+    },
+    {
+        "plant_name": "Cleome viscosa L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/579.jpg",
+        "map_id": "579"
+    },
+    {
+        "plant_name": "Clerodendrum indicum (L.) KUNTZE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/581.jpg",
+        "map_id": "581"
+    },
+    {
+        "plant_name": "Clerodendrum multiflorum (Burm.f.)Kuntze",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/584.jpg",
+        "map_id": "584"
+    },
+    {
+        "plant_name": "Clerodendrum phlomides L.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/584.jpg",
+        "map_id": "584"
+    },
+    {
+        "plant_name": "Clerodendrum serratum (L.) MOON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/585.jpg",
+        "map_id": "585"
+    },
+    {
+        "plant_name": "Clerodendrum siphonanthus R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/581.jpg",
+        "map_id": "581"
+    },
+    {
+        "plant_name": "Cocculus cordifolius (WILLD.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2086.jpg",
+        "map_id": "2086"
+    },
+    {
+        "plant_name": "Cocculus hirsutus (L.) DIELS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/596.jpg",
+        "map_id": "596"
+    },
+    {
+        "plant_name": "Cocculus suberosus DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/174.jpg",
+        "map_id": "174"
+    },
+    {
+        "plant_name": "Cocculus villosus DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/596.jpg",
+        "map_id": "596"
+    },
+    {
+        "plant_name": "Cochlospermum gossypium DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/601.jpg",
+        "map_id": "601"
+    },
+    {
+        "plant_name": "Cochlospermum religiosum (L.) ALSTON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/601.jpg",
+        "map_id": "601"
+    },
+    {
+        "plant_name": "Coix lachryma L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/603.jpg",
+        "map_id": "603"
+    },
+    {
+        "plant_name": "Coix lacryma-jobi L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/603.jpg",
+        "map_id": "603"
+    },
+    {
+        "plant_name": "Colchicum luteum BAKER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/605.jpg",
+        "map_id": "605"
+    },
+    {
+        "plant_name": "Commiphora mukul (HOOK. EX. STOCKS) ENGL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/625.jpg",
+        "map_id": "625"
+    },
+    {
+        "plant_name": "Commiphora wightii (A.) BHANDARI",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/625.jpg",
+        "map_id": "625"
+    },
+    {
+        "plant_name": "Conocarpus latifolia ROXB. EX. DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/194.jpg",
+        "map_id": "194"
+    },
+    {
+        "plant_name": "Convolvulus gemellus BURM.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1203.jpg",
+        "map_id": "1203"
+    },
+    {
+        "plant_name": "Convolvulus microphyllus SIEB.EX SPRENG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5882.jpg",
+        "map_id": "5882"
+    },
+    {
+        "plant_name": "Convolvulus nil L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1202.jpg",
+        "map_id": "1202"
+    },
+    {
+        "plant_name": "Convolvulus paniculatus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1198.jpg",
+        "map_id": "1198"
+    },
+    {
+        "plant_name": "Convolvulus pluricaulis CHOIS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5882.jpg",
+        "map_id": "5882"
+    },
+    {
+        "plant_name": "Convolvulus prostratus FORSSK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5882.jpg",
+        "map_id": "5882"
+    },
+    {
+        "plant_name": "Convolvulus speciosus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/219.jpg",
+        "map_id": "219"
+    },
+    {
+        "plant_name": "Convolvulus turpethum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1553.jpg",
+        "map_id": "1553"
+    },
+    {
+        "plant_name": "Conyza cinerea L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2175.jpg",
+        "map_id": "2175"
+    },
+    {
+        "plant_name": "Coptis teeta WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/634.jpg",
+        "map_id": "634"
+    },
+    {
+        "plant_name": "Corallocarpus epigaea HOOK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/637.jpg",
+        "map_id": "637"
+    },
+    {
+        "plant_name": "Corallocarpus epigaeus BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/637.jpg",
+        "map_id": "637"
+    },
+    {
+        "plant_name": "Corchorus depressus STOCKS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/642.jpg",
+        "map_id": "642"
+    },
+    {
+        "plant_name": "Corchorus trilocularis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/644.jpg",
+        "map_id": "644"
+    },
+    {
+        "plant_name": "Cordia dichotoma FORST. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/645.jpg",
+        "map_id": "645"
+    },
+    {
+        "plant_name": "Cordia latifolia ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/649.jpg",
+        "map_id": "649"
+    },
+    {
+        "plant_name": "Cordia myxa SENU CL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/645.jpg",
+        "map_id": "645"
+    },
+    {
+        "plant_name": "Cordia obliqua WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/649.jpg",
+        "map_id": "649"
+    },
+    {
+        "plant_name": "Corydalis govaniana WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/654.jpg",
+        "map_id": "654"
+    },
+    {
+        "plant_name": "Coscinium fenestratum (GAERTN.) COLEB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/656.jpg",
+        "map_id": "656"
+    },
+    {
+        "plant_name": "Costus speciosus (KOEN. EX RETZ.) SM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/657.jpg",
+        "map_id": "657"
+    },
+    {
+        "plant_name": "Crataeva magna (LOUR.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/662.jpg",
+        "map_id": "662"
+    },
+    {
+        "plant_name": "Crataeva marmelos L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/63.jpg",
+        "map_id": "63"
+    },
+    {
+        "plant_name": "Crataeva nurvala SENSU KANJ. & DAS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/662.jpg",
+        "map_id": "662"
+    },
+    {
+        "plant_name": "Crataeva religiosa FORST.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/662.jpg",
+        "map_id": "662"
+    },
+    {
+        "plant_name": "Crataeva tapia -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/662.jpg",
+        "map_id": "662"
+    },
+    {
+        "plant_name": "Crepidium acuminatum (D.DON) SZLAC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/7559.jpg",
+        "map_id": "7559"
+    },
+    {
+        "plant_name": "Crotalaria verrucosa L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/672.jpg",
+        "map_id": "672"
+    },
+    {
+        "plant_name": "Croton plicatum VAHL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/521.jpg",
+        "map_id": "521"
+    },
+    {
+        "plant_name": "Croton polyandrum ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/279.jpg",
+        "map_id": "279"
+    },
+    {
+        "plant_name": "Croton sebiferum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/676.jpg",
+        "map_id": "676"
+    },
+    {
+        "plant_name": "Cryptolepis buchananii ROEMER & SCHULTES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/678.jpg",
+        "map_id": "678"
+    },
+    {
+        "plant_name": "Cucumis colocynthis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/551.jpg",
+        "map_id": "551"
+    },
+    {
+        "plant_name": "Cucumis madraspatanus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1474.jpg",
+        "map_id": "1474"
+    },
+    {
+        "plant_name": "Curculigo orchioides GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/700.jpg",
+        "map_id": "700"
+    },
+    {
+        "plant_name": "Curcuma angustifolia ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/702.jpg",
+        "map_id": "702"
+    },
+    {
+        "plant_name": "Curcuma zedoaria (CHRIST.) ROSCOE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/705.jpg",
+        "map_id": "705"
+    },
+    {
+        "plant_name": "Curcuma zerumbet ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/705.jpg",
+        "map_id": "705"
+    },
+    {
+        "plant_name": "Cuscuta reflexa ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/707.jpg",
+        "map_id": "707"
+    },
+    {
+        "plant_name": "Cyathula prostrata BLUME",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/711.jpg",
+        "map_id": "711"
+    },
+    {
+        "plant_name": "Cycas circinalis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/715.jpg",
+        "map_id": "715"
+    },
+    {
+        "plant_name": "Cyclea arnotii MIERS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/712.jpg",
+        "map_id": "712"
+    },
+    {
+        "plant_name": "Cyclea burmanni (DC.) HOOK.F. TH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/712.jpg",
+        "map_id": "712"
+    },
+    {
+        "plant_name": "Cyclea peltata (LAM.) HOOK. F. & THOMSON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/712.jpg",
+        "map_id": "712"
+    },
+    {
+        "plant_name": "Cymbopogon martini (ROXB.) WATS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/725.jpg",
+        "map_id": "725"
+    },
+    {
+        "plant_name": "Cynanchum extensum JACQ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1617.jpg",
+        "map_id": "1617"
+    },
+    {
+        "plant_name": "Cyperus esculentus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/738.jpg",
+        "map_id": "738"
+    },
+    {
+        "plant_name": "Cyperus rotundus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/742.jpg",
+        "map_id": "742"
+    },
+    {
+        "plant_name": "Dactylorhiza hatagirea (DON.)  SOO",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/3511.jpg",
+        "map_id": "3511"
+    },
+    {
+        "plant_name": "Daemia extensa R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1617.jpg",
+        "map_id": "1617"
+    },
+    {
+        "plant_name": "Dalbergia emarginata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/753.jpg",
+        "map_id": "753"
+    },
+    {
+        "plant_name": "Dalbergia latifolia ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/753.jpg",
+        "map_id": "753"
+    },
+    {
+        "plant_name": "Dalbergia sissoides GRAHAM EX. WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/755.jpg",
+        "map_id": "755"
+    },
+    {
+        "plant_name": "Dalbergia sissoo ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/756.jpg",
+        "map_id": "756"
+    },
+    {
+        "plant_name": "Datura innoxia MILL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/760.jpg",
+        "map_id": "760"
+    },
+    {
+        "plant_name": "Datura stramonium L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/766.jpg",
+        "map_id": "766"
+    },
+    {
+        "plant_name": "Datura tatula L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/766.jpg",
+        "map_id": "766"
+    },
+    {
+        "plant_name": "Decalepis hamiltonii WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/770.jpg",
+        "map_id": "770"
+    },
+    {
+        "plant_name": "Delima scandens (L.) MERR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4296.jpg",
+        "map_id": "4296"
+    },
+    {
+        "plant_name": "Delonix elata (L.) GAMBLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/772.jpg",
+        "map_id": "772"
+    },
+    {
+        "plant_name": "Delphaenium denudatum WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/775.jpg",
+        "map_id": "775"
+    },
+    {
+        "plant_name": "Delphinium bruonianum ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/773.jpg",
+        "map_id": "773"
+    },
+    {
+        "plant_name": "Delphinium cashmirianum ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/774.jpg",
+        "map_id": "774"
+    },
+    {
+        "plant_name": "Delphinium denudatum WALL. EX HOOK. F. & THOMS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/775.jpg",
+        "map_id": "775"
+    },
+    {
+        "plant_name": "Delphinium glaciale HOOK.F. & THOMSON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/776.jpg",
+        "map_id": "776"
+    },
+    {
+        "plant_name": "Delphinium kashmirianum ROYLE.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/774.jpg",
+        "map_id": "774"
+    },
+    {
+        "plant_name": "Delphinium kohatense (BRUHL.) MUNZ",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/777.jpg",
+        "map_id": "777"
+    },
+    {
+        "plant_name": "Delphinium saniculifolium AUCT NON BOISS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/777.jpg",
+        "map_id": "777"
+    },
+    {
+        "plant_name": "Dendrophthoe elastica (DESR.) DANSER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4679.jpg",
+        "map_id": "4679"
+    },
+    {
+        "plant_name": "Dendrophthoe falcata (L.F) ETTING.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/782.jpg",
+        "map_id": "782"
+    },
+    {
+        "plant_name": "Derris indica (LAM.) BENNET",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/788.jpg",
+        "map_id": "788"
+    },
+    {
+        "plant_name": "Desmanthus cinereus WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/804.jpg",
+        "map_id": "804"
+    },
+    {
+        "plant_name": "Desmodium gangeticum (L.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/789.jpg",
+        "map_id": "789"
+    },
+    {
+        "plant_name": "Desmodium pulchellum BENTH.EX. BAKER.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/797.jpg",
+        "map_id": "797"
+    },
+    {
+        "plant_name": "Desmodium triflorum DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/798.jpg",
+        "map_id": "798"
+    },
+    {
+        "plant_name": "Desmostachya bipinnata STAPF",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/801.jpg",
+        "map_id": "801"
+    },
+    {
+        "plant_name": "Dichrostachys cinerea WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/804.jpg",
+        "map_id": "804"
+    },
+    {
+        "plant_name": "Didymocarpus pedicellata R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/806.jpg",
+        "map_id": "806"
+    },
+    {
+        "plant_name": "Dienia muscifera LINDL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1369.jpg",
+        "map_id": "1369"
+    },
+    {
+        "plant_name": "Dillenia pentagyna ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/811.jpg",
+        "map_id": "811"
+    },
+    {
+        "plant_name": "Dioscorea bulbifera L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/819.jpg",
+        "map_id": "819"
+    },
+    {
+        "plant_name": "Dioscorea crispata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/819.jpg",
+        "map_id": "819"
+    },
+    {
+        "plant_name": "Dioscorea oppositifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/824.jpg",
+        "map_id": "824"
+    },
+    {
+        "plant_name": "Dioscorea pentaphylla L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/826.jpg",
+        "map_id": "826"
+    },
+    {
+        "plant_name": "Dioscorea prazeri PRAIN & BURKILL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/825.jpg",
+        "map_id": "825"
+    },
+    {
+        "plant_name": "Dioscorea sativa AUCT. NON L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/819.jpg",
+        "map_id": "819"
+    },
+    {
+        "plant_name": "Diospyros candolleana WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/828.jpg",
+        "map_id": "828"
+    },
+    {
+        "plant_name": "Diospyros melanoxylon ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/836.jpg",
+        "map_id": "836"
+    },
+    {
+        "plant_name": "Diospyros paniculata DALZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/838.jpg",
+        "map_id": "838"
+    },
+    {
+        "plant_name": "Diplocyclos palmatus (L.) JAFFREY",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/839.jpg",
+        "map_id": "839"
+    },
+    {
+        "plant_name": "Dipterocarpus alatus ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/841.jpg",
+        "map_id": "841"
+    },
+    {
+        "plant_name": "Dipterocarpus turbinatus GAERTN. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/842.jpg",
+        "map_id": "842"
+    },
+    {
+        "plant_name": "Dolichos cylindricus DESV.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2203.jpg",
+        "map_id": "2203"
+    },
+    {
+        "plant_name": "Dolichos pruriens (L,)",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1471.jpg",
+        "map_id": "1471"
+    },
+    {
+        "plant_name": "Dolomaea macrocephala DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4195.jpg",
+        "map_id": "4195"
+    },
+    {
+        "plant_name": "Drimia indica (ROXB.) J.P. JESSOP",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/856.jpg",
+        "map_id": "856"
+    },
+    {
+        "plant_name": "Dysoxylum malabaricum BEDD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/865.jpg",
+        "map_id": "865"
+    },
+    {
+        "plant_name": "Ecbolium linneanum KURZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/868.jpg",
+        "map_id": "868"
+    },
+    {
+        "plant_name": "Ecbolium viride (FORSK.) ALSTON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/868.jpg",
+        "map_id": "868"
+    },
+    {
+        "plant_name": "Ecbolium virids (FORSSK.) ALSTON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/868.jpg",
+        "map_id": "868"
+    },
+    {
+        "plant_name": "Echinops echinatus ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/871.jpg",
+        "map_id": "871"
+    },
+    {
+        "plant_name": "Eclipta alba HASSK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/872.jpg",
+        "map_id": "872"
+    },
+    {
+        "plant_name": "Eclipta erecta L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/872.jpg",
+        "map_id": "872"
+    },
+    {
+        "plant_name": "Eclipta prostrata (L.) L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/872.jpg",
+        "map_id": "872"
+    },
+    {
+        "plant_name": "Elaeocarpus ganitrus ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/879.jpg",
+        "map_id": "879"
+    },
+    {
+        "plant_name": "Elaeocarpus sphaericus (GAERTN.) K.SCHUM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/879.jpg",
+        "map_id": "879"
+    },
+    {
+        "plant_name": "Elaeocarpus tuberculatus ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/881.jpg",
+        "map_id": "881"
+    },
+    {
+        "plant_name": "Elephantopus scaber L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/882.jpg",
+        "map_id": "882"
+    },
+    {
+        "plant_name": "Embelia ribes BURM.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/891.jpg",
+        "map_id": "891"
+    },
+    {
+        "plant_name": "Embelia tsjeriam-cottam A.DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/890.jpg",
+        "map_id": "890"
+    },
+    {
+        "plant_name": "Emblica officinalis GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/892.jpg",
+        "map_id": "892"
+    },
+    {
+        "plant_name": "Emilia sonchifolia (L.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/894.jpg",
+        "map_id": "894"
+    },
+    {
+        "plant_name": "Enicostemma axillare (LAM.) RAYNAL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/896.jpg",
+        "map_id": "896"
+    },
+    {
+        "plant_name": "Enicostemma hyssopifolium (WILLD.) VERDOORN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/896.jpg",
+        "map_id": "896"
+    },
+    {
+        "plant_name": "Enicostemma littorale BLUME",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/896.jpg",
+        "map_id": "896"
+    },
+    {
+        "plant_name": "Enicostemma verticillatum (L.) ENGL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/896.jpg",
+        "map_id": "896"
+    },
+    {
+        "plant_name": "Ephedra gerardiana WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/901.jpg",
+        "map_id": "901"
+    },
+    {
+        "plant_name": "Ephedra vulgaris HOOK.F. NON A.RICH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/901.jpg",
+        "map_id": "901"
+    },
+    {
+        "plant_name": "Eragrostis cynosuroides BEAUV.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/801.jpg",
+        "map_id": "801"
+    },
+    {
+        "plant_name": "Erianthus munja JESW.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1831.jpg",
+        "map_id": "1831"
+    },
+    {
+        "plant_name": "Eugenia caryophyllaea WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2025.jpg",
+        "map_id": "2025"
+    },
+    {
+        "plant_name": "Eugenia jambolana LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2029.jpg",
+        "map_id": "2029"
+    },
+    {
+        "plant_name": "Eugenia racemosa L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/293.jpg",
+        "map_id": "293"
+    },
+    {
+        "plant_name": "Eulaliopsis binata (RETZ.) C.E. HUBBARD",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/919.jpg",
+        "map_id": "919"
+    },
+    {
+        "plant_name": "Eulophia campestris WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/920.jpg",
+        "map_id": "920"
+    },
+    {
+        "plant_name": "Euodia lanu-ankenda (GAERTN.)MERR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/946.jpg",
+        "map_id": "946"
+    },
+    {
+        "plant_name": "Euonymus tingens WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/925.jpg",
+        "map_id": "925"
+    },
+    {
+        "plant_name": "Euphorbia antiquorum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/928.jpg",
+        "map_id": "928"
+    },
+    {
+        "plant_name": "Euphorbia hirta L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/930.jpg",
+        "map_id": "930"
+    },
+    {
+        "plant_name": "Euphorbia nivulia BUCH.-HAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/937.jpg",
+        "map_id": "937"
+    },
+    {
+        "plant_name": "Euphorbia pilulifera L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/930.jpg",
+        "map_id": "930"
+    },
+    {
+        "plant_name": "Euphorbia royleana BOISS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/939.jpg",
+        "map_id": "939"
+    },
+    {
+        "plant_name": "Euphorbia thymifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/941.jpg",
+        "map_id": "941"
+    },
+    {
+        "plant_name": "Euphorbia tortilis ROTTLER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/943.jpg",
+        "map_id": "943"
+    },
+    {
+        "plant_name": "Euryale ferox SALISB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/945.jpg",
+        "map_id": "945"
+    },
+    {
+        "plant_name": "Evodia lunu-ankenda MERRILL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/946.jpg",
+        "map_id": "946"
+    },
+    {
+        "plant_name": "Evodia roxburghiana BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/946.jpg",
+        "map_id": "946"
+    },
+    {
+        "plant_name": "Evolvulus alsinoides L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/949.jpg",
+        "map_id": "949"
+    },
+    {
+        "plant_name": "Evolvulus emarginatus BURM.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1419.jpg",
+        "map_id": "1419"
+    },
+    {
+        "plant_name": "Excoecaria agallocha L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/951.jpg",
+        "map_id": "951"
+    },
+    {
+        "plant_name": "Fagonia arabica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/954.jpg",
+        "map_id": "954"
+    },
+    {
+        "plant_name": "Fagonia cretica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/954.jpg",
+        "map_id": "954"
+    },
+    {
+        "plant_name": "Fagonia indica L. Var. schweinfurthii HADIDI",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/954.jpg",
+        "map_id": "954"
+    },
+    {
+        "plant_name": "Ferula jaeschkeana VATKE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/961.jpg",
+        "map_id": "961"
+    },
+    {
+        "plant_name": "Ferula narthex BOISS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/962.jpg",
+        "map_id": "962"
+    },
+    {
+        "plant_name": "Ficus amplissima SMITH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/994.jpg",
+        "map_id": "994"
+    },
+    {
+        "plant_name": "Ficus arnottiana (MIQ.) MIQ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/958.jpg",
+        "map_id": "958"
+    },
+    {
+        "plant_name": "Ficus bengalensis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/969.jpg",
+        "map_id": "969"
+    },
+    {
+        "plant_name": "Ficus dalhousiae MIQ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/971.jpg",
+        "map_id": "971"
+    },
+    {
+        "plant_name": "Ficus religiosa L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/987.jpg",
+        "map_id": "987"
+    },
+    {
+        "plant_name": "Ficus tsiela ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/994.jpg",
+        "map_id": "994"
+    },
+    {
+        "plant_name": "Ficus tsjakela BURM .F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/993.jpg",
+        "map_id": "993"
+    },
+    {
+        "plant_name": "Flacourtia cataphracta ROXB. EX WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1002.jpg",
+        "map_id": "1002"
+    },
+    {
+        "plant_name": "Flacourtia indica (BURM.F.)",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1000.jpg",
+        "map_id": "1000"
+    },
+    {
+        "plant_name": "Flacourtia jangomas (LOUR.) RAEUSCH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1002.jpg",
+        "map_id": "1002"
+    },
+    {
+        "plant_name": "Flacourtia sepiaria ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1000.jpg",
+        "map_id": "1000"
+    },
+    {
+        "plant_name": "Flemingia congesta ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1006.jpg",
+        "map_id": "1006"
+    },
+    {
+        "plant_name": "Flemingia macrophylla (WILLD.) O.KTZE. EX MERR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1006.jpg",
+        "map_id": "1006"
+    },
+    {
+        "plant_name": "Flemingia stricta ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1006.jpg",
+        "map_id": "1006"
+    },
+    {
+        "plant_name": "Flickingeria macraei (LINDL.)  BENNET",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1009.jpg",
+        "map_id": "1009"
+    },
+    {
+        "plant_name": "Flickingeria nodosa (DALZ.) SEIDENF.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1011.jpg",
+        "map_id": "1011"
+    },
+    {
+        "plant_name": "Fluegea leucopyrus WIGHT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1883.jpg",
+        "map_id": "1883"
+    },
+    {
+        "plant_name": "Flueggea leucopyrus WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1883.jpg",
+        "map_id": "1883"
+    },
+    {
+        "plant_name": "Fraxinus floribunda WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1018.jpg",
+        "map_id": "1018"
+    },
+    {
+        "plant_name": "Fritillaria roylei HOOK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1019.jpg",
+        "map_id": "1019"
+    },
+    {
+        "plant_name": "Fumaria indica PUGSLEY",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1023.jpg",
+        "map_id": "1023"
+    },
+    {
+        "plant_name": "Fumaria parviflora AUCT. NON. LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1023.jpg",
+        "map_id": "1023"
+    },
+    {
+        "plant_name": "Fumaria vaillantii LOISEL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1023.jpg",
+        "map_id": "1023"
+    },
+    {
+        "plant_name": "Galega purpurea L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2057.jpg",
+        "map_id": "2057"
+    },
+    {
+        "plant_name": "Garcinia cambogia GAERTN. DESR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4811.jpg",
+        "map_id": "4811"
+    },
+    {
+        "plant_name": "Garcinia gummi-gutta (L.) ROBS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4811.jpg",
+        "map_id": "4811"
+    },
+    {
+        "plant_name": "Garcinia indica (DUP.) CHOISY",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1027.jpg",
+        "map_id": "1027"
+    },
+    {
+        "plant_name": "Garcinia morella (GAERTN.) DESR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1029.jpg",
+        "map_id": "1029"
+    },
+    {
+        "plant_name": "Garcinia pedunculata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1030.jpg",
+        "map_id": "1030"
+    },
+    {
+        "plant_name": "Garcinia pictoria ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1031.jpg",
+        "map_id": "1031"
+    },
+    {
+        "plant_name": "Garcinia purpurea G.DON.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1027.jpg",
+        "map_id": "1027"
+    },
+    {
+        "plant_name": "Garcinia tinctoria (DC.) W.F. WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1032.jpg",
+        "map_id": "1032"
+    },
+    {
+        "plant_name": "Garcinia xanthochymus HOOK.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1032.jpg",
+        "map_id": "1032"
+    },
+    {
+        "plant_name": "Gardenia dumetorum RETZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/477.jpg",
+        "map_id": "477"
+    },
+    {
+        "plant_name": "Gardenia floribunda ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/477.jpg",
+        "map_id": "477"
+    },
+    {
+        "plant_name": "Gardenia gummifera L.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1035.jpg",
+        "map_id": "1035"
+    },
+    {
+        "plant_name": "Gardenia lucida ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1038.jpg",
+        "map_id": "1038"
+    },
+    {
+        "plant_name": "Gardenia resinifera ROTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1038.jpg",
+        "map_id": "1038"
+    },
+    {
+        "plant_name": "Garuga pinnata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1041.jpg",
+        "map_id": "1041"
+    },
+    {
+        "plant_name": "Gentiana kurroo ROYLE.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1044.jpg",
+        "map_id": "1044"
+    },
+    {
+        "plant_name": "Glinus dictamnoides BURM.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1049.jpg",
+        "map_id": "1049"
+    },
+    {
+        "plant_name": "Glinus lotoides L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1049.jpg",
+        "map_id": "1049"
+    },
+    {
+        "plant_name": "Glinus oppositifolius (L.) A.DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1050.jpg",
+        "map_id": "1050"
+    },
+    {
+        "plant_name": "Gloriosa superba L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1052.jpg",
+        "map_id": "1052"
+    },
+    {
+        "plant_name": "Glossocardia bosvallea DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1053.jpg",
+        "map_id": "1053"
+    },
+    {
+        "plant_name": "Glossocardia linearifolia CASS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1053.jpg",
+        "map_id": "1053"
+    },
+    {
+        "plant_name": "Glycine labialis L.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2064.jpg",
+        "map_id": "2064"
+    },
+    {
+        "plant_name": "Gmelina arborea L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1063.jpg",
+        "map_id": "1063"
+    },
+    {
+        "plant_name": "Gmelina asiatica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1064.jpg",
+        "map_id": "1064"
+    },
+    {
+        "plant_name": "Gratiola monnieria L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/269.jpg",
+        "map_id": "269"
+    },
+    {
+        "plant_name": "Grewia asiatica MAST.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4819.jpg",
+        "map_id": "4819"
+    },
+    {
+        "plant_name": "Grewia subinaequalis DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4819.jpg",
+        "map_id": "4819"
+    },
+    {
+        "plant_name": "Guilandina bonducella L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/384.jpg",
+        "map_id": "384"
+    },
+    {
+        "plant_name": "Gymnema aurantiaca WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1305.jpg",
+        "map_id": "1305"
+    },
+    {
+        "plant_name": "Gymnema spartium WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1307.jpg",
+        "map_id": "1307"
+    },
+    {
+        "plant_name": "Gymnema sylvestre R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1085.jpg",
+        "map_id": "1085"
+    },
+    {
+        "plant_name": "Gynandropsis gynandra BRIQUET",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/578.jpg",
+        "map_id": "578"
+    },
+    {
+        "plant_name": "Gynandropsis pentaphylla L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/578.jpg",
+        "map_id": "578"
+    },
+    {
+        "plant_name": "Gynocardia odorata R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1090.jpg",
+        "map_id": "1090"
+    },
+    {
+        "plant_name": "Habenaria edgeworthii HOOK. F. EX COLLETT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1093.jpg",
+        "map_id": "1093"
+    },
+    {
+        "plant_name": "Habenaria intermedia DON.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1094.jpg",
+        "map_id": "1094"
+    },
+    {
+        "plant_name": "Hardwickia binata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1102.jpg",
+        "map_id": "1102"
+    },
+    {
+        "plant_name": "Hedyotis corymbosa (L.) LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1107.jpg",
+        "map_id": "1107"
+    },
+    {
+        "plant_name": "Hedyotis herbacea L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1110.jpg",
+        "map_id": "1110"
+    },
+    {
+        "plant_name": "Hedyotis puberula R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1112.jpg",
+        "map_id": "1112"
+    },
+    {
+        "plant_name": "Hedyotis umbellata (L.) LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1112.jpg",
+        "map_id": "1112"
+    },
+    {
+        "plant_name": "Hedysarum alhagi L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/107.jpg",
+        "map_id": "107"
+    },
+    {
+        "plant_name": "Hedysarum gangeticum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/789.jpg",
+        "map_id": "789"
+    },
+    {
+        "plant_name": "Hedysarum triflorum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/798.jpg",
+        "map_id": "798"
+    },
+    {
+        "plant_name": "Hedysarum tuberosum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1770.jpg",
+        "map_id": "1770"
+    },
+    {
+        "plant_name": "Helicanthes elastica (DESR.) DANSER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4679.jpg",
+        "map_id": "4679"
+    },
+    {
+        "plant_name": "Helicteres isora L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1116.jpg",
+        "map_id": "1116"
+    },
+    {
+        "plant_name": "Helicteres isora L. Var. tomentosa -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1116.jpg",
+        "map_id": "1116"
+    },
+    {
+        "plant_name": "Heliotropium indicum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1119.jpg",
+        "map_id": "1119"
+    },
+    {
+        "plant_name": "Heliotropium keralense SIV. & MANL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1121.jpg",
+        "map_id": "1121"
+    },
+    {
+        "plant_name": "Heliotropium rariflorum STOCKS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1122.jpg",
+        "map_id": "1122"
+    },
+    {
+        "plant_name": "Hemidesmus indicus (L.) SCHULT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1125.jpg",
+        "map_id": "1125"
+    },
+    {
+        "plant_name": "Hemionitis arifolia (BURM.) MOORE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1127.jpg",
+        "map_id": "1127"
+    },
+    {
+        "plant_name": "Herpestis monniera (L.) H.B. & K.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/269.jpg",
+        "map_id": "269"
+    },
+    {
+        "plant_name": "Hesperethusa crenulata (ROXB.) M. ROEM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1502.jpg",
+        "map_id": "1502"
+    },
+    {
+        "plant_name": "Hibiscus abelmoschus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/7.jpg",
+        "map_id": "7"
+    },
+    {
+        "plant_name": "Hibiscus cancellatus ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1.jpg",
+        "map_id": "1"
+    },
+    {
+        "plant_name": "Hibiscus ficulneus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5.jpg",
+        "map_id": "5"
+    },
+    {
+        "plant_name": "Hibiscus tiliaceus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1137.jpg",
+        "map_id": "1137"
+    },
+    {
+        "plant_name": "Holarrhena antidysenterica (ROTH.) A.DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1140.jpg",
+        "map_id": "1140"
+    },
+    {
+        "plant_name": "Holarrhena pubescens (BUCH.-HAM.) WALLICH EX DO",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1140.jpg",
+        "map_id": "1140"
+    },
+    {
+        "plant_name": "Holoptelea integrifolia (ROXB.) PLANCHON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1142.jpg",
+        "map_id": "1142"
+    },
+    {
+        "plant_name": "Holostemma ada-kodien SCHULT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1143.jpg",
+        "map_id": "1143"
+    },
+    {
+        "plant_name": "Holostemma annulare (ROXB.) K.SCHUM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1143.jpg",
+        "map_id": "1143"
+    },
+    {
+        "plant_name": "Holostemma rheedianum SPRENG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1143.jpg",
+        "map_id": "1143"
+    },
+    {
+        "plant_name": "Holostemma rheedii WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1143.jpg",
+        "map_id": "1143"
+    },
+    {
+        "plant_name": "Homonoia riparia LOUR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1146.jpg",
+        "map_id": "1146"
+    },
+    {
+        "plant_name": "Hugonia mystax L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1149.jpg",
+        "map_id": "1149"
+    },
+    {
+        "plant_name": "Humboldtia vahliana WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1148.jpg",
+        "map_id": "1148"
+    },
+    {
+        "plant_name": "Hybanthus enneaspermus (L.F.) MUELL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1150.jpg",
+        "map_id": "1150"
+    },
+    {
+        "plant_name": "Hydnocarpus inebrians VAHL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1155.jpg",
+        "map_id": "1155"
+    },
+    {
+        "plant_name": "Hydnocarpus kurzii (KING) WARB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1152.jpg",
+        "map_id": "1152"
+    },
+    {
+        "plant_name": "Hydnocarpus laurifolia (DENNST.) STEUM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1155.jpg",
+        "map_id": "1155"
+    },
+    {
+        "plant_name": "Hydnocarpus pentandra (BUCH.-HAM.) OKEN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1155.jpg",
+        "map_id": "1155"
+    },
+    {
+        "plant_name": "Hydnocarpus wightiana BLUME",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1155.jpg",
+        "map_id": "1155"
+    },
+    {
+        "plant_name": "Hydrocotyle asiatica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/497.jpg",
+        "map_id": "497"
+    },
+    {
+        "plant_name": "Hygrophila auriculata (SCHUMACH.) HEINE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1158.jpg",
+        "map_id": "1158"
+    },
+    {
+        "plant_name": "Hygrophila schulli (HAM.) M.R. & S.M. ALMEIDA",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1158.jpg",
+        "map_id": "1158"
+    },
+    {
+        "plant_name": "Hygrophila spinosa T. ANDER.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1158.jpg",
+        "map_id": "1158"
+    },
+    {
+        "plant_name": "Hygroryza aristata NEES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1163.jpg",
+        "map_id": "1163"
+    },
+    {
+        "plant_name": "Hyoscyamus niger L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1166.jpg",
+        "map_id": "1166"
+    },
+    {
+        "plant_name": "Hypoxis orchioides KURZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/700.jpg",
+        "map_id": "700"
+    },
+    {
+        "plant_name": "Ichnocarpus frutescens R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1169.jpg",
+        "map_id": "1169"
+    },
+    {
+        "plant_name": "Illecebrum lanatum ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/65.jpg",
+        "map_id": "65"
+    },
+    {
+        "plant_name": "Imperata arundinacea CYR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1173.jpg",
+        "map_id": "1173"
+    },
+    {
+        "plant_name": "Imperata cylindrica (L.) RAEUSCH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1173.jpg",
+        "map_id": "1173"
+    },
+    {
+        "plant_name": "Indigofera argentea BURM.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1178.jpg",
+        "map_id": "1178"
+    },
+    {
+        "plant_name": "Inula racemosa HOOK. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1188.jpg",
+        "map_id": "1188"
+    },
+    {
+        "plant_name": "Inula royleana DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1189.jpg",
+        "map_id": "1189"
+    },
+    {
+        "plant_name": "Ionidium enneaspermum VENT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1150.jpg",
+        "map_id": "1150"
+    },
+    {
+        "plant_name": "Ionidium suffruticosum GING.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1150.jpg",
+        "map_id": "1150"
+    },
+    {
+        "plant_name": "Ipomoea biloba FORSSK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1204.jpg",
+        "map_id": "1204"
+    },
+    {
+        "plant_name": "Ipomoea digitata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1198.jpg",
+        "map_id": "1198"
+    },
+    {
+        "plant_name": "Ipomoea hederacea AUCT. NON JACQ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1202.jpg",
+        "map_id": "1202"
+    },
+    {
+        "plant_name": "Ipomoea mauritiana JACQ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1198.jpg",
+        "map_id": "1198"
+    },
+    {
+        "plant_name": "Ipomoea nil (L.) ROTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1202.jpg",
+        "map_id": "1202"
+    },
+    {
+        "plant_name": "Ipomoea obscura KER.-GAWL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1203.jpg",
+        "map_id": "1203"
+    },
+    {
+        "plant_name": "Ipomoea paniculata (L.) R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1198.jpg",
+        "map_id": "1198"
+    },
+    {
+        "plant_name": "Ipomoea pes-caprae (L,) R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1204.jpg",
+        "map_id": "1204"
+    },
+    {
+        "plant_name": "Ipomoea pes-tigridis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1206.jpg",
+        "map_id": "1206"
+    },
+    {
+        "plant_name": "Ipomoea reniformis (ROXB.) CHOISY",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1419.jpg",
+        "map_id": "1419"
+    },
+    {
+        "plant_name": "Ipomoea sepiaria ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1211.jpg",
+        "map_id": "1211"
+    },
+    {
+        "plant_name": "Ipomoea tridentata (L.)ROTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1213.jpg",
+        "map_id": "1213"
+    },
+    {
+        "plant_name": "Ipomoea turpethum (L..) R. BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1553.jpg",
+        "map_id": "1553"
+    },
+    {
+        "plant_name": "Iris ensata THUNB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1215.jpg",
+        "map_id": "1215"
+    },
+    {
+        "plant_name": "Iris germanica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1217.jpg",
+        "map_id": "1217"
+    },
+    {
+        "plant_name": "Ixora coccinea L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1222.jpg",
+        "map_id": "1222"
+    },
+    {
+        "plant_name": "Jatropha montana WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/279.jpg",
+        "map_id": "279"
+    },
+    {
+        "plant_name": "Juglans regia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1246.jpg",
+        "map_id": "1246"
+    },
+    {
+        "plant_name": "Juniperus communis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1247.jpg",
+        "map_id": "1247"
+    },
+    {
+        "plant_name": "Juniperus macropoda BOISS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/6177.jpg",
+        "map_id": "6177"
+    },
+    {
+        "plant_name": "Juniperus polycarpos C. KOCH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/6177.jpg",
+        "map_id": "6177"
+    },
+    {
+        "plant_name": "Jurinea dolomiaea BOISS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4195.jpg",
+        "map_id": "4195"
+    },
+    {
+        "plant_name": "Jurinea macrocephala (ROYLE) CL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4195.jpg",
+        "map_id": "4195"
+    },
+    {
+        "plant_name": "Jurinea macrophylla BTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4195.jpg",
+        "map_id": "4195"
+    },
+    {
+        "plant_name": "Justicia adhatoda L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1251.jpg",
+        "map_id": "1251"
+    },
+    {
+        "plant_name": "Justicia bicalyculata VAHL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1621.jpg",
+        "map_id": "1621"
+    },
+    {
+        "plant_name": "Justicia ecbolium L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/868.jpg",
+        "map_id": "868"
+    },
+    {
+        "plant_name": "Justicia paniculata (VAHL) CL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/181.jpg",
+        "map_id": "181"
+    },
+    {
+        "plant_name": "Kaempferia galanga L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1263.jpg",
+        "map_id": "1263"
+    },
+    {
+        "plant_name": "Kalanchoe laciniata (L.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1265.jpg",
+        "map_id": "1265"
+    },
+    {
+        "plant_name": "Kirganelia reticulata BAILL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1649.jpg",
+        "map_id": "1649"
+    },
+    {
+        "plant_name": "Lagenandra ovata (L.) THW.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2456.jpg",
+        "map_id": "2456"
+    },
+    {
+        "plant_name": "Lagenandra toxicaria (L.) THW.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2456.jpg",
+        "map_id": "2456"
+    },
+    {
+        "plant_name": "Lagerstroemia flos-reginae RETZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1278.jpg",
+        "map_id": "1278"
+    },
+    {
+        "plant_name": "Lagerstroemia speciosa (L.) PERS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1278.jpg",
+        "map_id": "1278"
+    },
+    {
+        "plant_name": "Lamprachaenium microcephalum BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1280.jpg",
+        "map_id": "1280"
+    },
+    {
+        "plant_name": "Lannea coromandelica (HOUTT.) MERRILL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1281.jpg",
+        "map_id": "1281"
+    },
+    {
+        "plant_name": "Lannea grandis (DENNST.) ENGL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1281.jpg",
+        "map_id": "1281"
+    },
+    {
+        "plant_name": "Lasia spinosa THW.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1285.jpg",
+        "map_id": "1285"
+    },
+    {
+        "plant_name": "Leptadenia pyrotechnica DCNE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1307.jpg",
+        "map_id": "1307"
+    },
+    {
+        "plant_name": "Leptadenia reticulata (RETZ.) WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1305.jpg",
+        "map_id": "1305"
+    },
+    {
+        "plant_name": "Leptadenia spartium WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1307.jpg",
+        "map_id": "1307"
+    },
+    {
+        "plant_name": "Lettsomia nervosa ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/219.jpg",
+        "map_id": "219"
+    },
+    {
+        "plant_name": "Leucas aspera (WILLD.) SPRENG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1313.jpg",
+        "map_id": "1313"
+    },
+    {
+        "plant_name": "Leucas plukenetii (ROTH) SPRENG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1313.jpg",
+        "map_id": "1313"
+    },
+    {
+        "plant_name": "Lilium polyphyllum DON.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1316.jpg",
+        "map_id": "1316"
+    },
+    {
+        "plant_name": "Limonia crenulata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1502.jpg",
+        "map_id": "1502"
+    },
+    {
+        "plant_name": "Lippia nodiflora MICH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1639.jpg",
+        "map_id": "1639"
+    },
+    {
+        "plant_name": "Litsea chinensis LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1329.jpg",
+        "map_id": "1329"
+    },
+    {
+        "plant_name": "Litsea citrata BL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1328.jpg",
+        "map_id": "1328"
+    },
+    {
+        "plant_name": "Litsea cubeba (LOUR.) PERS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1328.jpg",
+        "map_id": "1328"
+    },
+    {
+        "plant_name": "Litsea glutimosa (LOUR.) C.B. ROBINSON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1329.jpg",
+        "map_id": "1329"
+    },
+    {
+        "plant_name": "Litsea glutinosa (LOUR.) ROBINSON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1329.jpg",
+        "map_id": "1329"
+    },
+    {
+        "plant_name": "Litsea sebifera PERS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1329.jpg",
+        "map_id": "1329"
+    },
+    {
+        "plant_name": "Lobelia nicotianaefolia ROTH. EX. R. & S.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1333.jpg",
+        "map_id": "1333"
+    },
+    {
+        "plant_name": "Loranthus elasticus DESR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4679.jpg",
+        "map_id": "4679"
+    },
+    {
+        "plant_name": "Loranthus falcatus L.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/782.jpg",
+        "map_id": "782"
+    },
+    {
+        "plant_name": "Loranthus longiflorus DESR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/782.jpg",
+        "map_id": "782"
+    },
+    {
+        "plant_name": "Loranthus pentandrus HEYNE. EX SCHULT.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/782.jpg",
+        "map_id": "782"
+    },
+    {
+        "plant_name": "Luffa echinata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1351.jpg",
+        "map_id": "1351"
+    },
+    {
+        "plant_name": "Luvunga scandens (BLUME) KURZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1354.jpg",
+        "map_id": "1354"
+    },
+    {
+        "plant_name": "Macrotomia benthamii DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/225.jpg",
+        "map_id": "225"
+    },
+    {
+        "plant_name": "Madhuca indica GMEL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1360.jpg",
+        "map_id": "1360"
+    },
+    {
+        "plant_name": "Malaxis acuminata D.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/7559.jpg",
+        "map_id": "7559"
+    },
+    {
+        "plant_name": "Malaxis biloba (LINDL.) AMES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/7559.jpg",
+        "map_id": "7559"
+    },
+    {
+        "plant_name": "Malaxis muscifera (LINDLEY) KUNTZE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1369.jpg",
+        "map_id": "1369"
+    },
+    {
+        "plant_name": "Mallotus philippensis (LAM.) MUELL.-ARG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1370.jpg",
+        "map_id": "1370"
+    },
+    {
+        "plant_name": "Mammea longifolia PLANCH. & TRIANA.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2470.jpg",
+        "map_id": "2470"
+    },
+    {
+        "plant_name": "Mammea suriga (BUCH.-HAM. EX ROXB.)",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2470.jpg",
+        "map_id": "2470"
+    },
+    {
+        "plant_name": "Mangifera sylvatica ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1380.jpg",
+        "map_id": "1380"
+    },
+    {
+        "plant_name": "Marsdenia roylei WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1386.jpg",
+        "map_id": "1386"
+    },
+    {
+        "plant_name": "Marsdenia tenacissima (ROXB.) MOON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1387.jpg",
+        "map_id": "1387"
+    },
+    {
+        "plant_name": "Marsilea quadrifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1390.jpg",
+        "map_id": "1390"
+    },
+    {
+        "plant_name": "Martnia diandra GLOX.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1391.jpg",
+        "map_id": "1391"
+    },
+    {
+        "plant_name": "Martynia annua L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1391.jpg",
+        "map_id": "1391"
+    },
+    {
+        "plant_name": "Martynia diandra GLOX.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1391.jpg",
+        "map_id": "1391"
+    },
+    {
+        "plant_name": "Melastoma malabathricum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1397.jpg",
+        "map_id": "1397"
+    },
+    {
+        "plant_name": "Melia azadirachta L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/266.jpg",
+        "map_id": "266"
+    },
+    {
+        "plant_name": "Melia azedarach L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1398.jpg",
+        "map_id": "1398"
+    },
+    {
+        "plant_name": "Melothria maderaspatana (L.) COGN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1474.jpg",
+        "map_id": "1474"
+    },
+    {
+        "plant_name": "Memecylon angustifolium WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1408.jpg",
+        "map_id": "1408"
+    },
+    {
+        "plant_name": "Memecylon edule ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1410.jpg",
+        "map_id": "1410"
+    },
+    {
+        "plant_name": "Menispermum cocculus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/174.jpg",
+        "map_id": "174"
+    },
+    {
+        "plant_name": "Menispermum cordifolium WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2086.jpg",
+        "map_id": "2086"
+    },
+    {
+        "plant_name": "Mentha longifolia (L.) HUDS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1414.jpg",
+        "map_id": "1414"
+    },
+    {
+        "plant_name": "Merremia emarginata (BURM.F.) HALL.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1419.jpg",
+        "map_id": "1419"
+    },
+    {
+        "plant_name": "Merremia gangetica (L.) CUFO.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1419.jpg",
+        "map_id": "1419"
+    },
+    {
+        "plant_name": "Merremia hastata (DESR. ) HALLIER. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1213.jpg",
+        "map_id": "1213"
+    },
+    {
+        "plant_name": "Merremia tridentata (L.) HAILLIER Subsp. tridentata -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1213.jpg",
+        "map_id": "1213"
+    },
+    {
+        "plant_name": "Merremia tridentata (L.) HALL. F. Subsp. hastata (DESR.) OOST.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1213.jpg",
+        "map_id": "1213"
+    },
+    {
+        "plant_name": "Merremia tridentata (L.)H. HALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1213.jpg",
+        "map_id": "1213"
+    },
+    {
+        "plant_name": "Merremia turpethum RENDLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1553.jpg",
+        "map_id": "1553"
+    },
+    {
+        "plant_name": "Mesua ferrea L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1424.jpg",
+        "map_id": "1424"
+    },
+    {
+        "plant_name": "Mesua nagassarium (BURM.F.) KOSTERM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1424.jpg",
+        "map_id": "1424"
+    },
+    {
+        "plant_name": "Meyna laxiflora ROBYNS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1425.jpg",
+        "map_id": "1425"
+    },
+    {
+        "plant_name": "Microstylis muscifera RIDL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1369.jpg",
+        "map_id": "1369"
+    },
+    {
+        "plant_name": "Microstylis wallichii LINDL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/7559.jpg",
+        "map_id": "7559"
+    },
+    {
+        "plant_name": "Mimosa abstergens ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/36.jpg",
+        "map_id": "36"
+    },
+    {
+        "plant_name": "Mimosa amara ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/93.jpg",
+        "map_id": "93"
+    },
+    {
+        "plant_name": "Mimosa cineraria L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1735.jpg",
+        "map_id": "1735"
+    },
+    {
+        "plant_name": "Mimosa pudica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1432.jpg",
+        "map_id": "1432"
+    },
+    {
+        "plant_name": "Mimusops elengi L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1438.jpg",
+        "map_id": "1438"
+    },
+    {
+        "plant_name": "Modecca palmata LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/57.jpg",
+        "map_id": "57"
+    },
+    {
+        "plant_name": "Moghania macrophylla KUNTZE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1006.jpg",
+        "map_id": "1006"
+    },
+    {
+        "plant_name": "Mollugo cerviana SER.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1444.jpg",
+        "map_id": "1444"
+    },
+    {
+        "plant_name": "Mollugo hirta THUNB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1049.jpg",
+        "map_id": "1049"
+    },
+    {
+        "plant_name": "Mollugo lotoides (L.) O. KUNTZE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1049.jpg",
+        "map_id": "1049"
+    },
+    {
+        "plant_name": "Mollugo oppositifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1050.jpg",
+        "map_id": "1050"
+    },
+    {
+        "plant_name": "Mollugo spergula L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1050.jpg",
+        "map_id": "1050"
+    },
+    {
+        "plant_name": "Momordica dioica ROXB. EX WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1453.jpg",
+        "map_id": "1453"
+    },
+    {
+        "plant_name": "Monetia barlerioides L HERIT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/267.jpg",
+        "map_id": "267"
+    },
+    {
+        "plant_name": "Moniera cuneate -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/269.jpg",
+        "map_id": "269"
+    },
+    {
+        "plant_name": "Moniera cuneifolia MICHX.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/269.jpg",
+        "map_id": "269"
+    },
+    {
+        "plant_name": "Monochoria hastaefolia PRESL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2644.jpg",
+        "map_id": "2644"
+    },
+    {
+        "plant_name": "Monochoria hastata SOLMS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2644.jpg",
+        "map_id": "2644"
+    },
+    {
+        "plant_name": "Monochoria vaginalis PRESL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1459.jpg",
+        "map_id": "1459"
+    },
+    {
+        "plant_name": "Morinda citrifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1460.jpg",
+        "map_id": "1460"
+    },
+    {
+        "plant_name": "Morinda coreia BUCH.-HAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1461.jpg",
+        "map_id": "1461"
+    },
+    {
+        "plant_name": "Morinda pubescens J.E.SMITH IN REES Var. pubescens VERDC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1461.jpg",
+        "map_id": "1461"
+    },
+    {
+        "plant_name": "Morinda pubescens SM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1461.jpg",
+        "map_id": "1461"
+    },
+    {
+        "plant_name": "Morinda tinctoria ROXB. Var. tomentosa (ROTH) HK.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1461.jpg",
+        "map_id": "1461"
+    },
+    {
+        "plant_name": "Morinda tomentosa HEYNE EX ROTH",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1461.jpg",
+        "map_id": "1461"
+    },
+    {
+        "plant_name": "Moringa concanensis NIMMO EX DALZ. & GIBSON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1464.jpg",
+        "map_id": "1464"
+    },
+    {
+        "plant_name": "Moringa conconensis NIMMO.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1464.jpg",
+        "map_id": "1464"
+    },
+    {
+        "plant_name": "Mucuna pruriens (L.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1471.jpg",
+        "map_id": "1471"
+    },
+    {
+        "plant_name": "Mucuna prurita HOOK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1471.jpg",
+        "map_id": "1471"
+    },
+    {
+        "plant_name": "Mukia maderaspatana (L.) M.ROEMER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1474.jpg",
+        "map_id": "1474"
+    },
+    {
+        "plant_name": "Mukia scabrella (L..F.) ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1474.jpg",
+        "map_id": "1474"
+    },
+    {
+        "plant_name": "Mussaenda frondosa L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1483.jpg",
+        "map_id": "1483"
+    },
+    {
+        "plant_name": "Myrica esculenta BUCH.-HAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1485.jpg",
+        "map_id": "1485"
+    },
+    {
+        "plant_name": "Myrica sapida WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1485.jpg",
+        "map_id": "1485"
+    },
+    {
+        "plant_name": "Myristica dactyloides GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1489.jpg",
+        "map_id": "1489"
+    },
+    {
+        "plant_name": "Myristica malabarica LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1492.jpg",
+        "map_id": "1492"
+    },
+    {
+        "plant_name": "Myrsine africana L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1494.jpg",
+        "map_id": "1494"
+    },
+    {
+        "plant_name": "Myrtus caryophyllata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2025.jpg",
+        "map_id": "2025"
+    },
+    {
+        "plant_name": "Myxopyrum serratulum A.W. HILL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1495.jpg",
+        "map_id": "1495"
+    },
+    {
+        "plant_name": "Nardostachys grandiflora DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1498.jpg",
+        "map_id": "1498"
+    },
+    {
+        "plant_name": "Nardostachys jatamansi DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1498.jpg",
+        "map_id": "1498"
+    },
+    {
+        "plant_name": "Naregamia alata WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1501.jpg",
+        "map_id": "1501"
+    },
+    {
+        "plant_name": "Naringi crenulata (ROXB.) NICOLSON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1502.jpg",
+        "map_id": "1502"
+    },
+    {
+        "plant_name": "Nelumbium speciosum WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1504.jpg",
+        "map_id": "1504"
+    },
+    {
+        "plant_name": "Nelumbo nucifera GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1504.jpg",
+        "map_id": "1504"
+    },
+    {
+        "plant_name": "Nepeta malabarica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/190.jpg",
+        "map_id": "190"
+    },
+    {
+        "plant_name": "Nerium antidysentericum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1140.jpg",
+        "map_id": "1140"
+    },
+    {
+        "plant_name": "Nerium indicum MILLER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1506.jpg",
+        "map_id": "1506"
+    },
+    {
+        "plant_name": "Nerium odorum SOLANED",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1506.jpg",
+        "map_id": "1506"
+    },
+    {
+        "plant_name": "Nerium oleander L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1506.jpg",
+        "map_id": "1506"
+    },
+    {
+        "plant_name": "Nervilia aragoana GAUD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1510.jpg",
+        "map_id": "1510"
+    },
+    {
+        "plant_name": "Nervilia plicata SCHLTR",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1511.jpg",
+        "map_id": "1511"
+    },
+    {
+        "plant_name": "Nilgirianthus ciliatus (NEES) BREMEK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1515.jpg",
+        "map_id": "1515"
+    },
+    {
+        "plant_name": "Nymphaea alba L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1518.jpg",
+        "map_id": "1518"
+    },
+    {
+        "plant_name": "Nymphaea lotus HOOK. F.( NON L).",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1520.jpg",
+        "map_id": "1520"
+    },
+    {
+        "plant_name": "Nymphaea nouchali BURM. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1520.jpg",
+        "map_id": "1520"
+    },
+    {
+        "plant_name": "Nymphaea pubescens WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1520.jpg",
+        "map_id": "1520"
+    },
+    {
+        "plant_name": "Nymphaea rubra ROXB. EX ANDREWS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1520.jpg",
+        "map_id": "1520"
+    },
+    {
+        "plant_name": "Nymphoides macrospermum VASUDEVAN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1531.jpg",
+        "map_id": "1531"
+    },
+    {
+        "plant_name": "Ochrocarpus longifolius (WIGHT) T.ANDERSON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2470.jpg",
+        "map_id": "2470"
+    },
+    {
+        "plant_name": "Ocimum album L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1535.jpg",
+        "map_id": "1535"
+    },
+    {
+        "plant_name": "Ocimum americanum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1533.jpg",
+        "map_id": "1533"
+    },
+    {
+        "plant_name": "Ocimum basilicum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1535.jpg",
+        "map_id": "1535"
+    },
+    {
+        "plant_name": "Ocimum basilicum L. Var. basilicum -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1535.jpg",
+        "map_id": "1535"
+    },
+    {
+        "plant_name": "Ocimum canum SIMS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1533.jpg",
+        "map_id": "1533"
+    },
+    {
+        "plant_name": "Ocimum caryophyllatum SCHWEIG EX. SCHRAUK",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1535.jpg",
+        "map_id": "1535"
+    },
+    {
+        "plant_name": "Ocimum pilosum WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1535.jpg",
+        "map_id": "1535"
+    },
+    {
+        "plant_name": "Odina wodier ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1281.jpg",
+        "map_id": "1281"
+    },
+    {
+        "plant_name": "Oldenlandia corymbosa L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1107.jpg",
+        "map_id": "1107"
+    },
+    {
+        "plant_name": "Oldenlandia herbacea (L.) ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1110.jpg",
+        "map_id": "1110"
+    },
+    {
+        "plant_name": "Oldenlandia heynii BR. EX. G. DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1110.jpg",
+        "map_id": "1110"
+    },
+    {
+        "plant_name": "Oldenlandia umbellata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1112.jpg",
+        "map_id": "1112"
+    },
+    {
+        "plant_name": "Onosma bracteatum WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1549.jpg",
+        "map_id": "1549"
+    },
+    {
+        "plant_name": "Operculina turpethum (L.) S. MANSO",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1553.jpg",
+        "map_id": "1553"
+    },
+    {
+        "plant_name": "Ophelia angustifolia D.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2003.jpg",
+        "map_id": "2003"
+    },
+    {
+        "plant_name": "Ophioxylon serpentinum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1787.jpg",
+        "map_id": "1787"
+    },
+    {
+        "plant_name": "Orchis latifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/3511.jpg",
+        "map_id": "3511"
+    },
+    {
+        "plant_name": "Origanum vulgare L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1564.jpg",
+        "map_id": "1564"
+    },
+    {
+        "plant_name": "Oroxylum indicum (L.) VENT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1567.jpg",
+        "map_id": "1567"
+    },
+    {
+        "plant_name": "Orthosiphon glabratus BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1569.jpg",
+        "map_id": "1569"
+    },
+    {
+        "plant_name": "Orthosiphon thymiflorus (ROTH.) SLEASEN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1569.jpg",
+        "map_id": "1569"
+    },
+    {
+        "plant_name": "Oxalis corniculata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1576.jpg",
+        "map_id": "1576"
+    },
+    {
+        "plant_name": "Paederia foetida L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1580.jpg",
+        "map_id": "1580"
+    },
+    {
+        "plant_name": "Paeonia emodi WALL. EX. ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1581.jpg",
+        "map_id": "1581"
+    },
+    {
+        "plant_name": "Pandanus fascicularis LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1583.jpg",
+        "map_id": "1583"
+    },
+    {
+        "plant_name": "Pandanus odoratissimus L.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1583.jpg",
+        "map_id": "1583"
+    },
+    {
+        "plant_name": "Pandanus tectorius AUCT. NON SOLAND",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1583.jpg",
+        "map_id": "1583"
+    },
+    {
+        "plant_name": "Paris polyphylla SMITH",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1596.jpg",
+        "map_id": "1596"
+    },
+    {
+        "plant_name": "Passiflora foetida L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1601.jpg",
+        "map_id": "1601"
+    },
+    {
+        "plant_name": "Pavonia odorata WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1605.jpg",
+        "map_id": "1605"
+    },
+    {
+        "plant_name": "Pavonia zeylanica CAV.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1606.jpg",
+        "map_id": "1606"
+    },
+    {
+        "plant_name": "Pedalium murex L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1607.jpg",
+        "map_id": "1607"
+    },
+    {
+        "plant_name": "Peganum harmala L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1608.jpg",
+        "map_id": "1608"
+    },
+    {
+        "plant_name": "Pentatropis nivalis (GMEL.) FIELD & WOOD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1614.jpg",
+        "map_id": "1614"
+    },
+    {
+        "plant_name": "Pentatropis spiralis DECNE.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1614.jpg",
+        "map_id": "1614"
+    },
+    {
+        "plant_name": "Pergularia aktensa -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1617.jpg",
+        "map_id": "1617"
+    },
+    {
+        "plant_name": "Pergularia daemia (FORSK.) CHOIV.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1617.jpg",
+        "map_id": "1617"
+    },
+    {
+        "plant_name": "Pergularia extensa N.E.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1617.jpg",
+        "map_id": "1617"
+    },
+    {
+        "plant_name": "Periploca aphylla DECNE.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1620.jpg",
+        "map_id": "1620"
+    },
+    {
+        "plant_name": "Periploca indica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1125.jpg",
+        "map_id": "1125"
+    },
+    {
+        "plant_name": "Periploca sylvestris RETZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1085.jpg",
+        "map_id": "1085"
+    },
+    {
+        "plant_name": "Peristrophe bicalyculata NEES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1621.jpg",
+        "map_id": "1621"
+    },
+    {
+        "plant_name": "Peristrophe paniculata (FORSK.) BRUMMITT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1621.jpg",
+        "map_id": "1621"
+    },
+    {
+        "plant_name": "Peucedanum grande CL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1623.jpg",
+        "map_id": "1623"
+    },
+    {
+        "plant_name": "Pharbitis nil CHOIS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1202.jpg",
+        "map_id": "1202"
+    },
+    {
+        "plant_name": "Pharnaceum cerviana L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1444.jpg",
+        "map_id": "1444"
+    },
+    {
+        "plant_name": "Pharnaceum mollugo L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1050.jpg",
+        "map_id": "1050"
+    },
+    {
+        "plant_name": "Phaseolus dalzellii COOKE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2190.jpg",
+        "map_id": "2190"
+    },
+    {
+        "plant_name": "Phaseolus pauciflorus DALZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2190.jpg",
+        "map_id": "2190"
+    },
+    {
+        "plant_name": "Phoenix pusilla GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1633.jpg",
+        "map_id": "1633"
+    },
+    {
+        "plant_name": "Phyla nodiflora (L.) GREENE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1639.jpg",
+        "map_id": "1639"
+    },
+    {
+        "plant_name": "Phyllanthus amarus SCHUM. & THENN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1645.jpg",
+        "map_id": "1645"
+    },
+    {
+        "plant_name": "Phyllanthus emblica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/892.jpg",
+        "map_id": "892"
+    },
+    {
+        "plant_name": "Phyllanthus fraternus WEBSTER",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1645.jpg",
+        "map_id": "1645"
+    },
+    {
+        "plant_name": "Phyllanthus maderaspatensis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1648.jpg",
+        "map_id": "1648"
+    },
+    {
+        "plant_name": "Phyllanthus multiflorus WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1649.jpg",
+        "map_id": "1649"
+    },
+    {
+        "plant_name": "Phyllanthus niruri SENSU HOOK.F.Non Linn.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1645.jpg",
+        "map_id": "1645"
+    },
+    {
+        "plant_name": "Phyllanthus reticulatus POIR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1649.jpg",
+        "map_id": "1649"
+    },
+    {
+        "plant_name": "Phyllanthus urinaria L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1651.jpg",
+        "map_id": "1651"
+    },
+    {
+        "plant_name": "Physalis indica LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1654.jpg",
+        "map_id": "1654"
+    },
+    {
+        "plant_name": "Physalis minima L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1654.jpg",
+        "map_id": "1654"
+    },
+    {
+        "plant_name": "Picarasma guassioides -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1656.jpg",
+        "map_id": "1656"
+    },
+    {
+        "plant_name": "Picrasma quassioides BENNET",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1656.jpg",
+        "map_id": "1656"
+    },
+    {
+        "plant_name": "Picrorhiza kurroa ROYLE EX BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1658.jpg",
+        "map_id": "1658"
+    },
+    {
+        "plant_name": "Picrorhiza scrophulariiflora PENNELL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1657.jpg",
+        "map_id": "1657"
+    },
+    {
+        "plant_name": "Picrorrhiza kurrooa BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1658.jpg",
+        "map_id": "1658"
+    },
+    {
+        "plant_name": "Piliostigma malabaricum (ROXB.) BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/301.jpg",
+        "map_id": "301"
+    },
+    {
+        "plant_name": "Pinus deodara ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/485.jpg",
+        "map_id": "485"
+    },
+    {
+        "plant_name": "Pinus gerardiana WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1662.jpg",
+        "map_id": "1662"
+    },
+    {
+        "plant_name": "Pinus longifolia ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1663.jpg",
+        "map_id": "1663"
+    },
+    {
+        "plant_name": "Pinus roxburghii SARG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1663.jpg",
+        "map_id": "1663"
+    },
+    {
+        "plant_name": "Pinus webbiana WALL. EX. LAMB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/10.jpg",
+        "map_id": "10"
+    },
+    {
+        "plant_name": "Piper aurantiacum WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1682.jpg",
+        "map_id": "1682"
+    },
+    {
+        "plant_name": "Piper auranticum -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1682.jpg",
+        "map_id": "1682"
+    },
+    {
+        "plant_name": "Piper bachystachyum WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1676.jpg",
+        "map_id": "1676"
+    },
+    {
+        "plant_name": "Piper longum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1674.jpg",
+        "map_id": "1674"
+    },
+    {
+        "plant_name": "Piper mullesua D.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1676.jpg",
+        "map_id": "1676"
+    },
+    {
+        "plant_name": "Piper sylvaticum ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1681.jpg",
+        "map_id": "1681"
+    },
+    {
+        "plant_name": "Piper wallichii (MIQ.) HAND-MAZZ",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1682.jpg",
+        "map_id": "1682"
+    },
+    {
+        "plant_name": "Pistacia chinensis BUNGE Subsp. integerrima (STEW) RECH.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1686.jpg",
+        "map_id": "1686"
+    },
+    {
+        "plant_name": "Pistacia integerrima STEW. EX BRANDIS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1686.jpg",
+        "map_id": "1686"
+    },
+    {
+        "plant_name": "Pistacia khinjuk STOCKS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1686.jpg",
+        "map_id": "1686"
+    },
+    {
+        "plant_name": "Plantago erosa WALL. IN ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1696.jpg",
+        "map_id": "1696"
+    },
+    {
+        "plant_name": "Plantago lanceolata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1695.jpg",
+        "map_id": "1695"
+    },
+    {
+        "plant_name": "Plantago major L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1696.jpg",
+        "map_id": "1696"
+    },
+    {
+        "plant_name": "Plantago media L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1696.jpg",
+        "map_id": "1696"
+    },
+    {
+        "plant_name": "Plantago ovata FORSK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1697.jpg",
+        "map_id": "1697"
+    },
+    {
+        "plant_name": "Pluchea lanceolata OLIVER & HIERN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1704.jpg",
+        "map_id": "1704"
+    },
+    {
+        "plant_name": "Plumbago zeylanica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1709.jpg",
+        "map_id": "1709"
+    },
+    {
+        "plant_name": "Poa cynosuroides RETZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/801.jpg",
+        "map_id": "801"
+    },
+    {
+        "plant_name": "Podophyllum emodi WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1713.jpg",
+        "map_id": "1713"
+    },
+    {
+        "plant_name": "Podophyllum hexandrum ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1713.jpg",
+        "map_id": "1713"
+    },
+    {
+        "plant_name": "Pogostemon heyneanus BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1716.jpg",
+        "map_id": "1716"
+    },
+    {
+        "plant_name": "Poinciana elata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/772.jpg",
+        "map_id": "772"
+    },
+    {
+        "plant_name": "Polanisia felina DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/577.jpg",
+        "map_id": "577"
+    },
+    {
+        "plant_name": "Polanisia icosandra WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/579.jpg",
+        "map_id": "579"
+    },
+    {
+        "plant_name": "Polygonatum cirrhifolium ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1720.jpg",
+        "map_id": "1720"
+    },
+    {
+        "plant_name": "Polygonatum verticillatum (L.) ALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1721.jpg",
+        "map_id": "1721"
+    },
+    {
+        "plant_name": "Polygonum aviculare L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1722.jpg",
+        "map_id": "1722"
+    },
+    {
+        "plant_name": "Pongamia glabra VENT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/788.jpg",
+        "map_id": "788"
+    },
+    {
+        "plant_name": "Pongamia pinnata (L.) PIERRE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/788.jpg",
+        "map_id": "788"
+    },
+    {
+        "plant_name": "Pontederia vaginalis BLANCO",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2644.jpg",
+        "map_id": "2644"
+    },
+    {
+        "plant_name": "Portulaca oleracea L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1725.jpg",
+        "map_id": "1725"
+    },
+    {
+        "plant_name": "Potentilla nepalensis HOOK.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1727.jpg",
+        "map_id": "1727"
+    },
+    {
+        "plant_name": "Pothos officinalis ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1877.jpg",
+        "map_id": "1877"
+    },
+    {
+        "plant_name": "Prangos pabularia LINDL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/382.jpg",
+        "map_id": "382"
+    },
+    {
+        "plant_name": "Premna integrifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1730.jpg",
+        "map_id": "1730"
+    },
+    {
+        "plant_name": "Premna latifolia ROXB. Var. mucronata C.B. CLARKE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1734.jpg",
+        "map_id": "1734"
+    },
+    {
+        "plant_name": "Premna mucronata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1734.jpg",
+        "map_id": "1734"
+    },
+    {
+        "plant_name": "Premna obtusifolia R. BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1730.jpg",
+        "map_id": "1730"
+    },
+    {
+        "plant_name": "Premna serratifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1730.jpg",
+        "map_id": "1730"
+    },
+    {
+        "plant_name": "Premna spinosa ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1730.jpg",
+        "map_id": "1730"
+    },
+    {
+        "plant_name": "Prosopis cineraria (L.) DRUCE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1735.jpg",
+        "map_id": "1735"
+    },
+    {
+        "plant_name": "Prosopis spicigera L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1735.jpg",
+        "map_id": "1735"
+    },
+    {
+        "plant_name": "Prunus cerasoides D.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1747.jpg",
+        "map_id": "1747"
+    },
+    {
+        "plant_name": "Prunus puddum (WALL.) ROXB. EX BRANDIS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1747.jpg",
+        "map_id": "1747"
+    },
+    {
+        "plant_name": "Pseudarthria viscida WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1755.jpg",
+        "map_id": "1755"
+    },
+    {
+        "plant_name": "Psoralea corylifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1761.jpg",
+        "map_id": "1761"
+    },
+    {
+        "plant_name": "Pterocarpus marsupium ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1763.jpg",
+        "map_id": "1763"
+    },
+    {
+        "plant_name": "Pterocarpus santalinus L.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1764.jpg",
+        "map_id": "1764"
+    },
+    {
+        "plant_name": "Pterospermum canescens ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1767.jpg",
+        "map_id": "1767"
+    },
+    {
+        "plant_name": "Pterospermum suberifolium (L.) LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1767.jpg",
+        "map_id": "1767"
+    },
+    {
+        "plant_name": "Pueraria tuberosa (ROXB. EX. WILLD.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1770.jpg",
+        "map_id": "1770"
+    },
+    {
+        "plant_name": "Puneeria coagulans STOCKS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2229.jpg",
+        "map_id": "2229"
+    },
+    {
+        "plant_name": "Punica granatum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1771.jpg",
+        "map_id": "1771"
+    },
+    {
+        "plant_name": "Quassia indica (GAERTN.) NOOTEBOOM",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2854.jpg",
+        "map_id": "2854"
+    },
+    {
+        "plant_name": "Quercus incana ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1778.jpg",
+        "map_id": "1778"
+    },
+    {
+        "plant_name": "Quercus leucotrichophora A. CAMUS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1778.jpg",
+        "map_id": "1778"
+    },
+    {
+        "plant_name": "Radermachera xylocarpa (ROXB.) SCHUM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1780.jpg",
+        "map_id": "1780"
+    },
+    {
+        "plant_name": "Randia dumetorum LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/477.jpg",
+        "map_id": "477"
+    },
+    {
+        "plant_name": "Randia longispina DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/477.jpg",
+        "map_id": "477"
+    },
+    {
+        "plant_name": "Randia spinosa POIR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/477.jpg",
+        "map_id": "477"
+    },
+    {
+        "plant_name": "Ranunculus sceleratus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1785.jpg",
+        "map_id": "1785"
+    },
+    {
+        "plant_name": "Rauvolfia serpentina (L.) BENTH. EX KURZ",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1787.jpg",
+        "map_id": "1787"
+    },
+    {
+        "plant_name": "Rhabdia lycioides SENU CL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1814.jpg",
+        "map_id": "1814"
+    },
+    {
+        "plant_name": "Rhaphidophora laciniata (BURM.F.) MERR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2574.jpg",
+        "map_id": "2574"
+    },
+    {
+        "plant_name": "Rhaphidophora pertusa SCHOTT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2574.jpg",
+        "map_id": "2574"
+    },
+    {
+        "plant_name": "Rheum australe D.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1792.jpg",
+        "map_id": "1792"
+    },
+    {
+        "plant_name": "Rheum emodi WALL. EX MEIM",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1792.jpg",
+        "map_id": "1792"
+    },
+    {
+        "plant_name": "Rheum moorcroftianum ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1794.jpg",
+        "map_id": "1794"
+    },
+    {
+        "plant_name": "Rheum nobile HOOK.F. & THOMS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1795.jpg",
+        "map_id": "1795"
+    },
+    {
+        "plant_name": "Rheum spiciforeme ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1799.jpg",
+        "map_id": "1799"
+    },
+    {
+        "plant_name": "Rheum spiciforme ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1799.jpg",
+        "map_id": "1799"
+    },
+    {
+        "plant_name": "Rheum webbianum ROYLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1800.jpg",
+        "map_id": "1800"
+    },
+    {
+        "plant_name": "Rhododendron anthopogon D.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1803.jpg",
+        "map_id": "1803"
+    },
+    {
+        "plant_name": "Rhododendron arboreum SM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1804.jpg",
+        "map_id": "1804"
+    },
+    {
+        "plant_name": "Rhus succedanea L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1806.jpg",
+        "map_id": "1806"
+    },
+    {
+        "plant_name": "Rosa brunonii LINDL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4528.jpg",
+        "map_id": "4528"
+    },
+    {
+        "plant_name": "Rosa moschata HERRM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4528.jpg",
+        "map_id": "4528"
+    },
+    {
+        "plant_name": "Rotula aquatica LOUR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1814.jpg",
+        "map_id": "1814"
+    },
+    {
+        "plant_name": "Saccharum munja ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1831.jpg",
+        "map_id": "1831"
+    },
+    {
+        "plant_name": "Saccharum sara ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1831.jpg",
+        "map_id": "1831"
+    },
+    {
+        "plant_name": "Saccharum spontaneum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1834.jpg",
+        "map_id": "1834"
+    },
+    {
+        "plant_name": "Saccolabium papillosum LINDL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/40.jpg",
+        "map_id": "40"
+    },
+    {
+        "plant_name": "Salacia chinensis L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1835.jpg",
+        "map_id": "1835"
+    },
+    {
+        "plant_name": "Salacia reticulata WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1836.jpg",
+        "map_id": "1836"
+    },
+    {
+        "plant_name": "Salix tetrasperma ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1838.jpg",
+        "map_id": "1838"
+    },
+    {
+        "plant_name": "Salmalia malabarica SCHOTT & ENDL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/339.jpg",
+        "map_id": "339"
+    },
+    {
+        "plant_name": "Salvadora oleoides DECNE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1839.jpg",
+        "map_id": "1839"
+    },
+    {
+        "plant_name": "Salvadora persica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1841.jpg",
+        "map_id": "1841"
+    },
+    {
+        "plant_name": "Salvadora persica L. Var. wightiana (PLANCH EX THW.) VERDC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1841.jpg",
+        "map_id": "1841"
+    },
+    {
+        "plant_name": "Salvia aegyptiaca L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1842.jpg",
+        "map_id": "1842"
+    },
+    {
+        "plant_name": "Salvia plebeia R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1843.jpg",
+        "map_id": "1843"
+    },
+    {
+        "plant_name": "Samadera indica GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2854.jpg",
+        "map_id": "2854"
+    },
+    {
+        "plant_name": "Samadera lucida WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2854.jpg",
+        "map_id": "2854"
+    },
+    {
+        "plant_name": "Santalum album L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1849.jpg",
+        "map_id": "1849"
+    },
+    {
+        "plant_name": "Sapindus emarginatus VAHL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1851.jpg",
+        "map_id": "1851"
+    },
+    {
+        "plant_name": "Sapindus mukorossi GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1854.jpg",
+        "map_id": "1854"
+    },
+    {
+        "plant_name": "Saraca asoca (ROXB.) DE WILDE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1857.jpg",
+        "map_id": "1857"
+    },
+    {
+        "plant_name": "Saraca indica AUCT. NON L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1857.jpg",
+        "map_id": "1857"
+    },
+    {
+        "plant_name": "Saussurea auriculata (DC.) SCH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1867.jpg",
+        "map_id": "1867"
+    },
+    {
+        "plant_name": "Saussurea costus (FALC.) LIPSCH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/3970.jpg",
+        "map_id": "3970"
+    },
+    {
+        "plant_name": "Saussurea lappa C.B.CL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/3970.jpg",
+        "map_id": "3970"
+    },
+    {
+        "plant_name": "Saxifraga ligulata WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/313.jpg",
+        "map_id": "313"
+    },
+    {
+        "plant_name": "Schizachyrium exile STAPF.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1871.jpg",
+        "map_id": "1871"
+    },
+    {
+        "plant_name": "Schleichera oleosa (LOUR.) OKEN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1872.jpg",
+        "map_id": "1872"
+    },
+    {
+        "plant_name": "Schleichera trijuga WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1872.jpg",
+        "map_id": "1872"
+    },
+    {
+        "plant_name": "Schlerichera trijuga WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1872.jpg",
+        "map_id": "1872"
+    },
+    {
+        "plant_name": "Schrebera swietenioides ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1873.jpg",
+        "map_id": "1873"
+    },
+    {
+        "plant_name": "Schweinfurthia papilionacea MERRILL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4559.jpg",
+        "map_id": "4559"
+    },
+    {
+        "plant_name": "Schweinfurthia sphaerocarpa A.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4559.jpg",
+        "map_id": "4559"
+    },
+    {
+        "plant_name": "Scindapsus officinalis SCHOTT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1877.jpg",
+        "map_id": "1877"
+    },
+    {
+        "plant_name": "Scolopia aculeata SM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2092.jpg",
+        "map_id": "2092"
+    },
+    {
+        "plant_name": "Securinega leucopyrus (WILLD.) MUELL.-ARG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1883.jpg",
+        "map_id": "1883"
+    },
+    {
+        "plant_name": "Selinum candollei DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1886.jpg",
+        "map_id": "1886"
+    },
+    {
+        "plant_name": "Selinum tenuifolium WALL. EX DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1886.jpg",
+        "map_id": "1886"
+    },
+    {
+        "plant_name": "Semecarpus anacardium L. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1888.jpg",
+        "map_id": "1888"
+    },
+    {
+        "plant_name": "Seseli diffusum (ROXB. EX. SM.) SAMT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1903.jpg",
+        "map_id": "1903"
+    },
+    {
+        "plant_name": "Seseli indicum WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1903.jpg",
+        "map_id": "1903"
+    },
+    {
+        "plant_name": "Shorea robusta GAERTN. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1908.jpg",
+        "map_id": "1908"
+    },
+    {
+        "plant_name": "Sida acuta BURM. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1909.jpg",
+        "map_id": "1909"
+    },
+    {
+        "plant_name": "Sida carpinifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1909.jpg",
+        "map_id": "1909"
+    },
+    {
+        "plant_name": "Sida cordifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1915.jpg",
+        "map_id": "1915"
+    },
+    {
+        "plant_name": "Sida lanceolata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1909.jpg",
+        "map_id": "1909"
+    },
+    {
+        "plant_name": "Sida mauritiana JACQ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/18.jpg",
+        "map_id": "18"
+    },
+    {
+        "plant_name": "Sida rhombifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1918.jpg",
+        "map_id": "1918"
+    },
+    {
+        "plant_name": "Sida rhombifolia L. Subsp. rhombifolia -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1918.jpg",
+        "map_id": "1918"
+    },
+    {
+        "plant_name": "Sideroxylon spinosum WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1000.jpg",
+        "map_id": "1000"
+    },
+    {
+        "plant_name": "Sisymbrium irio L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1928.jpg",
+        "map_id": "1928"
+    },
+    {
+        "plant_name": "Smilax aspera L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1929.jpg",
+        "map_id": "1929"
+    },
+    {
+        "plant_name": "Smilax lanceifolia ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1932.jpg",
+        "map_id": "1932"
+    },
+    {
+        "plant_name": "Smilax zeylanica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1934.jpg",
+        "map_id": "1934"
+    },
+    {
+        "plant_name": "Solanum americanum MILL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1952.jpg",
+        "map_id": "1952"
+    },
+    {
+        "plant_name": "Solanum anguivi LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1938.jpg",
+        "map_id": "1938"
+    },
+    {
+        "plant_name": "Solanum indicum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1938.jpg",
+        "map_id": "1938"
+    },
+    {
+        "plant_name": "Solanum jacquini WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1960.jpg",
+        "map_id": "1960"
+    },
+    {
+        "plant_name": "Solanum nigrum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1952.jpg",
+        "map_id": "1952"
+    },
+    {
+        "plant_name": "Solanum sarmentosum NEES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1960.jpg",
+        "map_id": "1960"
+    },
+    {
+        "plant_name": "Solanum surattense BURM. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1960.jpg",
+        "map_id": "1960"
+    },
+    {
+        "plant_name": "Solanum trilobatum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1957.jpg",
+        "map_id": "1957"
+    },
+    {
+        "plant_name": "Solanum violaceum ORTEGA",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1938.jpg",
+        "map_id": "1938"
+    },
+    {
+        "plant_name": "Solanum virginianum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1960.jpg",
+        "map_id": "1960"
+    },
+    {
+        "plant_name": "Solanum xanthocarpum SCHRAD & WENDL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1960.jpg",
+        "map_id": "1960"
+    },
+    {
+        "plant_name": "Soymida febrifuga (ROXB.) A.JUSS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1964.jpg",
+        "map_id": "1964"
+    },
+    {
+        "plant_name": "Spermacoce articularis L.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4536.jpg",
+        "map_id": "4536"
+    },
+    {
+        "plant_name": "Spermacoce hispida L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1967.jpg",
+        "map_id": "1967"
+    },
+    {
+        "plant_name": "Sphaeranthus africanus L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1968.jpg",
+        "map_id": "1968"
+    },
+    {
+        "plant_name": "Sphaeranthus microcephalus DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1968.jpg",
+        "map_id": "1968"
+    },
+    {
+        "plant_name": "Sphaeranthus senegalensis DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2898.jpg",
+        "map_id": "2898"
+    },
+    {
+        "plant_name": "Spondias acuminata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1976.jpg",
+        "map_id": "1976"
+    },
+    {
+        "plant_name": "Spondias mangifera WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1976.jpg",
+        "map_id": "1976"
+    },
+    {
+        "plant_name": "Spondias pinnata (L.F.) KURZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1976.jpg",
+        "map_id": "1976"
+    },
+    {
+        "plant_name": "Stephania glabra (THUNB.) MIERS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1977.jpg",
+        "map_id": "1977"
+    },
+    {
+        "plant_name": "Sterculia foetida L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1983.jpg",
+        "map_id": "1983"
+    },
+    {
+        "plant_name": "Sterculia urens ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1982.jpg",
+        "map_id": "1982"
+    },
+    {
+        "plant_name": "Stereospermum chelonoides (L.F.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1984.jpg",
+        "map_id": "1984"
+    },
+    {
+        "plant_name": "Stereospermum colais (DILLWYN) MABB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1987.jpg",
+        "map_id": "1987"
+    },
+    {
+        "plant_name": "Stereospermum personatum (HASSK.) CHATTERJEE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1987.jpg",
+        "map_id": "1987"
+    },
+    {
+        "plant_name": "Stereospermum suaveolens DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1984.jpg",
+        "map_id": "1984"
+    },
+    {
+        "plant_name": "Stereospermum tetragonum DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1987.jpg",
+        "map_id": "1987"
+    },
+    {
+        "plant_name": "Stereospermum xylocarpum WIGHT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1780.jpg",
+        "map_id": "1780"
+    },
+    {
+        "plant_name": "Streblus asper LOUR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1989.jpg",
+        "map_id": "1989"
+    },
+    {
+        "plant_name": "Strobilanthes ciliatus NEES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1515.jpg",
+        "map_id": "1515"
+    },
+    {
+        "plant_name": "Strychnos colubrina AUCTT. PL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1994.jpg",
+        "map_id": "1994"
+    },
+    {
+        "plant_name": "Strychnos minor DENNST.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1993.jpg",
+        "map_id": "1993"
+    },
+    {
+        "plant_name": "Strychnos nux-vomica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1995.jpg",
+        "map_id": "1995"
+    },
+    {
+        "plant_name": "Strychnos potatorum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1996.jpg",
+        "map_id": "1996"
+    },
+    {
+        "plant_name": "Stylocoryne lucens GAMBLE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1997.jpg",
+        "map_id": "1997"
+    },
+    {
+        "plant_name": "Swertia alata ROYLE EX. D.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2002.jpg",
+        "map_id": "2002"
+    },
+    {
+        "plant_name": "Swertia anguestifolia BUCH.-HAM. EX D. DON. Var. PULCHELLA BURKILL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2003.jpg",
+        "map_id": "2003"
+    },
+    {
+        "plant_name": "Swertia angustifolia HAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2003.jpg",
+        "map_id": "2003"
+    },
+    {
+        "plant_name": "Swertia lawii BURKILL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2012.jpg",
+        "map_id": "2012"
+    },
+    {
+        "plant_name": "Swertia pulchella C.B. CLARKE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2003.jpg",
+        "map_id": "2003"
+    },
+    {
+        "plant_name": "Swietenia febrifuga ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1964.jpg",
+        "map_id": "1964"
+    },
+    {
+        "plant_name": "Symplocos beddomei C.B.CLARKE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2020.jpg",
+        "map_id": "2020"
+    },
+    {
+        "plant_name": "Symplocos cochinchinensis S.MOORE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2017.jpg",
+        "map_id": "2017"
+    },
+    {
+        "plant_name": "Symplocos cochinchinensis S.MOORE Subsp. laurina (RETZ.) NOOTEBOOM Var. laurina -",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2015.jpg",
+        "map_id": "2015"
+    },
+    {
+        "plant_name": "Symplocos crataegoides BUCH.-HAM. EX.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2018.jpg",
+        "map_id": "2018"
+    },
+    {
+        "plant_name": "Symplocos paniculata (THUNB.) MIQ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2018.jpg",
+        "map_id": "2018"
+    },
+    {
+        "plant_name": "Symplocos racemosa ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2020.jpg",
+        "map_id": "2020"
+    },
+    {
+        "plant_name": "Symplocos spicata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2015.jpg",
+        "map_id": "2015"
+    },
+    {
+        "plant_name": "Synantherias sylvatica SCHOTT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4158.jpg",
+        "map_id": "4158"
+    },
+    {
+        "plant_name": "Syzygium caryophyllaeum AUCT.NON GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2025.jpg",
+        "map_id": "2025"
+    },
+    {
+        "plant_name": "Syzygium caryophyllatum (L.) ALSTON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2025.jpg",
+        "map_id": "2025"
+    },
+    {
+        "plant_name": "Syzygium cumini (L.) SKEELS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2029.jpg",
+        "map_id": "2029"
+    },
+    {
+        "plant_name": "Syzygium jambolana DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2029.jpg",
+        "map_id": "2029"
+    },
+    {
+        "plant_name": "Syzygium jambolanum DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2029.jpg",
+        "map_id": "2029"
+    },
+    {
+        "plant_name": "Tacca aspera ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2039.jpg",
+        "map_id": "2039"
+    },
+    {
+        "plant_name": "Tacca integrifolia KER-GAWL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2039.jpg",
+        "map_id": "2039"
+    },
+    {
+        "plant_name": "Tamarix gallica AUCT. NON.L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2046.jpg",
+        "map_id": "2046"
+    },
+    {
+        "plant_name": "Tamarix indica ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2046.jpg",
+        "map_id": "2046"
+    },
+    {
+        "plant_name": "Tamarix troupii HOLE.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2046.jpg",
+        "map_id": "2046"
+    },
+    {
+        "plant_name": "Taraktogenos kurzii KING",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1152.jpg",
+        "map_id": "1152"
+    },
+    {
+        "plant_name": "Taxus baccata L. Subsp. wallichiana Zucc.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/6368.jpg",
+        "map_id": "6368"
+    },
+    {
+        "plant_name": "Taxus wallichiana ZUCC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/6368.jpg",
+        "map_id": "6368"
+    },
+    {
+        "plant_name": "Tecoma undulata G.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2052.jpg",
+        "map_id": "2052"
+    },
+    {
+        "plant_name": "Tecomella undulata (SM.)SEEM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2052.jpg",
+        "map_id": "2052"
+    },
+    {
+        "plant_name": "Teona ciliata ROEM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/484.jpg",
+        "map_id": "484"
+    },
+    {
+        "plant_name": "Tephrosia hamiltonii J.R.DRUMM",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2057.jpg",
+        "map_id": "2057"
+    },
+    {
+        "plant_name": "Tephrosia purpurea PERS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2057.jpg",
+        "map_id": "2057"
+    },
+    {
+        "plant_name": "Teramnus labialis (L.F.) SPRENG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2064.jpg",
+        "map_id": "2064"
+    },
+    {
+        "plant_name": "Terminalia alata HEYNE EX ROTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2066.jpg",
+        "map_id": "2066"
+    },
+    {
+        "plant_name": "Terminalia arjuna (ROXB.) WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2068.jpg",
+        "map_id": "2068"
+    },
+    {
+        "plant_name": "Terminalia bellerica ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5728.jpg",
+        "map_id": "5728"
+    },
+    {
+        "plant_name": "Terminalia bellerica ROXB. Var. laurinoides CL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5728.jpg",
+        "map_id": "5728"
+    },
+    {
+        "plant_name": "Terminalia bellirica (GAERTN.) ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/5728.jpg",
+        "map_id": "5728"
+    },
+    {
+        "plant_name": "Terminalia chebula RETZ. & WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2072.jpg",
+        "map_id": "2072"
+    },
+    {
+        "plant_name": "Terminalia crenulata ROTH",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2075.jpg",
+        "map_id": "2075"
+    },
+    {
+        "plant_name": "Terminalia myriocarpa HEURCK & MUELL-ARG.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2076.jpg",
+        "map_id": "2076"
+    },
+    {
+        "plant_name": "Terminalia paniculata ROTH",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2077.jpg",
+        "map_id": "2077"
+    },
+    {
+        "plant_name": "Terminalia reticulata ROTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2072.jpg",
+        "map_id": "2072"
+    },
+    {
+        "plant_name": "Terminalia tomentosa (ROXB.) WIGHT. & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2066.jpg",
+        "map_id": "2066"
+    },
+    {
+        "plant_name": "Tetracera scandens (L.) MERR",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4296.jpg",
+        "map_id": "4296"
+    },
+    {
+        "plant_name": "Thalictrum foliolosum DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2078.jpg",
+        "map_id": "2078"
+    },
+    {
+        "plant_name": "Thymus linearis BENTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2082.jpg",
+        "map_id": "2082"
+    },
+    {
+        "plant_name": "Thymus serpyllum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2082.jpg",
+        "map_id": "2082"
+    },
+    {
+        "plant_name": "Tiaridium indicum LEHM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1119.jpg",
+        "map_id": "1119"
+    },
+    {
+        "plant_name": "Tinospora cordifolia (WILLD.) HOOK.F. & THOMS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2086.jpg",
+        "map_id": "2086"
+    },
+    {
+        "plant_name": "Tinospora malabarica (LAM.) HOOK F. & THOMS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2089.jpg",
+        "map_id": "2089"
+    },
+    {
+        "plant_name": "Tinospora sinensis (LOUR.) MERR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2089.jpg",
+        "map_id": "2089"
+    },
+    {
+        "plant_name": "Tinospora tomentosa (COLEBR.) HOOK. F. & THOMS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2089.jpg",
+        "map_id": "2089"
+    },
+    {
+        "plant_name": "Toddalia aculeata PERS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2092.jpg",
+        "map_id": "2092"
+    },
+    {
+        "plant_name": "Toddalia asiatica (L.) LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2092.jpg",
+        "map_id": "2092"
+    },
+    {
+        "plant_name": "Toddalia bilocularis W. & A.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2173.jpg",
+        "map_id": "2173"
+    },
+    {
+        "plant_name": "Toona ciliata ROEM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/484.jpg",
+        "map_id": "484"
+    },
+    {
+        "plant_name": "Trachyspermum roxburghianum (DC.) CRAIB",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2098.jpg",
+        "map_id": "2098"
+    },
+    {
+        "plant_name": "Tragia bicolor MIQ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2100.jpg",
+        "map_id": "2100"
+    },
+    {
+        "plant_name": "Tragia involucrata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2104.jpg",
+        "map_id": "2104"
+    },
+    {
+        "plant_name": "Trianthema decandra L. MANT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2246.jpg",
+        "map_id": "2246"
+    },
+    {
+        "plant_name": "Trianthema monogyna L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2112.jpg",
+        "map_id": "2112"
+    },
+    {
+        "plant_name": "Trianthema portulacastrum L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2112.jpg",
+        "map_id": "2112"
+    },
+    {
+        "plant_name": "Tribulus terrestris L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2114.jpg",
+        "map_id": "2114"
+    },
+    {
+        "plant_name": "Trichilia spinosa WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/260.jpg",
+        "map_id": "260"
+    },
+    {
+        "plant_name": "Trichodesma zeylanicum R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2117.jpg",
+        "map_id": "2117"
+    },
+    {
+        "plant_name": "Tricholepis glaberrima DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2118.jpg",
+        "map_id": "2118"
+    },
+    {
+        "plant_name": "Trichosanthes bracteata (LAM.) VOIGT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2125.jpg",
+        "map_id": "2125"
+    },
+    {
+        "plant_name": "Trichosanthes cordata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2120.jpg",
+        "map_id": "2120"
+    },
+    {
+        "plant_name": "Trichosanthes cucumerina L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2121.jpg",
+        "map_id": "2121"
+    },
+    {
+        "plant_name": "Trichosanthes laciniosa WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2125.jpg",
+        "map_id": "2125"
+    },
+    {
+        "plant_name": "Trichosanthes lobata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2127.jpg",
+        "map_id": "2127"
+    },
+    {
+        "plant_name": "Trichosanthes palmata ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2125.jpg",
+        "map_id": "2125"
+    },
+    {
+        "plant_name": "Trichosanthes tricuspidata LOUR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2125.jpg",
+        "map_id": "2125"
+    },
+    {
+        "plant_name": "Tridax procumbens L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2128.jpg",
+        "map_id": "2128"
+    },
+    {
+        "plant_name": "Trigonella corniculata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2131.jpg",
+        "map_id": "2131"
+    },
+    {
+        "plant_name": "Trophis aspera RETZ.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1989.jpg",
+        "map_id": "1989"
+    },
+    {
+        "plant_name": "Tylophora asthmatica WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2141.jpg",
+        "map_id": "2141"
+    },
+    {
+        "plant_name": "Tylophora indica (BURM.F.) MERRILL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2141.jpg",
+        "map_id": "2141"
+    },
+    {
+        "plant_name": "Uncaria sessilifructus ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2150.jpg",
+        "map_id": "2150"
+    },
+    {
+        "plant_name": "Unona narum DUN",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2160.jpg",
+        "map_id": "2160"
+    },
+    {
+        "plant_name": "Uraria hamosa WALL. EX WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2155.jpg",
+        "map_id": "2155"
+    },
+    {
+        "plant_name": "Uraria lagopodioides DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2152.jpg",
+        "map_id": "2152"
+    },
+    {
+        "plant_name": "Uraria picta DESV.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2154.jpg",
+        "map_id": "2154"
+    },
+    {
+        "plant_name": "Uraria rufescens (DC.) SCHINDL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2155.jpg",
+        "map_id": "2155"
+    },
+    {
+        "plant_name": "Urginea indica (ROXB) KUNTH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/856.jpg",
+        "map_id": "856"
+    },
+    {
+        "plant_name": "Urtica dioica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2159.jpg",
+        "map_id": "2159"
+    },
+    {
+        "plant_name": "Uvaria narum (DUNAL) WALL EX WIGHT",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2160.jpg",
+        "map_id": "2160"
+    },
+    {
+        "plant_name": "Valeriana hardwickii WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2161.jpg",
+        "map_id": "2161"
+    },
+    {
+        "plant_name": "Valeriana jatamansi JONES",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1500.jpg",
+        "map_id": "1500"
+    },
+    {
+        "plant_name": "Valeriana pyrolaefolia DENE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2163.jpg",
+        "map_id": "2163"
+    },
+    {
+        "plant_name": "Valeriana wallichii DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1500.jpg",
+        "map_id": "1500"
+    },
+    {
+        "plant_name": "Vanda roxburghii R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2168.jpg",
+        "map_id": "2168"
+    },
+    {
+        "plant_name": "Vanda tessellata (ROXB.) DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2168.jpg",
+        "map_id": "2168"
+    },
+    {
+        "plant_name": "Vangueria spinosa SENSU HOOK.F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1425.jpg",
+        "map_id": "1425"
+    },
+    {
+        "plant_name": "Vateria indica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2170.jpg",
+        "map_id": "2170"
+    },
+    {
+        "plant_name": "Vateria malabarica BLUME",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2170.jpg",
+        "map_id": "2170"
+    },
+    {
+        "plant_name": "Ventilago madraspatana GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2172.jpg",
+        "map_id": "2172"
+    },
+    {
+        "plant_name": "Vepris bilocularis (WIGHT & ARN.) ENGL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2173.jpg",
+        "map_id": "2173"
+    },
+    {
+        "plant_name": "Verbena nodiflora L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1639.jpg",
+        "map_id": "1639"
+    },
+    {
+        "plant_name": "Vernonia anthelmintica (L.) WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/502.jpg",
+        "map_id": "502"
+    },
+    {
+        "plant_name": "Vernonia cinerea LESS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2175.jpg",
+        "map_id": "2175"
+    },
+    {
+        "plant_name": "Vetiveria zizanioides (L.) NASH",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2177.jpg",
+        "map_id": "2177"
+    },
+    {
+        "plant_name": "Viburnum cylindricum BUCH.-HAM.EX D.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2178.jpg",
+        "map_id": "2178"
+    },
+    {
+        "plant_name": "Viburnum foetidum WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2179.jpg",
+        "map_id": "2179"
+    },
+    {
+        "plant_name": "Viburnum nervosum D.DON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2180.jpg",
+        "map_id": "2180"
+    },
+    {
+        "plant_name": "Vigna dalzelliana (O.KTZE ) VERDC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2190.jpg",
+        "map_id": "2190"
+    },
+    {
+        "plant_name": "Vigna vexillata (L.) A. RICH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2203.jpg",
+        "map_id": "2203"
+    },
+    {
+        "plant_name": "Viola cinerea BOISS.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2206.jpg",
+        "map_id": "2206"
+    },
+    {
+        "plant_name": "Viola odorata L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2207.jpg",
+        "map_id": "2207"
+    },
+    {
+        "plant_name": "Viola pilosa BI.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4076.jpg",
+        "map_id": "4076"
+    },
+    {
+        "plant_name": "Viola serpens WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4076.jpg",
+        "map_id": "4076"
+    },
+    {
+        "plant_name": "Viola suffruticosa L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1150.jpg",
+        "map_id": "1150"
+    },
+    {
+        "plant_name": "Viscum album L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2209.jpg",
+        "map_id": "2209"
+    },
+    {
+        "plant_name": "Vitex leucoxylon SCHAU",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2213.jpg",
+        "map_id": "2213"
+    },
+    {
+        "plant_name": "Vitex negundo L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2214.jpg",
+        "map_id": "2214"
+    },
+    {
+        "plant_name": "Vitex paniculata LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2214.jpg",
+        "map_id": "2214"
+    },
+    {
+        "plant_name": "Vitex peduncularis WALL .",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2219.jpg",
+        "map_id": "2219"
+    },
+    {
+        "plant_name": "Vitis araneosus DALZ. & GIBS. EX M.LAWS",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/166.jpg",
+        "map_id": "166"
+    },
+    {
+        "plant_name": "Vitis carnosa (ROXB.) WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/481.jpg",
+        "map_id": "481"
+    },
+    {
+        "plant_name": "Vitis pedata VAHL EX WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/3203.jpg",
+        "map_id": "3203"
+    },
+    {
+        "plant_name": "Vitis quadrangularis WALT EX WIGHT & ARN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/547.jpg",
+        "map_id": "547"
+    },
+    {
+        "plant_name": "Vitis trifolia L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/481.jpg",
+        "map_id": "481"
+    },
+    {
+        "plant_name": "Withania coagulans DUNAL",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2229.jpg",
+        "map_id": "2229"
+    },
+    {
+        "plant_name": "Woodfordia floribunda SALISB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2234.jpg",
+        "map_id": "2234"
+    },
+    {
+        "plant_name": "Woodfordia fruticosa (L.) KURZ",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2234.jpg",
+        "map_id": "2234"
+    },
+    {
+        "plant_name": "Wrightia antidysenterica GRAH.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1140.jpg",
+        "map_id": "1140"
+    },
+    {
+        "plant_name": "Wrightia arborea (DENNST.) MABB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2236.jpg",
+        "map_id": "2236"
+    },
+    {
+        "plant_name": "Wrightia tinctoria R.BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2239.jpg",
+        "map_id": "2239"
+    },
+    {
+        "plant_name": "Wrightia tomentosa R.& S.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2236.jpg",
+        "map_id": "2236"
+    },
+    {
+        "plant_name": "Wrightia zeylanica R. BR.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/1140.jpg",
+        "map_id": "1140"
+    },
+    {
+        "plant_name": "Xeromphis spinosa (THUNB.) KEAY",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/477.jpg",
+        "map_id": "477"
+    },
+    {
+        "plant_name": "Ximenia aegyptiaca L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/271.jpg",
+        "map_id": "271"
+    },
+    {
+        "plant_name": "Xylia xylocarpa (ROXB.) TAUB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2243.jpg",
+        "map_id": "2243"
+    },
+    {
+        "plant_name": "Xyris indica L.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2245.jpg",
+        "map_id": "2245"
+    },
+    {
+        "plant_name": "Zaleya decandra (L.) BURM. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2246.jpg",
+        "map_id": "2246"
+    },
+    {
+        "plant_name": "Zalia decandra (L.) BURM. F.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2246.jpg",
+        "map_id": "2246"
+    },
+    {
+        "plant_name": "Zanthoxylum acanthopodium DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2249.jpg",
+        "map_id": "2249"
+    },
+    {
+        "plant_name": "Zanthoxylum alatum ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2252.jpg",
+        "map_id": "2252"
+    },
+    {
+        "plant_name": "Zanthoxylum armatum DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2252.jpg",
+        "map_id": "2252"
+    },
+    {
+        "plant_name": "Zanthoxylum budrunga (ROXB.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2254.jpg",
+        "map_id": "2254"
+    },
+    {
+        "plant_name": "Zanthoxylum hostile WALL.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2249.jpg",
+        "map_id": "2249"
+    },
+    {
+        "plant_name": "Zanthoxylum limonella (DENNST.) ALSTON",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2254.jpg",
+        "map_id": "2254"
+    },
+    {
+        "plant_name": "Zanthoxylum rhetsa (ROXB.) DC.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2254.jpg",
+        "map_id": "2254"
+    },
+    {
+        "plant_name": "Zanthoxylum triphyllum WIGHT.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/946.jpg",
+        "map_id": "946"
+    },
+    {
+        "plant_name": "Ziziphus glabrata HEYNE",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2265.jpg",
+        "map_id": "2265"
+    },
+    {
+        "plant_name": "Ziziphus jujuba LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2266.jpg",
+        "map_id": "2266"
+    },
+    {
+        "plant_name": "Ziziphus mauritiana LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2266.jpg",
+        "map_id": "2266"
+    },
+    {
+        "plant_name": "Ziziphus sativa GAERTN.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4517.jpg",
+        "map_id": "4517"
+    },
+    {
+        "plant_name": "Ziziphus trinervia ROXB.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2265.jpg",
+        "map_id": "2265"
+    },
+    {
+        "plant_name": "Ziziphus vulgaris LAM.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/4517.jpg",
+        "map_id": "4517"
+    },
+    {
+        "plant_name": "Ziziphus xylopyrus WILLD.",
+        "distribution_map_url": "http://envis.frlht.org/distrimaps/geomaps/2275.jpg",
+        "map_id": "2275"
+    }
+]
