@@ -5,7 +5,7 @@
 
 This project focuses on collecting, organizing, and cleaning information from the **Medicinal Plants Database** maintained by the **Foundation for Revitalisation of Local Health Traditions (FRLHT)**.
 
-The objective of this project is to create a structured, cleaned, and searchable dataset containing information about medicinal plants used across different traditional systems of medicine in India. These cleaned datasets will serve as the foundation for a future **Multimodal Retrieval-Augmented Generation (RAG)** system for Ayurvedic knowledge retrieval.
+The objective of this project is to create a structured, cleaned, and searchable dataset containing information about medicinal plants used across different traditional systems of medicine in India. These datasets have been cleaned and integrated into a unified medicinal plant knowledge base, which serves as the foundation for a future Multimodal Retrieval-Augmented Generation (RAG) system for Ayurvedic knowledge retrieval.
 
 ---
 
@@ -13,7 +13,8 @@ The objective of this project is to create a structured, cleaned, and searchable
 
 ## 1. Medicinal Plant Database
 
-A total of **7263 medicinal plant records** were collected.
+Raw medicinal plant records collected: 7,263
+Final integrated unique medicinal plant records: 5,730
 
 The dataset contains:
 
@@ -208,6 +209,36 @@ data/static_pages/
 
 ---
 
+
+# 9. Integrated Medicinal Knowledge Base
+
+The cleaned datasets were integrated into a unified knowledge base by linking botanical records with distribution data, medicinal system links, Ayurvedic identity information, and Sanskrit Shlokas.
+
+Each plant record includes:
+
+- Plant ID
+- Botanical Name
+- Family
+- Systems of Medicine
+- Synonyms
+- Vernacular Names
+- Distribution Information
+- System Links
+- Ayurvedic Identity
+- Sanskrit Shlokas (where available)
+
+Output:
+
+```text
+data/integrated/medicinal_knowledge_base.json
+```
+Integration Summary
+Total Plants: 5730
+Plants with Distribution Data: 629
+Plants with Ayurvedic Identity: 841
+Total Shloka Attachments: 773
+---
+
 # Project Structure
 
 ```text
@@ -230,6 +261,11 @@ Medicinal-Plant-Database
 │   │   ├── distribution_clean.json
 │   │   └── distribution_bibliography_clean.json
 │   │
+│   ├── integrated
+│   │   ├── knowledge_base_step1.json
+│   │   ├── knowledge_base_step2.json
+│   │   └── medicinal_knowledge_base.json
+│   │
 │   ├── statewise_pdfs
 │   ├── trade_pdfs
 │   ├── trade_text
@@ -237,13 +273,17 @@ Medicinal-Plant-Database
 │
 ├── scripts
 │   ├── scraping
-│   └── cleaning
-│       ├── clean_medicinal_plants.py
-│       ├── clean_systems_links.py
-│       ├── clean_distribution.py
-│       ├── clean_distribution_bibliography.py
-│       ├── clean_identity_shlokas.py
-│       └── check_cleaned_json.py
+│   │
+│   ├── cleaning
+│   │   ├── clean_medicinal_plants.py
+│   │   ├── clean_systems_links.py
+│   │   ├── clean_distribution_plants.py
+│   │   ├── clean_distribution_bibliography.py
+│   │   ├── clean_identity_shlokas.py
+│   │   └── check_cleaned_json.py
+│   │
+│   └── integration
+│       └── integrate_datasets.py
 │
 ├── src
 ├── tests
@@ -281,6 +321,26 @@ data/cleaned/
 ```
 
 ---
+# Data Integration
+
+The cleaned datasets were merged into a unified medicinal plant knowledge base.
+
+The integration process linked:
+
+- Botanical plant records
+- Distribution information
+- Medicinal system links
+- Ayurvedic identity records
+- Sanskrit Shlokas
+
+The resulting knowledge base stores all available information for each medicinal plant in a single JSON document.
+
+Output:
+
+```text
+data/integrated/medicinal_knowledge_base.json
+```
+---
 
 # Technologies Used
 
@@ -290,12 +350,24 @@ data/cleaned/
 * Selenium
 * Pandas
 * PyMuPDF
-* OCR Processing
+* EasyOCR
 * JSON
 * Git
 * GitHub
 
 ---
+
+## Current Status
+
+✅ Web scraping completed
+
+✅ Data cleaning completed
+
+✅ Data integration completed
+
+🚧 RAG pipeline under development
+
+🚧 Chatbot under development
 
 # Contributors
 
