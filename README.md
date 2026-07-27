@@ -382,7 +382,3 @@ This project was created for educational and research purposes. All data belongs
 
 ---
 
-### A couple of small suggestions
-
-* If you rename `distribution_clean.json` to `distribution_maps_clean.json`, update the README accordingly so it's consistent with `distribution_bibliography_clean.json`.
-* In the project structure, list your actual cleaning script names (for example, `clean_distribution_bibliography.py`) exactly as they appear in the repository. This avoids confusion for anyone trying to run them.
