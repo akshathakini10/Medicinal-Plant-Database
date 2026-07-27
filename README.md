@@ -4,7 +4,7 @@
 
 This project focuses on collecting and organizing information from the Medicinal Plants Database maintained by FRLHT (Foundation for Revitalisation of Local Health Traditions).
 
-The objective of this project is to create a structured and searchable dataset containing information about medicinal plants used across different traditional systems of medicine in India.
+The objective of this project is to create a structured, cleaned, and searchable dataset containing information about medicinal plants used across different traditional systems of medicine in India. The cleaned datasets will serve as the foundation for a future Multimodal Retrieval-Augmented Generation (RAG) system for Ayurvedic knowledge retrieval.
 
 ---
 
@@ -45,10 +45,17 @@ The dataset contains:
 * Discussion
 * References
 
-Dataset:
+Dataset (Raw):
 
 ```text
-data/ayurvedic_identity_full.csv
+data/raw/ayurvedic_identity_full.csv
+```
+
+---
+
+Cleaned Dataset:
+```text
+data/cleaned/ayurvedic_identity_clean.json
 ```
 
 ---
@@ -66,10 +73,16 @@ The dataset contains:
 * English Explanations
 * References
 
-Dataset:
+Dataset (Raw):
 
 ```text
-data/shlokas_full.csv
+data/raw/shlokas_full.csv
+```
+
+Cleaned Data : 
+
+```text
+data/cleaned/shlokas_clean.json
 ```
 
 ---
@@ -83,10 +96,10 @@ The dataset contains:
 * Plant Name
 * Distribution Map URL
 
-Dataset:
+Dataset (Raw):
 
 ```text
-data/distribution_maps.csv
+data/raw/distribution_maps.csv
 ```
 
 ---
@@ -161,40 +174,79 @@ data/static_pages/
 ## Project Structure
 
 ```text
-MedicinalPlantScraper
+Medicinal-Plant-Database
 │
 ├── data
-│   ├── final_medicinal_plants.csv
-│   ├── ayurvedic_identity_full.csv
-│   ├── shlokas_full.csv
-│   ├── distribution_maps.csv
+│   ├── raw
+│   │   ├── final_medicinal_plants.csv
+│   │   ├── ayurvedic_identity_full.csv
+│   │   ├── shlokas_full.csv
+│   │   ├── distribution_maps.csv
+│   │   └── all_systems_links.csv
+│   │
+│   ├── cleaned
+│   │   ├── medicinal_plants_clean.json
+│   │   ├── systems_links_clean.json
+│   │   ├── distribution_clean.json
+│   │   ├── ayurvedic_identity_clean.json
+│   │   └── shlokas_clean.json
+│   │
 │   ├── statewise_pdfs
 │   ├── trade_pdfs
 │   ├── trade_text
 │   └── static_pages
 │
-├── src
-│   ├── scrape_all_system_links.py
-│   ├── scrape_final_dataset.py
-│   ├── scrape_distribution_maps.py
-│   ├── scrape_ayurvedic_identity.py
-│   ├── scrape_shlokas.py
-│   ├── scrape_static_pages.py
-│   └── supporting scripts
+├── scripts
+│   └── cleaning
+│       ├── clean_medicinal_plants.py
+│       ├── clean_systems_links.py
+│       ├── clean_distribution_plants.py
+│       ├── clean_identity_shlokas.py
+│       └── check_cleaned_json.py
 │
 └── README.md
 ```
 
 ---
 
+
+## Data Cleaning
+
+The collected datasets were cleaned and standardized before being stored in JSON format.
+
+Cleaning operations performed include:
+
+- Removed duplicate records
+- Trimmed leading and trailing whitespace
+- Normalized multiple spaces
+- Standardized column names
+- Preserved Sanskrit Unicode characters
+- Represented missing values using `null`
+- Validated cleaned JSON files
+
+Cleaned datasets are available in:
+
+```text
+data/cleaned/
+├── medicinal_plants_clean.json
+├── systems_links_clean.json
+├── distribution_clean.json
+├── ayurvedic_identity_clean.json
+└── shlokas_clean.json
+```
+
 ## Technologies Used
 
 * Python
 * Requests
 * BeautifulSoup
+* Selenium
 * Pandas
 * PyMuPDF
 * OCR Processing
+* JSON
+* Git
+* GitHub
 
 ---
 
