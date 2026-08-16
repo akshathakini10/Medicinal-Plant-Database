@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ba3adaacf639a91ab1ff1a0730de05be
+Botanical Name: Ailanthus altissima SWINGLE
+Family: Simaroubaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ailanthus glandulosa DESF.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. English (1) - tree of heaven Hindi (1) - ailanthus Tamil (1) - perumaram
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3adaacf639a91ab1ff1a0730de05be/xclkon/4d86219fcc073a95ffb00206443749fd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3adaacf639a91ab1ff1a0730de05be
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3adaacf639a91ab1ff1a0730de05be/xclkon/4d86219fcc073a95ffb00206443749fd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3adaacf639a91ab1ff1a0730de05be
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba3adaacf639a91ab1ff1a0730de05be/xclkon/4d86219fcc073a95ffb00206443749fd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,109 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6508eac4f485855d8583f31fc94a2c57
+Botanical Name: Cassia auriculata L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 188 Vernacular names found in 7 languages. Hindi (9) - anwal, aval, awai, tarawar, taroda, tarval, tarvar, tarwan, tarwar Kannada (30) - aavarike, athi, avara, avara-gida, avarakka, avarike, avarikke, bobbade, cakusina, chaknsiva, chakoosina gida, charma hada aavarike, chookusina gida, honnaavare, honnaavarike, honnarike, honnavari gida, honnavarike, olaniyaro, olle thangadi, olletangadi, olletangedi, olletangedu, sakusina, tangadi, tangadi-gida, tangedi, taravada, taravada-gida, thangadi Malayalam (7) - avara, avarakka, avaram, aveeram, aviram, jimute, ponnaviram Marathi (8) - arsuai, avul, taravada, taroda, tarvad, tarwad, tarwar, tharoda Sanskrit (20) - Sanskrit Comments  adarisimbi, ahula, ahulya, ahulyam, avartaki, avarttaki, awarteki, bhumyahulya, carmaranga, charamranga, charmaranga, mandari, mayahari, mayharie, pitakalika, pitakilaka, pitapuspa, talopota, timirihari, visanika Tamil (102) - aavaarai, aavarai, akuli, anakavarai, anakavaraicceti, avarai, avarai#, avarai@, avaraicceti, avaram, avaram@, avary, avavirai, avaviraicceti, avirae, avirai, avirai arici, aviraittol, aviraiyilai, avirantol, aviri, aviricceti, cakacaka, cakuli, canakkirampul, caruvantirakam, catilaka, catilakacceti, catinakam, catinam, catirakuli, caturkkalicceti, caturkkuli, caturkuli, cemmai, cemmala, cemmalai, cemmalaviraicceti, ceppalai, cicuravikam, cittiraippal 2, corikkattai, cularai, cummai, cutcumapattiram, cuvarnaputpatam, emaputpi, ilanci, kapalacanti, kapalatti, kapalatticceti, kari 1, karikacceti, katavukacikacceti, katavukacikam, kotaikkuvatan@, kotakacalai 1, mancalavarai, mekacatturu, mekamaki, mekari, mekari 3, mikupattam, mikupattavarai, muntakaveni, muntakavenicceti, nattavarai, nattunilavarai, patarai 2, pataraicceti, periyaavirai, periyatakarai, peyaviram, pitantavarai, pitaputpi, pitattavarai, rukkumam, sadurguli, sadurgulu, semmalai, summai, talapattiram, talapetam, talapotakam, talapotam, talapotam#, talapotam@, talapotavirai, tamirakari, tankamavarai, tavapotakam, turonikai, turonikaivirai, tuvakai, vanamakiyamuli, vanamakumuli, vanamikumuli, vanamikuntamulicceti, vanamulikai, vanatteri, vanattericceti, varnaputpakam Telugu (12) - avaray, merakatangedu, merakathangedu, merikatangaru, merka tangedu, tangar, tangedu, tangera, tanghedu, tangheroo, thangedu, thangera
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 463
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/463.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6508eac4f485855d8583f31fc94a2c57
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Adarisimbi
+sanskrit_name: आदारिशिम्बी
+transliteration: ādāriśimbī
+ref_drug_name: आदारिशिम्बी
+status: Most probable
+discussion: With regard to its morphological features it is most probably identified with this species
+reference: [1]
+
+Identity Record 2
+drug_name: Ahulya
+sanskrit_name: आहुल्य
+transliteration: āhulya
+ref_drug_name: आहुल्य
+status: Accepted source
+discussion: Mentioned in Raja nighantu; Its identified as 'Avartaki' which is correlated to this species
+reference: [5]
+
+Identity Record 3
+drug_name: Avartaki
+sanskrit_name: आवर्तकी
+transliteration: āvartakī
+ref_drug_name: आवर्तकी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 4
+drug_name: Avartaki
+sanskrit_name: आवर्तकी
+transliteration: āvartakī
+ref_drug_name: आवर्तकी
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Avartani
+sanskrit_name: आवर्तनी
+transliteration: āvartanī
+ref_drug_name: आवर्तनी
+status: Most probable
+discussion: This could be named as Avartani with regard to its horn like fruits and thus correlated to this species
+reference: [1]
+
+Identity Record 6
+drug_name: Mandari
+sanskrit_name: मन्दारी
+transliteration: mandārī
+ref_drug_name: मन्दारी
+status: Most probable
+discussion: Cited only once in Susruta samhita; According to the author its most probably correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Avartaki
+sanskrit_name: आवर्तकी
+transliteration: āvartakī
+image_urls: https://www.medicinalplants.in/slokaimages/346/346_1.jpg
+ocr_text: आहुल्यं तिक्तशीतं स्याच्चक्षुष्यं पित्तदोषनुत् मुखरुक्कुष्ठकण्डतिजन्तुशूलव्रणापहम् तत्पुष्पंसहसा प्रमेहशमनं स्वर्णस्य वर्णप्रदं बालं तस्य फलं वमिक्रिमिहरं सर्वप्रमेहापहम् तृष्णाघ्नं सकषायमक्षिहितकृद् रुच्यं तथा दुर्जरं तद्वीजं मधुमेहहृद् विषहरं रक्तातिसारं जयेत् तन्मूलं पवनप्रकोपि मधुरं तृष्णाप्रमेहं जयेच्छ्वासघ्नं गुरु रक्तपित्तशमनं शुक्रक्षये पूजितम् (नि.र ) Avaraki has bitter rasie cold poiency, is beneficial for eye, pacifies pitia dosha. It pacifies diseases of buccal cavity pain, skin diseases, parasitic infection, stomach pain & ulcers The flower of avaraki pacifies prameha(diabetes), imparts golden complexion on usage. The unripe fruit acts as anti-emetic, anthelminihic and pacify all types of prameha diabeies), thirst. It is good for health of eyes, enhances iasie perception; has asiringent asie The seed pacifies madhumehaka type of diabetes) Poisons, dysentery. The root vitiates the vata dosha & has sweet aste, heavy in nature cures ihirst diabeies, bronchial asihma, cough pacifies hemorrhagic disorders & cures oligospermia.
+
+Shloka Record 2
+drug_name: Avartani
+sanskrit_name: आवर्तनी
+transliteration: āvartanī
+image_urls: https://www.medicinalplants.in/slokaimages/856/856_1.jpg
+ocr_text: आवर्तनी कषाया च शीतला ह्यतिसारहा त्रिदोषोदरशूलघ्नी कृमिजालविनाशिनी Avartani is kashaya in rasa, sitala in veerya, cures ati sara, tridosha, udara, sula and krmi

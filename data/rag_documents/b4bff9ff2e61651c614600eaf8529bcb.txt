@@ -1,0 +1,138 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b4bff9ff2e61651c614600eaf8529bcb
+Botanical Name: Cynodon dactylon (L.) PERS.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Agrostis linearis RETZ. Cynodon linearis WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 221 Vernacular names found in 10 languages. English (7) - bahama or kweek grass, bermuda grass, couch, dhop or dhub, doob grass, kweek grass, star grass Hindi (14) - dhob, dhoboghas, dhub, dobri, drub, dub, dubala, dubla, dubra, durba, kabbar, kalighas, khabbal, romghas Kannada (19) - ambate, ambate hullu, balli garike, doorve, garike, garike hullu, garike-hullu, garikehullu, garke, hasi garuke, kaadu garike, kareeke, karike hullu, karkeri hullu, karkeri-hullu, kudi garikai, kudigarike, ruche, shathaparvike Malayalam (3) - beli-caraga, karuka, karukappullu Marathi (11) - dhoorva, dhurva, doorva, durva, hariaaly, hariali, harialy, haryali, karala, neelidhoorva, paadaridhoorva Sanskrit (54) - Sanskrit Comments  amari, amrita, ananta, anuvallika, asitalata, bahucirya, bhargavi, bharguvee, bhutahantri, dhurta, dhurva, doorva, doorwa, doorwal, durmara, durva, funa, gouri, granthi, harasalika, harita, haritali, jaya, kachharuha, mahaushadi, mahavari, mangala, nanda, niladurva, pratanika, ruha, saddala, sahsravirya, sataparva, saumya, sehastravirya, shadvala, shambhavi, shanta, shashpa, shatagranthi, shataparva, shatavalli, shatmula, shita, shitakumbhi, shitala, shiva, shiveshta, shyama, sveta, tiktaparva, vamini, vijaya Tamil (97) - akatticararuku, akatticurappul, akattisavarappul, akattiyecararuku, akattiyicararuku, alai, alai aruku, alaku 1, alakucoli, alakukoli, amarai, anantai, anantam 1, anantarappul, ankucoli, aranralaiyani, arugam pullu, arugam vayr, arugam-pillu, arugampillu, arugampul, arugampullu, arugan, arugu, aruhu, arukam pul, arukam ver, arukampillu, arukampul, arukamver, aruku, atiyamam, cakastiraviriyam, cakattiraviriyappul, cakulatcam 1, cantammiyam, cantanakarani 1, cantanakaruni, capatam, caralam, catapam, catpam, catparaci, catparacippul, cattukam, cattukappul, cattuvalam, cattuvam, cavam, cilesmamarani, cimiri, cimiru, citari, citarikam, ilamaral#, ilampul, ilampullaruku, iracalai, kacayani, kanapatiyani, kunalayam, kunalayappul, macir, mankalakarappul, manravippul, mucalmuli, mukaippul, mutantam 1, muyalpul, muyarpul, nayppul, nilavaruku, ottu, ottuvekam, ottuvekappul, pacumpitippu, pacumpitippul, pacunkoti, patakaram, patakarappul, patam, pikkali, pitti, porikketanam, porikketanappul, pullaruku, purkoti, tiyamam, turna, turva, turvai, uraruku, urukai, vaucekam, vaucekappul, vayurai, vilimpu Telugu (9) - garika gaddi, garike, gariki-gaddi, gerichagaddi, ghericha, gherka, gurka-hariali, haraili, thella gariki Tibetan (6) - du dkar po, du rba snon po, du-rba, dul ba snon po (d), dur ba dkar po (d), la-ta Urdu (1) - dub
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/fe101ada20ad35fc3fb5e216316a02f7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/242bc1ca42180fb673bcbb4fd196927c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/fe101ada20ad35fc3fb5e216316a02f7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/242bc1ca42180fb673bcbb4fd196927c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/fe101ada20ad35fc3fb5e216316a02f7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/242bc1ca42180fb673bcbb4fd196927c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/fe101ada20ad35fc3fb5e216316a02f7
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/242bc1ca42180fb673bcbb4fd196927c
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/fe101ada20ad35fc3fb5e216316a02f7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/242bc1ca42180fb673bcbb4fd196927c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/fe101ada20ad35fc3fb5e216316a02f7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/242bc1ca42180fb673bcbb4fd196927c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4bff9ff2e61651c614600eaf8529bcb/xclkon/fe101ada20ad35fc3fb5e216316a02f7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Durva
+sanskrit_name: दूर्वा
+transliteration: dūrvā
+ref_drug_name: दूर्वा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Durva
+sanskrit_name: दूर्वा
+transliteration: dūrvā
+ref_drug_name: दूर्वा
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Durva
+sanskrit_name: दूर्वा
+transliteration: dūrvā
+ref_drug_name: दूर्वा प्रकार
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 4
+drug_name: Durva - prakara
+sanskrit_name: दूर्वा प्रकार
+transliteration: dūrvā prakāra
+ref_drug_name: दूर्वा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Durva - prakara
+sanskrit_name: दूर्वा प्रकार
+transliteration: dūrvā prakāra
+ref_drug_name: दूर्वा
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 6
+drug_name: Durva - prakara
+sanskrit_name: दूर्वा प्रकार
+transliteration: dūrvā prakāra
+ref_drug_name: दूर्वा प्रकार
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Durva
+sanskrit_name: दूर्वा
+transliteration: dūrvā
+image_urls: https://www.medicinalplants.in/slokaimages/554/554_1.jpg https://www.medicinalplants.in/slokaimages/554/554_2.jpg
+ocr_text: दूर्वा शीता कषाया च रक्तपित्तकफापहा अनुपत्रा कषाया च शीतला श्लेष्मवातला दर्भेः शरोनलश्चैव त्तथा समम स्वादु तिक्त कषायणि पित्तश्लेष्महराणि च I| IDhn Darbha, sara, nala and durva are similar in properties They are kashaya in rasa, sita in veerya, alleviates raktapitta and kapha Anupatra is kashaya in sitala in veerya, causes vitiation of slesma ana vata. Other varieties: darbha, sara and nala are the three varieties of durva, which are similar in properties They are svadu, tikta and kashaya in rasa, alleviates vitiation of pitta and slesma दूर्वात्रयं rasa , दूर्वासामान्यगुणाः दूर्वाः कषायाः मधुराश्च शीताः पित्ततृषाउरोचकवान्तिहन्त्र्यः | सदाहमूर्च्छाग्रहभूतशान्ति श्लेष्मश्रमध्वंसनतृप्तिदाश्च Il (Rjn) Durva is kashaya, maahura rasa, sita veerya, cures pitta, trsha, arocaka, vanti, daha, murccha, bhuta, slesma, srama, trpti ana dana Braha
+
+Shloka Record 2
+drug_name: Durva - prakara
+sanskrit_name: दूर्वा प्रकार
+transliteration: dūrvā prakāra
+image_urls: https://www.medicinalplants.in/slokaimages/554/554_1.jpg https://www.medicinalplants.in/slokaimages/554/554_2.jpg
+ocr_text: दूर्वा शीता कषाया च रक्तपित्तकफापहा अनुपत्रा कषाया च शीतला श्लेष्मवातला दर्भेः शरोनलश्चैव त्तथा समम स्वादु तिक्त कषायणि पित्तश्लेष्महराणि च I| IDhn Darbha, sara, nala and durva are similar in properties They are kashaya in rasa, sita in veerya, alleviates raktapitta and kapha Anupatra is kashaya in sitala in veerya, causes vitiation of slesma ana vata. Other varieties: darbha, sara and nala are the three varieties of durva, which are similar in properties They are svadu, tikta and kashaya in rasa, alleviates vitiation of pitta and slesma दूर्वात्रयं rasa , दूर्वासामान्यगुणाः दूर्वाः कषायाः मधुराश्च शीताः पित्ततृषाउरोचकवान्तिहन्त्र्यः | सदाहमूर्च्छाग्रहभूतशान्ति श्लेष्मश्रमध्वंसनतृप्तिदाश्च Il (Rjn) Durva is kashaya, maahura rasa, sita veerya, cures pitta, trsha, arocaka, vanti, daha, murccha, bhuta, slesma, srama, trpti ana dana Braha

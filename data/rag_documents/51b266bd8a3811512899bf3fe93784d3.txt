@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 51b266bd8a3811512899bf3fe93784d3
+Botanical Name: Parmelia perlata (HUDS.)  ACH.
+Family: Parmeliaceae(Lichen)
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 55 Vernacular names found in 9 languages. Hindi (4) - cadila, charela, pathar ka phul, phathar-ke-phul Kannada (2) - kallu hoo, kalluhuvu Malayalam (2) - celeyam, kalppuvu Marathi (4) - barikadagadaphula, dagad phool, dagadaphula, mothadagadaphula Sanskrit (27) - Sanskrit Comments  a, ashmapushpa, giripushpaka, griha, jirna, kalanusaryaka, palita, saileya, saileyah, saileyaka, saileyam, shailaja, shailaka, shailakhya, shiilabhava, shiladadru, shilaprasuna, shilapushpa, shilasana, shilottha, shitala, shitashiva, silapuspa, silapuspah, silavalka, sthavira, subhaga Tamil (5) - kalap-pu, kalpasi, kalpu, karpasi, marappasi Telugu (2) - rathipachi, ratipuvvu Tibetan (2) - rdo dra ga, rdo dre ga (p) Urdu (7) - charela, charela (chadela), charila, habakkarmani, rihankarmani, ushna, ushna charaila
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51b266bd8a3811512899bf3fe93784d3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Saileya
+sanskrit_name: शैलेय
+transliteration: śaileya
+ref_drug_name: शैलेय
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Saileya
+sanskrit_name: शैलेय
+transliteration: śaileya
+image_urls: https://www.medicinalplants.in/slokaimages/1235/1235_1.jpg https://www.medicinalplants.in/slokaimages/1235/1235_2.jpg https://www.medicinalplants.in/slokaimages/1235/1235_3.jpg
+ocr_text: शैलेयं शीतलं हृद्यं कफपित्तहरं लघु कण्डूकुष्ठाश्मरींदाहविषहृत् गुदरक्तहृत्| | o८Bpn) Saileya is laghu in guna, sita in veerya, hrdya, alleviates kapha, pitta , kandu, kustha, asmari, daha, visha and guda rakta शैलेयं शिशिरं तिक्तं सुगन्धि कफपित्तजित्| दाहतृष्णावमिश्वासव्रणं दोषविनाशनम्| T (Rjn) Saileya is tikta in rasa, sita in veerya, sugandhi, alleviates kapha, pitta daha, trsna, vami, svasa and vrana dosha शैलेयं कटुकं शीतं सुगन्धिं लघुहृद्यकम् रुच्यं च कफपित्तघ्नं दाहतृष्णावमिप्रणुत्| | श्र्वासं व्रणं च कण्डूं च कुष्ठाश्मरीविषज्वरान्| रक्तदोषं वातरोगं च रक्तार्शं चैव नाशयेत्| INir) Saileya is katu in rasa, laghu in guna, sita in veerya, sugandhi, hrdya, rucya, alleviates kapha, pitta, daha, trsha, vami, svasa, vrana, kandu, Kustha, asmari, jvara, visha, rakta dosha, vata roga and rakta arsa

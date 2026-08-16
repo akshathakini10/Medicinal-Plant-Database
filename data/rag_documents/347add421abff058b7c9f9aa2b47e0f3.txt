@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 347add421abff058b7c9f9aa2b47e0f3
+Botanical Name: Cycas revoluta THUNB.
+Family: Cycadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 2 languages. Kannada (2) - bettada goddeechalu, bettada madana masthi Tamil (6) - kamecuvaram, madhana kameswara, matanakamam 2, matanakamecuram 2, paiingi, sallaipanai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/347add421abff058b7c9f9aa2b47e0f3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/347add421abff058b7c9f9aa2b47e0f3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/347add421abff058b7c9f9aa2b47e0f3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 580dcd12cf18ed511285ffcefb6eb778
+Botanical Name: Sarcostigma kleinii WIGHT & ARN.
+Family: Icacinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 4 languages. Kannada (1) - puvanna Malayalam (2) - ota, vellayotal Sanskrit (1) - Sanskrit Comments  ingudi Tamil (6) - odal, otal, peevenna, puvanna, puvenagah, puvennai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/580dcd12cf18ed511285ffcefb6eb778
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/580dcd12cf18ed511285ffcefb6eb778
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/580dcd12cf18ed511285ffcefb6eb778
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

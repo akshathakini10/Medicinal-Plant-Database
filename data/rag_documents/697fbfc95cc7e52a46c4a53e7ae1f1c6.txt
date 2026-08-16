@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 697fbfc95cc7e52a46c4a53e7ae1f1c6
+Botanical Name: Eulophia spectabilis (DENNST.) SURESH
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Eulophia nuda LINDL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 6 languages. Hindi (2) - ambarkand, goruma Kannada (3) - daavaniya gedde, haavina more gedde, havina moothi gedde Malayalam (1) - belam-canda-schularmani Marathi (4) - ambarakand, amber-kand, bhuikakali, manakanda Sanskrit (7) - Sanskrit Comments  balakanda, granthidala, kandalata, malakanda, manya, panktikanda, trishikhadala Tibetan (2) - ri ddhi, rid dhi (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6/xclkon/6fd057e92f78960ff47f742b759a9a10
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6/xclkon/6fd057e92f78960ff47f742b759a9a10
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6/xclkon/6fd057e92f78960ff47f742b759a9a10
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/697fbfc95cc7e52a46c4a53e7ae1f1c6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

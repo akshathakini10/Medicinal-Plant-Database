@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cfe29d5d5e2d63c2a4e8a442c56af13e
+Botanical Name: Abutilon indicum (L.) SWEET
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 59 Vernacular names found in 7 languages. English (1) - country mallow Hindi (7) - atibala, debi, itawari, jhili, kanghi, tara kanchi, tara-kanchi Kannada (10) - gidutingi, hetakisa, hettukisu, hettutti, hetutti, kisangi, shrimudri, srimudre, tutti, urki Malayalam (11) - belocre, katturam, katturan, katuram, pettekaputti, pitikkapattu, tatta, tutti, tuvatti, uram, velluram Marathi (10) - akakai, kansuli, karandi, madmi, mudra, mudrika, petaari, petari, pidari, vikankati Tamil (9) - kakkati, kikkaci, ottuttutti, perundhuthi, thuththi, tuti, tutti, tutti-p-pattai, tuttikkirai Telugu (11) - adavibenda, adivibenda, botlabenda, dudi, muttavaciribenda, noogoobenda, nugoobenda, nugubenda, peddabenda, thellabenda, tootieakoc
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cfe29d5d5e2d63c2a4e8a442c56af13e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cfe29d5d5e2d63c2a4e8a442c56af13e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cfe29d5d5e2d63c2a4e8a442c56af13e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

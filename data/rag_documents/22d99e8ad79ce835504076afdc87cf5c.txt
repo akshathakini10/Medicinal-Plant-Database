@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 22d99e8ad79ce835504076afdc87cf5c
+Botanical Name: Arisaema curvatum KUNTH.
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/22d99e8ad79ce835504076afdc87cf5c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/22d99e8ad79ce835504076afdc87cf5c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

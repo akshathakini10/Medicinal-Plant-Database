@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a0e7b1f43bac0950bff5295d35e99c7c
+Botanical Name: Polygonum vaccinifolium WALL.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0e7b1f43bac0950bff5295d35e99c7c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0e7b1f43bac0950bff5295d35e99c7c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

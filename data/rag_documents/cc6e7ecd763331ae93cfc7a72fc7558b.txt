@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cc6e7ecd763331ae93cfc7a72fc7558b
+Botanical Name: Hydrocharis dubia (BL.) BACKER
+Family: Hydrocharitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc6e7ecd763331ae93cfc7a72fc7558b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc6e7ecd763331ae93cfc7a72fc7558b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

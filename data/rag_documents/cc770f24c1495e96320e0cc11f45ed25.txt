@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cc770f24c1495e96320e0cc11f45ed25
+Botanical Name: Holoptelea integrifolia (ROB.) PLANCHON
+Family: Ulmaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 149 Vernacular names found in 7 languages. Hindi (29) - banchilla, bandarbati, begana, bisenda, chilbil, chilla, chillil, chilmil, chirbil, chirmil, churil, cibil, dhamna, kalipapri, kandru, kanjeri, kanjeru, kanjois, kanju, karanji-pipal, kasumbro, kusumbro, papad, papari, papri, pardesi, pipri, rajain, rajain pardesi Kannada (24) - aval, beegada mara, beeyada mara, kaladri, kaldri, nilavahi, rahubeeja, rahubija, raobija, rasabija, rasbija, ravubija, tabasi, tapasee mara, tapasi, tapasigida, tapassi, tappasi, tapsi, taspi, tavisi, thapsi, thavasi, thogala Malayalam (5) - aaval, aval, avil, nettaval, nettavil Marathi (15) - baaboli, baaval, paapara, papara, papra, vaavla, vamvlo, vavala, vavla, vavli, wavli, wavuli, wawali, wowli, wowoli Sanskrit (14) - Sanskrit Comments  arari, chirabilva, cirabilva, cirabilvah, ciravilva, cirbilva, karanja, karanji, prakirya, puti, putigandha, putika, putikaranjah, udakirya Tamil (29) - aaya, ari, avali, avil, avil thol, avimaram, awie, aya, ayi, ayil, ayil 2, ayil pattai, ayila-p-pattai, ayila-t-tol, ayili, ayilu-ta-pattai, kalaivallor, kanci, kanji, tabasi, tambachi, tampacci, tanbachi, tapaci#, tapaci@, tenmaram 2, tenpuccimaram, thavasi, vellaya Telugu (33) - naali, naavara chettu, naavili, nali, namli, naulee, nauli, naulie, navali, navara, navili, nemali, nemalinara, nevali, nevili, nowlee, nowli, pedanevili, pedda nevili, peddanavali, peddanavalieragu, peddanavili, peddanevili, peddanowleeeragu, pulari, putari, tapasi, tapassi, tavisi, thapasi, thapasu, thappachi, thapsi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc770f24c1495e96320e0cc11f45ed25
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1142
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1142.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc770f24c1495e96320e0cc11f45ed25
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc770f24c1495e96320e0cc11f45ed25
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc770f24c1495e96320e0cc11f45ed25
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cirabilva
+sanskrit_name: चिरबिल्व
+transliteration: cirabilva
+ref_drug_name: चिरबिल्व
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Cirabilva
+sanskrit_name: चिरबिल्व
+transliteration: cirabilva
+image_urls: https://www.medicinalplants.in/slokaimages/877/877_1.jpg https://www.medicinalplants.in/slokaimages/877/877_2.jpg
+ocr_text: महाकरञ्जः तीक्ष्णोष्णः विषनाशनः कण्डूविचर्चिका कुष्ठत्वग्दोष व्रणनाशनः KDhn) Cirabilva is katu in rasa, tiksna in guna, usna in veerya, cures visa, kandu, vicarcika, kustha tvag dosha and vrana कटुको करञ्जः ( गुच्छलेरञ्जः ) कटुतिक्तोष्णः विषवातार्तिनाशनः कण्डूविचर्चिकाकुष्ठत्वग्दोषव्रणनाशनः II (Rjn) Karanja is tikta in rasa, usna in veerya cures visa vata, arti, kandu, vicarcika, kustha tvag dosha ana vrana katu

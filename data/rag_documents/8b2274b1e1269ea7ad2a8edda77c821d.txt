@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8b2274b1e1269ea7ad2a8edda77c821d
+Botanical Name: Crinum asiaticum L.
+Family: Amaryllidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 76 Vernacular names found in 8 languages. Hindi (10) - badakanvar, bara-kanvar, chindar, cintar, kanmu, kanwal, nagadamani, pindar, sukhdarsan, sukhdarshan Kannada (5) - naagadaali gida, vishamoongila, vishamoonguli, vishamungali, vishamungili Malayalam (6) - kantenna, polattali, pulattali, valutta polatali, visha-mula, vishamula Marathi (5) - gadambhikanda, gadani-kanda, magdavan, naagadavana, nagadavana Sanskrit (5) - Sanskrit Comments  nagadamani, nagdamini, sudarsana, sudarshan, vishamandala Tamil (31) - amal2, campankulikacceti, campankulikam, kanalmunkil, kanavumuli#, kanavumuli@, kanavumunkikam, kanavumunkil, nakatavanam, narivenkayam, onkalam, peru-nari-vengaram, perunarivenkayam 2, tudaivachi, tuntakavaracu, tutai, tutai@, tutaivacci, tutaivaci, tutaiyaracu, veshei moonghie elley, veshi munghee, visamumgil, visamunkil, visha moongil, visha-mungil, visha-munkil, vishamoongil, vishamungil, vitamunkil, vizhamungal Telugu (12) - chengalva, chengu lauva, kesara-chettu, kesarchettu, kesari chettu, kesarichettu, lakshmi-narayana-chettu, lakshminarayanachettu, lakshminarayanachetu, visha-mungali, vishamoongali, vishamungali Urdu (2) - nagadaman, nagadauna
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b2274b1e1269ea7ad2a8edda77c821d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sudarsana - jati
+sanskrit_name: सुदर्शन जाति
+transliteration: sudarśana jāti
+ref_drug_name: सुदर्शन जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

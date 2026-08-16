@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b2a8e3d9fefffc85fa4dee3dbd2ca7f4
+Botanical Name: Erigeron canadensis TENORE
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 2 languages. English (6) - butterweed, canadian fleabane, colt s-tail, fleabane, hogweed, horseweed Sanskrit (2) - Sanskrit Comments  jarayupriya, makshikavisha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b2a8e3d9fefffc85fa4dee3dbd2ca7f4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b2a8e3d9fefffc85fa4dee3dbd2ca7f4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b2a8e3d9fefffc85fa4dee3dbd2ca7f4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

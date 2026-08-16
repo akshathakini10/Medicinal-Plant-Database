@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 744ab3fab2b99795b323841d9d62b55b
+Botanical Name: Iris songarica SCHRENK
+Family: Iridaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/744ab3fab2b99795b323841d9d62b55b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/744ab3fab2b99795b323841d9d62b55b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

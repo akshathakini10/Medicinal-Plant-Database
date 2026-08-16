@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d64ed21e8eb774dc7c955b746c7bbe28
+Botanical Name: Oldenlandia fruticosa (L.) K. SCHUM.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d64ed21e8eb774dc7c955b746c7bbe28
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d64ed21e8eb774dc7c955b746c7bbe28
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

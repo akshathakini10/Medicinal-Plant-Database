@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0eab29415158cf66459a214a22e8270d
+Botanical Name: Callicarpa tomentosa (L.) MURRAY
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Callicarpa lanata L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 57 Vernacular names found in 7 languages. Hindi (1) - bastra Kannada (17) - aarathi soppu, aardir, aardri, ardri, arthigidu, arti, dodda naathada gida, doddanaathada gida, ibanne, ibbani, ibbanne, rishipathri, ruchi katthi, ruchipatri, rucipatri, tondatti, yibbani Malayalam (21) - cheruthekku, naikumbil, nallapompil, picenkala, pichenkala, pichenkale, puru, temperuvallam, teregam, thinperivelum, timperuvellam, tondi, tondi-teregam, tonditeragam, tonditterakam, tonti, tontitterakam, uennattekka, umathekka, umathekku, urnnatekka Marathi (10) - ayamsar, insara, isvar, kaarivaati, karavati, pondee, pondi, teregam, tomdi-kharvamti, tondi Sanskrit (1) - Sanskrit Comments  mashandari Tamil (6) - katkomal, kattukkumil, seembakkulthu, vettilai-pattai, vettilaipattai, vettilaippattai Telugu (1) - bodiga chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eab29415158cf66459a214a22e8270d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2312
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2312.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eab29415158cf66459a214a22e8270d/xclkon/9707fc328cbb2de598e30ab7791a4a3e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eab29415158cf66459a214a22e8270d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eab29415158cf66459a214a22e8270d/xclkon/9707fc328cbb2de598e30ab7791a4a3e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eab29415158cf66459a214a22e8270d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eab29415158cf66459a214a22e8270d/xclkon/9707fc328cbb2de598e30ab7791a4a3e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eab29415158cf66459a214a22e8270d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

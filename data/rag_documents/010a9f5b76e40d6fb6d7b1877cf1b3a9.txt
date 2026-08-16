@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 010a9f5b76e40d6fb6d7b1877cf1b3a9
+Botanical Name: Stenotaphrum dimidiatum (L.) BRONGN.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/010a9f5b76e40d6fb6d7b1877cf1b3a9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/010a9f5b76e40d6fb6d7b1877cf1b3a9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5df9f100e88b8d13c3436eb38e1c3ccf
+Botanical Name: Aphanamixis polystachya (WALL.) PARKER
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Amoora rohituka (ROB.) WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 75 Vernacular names found in 8 languages. English (1) - tasua Hindi (3) - harin-hara, harinhara, harinkhana Kannada (17) - hottenola, mukhya mutthage, mukhyamuttage, mukhyamuttuge, mulen, mullamuttala, mullu mutthala, mullu-muttaga, mulluhitthalu, mullumuttaga, roheethaka, rohitaka, shina, thaktaroheethaka, tittilakayi, tottilakayi, tottile Malayalam (6) - cem, cemmaram, chem, chemmaram, karagil, sem Marathi (2) - raktharohida, rohitak Sanskrit (18) - Sanskrit Comments  janavallabha, ksharayogya, lakshmi, lakshmivana, lohita, rakta, raktavrksa, rohitaka, rohitakah, rohitakalata, rohituka, saptavha, sarvajanapriya, shuklarohita, shvetarohitaka, sitanga, sitapushpa, sitavhaya Tamil (24) - cemmaram, cennaraki, cennarakimaram, civappavi, civappavirmaram, curailaccuvaram, curaiyilaiccuvaram, cuvaiyilacuvaram, kokitam, kottaputpakam, kutacanmali1, malampuluvan, nalinaveti, orumaram, panturokapiramecani, pilikacatturu, pilikakkinam, sem, semmaram, surailachumaram, tikuccam, urokitam, vellakongu, vengul Telugu (4) - chevamanu, rohitaka, rohithaka, sevamanu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 202
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/202.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf/xclkon/8bb6e1bb23c79d006392553f0aecc130
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf/xclkon/8bb6e1bb23c79d006392553f0aecc130
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf/xclkon/8bb6e1bb23c79d006392553f0aecc130
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5df9f100e88b8d13c3436eb38e1c3ccf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rohitaka
+sanskrit_name: रोहितक
+transliteration: rohitaka
+ref_drug_name: रोहितक
+status: Substituted source
+discussion: Due to its limited distribution in the western parts of the country this species is used as its substitute in Eastern parts of the country
+reference: [1]
+
+Identity Record 2
+drug_name: Rohitaka - sveta
+sanskrit_name: रोहितक श्वेता
+transliteration: rohitaka śvetā
+ref_drug_name: रोहितक
+status: Substituted source
+discussion: Due to its limited distribution in the western parts of the country this species is used as its substitute in Eastern parts of the country
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rohitaka
+sanskrit_name: रोहितक
+transliteration: rohitaka
+image_urls: https://www.medicinalplants.in/slokaimages/144/144_1.jpg https://www.medicinalplants.in/slokaimages/144/144_2.jpg https://www.medicinalplants.in/slokaimages/144/144_3.jpg https://www.medicinalplants.in/slokaimages/144/144_4.jpg
+ocr_text: रोहितको यकृत्प्लीहगुल्मोदरहरः सरः शुक्लरोहितकञ्चैव कटुष्णमुभयं स्मृतम्|| कर्णरोगहरञ्चैव विषवेगविनाशनम् IDhn) Rohitaka is sara in guna, alleviates yakrt pliha gulma and uaara. Sukila rohitaka is katu in rasa, usna in veerya, alleviates karnaroga, destroys visavega रोहितकौ कटुस्निग्धौ कषायौ च सुशीतलौ | कृमिदोषव्रणप्लीहरक्तनेत्रामयापहौ | | IRjnl Rohitaka is katu, kashaya in rasa, snigaha in guna, sita in veerya, alleviates krmiaosha, vrana, pliha, rakta and netra amaya. रोहितकः प्लीहघाती रुच्यो रक्तप्रसादनः कषायः शीतलः स्निग्धो यकृदगुल्महरोमतः | | नेत्ररोगप्रशमनः क्रिमिघ्नो व्रणनाशनः | (Bpn) Rohitaka is kashaya in rasa, snigdha in guna, sita in veerya, plihaghati, rucya, rakta prasadana, alleviates yakrd gulma, krmi, pacifies netra roga aestroys vrana. and रोहितको यकृत्प्लीहगुल्मोदरहरः सरः| | KRjvl Rohitaka alleviates yakrd pliha gulma uaara and
+
+Shloka Record 2
+drug_name: Rohitaka - sveta
+sanskrit_name: रोहितक श्वेता
+transliteration: rohitaka śvetā
+image_urls: https://www.medicinalplants.in/slokaimages/144/144_1.jpg https://www.medicinalplants.in/slokaimages/144/144_2.jpg https://www.medicinalplants.in/slokaimages/144/144_3.jpg https://www.medicinalplants.in/slokaimages/144/144_4.jpg
+ocr_text: रोहितको यकृत्प्लीहगुल्मोदरहरः सरः शुक्लरोहितकञ्चैव कटुष्णमुभयं स्मृतम्|| कर्णरोगहरञ्चैव विषवेगविनाशनम् IDhn) Rohitaka is sara in guna, alleviates yakrt pliha gulma and uaara. Sukila rohitaka is katu in rasa, usna in veerya, alleviates karnaroga, destroys visavega रोहितकौ कटुस्निग्धौ कषायौ च सुशीतलौ | कृमिदोषव्रणप्लीहरक्तनेत्रामयापहौ | | IRjnl Rohitaka is katu, kashaya in rasa, snigaha in guna, sita in veerya, alleviates krmiaosha, vrana, pliha, rakta and netra amaya. रोहितकः प्लीहघाती रुच्यो रक्तप्रसादनः कषायः शीतलः स्निग्धो यकृदगुल्महरोमतः | | नेत्ररोगप्रशमनः क्रिमिघ्नो व्रणनाशनः | (Bpn) Rohitaka is kashaya in rasa, snigdha in guna, sita in veerya, plihaghati, rucya, rakta prasadana, alleviates yakrd gulma, krmi, pacifies netra roga aestroys vrana. and रोहितको यकृत्प्लीहगुल्मोदरहरः सरः| | KRjvl Rohitaka alleviates yakrd pliha gulma uaara and

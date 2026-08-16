@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 260a35c48387acc67d9e0a6a542ff730
+Botanical Name: Orthosiphon thymiflorus (ROTH.) SLEASEN
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Orthosiphon glabratus BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 4 languages. Kannada (1) - kaadu sanna pathri gida Malayalam (1) - cilannippatam Sanskrit (1) - Sanskrit Comments  pratanika Tamil (1) - cilantippatam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/260a35c48387acc67d9e0a6a542ff730
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1569
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1569.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/260a35c48387acc67d9e0a6a542ff730/xclkon/983a134a68509bb78cdcbf636a725c22
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/260a35c48387acc67d9e0a6a542ff730
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/260a35c48387acc67d9e0a6a542ff730/xclkon/983a134a68509bb78cdcbf636a725c22
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/260a35c48387acc67d9e0a6a542ff730
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

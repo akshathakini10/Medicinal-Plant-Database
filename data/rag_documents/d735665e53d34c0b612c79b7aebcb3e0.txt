@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d735665e53d34c0b612c79b7aebcb3e0
+Botanical Name: Ficus lacor BUCH.- HAM
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Ficus indica L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 76 Vernacular names found in 8 languages. Hindi (13) - bangat, bar, bargad, ber, bor, kahimmal, kamarup, keoi, khabar, nyagrodha, pakri, pilkhan, ramanjir Kannada (5) - alada, basari, goli, itti, karibasuri Malayalam (2) - itti, ittiyal Marathi (10) - bassari, dhedumbara, gandhaumbar, lendva, lendwa, pakari, pepar, vada, vadi, war Sanskrit (25) - Sanskrit Comments  ashvatthi, charudarshani, chiravrutchali, dridhapraroha, gardabhanda, jati, kamandalutaru, kandaralu, kapitana, karpari, kshiri, mahabala, nyagrodha, parkataki, parkati, pimpari, pitana, plaksa, plaksha, plavaka, shringi, suparshva, varohashakhi, vati, vatta Tamil (12) - aal, al, ala, alamaram, alaverei, icci, ichchi, kallicci, kurugatti, kurugu, malai-ichchi, peral Telugu (8) - banda juvvi, jati, jati juvi, mari, marri, pedda marri, plaksa, rohi Tibetan (1) - sla ba
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0/xclkon/aea4601c9d6bc0309df22c0b8f058961
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0/xclkon/aea4601c9d6bc0309df22c0b8f058961
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0/xclkon/aea4601c9d6bc0309df22c0b8f058961
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d735665e53d34c0b612c79b7aebcb3e0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Plaksa
+sanskrit_name: प्लक्ष
+transliteration: plakṣa
+ref_drug_name: प्लक्ष
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Plaksa
+sanskrit_name: प्लक्ष
+transliteration: plakṣa
+ref_drug_name: प्लक्ष
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

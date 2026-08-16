@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 073e676dcb6f7a7da2b7e7fdd38ea0dd
+Botanical Name: Chenopodium ambrosioides BERT. E STEUD.
+Family: Chenopodiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 4 languages. English (7) - american wormseed, epazote, jerusalem oak, jesuit tea, mexican tea, stinking weed, wormseed Hindi (1) - sugandha-vastooka Kannada (7) - guddada voma, gudde oma gida, huli omu, huli voma, kaadu oma, kaadu omu, kaadu voma Marathi (1) - chandanbatva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/073e676dcb6f7a7da2b7e7fdd38ea0dd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/073e676dcb6f7a7da2b7e7fdd38ea0dd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/073e676dcb6f7a7da2b7e7fdd38ea0dd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

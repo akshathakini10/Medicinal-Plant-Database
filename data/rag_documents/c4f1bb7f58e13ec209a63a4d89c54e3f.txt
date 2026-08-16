@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c4f1bb7f58e13ec209a63a4d89c54e3f
+Botanical Name: Plumeria acuminata R.BR.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Plumeria acutifolia POIR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 93 Vernacular names found in 8 languages. English (4) - frangipani, pagoda flower, pagoda tree, temple tree Hindi (7) - chameli, goburchamp, golainchi, gulachin, gulchin, gulechin, khair champa Kannada (32) - belchampaka, campaka, champadka, champaka, champe, chanipe, chempe, daevaganigalu, daevaganigile, deva kanagilu, deva kanigalu, devaganagalu, devaganagile, devaganigalu, devaganigile, dhala, ganagala, ganagile, ganigile, gosampige, gove sampige, kaadu sampige, kadusampage, kadusampige, kanagala, kanagile, khseera sampige, magaganagile, mogaganagile, mogaganigalu, mogaganigile, sampai Malayalam (7) - arali, campakam, velattalari, vellachampakam, vellachampige, velutharali, veluttalari Marathi (6) - dev-champo, khair-champo, khairchampa, lal champa, rhurachaapa, sonchampa Sanskrit (6) - Sanskrit Comments  champaka, devaganagalu, gosampige, kshira, ksiracampaka, svetacampaka Tamil (19) - ilattalari, kallimandarai, kallimataiyan, kallimulaiyan 2, kataicci, kataiccittalari, kattuccampanki, kuppaiyalari, kuppiyalari, navilla, navillavalari, perumalari, perumaram 2, perungalli, perunkalli, ponnalari, segappu arali, vadaganneru, veluttalari Telugu (12) - adavi-ganneru, adaviganneru, arhataganneru, arhathaganneru, daeva ganneru, guttiganneru, nuruvarahaalu, nuruvarahalu, vaadaganneru, vadaganneru, veyyivarahaalu, veyyivarahalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/3643eb4a111dabcdde2dd70ec2409e14
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/a2f0fc39b0ea0990e885aafa0e27fc21
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/77d770ccc90bf44a5d22b2e746d152b7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/7ceed988027dde3baa6817664e571e5d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/3643eb4a111dabcdde2dd70ec2409e14
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/a2f0fc39b0ea0990e885aafa0e27fc21
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/77d770ccc90bf44a5d22b2e746d152b7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/7ceed988027dde3baa6817664e571e5d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/3643eb4a111dabcdde2dd70ec2409e14
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/a2f0fc39b0ea0990e885aafa0e27fc21
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/77d770ccc90bf44a5d22b2e746d152b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/7ceed988027dde3baa6817664e571e5d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4f1bb7f58e13ec209a63a4d89c54e3f/xclkon/3643eb4a111dabcdde2dd70ec2409e14
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

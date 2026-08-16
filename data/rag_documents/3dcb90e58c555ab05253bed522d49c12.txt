@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3dcb90e58c555ab05253bed522d49c12
+Botanical Name: Osmanthus fragrans LOUR.
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 4 languages. English (1) - kwei Hindi (2) - shilangi, silingi Sanskrit (2) - Sanskrit Comments  brhadbakula, vasuka Tibetan (1) - bu ga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3dcb90e58c555ab05253bed522d49c12
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3dcb90e58c555ab05253bed522d49c12
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3dcb90e58c555ab05253bed522d49c12
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Buka
+sanskrit_name: बूक
+transliteration: būka
+ref_drug_name: बूक
+status: Most probable
+discussion: It may be correlated to this species on the basis of comments given by Dalhana
+reference: [1]
+
+Identity Record 2
+drug_name: Vasuka
+sanskrit_name: वसुक
+transliteration: vasuka
+ref_drug_name: वसुक
+status: Accepted source
+discussion: Vasuka' was described by Dalhana giving synonyms like 'Bakapuspa' and 'Shivamallika'; Based on this 'Vasuka' is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Vasuka
+sanskrit_name: वसुक
+transliteration: vasuka
+ref_drug_name: वसुक
+status: Most probable
+discussion: Has been identified with this species but it needs to be examined for its properties whether it has similarities with the plant properties mentioned in the texts
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

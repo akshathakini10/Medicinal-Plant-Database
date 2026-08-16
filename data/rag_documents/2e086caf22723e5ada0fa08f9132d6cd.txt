@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2e086caf22723e5ada0fa08f9132d6cd
+Botanical Name: Alstonia constricta F MUELL.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. English (2) - bitter bark, fever bark Tamil (1) - kaippup pattai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e086caf22723e5ada0fa08f9132d6cd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e086caf22723e5ada0fa08f9132d6cd
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e086caf22723e5ada0fa08f9132d6cd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

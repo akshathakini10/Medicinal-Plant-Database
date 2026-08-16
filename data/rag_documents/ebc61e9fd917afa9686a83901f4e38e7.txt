@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ebc61e9fd917afa9686a83901f4e38e7
+Botanical Name: Malus pumila MILL.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Pyrus malus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 38 Vernacular names found in 7 languages. Hindi (5) - chun, seb, seb-safargang, seo, sev Kannada (4) - ayaple hannu, sebu, servu-kittalay, sevu Marathi (1) - safarchand Sanskrit (10) - Sanskrit Comments  badara, mushtinanan, seba, sebhaphala, seva, sevam, shivinthaka, simbitika, sinchitika, sincitika Tamil (6) - appil, cimaiilantai, cimaiyilantai, cimaiyilantampalam, kantakutam, unnam Tibetan (4) - bu sa, pu sa (p & d), sa ndzi ti i bras bu, sin dza ti i bras bu Urdu (8) - arq saib shirin, chaqu say qashain kia hua saib, rub saib, rub saib shirin, rub-i-seb, saib, saib shirin, sharbat saib
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7/xclkon/ae2836a9459e730216e0cf14735f80dd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7/xclkon/ae2836a9459e730216e0cf14735f80dd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7/xclkon/ae2836a9459e730216e0cf14735f80dd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7/xclkon/ae2836a9459e730216e0cf14735f80dd
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebc61e9fd917afa9686a83901f4e38e7/xclkon/ae2836a9459e730216e0cf14735f80dd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Seva
+sanskrit_name: सेव
+transliteration: seva
+ref_drug_name: सेव
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3ef7c2789610b44230041b523436342b
+Botanical Name: Viscum monoicum ROB.
+Family: Viscaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 6 languages. Hindi (3) - kuchle-ka-malang, kuchle-ke-malang, kuchlekamalang Kannada (2) - bavanchi badanike, dodda badanike Marathi (2) - ottu, pullurivi Sanskrit (2) - Sanskrit Comments  katavi, mohanika Tamil (4) - ottu, pulluri, pullurivi, pulluruvi Telugu (7) - badanika, bajanika, bajinika, kadise badanika, kadisebadanika, kodisibhajinika, pullurivi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ef7c2789610b44230041b523436342b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ef7c2789610b44230041b523436342b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ef7c2789610b44230041b523436342b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ef7c2789610b44230041b523436342b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Katvi
+sanskrit_name: कट्वी
+transliteration: kaṭvī
+ref_drug_name: कट्वी
+status: Accepted source
+discussion: It has been cited in Raja nighantu and identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Mohanika
+sanskrit_name: मोहनिका
+transliteration: mohanikā
+ref_drug_name: मोहनिका
+status: Accepted source
+discussion: Mohanika' has been cited in Susruta samhita and Astanga hridaya; By the interpretation given by Dalhana there is nothing known about its morphology; If it was not 'Mandaka' but 'Vandaka' then 'Mohanika' can be a plant of this family and correlated to this species which has features like intoxicating and being poisonous to animals; From the word 'Mohanika' the word Madaka should be interpreted which means intoxication which is apt for this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

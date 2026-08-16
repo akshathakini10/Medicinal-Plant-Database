@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 036b69630627da10fff2bba642e09396
+Botanical Name: Buxus wallichiana BAILL.
+Family: Buaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Buxus sempervirens L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 2 languages. English (5) - abassian boxwood, box, boxtree, boxwood, common or european box Hindi (5) - chikri, papari, papri, samshad, shamshad
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/036b69630627da10fff2bba642e09396/xclkon/6915d8754462362ab543866c36d843f4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/036b69630627da10fff2bba642e09396
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/036b69630627da10fff2bba642e09396/xclkon/6915d8754462362ab543866c36d843f4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/036b69630627da10fff2bba642e09396
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/036b69630627da10fff2bba642e09396/xclkon/6915d8754462362ab543866c36d843f4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

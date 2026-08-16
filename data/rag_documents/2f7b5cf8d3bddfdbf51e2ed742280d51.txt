@@ -1,0 +1,104 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2f7b5cf8d3bddfdbf51e2ed742280d51
+Botanical Name: Gmelina arborea L.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 275 Vernacular names found in 9 languages. English (2) - gamar, yemtani Hindi (28) - ban, baro-pipal, gamari, gambar, gambari, gambhar, gambhara, gambhari, gamhar, gumar-tek, gumbar, gumbhar, havan, jugani-chukur, kambar, kambari, kambhar, khambhar, khamhar kumhar, khammara, khmbhari, kumar, kumbhar, kunubar, sewan, shewan, shivparni, siwan Kannada (52) - baachanike mara, baccanige, bachanige, chatraparni mara, coolee, gaandhaari gida, guli, gumbari, gumbhaari, gumti, gupsi, gupsi mara, gupsiro, kaashmeeri, kaashmiri mara, kashmiri, kashmiri mara, kashniri-mara, kasmiri, koolai, koole, koolimara, kule, kulekumi, kuli, kulimavu, kumada mara, kumaki, kumali, kumate, kumatheekadi, kumati, kumbal, kumbalamara, kumbandhi, kumbhudi, kumbili, kumbuda, kumbudi, kumilu, kumluda, kumule, kumulu, kusa, madhuparnike, pillambi, shewnay, shivani, shivanni-gida, sivanni, sriparni, triparni Malayalam (13) - cumbulu, kumala, kumalu, kumathu, kumbil, kumbili, kumbula, kumbulu, kumil, kumilu, kumizh, kumizhu, kumpil Marathi (9) - gamar, kamar, shevan, shewan, shivan, shivani, shiwan, sivni, sshivanasal Sanskrit (56) - Sanskrit Comments  ambharika, ashveta, bhadra, bhadraparni, gambhari, gandhari, gandharya, gopabhadrika, grishti, gumbhari, hira, k sripnari, kakodumbari, kashmari, kashmaryya, kasmari, kasmarya, kasmaryah, kasmaryaphala, kasmiri, kataphala, katphalah, katphalam, krishna, krishnaphala, krishnavrinlaka, krishnavrintika, krsnavrntah, kshirini, kumuda, madhubhadra, madhumati, madhuparnika, madhurasa, mahabhadra, mahakumuda, modini, nandi vrksa, pitakarohini, pitaphala, pitarohini, rohini, sadabhadra, sarvatobhadra, sarvatobhadrika, shriparni, snigdhaparni, sriparni, sthulatvacha, subhadra, sudridhatvacha, suphala, svarubhadra, vataha, vidari, vidarini Tamil (65) - ancavira, ankaravalli3, arica, aricakikam, aricakikamaram, ariccavi, arisa, arucakumil, arucakumilmaram, arucavira, caruvatapattiram, ciriparani1, ciruparani2, comavalakkam1, comavali, comavalimaram, cukattikam, cummi, gumadi, gumuadu-teku, kacumari3, kalappanri, kalarbadi, kalarpati, kattanam, kirusnavantika, kiruttinam2, kiruttinaviruntai2, kiruttinaviruttikam2, kopapattirikam, kumadi, kumalan, kumbal, kumil, kumil2, kumizham, kumla, kumutapattiram, matuparni, pakarpala, palacomam, pammari, pampari, pamparimaram, paruni 2, pattira, pattiraparani, pattiravati, patuparani, perumkumbil, perungumil, perungumizh, perunkumil, perunkumilam palan, peruntumpai, pulirgumil, pulirkumil, tustamakirakani, umitekku, umithekku, umittekku, ummithekku, umpal, valakkaccam, varanki 1 Telugu (49) - adavigummudu, adivigumadi, belligumudu, calagummudu, callagummudu, challagummadi, challagummadu, challagummudu, chittungudu, errinatuva, gamudu, geemaditekku, goomadee, goomartek, gumar-tek, gumitaku, gummadi, gummadi chettu, gummudu, gummudu taeku, gumtaeku, gumteku, gumudu, gumudu-teku, gumuduteku, kaashmari, kaashmaryamu, kasmari, kasmaryamu, kasmeryamu, kasmiryamu, parsini, pedda gumudu, peddagomru, peddagoomru, peddagumu, peddagumudu, peddagumudutaekku, peddagumuduteku, peddakummi, peggumadu, tagoomooda, tagumuda, teggnmmudu, teggummudu, teggumudu, theggummudu, tsalagummadi, tsalogummadi Tibetan (1) - tan pal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1063
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1063.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f7b5cf8d3bddfdbf51e2ed742280d51
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gambhari
+sanskrit_name: गम्भारी
+transliteration: gambhārī
+ref_drug_name: गम्भारी
+status: Accepted source
+discussion: Gambhari is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Gambhari
+sanskrit_name: गम्भारी
+transliteration: gambhārī
+ref_drug_name: गम्भारी
+status: Accepted source
+discussion: Gambhari is correlated to this species
+reference: [3]
+
+Identity Record 3
+drug_name: Gambhari
+sanskrit_name: गम्भारी
+transliteration: gambhārī
+ref_drug_name: गम्भारी
+status: Accepted source
+discussion: Gambhari is correlated to this species
+reference: [4]
+
+Identity Record 4
+drug_name: Kasmari
+sanskrit_name: काश्मरी
+transliteration: kāśmarī
+ref_drug_name: काश्मरी
+status: Accepted source
+discussion: Kasmari is correlated to this species
+reference: [2]
+
+Identity Record 5
+drug_name: Kasmari
+sanskrit_name: काश्मरी
+transliteration: kāśmarī
+ref_drug_name: काश्मरी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 6
+drug_name: Nandivrksa
+sanskrit_name: नन्दीवृक्ष
+transliteration: nandīvṛkṣa
+ref_drug_name: नन्दीवृक्ष
+status: Suggested source
+discussion: There are different views regarding Nandivriksa; Some consider it to be Kasmari which is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Gambhari
+sanskrit_name: गम्भारी
+transliteration: gambhārī
+image_urls: https://www.medicinalplants.in/slokaimages/66/66_1.jpg https://www.medicinalplants.in/slokaimages/66/66_2.jpg https://www.medicinalplants.in/slokaimages/66/66_3.jpg https://www.medicinalplants.in/slokaimages/66/66_4.jpg https://www.medicinalplants.in/slokaimages/66/66_5.jpg
+ocr_text: श्रीपर्णी तिक्ता गुरूष्णा रक्तपित्तजित् त्रिदोषश्रमदाहार्त्तिज्वरतृष्णाविषान् जयेत् Il काश्मर्यं कुसुमं बल्यं वृष्यं पित्तास्रनाशनम्I| (Dhn) Sriparni svarasa is tikta in rasa, guru in guna, usna in veerya, rakta pitta hara, cures tridosha, srama, daha, jvara and trsna स्वरसे काश्मर्यंफलं रक्तसंग्राहिकरक्तपित्तप्रशमनानाम् (चरक Kasmarya phala is Rakta sangrahika, Rakta pitta prasamana काश्मरीफलमित्युक्तेषपि काश्मरीफलमज्जाग्राहा अत्यन्तपित्तहरत्वात्| (वृन्द में श्रीकण्ठ) हृद्य मूत्रविबन्धघ्नं पित्तासृग्वातनाशनम् केश्यं रसायनं मेध्यं काश्मर्यफलमुच्यते Il ( सुश्रुत Kasmari phala majja is atyanta pitta haratvat Its phala is hrdya, kesya, rasayana, medhya, alleviates mutravibandha, pitta, asrg vata. काश्मरीकटुकातिक्ता गुरूष्णा कफशोफनुत् त्रिदोषविषदाहार्त्तिज्वरतृष्णस्रदोषजित् II (Rjn) It is katu, tikta in rasa, guru in guna, usna in veerya, alleviates kapha, sopha, tridosha visha, daha jvara, trsna and asra dosha दोषतृष्णाभ्रशूलार्शोविषदाहज्वरापहा तत्फलं बृंहणं वृष्यं गुरुकेश्यं रसायनम्| | वातपित्ततृषारक्तक्षयमूत्रविबन्धनुत् | स्वादुपाकं हिमं स्निग्धं तुवाराम्लविशुद्धिकृत् | हन्याद्दाहतृषावातरक्तपित्तक्षतक्षयात् Il (Bpn) It cures trsna, bhrama sula, arsa, visa, daha and jvara Its phala is snigdha, tuvara, amla in rasa, guru in guna hima in veerya, svadu in paka visuddhikaraka brmhana, vrshya, kesya, rasayana, alleviates vata, pitta, trsha, rakta ksaya, mutravibandha, daha, trsha, vatarakta, pitta, ksata, ksaya

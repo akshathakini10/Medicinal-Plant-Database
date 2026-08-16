@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8083c28b8ebf32eee16fd8dbe84c9c8c
+Botanical Name: Dysoxylum binectariferum HOOK. F.
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 3 languages. Kannada (6) - agil, agilu, kaadugandha, kadgandha, kadugadda, kadugandha Marathi (2) - erand, yerandi Tamil (4) - agil, akuni, akunivakil, akuniyakil
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8083c28b8ebf32eee16fd8dbe84c9c8c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8083c28b8ebf32eee16fd8dbe84c9c8c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8083c28b8ebf32eee16fd8dbe84c9c8c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

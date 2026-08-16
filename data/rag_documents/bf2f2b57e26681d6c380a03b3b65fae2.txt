@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bf2f2b57e26681d6c380a03b3b65fae2
+Botanical Name: Hamamelis virginiana L.
+Family: Hamamelidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. English (1) - witch hazel
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf2f2b57e26681d6c380a03b3b65fae2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf2f2b57e26681d6c380a03b3b65fae2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

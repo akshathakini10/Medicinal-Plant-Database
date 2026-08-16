@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bb4a2f17e43a45c6c40adfce82f77fa0
+Botanical Name: Ceropegia tuberosa ROB.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 29 Vernacular names found in 6 languages. Hindi (1) - patalatumbi Kannada (7) - bachha manda, bitharige, bittarige, bittarike, bittharike, bittiruka, jatili Marathi (2) - kanvel, paralatumbdi Sanskrit (8) - Sanskrit Comments  bhutumbi, devi, divyatumbi, gartalabu, gilodya, nagatumbi, shakrachapasamudbhav, valmikasambhava Tamil (1) - manda Telugu (10) - baccaimande, bachalimanda, bachchalimandu, bachhalimanga, bellagada, bellamgadda, langatai, nimmatai, pullamanda, pullamanga dumpa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb4a2f17e43a45c6c40adfce82f77fa0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 513
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/513.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb4a2f17e43a45c6c40adfce82f77fa0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gilodya
+sanskrit_name: गिलोड्य
+transliteration: giloḍya
+ref_drug_name: गिलोड्य
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

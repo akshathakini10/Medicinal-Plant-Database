@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 971e458afa739914cb5003d3b1bcc6ec
+Botanical Name: Pentanema indicum (L.) LING
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Vicoa auriculata CASS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 4 languages. Hindi (2) - banjori, sonkadi Kannada (3) - hannavarikasoppu, mooguthi soppu, mugutisoppu Tamil (3) - jimikipoo, mookuti poondu, mukkorrippuntu Telugu (1) - adivi proddu tirgudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/971e458afa739914cb5003d3b1bcc6ec/xclkon/f5bd8859c6aca37f19dcc5de82c401b2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/971e458afa739914cb5003d3b1bcc6ec
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/971e458afa739914cb5003d3b1bcc6ec/xclkon/0bf4a5f1edef56943160ce710e7791dc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/971e458afa739914cb5003d3b1bcc6ec/xclkon/f5bd8859c6aca37f19dcc5de82c401b2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/971e458afa739914cb5003d3b1bcc6ec
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/971e458afa739914cb5003d3b1bcc6ec/xclkon/0bf4a5f1edef56943160ce710e7791dc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/971e458afa739914cb5003d3b1bcc6ec/xclkon/f5bd8859c6aca37f19dcc5de82c401b2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

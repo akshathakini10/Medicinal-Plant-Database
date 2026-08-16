@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0487812b0cc32dc0742a1efb484b6759
+Botanical Name: Enicostemma axillare (LAM.) RAYNAL
+Family: Gentianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Adenema hyssopifolium G. DON Enicostemma hyssopifolium (WILLD.) VERDOORN
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 75 Vernacular names found in 7 languages. Hindi (12) - chhota chirayata, chhota-chirayata, chhotakirayata, chota cirayita, chota-chiretta, chota-kirayat, katvinayi, naame, nahli, navli, nawari, nawri Kannada (3) - chikka chiraayatha, chikka chiraayuta, chikka chirayutha Malayalam (2) - vallari, vellaruku Marathi (3) - kadavinayi, mamijva, tanavadi Sanskrit (16) - Sanskrit Comments  krimihrita, ksharakarma, kshitaukshupa, mabhijaka, magajihva, mamajaka, mamajjaka, mamajjakah, mamejaka, nagajihva, nagajivha, nagjihva, nahi, nahu, rasna, tiktapatra Tamil (32) - arukumuli, cakkiraviraiyanantan, cakulatcam, cantam, cataviriyam, cilettumattaippakkuvampanni, citalatam, cuvetakantam2, cuvetakantavaruku, cuvetaki4, cuvetakiyarukucceti, cuvetaturu, cuyakaritakanaci, cuyavani, iyavarikacceti, iyavarikam, kulomi, parataviturantam, parccakikavaruku, parkkavi 2, titta, titta@, tittai1, tittaruku, tittarukucceti, vallari, vellaragu, vellarugu, vellaruku, vellarukucceti, velruku, vennaruku Telugu (7) - gulvidi, nela-guli, nela-gulimidi, nelagolimidi, nelaguli, nelagulimidi, nelagurugudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/8dcbc8be9dc1f819bf5aca921df61e50
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 896
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/896.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/9389a52415f266548bb20100de980132
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/ac665fc7bd62e0aa6dfcb2f1c8b02fcb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/4616c13b6cdcf30b2790cdb511889aa6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/8dcbc8be9dc1f819bf5aca921df61e50
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/9389a52415f266548bb20100de980132
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/ac665fc7bd62e0aa6dfcb2f1c8b02fcb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/4616c13b6cdcf30b2790cdb511889aa6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/8dcbc8be9dc1f819bf5aca921df61e50
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/9389a52415f266548bb20100de980132
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/ac665fc7bd62e0aa6dfcb2f1c8b02fcb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/4616c13b6cdcf30b2790cdb511889aa6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0487812b0cc32dc0742a1efb484b6759/xclkon/8dcbc8be9dc1f819bf5aca921df61e50
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

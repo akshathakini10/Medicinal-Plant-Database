@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0142c23b1b00d45b6a2c8d8d4298c0ea
+Botanical Name: Justicia tranquebariensis L.F.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 4 languages. Kannada (3) - kaddiyarakina, kaddiyarakina gida, shiva naaru balli Sanskrit (1) - Sanskrit Comments  pindi Tamil (23) - kakanacam1, mutaliyar, narimurunkai, narimurunkaicceti, niyakkiyam, niyakkiyamaram, pilavumurunkai, pinnakkucceti 1, punakappuntu, punnakkuppuntu 1, punnakupudi, putanayaki, putanayakicceti, sivanarvembu, taciver, tavaci, tavacimurunkaicceti, tavacumurunkai, tavamurunkai, tavashoo moorunghie, tavattumurunkai, tavicimurunkai, vankanattam Telugu (4) - chikerachettu, kondapindi, pindikonda, redamandalam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0142c23b1b00d45b6a2c8d8d4298c0ea
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0142c23b1b00d45b6a2c8d8d4298c0ea
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0142c23b1b00d45b6a2c8d8d4298c0ea
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0142c23b1b00d45b6a2c8d8d4298c0ea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

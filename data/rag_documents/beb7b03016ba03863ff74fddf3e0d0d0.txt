@@ -1,0 +1,88 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: beb7b03016ba03863ff74fddf3e0d0d0
+Botanical Name: Ficus hispida L.F.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Ficus oppositifolia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 194 Vernacular names found in 9 languages. Hindi (20) - dagur, debre, ghauter, ghogsha, gobla, kagsha, kalmungri, kat-gularia, katamar, katamba, katgular, katgularia, katguleriya, kathumaea, katumbri, konea-dumbar, konea-dumber, koneadumbar, malpu, totmila Kannada (19) - adavi atthi, adavi-atti, adaviatti, adaviyatti, challu, jaghunepatthi, kaadatthi, kaadu aththi, kaadu atthi, kad-atthi, kadatti, kaduatti, kallaatha, kallartthi, kallatthi, medi, olapaara, olapara, voala paatha Malayalam (12) - atti, eruma-nakku, erumanakku, erumanaku, kattatti, paraka-pazham, parakam, parom, pe-yatti, peragam, perin-teregam, peyatti Marathi (16) - bhokada, bhokhaada, bhuyidambar, bokeda, bokria, dherumbar, kala-umber, kalaumber, katumber, kharawat, kharoti, kharwat, kurwut, sharoti, vede umde, vhadli-kharvamt Sanskrit (32) - Sanskrit Comments  ajaji, ajakshi, asuma, bhadrodumbarika, chitrabhashaja, dhvankshanamni, jaghanaphala, jaghanephala, kakadumbar, kakadumbura, kakahvanodumbari, kakodphalgu, kakodumbarika, karkashachaduna, kastodumbara, kharadala, kharapatrika, kshiri, kshudrodumbarika, kushthaghni, malapu, malayu, mulakarkati, phalguni, phalguvatika, phalu, rajika, udumbaraphala, ummattodumbara, ummettodumbara, ummiattodumbara, vitrabaisajya Tamil (50) - akacakarutati, akacakkarutatimaram, cattirapetcam, cemapalai, cemapalam, chona athi, chona-atthi, chona-attni, civatikam, conai, conaiyatti#, conaiyatti@, conatti, copakari, kakotumparikai, kanatti, kattatti, kattu atti, kattu-atthi, kattuva, katukattimaram, katukkatti, koti atti, kuttakantu, kuttakkinam 1, niratti 1, ottanalam, ottanali, ottannalam, palakari, palakuracam, pantu, pantunacanimaram, pe-allippayam, pe-atthi, pe-atti, pe-attip-pazham, pe-attiss, pechi, pei-atthi, peiatthi, pethi, peyatthi, peyatti, peyppacikam, peyppacikamaram, putattimaram, sonatti, utumparam 3, viranahari Telugu (41) - adavi-atti, adaviatti, bamari, bemmadu, bemmedi, boda, bodamamadee, bodamamadi, bodamamidi, bodda marri, boddamarri, boddamatthi, boddamatti boddamedi, boddamedi, bodmaamidi, boma-medi, bommamedi, bommedu, bommudu, brahma medi, bramhmamedi, bummarri, kaakimedi, kaki medi, kakimedi, karakabodda, karasaana, karasana, korasanachettu, kukka bodda, kukka-bodda, kukkabodda, tarasu, verriatti, verriatti-pandlu, verrimedi, verriyatti, verse atti-pandhlu, vettimedi, vettiyatthi, vettiyatti Tibetan (2) - dal ku na, phal ku na (p) Urdu (2) - anjeerdashthi, khatomarry
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0/xclkon/35c1f3a5d7a7cf8db6d6576087067ebb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0/xclkon/35c1f3a5d7a7cf8db6d6576087067ebb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0/xclkon/35c1f3a5d7a7cf8db6d6576087067ebb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0/xclkon/35c1f3a5d7a7cf8db6d6576087067ebb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0/xclkon/35c1f3a5d7a7cf8db6d6576087067ebb
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb7b03016ba03863ff74fddf3e0d0d0/xclkon/35c1f3a5d7a7cf8db6d6576087067ebb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakodumbara
+sanskrit_name: काकोदुम्बर
+transliteration: kākodumbara
+ref_drug_name: काकोदुम्बर
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Kakodumbara
+sanskrit_name: काकोदुम्बर
+transliteration: kākodumbara
+ref_drug_name: काकोदुम्बर
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Kakodumbarika
+sanskrit_name: काकोदुम्बरिका
+transliteration: kākodumbarikā
+ref_drug_name: काकोदुम्बरिका
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kakodumbarika
+sanskrit_name: काकोदुम्बरिका
+transliteration: kākodumbarikā
+image_urls: https://www.medicinalplants.in/slokaimages/745/745_1.jpg https://www.medicinalplants.in/slokaimages/745/745_2.jpg
+ocr_text: काकोदुम्बरिका शीता कषाया व्रणनाशिनी गुर्विणी गर्भरक्षायां हिता स्तन्यप्रदायिनी| | आमानिलप्रशमनी पक्वा गौल्याम्लका कटुः व त्वग्दोषरक्तपित्तघ्नी तद्वल्कमतिसारजित् फलं तु शीतलं स्वादु कषायं गुरु कर्षणम्| शुक्रलं मधुरं पाके स्निग्धं विष्टम्भि बृंहणम् ग्राहि वातं कफं पित्तं क्षयदाहविषास्रजित्| त्वचा शीता कषाया व्रणनाशिनो T IRjn) Kakodumbarika is kashaya in rasa, guru in हuna, sita in veerya, vrana nasini , garbharakshya, stanya pradayini, ama-anila prasamani. Pakva kakodumbarika is gaulyaimadhural, amalaka , katu rasa alleviates tvag dosha, rakta and pittaghni. Its valkam cures atisara. Phala is svadu, kashaya in rasa, guru, snigdha, vistambhi, grahi in guna, sita in veerya, madhura in paka, karshana, sukrala, brmhana cures vata kapha, pitta, ksaya, daha, visa and asra vikara. Its tvak is kashaya in rasa, sita in veerya, and cures vrana उदुम्बरी काकोदुम्बरिका शीता कषाया दद्रुघातिनी [ रक्तातिसारहन्त्री च मुखनासास्रघातिनी| | KSodalal Kakodumbarika is kashaya in rasa, sita in veerya, cures aaaru, raktatisara and mukha nasa asra ghatini.

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a51d0ed20f7cbade0f76b89fbea77c74
+Botanical Name: Citrus bergamia RISSO.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 8 languages. English (1) - bergamot orange Hindi (6) - limu, limun, lumum, nibu, nimbu, ninbu Kannada (3) - cherunaranga, limbay, nimbe-hannu Malayalam (3) - cheru-naranna, cherunarakam, jonakam-naranna Marathi (2) - kagdi limbu, limbu Sanskrit (3) - Sanskrit Comments  jambeeram, jambha, jambiraphalam Tamil (4) - elumiccai, elumich-cham-pazham, elumichai, elumichhai Telugu (2) - nimma-pandu, nimmapandu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a51d0ed20f7cbade0f76b89fbea77c74
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a51d0ed20f7cbade0f76b89fbea77c74
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a51d0ed20f7cbade0f76b89fbea77c74
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

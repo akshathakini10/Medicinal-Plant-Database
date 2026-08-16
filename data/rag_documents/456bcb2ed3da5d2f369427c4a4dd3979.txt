@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 456bcb2ed3da5d2f369427c4a4dd3979
+Botanical Name: Premna corymbosa ROTTL.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 5 languages. Hindi (2) - ageta, arni Kannada (1) - takkila Malayalam (1) - munna Tamil (10) - kulamani, kulmunnai, muney-kerai, munnai, munnay, nalla pinna, pasumunnai, seeiththalai, upatecikai, upatecikamaram Telugu (16) - naaruva, nagoora, nagum, nagura, narara, paamanthi, padmaka, pamanti, pedda naaruva, pedda narava, pedda narva, peddanarava, peddanaruva, peddanarva, poddanaruva, pomanti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/456bcb2ed3da5d2f369427c4a4dd3979
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/456bcb2ed3da5d2f369427c4a4dd3979
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/456bcb2ed3da5d2f369427c4a4dd3979
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

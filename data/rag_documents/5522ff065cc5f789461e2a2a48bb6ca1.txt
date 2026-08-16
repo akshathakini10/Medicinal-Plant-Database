@@ -1,0 +1,137 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5522ff065cc5f789461e2a2a48bb6ca1
+Botanical Name: Prunus cerasoides D.DON
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Prunus puddum (WALL.) ROB. E BRANDIS
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 51 Vernacular names found in 9 languages. Hindi (12) - alu-bhukara, alucha, padam, paddam, padmakashtha, painya, paja, pajia, patmakath, patmakh, paya, phaja Kannada (1) - padmaka Malayalam (3) - patimukam, patimukham, patumukam Marathi (3) - padmaka, padmakaashta, padmakastha Sanskrit (26) - Sanskrit Comments  charu, ha, hima, kaidara, kedaraja, malaya, maleya, padmagandhi, padmaka, padmakah, padmakam, padmakasthah, padmaksh, padmaksha, padmanaluka, padmavhaya, padmavriksha, patalapushpavarnaka, patalaputrasanibha, pita, pitaka, pitarakta, rakta, shitala, shubha, sugrabha Tamil (1) - patumugam Telugu (1) - padmakla Tibetan (3) - sug ba, sug pa, sug-pa Urdu (1) - padmakh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1/xclkon/4ba7676f1d5e7be38769bb3d64960f24
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1747
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1747.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1/xclkon/4ba7676f1d5e7be38769bb3d64960f24
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1/xclkon/4ba7676f1d5e7be38769bb3d64960f24
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1/xclkon/4ba7676f1d5e7be38769bb3d64960f24
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5522ff065cc5f789461e2a2a48bb6ca1/xclkon/4ba7676f1d5e7be38769bb3d64960f24
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Padmaka
+sanskrit_name: पद्मक
+transliteration: padmaka
+ref_drug_name: पद्मक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Padmaka
+sanskrit_name: पद्मक
+transliteration: padmaka
+ref_drug_name: पद्मक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Padmaka
+sanskrit_name: पद्मक
+transliteration: padmaka
+ref_drug_name: पद्मक उपजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Padmaka
+sanskrit_name: पद्मक
+transliteration: padmaka
+ref_drug_name: पद्मक उपजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Padmaka - upajati
+sanskrit_name: पद्मक उपजाति
+transliteration: padmaka upajāti
+ref_drug_name: पद्मक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 6
+drug_name: Padmaka - upajati
+sanskrit_name: पद्मक उपजाति
+transliteration: padmaka upajāti
+ref_drug_name: पद्मक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Padmaka - upajati
+sanskrit_name: पद्मक उपजाति
+transliteration: padmaka upajāti
+ref_drug_name: पद्मक उपजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 8
+drug_name: Padmaka - upajati
+sanskrit_name: पद्मक उपजाति
+transliteration: padmaka upajāti
+ref_drug_name: पद्मक उपजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Padmaka
+sanskrit_name: पद्मक
+transliteration: padmaka
+image_urls: https://www.medicinalplants.in/slokaimages/1347/1347_1.jpg https://www.medicinalplants.in/slokaimages/1347/1347_2.jpg
+ocr_text: पद्मकं शिशिरं स्निग्धं कषायं रक्तपित्तनुत् | गर्भस्थैर्यकरं प्रोक्तं ज्वरच्छर्दिविषापहम | | मोहदाहज्वरभ्रान्तिकुष्ठविस्फोटशान्तिकृत् पद्मकं शीतलं तिक्तं रक्तपित्तविनाशनम् IDhn Rjn) Paamaka is kashaya in rasa, snigdha in guna, sisira in veerya, garbhasthairya kara, alleviates raktapitta, jvara chardi, visa, moha, daha, jvara, bhranti, kustha and visphota. Paamaka is tikta in rasa , sita in veerya and destroys rakta pitta. पद्मकं तिक्तं शीतलं वातलं लघु विसर्पदाहविस्फोटकुष्ठश्लेष्मास्रपित्तनुत् गर्भस्थापनं रुच्यं वमिव्रणतृषाप्रणुत् (Bpn ) Paamaka is tuvara, tikta in rasa, laghu in guna, sita in veerya, increases vata, is garbha sthapana, rucya, alleviates visarpa, daha, visphota, Kustha, slesma, asra, pitta, vami, vrana and trsa तुवरं
+
+Shloka Record 2
+drug_name: Padmaka - upajati
+sanskrit_name: पद्मक उपजाति
+transliteration: padmaka upajāti
+image_urls: https://www.medicinalplants.in/slokaimages/1347/1347_1.jpg https://www.medicinalplants.in/slokaimages/1347/1347_2.jpg
+ocr_text: पद्मकं शिशिरं स्निग्धं कषायं रक्तपित्तनुत् | गर्भस्थैर्यकरं प्रोक्तं ज्वरच्छर्दिविषापहम | | मोहदाहज्वरभ्रान्तिकुष्ठविस्फोटशान्तिकृत् पद्मकं शीतलं तिक्तं रक्तपित्तविनाशनम् IDhn Rjn) Paamaka is kashaya in rasa, snigdha in guna, sisira in veerya, garbhasthairya kara, alleviates raktapitta, jvara chardi, visa, moha, daha, jvara, bhranti, kustha and visphota. Paamaka is tikta in rasa , sita in veerya and destroys rakta pitta. पद्मकं तिक्तं शीतलं वातलं लघु विसर्पदाहविस्फोटकुष्ठश्लेष्मास्रपित्तनुत् गर्भस्थापनं रुच्यं वमिव्रणतृषाप्रणुत् (Bpn ) Paamaka is tuvara, tikta in rasa, laghu in guna, sita in veerya, increases vata, is garbha sthapana, rucya, alleviates visarpa, daha, visphota, Kustha, slesma, asra, pitta, vami, vrana and trsa तुवरं

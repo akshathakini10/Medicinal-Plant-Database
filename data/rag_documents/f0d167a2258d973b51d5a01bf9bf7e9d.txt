@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f0d167a2258d973b51d5a01bf9bf7e9d
+Botanical Name: Crinum latifolium L.
+Family: Amaryllidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 5 languages. Kannada (1) - visha mungali Malayalam (1) - sjovanna-pola-tali Marathi (4) - gadambhikanda, gandani-kanda, golkamdo, gul-sabu Sanskrit (3) - Sanskrit Comments  cakrangi, daddhyali, sudarsana Tamil (1) - vishamungil
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0d167a2258d973b51d5a01bf9bf7e9d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0d167a2258d973b51d5a01bf9bf7e9d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0d167a2258d973b51d5a01bf9bf7e9d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sudarsana
+sanskrit_name: सुदर्शन
+transliteration: sudarśana
+ref_drug_name: सुदर्शन
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Sudarsana
+sanskrit_name: सुदर्शन
+transliteration: sudarśana
+image_urls: https://www.medicinalplants.in/slokaimages/507/507_1.jpg
+ocr_text: सुदर्शनासोमवल्लीचक्राङ्गीमधुपर्णिका | सुदर्शनास्वादुरुष्णाकफशोफास्रवातजित् IBpn) Sudarsana is svadu in rasa, usna in veerya, alleviates kapha, asra, vata and sopha Sudarsana, somavalli, cakranga, madhuparnika are its synonyms

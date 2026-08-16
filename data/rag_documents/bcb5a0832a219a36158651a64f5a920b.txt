@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bcb5a0832a219a36158651a64f5a920b
+Botanical Name: Phyllanthus acidus (L.) SKEELS
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cicca acida MERRILL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 91 Vernacular names found in 8 languages. English (1) - otaheite gooseberry Hindi (5) - chaimeri, chalmeri, harfarauri, nari, narphal Kannada (10) - aranelli, are nelli, arenelli, karinelli, kirinelli, kirnelli, kirunelli, nakshatra nelli, raayanelli, rayaranelli Malayalam (6) - arinelli, arinellikka, neli-pouli, nelipouli, nellippuli, nellipuli Marathi (5) - avil, haraphroti, harpurrewdi, ray-avil, rojamvali Sanskrit (11) - Sanskrit Comments  ghana, komalavalkala, lavali, lavaliphala, lavani, pandu, rayamalaka, skandhaphala, srigdha, sugandhamoola, sugandhamula Tamil (33) - amalakam 1, amalam 1, aranelli, ari 1, arinelli, arinellimaram, aru nelli, aru-nelli, arunelli, catakam, catatakamaram, catataram, catataran, chandagam, cirunelli 1, kila-nelli, kirakaniyam, kirakaniyamaram, pauttiranelli, pauttiranellimaram, puttari, puttattiri#, puttattiri@, sadadaram, sadagam, tanuttuvacacceti, tanuttuvacai#, tanuttuvacai@, tanuttuvacam#, tanuttuvacam@, tavittuppalam, vekupattiri 1, vekupattirimaram Telugu (20) - raacha usirika, raachayusirika, racavusarike, racavusiri, racayusirika, raccavusirikaya, racha usiri, rachauserike, rachausirika, rachayusirika, rassauseriki, ratasavusiriki, ratsausirike, ratsausiriki, ratsausirki, ratsavusirikai, ratsavusiroki, russausareki, russauserekee, usiri chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/7defaa1caf7360c875976449d9e9df77
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/1b1b0fb3df3c7f2c439e9d6f6417028d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/7defaa1caf7360c875976449d9e9df77
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/1b1b0fb3df3c7f2c439e9d6f6417028d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/7defaa1caf7360c875976449d9e9df77
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/b356be66a5797682eec6c7018c9d8beb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/1b1b0fb3df3c7f2c439e9d6f6417028d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcb5a0832a219a36158651a64f5a920b/xclkon/7defaa1caf7360c875976449d9e9df77
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

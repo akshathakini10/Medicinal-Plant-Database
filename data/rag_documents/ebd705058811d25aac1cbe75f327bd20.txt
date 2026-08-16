@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ebd705058811d25aac1cbe75f327bd20
+Botanical Name: Thysanolaena maxima (ROB.) KUNTZE
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Thysanolaena agrostis NEES.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 6 languages. English (2) - american grass, tiger grass Hindi (3) - broom-grass, naktura, nastura Kannada (1) - konda cheepuru Sanskrit (2) - Sanskrit Comments  jurna, jurnahva Telugu (5) - cheepur, cheepuru, gaddi, konda, kondacipuru Tibetan (1) - khre rgod
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20/xclkon/8b0668e11db5354512cc8fa5c301231d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20/xclkon/8b0668e11db5354512cc8fa5c301231d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20/xclkon/8b0668e11db5354512cc8fa5c301231d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd705058811d25aac1cbe75f327bd20
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

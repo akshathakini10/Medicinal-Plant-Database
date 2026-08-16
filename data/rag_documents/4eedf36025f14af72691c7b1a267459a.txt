@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4eedf36025f14af72691c7b1a267459a
+Botanical Name: Tephrosia candida DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 4 languages. English (2) - boga medalo, boga medaloa Hindi (1) - ban tor Kannada (3) - kaashi agasthe, koggi gida, kolinji Sanskrit (1) - Sanskrit Comments  sarapunkha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eedf36025f14af72691c7b1a267459a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eedf36025f14af72691c7b1a267459a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sarapunkha - prajati
+sanskrit_name: शरपुङ्खा प्रजाति
+transliteration: śarapuṅkhā prajāti
+ref_drug_name: शरपुङ्खा प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 67e26f250ed5838fe00e5c4cba5dd39f
+Botanical Name: Anamirta cocculus (L.) WIGHT & ARN.
+Family: Menispermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cocculus suberosus DC. Menispermum cocculus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 107 Vernacular names found in 9 languages. English (3) - cocculus indicus, fish berries, picrotoxin Hindi (4) - jermae, kakamari, kakmari, kakmari-ke-binj Kannada (20) - chiplothi, chippula kaayi, chipula kolli, chipulu, ciplotte, cipullukolli, cipulu, garuda phala, haenu beeja, kaage maari, kaagemaari, kaaka maari, kaakamaari, kaaki soppu gadde, kaakkisoppu gade, kagemari, kakamari, kakamari-bija, kakisoppugadde, kakkisoppugade Malayalam (25) - anakrytu, anamrytu, garalaphala, garaphala, kaandakaconuveh, kantakakonnuveli, kantakakunavam, karanta-kattin-kaya, karantakam, kollakkaya, meenanu, minnannu, miunannu, nacattinkayi, naccattinkaya, nanjinkuru, nanjukuru, nanninkuru, pellakkaya, pettumarunnu, polla, pollaconuveh, pollak-kaya, pollakkaya, pullukunavam Marathi (6) - garudaphal, kaakmaaari, kaarvi, kadu-phal, kakmari, karwi Sanskrit (11) - Sanskrit Comments  dhvankshanakhi, garalaphala, kakadani, kakahva, kakamari, kakanashika, kakaphala, kakmari, kaphala, raktala, raktika Tamil (24) - cantiropam, kakacollie verei, kakakulli, kakamari, kakanacam, kakkai kolli, kakkai-k-kolli, kakkaikolli, kakkakolivirai, kakkakoly virai, kakkakolyvirai, kakkay-k-kolli, kakkay-kolli-virai, kakkayk kolli, kakkaykkolli, kakkaykolli, kakkaykollivirai, muratayam, naicikam, nancukkottai, pen kottai, pen-kottai, penkottai, vayacam Telugu (13) - kaaka maari, kaaki chempa, kaka-mari, kakamari, kaki-champa, kakichempoo, kakmari, kodi thige, koditeega, koditige, thippathige, tippateega, tippatige Urdu (1) - mahijehreh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/a3a176bb78529baaad72f76272a192b6
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 174
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/174.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/5c569d9a0104fbae5a2b97a866d1201d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/a3a176bb78529baaad72f76272a192b6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/5c569d9a0104fbae5a2b97a866d1201d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/a3a176bb78529baaad72f76272a192b6
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/5c569d9a0104fbae5a2b97a866d1201d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/a3a176bb78529baaad72f76272a192b6
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/5c569d9a0104fbae5a2b97a866d1201d
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/a3a176bb78529baaad72f76272a192b6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/5c569d9a0104fbae5a2b97a866d1201d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67e26f250ed5838fe00e5c4cba5dd39f/xclkon/a3a176bb78529baaad72f76272a192b6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakadani
+sanskrit_name: काकादनी
+transliteration: kākādanī
+ref_drug_name: काकादनी
+status: Accepted source
+discussion: Analyzing samhitas we can come to the conclusion that it is a type of visa (poison) which is mentioned many a times along with 'Gunja' so considered a type of 'Gunja'; Even the synonym 'Raktika' given to it emphasises that it is 'Gunja';Dalhana in his commentary has mentioned 'Kakajangha' as Gunja; With regard to the above 'Kakadani' is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Kakadani
+sanskrit_name: काकादनी
+transliteration: kākādanī
+ref_drug_name: काकादनी
+status: Controversial
+discussion: Others have identified it with this species which needs to be studied
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

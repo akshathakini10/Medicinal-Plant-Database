@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d3795f6dea157f28331ed680266aa997
+Botanical Name: Cananga odorata HOOK.F. & THOMS.
+Family: Annonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Canangium odoratum BAILL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 3 languages. Kannada (7) - apoorva champaka, apurbachampa, apurvacampaka, kamalada mara, kamanda mara, kananga hoo, katthe sampige Tamil (24) - canpakam, catimanoca, ceti campanki, cirucanpakam, cumana, cuvetaka1, cuvetika, iracaputtiri, irattimanikkakkoti, irattimanikkam, irunti2, karumukai2, malani, malati 1, malatimaram, maramanorancitam, nettiramali, nettiramalimaram, nettiranirumali, pamini, pavalavaruti, picci3, piriyavata, pitti Telugu (2) - apoorvachampakamu, apurvacampakamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3795f6dea157f28331ed680266aa997/xclkon/7abc2f2d74a403dbc3ea11619e0ea8b6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3795f6dea157f28331ed680266aa997
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3795f6dea157f28331ed680266aa997/xclkon/7abc2f2d74a403dbc3ea11619e0ea8b6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3795f6dea157f28331ed680266aa997
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3795f6dea157f28331ed680266aa997/xclkon/7abc2f2d74a403dbc3ea11619e0ea8b6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

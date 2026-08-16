@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 994ced58b729b6f5e108c13b1fbf470e
+Botanical Name: Embelia robusta C.B.CLARK.
+Family: Myrsinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. Hindi (1) - baobring Malayalam (2) - ceriyannatam, tsjeriamcottam Urdu (2) - babarang, baobarang
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/994ced58b729b6f5e108c13b1fbf470e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/994ced58b729b6f5e108c13b1fbf470e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vidanga
+sanskrit_name: विडङ्ग
+transliteration: viḍaṅga
+ref_drug_name: विडङ्ग
+status: Market source
+discussion: This species have been used as its substitute which have more or less similar properties
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vidanga
+sanskrit_name: विडङ्ग
+transliteration: viḍaṅga
+image_urls: https://www.medicinalplants.in/slokaimages/670/670_1.jpg https://www.medicinalplants.in/slokaimages/670/670_2.jpg https://www.medicinalplants.in/slokaimages/670/670_3.jpg https://www.medicinalplants.in/slokaimages/670/670_4.jpg https://www.medicinalplants.in/slokaimages/670/670_5.jpg https://www.medicinalplants.in/slokaimages/670/670_6.jpg https://www.medicinalplants.in/slokaimages/670/670_7.jpg https://www.medicinalplants.in/slokaimages/670/670_8.jpg
+ocr_text: पुंसि क्लीबे विडङ्ंग स्यात् जन्तुनाशनः तण्डुलश्च तथा वेल्लममोघा चित्रतण्डुला Il (Bpnl Pumsi, Kliba, Vidanga, Krmighnam, jantu nasanam, Tanaula, Vellam, Amogha, Citra tandula कृमिघ्नो विडङ्गा चैत्रा तण्डुला तण्डुलीयका वातारिस्तण्डुला प्रोक्तो मृगगामिनी कैरली गह्वराडमोघा कपाली चित्रतण्डुला वरा सुचित्रबीजा जन्तुहन्त्री च षोडशा Il IRjnl Vidanga is otherwise called as Krmiha, Caitra, Tandula, Tanduliyaka, Vatari, Tandula, Jantughni, Mrgagamani, Kairali, Gahvara, Amogha, Kapali, Citra tanaula, Vara, Sucitrabija, Jantuhantri. कृमिहा जन्तुघ्नी विडङ्ग कृमिजिद्वेल्लं जन्तुघ्नं मृगगामिनी कृंमिहन्तृ कैरलं चित्रतण्डुलम् अमोघा तण्डुला घोषा भूतघ्नं कृमिहृदपि IKdnl Vidanga, Krmijit, Vellam, Jantughna, Mrgagamini, Krmihanti, Krmihara, Kairala, Citra tandula, Amogha, Tandula, Ghosha, Krmihrd. कृमिहरं मोघा विडङ्ग कृमिकण्टकम् कैरलं केवलं वेल्लं तण्डुलं चित्रतण्डुलम् ISgn ) Synonyms: Krmighna, Bhasmaka, Mogha, Vidanga, Krmikantaka, Kairala Kevala, Vella, Tandula, Citra tandula. कृमिघ्नं भस्मकं कफवातप्रश्मनं शूलानाहार्तिनाशनम् कृमिघ्नं कटुकं पाके विडङंग परिकीर्तितम् IMdn) Vidanga is Kapha Vata prasamana, Sula Anaha Arti Nasana, Krmighna, Katu in Paka विडङ्गं कटु तीक्ष्णोष्णं रूक्षं वह्निकरं लघु शूलाध्मानोदरश्लेष्मकृमिवातविबन्धनुत् |l (Bpnl Vidanga is Katu in rasa, Tiksna, Ruksa, in Guna, Usna in Potency, Vahni kara, Laghu, cures Sula, Adhmana, Udara, Slesm, Krmi, Vata vibandha. रूक्षोष्णं पाके लघु वातकफापहम् ईषतिक्तकं विषान् हन्ति विडङ्गं कृमिनाशनम् IDhn ) Vidanga is Ruksa in Guna, Usna in Potency, Katu in Paka, Laghu in Guna, Vata-Kapha hara, Isat Tikta, Visan Hanti, Krmi Nasana कटुकं विडङ्ंग कटुरुष्मा च अग्निमान्द्यारुचिभ्रा नि कृमरदाषक्वैमार्शिनृता IRjn) Vidanga is Katu in Rasa, Usna in Potency, Laghu in Guna, Kapha Arti Nasa, cures Agnimandya, Aruci, Bhranti, Krmi.

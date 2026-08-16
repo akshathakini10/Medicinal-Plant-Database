@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4b4639016d5bc42e019812b3091a66a1
+Botanical Name: Amomum xanthioides WALL.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 6 languages. Hindi (1) - ilayechi Kannada (1) - kaadu aelakki Marathi (1) - elachi Sanskrit (1) - Sanskrit Comments  brhadela Tamil (2) - elam, malakayelam Telugu (1) - elakulu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b4639016d5bc42e019812b3091a66a1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b4639016d5bc42e019812b3091a66a1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b4639016d5bc42e019812b3091a66a1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b4639016d5bc42e019812b3091a66a1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Brhadela - prajati
+sanskrit_name: बृहदेला प्रजाति
+transliteration: bṛhadelā prajāti
+ref_drug_name: बृहदेला प्रजाति
+status: Accepted source
+discussion: This species is nonnative to India and known by the name ‘Malabar or Tavoy cardamom’ which comes from Burma, Vietnam and Malaysia
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

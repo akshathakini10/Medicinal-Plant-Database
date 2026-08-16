@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9df1a3a619648ac530c2b8f394231a8e
+Botanical Name: Nymphoides indica (L.) KUNTZE
+Family: Menyanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Limnanthemum indicum GRISEB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 5 languages. Hindi (2) - bara chuli, kumudini Kannada (1) - neeru thaavare Malayalam (2) - chinnambal, nedel-ambel Marathi (1) - kamadi Telugu (1) - anthara thaamara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9df1a3a619648ac530c2b8f394231a8e/xclkon/9c50369e07bb8ce75bd26cf1dc510942
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9df1a3a619648ac530c2b8f394231a8e/xclkon/cd8bcdd83b2538826828299cba75e9bc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9df1a3a619648ac530c2b8f394231a8e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9df1a3a619648ac530c2b8f394231a8e/xclkon/9c50369e07bb8ce75bd26cf1dc510942
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

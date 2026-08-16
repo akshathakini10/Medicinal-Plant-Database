@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 95ce22e6aa2a6262dd82bbcaa7924eb6
+Botanical Name: Asarum europaeum L.
+Family: Aristolochiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 5 languages. English (1) - asarabacca Hindi (1) - taggar Sanskrit (2) - Sanskrit Comments  oopana, upana Tamil (7) - kokanam, kuyakkalam, mittirukkan cevi, mootricunjayvie, nilak-kadambu, nilakkatam, nilakkatampu Urdu (4) - asaarun, asaron, asaroon, asarun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95ce22e6aa2a6262dd82bbcaa7924eb6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95ce22e6aa2a6262dd82bbcaa7924eb6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95ce22e6aa2a6262dd82bbcaa7924eb6
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95ce22e6aa2a6262dd82bbcaa7924eb6
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95ce22e6aa2a6262dd82bbcaa7924eb6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

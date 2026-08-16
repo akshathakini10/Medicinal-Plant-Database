@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 62d130bc13bc1a8ef31760ce19e04b78
+Botanical Name: Launaea nudicaulis HOOK.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Tamil (1) - ehzuttanippundu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62d130bc13bc1a8ef31760ce19e04b78
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62d130bc13bc1a8ef31760ce19e04b78
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62d130bc13bc1a8ef31760ce19e04b78
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

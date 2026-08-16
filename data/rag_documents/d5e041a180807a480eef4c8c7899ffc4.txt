@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d5e041a180807a480eef4c8c7899ffc4
+Botanical Name: Vitex peduncularis WALL .
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. Hindi (6) - charaigorwa, chhagriaruba, minjurgorwa, nagbail, nagbail nagpheni, nagpheni Kannada (3) - navaladi, seeme navilaadi, seeme navulaadi Sanskrit (2) - Sanskrit Comments  kakajangha, paravatapadi Telugu (1) - navaladi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e041a180807a480eef4c8c7899ffc4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2219
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2219.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e041a180807a480eef4c8c7899ffc4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e041a180807a480eef4c8c7899ffc4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakajangha
+sanskrit_name: काकजंघा
+transliteration: kākajaṃghā
+ref_drug_name: काकजंघा
+status: Controversial
+discussion: Kakajangha' is not mentioned in Caraka samhita where as in Susruta it has been cited at one place and in Astanga Hridaya its use has been mentioned in various conditions; Dalhana has interpreted it as a drug which was popular during those times; Dhanvantari nighantu has mentioned it as a variety of 'Kakamaci'; Presently 3 drugs are popularly known as 'Kakajangha' and this is one among them
+reference: [5]
+
+Identity Record 2
+drug_name: Pracibala
+sanskrit_name: प्राचीबल
+transliteration: prācībala
+ref_drug_name: प्राचीबल
+status: Controversial
+discussion: Needs to be studied as the identity of the plant is disputed
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

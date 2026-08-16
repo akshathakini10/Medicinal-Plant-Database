@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b3f3f0b81604f5494bdd8972ebcef10e
+Botanical Name: Exacum bicolor ROB.
+Family: Gentianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 4 languages. Hindi (2) - bara-charayatah, habshi-charayatah Kannada (1) - dodda chirayutha Marathi (1) - udi kirayatem Tamil (1) - ceti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3f3f0b81604f5494bdd8972ebcef10e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3f3f0b81604f5494bdd8972ebcef10e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3f3f0b81604f5494bdd8972ebcef10e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

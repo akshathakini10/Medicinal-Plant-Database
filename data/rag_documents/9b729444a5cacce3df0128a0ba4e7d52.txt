@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9b729444a5cacce3df0128a0ba4e7d52
+Botanical Name: Lycopersicon esculentum MILL.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lycopersicon lycopersicum (L.) KARST.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 8 languages. English (3) - italian tomato, love apple, tomato Hindi (4) - bilateebaigun, bilayattibemgan, gur began, tamatar Kannada (12) - capparabadane, chapper-bhende, chapperbadnekai, godhe kattu, gonda hannu, goode hannu, goode kattu, kadagolu, kempu chappara badane, tamaato, thakkali, tomato Malayalam (2) - petakkali, takkali Marathi (7) - bailwangi, belavaangi, bhedra, kharooja vaange, thaambeta, tomato, wel wangi Sanskrit (4) - Sanskrit Comments  raktamaci, raktavardhak, ramphala, shak-stmeshdha Tamil (18) - cimaimanattakkali, cimaittakkali, erumaittakkali1, kotittakkali, manikkampu, manikkampucceti, neyccacikari, pennacikam, pennakicacceti, peyttakkali 1, puttirikacceti, puttirikam, seemai thakkali, seemay tekkali, takkali, thakkali, tiranai, yerumaittakkali Telugu (4) - karpoora vankaayi, simavanga, thakkaali pandu, thakkali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52/xclkon/b31643c70ad3423697d24470cb9e94aa
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52/xclkon/c97a6f57de6d05689ee8b46be31edddf
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52/xclkon/b31643c70ad3423697d24470cb9e94aa
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52/xclkon/c97a6f57de6d05689ee8b46be31edddf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52/xclkon/b31643c70ad3423697d24470cb9e94aa
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52/xclkon/c97a6f57de6d05689ee8b46be31edddf
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52/xclkon/b31643c70ad3423697d24470cb9e94aa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52/xclkon/c97a6f57de6d05689ee8b46be31edddf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b729444a5cacce3df0128a0ba4e7d52/xclkon/b31643c70ad3423697d24470cb9e94aa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

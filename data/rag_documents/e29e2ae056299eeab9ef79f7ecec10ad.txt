@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e29e2ae056299eeab9ef79f7ecec10ad
+Botanical Name: Dendrocalamus strictus NEES
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 82 Vernacular names found in 8 languages. English (2) - male bamboo, narvans Hindi (9) - ban, banj, bans, bans bainj, bans/male bamboo, bauntlu, bhabar, tokor, vnahado Kannada (21) - bidiru, chinnabebhura, gandu bidiru, gandubidiru, gandubidru, gandubidura, gandubiduru, kibbidiru, kibbiduru, kiribedru, kiribeduru, kiribidiru, kiribiduru, laukri, lavakiri, lenkri, leukri, panjibedru, panjibeduru, panjibiduru, vasi Malayalam (12) - arinkantam, ceriyamula, cheriamolla, kalmolla, kalmula, karinalimula, karingolimola, karinkana, kolmungil, kullmoollah, kulmoola, kulmoolah Marathi (6) - bans, bharivel, bhoverlit, mango, udh, velu Sanskrit (1) - Sanskrit Comments  bansalochana Tamil (9) - anmunkil, cinnamunkil, cirumunkil, ciruvarai, karanai 2, kattumunkil, naymunkil, pampumunkil, urocanakamunkil Telugu (22) - chittiveduru, cittiveduru, gattiveduru, gettiveduru, kanakaveduru, kanka, kankaveduru, kauka, patuvedaru, potuveduru, raartiveduru, rativeduru, saadanapuvedaru, sadanamveduru, sadanapavedroo, sadanapuveduru, sadhanapuveduru, sadthanavedru, sannavedaru, sannaveduru, vedru, veduru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e29e2ae056299eeab9ef79f7ecec10ad
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e29e2ae056299eeab9ef79f7ecec10ad
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e29e2ae056299eeab9ef79f7ecec10ad
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e29e2ae056299eeab9ef79f7ecec10ad
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

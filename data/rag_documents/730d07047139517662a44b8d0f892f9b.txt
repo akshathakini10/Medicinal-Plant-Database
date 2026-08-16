@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 730d07047139517662a44b8d0f892f9b
+Botanical Name: Casearia zeylanica (GAERTN.) RHW.
+Family: Flacourtiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Casearia esculenta ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 60 Vernacular names found in 6 languages. Kannada (12) - allehaniche, dodda haniche, doddahanice, doddahanise, ekanaathana baeru, ekanaayakana gida, hillange, hillangi, hillechinch, hillehanice, hillehanige, hillehanise Malayalam (11) - cerukannan, cherukannan, malampavata, malampavatta, malampavetta, pannimuranga, pannimurangam, tsjerakanneli, vellakannan, vellakunnam, vellakunnan Marathi (4) - kulkulta, mori, pate, satagan Sanskrit (17) - Sanskrit Comments  bhurigandha, bhutagandha, daitya, divya, gandhadhya, gandhakuti, gandhini, ghandhamadini, kuti, mura, muramansi, puragandhavati, saptacakrah, surabhi, svarnamulah, talaparni, talaparnika Tamil (11) - gutti, kakkai-palai, kakkaippilai, kilar, kolaiaili, kolayayili, kotai aili, kottar kovai, kottargovai, kutti, venjanduvar Telugu (5) - konda jungara, kondadzzunguru, kondajunguru, kondapragara, kundajungura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 459
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/459.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3267a89be1c37cdfadd17e7db9f2095
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3f3dd87e9b3b2fa950ed6a6e98d3efc
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3267a89be1c37cdfadd17e7db9f2095
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b/xclkon/a3f3dd87e9b3b2fa950ed6a6e98d3efc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730d07047139517662a44b8d0f892f9b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Hapusa
+sanskrit_name: हपुषा
+transliteration: hapuṣā
+image_urls: https://www.medicinalplants.in/slokaimages/970/970_1.jpg https://www.medicinalplants.in/slokaimages/970/970_2.jpg
+ocr_text: हपुषा कटुतिक्तोष्णा गुरुर्वातबलासजित् प्रदरोदरविट्बन्धशूलगुल्मर्शसां हितः T IRjn) Hapusa is katu, tikta in rasa, usna in virya, guru which alleviates vata cures pradara, vit bandha, sula, gulma and arsa. हपुषा तुवरा तिक्ता कटूष्णा दीपनी गुरुः ग्रहणीशूलगुल्मार्शो वातपित्तोदरापहा I[ IKdnl Hapusa is tikta, katu in rasa, tuvara Buru in virya, dipani, cures grahani, sula , gulma, arsa, vata pittodara. usna

@@ -1,0 +1,103 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 21e566ad80c6135f91fb60ec06d72722
+Botanical Name: Centratherum anthelminticum (L.) KUNTZE
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Vernonia anthelmintica (L.) WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 153 Vernacular names found in 8 languages. Hindi (15) - bakchi, bakshi, baksi, buckshi, bukchi, ghora jeera, ghora-jeera, ghrajiri, jangli jeera, jangli-jeera, kalijhiri, kalijira, kaliziri, somraj, vapchi Kannada (16) - kaadu jeerige, kaadu-jirige, kaal jeerige, kaala jeerige, kadajirige, kadu-jirigay, kadujirage, kadujirige, kahi jeerige, kalajirdari, kalajirige, karchindi, karijeerigai, karijirige, krishna shadaevi, sahadevi Malayalam (8) - cattu-schiragam, cattuseragam, kalajirakam, katseragam, kattujirakam, kattukjiragam, krmisatru, puvankuruntala Marathi (12) - kaalijeeri, kadu jeeren, kadu karelen, kalajira, kalenjeeri, kalenjiri, kali-jiri, kalijiri, karalye, ranachajire, ranachejeere, sahadevi Sanskrit (32) - Sanskrit Comments  agnibija, aranyajiraka, aranyajirakah, atavi-jirakaha, atavijeeraka, atavijiraka, atavijirakaha, aval, avalguja, braka, brhatpali, guja, ihanyali, kana, kanana-jeraka, kanana-jiraka, kananajiraka, krishnaphala, kshudrapatra, putiphali, rakuchi, somaraja, somaraji, somraji, tiktajirakah, vakuchi, vakuci, vakushi, vanajiraka, vanajirakah, vanya jiraka, vanyajira Tamil (55) - aintavam, akkinipicam, anantalavikam, araniyaciram, araniyakanam, attukocam, avalkucam, caat siragum, canni nayakam, cannikanayan 2, canninayakam 2, canninayan 2, cantira 2, cantirappirapai, cirrilai 2, cirrilaiccirakam, cittilai, civakam 2, comaraci 1, intucakalam, irutalaikkupacceti, irutalaikkupam, kaattu seeragam, kaattu seerakam, kampocam 2, kanti, kattacai, kattirinayakan, kattu cheeragam, kattu cirakam, kattu jeeragam, kattu shiragam, kattu-chira, kattu-shiragam, kattuc-cirakam, kattuccirakam, kattuchiragam, kattusiragam, kiruttinapalam, kuttakkinam 2, nayccirakam, neychitti, nir nochi, nirnocci 2, nirnochi, petukacceti, petukam, peyccirakam, sittilai, urakaccirakam, urakacirakam, utuverakam, utuvokacceti, vanaciram#, vanaciram@ Telugu (14) - adavi-jilakarra, adavi-jilkara, adavijilakara, adavijilakarra, adavijilakatta, adavizeelakura, adivijilakarra, garitikamma, nela vavili, nelavaavili, nelavavili, vishakantakalu, vishakantakamula, vishakantakamulu Urdu (1) - kalyzeery
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 502
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/502.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e566ad80c6135f91fb60ec06d72722/xclkon/fcf45865a19d02817ced62a814450260
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aranyajiraka
+sanskrit_name: अरण्यजीरक
+transliteration: araṇyajīraka
+ref_drug_name: अरण्यजीरक
+status: Accepted source
+discussion: Aranyajiraka is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Brhatpali
+sanskrit_name: बृहत्पाली
+transliteration: bṛhatpālī
+ref_drug_name: बृहत्पाली
+status: Accepted source
+discussion: Has been mentioned in Dhanvantari and Raja nighantu under the Jiraka bheda (type); It is identified with this species and is widely known as 'Kalijiri'
+reference: [5]
+
+Identity Record 3
+drug_name: Somaraji
+sanskrit_name: सोमराजी
+transliteration: somarājī
+ref_drug_name: सोमराजी
+status: Accepted source
+discussion: Sodala has mentioned Somaraji as a synonym of Bakuci as well as described it seperately; This is identified with Kalijiri which is correlated to this species and widely known as 'Soharai' or 'Rai'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Aranyajiraka
+sanskrit_name: अरण्यजीरक
+transliteration: araṇyajīraka
+image_urls: https://www.medicinalplants.in/slokaimages/77/77_1.jpg https://www.medicinalplants.in/slokaimages/77/77_2.jpg
+ocr_text: वनजीरः कटुः शीतो व्रणहाउउध्मानमाशनः (Rin) Vanajira is katu in rasa, sita in veerya, alleviates vrana and pacifies adhmana अरण्यजीरकं चोष्णं तुवरं कटुकं मतम् स्तम्भवातकफहं चैव चैव विनाशयेत् Il (Nir) Aranya jiraka is tuvara, katuka in rasa, usna in veerya, stambhana, alleviates vata, kapha and vrana व्रणं
+
+Shloka Record 2
+drug_name: Soma
+sanskrit_name: सोम
+transliteration: soma
+image_urls: https://www.medicinalplants.in/slokaimages/1446/1446_1.jpg
+ocr_text: सोमक्षीरी धन्वतरुर्यज्ञनेता द्विजप्रियः | | पक्षपत्रो महार्घोअन्यो नहागुल्मो मखप्रभुः | श्येनाहृतस्तस्य भेदा विंशतिश्चतुरुत्तरा| | सोमवल्ली कटुस्तिक्ता त्रिदोषघ्नी रसायनी| KKdn) Synonyms of soma are somaksiri, dhanvataru, yagnaneta, dvijapriya, paksapatra, maharga, mahagulma, makhaprabhu, syenahrt. It is katu, tikta in rasa, alleviates tridoshas rasayana in karma and
+
+Shloka Record 3
+drug_name: Somavalli
+sanskrit_name: सोमवल्ली
+transliteration: somavallī
+image_urls: https://www.medicinalplants.in/slokaimages/1446/1446_1.jpg
+ocr_text: सोमक्षीरी धन्वतरुर्यज्ञनेता द्विजप्रियः | | पक्षपत्रो महार्घोअन्यो नहागुल्मो मखप्रभुः | श्येनाहृतस्तस्य भेदा विंशतिश्चतुरुत्तरा| | सोमवल्ली कटुस्तिक्ता त्रिदोषघ्नी रसायनी| KKdn) Synonyms of soma are somaksiri, dhanvataru, yagnaneta, dvijapriya, paksapatra, maharga, mahagulma, makhaprabhu, syenahrt. It is katu, tikta in rasa, alleviates tridoshas rasayana in karma and

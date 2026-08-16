@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5b378ca6298bdf3418f8dc6ba8dac3d7
+Botanical Name: Givotia rottleriformis GRIFF.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 4 languages. Kannada (7) - bellitalai, bilitale, buditale, butale, polike, pulkeer, pumki Marathi (1) - polki Tamil (16) - camparittanakku, campartanakku, centanakku2, centanakkumaram, pudaralai, putararali, puttali 2, vandarlei, veltanakku, vendalai, vendarirbudali, venkutalam 2, ventali, ventali@, ventanakku#, ventanakku@ Telugu (19) - petiripuliki, pitharipoliki, pitryponaku, poliki, ponaku, puliki, tella puliki, tellapoliki, tellaponaku, tellaponiki, tellaponuku, tellapooliki, tellapoonkee, tellaporaka, tellapuliki, tellapuni, tellapunki, tellapuriki, thellapuliki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b378ca6298bdf3418f8dc6ba8dac3d7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b378ca6298bdf3418f8dc6ba8dac3d7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b378ca6298bdf3418f8dc6ba8dac3d7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

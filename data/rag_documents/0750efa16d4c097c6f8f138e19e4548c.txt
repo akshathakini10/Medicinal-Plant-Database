@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0750efa16d4c097c6f8f138e19e4548c
+Botanical Name: Tamarix aphylla (L.) KARST.
+Family: Tamaricaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 5 languages. English (1) - tamarisk galls Hindi (3) - farash, lal-jhar, laljhav Sanskrit (2) - Sanskrit Comments  jhavuka, macika Tamil (3) - sivappattushavukku, sivappukkottashavukku, sivappusirushavukku Telugu (5) - ettashirisaru, ettaverusaru, farash, lal-jhau, sarru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0750efa16d4c097c6f8f138e19e4548c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0750efa16d4c097c6f8f138e19e4548c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0750efa16d4c097c6f8f138e19e4548c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0750efa16d4c097c6f8f138e19e4548c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jhavuka - prajati
+sanskrit_name: झवूक प्रजाति
+transliteration: jhavūka prajāti
+ref_drug_name: झवूक प्रजाति
+status: Accepted source
+discussion: This is a variety of T.troupii identified as Jhavuka
+reference: [3]
+
+Identity Record 2
+drug_name: Macika
+sanskrit_name: माचीक
+transliteration: mācīka
+ref_drug_name: माचीक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

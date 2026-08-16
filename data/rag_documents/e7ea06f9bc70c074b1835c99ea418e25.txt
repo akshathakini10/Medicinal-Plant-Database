@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e7ea06f9bc70c074b1835c99ea418e25
+Botanical Name: Cayratia trifolia (L.) DOMIN
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cayratia carnosa (WALL.) GAGNEP. E WIGHT
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 68 Vernacular names found in 7 languages. Hindi (16) - amal-bel, amalbel, chamar bel, chamar-bel, char, char-bel, gidad-drak, gidardrak, jordnibel, kassar, khajoor glan, khajoor-glam, khira, pola, ramcana, ramchana Kannada (3) - heggoli, nari draakshi balli, neckila Malayalam (8) - amarcakkoti, chorivalli, corivalli, kattuperanta, sorivalli, tsjori-valli, tsjorivalli, vatakkoti Marathi (7) - ambatvel, ambutvel, amlatbel, dadamadavalli, kadamadavalli, odi, sarbarival Sanskrit (10) - Sanskrit Comments  amlaparni, amlavetasah, aranyavasani, atyamlaparni, ballisurana, banastha, gandirah, kandura, karavadavalli, tikshna Tamil (2) - kattuppirandai, kurudinna Telugu (22) - kaadepathige, kaaniputhige, kaaniyaapathige, kadep-tige, kadepatige, kamputhige, kamputige, kanapatiga, kaniapatige, kaniputige, kaniyapatige, kanupu tige, kurudinne, kurudiune, mandula-maritige, mandulamarithige, mandulamaritige, mekamethani kada, mekamettani, pulimaada, pulimada, pull mada
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 481
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/481.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/3cb3893feaa9ec674602d38d0e8625b1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/b36290e905417724761c92b73a788d66
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/3cb3893feaa9ec674602d38d0e8625b1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/b36290e905417724761c92b73a788d66
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ea06f9bc70c074b1835c99ea418e25/xclkon/10b4256aff4d8d15fbf38003805312cc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 05581ea181890a20a3cd01ce956b2c70
+Botanical Name: Securinega virosa BAILL.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Flueggea microcarpa BLUME
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 63 Vernacular names found in 7 languages. Hindi (14) - athaina, bakarcha, dalme, darim, dhani, ghari, girthan, guala, helpi, jondhi, patala, pichrol, rithoul, rithout Kannada (17) - bela hooli, belahuli, bileehooli, bili hurli, bili sooli, bilisuli, gada hallae, guda haale, gudahale, gudapala, gudaphala, helamagalichera, jarigaro, kare hoola, kare soola, nelamaagali chera, nelamagilicera Malayalam (1) - perinklavu Marathi (4) - kodarsi, kudursi, phandar-phali, vorpithoni Sanskrit (7) - Sanskrit Comments  apiyadruma, bhuriphala, dhusara, nilishila, panduphali, patali, vrittabijaka Tamil (7) - irubulai, pula, varadbula, varal poola, vedbula, vellaipula, veppulathi Telugu (13) - balli-chettu, callamunta, mekaraayi, mekarayi, sulamunata, sulamunta, sulemunta, tella-pullcheri, tellapuli, tellapurugudu, thella-purugudu, thellapuli, thellapurugudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/05581ea181890a20a3cd01ce956b2c70
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/05581ea181890a20a3cd01ce956b2c70/xclkon/969b1dc1b3a4545e39f83ac014c7ab9e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/05581ea181890a20a3cd01ce956b2c70/xclkon/ac4836e899ff8765c87a8c24b1cafd7f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/05581ea181890a20a3cd01ce956b2c70
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/05581ea181890a20a3cd01ce956b2c70/xclkon/969b1dc1b3a4545e39f83ac014c7ab9e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/05581ea181890a20a3cd01ce956b2c70/xclkon/ac4836e899ff8765c87a8c24b1cafd7f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/05581ea181890a20a3cd01ce956b2c70
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

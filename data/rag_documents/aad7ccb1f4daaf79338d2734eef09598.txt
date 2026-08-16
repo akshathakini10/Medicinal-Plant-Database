@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: aad7ccb1f4daaf79338d2734eef09598
+Botanical Name: Tephrosia purpurea PERS. var. pumila
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Tephrosia procumbens BUCH.-HAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  sarapunkha Telugu (1) - vempali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aad7ccb1f4daaf79338d2734eef09598
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aad7ccb1f4daaf79338d2734eef09598/xclkon/2b2278037e9d04a5feea28059913d1c3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aad7ccb1f4daaf79338d2734eef09598
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Sarapunkha
+sanskrit_name: शरपुङ्खा
+transliteration: śarapuṅkhā
+image_urls: https://www.medicinalplants.in/slokaimages/1597/1597_1.jpg https://www.medicinalplants.in/slokaimages/1597/1597_2.jpg
+ocr_text: शरपुंखाः कटुष्णाश्च कृमिवातरुजापहाः श्वेता त्वाशु गुणाढ्या स्यात् प्रशस्ता च रसायने| | कण्टपुंखा कटूष्णा च कृमिशूलविनाशनी| | (Rjnl Sarapunkha is katu in rasa, usna in veerya, alleviates krmi, vata ana ruja Sveta is gunadhya ana prasasta rasayana Kanthapunkha is katu in rasa, usna in veerya, cures krmi and sula. शरपुंखा यकृत्प्लीहगुल्मव्रणविषापहः तिक्त्तः कषायः कासास्रश्वासज्वरहरो लघुः ( IBpn) Sarapunkha is tikta, kashaya in rasa, laghu in guna, alleviates yakrt pliha gulma, vrana , visha, kasa , asra, svasa and jvara

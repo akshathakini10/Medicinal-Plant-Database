@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 685b6edd514a4c36584e487aa2705e14
+Botanical Name: Cissus quadrangularis L.
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Vitis quadrangularis WALT E WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 171 Vernacular names found in 8 languages. Hindi (13) - chodhari, had-jora, hadasarihari, hadjod, hadjora, har-jora, harjora, harsankar, harsankari, jangli-angoor, kandavel, kandavela, nallar Kannada (10) - asthi samhaara, mangaravalli, mangaroli, mangaruli, manimanguravalli, mungaravalli, nalle, sanduballi, sanduburu, sunduballi Malayalam (13) - canalamparanda, cannalamparanta, cannalampiranta, changalaparanda, channalampiranta, isgangalam parenda, peranda, peranta, piranta, puranta, sannalampiranta, tsjamgelam-parenda, tsjungalamparanda Marathi (7) - chaudhari, harsankar, kaandavela, kandavela, kandvel, mhasvel, tridhari Sanskrit (22) - Sanskrit Comments  amara, asthisamhara, asthisamhari, asthisamhrta, asthisandana, asthisandhani, asthisanhara, asthisanharaka, asthisanhari, asthishrinkala, asthisrimkhala, asthisrinkala, asthisrnkhala, astisamhara, granthiman, grantiman, kandalata, kroshtughantika, kulisha, shiralaka, vajrakanda, vajrangi Tamil (93) - arugani, arukani, atticammarakam, aupacalaikkoti, cantumutti, caturappirantai, cikaram@, cillai, ciracunanmukan, indiravalli, intiravalli1, intiravalli@, kakantam, kakarantaki, kalali, kalippirantai, kallimantikakkoti, kapamota, kari-p-pirantai, karka, karkkotam, karrakantuyyamuli, katiyakoticci, kilankukkoti2, kiratti, kiritti, kirittikkoti, kirumikiruttan, kirutam@, kirutti, kirutticarakkoti, kirutticaram, kkaliippirantai, kotippirantai, maruvalikakkoti, maruvalikam, mata, mitunakkutaimuli, mutantacutakalikam, nallapirantai, nanmukappirantai, narcaturam, nattuppirantai, nemirtakkoti, nemirtam, palaimarutakkoti, palaimarutamuli, perandai, perikam 1, perundaycodie, perundei codie, piranadai, pirandai, pirandal, pirandei, pirantai, pirantaikkoti, pirattai, piyamaka, puranai, purandai, purantai, sathura pirandai, tanturumam, timpirantai, tippirantai, tirakkirani, tucicalakkoti, tucicalam, tucinakala, ucciratam, ucciratanti, uchiradamuttanasanjivi, ukkiramacatti, urukunkanali, usnacancivi, uttanacancivi, vacciram 2, vacciramuli 2, vacciranci, vaccirancikkoti, vaccirattaipparpamakki, vacciravalli, vacciravallikkoti, vachiravalli, vaciravalli, vajjiravalli, valantalaittamuli, vayiravalli, vetarikkantaputu, virala, viranapaka, viranapakam Telugu (12) - gudametige, hadobanda, hadojoda, kokkitaya-ralu, nallaeru, nalleru, nullerootigeh, nullerootingah, nullerotigen, nullerutigeh, vajra valli, vajravalli Urdu (1) - harjora
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14/xclkon/141842e7874ec7d45568d6952ca45090
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 547
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/547.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14/xclkon/141842e7874ec7d45568d6952ca45090
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14/xclkon/141842e7874ec7d45568d6952ca45090
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14/xclkon/141842e7874ec7d45568d6952ca45090
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685b6edd514a4c36584e487aa2705e14/xclkon/141842e7874ec7d45568d6952ca45090
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asthisrnkhala
+sanskrit_name: अस्थिश्रृंखला
+transliteration: asthiśrṛṃkhalā
+ref_drug_name: अस्थिश्रृंखला
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Asthisrnkhala
+sanskrit_name: अस्थिश्रृंखला
+transliteration: asthiśrṛṃkhalā
+ref_drug_name: अस्थिश्रृंखला
+status: Accepted source
+discussion: Description of this drug is found in Madanapala, Kaideva, Bhavaprakasa etc nighantus; Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

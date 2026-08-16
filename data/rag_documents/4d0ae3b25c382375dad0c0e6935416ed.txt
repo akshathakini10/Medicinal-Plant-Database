@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4d0ae3b25c382375dad0c0e6935416ed
+Botanical Name: Hiptage benghalensis (L.) KURZ
+Family: Malpighiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Hiptage madablota GAERTN
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 163 Vernacular names found in 8 languages. Hindi (12) - aita-lagula, jutimukta, kampti, madhabilata, madhavilata, madhmalti, madholota, madhumalati, madhumalti, madmalti, malti wan, want Kannada (26) - aadi mooruthe, adar ganchi hambu, adaraganche, adaraganchihambu, adaraganjee hambu, adarkaanchi, adarkanji, adharaganchiambu, adhimoorthi, adhriganti, adimurtte, adirgante, adirganti, indra goche, konana kane, kone balli, maadhavee lathe, maadhavi, maadhavilatha, madhavi, madhavi lathe, madhavivasantadhuti, madhwivasanthi, pikigisam, vasantaduti, vasantadutike Malayalam (3) - sida-pou, sidapou, sitampu Marathi (12) - bokhi, distusti, haladbael, haladvel, haludwail, maadhavalatha, maadhavi, madhavi, madhavlata, madhumaalathi, madhumalati, utimukta Sanskrit (20) - Sanskrit Comments  atimukta, atimuktaka, bhadralata, bhramarotsava, bhrihgapriya, bhumimandapa, bhushana, chandravalli, kamuka, madhabi, madhavi, madhavilata, malati, mandapa, parashraya, pundrakalata, sugandha, suvasanta, vasantaduti, vasanti Tamil (58) - adigam, adigandi, adimattam, atikam, atikamali, atikamalikkoti, atikanti, atikatti, atikattikkoti, atimuttam, ayantanaicinturamakki, caravukarakkoti, caravukaram, cirukurincan, cokanikki, erukkatti, erukkattikkoti, kalarai, kamakantam, kamukam 2, karipakkukodi, karungodi kurindai, karuri-kothelai, karurikothelai, kotaimatavi, kuriku, kurinca 2, kurincan, kurindai, kurinja, kurintai, kurukatti, kurukkath-thi, kurukkathy, kurukkatti, kurukkatti-p-pu, kuruku, kurunatai, kurungu, kuruntai, madavi, madhavalata, madhavi, manaku 2, matavi, matavikkoti, muttakam 2, nagari, nakaru, panrimottai, perunkurincan, shiru-kurinja, vacantakalamallikai, vallakini, vallakinikkoti, vasandi, vasantagalamalligai, vennalankodi Telugu (30) - adavi puttangi, athimutamu, atimuktamu, atimutamu, bandi guriginja, chirighatha, cirugata, kuru venda, kuruvenda, maadhavithige, machavitige, madavi, madavu, madhavalata, madhavatige, madhavi-tige, madhavilata, madhavitege, patuvadla, peddadara, potuvadla, sura gata, suragaatha, suragata, vadla-yarala, vadlayaaraala, vadlayarala, vadlayerala, vedal, vedala Tibetan (2) - a ti mu kta ka, ya ti mu kta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed/xclkon/356dce9c0754b40e77f8698259fb04ca
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed/xclkon/356dce9c0754b40e77f8698259fb04ca
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed/xclkon/356dce9c0754b40e77f8698259fb04ca
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed/xclkon/356dce9c0754b40e77f8698259fb04ca
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d0ae3b25c382375dad0c0e6935416ed/xclkon/356dce9c0754b40e77f8698259fb04ca
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Atimuktaka
+sanskrit_name: अतिमुक्तक
+transliteration: atimuktaka
+ref_drug_name: अतिमुक्तक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

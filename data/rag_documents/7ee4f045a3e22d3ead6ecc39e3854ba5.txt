@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7ee4f045a3e22d3ead6ecc39e3854ba5
+Botanical Name: Cassia italica (MILL.) SPRENG.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cassia obovata COLLOD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 45 Vernacular names found in 7 languages. Hindi (8) - bhinda anwal, chhotataroda, goranwal, hindi-sana, hindi-sana-ka-pat, medi anwal, sanae-hindi, sonamukhi Kannada (5) - adavithangadi, kaadu sonnaamukhi, neladavarike, nelavare, nelavarike Malayalam (7) - ceruvanni, nila-vaka, seruvanni, sunnamaki, sunnamakki, vatagara, vattantakara Marathi (3) - bhonyataravad, bhui-tarwad, mendial Sanskrit (2) - Sanskrit Comments  bhumyahuli, bhutalapota Tamil (9) - kattunilavirai, nattu-nila-virai, nattunila virai, nelavarai, nila-vakai, nilavagai, nilavakai, nilavirai, vellaipponnavirai Telugu (11) - nela ponna, nela tangedu, nela-tangedu, nelaponna, nelatangedu, nelathangedu, nelathengadoo, neltangedu, sunamukhi, sunamuki, thauthi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ee4f045a3e22d3ead6ecc39e3854ba5/xclkon/e0042f4262aa2e06e8928056447735fe
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ee4f045a3e22d3ead6ecc39e3854ba5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ee4f045a3e22d3ead6ecc39e3854ba5/xclkon/e0042f4262aa2e06e8928056447735fe
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ee4f045a3e22d3ead6ecc39e3854ba5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ee4f045a3e22d3ead6ecc39e3854ba5/xclkon/e0042f4262aa2e06e8928056447735fe
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ee4f045a3e22d3ead6ecc39e3854ba5
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ee4f045a3e22d3ead6ecc39e3854ba5/xclkon/e0042f4262aa2e06e8928056447735fe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ee4f045a3e22d3ead6ecc39e3854ba5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ee4f045a3e22d3ead6ecc39e3854ba5/xclkon/e0042f4262aa2e06e8928056447735fe
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

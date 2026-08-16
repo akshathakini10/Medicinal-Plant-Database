@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4cbb0bcf9c3c4e6d96290081dc1740f5
+Botanical Name: Aristida adscenscionis L.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Kannada (3) - bundi obina hullu, kaadu nose hullu, kaadu sanna hanchi hullu Telugu (2) - nalla putiki, poraka gaddi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cbb0bcf9c3c4e6d96290081dc1740f5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cbb0bcf9c3c4e6d96290081dc1740f5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

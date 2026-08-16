@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5018156dcf07625469f333d53b45bf0d
+Botanical Name: Citrus medica L. var. limonum
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Citrus limonum WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 74 Vernacular names found in 7 languages. Hindi (4) - bara-ninbri, jambira, pahadi-nimbu, paharikaghju Kannada (14) - bijapura, bijori, devamadala, dodda nimbehannu, doddanimbe, gajanimbe, haralai, harale, iliminje, madala, madalada, madavala, matulunga, toranji Malayalam (12) - cerunarakam, cherunarakam, ganapatinarakam, madalam, madalangam, madhuranarakam, madulangam, matalam, matalunkam, valiyacerunarakam, valiyacherunarakam, vallinarakam Marathi (4) - idalimbu, jamburi, thoralimbu, thorla-limbu Sanskrit (5) - Sanskrit Comments  dantasathah, limpaka, mahajambiram, nimbaka, vijapura Tamil (23) - campam, canronmuli, canronmulikai, citamparaelumiccai, citamparavelumiccai, kauriyelumiccai, matulai, matulankam 2, murukku 3, murukku 4, peiya elimichcham, perelumiccai, periya elumiccai, periya-elumichcham pazham, periyaelumiccai, perunteci, peruvelumiccai, tatumuritam, tatumuritamaram, turinci 3, vikacitam, vikacitamiccai, yanaiyelumiccai Telugu (12) - bijapuram, gajanimma, madiphala, madiphalam, madiphalamu, matulungakamu, matulungamu, naradabba, peddanimba, peddanimma, pulladabba, tiyyanimma
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5018156dcf07625469f333d53b45bf0d/xclkon/8174cd5331f79e17b3e31b624a53a975
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5018156dcf07625469f333d53b45bf0d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5018156dcf07625469f333d53b45bf0d/xclkon/8174cd5331f79e17b3e31b624a53a975
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5018156dcf07625469f333d53b45bf0d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5018156dcf07625469f333d53b45bf0d/xclkon/8174cd5331f79e17b3e31b624a53a975
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5018156dcf07625469f333d53b45bf0d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5018156dcf07625469f333d53b45bf0d/xclkon/8174cd5331f79e17b3e31b624a53a975
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

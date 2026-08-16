@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bf27c32bc3526ce4bc9be16c6daad6ce
+Botanical Name: Aconitum chasmanthum STAPF E HOLMES
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 2 languages. Hindi (3) - mohri, mohru, patis kauri Sanskrit (6) - Sanskrit Comments  amrta, sthavaravisa, vajranaga, vatsanabha, vatsanagaka, visa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf27c32bc3526ce4bc9be16c6daad6ce
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 47
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/47.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf27c32bc3526ce4bc9be16c6daad6ce
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf27c32bc3526ce4bc9be16c6daad6ce
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Srngi
+sanskrit_name: श्रृङ्गी
+transliteration: śrṛṅgī
+ref_drug_name: श्रृङ्गीविष
+status: Accepted source
+discussion: Srngivisa is identified with this species
+reference: [2]
+
+Identity Record 2
+drug_name: Srngivisa
+sanskrit_name: श्रृङ्गीविष
+transliteration: śrṛṅgīviṣa
+ref_drug_name: श्रृङ्गीविष
+status: Accepted source
+discussion: Srngivisa is identified with this species
+reference: [2]
+
+Identity Record 3
+drug_name: Vatsanabha
+sanskrit_name: वत्सनाभ
+transliteration: vatsanābha
+ref_drug_name: वत्सनाभ
+status: ?
+discussion: ?
+reference: [2]
+
+Identity Record 4
+drug_name: Vatsanabha
+sanskrit_name: वत्सनाभ
+transliteration: vatsanābha
+ref_drug_name: वत्सनाभ
+status: Most probable
+discussion: This is the most preferred species to be used for Vatsanabha
+reference: [1]
+
+Identity Record 5
+drug_name: Vatsanabha - prajati
+sanskrit_name: वत्सनाभ प्रजाति
+transliteration: vatsanābha prajāti
+ref_drug_name: वत्सनाभ प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vatsanabha
+sanskrit_name: वत्सनाभ
+transliteration: vatsanābha
+image_urls: https://www.medicinalplants.in/slokaimages/36/36_1.jpg https://www.medicinalplants.in/slokaimages/36/36_2.jpg https://www.medicinalplants.in/slokaimages/36/36_3.jpg https://www.medicinalplants.in/slokaimages/36/36_4.jpg
+ocr_text: सिन्दुवारस वत्सनाभ्याकृतिस्तथा यत्पार्श्वे न तरोवृद्धि्वत्सनाभः स भाषितः [DhnJ The leaves resemble like that of sindhuvara, shape is like that of calves umbilicus and there are no other trees surrounding it, hence called as vatsanabha. दृक्पत्रो सिन्दुवारस वत्सनाभ्याकृतिस्तथा [ यत्पार्श्वे न तरोर्वृद्धिर्वत्सनाभः स भाष्पि [Bpn] The leaves resemble like that of sindhuvara, shape is like that of calves umbilicus and there are no other trees surrounding it, hence called vatsanabha दृक्पत्रो अमृतं स्यात् वत्सनाभी विषमुग्रं महौषधम्| गरलं मरणं नागं स्तोककं प्राणहारकम | गरलं स्थावरादि स्यात् प्रोक्तं चैकादशाह्वयम् [Rin] Amrta, vatsanabha, visa, ugra, mahaushada, garala, marana, naga sthokaka, pranaharaka and garala are the 1l synonyms of vatsanabha वत्सनाभोअतिमधुरः सोष्णो वातकफापहः कण्ठरु क्सन्निपातघ्नः पित्तसन्तापकारकः [Rjn] Its rasa is atimadhura, usna in veerya, destroys vata and kapha,increases pitta, alleviates kustha and is santapakaraka.

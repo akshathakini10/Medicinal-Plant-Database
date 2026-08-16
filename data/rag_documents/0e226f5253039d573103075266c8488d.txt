@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0e226f5253039d573103075266c8488d
+Botanical Name: Chonemorpha fragrans (MOON) ALSTON
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Chonemorpha macrophylla (ROB.) G.DON
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 4 languages. Hindi (1) - moorva Kannada (1) - chandrahoovina balli Malayalam (5) - belutta-kaka-kodi, beluttakakakodi, kakkakkoti, palvalli, veluttakkakkakkoti Sanskrit (2) - Sanskrit Comments  morala, murva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d/xclkon/eb0264b4d22d944eb5dd16edf5266bc7
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 514
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/514.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d/xclkon/eb0264b4d22d944eb5dd16edf5266bc7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e226f5253039d573103075266c8488d/xclkon/eb0264b4d22d944eb5dd16edf5266bc7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.
+
+Shloka Record 2
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.

@@ -1,0 +1,78 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 01649c8cebf19249351228352a1554c0
+Botanical Name: Tamarindus indica L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 270 Vernacular names found in 10 languages. English (2) - indian date, tamarind Hindi (15) - ambli, amili, amli, amlica, amlyaum, ampli, anbli, hunase, imali, imli, katara, nuli, sadad, tamrulhindi, teter Kannada (33) - aamla, amblairo, amla, amli, amlike, asam, gotimli hunase hannu, gotu, huli, huli hunise, hulise, hunacey, hunachi, hunasa, hunase, hunase huli, hunase mara, hunasemara, hunashe-hannu, hunasi, hunise, hunishe, hunisi, hunse, hunuse mara, imli, kamal, karangi, nerala, punke, unana, unara, unsi Malayalam (20) - amlam, amlika, balam-pulli, balampoolie, balampulli, chinoh, chitz, cinca, cukram, kolpuli, machurapuli, madhurappuli, puli, puliyam-pazham, singa, sukram, tindudam, tintrini, valampuli, valanpuli Marathi (10) - aambali, aamli, ambali, amli, chicha, chinch, chincha, chintz, chitz, rojiacha-phulchinch Sanskrit (41) - Sanskrit Comments  abdika, ambia, amilam, amla, amlavraksha, amli, amlika, atyamba, bhukta, charitra, chincha, chinchika, chuk yamadutika, chukrika, chukru, cinca, cincini, dantashatha, gurupatra, panktipatra, pichhila, ra, sarvamla, shakachukrika, suchakrika, sukta, sutintidi, tentrani, tindidika, tintidi, tintidika, tintili, tintilivija, tintiri, tintrani, tintrini, tintuli, tittidi, tittidika, umblee, vrksamla Tamil (120) - alaiyaticcan, alikaraittan, amalakam2, amalapalam, amalavirutcam, ambilam, ambiram, amilam, amiligai, amilikai, amiram1, amiratam1, ammalikai, ammilam, ammilam1, ammilavirutcam, ammmilavirukkam, ampalam, ampili, ampiram1, anippu, anucutaimaram, attivancam, cacukkilam, cancivakarani, cancivaki, cancivakimaram, cancivi2, cantan, carittirai, carittiri, cincakam, cincam1, cincari, cincarikam#, cincarikam@, cincati, cinciram, cincuram, cinnilucati, cintam, cintikam, cintu2, cinturam, cinturamaram, ciri2, ciri@, cirivirukkam, cirivirutcam, ciriyam#, cirukam2, cukkarikai, cukkilai, cukkilaimaram, cukkilam1, cukkirai, cukkiraimaram, egin, eginam, ekin, etala#, etala@, etalari, etalarimaram, etilai, ilatakam, ilatakamaram, ilatam#, ilatam@, indam, intam, intu, ittam, iyacaviyam, iyacaviyamaram, iyavacam, kincam1, kinjam, kunkumavarni, kunkumavarnimaram, kurupattiram, kutarati, malai @, mayamam, mugini, mukini, nattuppuli, odimam, otimam, pacavviyam2, poollie, poollium verei, puli, puli amailam, pulia maram, pulimaram#, puliyam-pazham, puliyamaram, putavirutcam 2, sanjivagarani, tintilikam, tintiri, tintitam2, tintiti, tintitikai, tintitikam@, tintitikamaram, tinturuni, tinturunimaram, tintutikam, ukilati, uranki, urankimaram, vacunarai, vaicani, valanti, vatamatu, virutcamalam, yukini, yukinimaram Telugu (22) - aamlika, amlaki, amlika, chewka, chincha, chinta, chinta-pandu, chintha, chintha chettu, chintha pendu, cinca, cinta, cintacettu, cintapandu, shenta, sinja, sinta, sintha, thintrini, thintrinikamu, tintrini, tintrinikamu Tibetan (2) - bse yab, bse-yab Urdu (5) - imli, imli muqqashar, maghz tukhm imli, maghz tukhm tamar hindi, tamar hindi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01649c8cebf19249351228352a1554c0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Amlika
+sanskrit_name: अम्लिका
+transliteration: amlikā
+ref_drug_name: अम्लिका
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Amlika
+sanskrit_name: अम्लिका
+transliteration: amlikā
+ref_drug_name: अम्लिका
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 3
+drug_name: Amlika
+sanskrit_name: अम्लिका
+transliteration: amlikā
+ref_drug_name: अम्लिका
+status: Accepted source
+discussion: Amlika' is mentioned under the Phala varga (group of fruits) in Caraka samhita; Cakrapani has interpreted this as 'Tintidi'; Its popularly known as 'Imli' in Hindi and identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Amlika
+sanskrit_name: अम्लिका
+transliteration: amlikā
+image_urls: https://www.medicinalplants.in/slokaimages/1583/1583_1.jpg https://www.medicinalplants.in/slokaimages/1583/1583_2.jpg
+ocr_text: अम्लिका अम्ला पित्तकफास्रकृत् पक्वा तु दीपनी रूक्षा सरोष्णा कफवातनुत् (Bpn) Amlika is amla in rasa, guu in guna, vatahara pitta kapha asra karaka. Pakva is dipani, ruksa, sa1a 1१S1La , kapha vatahara. गुरुर्वातहरी अम्लिकायाः फलं पक्चं तस्मादल्पान्तरं गुणैेः तस्मादिति वृक्षाम्लात् १l (चरकः Pakva amlika phala is similar to vrksa amla in properties but to lesser degree.

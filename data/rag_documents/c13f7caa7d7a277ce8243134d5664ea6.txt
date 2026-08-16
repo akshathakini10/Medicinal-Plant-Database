@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c13f7caa7d7a277ce8243134d5664ea6
+Botanical Name: Urginea maritima (L.) BAKER
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Tamil (3) - cimaikkattulli, kannomiakayam, kannomiyam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c13f7caa7d7a277ce8243134d5664ea6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c13f7caa7d7a277ce8243134d5664ea6
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c13f7caa7d7a277ce8243134d5664ea6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

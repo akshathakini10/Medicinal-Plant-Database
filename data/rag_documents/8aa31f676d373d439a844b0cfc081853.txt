@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8aa31f676d373d439a844b0cfc081853
+Botanical Name: Taxus wallichiana ZUCC.
+Family: Taaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Taxus baccata L. subsp. wallichiana ZUCC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 6 languages. English (2) - english yew, irish yew Hindi (15) - barhmi, barmi, birch, birmi, brahmi, fhalsh, gallu, neyamdal, rakhal, rakhale, thuna, thuneer, thuner, thuno, zirnubbirmi Marathi (1) - barmi Sanskrit (9) - Sanskrit Comments  barahmi, granthi parna, manduparni, sthauneyaka, sthouneyaka, talisam, talisapatra, talisapatram, talispatra Tamil (4) - taleesapatri, talica pattiri, talicapattiri, thalisa pathri Tibetan (2) - ma thu i, ma thui
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 6368
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/6368.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853/xclkon/88ff95e12ea175e96fff7c57b2563984
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aa31f676d373d439a844b0cfc081853
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Talisapatra
+sanskrit_name: तालीशपत्र
+transliteration: tālīśapatra
+image_urls: https://www.medicinalplants.in/slokaimages/6/6_1.jpg https://www.medicinalplants.in/slokaimages/6/6_2.jpg https://www.medicinalplants.in/slokaimages/6/6_3.jpg
+ocr_text: तालीसं श्वासकासघ्नं दीपनं श्लेष्मपित्तजित् | मुखरोगहरं हद्यं पत्रसंवृतम्| | (Dhnl Talisapatra alleviates slesma and pitta, is dipana, hraya, supatra, patra samvrta, cures svasa, kasa and mukha roga सुपत्रं तालीसपत्रं तिक्तोष्णं मधुरं कफवातहृत् कासहिक्काक्षयश्वासछर्द्दिदोषविनाशकम् IRjn| Talisa patra is tikta, madhura in rasa, usna in veerya, alleviates kapha ana vata, cures kasa, hikka, ksaya, svasa and chardi. तालीसं लघु तिक्तोष्णं श्वासकासकफानिलान् निहन्त्यरुचिगुल्मामवमिमान्द्यक्षयामयान् T IBpn) Talisa is tikta in rasa, laghu in guna, usna in veerya, alleviates kapha ana anila, cures svasa, kasa, aruci gulma, ama, vami, agnimandya, ksaya and amava.

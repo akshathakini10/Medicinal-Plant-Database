@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ec2a2de5f7117118a08d489c667667a7
+Botanical Name: Madhuca longifolia (KOEN.) MACLER
+Family: Sapotaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Bassia latifolia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 176 Vernacular names found in 8 languages. English (5) - mahua, mahwa, mi, moa, mowa Hindi (7) - mahua, mahura, mahva, mahwa, mawda, mohva, mowa Kannada (29) - allippe, aluppe, doddaippi, doddippe, eppe, erappe, haalippe, halippe, hanage, hippe, hippe mara, honge, huli, hunasa, ippa, ippaya, ippe, ippi, kaadippe, kadippe, kaduippe, kulichan, mavuliro, navildu, sannaippi, sannayippe, sonedarekale, sonidurkee, uli Malayalam (17) - elloopie, ellupi, eloopai, ilippa, illippa, irappa, irippa, irippapu, iruppa, kattirippa, malaveppu, poo, pooungam, poounum, pu, punna, puvuna Marathi (10) - maha, mahwa, mhowra, moha, mohda, mora, mowda, mowha, ranachaippechajhada, ranachamohachajhada Sanskrit (6) - Sanskrit Comments  jalamadhuka, madhuka, madhukah, madhukahsarah, madhukam, madhulaka Tamil (81) - alimakam, alimpakam, atinilam, attiram, avitturuman, calaputpam 2, cankulikam, caram, caratipam, celvilivanci, centarukam, ceyilakam, ceyilam, ceyili, cuvatu 2, eloopei puttay, illupei, iluppai, iluppai ennai, irumpai, iruppai, katiccepakam, katicepakamaram, kattu iluppai, kattu iruppai, kattuiruppai, kulicam, kulikkam, kulircci, kulivam, kutampam, kutampamaram, kutappaimaram, kutappam, kutaputpam, kutavalappam, kutaviluppam, kutaviluppamaram, kutuvitippalam, kuvikam, kuvikamaram, mancilporuttam, matakam, matavam, matucatturumam, matukam, matukam 2$, matukamaram, matukantam, maturakam 2, maturakam kulikam, matutturu, matutturumam, matutturumaram, mavakam 1, naatu iluppai, nattiluppai, omai, oralayintam, pani, tenmaram 1, ticcanakantakam, titcanacaram, titcanacaramaram, titcanakam, titcanakamaram, tittanacaram, tittanacaramaram, tittanam, titti, tittinam#, tittinam@, tola, tolamaram, tolar, tuttilam, ukkirakantamaram, vakkattamuli, vanappiratitam, vanappiratitamaram, vanappirattam Telugu (21) - adavi ippa, adaviyippa, advippa, eppa, eppachettu, ipie, ippa, ippe, ippi, irpimranu, madhukamu, peddaippa, peddayippa, pinna, pinnaippa, pinnayippa, sannaippa, sannayippa, uriyippa, voorooippa, yeppa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec2a2de5f7117118a08d489c667667a7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec2a2de5f7117118a08d489c667667a7/xclkon/54e8b94dcde73ab4d335b16ef454b1fd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec2a2de5f7117118a08d489c667667a7/xclkon/2e1b2667ee4d8f96452512b96a6af9ff
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec2a2de5f7117118a08d489c667667a7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec2a2de5f7117118a08d489c667667a7/xclkon/54e8b94dcde73ab4d335b16ef454b1fd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec2a2de5f7117118a08d489c667667a7/xclkon/2e1b2667ee4d8f96452512b96a6af9ff
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec2a2de5f7117118a08d489c667667a7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec2a2de5f7117118a08d489c667667a7/xclkon/54e8b94dcde73ab4d335b16ef454b1fd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec2a2de5f7117118a08d489c667667a7/xclkon/2e1b2667ee4d8f96452512b96a6af9ff
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec2a2de5f7117118a08d489c667667a7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

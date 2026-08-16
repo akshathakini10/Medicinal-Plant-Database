@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 833e44c1915d313c4bd44f3f289ccbe9
+Botanical Name: Pithecellobium monadelphum (ROB.) KOSTER.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pithecellobium bigeminum MART.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 6 languages. Hindi (2) - kachlora, kavhlota Kannada (6) - kadakonde, kakke, kankarinje, kodakonde, kokke, nuggikar Malayalam (14) - athaparantha, attapparanta, atthaparantha, kalpakku, kangatti, kannatti, kattukonna, kaunatti, muthakolappan, muthakoluppan, muttakkoluppan, pannivaga, pannivaka, varikiri Marathi (1) - kachlor Sanskrit (1) - Sanskrit Comments  aragvadha Tamil (7) - inka 2, kal pakku, kalaippakku, kalpakku, kattaki, kattakimaram, kattukkonnai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/833e44c1915d313c4bd44f3f289ccbe9/xclkon/0f91972e69c492262e4a9b36f5d2f66c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/833e44c1915d313c4bd44f3f289ccbe9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/833e44c1915d313c4bd44f3f289ccbe9/xclkon/0f91972e69c492262e4a9b36f5d2f66c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/833e44c1915d313c4bd44f3f289ccbe9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/833e44c1915d313c4bd44f3f289ccbe9/xclkon/0f91972e69c492262e4a9b36f5d2f66c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/833e44c1915d313c4bd44f3f289ccbe9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/833e44c1915d313c4bd44f3f289ccbe9/xclkon/0f91972e69c492262e4a9b36f5d2f66c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

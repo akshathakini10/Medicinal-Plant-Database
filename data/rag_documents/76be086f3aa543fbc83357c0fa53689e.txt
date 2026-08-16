@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 76be086f3aa543fbc83357c0fa53689e
+Botanical Name: Dorema ammoniacum D.DON
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. English (1) - ammoniacum Sanskrit (1) - Sanskrit Comments  usaka Urdu (3) - ushaq, ushunq, ushuq
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/76be086f3aa543fbc83357c0fa53689e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/76be086f3aa543fbc83357c0fa53689e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/76be086f3aa543fbc83357c0fa53689e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/76be086f3aa543fbc83357c0fa53689e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Usaka
+sanskrit_name: ऊषक
+transliteration: ūṣaka
+ref_drug_name: ऊषक
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

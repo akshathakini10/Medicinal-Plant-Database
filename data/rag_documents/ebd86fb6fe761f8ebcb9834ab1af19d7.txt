@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ebd86fb6fe761f8ebcb9834ab1af19d7
+Botanical Name: Ziziphus nummularia WIGHT & ARN.
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 46 Vernacular names found in 7 languages. Hindi (15) - ber, beri, bor, bordi, botti, chania bor, chania-bor, jarberi, jhadbor, jhadiaber, jhar-bor, jharber, jharberi, malla, pala-bor Kannada (8) - mulluhannu, mulluhonne, paraji, parapele, parpalli, parpuli, purpalli, purpulli Marathi (5) - bhooyi baer, chanya-bor, gangar, janglar, junglebor Sanskrit (9) - Sanskrit Comments  aja-priya, balakapriya, bhu-kartaka, bhubadari, bhukamtaka, bhurdaribalakapriya, ghonta, karkandhu, sukshmaphala Tamil (3) - korgodi, narielandai, parpalli-gidda Telugu (3) - jitta reni, nelaregu, regu kampa Urdu (3) - poast jhar beri, poast jharberi, zariab
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd86fb6fe761f8ebcb9834ab1af19d7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd86fb6fe761f8ebcb9834ab1af19d7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd86fb6fe761f8ebcb9834ab1af19d7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd86fb6fe761f8ebcb9834ab1af19d7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Badara - prakara
+sanskrit_name: बदर प्रकार
+transliteration: badara prakāra
+ref_drug_name: बदर प्रकार
+status: Accepted source
+discussion: Badara variety i.e.Karkandhu is identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e775a38d16f490fae110e80291cc8710
+Botanical Name: Cassia tora L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 228 Vernacular names found in 10 languages. English (1) - coffee cassia Hindi (22) - aelon, ailu, ailwan, cakunda, cakvat, chakavat, chakonda, chakonr, chakramarde, chakunda, chakundra, ckakond, pamaar, pamad, panevar, panvar, panwar, puadia, puaria, punwad, relu, talka Kannada (40) - cagace, chagache, chagate, chakramarda, chogache, chogata, cogace, cogate, gandha thagase, gandu thagache, gandu thagase, gandutagasi, gundutagace, gundutagache, holasangi, kasamardavu, pambadiar, sagate, sirudaggare, sonte, tagace, tagache, tagaci, tagarasi, tagarchi, tagarci, tagarisyana, tagati, tajank, tajanku, taragashee, taragasi, thaagarisyana gida, thagache, thagarchi, vanaavarikke, vanava-rike, vanavarika, vanavarike, vannaavarike Malayalam (7) - cakramardrakam, chakramandrakam, tagara, tagera, takara, takaram, thavara Marathi (12) - takala, takla, tankala, tankli, taranvata, tarota, taykilo, thaakala, thakla, thankli, tharanvata, tharota Sanskrit (28) - Sanskrit Comments  adagaja, ayudham, cakramarda, cakramardah, cakramardana, chakramarda, chakramardah, chakramardaka, dadamandan, dadamardana, dadamari, dadrughna, dan, edagaja, edagajah, kharjugna, prabhoonata, prabhunatha, prabunatha, prapunnada, prapunnata, prapunnatah, praputatri, praputrata, prishnaparni, sadagaja, saidagajah, taga Tamil (92) - appulantam, cakatamatti, cakkarakacam, cakkarapati, cakkarapaticceti, cakkiram1, cakkiramatattu, cakkirami, cakkiramicceti, cakkirapati, cakkirapattirakam, cakkumati, cancavaram, cankuputpam, cenavu#, cenavu@, cenavucacceti, cepakkinam, cinavu, cirutakarai, cittiracikam, etakacam, jakatamatti, kalaparnam, karccakkinam1, kecatattu, konakkotayam, kupakkinam, kuralikkonikacceti, kuralikkonikam, kuttanacani1, makanilam@, mayakantotiyam, nakkalatakam, nali, narattarai, nativaram1, oosithagarai, oosthagarai, palavarate, pariyeritaiyati, pavattutarnatankam, perunkulikacceti, perunkulikam, pincacikacceti, pincacikam, punantam, punnatatavaram, punnita, punniyataki, punniyatakicceti, puntakarai, puntakaraicceti, senavu, sirutagarai, tagarai, tagaray-elley, takaracci, takarai, takaraivittu, takaram1, takaritam, tarunicceti, tarunikam, thagarai, thagarai-verai, thakarai, tiram@, tiritapicam, tunnamaram, tupparicimpam, tutakam, ucitakarai, ucittakarai, uranatcam, uranatciyam, ushit-tagarai, ushittagarai, usithagarai, usiththagarai, usittagarai, vanamavaram, vanappicci, vanappicicceti, vannaavaram, vincukam, vindu, vintu, vintu 1, vintu@, vintukam 1, vintutam Telugu (18) - pedda kasinda, tagarisa, tagarisha, tagirisa, tagirise, tagirisha-chettu, tantemu, tantepu, tantepu-chettu, tantepumokka, tantim, tantipu, tantiyamu, thagirise, thantemu, thantipu, thantipu chettu, thantiyamu Tibetan (4) - lug mig, thal ka rdo rdze, thal rdor, thal-ka Urdu (4) - panevar, panvar, panwar, tarota
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e775a38d16f490fae110e80291cc8710
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 472
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/472.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e775a38d16f490fae110e80291cc8710
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e775a38d16f490fae110e80291cc8710
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e775a38d16f490fae110e80291cc8710
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e775a38d16f490fae110e80291cc8710
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e775a38d16f490fae110e80291cc8710
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cakramarda
+sanskrit_name: चक्रमर्द
+transliteration: cakramarda
+ref_drug_name: चक्रमर्द
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Cakramarda
+sanskrit_name: चक्रमर्द
+transliteration: cakramarda
+ref_drug_name: चक्रमर्द
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Cakramarda
+sanskrit_name: चक्रमर्द
+transliteration: cakramarda
+image_urls: https://www.medicinalplants.in/slokaimages/353/353_1.jpg https://www.medicinalplants.in/slokaimages/353/353_2.jpg https://www.medicinalplants.in/slokaimages/353/353_3.jpg https://www.medicinalplants.in/slokaimages/353/353_4.jpg https://www.medicinalplants.in/slokaimages/353/353_5.jpg
+ocr_text: चक्रमर्दों लघुः स्वादु रूक्षः पित्तानिलापहः हिमः कफश्वासकुष्ठदद्रुकृमीन् हरेत् [ हन्त्युष्णं तत्फलं कुष्ठकण्डूदद्रुविषानिलान् गुल्मकासकृमिश्वासनाशनं कटुकं स्मृतम्I| (Bpn) Cakramarda is svadu in rasa, laghu, ruksa in guna, hima in veerya, decreases pitta, anila, is hrdya, cures kapha, svasa, kustha, dadru and krmi Its fruit is katu in rasa, usna in veerya, cures kustha kandu, dadru, visa, anila, gulma, kasa, krmi and svasa. हृद्यो चक्रमर्दः कटूष्णः स्यात्प्रोक्तो वातकफापहः दद्रुकण्डूहरः कान्तिसौकुमार्यकरो मतः || (Dhn) Cakramarda is katu in rasa, usna in veerya, decreases vata and kapha, cures dadru, kandu, promotes kanti and saukumaryata चक्रमर्दः मेदोवातकफापहः व्रणकण्डूतिकुष्ठार्त्तिदद्रु पामादिदोषनुत् II (Rjn) Cakramarda is katu in rasa, decreases meda, vata kapha, cures vrana, kandu, kustha, dadru and pama कटुस्तीव्रो तद्वीजं दद्रुजित् सिध्मत्वग्दोषसर्वकुष्ठजित् | वातरक्तापहं तस्य शाकं कफहरं लघु II (Dhn) Its bija cures dadru, sidhma, tvag dosha and all types Of kustha Its saka is laghu in guna, alleviates vata, rakta, kapha प्रपुन्नाटो लघुः स्वादुः वातश्लेष्महरः परः Prapunnata is svadu in rasa, laghu in guna and decreases vata, slesma

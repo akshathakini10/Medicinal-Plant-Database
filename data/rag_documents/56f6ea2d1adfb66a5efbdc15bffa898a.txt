@@ -1,0 +1,72 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 56f6ea2d1adfb66a5efbdc15bffa898a
+Botanical Name: Semecarpus anacardium L. F.
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 237 Vernacular names found in 10 languages. English (1) - marking nut Hindi (9) - belatak, bhela, bheyla, bhilao, bhilava, bhilavan, bhilawa, bhilwa, bilaran Kannada (41) - aginimukhi, agnimukhi, balania, bhallaathaka, bhallataka, bhallika, char, chara, chera, cheru, gaer, gaer beeja, gaer hannu, gaer kaayi, gaeru kaayi, ger, ger-kayi, gera, gerkayi, geru, gerubija, gheru, godda gaeru, goddu gaeru, goddugeru, kaeru, kaerubeeja, karee gaeru, karee geru, karigaeru, karigeri, karigeru, karigeru keru, karigheru, kera, keri, keru, kerubija, kharigheru, tere, tereda Malayalam (24) - alakkuceru, alakkucheru, cambiri, cera, cerkkotta, cerkkuru, ceru, charei, charu, cher, chera, cherkkuru, chermara, cheru, cherunkuru, kampira, markingnut, sambiri, shengotta, temprakku, tencera, tenprakka, thainchera, thenkotta Marathi (6) - bibba, bibha, bibo, bibu, bibua, bibwa Sanskrit (41) - Sanskrit Comments  agnika, agnimukha, agnimukhah, agnimukhi, anala, antasatva, arshohita, arushkara, aruskara, aruskarah, avhala, bhallatah, bhallataka, bhallatakah, bhallataki, bhallatamu, bhalli, bhallika, bhutanashana, bijapadapa, dhanurvriksha, krimighna, kshatakshataru, mahatikshna, nirdahana, prithakabija, raktahara, rujakarah, shailabija, shophanuta, shothahrita, snehabija, sophahetuh, sophakrt, sphotahetu, tapana, vanhi, vanhinama, vatari, virataru, vranakrita Tamil (85) - anmaram, aracavatim, arakkimaram, arralari1, arutkaram, ce, cemaram, cenkkottai, cenkottai, cenkottai@, cenkottakimaram, ceran, ceran kottai, cerankottai, cerankottai1#, cerankottai1@, cerankottai@, cettaru, cevvalankottai, cherangkottai, cintukam, compalam, ekin1, ekinam2, erimugi, erimuki, erimuki1, iruttai, kalagam, kavaga, kirumikkinam1, kittakkanik-kottai, kittakkanikkotai, kittakkanikkottai, malaippuvikam, nantivittu, nilacceti, palampalam, pallaki#, pallaki@, pallam, pallatakam#, pallatakam@, pallataki, pallataki1, pallatam#, pallatam@, pallati, pallatilirimaram, pallatti, pallika, palliki, pallikkai, pudanashanam, putanacanam 1, se, sengottai, senkottai, seraan kottai, seran, serangkottai, serangottai, serankottai, shay-rang, shayng cottay, shen-kottai, shenkottai, sheran-kottai, sheru, takilima, takulima, tanuvirutcam1, thembarai, vallataki, vallataki 1, vallati, vallati 1, vilakam, vinakam, viracaki, viranakirutu, virataru 1, viraviruksam, viravirutcam, virumanniyam Telugu (22) - bhallaathakai, bhallaathamu, bhallataki, bhallatamu, gudova, jeedi, jeedivittulu, jeeri, jidi, jidi-chettu, jidi-vittulu, nalla jeedi, nallajeedi, nallajidi, neelajeedie, nellajedee, nellajedi, shenta, simidi, thummeda maamidi, tummadamamidi, tummedamamidi Tibetan (4) - bse sin gi bras bu, bsre-sin, go bye (p), so bye Urdu (4) - baladur, baladur (bhilavan), bhilanvana, usl-i-baladur
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1888
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1888.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56f6ea2d1adfb66a5efbdc15bffa898a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhallataka
+sanskrit_name: भल्लातक
+transliteration: bhallātaka
+ref_drug_name: भल्लातक
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Bhallataka
+sanskrit_name: भल्लातक
+transliteration: bhallātaka
+ref_drug_name: भल्लातक
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bhallataka
+sanskrit_name: भल्लातक
+transliteration: bhallātaka
+image_urls: Not available
+ocr_text: Not available

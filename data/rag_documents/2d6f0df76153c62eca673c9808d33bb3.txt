@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2d6f0df76153c62eca673c9808d33bb3
+Botanical Name: Cressa cretica L.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 8 languages. Hindi (3) - lana, rudanti, rudravanti Kannada (1) - mullumaddu gida Malayalam (1) - alukanni Marathi (4) - chavala, chavel, khardi, rudanti Sanskrit (14) - Sanskrit Comments  amritasrava, chanakpatri, chanapatri, dravanti, madhusrava, mahamansi, palitaka, romanchika, rudanti, rudantika, rudravanti, sanjivani, sravanti, sravattaya Tamil (4) - uppucanaka, uppumarik koluntu, uppumarikkoluntu, vuppu marikkozhunthu Telugu (2) - uppu senaga, uppusanaga Urdu (1) - anshalees
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d6f0df76153c62eca673c9808d33bb3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d6f0df76153c62eca673c9808d33bb3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d6f0df76153c62eca673c9808d33bb3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d6f0df76153c62eca673c9808d33bb3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rudanti
+sanskrit_name: रुदन्ती
+transliteration: rudantī
+ref_drug_name: रुदन्ती
+status: Most probable
+discussion: Its mentioned in Raja nighantu; During the period of Sarnghadara it was widely used as a rasayana (rejuvenative); In the medieval period it was used in sorcery; Present scholars identify this species with Rudanti
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

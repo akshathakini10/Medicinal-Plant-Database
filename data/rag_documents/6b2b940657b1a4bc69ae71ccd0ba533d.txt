@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6b2b940657b1a4bc69ae71ccd0ba533d
+Botanical Name: Acacia leucophloea (ROB.) WILLD.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 133 Vernacular names found in 8 languages. Hindi (27) - arinj, arjuna, jhind, jhira, kairir, karer, karir, nimbar, ranj, raunj, reru, reur, rijua, ringa, rinj, riur, rohani, ronj, roonjro, roonjya, safed-babul, safed-kikar, safedbabul, safedkikar, sarab ki kikar, sufed-kikar, urajio Kannada (20) - beala, bela, bellada, bellada mara, bilee jaali, bilejali, bili jaali, bilijali, bilijali-mara, bill-jali, darukhagar, dhaarukhagaar, naayibaela, naibalda, naibela, naivelada, nayibela, topal, toppalu, tumbe Malayalam (7) - vel-velam, vellavelakam, vellavelakkam, vellavelam, velvaylam, velvelakam, velvelam Marathi (8) - deobaabhula, deobabhula, hewar, hivar, nimbar, pandari baabul, pandaribabul, panharya Sanskrit (20) - Sanskrit Comments  ahimara, arimeda, arimedah, hemagaura, irimeda, irimedah, kinkirata, kinkiratha, pitabhadra, pitaka, pitamlana, shatpadananda, shveta-barbura, shvetabarburavrikshaha, somavalka, svetabarabura, svetavarvara, vipralambi, vipralobhi, vitkhadira Tamil (46) - akal 3, akamamaram, akamaram, akimar, akimaral#, akimaral@, amutacaram, amutacaramaram, amutacarani, amutacura#, amutacura@, arimaita, arimata2, arutturumam, caivakatpala, caraparikantaccupattiram, cuppattiram, kalakantam#, kasayatittam, mukarokapucitam, pattaicharayam, patutturumam, patuturumam, payirilam, sarai, uttulati, uttulatimaram, vel, vel velam, vel-vel, vel-velam, vellaivelan, vellaivelanmaram, vellavelan, velvaylam, velvel, velvel#, velvela, velvelam, velvelam 2, velvelan 2, velvelan@, venvel, venvelan, vetpalavikam, vetpalavikamaram Telugu (4) - tella tumma, tella-tumma, tellatumma, thellathumma Urdu (1) - kath safaid
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6b2b940657b1a4bc69ae71ccd0ba533d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6b2b940657b1a4bc69ae71ccd0ba533d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6b2b940657b1a4bc69ae71ccd0ba533d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6b2b940657b1a4bc69ae71ccd0ba533d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Arimeda
+sanskrit_name: अरिमेद
+transliteration: arimeda
+ref_drug_name: अरिमेद
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

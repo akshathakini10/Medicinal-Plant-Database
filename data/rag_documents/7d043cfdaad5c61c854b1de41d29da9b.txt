@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7d043cfdaad5c61c854b1de41d29da9b
+Botanical Name: Panicum maximum JACQ.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Panicum macimum FACQ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 4 languages. English (1) - guinea grass Kannada (2) - gini hullu, guinea hullu Marathi (1) - gini-gavat Tamil (17) - akkatevi, cilayam, cilayappul, conaippul, kinippul, luccikkappul, lukkikko, nitatturu, nitatturuppul, piramalikakkorai, piramalikam, tacci, tokal, tokappul, tokarpul, unnayam, utaitavappul
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d043cfdaad5c61c854b1de41d29da9b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d043cfdaad5c61c854b1de41d29da9b/xclkon/0058e340164767457321fbef7be3de4d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d043cfdaad5c61c854b1de41d29da9b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d043cfdaad5c61c854b1de41d29da9b/xclkon/0058e340164767457321fbef7be3de4d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d043cfdaad5c61c854b1de41d29da9b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

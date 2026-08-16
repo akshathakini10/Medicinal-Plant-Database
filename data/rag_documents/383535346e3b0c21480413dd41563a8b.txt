@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 383535346e3b0c21480413dd41563a8b
+Botanical Name: Crotalaria juncea L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Crotalaria benghalensis LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 157 Vernacular names found in 8 languages. English (4) - bombay hemp, madras hemp, sann hemp, sann or sunn hemp Hindi (11) - ghagahi, jhuri jhunia, masina, mustanpat, patashana, san, san-ke-binj, sanai, sann, sannai, shanahuli Kannada (14) - apsenabu, hanne sanabu, henna, kaadugodave, loku, pundi, pundi-bija, sanabina-pundi, sanabu, sanabu gida, sanna sanabu, sanna senabu, shana-bina-bija, sonabu Malayalam (21) - canaka, chana-vitta, chanaka, chanam, djunam, janapa, janapa-vera, katoutandalecotti, kattutantalakkotti, kattuttantalakatta, katutandalkodi, kilukiluppa, nanam, pulivanji, pulivanji-vitta, pulivanni, sanam, tandale-cotti, vakka, vakka-vitta, vakku Marathi (7) - dhakti ghagri, ghagharu, san, shan, sonabu, tag, thaag Sanskrit (18) - Sanskrit Comments  dhanahari, dirghapallava, dirghashakla, ghantaravamu, jenapavera, karnagula, katutikta, malyapushpa, nishadana, pulivanji, san, sana, sanah, sanapuspi, satinaka, shana, tvakasara, vamaka Tamil (70) - ataci, canai, canal, canal vitai, canam, canam2, canampu, canampu1, canappai, canappu, canapu, canarpai, cannappu, catampu, chanai, chanappu, janapanar, janappanar, janupa, jenappa-virai, jenappanar, konipputu, koniyapputu, kottu, kuttaoakacceti, kuttavakacceti, kuttavakam, kuttiram, kuttu, manci, manci 1, manci 2, manji, nalapan, nanandam, nanantam, nanantam1#, nanantam1@, nanpan, nanpan#, nanpan@, nanpana, nanpanacceti, nanppana, panni, panni#, pannicceti, puttiranai, ruttin, sanalnar, sanappu, sanapu, shanabo, shanal, umadji, umai1, umakatam, umakatam1, umataci, umataki, umataki#, umataki@, umatci, umi, uttirabanni, uttirapanni, vakku, vakkunar, vakkunnar, wakkwooganapan Telugu (12) - chanamoo, dzanumu, gilaka, gilgichu, gili ginta, giligicca, giligichcha, giliginta, janamu, janumu, jenapa-vittulu, shanamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b/xclkon/fdcaef2c158b4259628f5c368c149f61
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b/xclkon/fdcaef2c158b4259628f5c368c149f61
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b/xclkon/fdcaef2c158b4259628f5c368c149f61
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b/xclkon/fdcaef2c158b4259628f5c368c149f61
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/383535346e3b0c21480413dd41563a8b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sana
+sanskrit_name: शण
+transliteration: śaṇa
+ref_drug_name: शण
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Sana
+sanskrit_name: शण
+transliteration: śaṇa
+ref_drug_name: शण
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

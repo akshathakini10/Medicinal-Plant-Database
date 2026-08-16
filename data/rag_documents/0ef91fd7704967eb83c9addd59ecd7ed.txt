@@ -1,0 +1,80 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0ef91fd7704967eb83c9addd59ecd7ed
+Botanical Name: Oxalis corniculata L.
+Family: Oalidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 106 Vernacular names found in 9 languages. English (1) - indian sorrel Hindi (18) - amili, amrul, amrulsak, anboti, anboti; seh-patti, bhilmori, chalmori, chuka tripati, chukatripati, cukatripati, khatari, khataria, khataro, khatri-buti, malori, seh, seh-patti, tinpatiya Kannada (19) - changeri gida, huli huliche, huli soppu, huli-huniche, hulichikka, hulihunice, julihunise gida, majjige palya, majjige soppu, moorele huli, neergoli, pulibanthunise, pullam-purachi-sappu, pullampurachi, pullampurachisappu, pullampuruchi, putaanipurule, teltuppi, uppuppina gida Malayalam (5) - poliyarala, puliyaral, puliyarala, puliyarila, pullampurachi Marathi (5) - aambotee, ambata chukaa, ambuti, bhinsarpati, umbuti Sanskrit (11) - Sanskrit Comments  ambashta, amlalonika, amlapatrika, amlika, amlotaja, cangeri, carngeri, changeri, chukrika, chukrita, shuklika Tamil (32) - amalakam3, amalam3, amanitam, ampal2, atacani, atiyamilaparani, cenkontai, cenkottaiccivappi, civappi5, kalappantatti, kaniyatanayaki, kayankaliyatanayaki, kecari, kecariyarakkirai, kentika, paliakiri, perunkotikkirai, piliccakkirai, pooliaray, puli-k-kirai, puli-yarai, puliakire, puliccakakkirai, puliccirukirai, puliiyarai, pulikkirai, pulittacirukirai, puliyaarai, puliyancirukirai, puliyankirai, puliyarai, puliyarani Telugu (14) - amboti kura, ambotikura, anboti-kura, anbotikura, pallachinta, pallachintha, puli chinta, puli-chintaku, pulichinta, pulichintaaku, pulichintaku, pulicintaku, pullachanchali, pullacinta Urdu (1) - khatt-i-buti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1576
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1576.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ef91fd7704967eb83c9addd59ecd7ed
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Carngeri
+sanskrit_name: चाङ्गेरी
+transliteration: cāṅgerī
+ref_drug_name: चाङ्गेरी
+status: Accepted source
+discussion: Cangeri is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Carngeri
+sanskrit_name: चाङ्गेरी
+transliteration: cāṅgerī
+ref_drug_name: चाङ्गेरी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Carngeri
+sanskrit_name: चाङ्गेरी
+transliteration: cāṅgerī
+ref_drug_name: चाङ्गेरी
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 4
+drug_name: Carngeri
+sanskrit_name: चाङ्गेरी
+transliteration: cāṅgerī
+ref_drug_name: चाङ्गेरी
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

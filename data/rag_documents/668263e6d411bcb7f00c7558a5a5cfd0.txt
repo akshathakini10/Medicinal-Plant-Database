@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 668263e6d411bcb7f00c7558a5a5cfd0
+Botanical Name: Polygonum glabrum WILLD.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 4 languages. Kannada (6) - kempu nelagumbala, mosalegadde gida, neeru kanagilu, neeru kanigalu, neeru sanne soppu, raktha rohitha Malayalam (1) - schovanna-modela-mucca Tamil (5) - arralari, atalari, atlaria, attarali, cutalaippucceti Telugu (2) - burada gogu, neeru ganneru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/668263e6d411bcb7f00c7558a5a5cfd0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/668263e6d411bcb7f00c7558a5a5cfd0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/668263e6d411bcb7f00c7558a5a5cfd0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e7084a3daf2834d5df7afcfe80421299
+Botanical Name: Ougeinia oojeinensis (ROB.) HOCHR.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Dalbergia oogeinensis ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 104 Vernacular names found in 8 languages. Hindi (12) - asainda, kalaphulas, sadan, sanan, sandam, sandan, sannan, shatan, terrichcha, timsa, tinnas, tinsa Kannada (15) - bettahonne, huli, kalbenga, kalmuthuga, kari-mutal, karimutal, karimutale, karimuttala, malahonney, malehonn, malehonne, naiponne, nayihonne, nehi, nehihonne Malayalam (4) - malahonney, malavenna, nemi, totukara Marathi (10) - kaala palaas, kalapalas, syandan, tanach, tewas, thanach, thewas, thinasoo, thivas, tivas Sanskrit (31) - Sanskrit Comments  akshaka, ashmagarbhaka, atimuktaka, bhasmagharba, chakri, chitrakarma, chitrakrita, jaladhara, meshi, nemi, nemih, ratha, rathadrumah, rathika, sarvasara, sejanduna, shakata, shatanga, spandana, spandanadruma, spandani, syandana, syandanadrumah, syandanah, tinashaka, tinisa, tinisa sejanduna, tinisa-segandun, tinisha, trinisha, vanjula Tamil (7) - atimuttam, cakkirini, marivenkai, naiponai, narivengai, tella-motuku, tinicam Telugu (24) - adavicikkudu, adavishikkudu, athimukthamu, atimuktamu, badanegi, chichera, chikkudu, cikkudu, dargu, eru, mandamotuku, nemmi, nemmi chettu, tella-motuku, tellamotku, tellamotuku, thellamotuku, thinisavriksha, tinisavriksha, tinisavryksha, vandanam, vandanappa, vanjulam, vanjulamu Tibetan (1) - ti ni sa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/efc3939cef25af531f932de654d216a7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/2d43fa0fb8249b3ccfc7ed4d8d0d2426
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/d780944b65730d491057e41d31d7106f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/efc3939cef25af531f932de654d216a7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/2d43fa0fb8249b3ccfc7ed4d8d0d2426
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/d780944b65730d491057e41d31d7106f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/efc3939cef25af531f932de654d216a7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/2d43fa0fb8249b3ccfc7ed4d8d0d2426
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/d780944b65730d491057e41d31d7106f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/efc3939cef25af531f932de654d216a7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/2d43fa0fb8249b3ccfc7ed4d8d0d2426
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/d780944b65730d491057e41d31d7106f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7084a3daf2834d5df7afcfe80421299/xclkon/efc3939cef25af531f932de654d216a7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

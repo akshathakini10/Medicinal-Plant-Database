@@ -1,0 +1,86 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6af02657ecf8d4b1d3e0f08206e91314
+Botanical Name: Justicia adhatoda L.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Adhatoda vasica NEES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 236 Vernacular names found in 10 languages. English (1) - adhatoda Hindi (24) - adalsa, adarsa, adosa, adulasa, adulaso, adusa, arusa, arusha, arusu, asgand, bans, bansa, basa, basak, basauti, bashing, basinga, basingu, basute, basuti, rus, rusa, vasak, vasaka Kannada (25) - aadsoge, aadu muttada gida, aadu soge, aadu sokada gida, aadusouge, adasoge-sappu, addalasa, addasara, adsale, adumuttada, adusege, adusogae, adusoge, aduthoda, aedamuthandi, alasoge, alyoge, atarusha, atusoge, baelagurige, baesaala, byalada, edmuttanditappu, edumuttanditappu, yedumuttanditappu Malayalam (6) - adalodagam, adel-odagam, ata-lotakam, ataloetakam, atalotakam, attalotakam Marathi (11) - adaso, adoolsa, adoosa, adulsa, adulsi, adulso, adusa, arusa, bakas, baksa, vasuka Sanskrit (57) - Sanskrit Comments  adarushah, amalaka, arus, arusak, atarusa, atarusah, atarusaka, atarusha, attarusha, bashika, bhisahkmata, bhishagmata, bhishangmata, kanthiravi, kasanotpatana, matrisinhi, mrigendrani, nasa, panchamukhi, raktappittaghni, raktavasa, ramrupaka, rasadani, simhamukhi, simhasya, simhavadana, simhi, simhika, sinhamukhi, sinhanana, sinhaparni, sinhapatri, sinhasya, sinhi, sinhika, sitakarni, uroos, vaidyamata, vaidyamatruvrikshaha, vaidyasinhi, vaji, vajidanta, vajidantaka, vajidantakahaatarusha, vajidanti, vansa, vasa, vasaka, vasakah, vasha, vasica, vasika, vrisha, vrishasinhamukhi, vrsa, vrsah, vrsaka Tamil (89) - aadaa thoda, aadaathoda, aadaathodai, acalai, adadodi, adathodai, adatoda, adatodai, adatodey elley, adhatodai, akacattamarai, akalatarai, antarati tamarai, atadotai, atatotai, atatotai ilai, atatotai ver, atatotailacai, atatotaiver, ati, attacaram, attakacam#, attakacam@, attakani, attakanicceti, attucam, atutota ilai, atutotai, calamaram, calavirutcam 1, camaracam 1, carati 1, cati, catikacceti, catikam, cimmamuki, cimmamukil, cimmuki, cinkakacceti, cinkakam, cinkam, cinkaparani, curacamani, cuvatu 1, elankacam, irattapittacceti, irattapittakkini, irattapittam, irattapittappuntu, irattapittavakkini, karanai 1, karanaippavattai, kattumurungai, kattumurunkai, kavirakacceti, kavirakam, nakankacceti, nakankam, nalotakam, namavaruti, netumpa, nintavilai, pamatuva, pamatuvacceti, pavatai, peruntotai, peruntotaicceti, pittacilettumavakkini, pulutinkutori, purkuli, purkulikacceti, tankilimulam, tatiyattattai, totai, totai 1, tuvanati, vaca, vacakacuracam, vacakam, vacanti 1, vacati, vachai, vaittiyamata, vatakicceti, vetpavattai, vetpavattaicceti, virusam, yakotevatam, yarancam Telugu (12) - aadasare, adamkabu, adampaka, adasaram, adda saramu, adda-sarap, addasaram, addasaramu, addasarapaku, atarushamu, kaatumurungai, vachai Tibetan (4) - ba sa ka, ba-sa, ba-sa-ka, bri-sa Urdu (7) - adoosa, arusa, arusa (bansa), bansa ke pattay, burg arusa, burg bansa, burg-i-arusa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1251
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1251.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/a75a0c0270c6dc24e802cda3469d09fc
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/b078cab7460ea5405bedfc86c25f06e2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/a75a0c0270c6dc24e802cda3469d09fc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/b078cab7460ea5405bedfc86c25f06e2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/a75a0c0270c6dc24e802cda3469d09fc
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/b078cab7460ea5405bedfc86c25f06e2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/a75a0c0270c6dc24e802cda3469d09fc
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/b078cab7460ea5405bedfc86c25f06e2
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/a75a0c0270c6dc24e802cda3469d09fc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/b078cab7460ea5405bedfc86c25f06e2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/a75a0c0270c6dc24e802cda3469d09fc
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314/xclkon/b078cab7460ea5405bedfc86c25f06e2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6af02657ecf8d4b1d3e0f08206e91314
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vasa
+sanskrit_name: वासा
+transliteration: vāsā
+image_urls: https://www.medicinalplants.in/slokaimages/973/973_1.jpg https://www.medicinalplants.in/slokaimages/973/973_2.jpg https://www.medicinalplants.in/slokaimages/973/973_3.jpg https://www.medicinalplants.in/slokaimages/973/973_4.jpg https://www.medicinalplants.in/slokaimages/973/973_5.jpg https://www.medicinalplants.in/slokaimages/973/973_6.jpg https://www.medicinalplants.in/slokaimages/973/973_7.jpg https://www.medicinalplants.in/slokaimages/973/973_8.jpg
+ocr_text: वासकः सिंहिका वासा भिषङ्माता वसादनी आटरूषः सिंहमुखी सिंही कण्ठीरवी वृषः |l शितपर्णी वाजिदन्ता नासा पञ्चमुखी तथा सिंहपर्णी मृगेन्द्राणी नामान्यस्यास्तु षोडश Il (Rjnl Vasaka, simhika, vasa, bhisangmata, vasadani, atarupa, simhamukhi, simhi, kanthiravi, vrsha, sitaparni, vajiaanta nasa, panchamukhi, simhaparni and mrgenarani are the १६ synonyms of vasa. ऊर्ध्वासृक्पित्तशमनी कफकासज्वरापहा कषायतिक्ता वीर्योष्णा शीता वाशा क्षयापहा IMdn) Vasa is kashaya, tikta in rasa, usna, sita in verya, pacifies urdhva asrk, pitta, alleviates kapha, kasa, jvara and kshaya वासको वातकृत्स्वर्यः कफपितास्नाशनः तिक्तस्तुवरको हृद्यो लघुः शीतस्तृडर्तिहत् |l श्वासकासज्वरच्छर्दिमेहकुष्ठक्षयापहः IBpn ) Vasaka is tikta, tuvara in rasa, laghu in guna, sita in veerya, svarya, hrdya, increases vata, aestroys kapha, pitta, asra, trt, arti, cures svasa, kasa, jvara, chardi, meha, kustha ana kshaya. आटरूषो हिमस्तिक्तः पित्तश्लेष्मास्रकासजित् क्षयहृच्छर्दिकुष्ठघ्नो ज्वरतृष्णाविनाशनः Il IDhn) Atarusha is tikta in rasa, in veerya, alleviates pitta, slesma , asra, cures kasa , ksaya, hrt vikara, chardi, kustha jvara ana trsna hima वाशा तिक्ता कटुः शीता कासघ्नी रक्तपित्तजित् कामलाकफवेकल्यज्वरश्वासक्षयापहा IRjn) Vasa is tikta, katu in rasa, sita in veerya, alleviates kasa, raktapitta, kamala, kapha, vaikalya, jvara, svasa and ksaya वाशायां विद्यमामायामाशायां जीवितस्य च रक्तपित्ती क्षयी कासी किमंर्थमवसीदति Il (Vaidyajeevanaml Vasa is useful in curing raktapitta, ksaya and kasa. सिंहास्या तुवरा तिक्ता हृद्या स्वर्या हिमा लघुः वातला कफपित्तास्रश्वासकासहरा हरेत् |l ज्वरमहारुाच च्छर्दिकुष्ठतृष्णाक्षतक्षयान् क्षयघ्नं वातलं पुष्पं कफपित्तजित् IKdn) Simhasya is tuvara , tikta in rasa, aghu in guna, hima in veerya, hrdya, svarya, increases vata, alleviates kapha, pitta, asra, svasa, cures jvara, meha, aruci , chardi, kustha, trsna, ksata, kasya. Puspa increases vata, alleviates kapha, pitta, and is vrshaja, वृषजं kasa, ksaya वाशा सिंहमुखः सिंहिका भिषङ्माता वाशकसंज्ञ शब्दैः पर्यायवाचकैर्गदिता Il IAa mal Vasha, vrshatrusha, simhamukha, simhika, bhishangmata, vrshaka, vashakasamjna are the synonyms of vasa. वृषाटरूषः वृषको
+
+Shloka Record 2
+drug_name: Vasaka
+sanskrit_name: वासक
+transliteration: vāsaka
+image_urls: https://www.medicinalplants.in/slokaimages/973/973_1.jpg https://www.medicinalplants.in/slokaimages/973/973_2.jpg https://www.medicinalplants.in/slokaimages/973/973_3.jpg https://www.medicinalplants.in/slokaimages/973/973_4.jpg https://www.medicinalplants.in/slokaimages/973/973_5.jpg https://www.medicinalplants.in/slokaimages/973/973_6.jpg https://www.medicinalplants.in/slokaimages/973/973_7.jpg https://www.medicinalplants.in/slokaimages/973/973_8.jpg
+ocr_text: वासकः सिंहिका वासा भिषङ्माता वसादनी आटरूषः सिंहमुखी सिंही कण्ठीरवी वृषः |l शितपर्णी वाजिदन्ता नासा पञ्चमुखी तथा सिंहपर्णी मृगेन्द्राणी नामान्यस्यास्तु षोडश Il (Rjnl Vasaka, simhika, vasa, bhisangmata, vasadani, atarupa, simhamukhi, simhi, kanthiravi, vrsha, sitaparni, vajiaanta nasa, panchamukhi, simhaparni and mrgenarani are the १६ synonyms of vasa. ऊर्ध्वासृक्पित्तशमनी कफकासज्वरापहा कषायतिक्ता वीर्योष्णा शीता वाशा क्षयापहा IMdn) Vasa is kashaya, tikta in rasa, usna, sita in verya, pacifies urdhva asrk, pitta, alleviates kapha, kasa, jvara and kshaya वासको वातकृत्स्वर्यः कफपितास्नाशनः तिक्तस्तुवरको हृद्यो लघुः शीतस्तृडर्तिहत् |l श्वासकासज्वरच्छर्दिमेहकुष्ठक्षयापहः IBpn ) Vasaka is tikta, tuvara in rasa, laghu in guna, sita in veerya, svarya, hrdya, increases vata, aestroys kapha, pitta, asra, trt, arti, cures svasa, kasa, jvara, chardi, meha, kustha ana kshaya. आटरूषो हिमस्तिक्तः पित्तश्लेष्मास्रकासजित् क्षयहृच्छर्दिकुष्ठघ्नो ज्वरतृष्णाविनाशनः Il IDhn) Atarusha is tikta in rasa, in veerya, alleviates pitta, slesma , asra, cures kasa , ksaya, hrt vikara, chardi, kustha jvara ana trsna hima वाशा तिक्ता कटुः शीता कासघ्नी रक्तपित्तजित् कामलाकफवेकल्यज्वरश्वासक्षयापहा IRjn) Vasa is tikta, katu in rasa, sita in veerya, alleviates kasa, raktapitta, kamala, kapha, vaikalya, jvara, svasa and ksaya वाशायां विद्यमामायामाशायां जीवितस्य च रक्तपित्ती क्षयी कासी किमंर्थमवसीदति Il (Vaidyajeevanaml Vasa is useful in curing raktapitta, ksaya and kasa. सिंहास्या तुवरा तिक्ता हृद्या स्वर्या हिमा लघुः वातला कफपित्तास्रश्वासकासहरा हरेत् |l ज्वरमहारुाच च्छर्दिकुष्ठतृष्णाक्षतक्षयान् क्षयघ्नं वातलं पुष्पं कफपित्तजित् IKdn) Simhasya is tuvara , tikta in rasa, aghu in guna, hima in veerya, hrdya, svarya, increases vata, alleviates kapha, pitta, asra, svasa, cures jvara, meha, aruci , chardi, kustha, trsna, ksata, kasya. Puspa increases vata, alleviates kapha, pitta, and is vrshaja, वृषजं kasa, ksaya वाशा सिंहमुखः सिंहिका भिषङ्माता वाशकसंज्ञ शब्दैः पर्यायवाचकैर्गदिता Il IAa mal Vasha, vrshatrusha, simhamukha, simhika, bhishangmata, vrshaka, vashakasamjna are the synonyms of vasa. वृषाटरूषः वृषको

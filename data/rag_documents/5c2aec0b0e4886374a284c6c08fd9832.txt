@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5c2aec0b0e4886374a284c6c08fd9832
+Botanical Name: Chrysanthemum coronarium L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 35 Vernacular names found in 8 languages. English (3) - chrysanthemum greens, crown daisy, shungiku Hindi (3) - akurkurra, gulchini, guldaudi Kannada (1) - hale Marathi (6) - akura kara, gavanashevathi, gulacheeni, gulesevathi, gulesevati, tursiphal Sanskrit (6) - Sanskrit Comments  chandra-mallika, chandramallika, seunti, shevantika, sventi, swenti Tamil (10) - kupotakacceti, kupotakam, mancalcamanti, mancamanti, mancatcamanti, mancatcevvanti, mancatcittirappu, mancetccevvanti, mutiraccevvanti, shamantippu Telugu (2) - chamanthi, chamanti Urdu (4) - gul seoti, gul-i-seoti, gulchini, taza gul seoti ki pankhriyan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c2aec0b0e4886374a284c6c08fd9832
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c2aec0b0e4886374a284c6c08fd9832
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c2aec0b0e4886374a284c6c08fd9832
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c2aec0b0e4886374a284c6c08fd9832
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c2aec0b0e4886374a284c6c08fd9832
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

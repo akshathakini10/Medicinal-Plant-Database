@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1fbf96782c22d2fe4a001d4ed9be0c9b
+Botanical Name: Nyctanthes arbor-tristis L.
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 150 Vernacular names found in 7 languages. Hindi (26) - binari, dlatchi, har, har-singar, harshingar, harsimgar, harsingar, harsinghar, hurshjngar, jar, jarsinghar, karasli, koori, kura, kuri, kurri, nibari, parijata, parja, saherwa, saihari, seoli, sephalika, siharu, tamat, tamti Kannada (13) - goli, harasinga gida, harasingaar, harisringi, harisryngi, harsing, hursing, paarijaatha, paarijaathaka, parigata, parijata, parijataka, parijathaka Malayalam (11) - manapu, manjapu, manjapumaram, mannappu, manpumaram, munjapu, munjepoo, parijatakam, parijatam, parijathakam, pavilamalli Marathi (14) - kharasli, khurasli, khurasoi, paarijaath, paarizhatak, pahar-batti, pardik, parijatak, parijataka, parizatak, parjatak, partaka, parzonto, prijtak Sanskrit (16) - Sanskrit Comments  atyuha, harashingarpushpaka, harasimgara, kharapatraka, nalakunkuma, parijata, parijatah, parijataka, prajakta, ragapushpi, ragapuspi, rajanihasa, rajanikasa, sephali, sephalica, sephalika Tamil (40) - civappuccorikam, ciyattavi, ciyattavimaram, cuputpam, cutam1, cutam1@, malaipparicatam, mancatpu, manjapu, manjatpu, paimpon, paimponmallikai, paimponmallikaimaram, pakalamallikai, paricatam, paricatamaram, parijaatham, parijatam, parijatham, parisadam, pavala malli, pavala malligai, pavala-malligai, pavalakkaymallikai, pavalamalli, pavalamalligai, pavalamallikai, pavalappicci, pavazha malli, pavazha-mali, pavelam, pavilamalligai, sudam, tira, tiraki, tirakimaram, tivitiratcam2, tolavaka, tolavakacceti, tukirttali Telugu (30) - kaaruchiya, kapilanagadustu, kappanagadutti, karshas, karshia, karuchiya, karuciya, kineri, kinnera, kirsaru, kisteti, krishnavaeni, krishnaveni, krishnaverri, paarijaathamu, pagada malle, pagadamalle, pagadamalli, parijatamu, parijatham, parujatamu, poghada, seepaalika, sepali, sepalika, shvetasurasa, shvethasurasa, shwetasurasa, svatasuasa, swetasarasa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fbf96782c22d2fe4a001d4ed9be0c9b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Parijata
+sanskrit_name: पारिजात
+transliteration: pārijāta
+ref_drug_name: पारिजात
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Sephalika
+sanskrit_name: शेफालिका
+transliteration: śephālikā
+ref_drug_name: शेफालिका
+status: Accepted source
+discussion: Nighantus have mentioned 'Sephalika' as as a variety of 'Nirgundi' which created a confusion regarding it but there is a clear description given in Susruta samhita; With regard to this it can be considered to be as 'Parijata' and hence identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Parijata
+sanskrit_name: पारिजात
+transliteration: pārijāta
+image_urls: https://www.medicinalplants.in/slokaimages/1171/1171_1.jpg
+ocr_text: रसः प्रोजक्तपत्रस्य ज्वरघ्नो तिक्तकः स्मृतः पर्णखण्डसमायुक्ता त्वचा कासविनाशिनी| | Patra rasa is tikta , parnakhanda samayukta, alleviates jvara ana tvaca alleviates kasa

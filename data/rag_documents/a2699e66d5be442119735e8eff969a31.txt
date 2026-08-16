@@ -1,0 +1,63 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a2699e66d5be442119735e8eff969a31
+Botanical Name: Saussurea costus (FALC.) LIPSCH.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Saussurea lappa C.B.CL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 107 Vernacular names found in 10 languages. English (2) - costus root, kuth Hindi (10) - koostha, koot, kootha, kot, kur, kust, kut, kuth, pachak, pokharmul Kannada (6) - kankushta, koshta, koshtha, kosta, kostha, kosuta Malayalam (4) - kottam, seppudday, sepuddy, simakkottam Marathi (4) - koshta, kot, kushthh, ouplet Sanskrit (50) - Sanskrit Comments  agada, amaya, apya, bhasura, dushta, gada, gadakhya, gadavha, gadavhaya, haribhadraka, ja, jarana, kadakhya, kakala, kashmirja, kashtam, kasmira, kaubera, kinjalka, kushta, kushtam, kushtha, kustha, kusthah, kustham, kuthika, kutsita, niruja, padmaka, pakala, pakalam, palaka, paribhadraka, paribhavya, pauskara, pavana, puskara, puskaramula, rama, roga, rogavhaya, ruja, ruk, ruka, utpala, utpalam, vaniraja, vapya, vyadhi, vyapya Tamil (15) - chagal koshtam, goshtam, gostan, gostham, jathikoshtam, katakuvayam, koshtam, kostam, kostam 2, kostum, kottam, kura, kutavapiritam, oli, putchuk Telugu (7) - cengala, changala, chengulva, kostamu, kostu, kushtamu, kustam Tibetan (2) - ru rta, ru-rta Urdu (7) - karwa koth, quest shirin, qust, qust shirin, qust talkh, qust-i-talkh, qust-shirin
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 3970
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/3970.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2699e66d5be442119735e8eff969a31/xclkon/325db44755404ee6df808902bab3d6d2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kustha
+sanskrit_name: कुष्ठ
+transliteration: kuṣṭha
+image_urls: https://www.medicinalplants.in/slokaimages/1453/1453_1.jpg https://www.medicinalplants.in/slokaimages/1453/1453_2.jpg https://www.medicinalplants.in/slokaimages/1453/1453_3.jpg https://www.medicinalplants.in/slokaimages/1453/1453_4.jpg
+ocr_text: तिक्तं स्यात कफमारुतरक्तजितं | त्रिदोषविषकण्डूश्च कुष्ठरोगाँश्च नाशयेत् न[ IDhn) Kustha is katu, tikta in rasa, usna in veerya, alleviates kapha, maruta ana rakta dosha, cures tridosha, visa, kandu ana kustha. कुष्ठं कटूष्णं तिक्तं स्यात् कफमारुतकुष्ठजित् | विसर्पविषकण्डूतिखर्जुदद्रुघ्नकान्तिकृत्| | IRjn) Kustha is katu, tikta in rasa, usna in veerya, alleviates kapha and maruta is kantikara, cures kustha, visarpa, visa, kandu, kharju and dadru. कटूष्णं कुष्ठं कुष्ठमुष्णं कटु स्वादु शुक्रलं तिक्तलं लघु हान्त वातास्रविसर्पकासकुष्ठमरुकफान् Il (Bpn) Kustha is katu , svadu, tikta in rasa, laghu in guna, usna in veerya, sukrala, alleviates maruta and kapha,cures vatasra, visarpa, kasa and kustha वातहराभ्यंङ्गोपनाहयोगिनाम् (चरक Kustha alleviates vata and used in abhyanga and upanaha कुष्ठं

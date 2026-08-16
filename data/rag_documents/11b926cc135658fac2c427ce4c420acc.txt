@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 11b926cc135658fac2c427ce4c420acc
+Botanical Name: Hydnocarpus pentandra (BUCH.-HAM.) OKEN
+Family: Flacourtiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hydnocarpus inebrians VAHL Hydnocarpus laurifolia (DENNST.) STEUM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 110 Vernacular names found in 7 languages. Hindi (3) - calmogara, chaulmoogra, jangli-badam Kannada (31) - aetthina thoradina kaayi, bhoothaayi mara, bhoothahi, bhutahi, chaalmogra yenne mara, chalmoogra yenne mara, chaul moogra aenna mara, choratti, garuda, garuda phala mara, garudaphala, garuduphala, halipe, karalase, kauta, kudure sotte, kuduresotte, kushthharri, maravetti, neeraadi, neeruhinthale, niradivittalu, niradivittulu, nirahivitala, poonthayi, surante, suranti, surate, surti, thoratthi, toratti Malayalam (20) - kodi, koti, malmurutti, maravatti, maravetti, maroti, marotti, morotti, muruotti, neerutti, niradimuttu, nirala, niralam, niratti, nirvatta, nirvatti, nirvetti, vattai, vetti, yetti Marathi (11) - jangli baadaam, kaddu-ka-peet, kadoo-ka-veet, kadu-kavathi, kadu-kawata, kadukavata, kantel, kastei, kastel, kowtee, kowti Sanskrit (6) - Sanskrit Comments  garudaphala, katukapittha, kushtavairi, kusthavairi, tuvaraka, tuvarakah Tamil (30) - athuchangalai, calamottikkottai, calmukura, catakkecam, catakkecamuttu, cirutuntikaluttu, koranguthalai, kumpalam, maravattai, maravetti, marvetti, neeradi-muthu, neeradimuthu, niradi-muththu, niradi-muttu, niradimuttu, niratimuttam, niratimuttu1, nirccattiram, nirccucam, nirccucamuttu, nirettimuttu, nirettivitai, nirvetimuttu, nirvetti1, nirvettikkottai, tumpili, tuvarakam, vattai, yetti Telugu (9) - adavibaadaamu, adavibadamu, adisadamu, neeradi, neeradi vittulu, niradi, niradi-vittulu, niradivittalu, nirudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/e500d850d59145138a81017534588aa7
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1155
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1155.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/6d72d19a3709bb83b809aaa46fcd4e7b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/f349c1fb521ee086c4eb87d3b82c1309
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/e500d850d59145138a81017534588aa7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/6d72d19a3709bb83b809aaa46fcd4e7b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/f349c1fb521ee086c4eb87d3b82c1309
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/e500d850d59145138a81017534588aa7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/6d72d19a3709bb83b809aaa46fcd4e7b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/f349c1fb521ee086c4eb87d3b82c1309
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11b926cc135658fac2c427ce4c420acc/xclkon/e500d850d59145138a81017534588aa7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

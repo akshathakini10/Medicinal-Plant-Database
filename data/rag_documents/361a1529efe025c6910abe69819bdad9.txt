@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 361a1529efe025c6910abe69819bdad9
+Botanical Name: Sterculia foetida L.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 114 Vernacular names found in 8 languages. English (1) - java olive Hindi (4) - jamglibadam, jangalbadam, jangli-badam, janglibadam Kannada (24) - baethaalada mara, basavana goota, basavana gotti, basavanagoratu, bhatala, bhathala, bhoothaili, bhutaili, bhutala, gotina kaayi, gotinakayi, jaynkatale, jenu kaataili, jenukayitaili, kudre gotu, kudregoit, kudregolt, kudregottu, kuduregotu, penari, penari bhatala, pinari, punari, sembadi Malayalam (6) - pinari, pottakavalam, pottakkavalam, putimanatti, putiyanartti, thondi Marathi (10) - goldaaru, goldaru, janglibaadaam, janglibaddam, naagalkuda, naaginee chaavriksha, nagalkuda, nagin, narkya-uda, viroy Sanskrit (2) - Sanskrit Comments  putidaru, vitkhadirah Tamil (51) - arali, atikanari, attirappidukkan, cutiram, cutiramaram, irul 3, kacankam, karappan-pattai, katiraippitukkan, kolunkatikam, kolunkatikamaram, kudiraippidukku, kutiraippitukku, kutiraipputukkan, malaittengai, malaittenkay, marukkatinarimaram, motakam 3, motamaram, nari 2, ottakaipican, ottakaippicanmaram, ottakkay, pee, peenari, perumaram 3, perumarappattai, perumarattup pattai, perumaraver, perumuttai, pimaram, pinari, pinari 1, pinari maram, pinarimaram, pinatti, pooda carapan puttay, pudagarappanbattai, putakarappan pattai, putakarappan#, putakarappan@, putavaccam, putavam 2, putavamaram, putavirutcam 2, tauritamaram, umattukanari, umattukanaricceti, urakkamari, urakkamarimaram, uttainari Telugu (16) - gurapa, gurapubadam, gurrapubaadamu, gurrapubadam, gurrapubadamu, gurrapuvadum, guttapubadamu, karaka, manchipoliki, manchiponaku, manciponaku, manjiponaku, pitipoliki, piyyathiponaku, piyyatiponaku, piyyattiponaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/361a1529efe025c6910abe69819bdad9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1983
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1983.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/361a1529efe025c6910abe69819bdad9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/361a1529efe025c6910abe69819bdad9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/361a1529efe025c6910abe69819bdad9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

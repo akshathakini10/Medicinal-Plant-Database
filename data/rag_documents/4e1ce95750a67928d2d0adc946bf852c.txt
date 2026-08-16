@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4e1ce95750a67928d2d0adc946bf852c
+Botanical Name: imenia americana L.
+Family: Olacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 4 languages. English (3) - hog plum, spiny plum, tallow nut Kannada (15) - kaada nakkaare, kanda nekkare, kandanakkare, maggari, makkari gida, naagaree, naagari gida, nagare, nagaree gadde, nakkare, nakkare gadde, nakkare gida, nakkaree gida, nakkarero, nekri kanta Tamil (7) - chiru-illantai, chiru-illanthai, kalai, kataliranci, kataliranci 2, katalviranci 2, katarkakkai Telugu (16) - bili nekkera, billa, kakira, kale, kaliva, kandonakkira, kondanakkera, nagari, nakkeera, nakkera, nakkeru, nakkiri, nekkara, ooranakkera, ooranechra, uranechra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e1ce95750a67928d2d0adc946bf852c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e1ce95750a67928d2d0adc946bf852c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e1ce95750a67928d2d0adc946bf852c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

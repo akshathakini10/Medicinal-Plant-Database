@@ -1,0 +1,63 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 48d2814b7156a21811cadfc158d252d5
+Botanical Name: Cicer arietinum L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 106 Vernacular names found in 10 languages. English (2) - chick pea, garbanzo bean Hindi (8) - but, cana, chana, chane-ka-sirkah, channa, channo, chunna, cunna Kannada (11) - chana, channa, hasi kadale, kadale, kadale kaalu, kadle, kalle, karikadale, kempukadale, kudoly, soppukadale Malayalam (1) - katala Marathi (6) - chana, chane, chano, harbar, harbara, harbharaa Sanskrit (15) - Sanskrit Comments  balabhaishajya, balabhojya, cana, canaka, canakah, chanaka, chennuka, harimantha, jivana, kanchuki, krishnachanchuka, sakalapriya, sugandha, vajibhakshya, vajimantha Tamil (42) - arenu, arimantai, arimantakam, arukkanam, canakam, canam, chunda kadalai, citayam, cul, culakacceti, culakam, curakacitam, curam 2, curanan, kadalai, kadalai kadi, kadalai pulippu, katalai, kontaikkatali, mookkukkadalai, mukantam, mukilikakkatalai, muttukacceti, muttukam, muttukkampayaru, narali, nattukkatalai, nikantakacceti, nikantakam, pakantam, parcoti, patumalarcci, porikatalai, tukkarancam, tuviputam, ukantacceti, ukantakacceti, ukantakam, ukantam, vacipatcam, vakkarancappayaru, vanacankatam Telugu (9) - chanagalu, chanakamulu, harimandhakam, harimandhakamu, jennaga, sanuagalu, senaga, senagalu, shenagalu Tibetan (1) - mon sran tsa na Urdu (11) - but, chana, dalchana muqqashar, habbat-ul-khazara, habbat-ul-khazra, habbat-ul-khizra, hub-at-khizra, hubt-ul-khazra, nakhood bariyan, nakhud (chana), safaid chanay ki dal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d2814b7156a21811cadfc158d252d5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Canaka
+sanskrit_name: चनक
+transliteration: canaka
+ref_drug_name: चनक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Canaka
+sanskrit_name: चनक
+transliteration: canaka
+ref_drug_name: चनक
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

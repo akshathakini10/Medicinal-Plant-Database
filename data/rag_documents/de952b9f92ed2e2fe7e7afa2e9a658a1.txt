@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: de952b9f92ed2e2fe7e7afa2e9a658a1
+Botanical Name: Gossypium acuminatum ROB.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Telugu (2) - errapatti, yerrapatti Urdu (1) - maghz pumba dana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de952b9f92ed2e2fe7e7afa2e9a658a1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de952b9f92ed2e2fe7e7afa2e9a658a1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de952b9f92ed2e2fe7e7afa2e9a658a1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

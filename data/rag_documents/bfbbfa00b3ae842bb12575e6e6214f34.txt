@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bfbbfa00b3ae842bb12575e6e6214f34
+Botanical Name: Corchorus trilocularis L.
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 5 languages. Hindi (5) - hardikaket, kadukosta, kadvapat, kagle ki tmbaku, karak Kannada (2) - ennepundi gida, kaaduchunchali gida Marathi (2) - kaaduchunch, kaduchunch Sanskrit (4) - Sanskrit Comments  canchu, dirghachanchu, kaunti, raja-jira Telugu (1) - bankitutturu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bfbbfa00b3ae842bb12575e6e6214f34
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 644
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/644.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bfbbfa00b3ae842bb12575e6e6214f34
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cancu
+sanskrit_name: चञ्चु
+transliteration: cañcu
+ref_drug_name: चञ्चु
+status: Most probable
+discussion: May be considered as this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

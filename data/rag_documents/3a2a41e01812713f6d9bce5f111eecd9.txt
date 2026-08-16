@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3a2a41e01812713f6d9bce5f111eecd9
+Botanical Name: Leonurus cardiaca L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. English (5) - lions-ear, lions-tail, lions-tart, motherwort, throwwort
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a2a41e01812713f6d9bce5f111eecd9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a2a41e01812713f6d9bce5f111eecd9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a2a41e01812713f6d9bce5f111eecd9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

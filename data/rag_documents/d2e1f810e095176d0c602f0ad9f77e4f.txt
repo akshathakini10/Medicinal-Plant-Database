@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d2e1f810e095176d0c602f0ad9f77e4f
+Botanical Name: Phaulopsis dorsiflora (RETZ.) SANTAPAU
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Micranthus oppositifolius WENDL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2e1f810e095176d0c602f0ad9f77e4f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2e1f810e095176d0c602f0ad9f77e4f/xclkon/71ceb580ea41c5c0d999ed9ea3f2d4d6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2e1f810e095176d0c602f0ad9f77e4f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

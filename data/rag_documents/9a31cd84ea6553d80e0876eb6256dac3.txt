@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9a31cd84ea6553d80e0876eb6256dac3
+Botanical Name: Medicago polymorpha L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Hindi (2) - chandansi, churgali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a31cd84ea6553d80e0876eb6256dac3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a31cd84ea6553d80e0876eb6256dac3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 897f3cdce4cd7d57d2544e7ae66b0bec
+Botanical Name: Aganosma dichotoma (ROTH) K.SCHUM.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Aganosma caryophyllata G.DON
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 37 Vernacular names found in 7 languages. Hindi (1) - malati Kannada (6) - chitraleena balli, kemmatti balli, maalathi latha, maalathi lathe, malathi lathe, malatilata Malayalam (5) - cerupaval, cherupaval, kavettavalli, kayerravalli, kemettivalli Marathi (2) - maalathi, malati Sanskrit (10) - Sanskrit Comments  asanamallika, asphota, bhadramunja, bhadravalli, jati, malati, sumana, vasanti, visalyakrit, yuvati Telugu (10) - eri yadalalli, gudapalathige, gudapalatige, maalathi, malajiti, malati, mogari, paalamalle, pala malle, palamalle Tibetan (3) - sna ma i me tog, sri sin gi me tog, srid sin
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec/xclkon/be182c495cce9710579a592ec7e18f1d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec/xclkon/3b6fb7ea26d35ef14ec0ab553076270b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec/xclkon/be182c495cce9710579a592ec7e18f1d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec/xclkon/3b6fb7ea26d35ef14ec0ab553076270b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec/xclkon/be182c495cce9710579a592ec7e18f1d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec/xclkon/3b6fb7ea26d35ef14ec0ab553076270b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/897f3cdce4cd7d57d2544e7ae66b0bec/xclkon/be182c495cce9710579a592ec7e18f1d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Malati
+sanskrit_name: मालती
+transliteration: mālatī
+ref_drug_name: मालती
+status: Most probable
+discussion: Some consider it different from Jati which may be identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

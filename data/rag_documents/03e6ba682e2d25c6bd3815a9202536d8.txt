@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 03e6ba682e2d25c6bd3815a9202536d8
+Botanical Name: Atalantia monophylla CORR.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Trichilia spinosa WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 103 Vernacular names found in 6 languages. Kannada (25) - adavi limbe, adavi nimbe, adavinimbe, betta, betta kanchi, dodda huli, dodli huli, dodlihuli, kaadu limbe, kaadu nimbe, kaaka kanchi, kaakanchi, kaakanchi balli, kadinimbi, kadnimbai, kadu-limbe, kadulimbe, kadumbi, kadunimbe, kaiperapuli, kaiperipuli, kanchi, kanchile, katimbai, katunimbe Malayalam (11) - katnaranjee, kattukurunnu, kattukurunta, kattunarakam, kolanna, kuttunarakam, mal-naregam, malanarakam, malanaregam, malenarakam, malnaregam Marathi (6) - maakadlimbu, makadlimbu, makurlimbu, raanlimbu, ran-limbi, ranlimbu Sanskrit (1) - Sanskrit Comments  atavi-jambira Tamil (47) - anakamitam, cat korundoo unnay, iyacakurinci, iyacakurincimaram, kacappuelumiccai, kacapputtotikam, kacapputtotikamaram, kaitikam, kaitikamaram, kappiliyelumiccai, kattanaragam, kattelimiccai, kattelumiccai, kattelumichai, kattu elumiccai, kattu elumicchai, kattu elumichai, kattu narankam, kattu-elumichchai, kattu-elumichhampazham, kattuelimichai, kattukkani, kattukkiccili, kattukkichili, kattukkolumiccai, kattukkolunci 2, kattukkurundu, kattukkuruntu, kattunaragam, kattunarattai, kurindai, kurundu, kuruntan, kuruntotti, kuruntottimaram, kuruntu 3, makurlimbu, malai-narathai, malainarathai, malamandarai, narattai 3, perungurundhu, perungurundu, perunkuruntu, perunkuruntu 2, perunkuruttu, peyelumiccai Telugu (13) - adavi nimma, adavi-nimma, adavimunugudu, adavinimma, adivinimma, erra munukudu, erramunukudu, ettamunukudu, karu nimma, karunimma, kondanimma, murikinimma, yerramonukudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03e6ba682e2d25c6bd3815a9202536d8/xclkon/4366c0ad5244dd461e05689c0c114e6c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 260
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/260.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03e6ba682e2d25c6bd3815a9202536d8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03e6ba682e2d25c6bd3815a9202536d8/xclkon/4366c0ad5244dd461e05689c0c114e6c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03e6ba682e2d25c6bd3815a9202536d8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03e6ba682e2d25c6bd3815a9202536d8/xclkon/4366c0ad5244dd461e05689c0c114e6c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03e6ba682e2d25c6bd3815a9202536d8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/03e6ba682e2d25c6bd3815a9202536d8/xclkon/4366c0ad5244dd461e05689c0c114e6c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

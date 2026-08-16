@@ -1,0 +1,110 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 56cace4947d620fcfd20cee3d4fdb047
+Botanical Name: Cajanus cajan (L.) MILLSP.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cajanus bicolor DC. Cajanus indicus SPR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 153 Vernacular names found in 10 languages. English (6) - ambrevade, arhar, catjang, congo pea, dahl, pigeon pea Hindi (11) - arardal, arhar, arhar dal, arhardal, dhal, tor, tuar, tur, tuur, tuvar, tuvvar Kannada (17) - adhaki, athaki, baele, byale, dalu, dhaal, kari uddu, kariuddu, kariyuddu, kariyudu, thogari bele, thogarukoy, thugari bele, thurukara thogari, togari, turukutogari, tuvari Malayalam (9) - adhaki, kakshi, thora-paerou, thoraporu, tumara, tuvara, tuvaracatjan, tuvarapparippu, tuvari Marathi (6) - thoora, thoori, thoovar, tur, turi, tuur Sanskrit (17) - Sanskrit Comments  adaki, adhaki, kakshi, kandu, karvirabhuja, mritana, mrittala, mrittalaka, pitapushpa, shanapushpika, soppyah, supya, surashtaja, tuberika, tuvari, tuvarika, vritabija Tamil (59) - adagam, adagi, amakam, amam2, atacai, atakam, ataki, curattam, duvarai, impurupali, irumpali, iruppappuli, iruppuli, iruppulikam, iruppulikamaram, iyavai, iyavu, iyavucceti, kacci, kaccikacceti, kaccikam, kalvayam, kalvayamaram, kanti1, karaviram@, karkai, karkaicceti, kattu-thovarai, kattuthovarai, kaycci, kecapukacceti, kecapukam, kuvalam, kuvalamaram, malaittuvarai, malikaittuvarai 2, malur, miruttalakam, miruttalakam@, miruttanam, miruttanam yarai, muluttuvarai, naiciravam, naiciravamaram, nattuttuvarai, paruppu, pataippeyan, pataippeyanmaram, thuvarai, torai, torai1, tuvarai, tuvarai-p-paruppu, tuvaraippayaru, tuvarankay1, tuvari, tuvarikam, vellaittuvarai, yarai Telugu (25) - aadhaki, adhaki, candaloo, chinnacandi, cinnakandi, condacandaloo, errakandulu, ettakandulu, kandhi, kandi, kandul, kandulu, kondakandi, kunthaloo, peddacandi, peddakandi, peddakondakandi, peddakondakandulu, polukandi, potujandalu, potukandi, potukandulu, sinnakandi, yerracandaloo, yerrakandi Tibetan (2) - tu ba ri, tu pa ri (p) Urdu (1) - arhar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/c051ef12e7ce4a1ef377dbc101af184b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/f1ede21268d064c5e15d82f8f7b9f7a1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/c051ef12e7ce4a1ef377dbc101af184b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/f1ede21268d064c5e15d82f8f7b9f7a1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/c051ef12e7ce4a1ef377dbc101af184b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/f1ede21268d064c5e15d82f8f7b9f7a1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/c051ef12e7ce4a1ef377dbc101af184b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/f1ede21268d064c5e15d82f8f7b9f7a1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/c051ef12e7ce4a1ef377dbc101af184b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/f1ede21268d064c5e15d82f8f7b9f7a1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56cace4947d620fcfd20cee3d4fdb047/xclkon/c051ef12e7ce4a1ef377dbc101af184b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Adhaki
+sanskrit_name: आढकी
+transliteration: āḍhakī
+ref_drug_name: आढकी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Adhaki
+sanskrit_name: आढकी
+transliteration: āḍhakī
+ref_drug_name: आढकी
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 3
+drug_name: Adhaki - prakara
+sanskrit_name: आढकी प्रकार
+transliteration: āḍhakī prakāra
+ref_drug_name: आढकी प्रकार
+status: Accepted source
+discussion: Variety of adhaki is identified with this species
+reference: [4]
+
+Identity Record 4
+drug_name: Adhaki - prakara
+sanskrit_name: आढकी प्रकार
+transliteration: āḍhakī prakāra
+ref_drug_name: आढकी प्रकार
+status: Accepted source
+discussion: Variety of adhaki is identified with this species
+reference: [4]
+
+Identity Record 5
+drug_name: Tuvari
+sanskrit_name: तुवरी
+transliteration: tuvarī
+ref_drug_name: तुवरी
+status: Controversial
+discussion: Widely known in Vagbhata; Its referred by many names like 'Adhaki', 'Saurastri', 'Sphatika' and 'Tori'; The word 'Tuvara' depicts kasaya rasa (astringent taste) and all the above drugs are predominant in this taste; Many meanings can be derived from this word so needs to be studied; Adhaki is correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

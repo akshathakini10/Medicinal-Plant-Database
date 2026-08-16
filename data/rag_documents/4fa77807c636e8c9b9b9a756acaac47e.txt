@@ -1,0 +1,124 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4fa77807c636e8c9b9b9a756acaac47e
+Botanical Name: Celosia argentea L.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 7 languages. English (2) - quail grass, the white cocks comb Hindi (8) - gadrya, garke, garkha, imarti, kukari, makhamal, sufed murgha, surli Kannada (4) - anne soppu, hanne soppu, khadakatheera, mayoora shikhe Marathi (2) - kurdu, morachendya Sanskrit (2) - Sanskrit Comments  mayurasikha, rudrajata Tamil (2) - makili-k-kirai, pannai keerai Telugu (3) - gurugu, gurugu aaku, panchhettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fa77807c636e8c9b9b9a756acaac47e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fa77807c636e8c9b9b9a756acaac47e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Barhisikha
+sanskrit_name: बर्हिशिखा
+transliteration: barhiśikhā
+ref_drug_name: बर्हिशिखा
+status: Controversial
+discussion: Its identity is still in dispute and this is usually mentioned as its source
+reference: [1]
+
+Identity Record 2
+drug_name: Indivara
+sanskrit_name: इन्दीवर
+transliteration: indīvara
+ref_drug_name: इन्दीवर
+status: Controversial
+discussion: There are views regarding identity of Indivara and this may be identified as one of them
+reference: [1]
+
+Identity Record 3
+drug_name: Indivara
+sanskrit_name: इन्दीवर
+transliteration: indīvara
+ref_drug_name: इन्दीवर
+status: Controversial
+discussion: There are views regarding identity of Indivara and this may be identified as a variety of this plant
+reference: [1]
+
+Identity Record 4
+drug_name: Kurantika
+sanskrit_name: कुरण्टिक
+transliteration: kuraṇṭika
+ref_drug_name: कुरण्टिक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Mayurasikha
+sanskrit_name: मयूरशिखा
+transliteration: mayūraśikhā
+ref_drug_name: मयूरशिखा
+status: Suggested source
+discussion: The name Mayurasikha means a peacock crest and this species resembles the same hence it is identified with it
+reference: [2]
+
+Identity Record 6
+drug_name: Mayurasikha
+sanskrit_name: मयूरशिखा
+transliteration: mayūraśikhā
+ref_drug_name: मयूरशिखा
+status: Controversial
+discussion: With regard to its features four species are correlated and widely known as 'Mayurasikha' and this species is one among them
+reference: [5]
+
+Identity Record 7
+drug_name: Pattura
+sanskrit_name: पत्तूर
+transliteration: pattūra
+ref_drug_name: पत्तूर
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 8
+drug_name: Sitivaraka
+sanskrit_name: शितिवारक
+transliteration: śitivāraka
+ref_drug_name: शितिवारक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 9
+drug_name: Vajravalli
+sanskrit_name: वज्रवल्ली
+transliteration: vajravallī
+ref_drug_name: वज्रवल्ली
+status: Accepted source
+discussion: Vajravalli is identified with this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Mayurasikha
+sanskrit_name: मयूरशिखा
+transliteration: mayūraśikhā
+image_urls: https://www.medicinalplants.in/slokaimages/44/44_1.jpg https://www.medicinalplants.in/slokaimages/44/44_2.jpg
+ocr_text: नालकण्ठशिखा लघ्वी पित्तश्लेष्माति सारजित् ( IBpn) Nalakantha sikha is Laghu, Pitta slesma atisara hara. बर्हिचूडा रसे स्वादु मूत्रकृच्छ्रनाशिनी | बालग्रहादि दोषघ्नी वश्यकर्मणि शस्यते IRjn) Barhicuda is Svadu in Rasa , Mutrakrcchra nasini, Bala grahadi dosaghna, Vasya karmani sasyate

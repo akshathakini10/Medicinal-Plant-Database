@@ -1,0 +1,93 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4aeec20f8a1c00709f2199482bfd71b2
+Botanical Name: Prosopis cineraria (L.) DRUCE
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Mimosa cineraria L. Prosopis spicigera L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 198 Vernacular names found in 8 languages. Hindi (14) - chhikura, chhokara, chhonkara, chonkar, cikura, jand, jhand, khejari, khejda, khejra, khejri, safedkikara, sami, sangri Kannada (10) - banni, banni mara, kabanni, khagara, perumbe, shastra mara, shive, vanne, vuckai, vunne mara Malayalam (6) - paramba, parambay, parambi, parambu, parampu, vanni Marathi (8) - saundar, saunder, savandad, savandal, shambaree, shamee, shemi, sumri Sanskrit (44) - Sanskrit Comments  agnigarbha, bhadra, duritadamani, havirgandha, ishana, ishani, ishta, kachariphala, kananari, kesahantri, keshahantra, keshamathani, lakshmi, manhigarbha, medhya, ngalya, papanashini, papashamani, pavitra, rajagiri, rajasakini, rajasami, saktuphala, sami, samira, samudra, sankuphala, shaktuphali, shami, shankari, shankuphalika, shanta, shiva, shivaphala, shubhada, shubhadra, shubhakari, siva, sukhada, supatra, surabhi, tapanatanaya, tunga, viravriksha Tamil (106) - ayattampuri, cami, cami2, camicukkilam, camita, camitamaram, campuvanni, cantupalam, cantupalamaram, carakam2, catiraca, cattukam, cattukamaram, cattuvalakam, cinai, cinavanni, civanvintu, civataki#, civatakimaram, comavalakam2, comavalka, cukkilappalai@, cunki, cunkimaram, cupavakacatti, cuvacakacatti, cuvatukantantirimaram, cuvatukatantiri, eriyal, eriyalamaram, ilatcumi3, ilatcumicerkkai, jambu, kalakatam, kalakatamaram, kalikam, kalikamaram, kalincakam1, kalincakamaram, kalisam, kallicam, kapacutanani, katiranakatir, kecamatani, kecanacani, kecatamani, kecavantu, kentanopitam, kentanopitamaram, kulicam2, kulisam, kulivam, macataiyan, malaivanni, malatunka, mankiliyakecanacani, neruppu, oonjal, paccaivarikam, paccaivarikamaram, palacivarvanni, pancanam@, parambai, parampai2, parppai, parppaimaram, patappuvai, patappuvaimaram, pavanacani, perambai, perumbe, pirampai, piriyataricani#, piriyataricani@, pittira, pittiramaram, sami, seemaimullu, siva, takanam, tamali, tamani, tamaniti2, tamanitimaram, tapanatanayai, titteyvam, titteyvamaram, toytavam, toytavamaram, tukkamocani, usila maram, vacini#, vacini@, vanacivi, vanacivimaram, vanni, vannika 1, vannimaram, vannivirukkam, vannivirutcam, vantuka, vantukamaram, vicini#, vicini@, vidadhari, visakkani 1 Telugu (9) - chamee, chani, dzammi, jambi, jamboo, jammi, jammi chettu, priyadarshini, priyadarsini Tibetan (1) - sa ma
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2/xclkon/477d0c454752dc64ea66edf61e0c0f1f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1735
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1735.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2/xclkon/45b02bbd2d221c6959db63d4fc4a890e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2/xclkon/477d0c454752dc64ea66edf61e0c0f1f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2/xclkon/45b02bbd2d221c6959db63d4fc4a890e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2/xclkon/477d0c454752dc64ea66edf61e0c0f1f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2/xclkon/45b02bbd2d221c6959db63d4fc4a890e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2/xclkon/477d0c454752dc64ea66edf61e0c0f1f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2/xclkon/45b02bbd2d221c6959db63d4fc4a890e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aeec20f8a1c00709f2199482bfd71b2/xclkon/477d0c454752dc64ea66edf61e0c0f1f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rajasami
+sanskrit_name: राजशमी
+transliteration: rājaśamī
+ref_drug_name: राजशमी
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Sami
+sanskrit_name: शमी
+transliteration: śamī
+ref_drug_name: शमी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Sami
+sanskrit_name: शमी
+transliteration: śamī
+ref_drug_name: शमी
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Sami
+sanskrit_name: शमी
+transliteration: śamī
+image_urls: https://www.medicinalplants.in/slokaimages/1341/1341_1.jpg https://www.medicinalplants.in/slokaimages/1341/1341_2.jpg https://www.medicinalplants.in/slokaimages/1341/1341_3.jpg https://www.medicinalplants.in/slokaimages/1341/1341_4.jpg https://www.medicinalplants.in/slokaimages/1341/1341_5.jpg
+ocr_text: गुरूष्णमधुरं रूक्षं केशघ्नं च शमीफलम्| चरक Sami phala is madhura in rasa, guru, ruksa in guna, usna in veerya and destroys kesa शमीफलं गुरु स्वादु रूक्षोष्णं केशनाशनम्| | सुश्रुत Sami phala is svadu in rasa, Buru, ruksa in guna, usna in veerya ana aestroys kesa शमीफलं लघु स्वादु कफहृत्सरम | पित्तलं रूक्षं मेध्यं केशविनाशनम् [ क्षेमकुतूहलम् Sami phala is svadu in rasa, laghu, sara, ruksa in guna, rucya, medhya, increases pitta, alleviates kustha, arsa, kapha and destroys kesa. कुष्ठार्शः सुरुच्यं शमि तिक्ता कटुः शीता कषाया रोचनी लघुः कफकासभ्रमश्वासकुष्ठार्शकृमिजित्समुता | तत्त्फलं पित्तलं रूक्षं मेध्यं केशविनाशनम्| | (Bpnl Sami is tikta, katu, kashaya in rasa, laghu in guna, sita in veerya, rocani, alleviates kapha , kasa, bhrama, svasa, kustha, arsa and krmi. Its phala is ruksa in guna, meahya, increases pitta and destroys kesa. शमो रूक्षा कषाया च रक्तपित्तातिसारजित तत्फलं तु गुरुस्वादु रूक्षोष्णं नखकेशनुत्| | द्वितीया शमी शांता शुभा भद्रा पराजिता जया च विजया चैव पूर्वोक्तगुणसंयुता | | Rjnl Sami is Ruksa, Kashaya in rasa, Rakta pitta atisarajit. Its Phala is Guru, Svadu in rasa, Ruksa, Usna in virya, Nakha kesa hara Another variety is santa, Subha, Bhadra, Parijata, Jaya, Vijaya and is similar to the above.

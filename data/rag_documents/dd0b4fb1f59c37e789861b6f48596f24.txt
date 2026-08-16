@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dd0b4fb1f59c37e789861b6f48596f24
+Botanical Name: Hibiscus mutabilis L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 32 Vernacular names found in 7 languages. English (1) - confederate rose Hindi (4) - gul-i-ajaib, guliajaib, shalapara, shalaparasthalkamal Kannada (10) - betta thaavare, bettadaavare, chaarate, chandrakaanthi gida, kempu sooryakaanthi, kempu sooryakanthi, neladaavare, neladavare, nelatavare, suryakanti Malayalam (8) - chinapparatti, chinapparutti, cinaparutti, cinapparatti, cinapparutti, hina-pariti, hinaparutti, hinapparatti Marathi (2) - madhyahni, madyani Sanskrit (2) - Sanskrit Comments  padmacharini, sthalapadma Tamil (5) - irattaivellaic cemparattai, irattaivellaichembarattam, sembarattai, sembaruthi, vellai cemparattai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd0b4fb1f59c37e789861b6f48596f24
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd0b4fb1f59c37e789861b6f48596f24
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd0b4fb1f59c37e789861b6f48596f24
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd0b4fb1f59c37e789861b6f48596f24
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e0a5c3ac847929d66e20dff46486a457
+Botanical Name: Sonneratia caseolaris (L.) ENGL.
+Family: Sonneratiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sonneratia acida L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 6 languages. Hindi (1) - archaka Kannada (3) - archaka, kandale, kandile Malayalam (4) - blatti, thirala, tirala, vilatti Marathi (1) - ambeti Tamil (1) - kinnai Telugu (1) - kandla
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0a5c3ac847929d66e20dff46486a457
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0a5c3ac847929d66e20dff46486a457/xclkon/ec1c528aefcc0fb54f2b55426787f0fc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0a5c3ac847929d66e20dff46486a457
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0a5c3ac847929d66e20dff46486a457/xclkon/ec1c528aefcc0fb54f2b55426787f0fc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0a5c3ac847929d66e20dff46486a457
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

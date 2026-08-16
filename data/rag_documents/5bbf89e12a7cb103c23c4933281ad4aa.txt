@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5bbf89e12a7cb103c23c4933281ad4aa
+Botanical Name: Flemingia chappar BUCH.-HAM. E BTH.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Moghania chappar KUNTZE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Hindi (4) - chandrah, chhanchra, saipan, salpan Malayalam (1) - bodopolosi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5bbf89e12a7cb103c23c4933281ad4aa/xclkon/4ed3aea08006543bb724fbdb26cb0215
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5bbf89e12a7cb103c23c4933281ad4aa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5bbf89e12a7cb103c23c4933281ad4aa/xclkon/4ed3aea08006543bb724fbdb26cb0215
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

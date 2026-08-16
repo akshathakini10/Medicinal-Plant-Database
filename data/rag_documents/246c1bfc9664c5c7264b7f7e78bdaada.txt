@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 246c1bfc9664c5c7264b7f7e78bdaada
+Botanical Name: Bridelia retusa SPR.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 174 Vernacular names found in 7 languages. Hindi (16) - aggniya, ekdania, ekdaniya, gadi kuri, gajh, gauli, gaya, kaj, kajja, kasai, kassi, katti-daman, kattian, khaja, koja, lapano Kannada (48) - aasana, asana, asuna, garige, goje, goji, gojji, gojju, goju, gonje, govige, guju, gunjana, guorji, gurige, gworge, havugandha, huvugandha, kogyamunchi, kogyamunji, komanchi, komanjee, komanji, kovyamunji, koya, koyamarwa, koyamunchi, koyya, maguva, makhiro, marua, muguva, muljane, mullaane, mullabengha, mullahonne, mullu honne, mullu-honne, mullubenga, mullugunje, mulluhonne, na sinage, nasanigandhu, nasinagandha, nasinage, nasma gandha, nasuni gandha, siruhonne Malayalam (18) - calaru, chalaru, kaini, komanci, komanjee, komanji, kyne, mooloovangay, mukkayini, mulkaini, mullangayam, mullankayini, mullukayani, mulluvanga, mulluvenga, mulluvengai, mulluvenna, mulluvenya Marathi (11) - asan, asana, asanakutgi, asna, asunna, gunjan, kantakauchi, katiain, katian, kutki, palapasana Sanskrit (7) - Sanskrit Comments  asana, ekadivi, ekavira, mahavira, pasanabheda, sakridvira, suvarika Tamil (23) - acavai, adamarudu, asuvai, atamarutu, cem4, cemmaram7, cinkattan#, cinkattan@, ciruvenkai, kaduga, kadugai, komanji, malaivengai, malaivenkai, mullu-maruthu, mullu-vengai, mullumarathu, mullumarudu, mulluvengai, mulluvenkai, mulvengai, mulvenkai, sem Telugu (51) - anap, anem, anempu, anemu, aneputa, annemu, bontavegi, bontavegisa, bontayegi, bontayepi, coraman, dudimaddi, duriamaddi, duriamadi, duriyamaddi, duriyamadi, durva maddi, errabotca, errabottuka, errapatta, errapattaka, ettapattaka, kararatti, karatti, kodaaratti, kodaari, kodaratti, kodari, kodavi, koderu, kopramaun, kora maddi, koramaanu, koramaddi, koramanu, kosengi, mulu maddi, mulu moddi, peddaanem, peddajana, peddayaanemmu, peddayanemu, piamaddi, poramanu, putta karaka, salaaka, salaka, salar, verri karka, yega, yerrabottuga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246c1bfc9664c5c7264b7f7e78bdaada
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ekavira
+sanskrit_name: एकवीर
+transliteration: ekavīra
+ref_drug_name: एकवीर
+status: Accepted source
+discussion: Has been mentioned in Raja nighantu; Identified with it
+reference: [5]
+
+Identity Record 2
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+ref_drug_name: पाषाणभेद
+status: Controversial
+discussion: Throughout the country many species have been correlated to Pasanabheda and this is one among them
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+image_urls: https://www.medicinalplants.in/slokaimages/233/233_1.jpg https://www.medicinalplants.in/slokaimages/233/233_2.jpg https://www.medicinalplants.in/slokaimages/233/233_3.jpg https://www.medicinalplants.in/slokaimages/233/233_4.jpg
+ocr_text: पाषणभेदकोश्मघ्नःशिलाभेदोश्मभेदकः सचैवोपलभेदश्चनगभिच्छैलगर्भजः Synonyms of pasanabheda are asmaghna, silabheda, asmabhedaka, palabheda, nagabhi elagarbhaja and अश्मभिद्वस्तिरुङ्मूत्रकृच्छ्रतोदाहवातनुत् शीतवीर्योगुरुःस्निग्धस्तथातीसारनाशनः न (शो.नि) Asmabhid is guru, snighda in guna, sita in veerya, alleviates vastiruk, mutra krcchra, daha, vata and atisara. अश्मभेदोहिमस्तिक्तःकषायोवस्तिशोधनः मेदंहन्तित्रिदोषार्शोगुल्मकृच्छ्राश्महृद्रुजः योनिरोगान्प्रमेहांश्चप्लीहशूलव्रणानिच It is tikta, kashaya in rasa, hima in veerya, vasti sodhana, alleviates meda tridosha, arsa, gulma, krcchra, asma, hraruja, yoni roga, prameha, pliha sula and vrana क्षुद्रापाषाणभेदश्चव्रणकृच्छ्राश्मरीहरः IRjn ) Ksudra pasanabheda alleviates vrana, krcchra and asmari.

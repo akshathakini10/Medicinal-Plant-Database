@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1fc3df6c646d5728d1f5c25c3dbc6c42
+Botanical Name: Linociera ramiflora (ROB.) WALL. E G. DON
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fc3df6c646d5728d1f5c25c3dbc6c42
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fc3df6c646d5728d1f5c25c3dbc6c42
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

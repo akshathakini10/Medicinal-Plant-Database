@@ -1,0 +1,94 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 685dab1d433e4428f5a40d044edc6db2
+Botanical Name: Cuminum cyminum L.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 181 Vernacular names found in 10 languages. English (1) - cumin Hindi (11) - gajar, jeera, jira, safed jeera, safed-zira, saphed jira, shiajira, zeera, zira, zira or zirah, zirah Kannada (6) - jeera, jeeraka, jeerigay, jeerige, jirage, jiringe Malayalam (3) - cheerakam, jeerakam, jirakam Marathi (3) - jeera, jeeram, jiregire Sanskrit (34) - Sanskrit Comments  ajaji, ajajika, ajmoda, dipaka, dipya, dipyaka, dirghajiraka, dirghaka, dirghakana, gaurajaji, gaurajiraka, hrasvanga, jaji, jarana, jaranam, jeeraka, jira, jiraka, jirakah, jirakaha, jirakam, jirakataila, jirana, jirna, kana, kanavha, kunchika, magadha, mitadipya, mitajaji, shuklajaji, suklajaji, svetajiraka, vahmisakha Tamil (103) - acai, acai ciri, acaiyu, acanaveti, anici1, attimai, attinam, attitamatam, caci1, cacinikam1, cankuvankanam, cheerakam, cheerakum, chirakam, cicari, cikariccaram, ciraciram, cirakacceti, cirakacutti, cirakam, ciram1#, ciram1@, ciri1, cirnam, citakkakoli, cittirapattiri, civakam2@, cukkumapaciyam, cukkumapattiram1, cutapattirikam, cuttiracirakam, er, jeerakam, jirakam, kaci, kacikkirusnan, kana1, kanalvakiyam, kanam1, kanati, kanaticceti, karakacikacceti, karakacikam, ketakaciram, kokanaccirakam, kuncikkay, maicatci 1, maisakukkilam, maravuri, matatam, mattam#, mettiyam, mokal arjak, muttiratosanacani, naccirakam, nallacirakam, narcir, narcirakam, narciri, nariccirakam, narumakaciram, nattuccirakam, navakacakti, navakacatticiram, pacakam 1, pacam 1, pacumpi, pacunti, pacuntiram, palika, pancakkini, pancanam#, panikkurucci, panpakappu, pattirikam, pikam, piratti - vika, pirattivika, pittanacani@, pittanacini, pittapattiram, pocanakutari, pocanakutori, potaki 1, seeragam, seerugam, shimai-shombu, shiragam, siragum, tilaka, tippiyam, tirkkakanam, tirunacati, tirunacaticceti, tittapattireti, tivirakantam1, tutta campalam, tuttacampalam, upakumpam, upakumpapicam, varivaricu, variyarici, vencirakam 1 Telugu (8) - jeelakara, jilakara, jilakarra, jilakhrah, jiraka, jirana, jiranan, zeela-karra Tibetan (4) - dzi-ra, go snod, go-snod, zi ra Urdu (8) - safaid zira, zeerasafed, zira safaid, zira safaid bariyan, zira safaid muddabir, zira safed, zira siyah muddabir, zira sufaid
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685dab1d433e4428f5a40d044edc6db2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jiraka
+sanskrit_name: जीरक
+transliteration: jīraka
+ref_drug_name: जीरक
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Jiraka
+sanskrit_name: जीरक
+transliteration: jīraka
+ref_drug_name: जीरक श्वेत
+status: Accepted source
+discussion: Considered as the variety of jiraka
+reference: [1]
+
+Identity Record 3
+drug_name: Jiraka - sveta
+sanskrit_name: जीरक श्वेत
+transliteration: jīraka śveta
+ref_drug_name: जीरक
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 4
+drug_name: Jiraka - sveta
+sanskrit_name: जीरक श्वेत
+transliteration: jīraka śveta
+ref_drug_name: जीरक श्वेत
+status: Accepted source
+discussion: Considered as the variety of jiraka
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Jiraka
+sanskrit_name: जीरक
+transliteration: jīraka
+image_urls: https://www.medicinalplants.in/slokaimages/531/531_1.jpg https://www.medicinalplants.in/slokaimages/531/531_2.jpg https://www.medicinalplants.in/slokaimages/531/531_3.jpg https://www.medicinalplants.in/slokaimages/531/531_4.jpg https://www.medicinalplants.in/slokaimages/531/531_5.jpg https://www.medicinalplants.in/slokaimages/531/531_6.jpg https://www.medicinalplants.in/slokaimages/531/531_7.jpg https://www.medicinalplants.in/slokaimages/531/531_8.jpg
+ocr_text: जीरको जरणो जीरो जार्णो दीप्यश्च दीपकः अजाजिको वह्निशङ्खो मागधश्च नवाह्वयः Il गौरादिजीरकस्तवत्वन्योउजाजी स्यात श्वेतजीरकः कणाह्वा कणजीर्णा च कणा दीप्यः सितादिकः |I ज्ञेया दीर्घकणा चैव सिताजाजी गशाह्वया IRjn) Synonyms of jiraka are jarana, jira, jirna, dipya, dipaka, ajajika, vahnisankha, magaaha and navahvaya. Synonyms of gauradi jiraka are sveta jiraka, kanahva, kanajirna, kana, dipya, sitadika, dirghakarna and sitajaji. दीपनं पाचनं हृद्यं सुगन्धयुद्गारशोधनम् अरोचकातिसारघ्नं श्लेष्मघ्नं जीरकं कटुः |l MMdnl Jiraka is katu in rasa, dipana, pacana, hrdya, sugandhi, udgara sodhana, alleviates kapha, cures arocaka and atisara जीरक (त्रितयं रूक्षं कटुष्णं दीपनं लघु संग्राहि पित्तलं मेध्यं गर्भाशयविशुद्धिकृत् ज्चरघ्नं पाचनं वृष्यं बल्यं रुच्यं कफापहम् चक्षुष्यं पवनाध्मानगुल्मच्छर्द्यतिसारहृत् |l (Bpnl All the three varieties of jiraka are katu in rasa, usna in veerya, ruksa, laghu, sangrahi in guna, dipana, pacana, vrsya, balya, medhya, rucya, caksushya, pavana, alleviates kapha, increases pitta, is garbhashaya visuadhi kara, cures jvara, adhmana, gulma, chardi and atisara जीरकं कटुकं रूक्षं वात्तहृद्दीपनं परम् | गुल्माध्मानातिसारघ्नं ग्रहणीकृमिहृत्परम् ठ| गौराजाजी हिमा रुच्या कटुर्मधुरदीपनी [ विषहन्त्री च चक्षुष्याध्माननाशिनी I IDhn) Jiraka is katu in rasa, ruksa in हuna, dipana para, alleviates vata, cures guma, adhmana, atisara, grahani ana krmi. Gaura ajaji is katu, madhura in rasa, hima in veerya, rucya, krmighna, visha hara, caksushya, cures adhmana. कृमिघ्ना जीरकं कटुरुष्णं च वातहृत् दीपनः परः गुल्माध्मानातिसारघ्नी ग्रहणीकृमिहृत्परः || गौराजाजी हिमा रुच्या कटुर्मधुरदीपनी विषहन्त्री च चक्षुष्याउउध्माननाशिनी IRjn) Jiraka is katu in rasa, usna in veerya, alleviates vata, is dipana para, cures guma, adhmana, atisara, grahani and krmi. Gaura jiraka is katu and madhura in rasa, hima in veerya, rucya, dipani, krmighni, visha haraka, caksushya, cures adhmana कृमिघ्नी and कटुग्राहि पाचनं दीपनं लघु | किञ्चिदुष्णं च मधुरं चक्षुष्यं रुचिकृन्मतम् Il Subhrajira is katu, madhura in rasa, laghu in guna, kincit usna, grahi, pacana, dipana ana ruci karaka शुभ्रजीरं गर्भशयशुद्धिकरं रूक्षं बल्यं सुगन्धिकम् | तिक्तं वमिक्षयाध्मानं वातं विषं ज्चरम | अरोचकं रक्तदोषं अतिसारं कृमींस्तथा पित्तं च गुल्मरोगं च नाशयेदिति कीर्त्ितम् Il INir) Garbhashaya suddhikaraka, Ruksa in Property , Balya, Suganahika, Tikta in Rasa, Vami Ksaya Adhmana- Vata Kustha- Visa-Jvara Arocaka- Raktadosha Atisara Krmi Pittam Gulma roga Nasayati. कुष्ठं जीरकं कटुतिक्तोष्णं रूक्षं पाकोषणं लघु रुच्यं संग्राहि चक्षुष्यं गर्भाशविशोधनम् पित्तलं दीपनं मेध्यं हृद्यं वात्तकफापहम पाचनं छर्द्दिगुल्माध्मानातिसारजित् |l IKdn) Jiraka is Katu, Tikta in Rasa, Usna in Potency , Ruksa in Property, Usna in Paka , Laghu in Property, Rucya, Sangrahi, Caksushya, Garbhashaya visodhana, Pittala, Dipana, Medhya, Hrdya, Vata Kapha hara, Sugandhi, Pacana, Chardi Gulma Adhmana Atisara hara सुगन्धि
+
+Shloka Record 2
+drug_name: Jiraka - sveta
+sanskrit_name: जीरक श्वेत
+transliteration: jīraka śveta
+image_urls: https://www.medicinalplants.in/slokaimages/531/531_1.jpg https://www.medicinalplants.in/slokaimages/531/531_2.jpg https://www.medicinalplants.in/slokaimages/531/531_3.jpg https://www.medicinalplants.in/slokaimages/531/531_4.jpg https://www.medicinalplants.in/slokaimages/531/531_5.jpg https://www.medicinalplants.in/slokaimages/531/531_6.jpg https://www.medicinalplants.in/slokaimages/531/531_7.jpg https://www.medicinalplants.in/slokaimages/531/531_8.jpg
+ocr_text: जीरको जरणो जीरो जार्णो दीप्यश्च दीपकः अजाजिको वह्निशङ्खो मागधश्च नवाह्वयः Il गौरादिजीरकस्तवत्वन्योउजाजी स्यात श्वेतजीरकः कणाह्वा कणजीर्णा च कणा दीप्यः सितादिकः |I ज्ञेया दीर्घकणा चैव सिताजाजी गशाह्वया IRjn) Synonyms of jiraka are jarana, jira, jirna, dipya, dipaka, ajajika, vahnisankha, magaaha and navahvaya. Synonyms of gauradi jiraka are sveta jiraka, kanahva, kanajirna, kana, dipya, sitadika, dirghakarna and sitajaji. दीपनं पाचनं हृद्यं सुगन्धयुद्गारशोधनम् अरोचकातिसारघ्नं श्लेष्मघ्नं जीरकं कटुः |l MMdnl Jiraka is katu in rasa, dipana, pacana, hrdya, sugandhi, udgara sodhana, alleviates kapha, cures arocaka and atisara जीरक (त्रितयं रूक्षं कटुष्णं दीपनं लघु संग्राहि पित्तलं मेध्यं गर्भाशयविशुद्धिकृत् ज्चरघ्नं पाचनं वृष्यं बल्यं रुच्यं कफापहम् चक्षुष्यं पवनाध्मानगुल्मच्छर्द्यतिसारहृत् |l (Bpnl All the three varieties of jiraka are katu in rasa, usna in veerya, ruksa, laghu, sangrahi in guna, dipana, pacana, vrsya, balya, medhya, rucya, caksushya, pavana, alleviates kapha, increases pitta, is garbhashaya visuadhi kara, cures jvara, adhmana, gulma, chardi and atisara जीरकं कटुकं रूक्षं वात्तहृद्दीपनं परम् | गुल्माध्मानातिसारघ्नं ग्रहणीकृमिहृत्परम् ठ| गौराजाजी हिमा रुच्या कटुर्मधुरदीपनी [ विषहन्त्री च चक्षुष्याध्माननाशिनी I IDhn) Jiraka is katu in rasa, ruksa in हuna, dipana para, alleviates vata, cures guma, adhmana, atisara, grahani ana krmi. Gaura ajaji is katu, madhura in rasa, hima in veerya, rucya, krmighna, visha hara, caksushya, cures adhmana. कृमिघ्ना जीरकं कटुरुष्णं च वातहृत् दीपनः परः गुल्माध्मानातिसारघ्नी ग्रहणीकृमिहृत्परः || गौराजाजी हिमा रुच्या कटुर्मधुरदीपनी विषहन्त्री च चक्षुष्याउउध्माननाशिनी IRjn) Jiraka is katu in rasa, usna in veerya, alleviates vata, is dipana para, cures guma, adhmana, atisara, grahani and krmi. Gaura jiraka is katu and madhura in rasa, hima in veerya, rucya, dipani, krmighni, visha haraka, caksushya, cures adhmana कृमिघ्नी and कटुग्राहि पाचनं दीपनं लघु | किञ्चिदुष्णं च मधुरं चक्षुष्यं रुचिकृन्मतम् Il Subhrajira is katu, madhura in rasa, laghu in guna, kincit usna, grahi, pacana, dipana ana ruci karaka शुभ्रजीरं गर्भशयशुद्धिकरं रूक्षं बल्यं सुगन्धिकम् | तिक्तं वमिक्षयाध्मानं वातं विषं ज्चरम | अरोचकं रक्तदोषं अतिसारं कृमींस्तथा पित्तं च गुल्मरोगं च नाशयेदिति कीर्त्ितम् Il INir) Garbhashaya suddhikaraka, Ruksa in Property , Balya, Suganahika, Tikta in Rasa, Vami Ksaya Adhmana- Vata Kustha- Visa-Jvara Arocaka- Raktadosha Atisara Krmi Pittam Gulma roga Nasayati. कुष्ठं जीरकं कटुतिक्तोष्णं रूक्षं पाकोषणं लघु रुच्यं संग्राहि चक्षुष्यं गर्भाशविशोधनम् पित्तलं दीपनं मेध्यं हृद्यं वात्तकफापहम पाचनं छर्द्दिगुल्माध्मानातिसारजित् |l IKdn) Jiraka is Katu, Tikta in Rasa, Usna in Potency , Ruksa in Property, Usna in Paka , Laghu in Property, Rucya, Sangrahi, Caksushya, Garbhashaya visodhana, Pittala, Dipana, Medhya, Hrdya, Vata Kapha hara, Sugandhi, Pacana, Chardi Gulma Adhmana Atisara hara सुगन्धि

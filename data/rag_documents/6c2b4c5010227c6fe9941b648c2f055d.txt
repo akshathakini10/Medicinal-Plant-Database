@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6c2b4c5010227c6fe9941b648c2f055d
+Botanical Name: Bauhinia racemosa LAM.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 125 Vernacular names found in 8 languages. Hindi (24) - ashta, asoda, asundra, asundro, dhorara, ghila, gurial, hatera, jhanjhora, jhinghora, jhinja, jhinjha, jhinjheri, jhira, kachnal, kanchnal, karal, karial, koryale, makkuna, marvil maula, papri, sahata, seta Kannada (39) - aapata, aaptha mara, aaralu, achilu, aishuy, ara, araginda, aralukadumandara, aralumandara, are, arelu, arilumandara, arise, arisele, arisile, arjuna, arjunada, arsilu, arthi, arti, aupta, ayata, bannae, banne, bannemara, chitaachi, ishae, iyuta, jhinjero, kaadumandaara, kanchwala, kancivala, kitacha, kittarasa, kittarisa, kitthirasa, kitunasa, mandara, vana sampige Malayalam (5) - arambuli, kodavapuli, kotapuli, malayathi, mandaram Marathi (10) - aapata, aapta, apata, apta, kanraja, seyara, shiara, sonan, vanaraja, vanraja Sanskrit (16) - Sanskrit Comments  amlalota, anupushpaka, ashmantaka, asmantaka, asmantakah, candrakah, kusali, kushali, shlashnatvaka, slaksnatvak, svetakanchan, svetakanchana, vanaraja, yamalapatraka, yamalapatrakah, yugmapatra Tamil (16) - ar, arai, aram, archi, areka, arikka, athi, atti, kokkumantharai, malai-atthi, mandarai, sallagi, sittacha, tadagi, vattatthi, vellai mantarai Telugu (12) - aare, ada, adaviyavise, adiviyavise, are, arechettu, ari, manchare, manchiyaare, manjiyare, pachaare, pachare Urdu (3) - gul-i-anehnal, kachnal (kachnar), poast kachnal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c2b4c5010227c6fe9941b648c2f055d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 303
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/303.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c2b4c5010227c6fe9941b648c2f055d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c2b4c5010227c6fe9941b648c2f055d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c2b4c5010227c6fe9941b648c2f055d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asmantaka
+sanskrit_name: अश्मन्तक
+transliteration: aśmantaka
+ref_drug_name: अश्मन्तक
+status: Controversial
+discussion: According to Cakrapani Asmantaka is 'Maluya' which is also called as 'Amlalota'; Amlalota resembles Kovidara and has sour leaves; Bauhinia species resemble Kovidara and so Amlalota is correlated to B.racemosa; Controversy arises as Asmantaka is latex bearing, fruits are palatable and used in prameha (diabetes), it is used for vamana (vomitting) but this species has none of the above properties
+reference: [5]
+
+Identity Record 2
+drug_name: Kancani
+sanskrit_name: काञ्चनी
+transliteration: kāñcanī
+ref_drug_name: काञ्चनी
+status: Suggested source
+discussion: Has been described in Sodala; With regard to its synonyms it appears to be a tuber; Vaidya Bapalal has suggested this as a correlation but a look at its description doesn’t hold good for this correlation
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Asmantaka
+sanskrit_name: अश्मन्तक
+transliteration: aśmantaka
+image_urls: https://www.medicinalplants.in/slokaimages/222/222_1.jpg https://www.medicinalplants.in/slokaimages/222/222_2.jpg https://www.medicinalplants.in/slokaimages/222/222_3.jpg https://www.medicinalplants.in/slokaimages/222/222_4.jpg
+ocr_text: अश्मन्तकश्चन्द्रकस्तु चाम्लपत्रकः श्लक्ष्णत्वग्मालुकापर्णः स्मृतो यमलपत्रकः| | Candraka kuddali amlapatraka slaksnatvak malukaparni. yamalabatraka are ihe synonyms Of asmantaka कुद्दाली अश्मन्तकः कषायस्तु हिमः पित्तकफापहः मधुरः शीतसंग्राही दाहतृष्णाप्रमेहजित्|| Asmantaka is madhura and kasaya in rasa. sita in veerya pitta kapha hara. It alleviates sthambana. daha. trsna and prameha अश्मन्तकश्चेन्दुकश्च कुद्दालश्चाम्लपत्रकः. श्लक्ष्णत्वक पीलुपत्रश्च स्मृतो यमलपत्रकः अश्मान्तकेन्दुशफरी शिलान्तश्चाम्बुदः स्मृतः पाषाणान्तक इत्युक्तो वह्निचन्द्रमिताह्वयः | | Asmantaka induka kuddala, amlapatraka slaksnatvak pilupatra patraka. asmaantaka. indushafar shilanta ambuda and pashanantaka are the १३ synonyms of asmantaka अश्मन्तकः स्यान्मधुरः कषायः सुशीतलः पित्तहरः प्रमेहजित्| विदाहतृष्णाविषमज्वरापहो विषार्त्तिविच्छदिहरश्च भूतजित्|| Asmantaka is madhura and kasaya in rasa sita in virya pittahara alleviates prameha, daha trsna visamajvara, visavikara, chardi and bhuta vikara. IRJNJ

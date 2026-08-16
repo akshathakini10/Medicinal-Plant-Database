@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 87d4a9ba28abca7e82c489685da8d49f
+Botanical Name: Haldina cordifolia (ROB.) RIDSDALE
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Adina cordifolia BENTH. & HOOK.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 161 Vernacular names found in 8 languages. English (1) - haldu Hindi (11) - haladu, halda, haldava, haldawa, haldu, haludava, harda, hardu, kadami, karam, kurumba Kannada (56) - ahnau, ahnow, anaaru, anagalu, anavu, anigallu, anigalu, anigilu, annavu, arasanategu, arasantaijeh, arasinatege, arishina thaega, arishina thega, arsanatega, arsinatega, arunsantige, attaka, bachenige, dodda kadaga, doddakadaga, ethega, ettakada, ettakal, ettapaada, ettegu, hedde, heddegu, heddi, heretege, hethega, hettaega, hettaga, hettega, hetthega, hettiga, highora, kadaba, kadaga, kadagina, kadamba, kadambe, kadame, paccenike, paccharike, pettega, pettegu, pettige, vililu, yatega, yathiga, yethuga, yettada, yettagal, yettega, yuethagada Malayalam (13) - barakuram, kadamba, kadambai, katampa, malankatampu, manjakadamba, manjakadambu, mannakkadamba, mannakkatamba, mannakkatampa, mannakkatampu, mannia, pitampu Marathi (7) - edu, haldarava, haldiva, hed, heddi, hedu, honangi Sanskrit (31) - Sanskrit Comments  bahuphala, bhramarapriya, bhringavallabha, dharakadamba, dharakadambah, dhulikadamva, gauradruma, girikadambah, hardra, haridraka, haridrakah, haridru, haridruma, haridrumah, kadambaka, kadambapushpah, kesharadhya, mahakadamba, meghabha, nipa, pitadaru, pitadaruh, pitaka, pitakashtha, pitavarna, pravishya, priyaka, pulaki, sharpadapriya, supushpa, suravha Tamil (10) - kadambai, kodambi, mancal katampu, mancatkatampu, manja kadambai, manjakadambai, manjatkadambe, manjatkadambu, mannakkatampu, poonthekku Telugu (32) - bandaaru, bandari, bandaru, betta ganapa, daaduga, daddagu, dadduga, daduga, dodaga, dudaga, dudagu, kadami, kamada, kamba, kanapu, paccabotruga, paccaganapa, pachabotruga, pachaganapa, paspuganapu, paspukadambe, pasupukadamba, pasupukadimi, patchabotika, pedda kamba, redda kumba, rudra genapu, rudragampa, rudraganapa, rudraganapu, rudrakadapa, rudrakadapu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f/xclkon/dd8d81431e8c0a3f802bc182ecc6330d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87d4a9ba28abca7e82c489685da8d49f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kadamba
+sanskrit_name: कदम्ब
+transliteration: kadamba
+image_urls: https://www.medicinalplants.in/slokaimages/96/96_1.jpg https://www.medicinalplants.in/slokaimages/96/96_2.jpg https://www.medicinalplants.in/slokaimages/96/96_3.jpg https://www.medicinalplants.in/slokaimages/96/96_4.jpg https://www.medicinalplants.in/slokaimages/96/96_5.jpg
+ocr_text: कदम्बःकटुकस्तिक्तोमधुरस्तुवरःपटुः शुक्रवृद्धिकरःशीतोगुरुर्विष्टम्भकारकः| | रूक्षःस्तन्यप्रदोग्राहीवर्णकृद्योनिदोषहा /| रक्तरुङ्मूत्रकृच्छ्रञ्चवातपित्तंकफंव्रणम् दाहंविषनाशयतिह्यंकुराश्चास्यतूवराः शीतवीर्य्यादीपकाश्चलघवोडरोचकापहाः रक्तपित्तातिसारघ्नाः फलंरूच्यंगुरुस्मृतम् उष्णवीर्यंकफकरंतत्पक्वंकफपित्तजित | | वातनाशकरंप्रोक्तमृषिभिस्तत्त्वदर्शिभिः Kadamba is katu, tikta, madhura, tuvara, patu in rasa guru, vistambhi, ruksha, in guna, sita in veerya sukra vrddhikaraka, stanyaprada varna karaka dosha hara, cures rakta ruk mutrakrcchra, vata pitta kapha vrana, daha and visha Its ankura is tuvara in rasa , laghu in guna, sita in veerya, dipaka, cures arocaka, raktapitta and atisara. Its ama phala is guru in guna, usna veerya, rucya, and increases kapha. Pakva phala alleviates kapha, pitta and destroys vata grahi राजकदम्बगुणाः नीपस्तुचाम्लस्तुवरोमधुरःशीतलः स्मृतः विषंरक्तरुजं पित्तकफञ्चैवविनाशयेत| | फलन्तुमधुरंचास्यशीतलंगुरु पित्तहृत्| रक्तदोषहरंप्रोक्तमृषिभिस्तत्त्वदर्शिभिः | | Nipa is amla, tuvara, madhura in rasa, sita in veerya, destroys pita and kapha, cures visha and rakta ruja Phala is madhura in rasa, guru in guna, sita in veerya, alleviates pitta and rakta dosha धाराकदम्बगुणाः धाराकदम्बकस्तिक्तोवर्ण्यःशीतःकषायकः कटुकोवीर्य्यकृच्छोथविषपित्तकफव्रणान् /| वातंनाशयतीत्येवमुक्तश्चऋषिभिःकिल Dhara kadamba is tikta, kashaya, katu in rasa, sita in veerya, destroys vata, is varnya, cures sotha, visha and pitta kapha vrana. धूलीकदम्ब गुणाः धूलीकदम्बकस्तिस्तुवरःकटुकोहिमः वाीर्य्यवृद्धिकरोवर्ण्योविषशोथविनाशकः वातंपित्तकफंरक्तदोषञ्चैवविनाशयेत| | Dhuli kadamba is tuvara, katu in rasa, hima in veerya, veerya vrddhikara, varnya, alleviates vata, pitta, kapha, rakta dosha, cures visha and sotha कदम्बकागुणाः कदम्बिकातुमधुराशीतलातुवरागुरुः मलस्तम्भकरीक्षारारूक्षास्तन्यकफप्रदा | | वातलामुनिभिःप्रोक्ताफलंत्वस्यारूक्षास्तन्यकफप्रदा वातलामुनिभिःप्रोक्ताफलंत्वस्यास्तुशीतलम्| तुवरंमधुरंपित्तरक्तदोषहरंमतम् [ Kadambika is madhura, tuvara in rasa, guru, ruksa in guna, sita in veerya, malastambha kara, stanya kapha prada and increases vata Phala is tuvara madhura in rasa, ruksa in guna, sita in veerya, increases vata, alleviates pitta, rakta dosha, is stanya kapha prada.
+
+Shloka Record 2
+drug_name: Kadamba - bheda
+sanskrit_name: कदम्ब भेद
+transliteration: kadamba bheda
+image_urls: https://www.medicinalplants.in/slokaimages/96/96_1.jpg https://www.medicinalplants.in/slokaimages/96/96_2.jpg https://www.medicinalplants.in/slokaimages/96/96_3.jpg https://www.medicinalplants.in/slokaimages/96/96_4.jpg https://www.medicinalplants.in/slokaimages/96/96_5.jpg
+ocr_text: कदम्बःकटुकस्तिक्तोमधुरस्तुवरःपटुः शुक्रवृद्धिकरःशीतोगुरुर्विष्टम्भकारकः| | रूक्षःस्तन्यप्रदोग्राहीवर्णकृद्योनिदोषहा /| रक्तरुङ्मूत्रकृच्छ्रञ्चवातपित्तंकफंव्रणम् दाहंविषनाशयतिह्यंकुराश्चास्यतूवराः शीतवीर्य्यादीपकाश्चलघवोडरोचकापहाः रक्तपित्तातिसारघ्नाः फलंरूच्यंगुरुस्मृतम् उष्णवीर्यंकफकरंतत्पक्वंकफपित्तजित | | वातनाशकरंप्रोक्तमृषिभिस्तत्त्वदर्शिभिः Kadamba is katu, tikta, madhura, tuvara, patu in rasa guru, vistambhi, ruksha, in guna, sita in veerya sukra vrddhikaraka, stanyaprada varna karaka dosha hara, cures rakta ruk mutrakrcchra, vata pitta kapha vrana, daha and visha Its ankura is tuvara in rasa , laghu in guna, sita in veerya, dipaka, cures arocaka, raktapitta and atisara. Its ama phala is guru in guna, usna veerya, rucya, and increases kapha. Pakva phala alleviates kapha, pitta and destroys vata grahi राजकदम्बगुणाः नीपस्तुचाम्लस्तुवरोमधुरःशीतलः स्मृतः विषंरक्तरुजं पित्तकफञ्चैवविनाशयेत| | फलन्तुमधुरंचास्यशीतलंगुरु पित्तहृत्| रक्तदोषहरंप्रोक्तमृषिभिस्तत्त्वदर्शिभिः | | Nipa is amla, tuvara, madhura in rasa, sita in veerya, destroys pita and kapha, cures visha and rakta ruja Phala is madhura in rasa, guru in guna, sita in veerya, alleviates pitta and rakta dosha धाराकदम्बगुणाः धाराकदम्बकस्तिक्तोवर्ण्यःशीतःकषायकः कटुकोवीर्य्यकृच्छोथविषपित्तकफव्रणान् /| वातंनाशयतीत्येवमुक्तश्चऋषिभिःकिल Dhara kadamba is tikta, kashaya, katu in rasa, sita in veerya, destroys vata, is varnya, cures sotha, visha and pitta kapha vrana. धूलीकदम्ब गुणाः धूलीकदम्बकस्तिस्तुवरःकटुकोहिमः वाीर्य्यवृद्धिकरोवर्ण्योविषशोथविनाशकः वातंपित्तकफंरक्तदोषञ्चैवविनाशयेत| | Dhuli kadamba is tuvara, katu in rasa, hima in veerya, veerya vrddhikara, varnya, alleviates vata, pitta, kapha, rakta dosha, cures visha and sotha कदम्बकागुणाः कदम्बिकातुमधुराशीतलातुवरागुरुः मलस्तम्भकरीक्षारारूक्षास्तन्यकफप्रदा | | वातलामुनिभिःप्रोक्ताफलंत्वस्यारूक्षास्तन्यकफप्रदा वातलामुनिभिःप्रोक्ताफलंत्वस्यास्तुशीतलम्| तुवरंमधुरंपित्तरक्तदोषहरंमतम् [ Kadambika is madhura, tuvara in rasa, guru, ruksa in guna, sita in veerya, malastambha kara, stanya kapha prada and increases vata Phala is tuvara madhura in rasa, ruksa in guna, sita in veerya, increases vata, alleviates pitta, rakta dosha, is stanya kapha prada.

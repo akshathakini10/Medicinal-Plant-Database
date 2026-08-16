@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d4c145332b9ac57622ef0384d132031d
+Botanical Name: Olax scandens ROB.
+Family: Olacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 58 Vernacular names found in 5 languages. Hindi (1) - dhehiani Kannada (9) - baacamushti gida, baapana balli, baapana mushti gida, baapanamusthi gida, baavamusti gida, karadu, karra, karru, nakkare Marathi (4) - archafal, harduli, urchirri, urehirri Tamil (13) - kadairanchi, kadalranchi, katalalincil, katalanci, kataliranci, kataliranci 1, katalranci#, katalranci@, kataluranci, kataluraynci, katalurinci, katalviranci 1, malliveppam Telugu (31) - baapanamushti, bapana mushti, bapanamushti, boodanakkiri, elka-nakira, kogita teega, kogitathige, kogitatige, kothi, kotiki, kurpodur, kurposur, marikimalle, muikimalle, muriki malle, murimalle, nalla durada, nallaudata, nallavudata, nallavudatha, nurikimalle, taraganepa, tharagavepa, thige nakkera, thuraka vaepa, tigenaku, turkavepa, udupunakkeri, uduthanekkera, vudapunakkeri, vudutanekkar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4c145332b9ac57622ef0384d132031d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4c145332b9ac57622ef0384d132031d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4c145332b9ac57622ef0384d132031d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karbudara
+sanskrit_name: कर्बुदार
+transliteration: karbudāra
+ref_drug_name: कर्बुदार
+status: Suggested source
+discussion: In Vedas there is a plant called 'Rajjudara' which has been identified with Karbudara by the commentators which has features similar to this species
+reference: [1]
+
+Identity Record 2
+drug_name: Rajjudara
+sanskrit_name: रज्जुदार
+transliteration: rajjudāra
+ref_drug_name: रज्जुदार
+status: Most probable
+discussion: With regard to its features it is most probably the correlated species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

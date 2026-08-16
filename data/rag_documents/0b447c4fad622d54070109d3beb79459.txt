@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0b447c4fad622d54070109d3beb79459
+Botanical Name: Cyperus tuberosus ROTTB.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Cyperus pertenius BOJ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 7 languages. Hindi (3) - doongla, nagar-motha, nagara-motha Kannada (2) - konnari-gadde, konnarigadde Malayalam (3) - kizanna, kora, kora-kizhanna Marathi (1) - lavala Sanskrit (4) - Sanskrit Comments  bhadramusta, musta, mustaka, payoda Tamil (6) - anurukam, koraik-kizhangu, mattaikkorai, mutta kach, mutta-kachi, nirkkorai Telugu (4) - kala-tunga, kolatunga-muste, muste, tunga-gaddala-veru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b447c4fad622d54070109d3beb79459/xclkon/11847a42792fda1592e72ee6e7274a97
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b447c4fad622d54070109d3beb79459
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b447c4fad622d54070109d3beb79459/xclkon/11847a42792fda1592e72ee6e7274a97
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b447c4fad622d54070109d3beb79459
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b447c4fad622d54070109d3beb79459/xclkon/11847a42792fda1592e72ee6e7274a97
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

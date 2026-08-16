@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7e5ede302a183a350c8d4f403e31404e
+Botanical Name: Crataeva magna (LOUR.) DC.
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Crataeva nurvala SENSU KANJ. & DAS
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 243 Vernacular names found in 9 languages. Hindi (15) - bama, barna, barna (introduced), barun, bel-ka-pat, bel-patri, bila, bilasi, biliana, tapia, vaivarno, vanni, vanno, varno, varvunna Kannada (46) - adhiraaja, bila-patri, bilapathri, bilapatri, bilpatri, bitusi, doddelanga, hoddelenage, hoddelengage, holenekki, holetalkki, holethumbe, holethumbi, maavalanga mara, maavilanga, maayaa langa, madabalase, mata maavu, matamoolangi, mavalanga, mavilinga, naaram bele, naarumbele, narave, narumbala, narumbele, neergini, neerunjaane, neervaala mara, neervaale, nerajani, neravambele, neravele, nerujani, nervaala, nervala, nirujani, nirvala, nuvala, sethu bandhana, tudemadirenge, tudemadirengi, vaayu varuna, vitasi, vittasi, vitusi Malayalam (20) - kili, killi, neervala, niirvala, niramathalam, niravila, nirmatalam, nirmathalam, nirumaliyam, nirumaliyan, nirval, nirvala, nirvela, nirveyla, nirvila, nirvval, nurvala, varana, vilva-patram, vitusi Marathi (10) - haravarna, karvan, kumla, nirvala, nurvel, ramala, vaayuvarna, varun, vayavarna, vayvarna Sanskrit (34) - Sanskrit Comments  ajapa, ajapavaruna, ashmarygna, asmarighna, asmarignah, barhapushpa, bilvapatram, ganda, kumara, kumaraka, kumarakah, mahakapittha, marutapaha, pasunadha, sadhuvriksha, satuvriksha, setuka, setuvriksha, setuvrksah, shikhimandal, shvetadru, shvetadruma, shvetavriksha, tamala, tikta-shaka, tiktasakah, tiktashaka, urumana, varana, varanah, varuna, varunah, vasaha, vilwa -patra Tamil (76) - adicharanam, adimalam, alam2, amma, ancali 2, anjali, arimal, arimalam, ariyacaranam, atarri, atimalam, bilva-ilai, calumalikam, cattal1, cetu, culetiyam, cuppiyam2, cuvetaki1, cuvetakimaram, cuvetaputpi, ilankaitticcutar, ilinkam, inaivilai, kattumavilangai, katu, katuvan, katuvanmarm, kudugi, kumarakam, kumarakamaram, kunamali, kuvilam, kuvilam2, maavilangam, maavilingam, makatacam, makatacamaram, maluram, mantamacurri, mantamarukki, mantittai, maralingam, marilinga, mavalian, mavalingai, mavalingam, mavatippai, mavilangai, mavilankai, mavilankam, mavilanku, mavilinakam, mavilinga maram, mavilingam, mavilinghum puttay, mavilingu, maviliukam, narvala, periyamavilinkam, purimantam, putanatam, rumalam, tatimata, tiripuramerittan3, tittacaram, titticakam, titticakiyam, titticakiyamaram, vanni 4, varanam, varanam#, varanam@, varani kumarakam, varunam@, veelvie elley, vilvap-pattiri Telugu (40) - bilva-aku, bilvaram, chinnaulimidi, chinnavulimidi, cinnavulimidi, maagalingam, maaredu, magalingam, magalingamu, maraedoo, maredoo, maredu, mogalingam, peddamaagalingam, peddamagalingam, peddamagalingamu, peddamogalingam, peddaulimidi, peddavulimidi, tella ulimidi, tellaulimidi, tellavoolemera, tellavuli, tellavulimidi, tellawolemara, tellawoolleemera, thellavulimidi, ulimidi, ulimiri, urimidi, urumatti, urumudu, usikaman, usiki, usikiman, uskia, uskiaman, vilva-patri, voolemeri, vulimidi Tibetan (1) - ba ra Urdu (1) - barna
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/8269f2708e3a19653f9e59b5945caefc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 662
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/662.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/94f7689b9fd0c86e0d8cf6915785bf6f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/8269f2708e3a19653f9e59b5945caefc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/94f7689b9fd0c86e0d8cf6915785bf6f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/8269f2708e3a19653f9e59b5945caefc
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/94f7689b9fd0c86e0d8cf6915785bf6f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/8269f2708e3a19653f9e59b5945caefc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/94f7689b9fd0c86e0d8cf6915785bf6f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/8269f2708e3a19653f9e59b5945caefc
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/5aba6c71221a2fe36adc13ca390435a4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/94f7689b9fd0c86e0d8cf6915785bf6f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e5ede302a183a350c8d4f403e31404e/xclkon/8269f2708e3a19653f9e59b5945caefc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Varuna
+sanskrit_name: वरुण
+transliteration: varuṇa
+image_urls: https://www.medicinalplants.in/slokaimages/500/500_1.jpg https://www.medicinalplants.in/slokaimages/500/500_2.jpg https://www.medicinalplants.in/slokaimages/500/500_3.jpg https://www.medicinalplants.in/slokaimages/500/500_4.jpg https://www.medicinalplants.in/slokaimages/500/500_5.jpg https://www.medicinalplants.in/slokaimages/500/500_6.jpg https://www.medicinalplants.in/slokaimages/500/500_7.jpg
+ocr_text: वरुणः श्वेतपुष्पश्च तिक्तशाकः कुमारकः साधुवृक्षः तमालो मारुतापहः Il IRjnl Synonyms of varuna are sveta puspa, tikta saka, kumaraka, svetadruma, sadhuvrksa, tamala and marutapaha श्वेतद्रुमः वरुणः पादपस्तिक्तस्रिपर्णो भ्रगरप्रियः विल्वपत्रो वृत्तफलो बर्हपुष्पः कषायकः Il ISi nil Synonyms of varuna are padapa, tiktaha, triparna, bhragarapriya, bilvapatra, vrttaphala, barhapuspa, kashayaka. वर्ध्मविद्रधिवातघ्नो पित्तास्रकफनाशनः बाधिर्यकर्णशूलघ्नो वरणो योनिदोषजित् IMdn ) Varuna alleviates vardhma, vidradhi, vata, badhirya, karna sula, yoni aosha, destroys pitta, asra and kapha. वरुणः पित्तलो भेदी श्लेष्मकृच्छ्राममारुतान् निहन्ति गुल्मवातास्रकृमींश्चोष्णोडग्निदीपनः Il कषायो मधुरस्तिक्तः कटुको रुक्षको लघुः IBpnl Varuna is kashaya, madhura, tikta, katu in rasa, ruksa and laghu in guna, usna in veerya, increases pitta, is bhedi, agni dipana cures slesma, Krcchra, ama, maruta, gulma, vata asra and krmi. वरुणः शीतवातघ्नस्तिक्तो विद्रधिजन्तुजित् तथा च कटुरुष्णश्च रक्तदाषहरः परः Il IDhn) Naruna is tikta in sita in veerya, alleviates vata, vidradhi, jantu, katu in rasa, usna in veerya, best in alleviating rakta dosha. ra57, वरुणः कटुरुष्णश्च रक्तदोषहरः परः शीर्षवातहरः स्रिग्धो दीप्यो विद्रधिवातजित IRjn Varuna is katu in rasa, snigdha in guna, usna in veerya, dipya, alleviates rakta dosha, sirsa vata, vidradhi and vata वरुणो मधुरस्तिक्तः कषायकटुको लघुः रूक्षोष्णः पित्तलो भेदी दीपनः कफवातजित निहन्ति कृमिवातास्रमूत्रघातास्रहृद्गदान् पुष्पं पीतास्रहृद्ग्राहि फलं स्रिग्धं सरं गुरु स्वादूष्णं मधुरं पाके वातघ्नं कफपित्तजित् IKdnl Varuna is madhura, tikta, kashaya, katu in rasa, laghu, ruksa in guna usna in veerya, is bhedi , dipana, increases pitta, alleviates kapha, vata, cures krmi, vata asra, mutraghata, asra vikara and hra Puspa is grahi and alleviates pitta, asra Phala is svadu in rasa, snigdha, sara, guru in guna, usna in veerza, madhura in paka, alleviates vata, kapha ana pitta. Bada

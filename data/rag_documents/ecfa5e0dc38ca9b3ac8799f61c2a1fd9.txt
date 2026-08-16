@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ecfa5e0dc38ca9b3ac8799f61c2a1fd9
+Botanical Name: Huperzia phlegmaria -
+Family: Lycopodiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lycopodium phlegmaria L. Phlegmariurus phlegmaria (L.) SEN & SEN
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Malayalam (3) - tama-povel-paatsja-maravara, tamamponnilapaccamaravala, tamaponelpatsiamarevara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecfa5e0dc38ca9b3ac8799f61c2a1fd9/xclkon/20dac7523804c5b12332c66a705c685c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecfa5e0dc38ca9b3ac8799f61c2a1fd9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecfa5e0dc38ca9b3ac8799f61c2a1fd9/xclkon/a62d780cf25bbcc027b5e43e37aa34df
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecfa5e0dc38ca9b3ac8799f61c2a1fd9/xclkon/20dac7523804c5b12332c66a705c685c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

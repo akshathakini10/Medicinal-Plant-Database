@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6007c870591a343a9b7fd10100c6a673
+Botanical Name: Plectranthus vettiveroides (JACOB) SINGH & SHARMA
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Coleus vettiveroides K.C. JACOB
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 7 languages. Hindi (1) - valak Kannada (2) - lavanchi, muchivala Malayalam (1) - iruveli Sanskrit (20) - Sanskrit Comments  ambhas, ambu, bala, balaka, balakam, hiruberaka, hriber, hribera, hriberam, hrivera, iruveli, jala, jalam, tagara, toya, udaka, udicya, valakah, valakam, vari Tamil (5) - iruveli, kuruver, vettiver, vilalver, viranam Telugu (2) - kuriveru, vettiveru Tibetan (2) - ba li ka, u-di-tsya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673/xclkon/5a4d727005f2daa46088539165de4ef2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673/xclkon/5a4d727005f2daa46088539165de4ef2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673/xclkon/5a4d727005f2daa46088539165de4ef2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6007c870591a343a9b7fd10100c6a673/xclkon/5a4d727005f2daa46088539165de4ef2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

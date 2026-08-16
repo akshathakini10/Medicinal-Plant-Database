@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c9fb71a0860e0d8a65c8c53554b10171
+Botanical Name: Heliotropium indicum L.
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Tiaridium indicum LEHM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 154 Vernacular names found in 8 languages. Hindi (7) - hathi-shura, hatisura, hatta-juri, hattajurie, hattasura, siriari, siriyari Kannada (14) - bhoorundi, celubaladagidha, chaelu baalada gida, chaelu kondi gida, chaelu mani, chaelubaala, chaeluvaali, chalukondee, chelu baalada gida, chelu kade, chelukondi gida, chelumani, gurugalu gida, hanni gida Malayalam (7) - bena-patsja, tekkata, tekkita, teliyenni, telkata, telkkata, terkkata Marathi (3) - ajeru, bhurundi, burundi Sanskrit (9) - Sanskrit Comments  bhurundi, duralabha, hastishundi, hastisunda, hatisunada, nagadanti, srihastini, suryavarta, vrscikali Tamil (110) - alavancimuli, amarataru, anai vanaki, anaivanakki, anaivanakki1, anaiyatuvalanki, callaki1, callakika, callakikacceti, callakikam, carucivappi, cetaipputu, ciru tel kotukki, ciru tel kotukku, ciruntotti, cirutel kotukku, cirutetkotukku, civappuccaru, coratu, curapi4, curapika, curapikacceti, intirakali, ipatantam, kacapatciyai, kakkali, kakkalicceti, kakoli, kakolika, kamatutikam, karkkoli1, karkkolikam, karkolicacceti, karkoni, karkonicceti, katiyavisatti, katutti, kotukku, kotuvisam, kulicam1, macakoli, mammataki, mammatakicceti, mankaiyanatam, nakari1, nakarikauli, nakatanti1, nakir, nakiracceti, nakkaricceti, nakkipoo, nakkippu, narakanati, narakanaticceti, neyacitacceti, neyacitam, otamar, parppatanti, perun tel kotukki, purunti 1, tamiraputpikam, tayaikkonran1, tayl-kodugoo, tekatai1, tekutti, tekuttikai, tel kotukki, tel-kodukki, telkodduki, telkodukkai, telkotukki1, telkotukku, telkotukkucceti, telmani, telukkotti, tenkitacceti, tenkitam, tenkittam, tenkitti, tet kodukki, tetkataippun, tetkotukki, tetkotukku, tetkotukkucceti, tevatittara, thael kodukkupoondu, theikodikkupoondu, thel-kodukku, thel-koduku, thelkodukku, turamam@, turmam, utti, utticceti, uttimaram, uttiram#, uttiram$, uttiram1, uttiram@, vanaccetanki, venirpaccai, verirru, viruccika 1, viruccikakarani, viruccikapputu, viruccikayuttatu, viruccikkarani, viruccikotukkucceti, virutcikapputu, yanaivananki 1 Telugu (3) - kodikki, naga danti, nagadanti Urdu (1) - hathisundi buti ka pani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1119
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1119.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171/xclkon/1f836623693cfa7306698e6c87911a07
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171/xclkon/1f836623693cfa7306698e6c87911a07
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171/xclkon/1f836623693cfa7306698e6c87911a07
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171/xclkon/1f836623693cfa7306698e6c87911a07
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9fb71a0860e0d8a65c8c53554b10171
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cancuphala
+sanskrit_name: चञ्चु फल
+transliteration: cañcu phala
+ref_drug_name: चञ्चु फल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Cancuphala
+sanskrit_name: चञ्चु फल
+transliteration: cañcu phala
+ref_drug_name: चञ्चु फल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

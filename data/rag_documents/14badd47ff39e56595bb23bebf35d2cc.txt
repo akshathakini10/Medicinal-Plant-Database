@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 14badd47ff39e56595bb23bebf35d2cc
+Botanical Name: Selaginella rupestris -
+Family: Selaginellaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  karajodikanda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14badd47ff39e56595bb23bebf35d2cc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14badd47ff39e56595bb23bebf35d2cc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14badd47ff39e56595bb23bebf35d2cc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jatila
+sanskrit_name: जटिला
+transliteration: jaṭilā
+ref_drug_name: जटिला
+status: Suggested source
+discussion: Needs to be examined; It is correlated as its actions are similar to this plant
+reference: [1]
+
+Identity Record 2
+drug_name: Karajodikanda
+sanskrit_name: करजोडी कन्द
+transliteration: karajoḍī kanda
+ref_drug_name: करजोडी कन्द
+status: Accepted source
+discussion: It has been described in Raja nighantu; Locally it is known as 'Hathajodi' and this species is popularly known by this name so its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

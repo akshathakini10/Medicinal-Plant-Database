@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ac5061ae3543c0dde7c0f30fab00cc30
+Botanical Name: Ipomoea aquatica FORSK.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ipomoea reptans (L.) POIR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 77 Vernacular names found in 8 languages. English (4) - kangkong, swamp morning glory, water ipomoea or swamp cabbage, water spinach Hindi (7) - ganthian, kalmisag, karmi, nali, nari, patuasaga, sarnali Kannada (8) - balle soppu, bile hambu, bilee hambu, bili hambu, neeru bilee gadde, neeru bili gedde hambu, neeru bili gedde hoo, neeru hambu Malayalam (1) - ballel Marathi (5) - naala, naalichi-bhaaji, nadishaka, nalichi bhaji, taksi-vel Sanskrit (16) - Sanskrit Comments  kadambi, kalaka, kalamba, kalambah, kalambi, kalambika, kalashaka, kechuka, nadika, nalika, pattashaka, pechu, pechuli, shataparna, shradhashaka, vishvarochana Tamil (31) - aaraikeerai, allai, allaikkoti, cakkaravartti-k-kirai, centika, centikakkoti, kalampam1, koilangu, nali, nalikam, nalikam3, nalitam, sarkaraivalli, sarkareivalli, vallai, vallai kodi, vallaik-kodi, vallaikkirai, vallaikkoti, vallal, vallikkoti, vankaravallai 2, vantalakkirai, vantalkirai, varipani, variparani, variparni, vittiracitakkoti, vittiracitam, viyappirakakkoti, viyappirakam Telugu (5) - thantikada, thooti koora, thootikoora, thutikoora, tutikura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30/xclkon/12c3e401618c342ad8fcae407977a1e0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30/xclkon/12c3e401618c342ad8fcae407977a1e0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30/xclkon/12c3e401618c342ad8fcae407977a1e0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac5061ae3543c0dde7c0f30fab00cc30/xclkon/12c3e401618c342ad8fcae407977a1e0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kalambi
+sanskrit_name: कलम्बी
+transliteration: kalambī
+ref_drug_name: कलम्बी
+status: Accepted source
+discussion: identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

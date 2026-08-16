@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3a390f62ba228d9a01c79760c8d44185
+Botanical Name: Agave cantala ROB.
+Family: Agavaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Agave americana L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 117 Vernacular names found in 8 languages. English (7) - american aloe, bombay aloe, cantala, cantala fibre, century plant, maguey, manila maguey Hindi (18) - bans-keora, banskeora, bara-kanvar, barakanwar, barakhawar, bilatipat, gawar-patha, hathi-sengar, hathisengar, jangli-gawar-patha, jangli-kanvar, kantala, rakas-pattah, rakaspattah, ram ban, ram bans, ramban, ramkanta Kannada (23) - aane kathhaale, aane katthaale, aane mundi, anekatali, anekatalle, anekattale, anekattali, anemundai, bhoothaale, bhutale, bhuttala, bhuttale, daddoli, devva baale, devvabale, kalnaaru, kalnaru, kaluaru, kathhaale, kaththale, katthaale naaru, rakshasa baale, rakshasabale Malayalam (11) - airoppakkaita, anakyitha, eroppakaita, natkaida, nattukaita, panam-katrazha, panamkatrazha, panankarrala, panankattaa, panankattazha, seemakaitha Marathi (8) - ghaayapaatha, ghayal, ilaitikedara, janglianarash, rakaspatta, redi-ananas, vilaaythikorkand, vilayatikorkand Sanskrit (2) - Sanskrit Comments  kalakantala, kantala Tamil (32) - aanai katralai, alagai, alakai, allikkoni, anai-k-karralai, anai-kattaleyi, anaik-kartazhai, anaik-katrazhai, anaikkaralai, anaikkarralai, anaikkattalai, anekatali, irakacimatal, irakacimattai, irakkacimattai, karunkali, karunkalikarralai, karunkarralai, kathalai, kattukkarralai, kattukkatalai, marakkarralai, miruttari, miruttarikkarralai, naykkarralai, panankarralai, perunkarralai, peruntalai, peyccetikam, peykkarralai, peyuvitakkarralai, peyuvitam Telugu (16) - banda-kattala, chager-matta, changanara, kalabanda, kalambanda, kittanara, kitthanaara, piyyatikalabanda, raakshasikalanbanda, raakshasimadalu, raakshasimatta, rakashi-mattalu, rakashimatalu, rakshasimatta, saga-nara, sanga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a390f62ba228d9a01c79760c8d44185
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a390f62ba228d9a01c79760c8d44185/xclkon/4aee59ebf9f03a4ca665de9ce78a7a4b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a390f62ba228d9a01c79760c8d44185
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a390f62ba228d9a01c79760c8d44185/xclkon/4aee59ebf9f03a4ca665de9ce78a7a4b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a390f62ba228d9a01c79760c8d44185
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a390f62ba228d9a01c79760c8d44185/xclkon/4aee59ebf9f03a4ca665de9ce78a7a4b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a390f62ba228d9a01c79760c8d44185
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a390f62ba228d9a01c79760c8d44185/xclkon/4aee59ebf9f03a4ca665de9ce78a7a4b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a390f62ba228d9a01c79760c8d44185
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

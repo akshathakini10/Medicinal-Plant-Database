@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 01a432273760799f30363f6cbe9c261a
+Botanical Name: Malva rotundifolia L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Malva neglecta WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 6 languages. Hindi (5) - dodu, khubajee, khubasi, kubazi, sonchala Kannada (7) - chandhira kaadu, kaadu kadle soppu, kadale gida, kadu-kadlesoppu, kadukadalegida, kappe rotti gida, khubasi Malayalam (1) - katkadalekka Sanskrit (2) - Sanskrit Comments  sauncali, suryavartabheda Tamil (3) - kattukadalai, kattukkatalai, tirikalamalli Telugu (3) - thrikaalamalli, trikala-mulla, trikalamalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a/xclkon/7bc3aca916d12aa5efd48d60da273e7d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a/xclkon/7bc3aca916d12aa5efd48d60da273e7d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a/xclkon/7bc3aca916d12aa5efd48d60da273e7d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01a432273760799f30363f6cbe9c261a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Suryavarta
+sanskrit_name: सूर्यावर्त
+transliteration: sūryāvarta
+ref_drug_name: सूर्यावर्त भेद
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Suryavarta - bheda
+sanskrit_name: सूर्यावर्त भेद
+transliteration: sūryāvarta bheda
+ref_drug_name: सूर्यावर्त भेद
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Suvarcala
+sanskrit_name: सुवर्चला
+transliteration: suvarcalā
+ref_drug_name: सुवर्चला
+status: Controversial
+discussion: Correlation is considered doubtful as ther is no resemblance with the morphology or physiological behaviour of Suvarcala
+reference: [1]
+
+Identity Record 4
+drug_name: Suvarcala
+sanskrit_name: सुवर्चला
+transliteration: suvarcalā
+ref_drug_name: सुवर्चला
+status: Most probable
+discussion: With regard to the synonym Sauncala given to Suvarcala this species is correlated to it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

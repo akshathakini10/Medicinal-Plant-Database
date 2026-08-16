@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7eb30490aa0ab1c39d644135162735b4
+Botanical Name: Jasminum arborescens ROB.
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 65 Vernacular names found in 9 languages. Hindi (13) - bara-kunda, bela, cameli, chameli, chemeli, dhur malti, dhur-malti, dhurmalti, jangli-mongra, kutmanibel, mutabela, navamallika, saptala Kannada (11) - adavi mallige, dodda kaadu mallige, doddakadumallige, doddkaadu mallige, hambu mallige, nava maalike, nava mallige, navamaalike, navamalike, navamallige, visamallige Malayalam (1) - nagamallika Marathi (8) - kumdi, kundi, kusaara, kusar, kusara, naevaali kundi, raanjaayi, raayanaevaali Sanskrit (18) - Sanskrit Comments  ambashtha, balapushapi, ganika, jai, jati, juhi, madhumadavi, madhvi, magadhi, malati, nagamalli, navamallika, saptala, suchimallika, sucimallika, sumana, varakunda, yuthika Tamil (2) - kattumalligai, nagamalli Telugu (10) - adavi jaji, adavi malli, adavimalle, adavimalli, adivimalle, adivimulli, naagamalle, naga malli, nagamalle, tivva malli Tibetan (1) - na ba ma li ka Urdu (1) - gul-chambeli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7eb30490aa0ab1c39d644135162735b4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7eb30490aa0ab1c39d644135162735b4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7eb30490aa0ab1c39d644135162735b4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7eb30490aa0ab1c39d644135162735b4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7eb30490aa0ab1c39d644135162735b4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

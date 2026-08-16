@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b980ee74d14fdca6e2c6804db0287848
+Botanical Name: Canscora diffusa (VAHL) R. BR.
+Family: Gentianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Marathi (2) - titavi, yavotchi Sanskrit (1) - Sanskrit Comments  sankhapuspi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b980ee74d14fdca6e2c6804db0287848
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b980ee74d14fdca6e2c6804db0287848
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sankhapuspi
+sanskrit_name: शङ्खपुष्पी
+transliteration: śaṅkhapuṣpī
+ref_drug_name: शङ्खपुष्पी
+status: Controversial
+discussion: With regard to its morphology many plants are correlated to Sankhapuspi and among them this is one of the suggested species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

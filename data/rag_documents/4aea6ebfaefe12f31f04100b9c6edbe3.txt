@@ -1,0 +1,85 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4aea6ebfaefe12f31f04100b9c6edbe3
+Botanical Name: Teramnus labialis (L.F.) SPRENG.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Glycine labialis L.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 58 Vernacular names found in 8 languages. Hindi (1) - mashparui Kannada (2) - adavi uddu, mooshaparni Malayalam (1) - kattulunnu Marathi (3) - kudu-udid, ran-udid, ran-udida Sanskrit (43) - Sanskrit Comments  ardamasha, ashvapuchhi, atmodbhava, bahuphala, ghana, hansamasha, hayapuchhi, hayapuchhika, hayapuchika, kakamudga, kalyani, kamboji, krishka, krishnavanta, mahasaha, mangalya, mansamasha, marjaragandhika, masaparni, masha-parui, mashaparni, mashaparnika, mashparni, mudgaparni, na-vrinta, panduloma, pandulomasha, pandulomashaparnini, pandura, parnini, saha, shaliparni, sinhamukhi, sinhapuchhi, sinhavinna, sulabha, surpaparni, suryaparni, svayambhu, swadamasha, trashiprokta, vajramuli, vishambika Tamil (4) - araniya kulattikai, kattu uluntu, kattu uzhundu, kattu-uzhundhu Telugu (1) - karu minumullu Tibetan (3) - mon sran gre u i dab ma (d&p), mon sran gro u i dab ma, mon sran gro u i dab ma (d&p)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2064
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2064.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3/xclkon/5d18cee261ea8fa944303b1b39300214
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3/xclkon/5d18cee261ea8fa944303b1b39300214
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3/xclkon/5d18cee261ea8fa944303b1b39300214
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3/xclkon/5d18cee261ea8fa944303b1b39300214
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4aea6ebfaefe12f31f04100b9c6edbe3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Masaparni
+sanskrit_name: माषपर्णी
+transliteration: māṣaparṇī
+ref_drug_name: माषपर्णी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Masaparni
+sanskrit_name: माषपर्णी
+transliteration: māṣaparṇī
+ref_drug_name: माषपर्णी
+status: Accepted source
+discussion: Identified with it; With regard to its features Teramnus does not have much similarity in its leaves and fruits with that of Masaparni; As this is an important plant it needs to be identified correctly
+reference: [1]
+
+Identity Record 3
+drug_name: Masaparni
+sanskrit_name: माषपर्णी
+transliteration: māṣaparṇī
+ref_drug_name: माषपर्णी
+status: Accepted source
+discussion: At present it is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Masaparni
+sanskrit_name: माषपर्णी
+transliteration: māṣaparṇī
+image_urls: https://www.medicinalplants.in/slokaimages/1602/1602_1.jpg https://www.medicinalplants.in/slokaimages/1602/1602_2.jpg https://www.medicinalplants.in/slokaimages/1602/1602_3.jpg
+ocr_text: माषपर्णी रसे तिक्तो शीतला रक्तपित्तजित्| Masaparni is tikta in rasa, sita in paka and cures rakta pitta माषपर्णी रसे तिक्ता वृष्या दाहज्वरापहा शुक्रवृद्धिकरी बल्या शीतला पुष्टिवर्धिनी Il IRjnl Masaparni is tikta in rasa, sita in veerya, vrshya, sukra vradhikara, balya, pusti vardhana and cures daha, jvara. माषपर्णी महावृष्या चक्षुष्या मुद्गपर्णिका IRjvl Masaparni is mahavrshya, cakshuhya and is similar to mudgaparni.

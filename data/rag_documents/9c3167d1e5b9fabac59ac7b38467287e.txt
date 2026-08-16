@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9c3167d1e5b9fabac59ac7b38467287e
+Botanical Name: Solanum tuberosum L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Solanum lycopersicum LINN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 46 Vernacular names found in 9 languages. English (3) - potato, potato crisps, vodka Hindi (2) - aalu, alu Kannada (10) - aaloo gadde, aaloo gedde, aaloogedde, alugadde, bataate, batata, batate, uralagadde, uriagadda, urulu gadde Malayalam (2) - urulakkilannu, urulekelangu Marathi (1) - batata Sanskrit (1) - Sanskrit Comments  golakandah Tamil (19) - apicitamulam, arttappu, irakeyakkilanku, irakeyam, irattapucitam, palampancikkilanku, palampancu, urilaki-zhangu, urla-kalangu, uru-laikizhangu, urulai, urulai-k-kilanku, urulaik-kizhangu, urulaikizhangu, urulaikkilangu, urulaikkilanku, urulaiyati, urulakilangu, wallarai kilangoo Telugu (7) - alu gadda, bangala dumpalu, bangaladumpa, bangaladumpalu, uralagadda, urla gadda, urlagadda Urdu (1) - aalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e/xclkon/2573fc16a83e6e443134fc286cf20d93
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e/xclkon/2573fc16a83e6e443134fc286cf20d93
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e/xclkon/2573fc16a83e6e443134fc286cf20d93
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e/xclkon/2573fc16a83e6e443134fc286cf20d93
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e/xclkon/2573fc16a83e6e443134fc286cf20d93
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c3167d1e5b9fabac59ac7b38467287e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aluka
+sanskrit_name: आलुक
+transliteration: āluka
+ref_drug_name: आलुक
+status: Accepted source
+discussion: Identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

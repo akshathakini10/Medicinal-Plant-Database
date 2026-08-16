@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 43571a504bf9f216f52c30d05b77af64
+Botanical Name: Croton tiglium L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 110 Vernacular names found in 10 languages. English (1) - croton oil Hindi (5) - jaiphal, jamal-gota, jamalgota, jepal, jepal-gota Kannada (15) - berada, byaribittu, byarilittu, danthi, danti, jaapaalada beeja, jaapala, jaavaala, japala, japala beeja, japalada, japalada-bija, nepala, nepalada, nervalada Malayalam (13) - cadalavanacu, cadel-avanacu, chiduram, dantibijam, katalavanakku, naervalam, neervaula, nervalam, nervvalam, nirvalam, nityavanci, nrvalam, valam Marathi (9) - arabi-erand, jaepaala, jamalagota, jempal, jepal, jeyapal, jopaala, mogli-erand, nepalcha-bi Sanskrit (16) - Sanskrit Comments  danti, dantibija, dantibijah, dantibijam, dravanti, duntibeeja, jayapala, jepala, jepalah, kanakaphala, naepala, naypal, nepala, nepalam, recakah, titteriphala Tamil (32) - campari, cevalam, chiduram, cirukurinca, citturupa, copi, kattukkattai, naervalam, naganam, nagandi, nakakenti, nakanam, nakatenti, neervalam, nepalam, ner valam, nervaalam, nervalalm, nervalam, nervalum cottay, nigumbam, nirvalam, sambari, sayabalam, sevalamkottai, sevalangottai, siduram, tanti, tendi, tenti, valam, vanam Telugu (12) - kaypalum, naepaalamu, naepaalavemu, naepalvaema, nepala-vithalu, nepala-vittulu, nepalam, nepalamu, nepalavemu, nepalavitua, neppalam, simanepalam Tibetan (2) - tra ba nti, tra ban ti (d) Urdu (5) - habb-us-salateen, hub-ul-salatin, jamal gota taza, jamalgota muddabir, maghz jamalgota
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43571a504bf9f216f52c30d05b77af64
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dravanti
+sanskrit_name: द्रवन्ती
+transliteration: dravantī
+ref_drug_name: द्रवन्ती
+status: Accepted source
+discussion: Dravanti is correlated to this species
+reference: [3]
+
+Identity Record 2
+drug_name: Dravanti
+sanskrit_name: द्रवन्ती
+transliteration: dravantī
+ref_drug_name: द्रवन्ती
+status: Controversial
+discussion: Not yet identifed due to the confusion regarding its description in the Nighantus
+reference: [1]
+
+Identity Record 3
+drug_name: Jayapala
+sanskrit_name: जयपाल
+transliteration: jayapāla
+ref_drug_name: जयपाल
+status: Accepted source
+discussion: Identified as the seeds of this plant
+reference: [1]
+
+Identity Record 4
+drug_name: Jayapala
+sanskrit_name: जयपाल
+transliteration: jayapāla
+ref_drug_name: जयपाल
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

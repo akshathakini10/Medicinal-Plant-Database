@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 70e2e60374d7cca247fe68b9f3a4d911
+Botanical Name: Polygala senega L.
+Family: Polygalaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. English (5) - milkwort, rattlesnake root, seneca snakeroot, senega root, senega snakeroot Tamil (1) - cenakanankai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70e2e60374d7cca247fe68b9f3a4d911
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70e2e60374d7cca247fe68b9f3a4d911
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70e2e60374d7cca247fe68b9f3a4d911
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

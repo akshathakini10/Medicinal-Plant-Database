@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d3d84697deed1a7a701fecc6f9b13924
+Botanical Name: Turnera ulmifolia  L.
+Family: Turneraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Turnera angustifolia MILL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Kannada (1) - maena mallige Malayalam (1) - cheravathali Marathi (2) - bhinjara, bhinjira
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3d84697deed1a7a701fecc6f9b13924
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3d84697deed1a7a701fecc6f9b13924/xclkon/f3c4bd832a216c163e117c133081fdc1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3d84697deed1a7a701fecc6f9b13924
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2d561019cdc3054d595e12e34b7a47d3
+Botanical Name: Dactyloctenium aegyptium BEAUV.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Eleusine aegyptiaca DESF.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 7 languages. English (2) - crow foot grass, egyptian grass Hindi (5) - kuri, makaro, makra, makri, manchi Kannada (3) - kaadu raagi hullu, kaadu ragi hullu, konana thale hullu Malayalam (2) - kavara-pullu, kavarapullu Sanskrit (6) - Sanskrit Comments  markatahastatrna, markatatrna, nrttakoundaka, takrahva, timira, vasira Tamil (10) - aricippul2, matankappul, mattanga-pillu, mattankayppul, mutankali, mutankalippul, purakam 2, purakappul, sodi, tamida Telugu (2) - muttengapillu, nela raagi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d561019cdc3054d595e12e34b7a47d3/xclkon/b7bad29b0bc55298b8138ceddd23b8ef
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

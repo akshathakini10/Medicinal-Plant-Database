@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e33db4d0c713a64417dbe7bfb69c5481
+Botanical Name: Cyperus articulatus L.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. English (1) - adrue Kannada (1) - aele tollu hullu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e33db4d0c713a64417dbe7bfb69c5481
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e33db4d0c713a64417dbe7bfb69c5481
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Krauncadana
+sanskrit_name: क्रौञ्चादन
+transliteration: krauñcādana
+ref_drug_name: क्रौञ्चादन
+status: Most probable
+discussion: May be identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

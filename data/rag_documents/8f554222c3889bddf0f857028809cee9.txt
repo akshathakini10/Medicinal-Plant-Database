@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8f554222c3889bddf0f857028809cee9
+Botanical Name: Abutilon theophrasti MEDIK.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Abutilon avicennae GAETRN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 3 languages. English (6) - american jute, chinese jute or hemp, chingma, indian mallow, manchurian jute, velvetleaf Sanskrit (1) - Sanskrit Comments  jaya Tamil (1) - toottieelley
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f554222c3889bddf0f857028809cee9/xclkon/b98795e41ec651a822504abfd4a91cd4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 18
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/18.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f554222c3889bddf0f857028809cee9/xclkon/dac77da1fbd5e07a47b77d39f9e4ae44
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f554222c3889bddf0f857028809cee9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f554222c3889bddf0f857028809cee9/xclkon/b98795e41ec651a822504abfd4a91cd4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f554222c3889bddf0f857028809cee9/xclkon/dac77da1fbd5e07a47b77d39f9e4ae44
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f554222c3889bddf0f857028809cee9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f554222c3889bddf0f857028809cee9/xclkon/b98795e41ec651a822504abfd4a91cd4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

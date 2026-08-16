@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 975e56b777c52c4a33d95a31af61bb75
+Botanical Name: Alpinia nigra (GAERTN.) BURTT
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Alpinia allhugas ROSCOE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 3 languages. Kannada (2) - aane dumparaasme, betta shunthi Malayalam (5) - mala-inschi-kua, malainschikua, malayinchikkuva, malayincikkuva, malayinjikkuva Marathi (1) - giri-kulimjan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/975e56b777c52c4a33d95a31af61bb75
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/975e56b777c52c4a33d95a31af61bb75/xclkon/f8135d3ef7d9d761b305a21f157a2043
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/975e56b777c52c4a33d95a31af61bb75
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

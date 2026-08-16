@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0b9e26987fe7c0d58bfe41754f4a91f8
+Botanical Name: Agave angustifolia HAW.
+Family: Agavaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Agave vivipara L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 4 languages. Hindi (2) - khetki, ramban Sanskrit (1) - Sanskrit Comments  kantala Tamil (8) - erumaik karralai, erumaikkattalai, kathalai, malaikkaralai, malaikkattalai, piramarakkaci, piramarakkadi, piramarakkati Telugu (7) - balurakkasi, balurakkisa, brahmarakasi, kittanara, peddakalabanda, piyyatikalalebanda, samata
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b9e26987fe7c0d58bfe41754f4a91f8/xclkon/d885fa3370777e1721c61e6edbabc19f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b9e26987fe7c0d58bfe41754f4a91f8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b9e26987fe7c0d58bfe41754f4a91f8/xclkon/d885fa3370777e1721c61e6edbabc19f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b9e26987fe7c0d58bfe41754f4a91f8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b9e26987fe7c0d58bfe41754f4a91f8/xclkon/d885fa3370777e1721c61e6edbabc19f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b9e26987fe7c0d58bfe41754f4a91f8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b9e26987fe7c0d58bfe41754f4a91f8/xclkon/d885fa3370777e1721c61e6edbabc19f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

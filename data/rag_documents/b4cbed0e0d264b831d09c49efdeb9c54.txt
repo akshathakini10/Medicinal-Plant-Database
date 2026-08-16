@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b4cbed0e0d264b831d09c49efdeb9c54
+Botanical Name: Liquidambar orientalis MILL.
+Family: Hamamelidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 7 languages. English (2) - balm of gilead, levent storax Hindi (1) - silaras Kannada (2) - kundurka, silaras Malayalam (3) - arabikkunturukkam, rasamalla, turuskam Sanskrit (5) - Sanskrit Comments  kapitaila, sihlakah, silhaka, turuska, turuskah Tamil (6) - meri-arishippal, neri-arishippal, neri-arisippal, neriyacippal, neriyacipparceti, neriyaricippal Telugu (2) - silaras, silarasu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4cbed0e0d264b831d09c49efdeb9c54
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4cbed0e0d264b831d09c49efdeb9c54
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4cbed0e0d264b831d09c49efdeb9c54
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4cbed0e0d264b831d09c49efdeb9c54
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4cbed0e0d264b831d09c49efdeb9c54
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

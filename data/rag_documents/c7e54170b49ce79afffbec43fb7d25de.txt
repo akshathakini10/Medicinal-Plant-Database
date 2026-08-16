@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c7e54170b49ce79afffbec43fb7d25de
+Botanical Name: Carum carvi L.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 66 Vernacular names found in 8 languages. English (4) - caraway, caraway seed, kummel, seedcake Hindi (9) - jangi dhania, jeerka, jeero, kalazera, kalazira, kalazird, shiajira, siya jeera, zira Marathi (1) - shahajire Sanskrit (28) - Sanskrit Comments  asitajiraka, bahugandha, bhedanika, bhedini, hridya, jarana, jiraka, kalajiraka, kalameshi, karavi, karunjiraka, krishna, krishnajaji, krishnajeeraka, krishnajiraka, krsnajiraka, mashmirajiraka, nila, nilakana, patu, raka, ruchya, sugandha, sushavi, syahajira, udgarashodhini, vantishodhini, varshakali Tamil (16) - appakacaccompucceti, appakacam, cimai compu, cimai peruncirakam, cimaiccirakam, cimaiccompu, cimaivitai, karuncirakam, kekku vitai, kekkuvirai, kekkuvitai, keturuvirai, malaiccompu, pilappu-chirakam, shimayi-shombu, simaishembu Telugu (3) - seema jeeraka, seemai sompu, shimaisapu Tibetan (1) - zi ra nag po Urdu (4) - karawiyah, syah zira, zeera siyah, zira siyah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 451
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/451.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7e54170b49ce79afffbec43fb7d25de
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jiraka - krsna
+sanskrit_name: जीरक कृष्ण
+transliteration: jīraka kṛṣṇa
+ref_drug_name: जीरक कृष्ण
+status: Accepted source
+discussion: Considered as the variety of jiraka
+reference: [1]
+
+Identity Record 2
+drug_name: Karavi
+sanskrit_name: कारवी
+transliteration: kāravī
+ref_drug_name: कारवी
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Karavi
+sanskrit_name: कारवी
+transliteration: kāravī
+ref_drug_name: कारवी
+status: Suggested source
+discussion: Karavi is a controversial plant but according to the author this species should be considered as Karavi
+reference: [2]
+
+Identity Record 4
+drug_name: Karavi
+sanskrit_name: कारवी
+transliteration: kāravī
+ref_drug_name: कारवी
+status: Most probable
+discussion: Usually considered as its source
+reference: [1]
+
+Identity Record 5
+drug_name: Krsnajiraka
+sanskrit_name: कृष्णजीरका
+transliteration: kṛṣṇajīrakā
+ref_drug_name: कृष्णजीरका
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

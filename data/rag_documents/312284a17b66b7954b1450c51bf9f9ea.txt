@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 312284a17b66b7954b1450c51bf9f9ea
+Botanical Name: Scindapsus officinalis SCHOTT.
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Pothos officinalis ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 141 Vernacular names found in 9 languages. Hindi (13) - badipipli, bari-pipli, baripipli, baripippli, braipipli, gaj peepal, gaj-pipli, gajapipal, gajapipli, hathkaul, maidah, pipaljhamgha, pippalijhhanca Kannada (7) - dodda hippali, dodda hippli, doddahippali, gaja hippali, gajahippali, kapivalli, kari hippali Malayalam (4) - anaitippali, anattippali, attittippali, aunatippilie Marathi (3) - gaja pimpali, thorapimpali, thorapimpli Sanskrit (29) - Sanskrit Comments  cavika, chavyaphala, chhidravaidehi, dirghagranthi, gajahva, gajakrishna, gajapippali, gajavha, gajopakulya, guja-pippulee, hastipippali, i, ibhakana, ibhapippali, ibhoshana, kapi-balli, kapivalli, kari-pippali, kari-pippuli, karipippali, kola-balli, kolavalli, kunjarapippali, sreyasi, tejasi, vartuli, vashira, vasira, vushira Tamil (73) - aanaithippili, akalam, alacal, alacitippili, alacittippili, alakam, ampu 2, anai-tippilai, anaitippili, anaittippali, anaittippili, atti tippili, atti-t-tippili, atti-tippili, attit-tippili, attitippali, attitippili, attittippili, camuttittam, cannikkati, cavikai, caviki, caviyam, ciraiyatikecam, cirayaci, ipakanam, kacamukattippili, kajakkanai, kalirinampu#, kalirinampu@, kalirrinampu, kantiram, kapalam, kapamakarrunkutori, kapamarukkunkutori, karikkanai, karikkanravi, karipippili, karitippili, karittippili, karuntippili, kecam 2, kirutimacam, kokkanam, kolakacini, kolanvalli, kolavalli, kuncarapippili, kurankukkoti, matakarikkanai, matakarittippilai, matankai 2, pantaki, pavviyai, peruntippili, recinitippili, tankakkirusnam, tecavam, tecovati, tippilittavayam, tippiliyatti, tirakkakiranti, tottikam, tottikattippili, vacikaram, vaciram#, vaciram@, vacirattippili, vacitam, vicciraka, viccirakattippili, yanaittippilai, yanaittippili Telugu (9) - enugapippalu, enugathippali, enugatippali, enugutippali, gaja-pippallu, gajapipali, gajapippali, gajapippallu, pippalu Tibetan (1) - ga-dza pi-ppa-li Urdu (2) - gajapippali, gajpipal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1877
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1877.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea/xclkon/9ddf481389c7735ec761877cc27ae8de
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/312284a17b66b7954b1450c51bf9f9ea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gajapippali
+sanskrit_name: गजपिप्पली
+transliteration: gajapippalī
+ref_drug_name: गजपिप्पली
+status: Most probable
+discussion: Has been considered as a probable source plant. This species has been used since long for this plant
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Cavya
+sanskrit_name: चव्य
+transliteration: cavya
+image_urls: https://www.medicinalplants.in/slokaimages/1288/1288_1.jpg https://www.medicinalplants.in/slokaimages/1288/1288_2.jpg
+ocr_text: चविकायाः फलं प्रोज्ञैः कथिता गजपिप्पली चविकागजपिप्पल्यौ पिप्पलीमूलवत् स्मृते (Rjv) Fruits of cavya are known as Gajapippali. Cavika and Gajapippali are similar to Pippalimula. गजकृष्णा श्लेष्मनुद् वह्निवर्धिनी उष्ण निहन्त्यतीसारश्वासकण्ठामयकृमीन् Il (Bpn) Gajakrsna is katu in rasa, usna in veerya, increases vahni, cures vata slesma, atisara, svasa, kantha maya and krmi कटुर्वात

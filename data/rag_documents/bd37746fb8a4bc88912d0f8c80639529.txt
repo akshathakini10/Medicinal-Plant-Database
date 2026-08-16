@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bd37746fb8a4bc88912d0f8c80639529
+Botanical Name: Securinega leucopyrus (WILLD.) MUELL.-ARG.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Fluegea leucopyrus WIGHT. Flueggea leucopyrus WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 79 Vernacular names found in 7 languages. Hindi (9) - ainta, ghat bor, ghumor, hartho, hartto, helpi, pathar-phor-rukh, putranjiva, sufed-madh-ka-per Kannada (22) - bilchuli, bilculi gudahale, bilee hooli, bilee shooli gida, bilehuli, bili shooli gida, biliehuli, guda phala, gudahaale, gudahale, gudale, gudapala, hooli, huli, kari hooli, kari sooli, korambila, mana munde, manamunde gida, nela maagali beru, sooli, uli Malayalam (3) - ampuripaccila, mulpulanni, perinklavu Marathi (2) - paandar phale, parpo Sanskrit (6) - Sanskrit Comments  apiyadruma, bhuriphali, panduphali, panduraphali, svetakamboja, swetacamboji Tamil (17) - irubulai, madpulanti, mudbulanji, mulluppulatti, pula, pulanji, varadbul, varadbula, varal poola, varapoola vayr, varapulai, varatpulaver, vedbula, vellai pillanji, vellaippula, vellaippulanci, veppula Telugu (20) - callamunta, challamunta, challamuntha, maekaraayi, mekarayi, puli, pulugudu, saale mantha, salemanta, salemunta, tella-purugudu, tellapulisara, tellapulisaru, tellapulugudu, tellapulukudu, tellapuluseru, tellapurugudu, thellapulisaru, thellapurugundu, tsallamunta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd37746fb8a4bc88912d0f8c80639529
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1883
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1883.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd37746fb8a4bc88912d0f8c80639529/xclkon/d69a1e8b1d18a31128df0d42e144e313
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd37746fb8a4bc88912d0f8c80639529/xclkon/c06e4f3a8226bf8d40fad7e7b3e27096
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd37746fb8a4bc88912d0f8c80639529
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd37746fb8a4bc88912d0f8c80639529/xclkon/d69a1e8b1d18a31128df0d42e144e313
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd37746fb8a4bc88912d0f8c80639529/xclkon/c06e4f3a8226bf8d40fad7e7b3e27096
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd37746fb8a4bc88912d0f8c80639529
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd37746fb8a4bc88912d0f8c80639529/xclkon/d69a1e8b1d18a31128df0d42e144e313
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd37746fb8a4bc88912d0f8c80639529/xclkon/c06e4f3a8226bf8d40fad7e7b3e27096
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd37746fb8a4bc88912d0f8c80639529
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

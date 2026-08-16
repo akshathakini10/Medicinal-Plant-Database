@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f095bd32759215e338618dcfc7948449
+Botanical Name: Naravelia zeylanica DC.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 6 languages. Kannada (4) - balluli hambu, charachara balli, naakchaikani, neendamalli Malayalam (6) - karuppakkoti, poitalacci, polutalacci, poytalacci, talavedana valli vatakkoti, vatakkoti Marathi (1) - bendri-chi-vel Sanskrit (1) - Sanskrit Comments  dhanavalli Tamil (2) - nintavalli, vatamkolli Telugu (5) - kaarupippala tivva, karupippalativva, mukkupeenasa teega, mukkupinasatige, pulla bachala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f095bd32759215e338618dcfc7948449
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f095bd32759215e338618dcfc7948449
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f095bd32759215e338618dcfc7948449
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

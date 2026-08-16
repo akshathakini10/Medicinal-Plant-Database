@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f7a4c676664865e9c0c3e257933d566e
+Botanical Name: Leucas cephalotes (ROTH.) SPR.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Leucas capitata DESF.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 8 languages. Hindi (12) - bishkhapru, deldona, dhurpisag, goma, goma madhupati, gomo, guma, gumba, kubi, motapati, nidralu, udapata Kannada (1) - dronapushpi Malayalam (1) - tumba Marathi (7) - deokhumba, deokumba, kumbha, shetad, shetvad, thumba, tumba Sanskrit (22) - Sanskrit Comments  chhatraka, chhatrani, chitrak-shupa, chitrakshupa, chitrapathrika, chitrapatrika, drona, dronapushpi, dronapuspi, kaundinya, kshavapatri, kumbhayoni, kumbhayonika, kurumba, kurumbika, kutumbaka, palindi, phalapuspa, phalepushpa, shvasanaka, supushpi, vrikshasaraka Tamil (3) - peruntumpai, thumbai, tumbay-keere Telugu (6) - pedda tummi, peddathummi, peddatumni, thummi, tummi, tumni Tibetan (2) - do na i me tog, dro na i me tog (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e/xclkon/914cf0f3d99809bfad8a5b066e896d9a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e/xclkon/914cf0f3d99809bfad8a5b066e896d9a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e/xclkon/914cf0f3d99809bfad8a5b066e896d9a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e/xclkon/914cf0f3d99809bfad8a5b066e896d9a
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7a4c676664865e9c0c3e257933d566e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dronapuspi
+sanskrit_name: द्रोणपुष्पी
+transliteration: droṇapuṣpī
+ref_drug_name: द्रोणपुष्पी
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dronapuspi
+sanskrit_name: द्रोणपुष्पी
+transliteration: droṇapuṣpī
+image_urls: Not available
+ocr_text: Not available

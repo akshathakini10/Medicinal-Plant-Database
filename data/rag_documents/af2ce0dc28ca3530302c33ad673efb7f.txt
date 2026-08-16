@@ -1,0 +1,81 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: af2ce0dc28ca3530302c33ad673efb7f
+Botanical Name: Bauhinia malabarica ROB.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Piliostigma malabaricum (ROB.) BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 72 Vernacular names found in 7 languages. Hindi (6) - amli, amlosa, imli, kachnar karal, kacnnar karal, karal Kannada (19) - basavanapaada, basavanapada, cappara, cheppura, chippuru, holeippe, huliaachalu, kogela, kogele, kogge pukka, kudugulu, mandara, nimbede, nimpidi, nimpuli, pulikogelepukke, pullukoilapukku, sappara, shadhu Malayalam (10) - arampuli, arumpuli, attaillupei, attillupai, kokavali, kokkavali, mandaram, minpuli, nimpuli, ponnan Marathi (6) - aamlapathra, amli, asmanthaka, asmayoktha, korala, korat Sanskrit (3) - Sanskrit Comments  amlapatrakah, asmantaka, asmayokta Tamil (19) - acamantam, acamantipam, acamantiram, acamantiyam, camarikam2, emapatiyam, emapattiram#, emapattiram@, makutavatti, makutavattimaram, malaiyatti, malayatti, mandarai, mantharai, pataracam, puliyatti, vattatti, vellathi, vellatthi Telugu (9) - are, pedda-ari, pul-ari, pul-chinta, pul-dondra, pulladanda, pullagoddukura, pullaninta, pullare
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2ce0dc28ca3530302c33ad673efb7f/xclkon/52be681dda3a65065088d65c0f48da21
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 301
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/301.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2ce0dc28ca3530302c33ad673efb7f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2ce0dc28ca3530302c33ad673efb7f/xclkon/52be681dda3a65065088d65c0f48da21
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2ce0dc28ca3530302c33ad673efb7f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2ce0dc28ca3530302c33ad673efb7f/xclkon/52be681dda3a65065088d65c0f48da21
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2ce0dc28ca3530302c33ad673efb7f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2ce0dc28ca3530302c33ad673efb7f/xclkon/52be681dda3a65065088d65c0f48da21
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asmantaka
+sanskrit_name: अश्मन्तक
+transliteration: aśmantaka
+ref_drug_name: अश्मन्तक
+status: Controversial
+discussion: There is a controversy regarding this correlation as Asmantaka is latex bearing, fruits are palatable and used in prameha (diabetes), it is used for vamana (vomitting) but this species has none of the above properties
+reference: [5]
+
+Identity Record 2
+drug_name: Asmantaka - aksira
+sanskrit_name: अश्मन्तक अक्षीर
+transliteration: aśmantaka akṣīra
+ref_drug_name: अश्मन्तक अक्षीर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Sitaka
+sanskrit_name: शीतक
+transliteration: śītaka
+ref_drug_name: शीतक
+status: Most probable
+discussion: Said to be known as Amlalota, which was identified by Dalhana as some sour species hence correlated to Bauhinia malabarica
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Asmantaka
+sanskrit_name: अश्मन्तक
+transliteration: aśmantaka
+image_urls: https://www.medicinalplants.in/slokaimages/222/222_1.jpg https://www.medicinalplants.in/slokaimages/222/222_2.jpg https://www.medicinalplants.in/slokaimages/222/222_3.jpg https://www.medicinalplants.in/slokaimages/222/222_4.jpg
+ocr_text: अश्मन्तकश्चन्द्रकस्तु चाम्लपत्रकः श्लक्ष्णत्वग्मालुकापर्णः स्मृतो यमलपत्रकः| | Candraka kuddali amlapatraka slaksnatvak malukaparni. yamalabatraka are ihe synonyms Of asmantaka कुद्दाली अश्मन्तकः कषायस्तु हिमः पित्तकफापहः मधुरः शीतसंग्राही दाहतृष्णाप्रमेहजित्|| Asmantaka is madhura and kasaya in rasa. sita in veerya pitta kapha hara. It alleviates sthambana. daha. trsna and prameha अश्मन्तकश्चेन्दुकश्च कुद्दालश्चाम्लपत्रकः. श्लक्ष्णत्वक पीलुपत्रश्च स्मृतो यमलपत्रकः अश्मान्तकेन्दुशफरी शिलान्तश्चाम्बुदः स्मृतः पाषाणान्तक इत्युक्तो वह्निचन्द्रमिताह्वयः | | Asmantaka induka kuddala, amlapatraka slaksnatvak pilupatra patraka. asmaantaka. indushafar shilanta ambuda and pashanantaka are the १३ synonyms of asmantaka अश्मन्तकः स्यान्मधुरः कषायः सुशीतलः पित्तहरः प्रमेहजित्| विदाहतृष्णाविषमज्वरापहो विषार्त्तिविच्छदिहरश्च भूतजित्|| Asmantaka is madhura and kasaya in rasa sita in virya pittahara alleviates prameha, daha trsna visamajvara, visavikara, chardi and bhuta vikara. IRJNJ

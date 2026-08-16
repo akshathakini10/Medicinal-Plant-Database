@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a6c4c00d412decc379dffdf3a3f2f183
+Botanical Name: anthium indicum KOEN.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+anthium strumarium L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 126 Vernacular names found in 8 languages. English (2) - bur weed, cocklebur Hindi (11) - adhasisi, banokra, bhangra, bichhu-butti, bonokra, chhotagokhru, chirchita, chota-gokhru, gokhuriya, kurou, shankhahuli Kannada (1) - maralumathi Marathi (5) - dumundi, duthundi, dutundi, sankeshwara, shankeshwar Sanskrit (29) - Sanskrit Comments  arishta, arista, bhulagna, brahma-dundi, chanda, gokshuru, itara, kacchaka, kakubha, kambumalini, kambupuspha, kiriti, malavinashini, mangalvanamalini, mangalyakamalini, medhya, pitapushpi, raktapushpi, sarpakshi, shankhagalini, shankhakusuma, shankhapuspi, shankhavha, shankine, shwetakusuma, sukshmapatra, supushpi, usuma, yakusuma Tamil (64) - aristam, cankecuram, cayavamara, ceyakanapputu, cilani, civani2@, cosanacini, cuyilakiri, cuyilakiricceti, kattuccarai, kattuccaraiccetai, kattuccaraiyan, katuppu@, kottamattaki, maiyiravi, maiyiraviccaru, makametai, makameto, mancanati, mancanaticceti, marhe-matta, marlu-mutta, marlumutta, marramakal, marul umattai, marul-oomathai, marul-umathan, marulmattam, maruloomathai, maruloomattai, marulumathai, matiyalatimuli, metaicceti, mocacikacceti, mocacikam, moratavanicceti, moratavarani, mutiyormetai, paicacatturitacceti, paicacatturitam, pariyami, pariyamicceti, pariyayavacakai, peymati#, peymaticceti, peyppatikacceti, peyppatikam, peyumattai, pirakatti, ponnumattai@, porriracamuli, potaiyumattaicceti, purusakenti, takapittacuracata, talainoycceti, tanakataputu, tanuconitacceti, tanuconitam, tekavarni2, tocanacanicceti, vacucittira, vanamalaicceti, vanamalaipputu, yatavacamuli Telugu (11) - maralu, maralu teege, marula maathangi, marula-matangi, marulamatangi, maruluthige, marulutige, parsvapu, talnoppi, thalnoppi, veratelnep Tibetan (3) - a nta rga la, ka tstshu ra, u sa ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c4c00d412decc379dffdf3a3f2f183/xclkon/78e6e86a1149baabefd201c66b007d25
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

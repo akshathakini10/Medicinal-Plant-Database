@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1656cb1b511a149d9533ff43a5d68eda
+Botanical Name: Hyptis suaveolens POIT.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 5 languages. English (1) - ganga basil Hindi (1) - vilaiti-tulsi Kannada (1) - ganga thulasi Sanskrit (1) - Sanskrit Comments  bhustrna Telugu (3) - danthi thulasi, seema thulasi, sirna tulasi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1656cb1b511a149d9533ff43a5d68eda
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1656cb1b511a149d9533ff43a5d68eda
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1656cb1b511a149d9533ff43a5d68eda
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhustrna
+sanskrit_name: भूस्तृण
+transliteration: bhūstṛṇa
+ref_drug_name: भूस्तृण
+status: Suggested source
+discussion: This species is taken into consideration which is known as ‘Bhunsari’ in Bihar and ‘Gangatulsi’ in Orissa
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

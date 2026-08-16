@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dbe3c6ab733756eb2d0e7e8ba104ccdc
+Botanical Name: Tanacetum dolichophyllum KITAM
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Hindi (2) - dhoop, guggul
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbe3c6ab733756eb2d0e7e8ba104ccdc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbe3c6ab733756eb2d0e7e8ba104ccdc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

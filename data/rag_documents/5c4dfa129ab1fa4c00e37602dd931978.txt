@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5c4dfa129ab1fa4c00e37602dd931978
+Botanical Name: Fagopyrum esculentum MOENCH
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. English (1) - buckwheat Hindi (3) - kotu, ogal, phaphra Kannada (1) - kaadu godhi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c4dfa129ab1fa4c00e37602dd931978
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c4dfa129ab1fa4c00e37602dd931978
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c4dfa129ab1fa4c00e37602dd931978
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cf4333baf9e3d5b4cb931b2cc787e240
+Botanical Name: Salacia chinensis L.
+Family: Celastraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Malayalam (1) - courondi Sanskrit (1) - Sanskrit Comments  saptacakra Tamil (2) - cuntan, karukkuvai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1835
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1835.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf4333baf9e3d5b4cb931b2cc787e240
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Saptacakra
+sanskrit_name: सप्तचक्रा
+transliteration: saptacakrā
+ref_drug_name: सप्तचक्रा
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Saptacakra
+sanskrit_name: सप्तचक्रा
+transliteration: saptacakrā
+image_urls: https://www.medicinalplants.in/slokaimages/18/18_1.jpg
+ocr_text: सप्तचक्रा लघू रूक्षा तीक्ष्णा तिक्तकषायका वीर्योष्ण मधुमेहघ्नी यकृद्रोगहरा परम्| | रजोरोधं रजःकृच्छं कफं पित्तं च नाशयेत्|| Saptacakra is tikta, kasaya in rasa, laghu, ruksa, tiksna in guna, usna in veerya, alleviates kapha, pitta, cures madumeha, yakrd roga and rajorodha

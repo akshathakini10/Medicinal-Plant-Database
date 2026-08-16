@@ -1,0 +1,105 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 71688619ee80ca1586b852585d848fdf
+Botanical Name: Desmodium gangeticum (L.) DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Hedysarum gangeticum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 105 Vernacular names found in 9 languages. Hindi (9) - chirpat, chuppa, salpalnu, salpan, salpani, salun, salvan, salwan, sarivan Kannada (10) - doddeta, kolaku naaru, kolakunaaru, kulakunaaru, moorelehonne, murele honne, murelehonne, muruluboane, saleparni, shalaparni Malayalam (2) - orila, pullati Marathi (6) - darh, ranbhal, saalparni, salparni, salvan, salwan Sanskrit (52) - Sanskrit Comments  amsumati, anshumati, ansumati, astamati, atiguha, daye, devi, dhruva, dirghamoola, dirghamula, dirghanghni, dirghapatra, dirghapavrihiparnika, ekamula, guha, kitavinashini, kumuda, nishchala, parni, patini, pivari, prsniparni, prthakparni, salaparni, saliparni, saliparnini, sarvanukarini, saumya, shalani, shalaparni, shalidala, shaliparni, shaliparnini, shalipatri, shophaghni, shothaghni, shubhapatrika, sthira, subhagam, sudala, sudha, suparni, suparnika, supatri, surupa, tanvi, trika, triparni, vasumanti, vataghni, vidari, vidarigandha Tamil (7) - cirupullati, civamatu2, moovilai, orila, pulladi, pullati, sirupulladi Telugu (13) - getanaramu, gitanaram, githanaram, kaul munna, kola panna, kolakuponna, kolakuporna, nalla-nelapanki, nallanelapariki, nallanelapriki, peddaantintha, peddanthrinta, peddantrinta Tibetan (4) - sa la pa rn (d), sa la pa rni (d), sa la par ni, sa la phar ni (p) Urdu (2) - shalwan, spal parni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf/xclkon/f39c1465ed30ebb421e804e35e1b8e33
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 789
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/789.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf/xclkon/f39c1465ed30ebb421e804e35e1b8e33
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf/xclkon/f39c1465ed30ebb421e804e35e1b8e33
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf/xclkon/f39c1465ed30ebb421e804e35e1b8e33
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf/xclkon/f39c1465ed30ebb421e804e35e1b8e33
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf/xclkon/f39c1465ed30ebb421e804e35e1b8e33
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71688619ee80ca1586b852585d848fdf/xclkon/f39c1465ed30ebb421e804e35e1b8e33
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Amsumati
+sanskrit_name: अंशुमती
+transliteration: aṃśumatī
+ref_drug_name: अंशुमती
+status: Accepted source
+discussion: Amsumati is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Salaparni
+sanskrit_name: शालपर्णी
+transliteration: śālaparṇī
+ref_drug_name: शालपर्णी
+status: Accepted source
+discussion: Salaparni is correlated to this species
+reference: [2]
+
+Identity Record 3
+drug_name: Salaparni
+sanskrit_name: शालपर्णी
+transliteration: śālaparṇī
+ref_drug_name: शालपर्णी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Salaparni
+sanskrit_name: शालपर्णी
+transliteration: śālaparṇī
+ref_drug_name: शालपर्णी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Salaparni
+sanskrit_name: शालपर्णी
+transliteration: śālaparṇī
+ref_drug_name: शालपर्णी
+status: Accepted source
+discussion: Primitively 'Salaparni' and 'Vidarigandha' were considered as two different drugs; Presently Salaparni is considered to be Vidarigandha which is correlated to this species whose roots have the aroma of Vidarigandha tuber
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

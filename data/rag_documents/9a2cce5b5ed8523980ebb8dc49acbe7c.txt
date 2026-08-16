@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9a2cce5b5ed8523980ebb8dc49acbe7c
+Botanical Name: Cassia occidentalis L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 130 Vernacular names found in 8 languages. Hindi (16) - alo, bari-kasondi, barikasaumdi, barikasondi, chakunda, chakundra, kasaumdi, kasonda, kasondi, kasunda, kasuondi, kesudo, kesundo, mari-pumbadio, talka, taror Kannada (30) - aanesogate, anechagate, anecogate, anesogate, anetajank, anetajanku, anne sogate, dodda thagache, dodda thagachi, doddatagace, doddatagache, doddatagaci, doddatagase, doddathagase, eleuri, elevure, elluri, koltagache, koltagaci, koltagasi, kolthagache, kolthagasi, kolu thogari, kolutagace, kolutagase, urecogate, uresogate, urisonte, yeleure, yelluri Malayalam (12) - karintakara, mattantakara, narrantakara, natatagara, natram-takara, natrum-takara, nattantakara, payavera, peyaviram, ponnariviram, ponnaveeram, ponnaviram Marathi (5) - kasivda, kasoda, ran-takda, rankasvinda, vhadlo-tay-kilo Sanskrit (16) - Sanskrit Comments  arimarda, dipana, jarana, kala, kalankata, kanaka, karkasha, kasaghna, kasamara, kasamarda, kasamardah, kasamardaka, kasamardakah, kasari, kashamarda, vimarda Tamil (39) - kaca2, kattuccena, kattuttakarai, narattantakarai, narrantakarai, narttantakarai, narutakarai, nattam takarai, nattam-takarai, nattamtakarai, nattandagarai, nattantakarai, nattavarai, nattu takarai, nattutakarai, paeravirai, paya varai, payaverai, peravarai, peravirai, peravirai#, peravirai@, peyavarai, peyavirai, pon avarai, pon-avarai, ponavarai, ponmekamari, ponnampu 1, ponnavaarai, ponnavarai 1, ponnavarai@, ponnavaraiyilai, ponnavaram 1#, ponnavaram 1@, ponnavirai, ponnavirai 2, takarai, thagarai Telugu (10) - cashanda, eddhukommaku, kasinda, kasindha, kasinta, kasintha, kasivinda, pedda kasivinda, peddakasinda, peddakasinta Tibetan (2) - ka sa ma rda (d), ka sa ma rdha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 468
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/468.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a2cce5b5ed8523980ebb8dc49acbe7c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kasamarda
+sanskrit_name: कासमर्द
+transliteration: kāsamarda
+ref_drug_name: कासमर्द
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Kasamarda
+sanskrit_name: कासमर्द
+transliteration: kāsamarda
+ref_drug_name: कासमर्द
+status: AS
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kasamarda
+sanskrit_name: कासमर्द
+transliteration: kāsamarda
+image_urls: https://www.medicinalplants.in/slokaimages/350/350_1.jpg https://www.medicinalplants.in/slokaimages/350/350_2.jpg https://www.medicinalplants.in/slokaimages/350/350_3.jpg
+ocr_text: गुणा कासमर्दः सुतिक्तः स्यान्मधुरः कफवातजित् | विशेषतः पित्तहरः पाचनः कण्ठशोधनः| | KDhnl Kasamaraa tikta, madhura rasa alleviates kapha ana vata, specifically pitta, is pacana and kantha sodhana कासमर्दः सतिक्तोष्णो मधुरः कफवातजित् | अजिर्णकासपित्तघ्नः पाचनः कण्ठशोधनः | | IRjnl It is tikta, madhura, in rasa, usna in veerya, alleviates kapha and vata, is pacana, kantha sodhana, cures ajirna, kasa ana pitta. कासमर्ददलं रुच्यं वृष्यं कासविषास्रनुत्| मधुरं कफ्वातघ्नं पाचनं कण्ठशोधनम्| | विशेषतः कासहरं पित्तघ्नं ग्राहकं लघु ( (Bpn) Its dala is madhura in rasa, and laghu in guna, alleviates kapha, vata and rakta dosha, is rucya, vrshya, pacana, kantha sodhana, cures kasa, visa, specifically cures kasa ana alleviates pitta dosha. Brahi

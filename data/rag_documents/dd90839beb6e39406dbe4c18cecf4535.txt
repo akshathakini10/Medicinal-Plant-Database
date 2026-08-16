@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dd90839beb6e39406dbe4c18cecf4535
+Botanical Name: Cochlearia armoracia L.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd90839beb6e39406dbe4c18cecf4535
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd90839beb6e39406dbe4c18cecf4535
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd90839beb6e39406dbe4c18cecf4535
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

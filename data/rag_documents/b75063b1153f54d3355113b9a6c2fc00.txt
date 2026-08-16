@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b75063b1153f54d3355113b9a6c2fc00
+Botanical Name: Canella alba MURR.
+Family: Canellaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Canella winterana (L.) GAERTNER
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. English (2) - jamaican cinnamon tree, white or wild cinnamon tree
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b75063b1153f54d3355113b9a6c2fc00/xclkon/9aba8dc98a5e92788d3d899391c8855f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b75063b1153f54d3355113b9a6c2fc00
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b75063b1153f54d3355113b9a6c2fc00/xclkon/9aba8dc98a5e92788d3d899391c8855f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 04895f7059953c08870ed2751f926555
+Botanical Name: Musa textilis NEE
+Family: Musaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 2 languages. English (2) - abaca, manila hemp Tamil (8) - iracavalai, matalvalai, matavalai#, matavalai@, peyan, peykkani, peyttuvikam, peyvalai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/04895f7059953c08870ed2751f926555
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/04895f7059953c08870ed2751f926555
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/04895f7059953c08870ed2751f926555
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 12370f71eed869823b3dd9ee8c2e6872
+Botanical Name: Premna latifolia ROB. var. mucronata C.B. CLARKE
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Premna mucronata ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 4 languages. Hindi (13) - agnium, agniun, akond, bakar, bakarcha, baker, basot, basota, bhankahar, gin, gin bhankar, jhatela, tumari Sanskrit (5) - Sanskrit Comments  agnimantha, ganikarnika, jaya, sriparna, vataghni Tamil (3) - erumaimunnai, munnai, pasumunnai Telugu (3) - nelli, peddanellakure, peddanellikura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872/xclkon/b0cac0a544fb082997b8a21d69c887a9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1734
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1734.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872/xclkon/b0cac0a544fb082997b8a21d69c887a9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12370f71eed869823b3dd9ee8c2e6872/xclkon/b0cac0a544fb082997b8a21d69c887a9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Agnimantha
+sanskrit_name: अग्निमन्थ
+transliteration: Agnimantha
+ref_drug_name: अग्निमन्थ
+status: Suggested source 1
+discussion: Two accepted names given on basis of 2 types of Agnimantha viz.Vrhat and Ksudra
+reference: [1]
+
+Identity Record 2
+drug_name: Agnimantha
+sanskrit_name: अग्निमन्थ
+transliteration: Agnimantha
+ref_drug_name: अग्निमन्थ
+status: Accepted source
+discussion: Agnimantha is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Agnimantha
+sanskrit_name: अग्निमन्थ
+transliteration: Agnimantha
+image_urls: https://www.medicinalplants.in/slokaimages/443/443_1.jpg https://www.medicinalplants.in/slokaimages/443/443_2.jpg https://www.medicinalplants.in/slokaimages/443/443_3.jpg https://www.medicinalplants.in/slokaimages/443/443_4.jpg https://www.medicinalplants.in/slokaimages/443/443_5.jpg https://www.medicinalplants.in/slokaimages/443/443_6.jpg
+ocr_text: तर्कारी कटुरुष्णा च तिक्ताउनिलकफापहा शोफश्लेष्माग्निमान्द्यार्शो विडगन्धाउडध्माननाशिनी | | अग्निमन्थद्वयं चैव वीर्यरसादिषु | तत्प्रयोगानुसारेण योजयेत् स्वमनीषयाI| (Rjn) Agnimantha is katu, tikta in rasa, usna in veerya, anila kapha hara, cures sopha, slesma, agni mandya, arsa vid gandha and adhmana The second variety of agnimantha has similar properties and is to be used accordingly तुल्यं तर्कारी कटुका तिक्ता तथोष्णाडनिलपाण्डुजित् शोषश्लेष्माग्निमान्द्यामविबन्धाँश्च विनाशयेत्I| (Dhn) Tarkari is katuka, tikta in rasa, usna in veerya, anilapandu hara, cures sosa, slesma, agnimandya and vibandha अग्निमन्थः श्वयथुनुद् वीर्योष्णः कफवातहृत् पाण्डुनुत् कटुकस्तिक्तस्तुवरो मधुरोडग्निदः [ (Bpn) Agnimantha is katuka, tikta, tuvara, madhura in rasa usna in veerya agni karaka, alleviates kapha, vata cures svayathu and pandu गणिकारी तु शोथघ्नी हिताघातविकारिणाम्I| (Rjv) Ganikari is sothaghna and useful in external vikara अग्निमन्थो गुरुस्तिक्तो वातशोफामजित् सरः (Sodala ) Agnimantha is tikta in rasa, guru, sara in guna, vata sopha ama hara गुणाः लघ्वाग्निमन्थस्य प्रोक्ताः वृद्धाग्निमन्थवत् विशेषाल्लेपने चोपनाहे शोफे च कीर्त्तितः|| (Nir) Laghu agnimantha is similar in property to that Of vrddha agnimantha

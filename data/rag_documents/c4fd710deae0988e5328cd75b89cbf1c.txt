@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c4fd710deae0988e5328cd75b89cbf1c
+Botanical Name: Flemingia macrophylla (WILLD.) O.KTZE. E MERR.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Flemingia congesta ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 5 languages. Hindi (2) - bara-salpan, bhalia Malayalam (2) - kamatteri, korkattachedi Marathi (3) - damdalvo, dandola, dowdowla Sanskrit (1) - Sanskrit Comments  salaparni Telugu (3) - antinta, kandran regu, kandranrogo
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4fd710deae0988e5328cd75b89cbf1c/xclkon/ce5d8f2a87155922f06d8f26ad7e342e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1006
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1006.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4fd710deae0988e5328cd75b89cbf1c/xclkon/37af9d39c3f2f5cc13a49d399dc6b900
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4fd710deae0988e5328cd75b89cbf1c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4fd710deae0988e5328cd75b89cbf1c/xclkon/88363fc96a0c12c5395e8cbbaaf89d2f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4fd710deae0988e5328cd75b89cbf1c/xclkon/ce5d8f2a87155922f06d8f26ad7e342e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4fd710deae0988e5328cd75b89cbf1c/xclkon/37af9d39c3f2f5cc13a49d399dc6b900
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4fd710deae0988e5328cd75b89cbf1c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4fd710deae0988e5328cd75b89cbf1c/xclkon/88363fc96a0c12c5395e8cbbaaf89d2f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4fd710deae0988e5328cd75b89cbf1c/xclkon/ce5d8f2a87155922f06d8f26ad7e342e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

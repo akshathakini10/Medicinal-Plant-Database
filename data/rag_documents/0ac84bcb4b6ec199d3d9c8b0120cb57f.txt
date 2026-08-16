@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0ac84bcb4b6ec199d3d9c8b0120cb57f
+Botanical Name: Commiphora schimperi ENGL.
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  bolah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac84bcb4b6ec199d3d9c8b0120cb57f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac84bcb4b6ec199d3d9c8b0120cb57f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bola - jati
+sanskrit_name: बोल जाति
+transliteration: bola jāti
+ref_drug_name: बोल जाति
+status: Accepted source
+discussion: Identified with it, This is a variety of Commiphora and the gum resin is extracted from this species too
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

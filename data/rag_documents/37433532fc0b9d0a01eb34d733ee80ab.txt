@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 37433532fc0b9d0a01eb34d733ee80ab
+Botanical Name: Chenopodium album L.
+Family: Chenopodiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 91 Vernacular names found in 9 languages. English (2) - fat hen, goosefoot Hindi (15) - bahua/bathu, bathu, bathua, bathusag, bathuwa, bethuasag, bettusaga, candan-betu, chandan, chandanbedu, chilario, chilaro, chilli, dankhar, tulsi Kannada (14) - badane bettaave, bele soppu, bilee palya, chakkotha, chakkothana soppu, chakravarthi soppu, chakravarthy bele, chakravati, hucha chakkota, huchu chakotha, huli chikka, hunchik, husbak, huttchu Malayalam (1) - vastuccira Marathi (4) - chakavata, chakavatha, chakvit, chivil Sanskrit (35) - Sanskrit Comments  agralohita, chakravarti, chilli, chillika, ddala, gaudavastuka, ghanaghana, hilamochika, kankella, ksarapatra, ksarasrestah, ksharadala, ksharapatra, ksharpaba, laghupatracilli, mridupatri, panshupatra, rajani, sakajivah, sakarat, shakaraja, shakarata, shakashreshtha, shakavira, tuni, vastu, vastuka, vastukah, vastuki, vasuka, veershak, virasakah, vrntaka, yavasaka, yavasakah Tamil (14) - cakkaravarttikkirai, cakkaravarttikkiri, cakkiravalaittukam, cakkiravarttik kirai, carkkaraivarthi, carkkaraivartti, kolikkirai, pacalai, paruppu-k-kirai, paruppuk kirai, paruppukkirai, parupukire, parupukkirai, vayalaikkoti Telugu (5) - chakravarthi koora, pappu-koora, pappu-kura, pappukoora, pappukura Urdu (1) - bathua sabz
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37433532fc0b9d0a01eb34d733ee80ab
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cilli
+sanskrit_name: चिल्ली
+transliteration: cillī
+ref_drug_name: चिल्ली
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Vastuka - prakara
+sanskrit_name: वास्तुक प्रकार
+transliteration: vāstuka prakāra
+ref_drug_name: वास्तुक प्रकार
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

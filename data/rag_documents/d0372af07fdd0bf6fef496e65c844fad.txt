@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d0372af07fdd0bf6fef496e65c844fad
+Botanical Name: Plecospermum spinosum TREC.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 2 languages. Kannada (2) - bendaka, benduga Telugu (17) - adavikokinta, adivikorinta, alasale, allusalai, allusalali, gariga, goriti chettu, goriti donda, gorthi chettu, gorti, gortidonka, guti, kokinta, koriti, pottimurda chettu, saali chettu, sali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0372af07fdd0bf6fef496e65c844fad
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0372af07fdd0bf6fef496e65c844fad
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

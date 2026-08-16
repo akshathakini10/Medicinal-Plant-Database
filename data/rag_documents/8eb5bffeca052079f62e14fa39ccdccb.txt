@@ -1,0 +1,88 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8eb5bffeca052079f62e14fa39ccdccb
+Botanical Name: Radermachera xylocarpa (ROB.) SCHUM.
+Family: Bignoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Stereospermum xylocarpum WIGHT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 94 Vernacular names found in 6 languages. Kannada (35) - aane thanthu, aanethanthu vaaluka, ambaalahude, ambaari hode, ambalahude, ambari hode, anaitantwalaka, anetantuvaluka, genasaga, genasing, ghana shringi, ghanashringa, ghanashrynga, ghanasinga, ghanasrynga, ghansing, hude, hulave, huvvulave, kaananakombu, kanakakombu, kanana kombu, konana kombu, konana kombu mara, konana kombumara, konanakombu, linga dhari, lingnodaari oodi mara, oodi mara, otiyam, ruti, udi, ulve, valuka, vudi Malayalam (17) - aduvakaden, edangkorna, edangkouna, edankorna, padri, pannimuringa, pathiri, patirevetamkaruna, patiri, patirivetamkaruna, vadamkorney, vedangkonnan, vedinkorana, vetamkaruna, vetamkorana, vetankarana, vitankurana Marathi (5) - bersinge, kadashing, kharsimgi, kharsing, kharsinge Sanskrit (2) - Sanskrit Comments  patala, svetapatala Tamil (33) - alambal, alampalmaram, cavatimaram#, cavatimaram@, kadalathi, kadalatti, kalpadiri, kattastam, kattattam, malaiyudi, malaiyuti, mankombu, mankompu, onthi, padiri, padirimilaidal, palakuka, parutippatiri, parutippatirimaram, patali 3, pathiri, patiri 3, savadi, sirakkora, vadancarni, vadencarni, vedamkurunai, vedanguruni, vellani, vellanimaram, venpatirai, venpatirimaram, vetankuruni Telugu (2) - naga-dundilam, naguru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb/xclkon/fbff2c651359d39df2e8b3914c25fd2f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1780
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1780.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb/xclkon/fbff2c651359d39df2e8b3914c25fd2f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb/xclkon/fbff2c651359d39df2e8b3914c25fd2f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8eb5bffeca052079f62e14fa39ccdccb/xclkon/fbff2c651359d39df2e8b3914c25fd2f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kuberaksi
+sanskrit_name: कुबेराक्षी
+transliteration: kuberākṣī
+ref_drug_name: कुबेराक्षी
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Patala
+sanskrit_name: पाटला
+transliteration: pāṭalā
+ref_drug_name: पाटला श्वेता
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Patala - sveta
+sanskrit_name: पाटला श्वेता
+transliteration: pāṭalā śvetā
+ref_drug_name: पाटला श्वेता
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Patala
+sanskrit_name: पाटला
+transliteration: pāṭalā
+image_urls: https://www.medicinalplants.in/slokaimages/1535/1535_1.jpg https://www.medicinalplants.in/slokaimages/1535/1535_2.jpg https://www.medicinalplants.in/slokaimages/1535/1535_3.jpg https://www.medicinalplants.in/slokaimages/1535/1535_4.jpg
+ocr_text: पाटला तु रसे तिक्ता कटूष्णा कफवातजित्| शोफाध्मानवमिश्वासशमनी सन्निपातनुत् (Rjn) Patala is tikta, katu in rasa usna in veerya, alleviates kapha, ana sannipata, pacifies sopha, aahmana, vami and svasa vata पाटलानुवशतिक्ता अनुष्णा दोषत्रयापहा अरुचिश्वासशोथास्रच्छर्द्दिहिक्कातृषाहरी | | (Bpnl Patala is tikta in rasa, anusna in veerya, alleviates all the threea doshas, cures aruci , svasa, sotha, asra, chardi, hikka and trsha पुष्पं कषायं मधुरं हिमं हृद्यं कफास्रनुत् पित्तातिसारदाहघ्नं फलं हिक्कास्रपित्तहृत् | IBpn) Patala puspa is kashaya, madhura in rasa, hima in veerya, hraya, alleviates kapha, asra, pitta, atisara and daha. Phala alleviates hikka, asra and pitta विशदं हृद्यं वाकुलं पाटलानि च| | (सुश्रुत, सू ४६ २८७) Patala is suganahi, visada, hrdya vakula सुगन्धि and
+
+Shloka Record 2
+drug_name: Patala - sveta
+sanskrit_name: पाटला श्वेता
+transliteration: pāṭalā śvetā
+image_urls: https://www.medicinalplants.in/slokaimages/1535/1535_1.jpg https://www.medicinalplants.in/slokaimages/1535/1535_2.jpg https://www.medicinalplants.in/slokaimages/1535/1535_3.jpg https://www.medicinalplants.in/slokaimages/1535/1535_4.jpg
+ocr_text: पाटला तु रसे तिक्ता कटूष्णा कफवातजित्| शोफाध्मानवमिश्वासशमनी सन्निपातनुत् (Rjn) Patala is tikta, katu in rasa usna in veerya, alleviates kapha, ana sannipata, pacifies sopha, aahmana, vami and svasa vata पाटलानुवशतिक्ता अनुष्णा दोषत्रयापहा अरुचिश्वासशोथास्रच्छर्द्दिहिक्कातृषाहरी | | (Bpnl Patala is tikta in rasa, anusna in veerya, alleviates all the threea doshas, cures aruci , svasa, sotha, asra, chardi, hikka and trsha पुष्पं कषायं मधुरं हिमं हृद्यं कफास्रनुत् पित्तातिसारदाहघ्नं फलं हिक्कास्रपित्तहृत् | IBpn) Patala puspa is kashaya, madhura in rasa, hima in veerya, hraya, alleviates kapha, asra, pitta, atisara and daha. Phala alleviates hikka, asra and pitta विशदं हृद्यं वाकुलं पाटलानि च| | (सुश्रुत, सू ४६ २८७) Patala is suganahi, visada, hrdya vakula सुगन्धि and

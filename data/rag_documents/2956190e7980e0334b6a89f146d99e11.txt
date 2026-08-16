@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2956190e7980e0334b6a89f146d99e11
+Botanical Name: Taraxacum officinale WIGGERS
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Taraxacum offiecinale WIGG.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 7 languages. English (4) - dandelion, pissabed, priests-crown, telltime Hindi (12) - baran, dudal, dudh-batthal, dudhal, dudhali, dudhee, dudhi, dudli, dugchipheni, kanphul, karatu, shamuke Kannada (5) - daandelain hoo, kaadu shaavanthi, kaadushaavanthi, kadusevanti, mullu moolangi Malayalam (1) - dugddhapheni Marathi (2) - bhathur, un dara chakaan Sanskrit (3) - Sanskrit Comments  dugdhapheni, lootari, payasvini Telugu (1) - patri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11/xclkon/a32921b96088d6a02773bf4fcf89ca6e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11/xclkon/a32921b96088d6a02773bf4fcf89ca6e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11/xclkon/a32921b96088d6a02773bf4fcf89ca6e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2956190e7980e0334b6a89f146d99e11/xclkon/a32921b96088d6a02773bf4fcf89ca6e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dugdhapheni
+sanskrit_name: दुग्धफेनी
+transliteration: dugdhaphenī
+ref_drug_name: दुग्धफेनी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Dugdhapheni
+sanskrit_name: दुग्धफेनी
+transliteration: dugdhaphenī
+ref_drug_name: दुग्धफेनी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dugdhapheni
+sanskrit_name: दुग्धफेनी
+transliteration: dugdhaphenī
+image_urls: https://www.medicinalplants.in/slokaimages/1589/1589_1.jpg https://www.medicinalplants.in/slokaimages/1589/1589_2.jpg https://www.medicinalplants.in/slokaimages/1589/1589_3.jpg https://www.medicinalplants.in/slokaimages/1589/1589_4.jpg
+ocr_text: दुग्धिकोष्णा गुरू रूक्षा वातला गर्भकारिणी स्वादिक्षीरा कटुस्तिक्ता सृष्टमूत्रमलापहा १ | स्वादुर्विष्टम्भिनी वृष्या कफकुष्ठकृमिप्रणुत् (Bpn) It is guru, ruksa in guna, slightly usna in veerya, increases vata promotes garbhakarini (conception). Svadu ksiri is svadu, katu, tikta in rasa, srsta mutra malapaha (promotes waste eliminationl, vistambhi, vrshya and cures kapha, kustha and krmi. and शिशिरा विषनाशिनी | वर्णापसारणी रुच्या युक्त्या चैव रसायनी | (Rjn) Dugahapheni is katu, tikta rasa, sita in veerya, promotes varna is ruchya, rasayyani cures visa. दुग्धफेनिः कटुस्तिक्ता and दुग्धिकोष्णा गुरू रूक्षा वातला गर्भकारिणी Il IMan) Dugahika is guru, ruksa in guna, slightly usna in veerya, increases vata and is garbhakarini ( conception). धातुवृद्धिकरी हृद्या चोष्णा पारदबन्धिनी | मलस्तम्भकरी मेहकफकुष्ठकृमीन् हरेत् T INir It is dhatuvrdahikara, hrdya, usna in veerya, used for parada bandha Iprocessing of mercury induces mala stambha constipation likel cures meha , kapha, kustha and krmi. and

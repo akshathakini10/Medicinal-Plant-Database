@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5f614d80f73c3ba5897b049a0fbb35f4
+Botanical Name: Hygrophila heinei SREEM.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cardanthera uliginosa BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f614d80f73c3ba5897b049a0fbb35f4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f614d80f73c3ba5897b049a0fbb35f4/xclkon/f8e350335f7fa415e50fd16a499be979
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f614d80f73c3ba5897b049a0fbb35f4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

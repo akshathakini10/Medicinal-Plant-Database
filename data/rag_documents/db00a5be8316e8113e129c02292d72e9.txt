@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: db00a5be8316e8113e129c02292d72e9
+Botanical Name: Elaeocarpus sphaericus (GAERTN.) K.SCHUM.
+Family: Elaeocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Elaeocarpus ganitrus ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 8 languages. English (1) - olive nut Hindi (3) - rudrak, rudraki, rudraks Kannada (4) - bikki, hanaltadi, hanillatade, hennalatade Malayalam (4) - kattakara, malankara, rudraksam, rudraksham Marathi (5) - rudrak, rudraka, rudraksh, rudraksha, udraka Sanskrit (14) - Sanskrit Comments  amara, bhutanasana, bhutanashana, harksha, nilakanthaksha, pavana, pushpachanamara, rudraksa, rudraksah, rudraksha, sharvaksha, shivaksha, shivapriya, trinameru Tamil (22) - akkamani, cepattira, cepattiramaram, civacatanam, civanettiram, civappiriyam, civatacam, civatcam, civatcitam, kanmani, kattukkarai, kauricankaramani, rudrakai, rudraksham, rutrasan, ruttiratcam, udadiratoam, uruttiracam, uruttirakkam, uruttiratcam, uruttiratcamaram, uttiratcam Telugu (1) - rudrachallu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 879
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/879.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9/xclkon/bf20b7ae2571f24bbbd8e72f8aca685d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db00a5be8316e8113e129c02292d72e9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

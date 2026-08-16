@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c9dda11db86c97c8af6abd2ba5a2f8bf
+Botanical Name: Melastoma decemfidum ROB.
+Family: Melastomataceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9dda11db86c97c8af6abd2ba5a2f8bf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9dda11db86c97c8af6abd2ba5a2f8bf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

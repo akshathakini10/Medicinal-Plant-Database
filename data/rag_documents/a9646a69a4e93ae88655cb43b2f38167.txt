@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a9646a69a4e93ae88655cb43b2f38167
+Botanical Name: Pogostemon benghalensis (BURM.F.) KUNTZE
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pogostemon plectranthoides DESF.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. Hindi (5) - kala basingu, kali basuti, kali-basuti, lujrya, raudera Kannada (1) - naati pachhe thene Marathi (2) - pangra, phangli Telugu (5) - gaggerakura, goggakoora, gondri poolu, kusurijang, pedda tulasi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a9646a69a4e93ae88655cb43b2f38167/xclkon/91889c8b6e027e1a351a26db06c975a1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a9646a69a4e93ae88655cb43b2f38167
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a9646a69a4e93ae88655cb43b2f38167/xclkon/91889c8b6e027e1a351a26db06c975a1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

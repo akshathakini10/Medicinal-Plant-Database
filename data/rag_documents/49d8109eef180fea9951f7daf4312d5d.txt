@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 49d8109eef180fea9951f7daf4312d5d
+Botanical Name: Manilkara kauki (L.) DUBJ.
+Family: Sapotaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Mimusops kauki L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 66 Vernacular names found in 7 languages. Hindi (1) - khirni Kannada (11) - haadari, haale, hadara, hadari, hale, naemi, naemimara, nemi, pala, pale, patali Malayalam (7) - manilakara, manilakkara, manilkara, manyl-kara, palamunippala, paramunipala, pazhamunippalai Marathi (4) - adamvachem-phal, kakee, kauki, mani-phal Sanskrit (2) - Sanskrit Comments  talavrinta, vasantaduti Tamil (40) - cakamirukam, ceccai1, cilesmavalikari, cilettumavatikari, cinkittcam, cirakuccapalam, citaciri, civani1@, cukkilappalai#, iracaparini, iracaparinimaram, iracatatam, iracayukam2, iracayukamai, karippalai, karippalaikkirai, katacattiri, kulappalai, matakkantam, nemi2, nicatanam, palai, palaippalam, palamunnippalai, palattiyappalai, palattiyatcam, patukala, patukarai, patukaram, patukarappalai, piriyataricanam, racamam, talaviruttam, tanmaraca, tarumaracan, tilati, tilati#, vanakaneyam, vanappiriyam, vanaraneyam Urdu (1) - khirni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d8109eef180fea9951f7daf4312d5d/xclkon/541b80d1fd48473a7748d6f2a959e215
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d8109eef180fea9951f7daf4312d5d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d8109eef180fea9951f7daf4312d5d/xclkon/541b80d1fd48473a7748d6f2a959e215
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d8109eef180fea9951f7daf4312d5d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d8109eef180fea9951f7daf4312d5d/xclkon/541b80d1fd48473a7748d6f2a959e215
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d8109eef180fea9951f7daf4312d5d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d8109eef180fea9951f7daf4312d5d/xclkon/541b80d1fd48473a7748d6f2a959e215
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d8109eef180fea9951f7daf4312d5d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d8109eef180fea9951f7daf4312d5d/xclkon/541b80d1fd48473a7748d6f2a959e215
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

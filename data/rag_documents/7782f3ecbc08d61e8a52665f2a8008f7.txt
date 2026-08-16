@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7782f3ecbc08d61e8a52665f2a8008f7
+Botanical Name: Apium graveolens L.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 58 Vernacular names found in 8 languages. English (4) - celery, marsh parsley, smallage, wild celery Hindi (2) - shalari, sonira Kannada (2) - ajamoda, guddaga sompu Marathi (5) - ajamoda, ajmoda, karafas, seleri, seliri Sanskrit (32) - Sanskrit Comments  agni, agnika, ajamoda, ajmoda, andhapatrika, bastamoda, brahmakoshi, brahmamusha, dipya, dipyaka, gandhadala, ha, hastikavari, hayagandndha, karavi, kharahya, kharashva, kharasva, kharavha, krimijagdha, lochamastaka, markati, mayura, moda, modadhya, modini, phalamukhya, shikkimoda, ugragandhika, vanhidipika, vastamoda, vishali Tamil (1) - callari Tibetan (2) - tam mu sa, tim mu sa Urdu (10) - ajmud, bikh karafs, bikh karfas, fitrasalium, karafs, tukhm karafs, tukhm karafs nim kofta, tukhm karofs, tukhm khurfa siyah, tukhm-i-karafs
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7782f3ecbc08d61e8a52665f2a8008f7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ajamoda
+sanskrit_name: अजमोद
+transliteration: ajamoda
+ref_drug_name: अजमोद
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Ajamoda
+sanskrit_name: अजमोद
+transliteration: ajamoda
+image_urls: https://www.medicinalplants.in/slokaimages/145/145_1.jpg https://www.medicinalplants.in/slokaimages/145/145_2.jpg https://www.medicinalplants.in/slokaimages/145/145_3.jpg https://www.medicinalplants.in/slokaimages/145/145_4.jpg https://www.medicinalplants.in/slokaimages/145/145_5.jpg https://www.medicinalplants.in/slokaimages/145/145_6.jpg https://www.medicinalplants.in/slokaimages/145/145_7.jpg
+ocr_text: अजमोदा खराह्वा च बस्तमोदा च मर्कटी मोदा गन्धदला हस्ती कारवी गन्धपत्रिका Il शिखिमोदा च मोदाढ्या वहि्नदीपिका ब्रह्मकोशी विशाली च हृद्यगन्धोग्रगन्धिका मोदिनी फलमुख्या च वसुचन्द्राभिधा मता (Rjn) Synonyms of ajamoda are kharahva bastamoda, markati moda gandhadala hasti, karavi, gandhapatrika, mayuri, sikhimoda, modadhya vahnidipika brahmakosi, visali, hrdyagandha ugragandhika modini, phalamukhya, vasucandrabhidha मायूरी रसे पाके च वीर्योष्णस्त्वजमोदकः दीपनः पाचनः शूलकृमिघ्नः कफपित्तहा Il (Mdn) Ajamoda is Katu in Taste and Vipaka, Usna in Potency, Dipana and Pacana in Karma, is used in Sula and Krmi and is Kapha Pitta hara. कटुको अजमोदा दीपनी कफवातनुत् उष्णा विदाहिनी हृद्या वृष्या बलकरी लघुः |I नेत्रामयकफच्छर्दिहिक्कावस्तिरुजो हरेत् (Bpn) Ajamoda is Katu in Taste, Tiksna in Property, Dipani in Karma, pacifies Kapha and Vata, Usna in Potency, Vidahini l Irdya Vrsya- Balakari in Karma, Laghu in Property and is used in Netramaya, Kapha, Chardi, Hikka and Vasti ruja. कटुस्तीक्ष्णा अजमोदा कटुस्तिक्ता मलावष्टंभकारिणी उदराणि वान्तिनेत्ररुजं जयेत |l वस्तिशूलं दन्तरोगं गुल्मं शुक्लरुजं तथा (Nir) Ajamoda is katu and tikia in rasa, malavasiambhakarini in karma, is used in udara krmi, vanti netra ruja vastisula, danta roga, gulma and sukla ruja. कुमींश्चैव अजमोदा च शूलघ्नी तिक्तोष्णा कफवातजित् हिक्काध्मानारुचिर्हन्ति कृमिजिद्वह्निदीपनी Il (Dhn) Ajamoda is Sulaghna in Karma, Tikia in Taste, Usna in Potency, Kapha Vata jit, and is used in Hikka, Adhmana, Aruci, Krmi, is Vahni Dipani in Karma अजमोदा कटुरुष्णा रूक्षा कफवातहारिणो शूलाध्मानारोचकजठरामयनाशनी चैव Il (Rjn) Ajamoda is Katu in Taste, Usna in Potency Ruksa in Property, Kapha Vata hara Rucikrt in Karma, is used in Sula, Adhmana Arocaka and Jatharamaya रुचिकृत् अजमोदा कटुसित्कता कटुपाका विदाहिनी दीपनी पाचनी रूक्षा वीर्योष्णा कफवातहा |l लघुस्तिक्ता बद्धविट्का हृद्या वृष्या विनाशयेत् नेत्ररोगारुचिच्छिर्दिहिध्मावस्तिरुक्कृमीन् Il (Kdn) Ajamoda is Katu and Tikia in Tasie Katu in Vipaka, Vidahini- Dipani Pacani in Karma, Ruksa in Guna, Usna in Virya, Kapha Vata hara, Laghu in Property is used in Baddha vit is Hrdya Vrsya in Karma, and is used in Netra roga, Aruci, Chardi, Hidhma, Adhmana, Vasti ruk and Krmi.

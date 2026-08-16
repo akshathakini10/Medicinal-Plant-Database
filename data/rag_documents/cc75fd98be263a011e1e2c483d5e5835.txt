@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cc75fd98be263a011e1e2c483d5e5835
+Botanical Name: Valeriana hardwickii WALL.
+Family: Valerianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 3 languages. Hindi (10) - asarun, nakh, nakh nihani, nakhnihani, nihani, nlhani, pind tagar, shammia, shumeo, taggar Sanskrit (2) - Sanskrit Comments  balaka, tagara Urdu (2) - asarun, taggar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc75fd98be263a011e1e2c483d5e5835
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2161
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2161.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc75fd98be263a011e1e2c483d5e5835
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc75fd98be263a011e1e2c483d5e5835
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Balaka
+sanskrit_name: बालक
+transliteration: bālaka
+ref_drug_name: बालक
+status: Accepted source
+discussion: Presently 'Balaka' is considered as 'Sugandhabala' which is identified with this species; According to the author this is the real 'Balaka' which is known in Punjab as 'Bala'
+reference: [5]
+
+Identity Record 2
+drug_name: Tagara
+sanskrit_name: तगर
+transliteration: tagara
+ref_drug_name: तगर
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tagara
+sanskrit_name: तगर
+transliteration: tagara
+image_urls: https://www.medicinalplants.in/slokaimages/1676/1676_1.jpg https://www.medicinalplants.in/slokaimages/1676/1676_2.jpg https://www.medicinalplants.in/slokaimages/1676/1676_3.jpg
+ocr_text: तगरं कुष्ठजित्प्रोक्तं विसर्पव्याधिजिल्लघुः (शोढल) Tagara is laghu in guna, cures kustha and visarpa तगरं शीतलं तिक्तं दृष्टिदोषविनाशनम्| विषार्त्तिशमनं पथ्यं भूतोन्माद भयापहम् IRjn) Tagara is tikta in rasa, sita in veerya pathya, drsti dosha vinasana relieves visha, arti, bhuta, unmada and bhaya तगरं मधुरं तिक्तं कटु पाके रसे लघु स्निग्धोष्णं भूतमदापस्मारनाशनम्| | कफचक्षुशिरोरोगमदापस्मारनाशनम् | तगरद्वयमुष्णं स्यात् स्वादु स्निग्धं लघु स्मृतम् | विषापस्मारमूर्धाक्षिरोगदोषत्रयापहम् (Bpnl Tagara is madhura , tikta tuvara, katu in rasa, laghu, snigdha in guna usna in veerya, katu in paka , alleviates kapha, cures bhuta, mada, apasmara, cakshu roga and siro roga. Tagara dvaya is svadu in rasa, snigdha, laghu in guna, usna in veerya, alleviates all the three doshas cures visha, apasmara, muraha and aksi roga. तुवरं

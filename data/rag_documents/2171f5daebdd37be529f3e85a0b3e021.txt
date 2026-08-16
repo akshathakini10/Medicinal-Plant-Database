@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2171f5daebdd37be529f3e85a0b3e021
+Botanical Name: Aconitum atrox (BRUHL) MUK.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Aconitum balfourii STAPF
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. Hindi (6) - bikh, bis, bismora, meetha bish, metha, visha Sanskrit (1) - Sanskrit Comments  vatsanabha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2171f5daebdd37be529f3e85a0b3e021/xclkon/0a378cfc6071d1b3100cb095bc70ffc0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 3282
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/3282.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2171f5daebdd37be529f3e85a0b3e021
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2171f5daebdd37be529f3e85a0b3e021/xclkon/0a378cfc6071d1b3100cb095bc70ffc0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2171f5daebdd37be529f3e85a0b3e021
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2171f5daebdd37be529f3e85a0b3e021/xclkon/0a378cfc6071d1b3100cb095bc70ffc0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

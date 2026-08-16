@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f279b92eac069ae5e907b8ad0f16a131
+Botanical Name: Rivea ornata CHOISY
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 5 languages. Kannada (1) - boddi gida Marathi (3) - phand, phang, phanji Sanskrit (10) - Sanskrit Comments  ajantsi, ajara, aparajita, jirna, jirnadaru, padma, phanji, phanjika, sukshmapatra, supushpika Tamil (7) - muchuttai, mucuntai, mucuttai, mucuval, mucuvarkoti, musuttai, vatta thiruppi Telugu (3) - boddi tige, boddithige, bodditige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f279b92eac069ae5e907b8ad0f16a131
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Phanji
+sanskrit_name: फञ्जी
+transliteration: phañjī
+ref_drug_name: फञ्जी
+status: Accepted source
+discussion: According to Thakur Balwant Singh, 'Phanji' is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Phanji
+sanskrit_name: फञ्जी
+transliteration: phañjī
+ref_drug_name: फञ्जी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

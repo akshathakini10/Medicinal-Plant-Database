@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8396d40e7fb71042967011e648887e18
+Botanical Name: Coldenia procumbens L.
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 25 Vernacular names found in 6 languages. Hindi (3) - tripungkee, tripungki, tripunkhi Kannada (2) - godaapadi, hamsapaadi Marathi (2) - taripakshi, tripunkhi Sanskrit (2) - Sanskrit Comments  tripakshee, tripakshi Tamil (9) - ceruppatai, cheruppadai, cheruppadi, perunceruppatai, serupadai, serupadi, seruppadai, sirupadi, siruseruppadai Telugu (7) - bukkinaku, cheppu tattaku, chepputattaku, hamapadi, hamsa padu, hamsapaadi, hamsapdu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8396d40e7fb71042967011e648887e18
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8396d40e7fb71042967011e648887e18
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8396d40e7fb71042967011e648887e18
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8396d40e7fb71042967011e648887e18
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

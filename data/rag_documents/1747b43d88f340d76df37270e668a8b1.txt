@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1747b43d88f340d76df37270e668a8b1
+Botanical Name: Typhonium trilobatum (L.) SCHOTT
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 1 languages. Tamil (36) - anaiyatikkilanku, aracokanakku 2, arecakanacceti, arecakanam, arecakantu, cakunam, cakunmakkilanku, cattikaranai, curalam, karakkarunai, karanai 4, karanaikkilanku, kararkarunai, kariccankilanku, karikkarunai, karkaranai, karkarunai, karppavakkilanku, karppavam, karu karunai kilanku, karunai, karunai 2, karunai thandu, karunai-k-kilanku, karunaikkilanku, karunkaranai, karunkura, karunkurakkilanku, katumpalai, katumpalam 2, narkarunai, nattukkarunai, pidikarunai, pitikarunai, vitarukakkilanku, vitarukam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1747b43d88f340d76df37270e668a8b1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1747b43d88f340d76df37270e668a8b1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1747b43d88f340d76df37270e668a8b1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

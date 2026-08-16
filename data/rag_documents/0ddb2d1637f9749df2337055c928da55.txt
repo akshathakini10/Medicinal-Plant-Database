@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0ddb2d1637f9749df2337055c928da55
+Botanical Name: Cleistanthus collinus (ROB.) BENTH.  & HOOK.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Andrachne cadishaw ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 81 Vernacular names found in 7 languages. Hindi (2) - garari, garrar Kannada (10) - bade daarige, badedarige, boda daraga, bodadaraga, kaadu gargari, kadagargari, kodasigana mara, kodasige, kodasina, kondasigina Malayalam (2) - nilappala, odugu Marathi (1) - garari Sanskrit (5) - Sanskrit Comments  indrayava, kaudigam, kutaja, nandi, vishavriksha Tamil (33) - cirrotuvai, cittotuvai, cittotuvaicceti, inarccecitam, inarccecitamaram, nachuta, nantiracinni3, narotuppai, navacikam, navacikamaram, nilaippalai, nilappalai, odaichi, odan, odda, odishi, odu, odugu, odukkan, oduppai, oduvan, otaicci, otukkan, otukku, otukkuppalai, otuku, otuppai, otuvan, turotakam, ullulavamaram, ullulavu, wodayu, woden Telugu (28) - kadise, kadishen, kodarsi, kodisa, kodise, kodisha, kodishe, kodisi, korshe, korsi, nalla vadise, nalla-kordsha, oddan, odeshi, odise, odishi, odisi, vadessa, vadisa, vadise, vodisa, vodisha, vodisi, voildisa, voldisa, woddan, wodesha, wodisha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ddb2d1637f9749df2337055c928da55
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 573
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/573.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ddb2d1637f9749df2337055c928da55/xclkon/e66b543c20eb9267c0e4687253dd3502
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ddb2d1637f9749df2337055c928da55
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ddb2d1637f9749df2337055c928da55/xclkon/e66b543c20eb9267c0e4687253dd3502
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ddb2d1637f9749df2337055c928da55
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

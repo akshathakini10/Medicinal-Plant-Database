@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d7130f53e7494ef23ddecf57b2afede5
+Botanical Name: Ipomoea carnea JACQ
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ipomoea carnea (MART. E CHOISY) AUSTIN. subsp. fistulosa (MART. E CHOISY) AUSTIN
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. English (2) - hedge ipomoea, upland ipomoea Hindi (2) - emti, nagar-pan Telugu (1) - pandiri thooti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7130f53e7494ef23ddecf57b2afede5/xclkon/e1a1ac87befbf9f6c92891bd5c848751
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7130f53e7494ef23ddecf57b2afede5/xclkon/15a9bf659e0317b2dfb4af2817b11518
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7130f53e7494ef23ddecf57b2afede5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7130f53e7494ef23ddecf57b2afede5/xclkon/e1a1ac87befbf9f6c92891bd5c848751
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

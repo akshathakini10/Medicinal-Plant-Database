@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e9533607221db30df824b83bbba23b46
+Botanical Name: Polygonatum verticillatum (L.) ALL.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 7 languages. Hindi (7) - kantula, mahameda, salam mishri, salamisri, salang mishri, salev mishri, salib mishri Kannada (1) - mahamedha Malayalam (1) - mahameda Sanskrit (1) - Sanskrit Comments  mahameda Tamil (1) - mahameda Telugu (1) - mahameda Tibetan (1) - me da
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9533607221db30df824b83bbba23b46
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1721
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1721.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9533607221db30df824b83bbba23b46
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9533607221db30df824b83bbba23b46
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Mahameda
+sanskrit_name: महामेदा
+transliteration: mahāmedā
+ref_drug_name: महामेदा
+status: Substituted source
+discussion: This species is being used as Mahameda
+reference: [1]
+
+Identity Record 2
+drug_name: Meda
+sanskrit_name: मेदा
+transliteration: medā
+ref_drug_name: मेदा
+status: Substituted source
+discussion: It is one of the Astavarga drugs which has not been identified and this species is used in its place
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

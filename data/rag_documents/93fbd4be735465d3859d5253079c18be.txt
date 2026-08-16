@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 93fbd4be735465d3859d5253079c18be
+Botanical Name: Morus laevigata WALL. E BRAND.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 1 languages. Hindi (4) - shah tut, shah-tut, shehtut, tut
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93fbd4be735465d3859d5253079c18be
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93fbd4be735465d3859d5253079c18be
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tuda - prajati
+sanskrit_name: तूद प्रजाति
+transliteration: tūda prajāti
+ref_drug_name: तूद प्रजाति
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

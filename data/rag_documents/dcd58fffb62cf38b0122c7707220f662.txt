@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dcd58fffb62cf38b0122c7707220f662
+Botanical Name: Cichorium endivia L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 5 languages. English (1) - endive Hindi (1) - kasini Kannada (1) - kaasini gida Sanskrit (1) - Sanskrit Comments  kasani Tamil (1) - kashini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dcd58fffb62cf38b0122c7707220f662
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dcd58fffb62cf38b0122c7707220f662
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kasani
+sanskrit_name: कासनी
+transliteration: kāsanī
+ref_drug_name: कासनी जाति
+status: AS
+discussion: This species is the cultivated form of Kasani
+reference: [3]
+
+Identity Record 2
+drug_name: Kasani - jati
+sanskrit_name: कासनी जाति
+transliteration: kāsanī jāti
+ref_drug_name: कासनी जाति
+status: AS
+discussion: This species is the cultivated form of Kasani
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kasani
+sanskrit_name: कासनी
+transliteration: kāsanī
+image_urls: https://www.medicinalplants.in/slokaimages/90/90_1.jpg
+ocr_text: कासनी लघुतिक्तोष्ण कफपित्तहरी कटुः यकृद्विकारे हृद्रोगे मूत्रकृच्छ्रे च शस्यत|| (स्व) Kasani is tikta in rasa, laghu in guna, usna in veerya, alleviates kapha, pitta, cures yakrd vikara, hrdroga and mutrakrcchra
+
+Shloka Record 2
+drug_name: Kasani - jati
+sanskrit_name: कासनी जाति
+transliteration: kāsanī jāti
+image_urls: https://www.medicinalplants.in/slokaimages/90/90_1.jpg
+ocr_text: कासनी लघुतिक्तोष्ण कफपित्तहरी कटुः यकृद्विकारे हृद्रोगे मूत्रकृच्छ्रे च शस्यत|| (स्व) Kasani is tikta in rasa, laghu in guna, usna in veerya, alleviates kapha, pitta, cures yakrd vikara, hrdroga and mutrakrcchra

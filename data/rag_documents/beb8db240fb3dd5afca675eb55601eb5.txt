@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: beb8db240fb3dd5afca675eb55601eb5
+Botanical Name: Premna tomentosa WILLD.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 92 Vernacular names found in 5 languages. Kannada (27) - bije, eeji mara, eesha, hije, ichu, icu, ije, iji, ishe, iti, kolakatitek, madak, madike, mowa, munnu, naarale, naarike, narale, narave, narele, naruvaalu, naruvalu, pite, tavadaka, tavadike, tavadke, thavadike Malayalam (8) - kattutekka, kattuthekku, kolakatiteku, kollikattutekka, kozhukkattathekku, naithekku, natekka, nayteku Marathi (1) - chambara Tamil (30) - cummotakam, cummotakamaram, ilancimotakamaram, kalarcevakam, kalarcevakamaram, kirusnappalai, kolakattaithekku, kolaketta, kollikkattait tekku, kolukkattai-thekku, kolukkattaittekku#, kolukkattaittekku@, malaithaekku, masathekku, motakam 4, motakattekku, motakattekkumaram, munnai 3, pidan-gunari, pidangunaari, pinari, pinari 2, pitankunari, podaganari, potakanari#, potakanari@, potakanarimaram, putakanari, valuvi, valuvittekku Telugu (26) - kampu gummudu, kampugumadu, kampugummudu, kampugumudu, kokkiti, naaruva, nagal, nagu, naguru, naguru chettu, namuru, naooroo, naoru, narana, narava, naruva, narva, narvu, naura, naurasa, naurava, nauru, navaru, navooru, navuru, neravu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb8db240fb3dd5afca675eb55601eb5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb8db240fb3dd5afca675eb55601eb5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/beb8db240fb3dd5afca675eb55601eb5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

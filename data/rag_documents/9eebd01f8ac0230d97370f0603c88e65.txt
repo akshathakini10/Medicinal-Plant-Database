@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9eebd01f8ac0230d97370f0603c88e65
+Botanical Name: Evodia lunu-ankenda MERRILL
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Euodia lanu-ankenda (GAERTN.)MERR. Evodia roxburghiana BENTH. Zanthoxylum triphyllum WIGHT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. Kannada (2) - mugali, mungappe Malayalam (5) - kanalei, kanali, kanila, kattasshambagam, kattucampakam Sanskrit (2) - Sanskrit Comments  vanashampaga, vanashempaga Tamil (3) - kanalei, kattuchampakam, kattushanbagam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9eebd01f8ac0230d97370f0603c88e65/xclkon/89d01104f9684ede6ba36236362d7de5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 946
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/946.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9eebd01f8ac0230d97370f0603c88e65/xclkon/32094848580d286882239557c2ef9dca
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9eebd01f8ac0230d97370f0603c88e65
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9eebd01f8ac0230d97370f0603c88e65/xclkon/bc63cf900fb2efe17facafa5c55f0614
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9eebd01f8ac0230d97370f0603c88e65/xclkon/89d01104f9684ede6ba36236362d7de5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9eebd01f8ac0230d97370f0603c88e65/xclkon/32094848580d286882239557c2ef9dca
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9eebd01f8ac0230d97370f0603c88e65
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9eebd01f8ac0230d97370f0603c88e65/xclkon/bc63cf900fb2efe17facafa5c55f0614
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9eebd01f8ac0230d97370f0603c88e65/xclkon/89d01104f9684ede6ba36236362d7de5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

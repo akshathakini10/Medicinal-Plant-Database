@@ -1,0 +1,76 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 130721dc95f6a7e5434c31359fc34c32
+Botanical Name: Phragmites karka TRIN. E STEUD.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Arundo karka RETZ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 46 Vernacular names found in 8 languages. Hindi (6) - doka-ghas, kilak, nainarakula, nal, narkul, nulanara Kannada (4) - hulugalagu, hulugila hullu, hulugilahullu, hulugilu Malayalam (5) - nadam, nain-canna, nalam, nannana, naval Marathi (2) - deonala, nala Sanskrit (12) - Sanskrit Comments  dhamana, dhhamana, mahanalah, nada, nala, nalah, nata, potagala, potagalah, randhri, shunyamadhya, vibhisanah Tamil (2) - nalam, perunanal Telugu (14) - eela karra, kikkasagaddi, kulpa gaddi, maitantos, mettanthisa, mettantisa, naagasvaramu, nagasara, nagasaramu-peepalu, nagasvaramu, nagaswaramu, peddarellu, puvvugutthigaddi, puvvuguttigaddi Tibetan (1) - dam bu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/94202be2bd60a579b6d7d1ba38314ca5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/a6f55e8372601f024c9e20b51b59787d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/94202be2bd60a579b6d7d1ba38314ca5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/a6f55e8372601f024c9e20b51b59787d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/94202be2bd60a579b6d7d1ba38314ca5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/a6f55e8372601f024c9e20b51b59787d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/94202be2bd60a579b6d7d1ba38314ca5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/a6f55e8372601f024c9e20b51b59787d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/88e1880a90e63e7e12391cd7dee811a0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/130721dc95f6a7e5434c31359fc34c32/xclkon/94202be2bd60a579b6d7d1ba38314ca5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nala - jati
+sanskrit_name: नल जाति
+transliteration: nala jāti
+ref_drug_name: नल जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

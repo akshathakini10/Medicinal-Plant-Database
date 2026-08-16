@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c159f2c344c59ed03f27fd118d6fb146
+Botanical Name: Asplenium adiantoides (L.) C. CHR.
+Family: Aspleniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Asplenium falcatum LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Malayalam (1) - nella-panna-maravara Marathi (1) - pamdan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c159f2c344c59ed03f27fd118d6fb146/xclkon/a83cd9f6adf17aa3fb521738ff9dc501
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c159f2c344c59ed03f27fd118d6fb146
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c159f2c344c59ed03f27fd118d6fb146/xclkon/a83cd9f6adf17aa3fb521738ff9dc501
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

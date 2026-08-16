@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7a4517cf888ef9d7de003f162268c572
+Botanical Name: Colubrina asiatica (L.) BRONG.
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Kannada (1) - maanikya Malayalam (1) - katapa Tamil (2) - mayirmanikkam, vira
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a4517cf888ef9d7de003f162268c572
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a4517cf888ef9d7de003f162268c572
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a4517cf888ef9d7de003f162268c572
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,81 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 09d1703fdd745c90602cb35cffbba7a7
+Botanical Name: Garcinia indica (DUP.) CHOISY
+Family: Clusiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Garcinia purpurea G.DON.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 75 Vernacular names found in 8 languages. English (3) - goa butter, kokum, kokum butter Hindi (3) - kokam, kokam-ka-tel, vishambil Kannada (23) - amasole gida, amasolu, bherunda, devana huli, dhoopada mara, dhupadamara, kethae huli, kokum mara, kokum thaila, mugal, murgal, murgala, murghuli, murgina huli, murgina hulimara, murginahuli, murginahuli-mara, murinahuli, murugalu, muruvana huli, muruvina, punarapuli, punarpuli Malayalam (3) - kokumbrindeo, pinampuli, punampuli Marathi (11) - aamkola, amsole, bhinda, bhiran, bhirand, chirand, katambi, kokam, punampuli, ratamba, ratambi Sanskrit (27) - Sanskrit Comments  amlabija, amlapura, amlashaka, amlavetasa, amlavriksha, amlavrikshaka, atyamala, bijamla, chudamala, chukra, chukramla, chukraphala, phalamlah, phalamlaka, puramla, raktachudah, raktapuraka, rasamla, sakamlah, shalamla, shreshthamla, tintidika, tittidiphala, vrikshamla, vrksamla, vrksamlah, vruksamlah Tamil (3) - murgal, murgal-mara, murukal Tibetan (2) - da tri ga (p), da tri gi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7/xclkon/ea9736520ad351e60f909f4ae3853a7c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1027
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1027.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7/xclkon/ea9736520ad351e60f909f4ae3853a7c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7/xclkon/ea9736520ad351e60f909f4ae3853a7c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09d1703fdd745c90602cb35cffbba7a7/xclkon/ea9736520ad351e60f909f4ae3853a7c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vrksamla
+sanskrit_name: वृक्षाम्ल
+transliteration: vṛkṣāmla
+ref_drug_name: वृक्षाम्ल
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Vrksamla
+sanskrit_name: वृक्षाम्ल
+transliteration: vṛkṣāmla
+ref_drug_name: वृक्षाम्ल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Vrksamla
+sanskrit_name: वृक्षाम्ल
+transliteration: vṛkṣāmla
+ref_drug_name: वृक्षाम्ल
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vrksamla
+sanskrit_name: वृक्षाम्ल
+transliteration: vṛkṣāmla
+image_urls: https://www.medicinalplants.in/slokaimages/781/781_1.jpg https://www.medicinalplants.in/slokaimages/781/781_2.jpg https://www.medicinalplants.in/slokaimages/781/781_3.jpg
+ocr_text: वृक्षाम्लमाममम्लोष्णं वातघ्नं कफपित्तलम्| पक्क्न्तु गुरु संग्राहि कटुकं लघु| | अम्लोष्ण रोचनं रूक्षं दीपनं कफवातकृत् तृष्णार्शोग्रहणीगुल्मशूलहृद्रोगजन्तुजित् IBpn) Vrksamala is amla in rasa, usna veerya, alleviates vata, increases kapha ana pitta. Pakva vrksamia is katu, tuvara in rasa, Buru, sangrahi, laghu, ruksa in guna, amlosna, rocana, dipana, increases kapha and vata, cures trsna, arsa, grahani, gulma, sula, hrdroga and jantu. तुवरं वृक्षाम्लमम्लं कटुकं कषायं सोष्णं कफार्शोघ्नमुदीरयन्ति तृष्णासमीरोदरहृद्गदादिगुल्मातिसारव्रणदोषनाशि IRinl Vrksamla is amla, katu, kashaya in rasa, usna in veerya, alleviates kapha and vata cures arsa trsna , uaara, hra gaaa, gulma, atisara and vrana. वृक्षाम्लं ग्राहि रूक्षोष्णं वातश्लेष्मणिशस्यत्| अम्लिकायाः फलं पक्वं तस्मादल्पान्तरं गुणेः चरक Vrksamla is grahi, ruksa guna, usna in veerya, alleviates vata and slesma Pakva phala is amla in rasa and inferior in quality

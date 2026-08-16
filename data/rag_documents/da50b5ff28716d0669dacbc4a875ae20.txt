@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: da50b5ff28716d0669dacbc4a875ae20
+Botanical Name: Vitex pubescens VAHL
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 22 Vernacular names found in 4 languages. Kannada (4) - naviladi, nevaladi, parale, pordele Malayalam (8) - arrumayila, attamayila, kattumayilila, kattumellalu, maiyella, mayila, mayilella, mayilila Tamil (1) - cikikkalati Telugu (9) - boosi, busi, nemaliadugu, nemaliyadugu, nemiliadagu, nevaliadugu, nowlieragu, ratangi, ratingi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da50b5ff28716d0669dacbc4a875ae20
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da50b5ff28716d0669dacbc4a875ae20
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da50b5ff28716d0669dacbc4a875ae20
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

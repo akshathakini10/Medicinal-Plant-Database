@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b1dc01e870fe41f5c58d6ab70f240a47
+Botanical Name: Bombax insigne WALL.
+Family: Bombacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Salmalia insignis (WALL.) SCHOTT & ENDL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 3 languages. Malayalam (9) - didu, kalilavu, kallilavu, katpoola, kattupula, parayilavu, pareiilavu, poola, semul Sanskrit (1) - Sanskrit Comments  kutasalmali Tamil (4) - kalilavu, kattilavu, kattuppulai, vellaikungiliyam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1dc01e870fe41f5c58d6ab70f240a47/xclkon/24f8445f30870d6c05957eb08be40323
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1dc01e870fe41f5c58d6ab70f240a47
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1dc01e870fe41f5c58d6ab70f240a47/xclkon/24f8445f30870d6c05957eb08be40323
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1dc01e870fe41f5c58d6ab70f240a47
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1dc01e870fe41f5c58d6ab70f240a47/xclkon/24f8445f30870d6c05957eb08be40323
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

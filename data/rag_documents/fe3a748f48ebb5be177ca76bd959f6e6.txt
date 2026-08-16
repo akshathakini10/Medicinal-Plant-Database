@@ -1,0 +1,76 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fe3a748f48ebb5be177ca76bd959f6e6
+Botanical Name: Angelica glauca EDGEW.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 3 languages. Hindi (2) - chora, choru Sanskrit (5) - Sanskrit Comments  canda, coraka, granthiparna, ksemaka, taskara Tibetan (2) - tsa ron (p), tsi ron
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 188
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/188.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe3a748f48ebb5be177ca76bd959f6e6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Coraka
+sanskrit_name: चोरक
+transliteration: coraka
+ref_drug_name: चोरक
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Coraka
+sanskrit_name: चोरक
+transliteration: coraka
+ref_drug_name: चोरक
+status: Accepted source
+discussion: Coraka' is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Coraka
+sanskrit_name: चोरक
+transliteration: coraka
+ref_drug_name: चोरक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Granthiparna
+sanskrit_name: ग्रन्थिपर्ण
+transliteration: granthiparṇa
+ref_drug_name: ग्रन्थिपर्ण
+status: Controversial
+discussion: If Granthiparna is considered as Coraka then it can be correlated to this species; but there is a doubt whether Granthiparna and Coraka are one and the same or two distinct plants
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

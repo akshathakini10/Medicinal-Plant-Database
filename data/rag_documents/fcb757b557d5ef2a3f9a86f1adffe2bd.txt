@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fcb757b557d5ef2a3f9a86f1adffe2bd
+Botanical Name: Blumea balsamifera DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Blumea densiflora DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 9 languages. English (1) - ngai camphor Hindi (2) - kakoranda, kukronda Kannada (1) - kukuraadra Malayalam (2) - banga-chappa, sombong Marathi (1) - bhangaruda Sanskrit (3) - Sanskrit Comments  kukkura-dru, kukundara, tamracuda Tamil (3) - cuvarru mullanki, kattu mullani, narak-karantai Tibetan (1) - ku la Urdu (4) - kakronda, kakronda buti, kakronda buti ka pani, kakronda buti sabz
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd/xclkon/37aceafb032bcffaeec0c7495496397c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 330
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/330.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd/xclkon/37aceafb032bcffaeec0c7495496397c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd/xclkon/37aceafb032bcffaeec0c7495496397c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fcb757b557d5ef2a3f9a86f1adffe2bd/xclkon/37aceafb032bcffaeec0c7495496397c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kukundara - prajati
+sanskrit_name: कुकुन्दर प्रजाति
+transliteration: kukundara prajāti
+ref_drug_name: कुकुन्दर प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

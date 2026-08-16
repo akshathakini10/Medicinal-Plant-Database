@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ed0b15f829b92995cea577af6486bd1f
+Botanical Name: Nigella sativa L.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 186 Vernacular names found in 9 languages. English (3) - fennel flower, fitches, kalonji Hindi (7) - kala-jira, kala-zira, kalajira, kalomji, kalonji, kulangji, mugrela Kannada (9) - kare-jirage, karejeerage, karejirage, karijeerige, karijirigae, karijirigay, karijirigi, karimsiragam, krishnajeerige Malayalam (5) - karinchirakam, karincirakam, karun-chirakam, karunchirakam, karunshiragam Marathi (3) - kalongji, kalonjee jeere, krishnajira Sanskrit (33) - Sanskrit Comments  ajaji, aranyajeeraka, asitajirakah, bashpika, jiraka, kala-ajaji, kalajaji, kalika, kalvanjika, karava, karave, karavi, krishna jiraka, krishna-jiraka, krsnajiraka, kunchi, kunchika, kuncika, kunjika, musavi, prathvika, prithu, prithuka, prithvi, prthu, prthvika, susavi, sushave, sushavi, upakunchika, upakunchiraka, upakunci, upakuncika Tamil (117) - acaci, aciyacirakam#, aciyacirakam@, aciyam#, aciyam@, aniyam, aranam, arattuvakki, attakam 2, attimai 2, attimaiccirakam, attulaccirakam, attulakiyam, attulakki, attulakkinam, attulakkiyam, attuvakkayam, attuvakkiyam, attuvarkkayam#, attuvarkkayam@, cailaciritam, caitini, cannikanayan, cannikanayan 1, canninayakam, canninayakam 1, canninayan 1, carin siragum, cariyaccirakam, copakunci, culakkini, irucitari, irulakam, iruli 1, iruliccirakam, kaketali, kakoniyacirakam, kakoniyam, kalcirakam, kamanam, kanakacciram, kanakaciram, kanakam 2, kapitaciram, kapitam, karaciram, karavi 2, kariya cirakam, kariyacirakam, kariyaciram, kariyamani, kariyamaniccirakam, karkanacirakam, karkanam#, karkanam@, karkkoli 1#, karkkoli 1@, karkol, karkolam, karkoli 1, karum ciragam, karun-shiragam, karuncetakam, karuncheerakam, karuncirakam, karunciri, karunjchirakam, karunjeeragam, karunjiragam, karunshirogam, karutakacirakam, kattukkarucirakam, kattukkaruncirakam, kattumaiccirakam, kiruttinacirakam, kiruttinaciram, kiruttinamuli, kittinacaci, kommatticcirakam, kotticciram, kutakam 2, kutamanakam, kutamanam, kutampan, kuttanam, kuttinam, maciyam, maiccirakam, malattakkutampu, miti, narcirakam, pakutam, palampacakam, palampacam, palappacam, pankumam, pankutam, pilacam, pilaccam, pilecam, pilicam, puppacam, purruccirakam, putpaciram, putparacan, tecalati, tecalaticceti, terikkam, umataviyam, upakancikam, upakuncam 2, upakuncikai, upakuncikai 2, uppukkuncam, vanticotani#, vanticotani@, viluttam Telugu (6) - nalla jeelakarra, nalla-jilakara, nallailakarra, nallajilakara, nellajeelakaira, nullajilakara Urdu (3) - kalonji, kalonji (kamazarius), tukhm gandana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed0b15f829b92995cea577af6486bd1f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kalajaji
+sanskrit_name: कालाजाजी
+transliteration: kālājājī
+ref_drug_name: कालाजाजी
+status: Accepted source
+discussion: Identified with this species
+reference: [2]
+
+Identity Record 2
+drug_name: Karavi
+sanskrit_name: कारवी
+transliteration: kāravī
+ref_drug_name: कारवी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Upakuncika
+sanskrit_name: उपकुञ्चिका
+transliteration: upakuñcikā
+ref_drug_name: उपकुञ्चिका
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Upakuncika
+sanskrit_name: उपकुञ्चिका
+transliteration: upakuñcikā
+ref_drug_name: उपकुञ्चिका
+status: Accepted source
+discussion: Dalhana has interpreted 'Upakuncika' as a variety of 'Jiraka'; Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

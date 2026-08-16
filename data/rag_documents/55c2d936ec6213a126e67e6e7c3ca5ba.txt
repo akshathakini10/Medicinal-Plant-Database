@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 55c2d936ec6213a126e67e6e7c3ca5ba
+Botanical Name: Ananas comosus (L.) MERR.
+Family: Bromeliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ananas sativus SCHULT.F. Bromelia ananas L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 68 Vernacular names found in 9 languages. English (2) - crowa, pineapple Hindi (4) - aaanas, aaannas, ananas, anannas Kannada (11) - anaanus, anaasu, ananaas gida, ananaas hannu, ananas gida, ananasa hannu, ananasu-hannu, ananasuhannu, ananus hannu, anasu, parangi-kayee Malayalam (8) - ananas, annanas, kaita-chakka, kaitaccakka, kaitachakka, kapa-tsjakka, kappaccakka, parangi-chakka Marathi (1) - ananas Sanskrit (10) - Sanskrit Comments  ama, anamnasam, ananna, anannasa, anarasam, bahunetra, bahunetraphalam, kautukasanjaka, koutukasanjnaka, paravati Tamil (25) - anaci, anashap-pazham, anashapazham, anaship-pazham, anashippazham, anasie pullum, anassappalam, annaci, annacippalam, annasi pazham, annasippalam, annatalai, centalanceti, kataiccittalai, katucittalai, natcattirakantaki, panantalai, parangithalai, parankittalai#, parankittalai@, poonthazham pazham, puntalaimaram, puntalam, puntalampalam, purappiriyai Telugu (5) - ananas poondu, ananash, anasa-pandu, anasapandu, anasapoondu Urdu (2) - ananas taza, anannas
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba/xclkon/1593f2b1e623c1ffad1411d64e8bdabf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba/xclkon/8d13a269d75d2be174a06f5a1d70cd2f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba/xclkon/1593f2b1e623c1ffad1411d64e8bdabf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba/xclkon/8d13a269d75d2be174a06f5a1d70cd2f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba/xclkon/1593f2b1e623c1ffad1411d64e8bdabf
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba/xclkon/8d13a269d75d2be174a06f5a1d70cd2f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba/xclkon/1593f2b1e623c1ffad1411d64e8bdabf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba/xclkon/8d13a269d75d2be174a06f5a1d70cd2f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55c2d936ec6213a126e67e6e7c3ca5ba/xclkon/1593f2b1e623c1ffad1411d64e8bdabf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ananasa
+sanskrit_name: अननास
+transliteration: ananāsa
+ref_drug_name: अननास
+status: Accepted source
+discussion: Ananasa is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Bahunetra
+sanskrit_name: बहुनेत्र
+transliteration: bahunetra
+ref_drug_name: बहुनेत्र
+status: Accepted source
+discussion: Identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Ananasa
+sanskrit_name: अननास
+transliteration: ananāsa
+image_urls: https://www.medicinalplants.in/slokaimages/127/127_1.jpg https://www.medicinalplants.in/slokaimages/127/127_2.jpg
+ocr_text: अनंनासंपारवतीचामंकौतुकसंज्ञकम् Anamnasa, paravati, ama kautuka are its synonyms अनंनासमपक्चन्तुरुच्यंहृद्यंगुरुर्मतम् कफपित्तकरंचैवप्रोक्तं चान्नमरोचकम श्रमंक्लमंनाशयतितत्पक्वंस्वादुपित्तहृत् रसातपविकारंचनाशयोदितिकीर्तितम् (Nir) Apakva anamnasa is rucya, hrdya, guru, increases kapha and pitta, alleviates anna arocaka srama and klama. Pakva is svadu in rasa pitta hara, rasa atapa vikara hara

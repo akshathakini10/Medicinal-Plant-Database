@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 90d24abd7ceb95fc6205c9a4247d6f32
+Botanical Name: Argyreia imbricata (ROTH) SANT. & PATEL
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Argyreia aggregata (ROB.) CHOISY Lettsomia aggregata ROB. Lettsomia mysorensis CLARKE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. Kannada (3) - jaajugarana hambu, ooganihambu, uganiballi Telugu (3) - errakuta, ettakuta, yerrakutha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90d24abd7ceb95fc6205c9a4247d6f32/xclkon/1ddd61686702e5a07175ed8657ed144f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90d24abd7ceb95fc6205c9a4247d6f32/xclkon/bfef6d6c8fd92bcf0cca401615ea1346
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90d24abd7ceb95fc6205c9a4247d6f32
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90d24abd7ceb95fc6205c9a4247d6f32/xclkon/332538a8181cd70923e222b87e8c4f15
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90d24abd7ceb95fc6205c9a4247d6f32/xclkon/1ddd61686702e5a07175ed8657ed144f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

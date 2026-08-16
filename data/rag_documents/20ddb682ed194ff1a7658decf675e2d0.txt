@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 20ddb682ed194ff1a7658decf675e2d0
+Botanical Name: Adenosma indianum (LOUR.) MERR.
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Adenosma capitatum HOOK.F. Adenosma indicum MERR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Malayalam (2) - carim-tumba, karimtumpa Sanskrit (1) - Sanskrit Comments  sprkka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20ddb682ed194ff1a7658decf675e2d0/xclkon/6554d8cd2b1e62078240eb94bbcc093b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 58
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/58.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20ddb682ed194ff1a7658decf675e2d0/xclkon/196792918ea90de9b1e68e1bff46eb1c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20ddb682ed194ff1a7658decf675e2d0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20ddb682ed194ff1a7658decf675e2d0/xclkon/6554d8cd2b1e62078240eb94bbcc093b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20ddb682ed194ff1a7658decf675e2d0/xclkon/196792918ea90de9b1e68e1bff46eb1c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20ddb682ed194ff1a7658decf675e2d0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20ddb682ed194ff1a7658decf675e2d0/xclkon/6554d8cd2b1e62078240eb94bbcc093b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

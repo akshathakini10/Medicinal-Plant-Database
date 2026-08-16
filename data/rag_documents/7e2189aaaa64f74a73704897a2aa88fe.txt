@@ -1,0 +1,158 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7e2189aaaa64f74a73704897a2aa88fe
+Botanical Name: Coscinium fenestratum (GAERTN.) COLEB.
+Family: Menispermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 143 Vernacular names found in 9 languages. English (1) - false calumba root Hindi (2) - jhar-haldi, jhar-i-haldi Kannada (11) - arasina balli, dodda maradarishna, doddamaradarasina, doddamaradarisana, marada-arishina, maradaarasina, maradarashina, maradarasina, maradarishina, maramanjal, maramanjali Malayalam (3) - haridram, mara-mannal, maramannal Marathi (3) - bhadi halad, jhade-halade, venivel Sanskrit (12) - Sanskrit Comments  canda, daru-haridra, daru-haridrakam, daruharidra, daruharidrakam, darvi, haricandana, kaliyaka, pitacandana, pitacandanam, pitadru, pitasara Tamil (106) - alakanirani, amalam4, amalamancal, aravam, arruram, ataram2, atavimancal, attaram, attucam, atturam, cannitittam, canniyam#, canniyam@, canniyamancal, cekipputalam, cemattimaram, cemmatti, ceyapaccai, ceyapakam, ceyaparam#, ceyaparam@, ceyaparamancal, ceyepacam, ceyepakam, ceyokam, ceytika, ceytikamancal, cuvacamarukki, cuvacanturattuncuran, dadari, imalam, iracani3, kaleyakam, kalikam, kaliyakam#, kaliyakam@, kaliyam, kamavati, kanniyam@, katam, katari#, katari@, katavi, kateritam, kateriyam, kateriyamancal, katoriyam, kavi, kaviyakam, kuccimancal, mancalkkoti, mancatkucci, manjalkodi, mara manjal, mara-manjal, maramancal, maramanjal, matantai, mekampokki 2, micataram, natikerpam, nicapica, nicapikam, nicapikamancal, nili, nirancoti, pacamanattiram, paccamancal, paccanniyam, pankuram#, pankuram@, pasamantram, pitatturumam, putmari, sanniyam, seyebasam, takavi, talapattiri2, tarpitatam, taruttamani#, taruttamani@, taruvi, tayittamani, tiyacam#, tiyacam@, tiyacamancal, tiyacayam, tiyacey, tiyaram, tiyecekaram, tiyecey, tiyeceye, tiyecuram, tiyecuramancal, udaravi, urittiram2, urittiramancal, utaravi, utaravimancal, uttiram3, utupati, varam 2, vastu, vayekatam, viranahari 2, vittirikam Telugu (3) - manipasupoo, manu-pasupu, manupasupu Tibetan (2) - tsan dan ser pa, tsan dan ser po
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 656
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/656.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e2189aaaa64f74a73704897a2aa88fe
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Daruharidra
+sanskrit_name: दारुहरिद्रा
+transliteration: dāruharidrā
+ref_drug_name: दारुहरिद्रा
+status: Controversial
+discussion: This species is used as Daruharidra in Sri lanka and South India
+reference: [2]
+
+Identity Record 2
+drug_name: Daruharidra - prajati
+sanskrit_name: दारुहरिद्रा प्रजाति
+transliteration: dāruharidrā prajāti
+ref_drug_name: दारुहरिद्रा प्रजाति
+status: Market source
+discussion: This species resembles Daruharidra so it is mixed along with it and sold in the market
+reference: [3]
+
+Identity Record 3
+drug_name: Kalambaka
+sanskrit_name: कलम्बक
+transliteration: kalambaka
+ref_drug_name: कलम्बक
+status: Most probable
+discussion: Kalambaka is correlated to this species
+reference: [3]
+
+Identity Record 4
+drug_name: Kaleyaka
+sanskrit_name: कालीयक
+transliteration: kālīyaka
+ref_drug_name: कालीयक
+status: Accepted source
+discussion: identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Kaleyaka
+sanskrit_name: कालीयक
+transliteration: kālīyaka
+ref_drug_name: कालीयक
+status: Accepted source
+discussion: Botanists have identified it with this species
+reference: [5]
+
+Identity Record 6
+drug_name: Kaleyaka
+sanskrit_name: कालीयक
+transliteration: kālīyaka
+ref_drug_name: कालीय
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Kaliya
+sanskrit_name: कालीय
+transliteration: kālīya
+ref_drug_name: कालीयक
+status: Accepted source
+discussion: identified with it
+reference: [1]
+
+Identity Record 8
+drug_name: Kaliya
+sanskrit_name: कालीय
+transliteration: kālīya
+ref_drug_name: कालीयक
+status: Accepted source
+discussion: Botanists have identified it with this species
+reference: [5]
+
+Identity Record 9
+drug_name: Kaliya
+sanskrit_name: कालीय
+transliteration: kālīya
+ref_drug_name: कालीय
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 10
+drug_name: Kaliyaka
+sanskrit_name: कालीयक
+transliteration: kālīyaka
+ref_drug_name: कालीयक
+status: Accepted source
+discussion: identified with it
+reference: [1]
+
+Identity Record 11
+drug_name: Kaliyaka
+sanskrit_name: कालीयक
+transliteration: kālīyaka
+ref_drug_name: कालीयक
+status: Accepted source
+discussion: Botanists have identified it with this species
+reference: [5]
+
+Identity Record 12
+drug_name: Kaliyaka
+sanskrit_name: कालीयक
+transliteration: kālīyaka
+ref_drug_name: कालीय
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Daruharidra
+sanskrit_name: दारुहरिद्रा
+transliteration: dāruharidrā
+image_urls: https://www.medicinalplants.in/slokaimages/229/229_1.jpg https://www.medicinalplants.in/slokaimages/229/229_2.jpg https://www.medicinalplants.in/slokaimages/229/229_3.jpg https://www.medicinalplants.in/slokaimages/229/229_4.jpg https://www.medicinalplants.in/slokaimages/229/229_5.jpg
+ocr_text: तिक्ता दारुहरिद्रा स्याद्रूक्षोष्णा व्रणमेहजित्| कर्ण-्नेत्र मुखोद्भूतां रुजं कण्डूञ्च नाशयेत्| | (Dhn) Daruharidra is Tlkta Ruksa, Usna Vrana mehajit Karna netra mukhodbhuta ruja kandu hara तिक्त दारुहरिद्रा तु कटूष्णा व्रणमेहनुत्| फण डूविसर्पत्वग्दोषविषकर्णाक्षिदोषनुत् IRinl Daruharidra is Tikta Katu in rasa Usna in virya vrana meha hara Kandu visarpa tvag dosha visha karna aksi dosha hara दार्वी विशेषेण कफाभिष्यन्दनाशिनी |Rjv) Darvi is specifically Kaphabhishyanda nasani. रसांजनं हिमं तिक्तं रक्तपित्तकफापहम हिमाश्वासहरं वर्ण्य मुखरोगविषापहम् / IDhnl Rasanjana is Hima Tikta in rasa rakta pitta kapha hara Hidhma svasa hara Varnya Mukha roga visa hara रसांजनम् नेत्रयोः परमं रसांजनम् कटु श्लेष्मविषनेत्रविकारनुत् E उष्णं रसायनं तिक्तं छेदनं व्रणदोषहृत् Rasanjana is Netrya It is Katu Slesma visa netra vikara hara Usna in Rasavyana Tikta in rasa Chedana Vrana dosha hara हितम्| ४| (Bpnl para virya

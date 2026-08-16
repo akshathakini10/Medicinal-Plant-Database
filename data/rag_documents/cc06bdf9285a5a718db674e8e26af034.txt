@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cc06bdf9285a5a718db674e8e26af034
+Botanical Name: Aquilegia vulgaris L.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc06bdf9285a5a718db674e8e26af034
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc06bdf9285a5a718db674e8e26af034
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc06bdf9285a5a718db674e8e26af034
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

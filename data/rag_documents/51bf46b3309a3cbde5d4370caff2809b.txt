@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 51bf46b3309a3cbde5d4370caff2809b
+Botanical Name: Bauhinia purpurea L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 116 Vernacular names found in 8 languages. Hindi (21) - ashta, gairal, guiral, gurial, jhinjhora, kachnar, kaliar, kandan, kaniar, karal, karial, khairwal, koilari, koinar, koliar, kwiryal, lal kachnar, lal karal, makkuna, mawai, sona Kannada (22) - akilu, arelu, banne, basavanapadu, deva kaanchana, kanchivaala, kanchivala, kanchuvaala, kancivala, kanjivala, kempu kanchivaala, kempu kanchuvaala, kempu mandaara, kempukanchavala, kempukancivala, kempukanjivala, kempumandaara, kempumandara, mandara, sarul, uleppe, ulipe Malayalam (5) - chovanna-mandaru, chovannamandaru, cuvannamandaram, mandaram, suvannamandaram Marathi (11) - atmatti, dev kanchan, deva, devana kanchana, kanchan, kanchana, ragtachandan, ragthachandan, rakta kanchan, raktha kaanchan, tambdo-apto Sanskrit (11) - Sanskrit Comments  camarikah, kancanarah, kanchan, kovidara, kovidarah, mahayamalapatrakah, raktakovidara, raktapushpakovidara, swetakancanara, tamrapuspah, vanaraja Tamil (31) - acanomantarai, acanomantaraimaram, acuvacampurappu, arputaveni, atthi, cikappu mantarai, compucikam, compucikamaram, kalarviluti, kalavilaccai#, kalavilaccai@, kalavilaichi, kalaviluti2, karuppumantarai, kattu mantarai, mancaltarai, mancaltaraimaram, mandarai, mandareh, mandari, mandharai, mantarai, mantharai, mutiraikkali, nilataru2, nilattiruvatti, periyavatti, punkaram, purapicam, segappumandarai, ulittikam Telugu (12) - aroe, bodanta, bodanta chettu, deva-kasla, devakaanchanamu, devakanjanamu, kaanchanamu, kanchanam, kanjanamu, peddaare, peddare, peddari Tibetan (3) - go bi da ra (p), ko bi da ra, ko bid dri (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51bf46b3309a3cbde5d4370caff2809b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kancanara - jati
+sanskrit_name: काञ्चनार जाति
+transliteration: kāñcanāra jāti
+ref_drug_name: काञ्चनार जाति
+status: Accepted source
+discussion: The white and red variety of Kancanara
+reference: [3]
+
+Identity Record 2
+drug_name: Kovidara
+sanskrit_name: कोविदार
+transliteration: kovidāra
+ref_drug_name: कोविदार
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Kovidara
+sanskrit_name: कोविदार
+transliteration: kovidāra
+ref_drug_name: कोविदार
+status: Suggested source
+discussion: Suggested to use this species as Kovidara
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

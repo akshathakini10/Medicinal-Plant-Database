@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 31f8bd253afd526cb00da74adbfaa64d
+Botanical Name: Grewia scabrophylla ROB.
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Kannada (3) - kadukadele, katukadili, punaipuduku Telugu (1) - bankajana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31f8bd253afd526cb00da74adbfaa64d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31f8bd253afd526cb00da74adbfaa64d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

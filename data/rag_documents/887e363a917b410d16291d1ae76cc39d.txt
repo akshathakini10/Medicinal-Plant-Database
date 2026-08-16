@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 887e363a917b410d16291d1ae76cc39d
+Botanical Name: Ipomoea coccinea L
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 2 languages. Kannada (7) - halluballi, haluballi, handarahu, kadalli, kaduhallu, kadutumbe, undra Telugu (3) - kashiratamu, kasiratmanu, kasiratnalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/887e363a917b410d16291d1ae76cc39d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/887e363a917b410d16291d1ae76cc39d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

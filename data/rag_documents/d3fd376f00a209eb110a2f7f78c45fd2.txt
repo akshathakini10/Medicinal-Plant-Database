@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d3fd376f00a209eb110a2f7f78c45fd2
+Botanical Name: Vicia hirsuta KOCH.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Hindi (3) - jhunjhuni ankari, masuri, munmuna
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3fd376f00a209eb110a2f7f78c45fd2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3fd376f00a209eb110a2f7f78c45fd2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

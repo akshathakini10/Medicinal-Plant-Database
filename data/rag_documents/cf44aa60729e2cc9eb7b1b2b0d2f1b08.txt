@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cf44aa60729e2cc9eb7b1b2b0d2f1b08
+Botanical Name: Salvia haematodes W.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Urdu (3) - bahman surkh, behman surkh, behman surkh nim kofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf44aa60729e2cc9eb7b1b2b0d2f1b08
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf44aa60729e2cc9eb7b1b2b0d2f1b08
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf44aa60729e2cc9eb7b1b2b0d2f1b08
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

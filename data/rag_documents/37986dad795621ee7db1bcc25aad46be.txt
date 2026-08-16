@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 37986dad795621ee7db1bcc25aad46be
+Botanical Name: Saurauia napaulensis DC.
+Family: Saurauiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Saurauia nepalensis DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 1 languages. Hindi (6) - bhakara, goganda, gogina, gugna, pangara, ratendu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37986dad795621ee7db1bcc25aad46be/xclkon/4cd7b84ebd5fdafefff214980d2ede33
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37986dad795621ee7db1bcc25aad46be
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37986dad795621ee7db1bcc25aad46be/xclkon/4cd7b84ebd5fdafefff214980d2ede33
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

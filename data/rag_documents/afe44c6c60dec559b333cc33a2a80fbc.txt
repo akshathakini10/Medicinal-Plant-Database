@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: afe44c6c60dec559b333cc33a2a80fbc
+Botanical Name: Leucas plukenetii (ROTH) SPRENG.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Leucas aspera (WILLD.) SPRENG.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 81 Vernacular names found in 7 languages. Hindi (5) - chhota-halkusa, chota halkkusa, chota-kalkusha, chotahalkusa, goma Kannada (7) - bilee thumbe, olle thumbe, shiva thumbe, thumbe, thumbe hoo gida, thumbe soppu, tumbe Malayalam (2) - tumba, tumpa Marathi (1) - tumbo Sanskrit (4) - Sanskrit Comments  dronapushpi, dronapuspi, ksavaka, ksavakah Tamil (55) - aritturumam, arkam2, canninayakacceti, canninayakam, cantanacceti, cantanam#, cattirakacceti, cattirakam, cinavil, dumpai, icarukam2, iranakkolakam, kalakkantam, kanamuli2, kanarpilitacceti, kanarpilitam, katakkotti, katalkoti, katarkoti, katarkoticci, katarkoticciceti, katarpoti, kaviz thumbai, kociracakam, kotiyavarukkai, kumilicceti, kumuli1, kutumpakacceti, kutumpakar, nallatumpai, namakam, namavaikuntam, namavekuntam, narrumpai, nilattumpai, nilattumpaicceti, paravicaiyam, porutal 2, thumbai, thumbaipoo, tironaputpi, titcanakantakam1, titcanakantam1, tumbai, tumbai-cheddi, tumpai, tumpakam, tumpapputu, tuppakar, turonaputpi, tuymai2, vaikuntam, vaikura, vellaikkottumpai, vicaiyam Telugu (7) - tammachettu, tella tummi, thumba, thummachettu, thummi, tummacettu, tummachettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afe44c6c60dec559b333cc33a2a80fbc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1313
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1313.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afe44c6c60dec559b333cc33a2a80fbc/xclkon/60bdbfc3aa618131f8631923ed780d11
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afe44c6c60dec559b333cc33a2a80fbc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afe44c6c60dec559b333cc33a2a80fbc/xclkon/60bdbfc3aa618131f8631923ed780d11
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afe44c6c60dec559b333cc33a2a80fbc
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afe44c6c60dec559b333cc33a2a80fbc/xclkon/60bdbfc3aa618131f8631923ed780d11
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afe44c6c60dec559b333cc33a2a80fbc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afe44c6c60dec559b333cc33a2a80fbc/xclkon/60bdbfc3aa618131f8631923ed780d11
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afe44c6c60dec559b333cc33a2a80fbc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b03ee3af4fa7a31abd46ee7c44de2b88
+Botanical Name: Casuarina equisetifolia FORST.
+Family: Casuarinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 70 Vernacular names found in 7 languages. English (5) - australian pine, beefwood, jau, whistling pine, yar Hindi (2) - jangli-jhau, jangli-saroo Kannada (9) - cabaku, cabuku, chabuku, gali, kasrike, kesarike, saravina, sarve, sarve mara Malayalam (11) - caboku, cavokku, cavukku, chavokku, chola, chowku, chulamaram, cola, karrati, kattati, sampirani Marathi (7) - janglisaru, panas, phiramgi-saro, sarova, sarpuhala, sura, suru Tamil (22) - catatari, catatarimaram, cattutai, cattutaivirutcam, cavukku, cavukkumaram, civacivamaram, civamaram1, civavarci, colaimaram, karcuramatitam, karcuramatitamaram, kettivanci, kettivancimaram, korata, savukku, savukku maram, savukkumaram, uromacakkari, uromacakkarimaram, utirppakam, utirppakamaram Telugu (14) - cauku, cavuku, chavuka, chavuku, chowku, saravu, sarugu, sarugudu, saruku, sarviku, serva, sowku, surgu, tsavukumanu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b03ee3af4fa7a31abd46ee7c44de2b88
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b03ee3af4fa7a31abd46ee7c44de2b88
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b03ee3af4fa7a31abd46ee7c44de2b88
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

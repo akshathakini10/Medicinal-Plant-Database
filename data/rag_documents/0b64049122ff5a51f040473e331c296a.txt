@@ -1,0 +1,80 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0b64049122ff5a51f040473e331c296a
+Botanical Name: Brassica juncea (L.) CZERN. SSP. JUNCEA
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Brassica integrifolia (WEST) SCHULZ Sinapis chinensis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 102 Vernacular names found in 7 languages. English (2) - dijon mustard, japanese greens Hindi (10) - badshahirai, barirai, barlai, gohnasarson, khasrai, lai, laya, rai, sarson sarsonlahi, shahzadarai Kannada (2) - kempu saasive, sasive Marathi (3) - mohari, rayan, samsvel Sanskrit (3) - Sanskrit Comments  asuri, rajika, tiksna gandha Tamil (79) - acuri, ai 1, aim, aintaicceti, aiyavi 1, am, aritam 1, arkkam 2, attavattanati, aviyam, ayacuri, ayyam, ayyavi, caracapam, caracapika, carasapam, carasapikai, carsapam, carucapam, carucapikam, carukam, carupam, caruppam, cavakam, cetacam, cilapa, cinam, citari, cittaratti, cittarttam, cittitacceti, cittitam, cotakku 1, cotaku 1, cukkumapattiram 1, icikar, iciyar, intuvakikam, irattaraci 1, irecakakuna, kacavam, kadaghoo, kadugu, karantam, karung kadugu, katamvatam, katippakai, katiyakai, katu 2, katuku, kauri 1, kevura, kirusappam, kiruttinai, kurkevu, mantalicitam, mutaiyal, nallaturavam, nattai 1, nattukkatuku, pallan, patai, punnakikam#, punnakikam@, putanacan, putanacanam, racakuna, tantukam, tantunapam, tantupam, tittakantam, urocanai, urocani 1, urocaniyam, urokani, valivin, vicitaki, vicitti, vimpatam Urdu (3) - rai, roghan sarson, sarson
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b64049122ff5a51f040473e331c296a/xclkon/f57bbac8b5b18853d0560c4a8162bda3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b64049122ff5a51f040473e331c296a/xclkon/2a162726e84716ce7aa3e19d23507785
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b64049122ff5a51f040473e331c296a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b64049122ff5a51f040473e331c296a/xclkon/f57bbac8b5b18853d0560c4a8162bda3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b64049122ff5a51f040473e331c296a/xclkon/2a162726e84716ce7aa3e19d23507785
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b64049122ff5a51f040473e331c296a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b64049122ff5a51f040473e331c296a/xclkon/f57bbac8b5b18853d0560c4a8162bda3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b64049122ff5a51f040473e331c296a/xclkon/2a162726e84716ce7aa3e19d23507785
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b64049122ff5a51f040473e331c296a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b64049122ff5a51f040473e331c296a/xclkon/f57bbac8b5b18853d0560c4a8162bda3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ksavaka
+sanskrit_name: क्षवक
+transliteration: kṣavaka
+ref_drug_name: क्षवक
+status: Controversial
+discussion: This species has property like that of Ksavaka hence used in its place
+reference: [1]
+
+Identity Record 2
+drug_name: Rajika
+sanskrit_name: राजिका
+transliteration: rājikā
+ref_drug_name: राजिका
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Rajika
+sanskrit_name: राजिका
+transliteration: rājikā
+ref_drug_name: राजिका
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

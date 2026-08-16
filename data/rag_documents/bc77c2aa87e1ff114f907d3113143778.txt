@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bc77c2aa87e1ff114f907d3113143778
+Botanical Name: Maerua oblongifolia (FORSK.) A.RICH
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Maerua arenaria HOOK
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 6 languages. Kannada (2) - bhoochakra gedde, nela sakre gedde Marathi (3) - hemakand, kaatigolo, vikat Sanskrit (8) - Sanskrit Comments  madhusrava, madhuvalli, morata, murahari, murva, piluparni, piluparnika, pipluparni Tamil (20) - carukkaraikkilanku2, cerankilanku, kattuccarukkarai, kattuccarukkaraik kilanku, kurutikkakitakkilanku, kurutikkakitam, kutalakkilanku, kutali2, mulmurantai, munmurantai, nilaccarukkarai, pucakam, pumi carkkarai kilantu, pumicarkkarai-k-kilanku, pumicarkkaraik kilanku, pumicarkkaraimulam, pumicarkkaraivallikkilanku, pumiccarkkaraikkilanku, puvincarukkarai, tauritakkilanku Telugu (20) - bhoochakra gadda, bhoochakramu, bhucakramu, bhuchakra, bhuchakram, bhusarkara, bocchekra, maakametanithige, maenikathige, mekamettanitige, menikatige, merupu theega, morinika, pattathige, pattatiga, pattatige, pattuthige, pattutige, putta tige, puttatige Tibetan (1) - ro ma ha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778/xclkon/ac6ea730c6dfc3398882309d2305a899
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc77c2aa87e1ff114f907d3113143778
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.
+
+Shloka Record 2
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bb9d69d1d38f9e803cb07e35f4f9abb0
+Botanical Name: Trifolium alexandrinum L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Trifolium alexandrium L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Hindi (1) - barseem
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb9d69d1d38f9e803cb07e35f4f9abb0/xclkon/3da291010d6ebfe9613bef729ac15d71
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb9d69d1d38f9e803cb07e35f4f9abb0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb9d69d1d38f9e803cb07e35f4f9abb0/xclkon/3da291010d6ebfe9613bef729ac15d71
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

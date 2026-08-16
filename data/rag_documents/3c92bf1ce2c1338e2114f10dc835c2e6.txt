@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3c92bf1ce2c1338e2114f10dc835c2e6
+Botanical Name: Podophyllum hexandrum ROYLE
+Family: Berberidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Podophyllum emodi WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 4 languages. Hindi (14) - bakra-chimyaka, bakrachimyaka, ban kakri, ban kakru, bankakri, bankakru, bankarkatee, bhavanbakra, nibishi, nirbash, papra, papri, pilijati, vankakhharu Kannada (1) - nn Marathi (4) - paadbal, padwal, padwel, patvel Sanskrit (4) - Sanskrit Comments  laghupattra, vakra, vanatrapusi, vanavrntaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c92bf1ce2c1338e2114f10dc835c2e6/xclkon/8dbac4bd2d289d42219aa12e7774ce58
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1713
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1713.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c92bf1ce2c1338e2114f10dc835c2e6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c92bf1ce2c1338e2114f10dc835c2e6/xclkon/8dbac4bd2d289d42219aa12e7774ce58
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vanatrapusi
+sanskrit_name: वनत्रपुषी
+transliteration: vanatrapuṣī
+ref_drug_name: वनत्रपुषी
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

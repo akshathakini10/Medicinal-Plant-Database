@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b6869bcf5818798f28011b446b40a26c
+Botanical Name: Memecylon edule ROB.
+Family: Melastomataceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 67 Vernacular names found in 6 languages. Kannada (15) - alamar, alamarn, alimar, alimaru, alle, alli, gandukepala, limbatoli, limbtoli, mundi, nemar, neymaru, nibidalle, ollekodi, wollekodi Malayalam (18) - anakkayavu, aneikombi, kalayam, kanalei, kanila, kannavu, kanyavu, kasava, kasavu, kashava, kashavu, kashawa, kashoa, kasjavo-maram, kayavu, klavu, masavu, netunchetti Marathi (1) - limba Sanskrit (1) - Sanskrit Comments  anjani Tamil (24) - caserychedi, cirukaca, cuyampucceti, kaca, kacamaram, kacan, kacaricceti, kana, kasa, kasan, kashamaram, kaya, kayac-ceti, kayacceti, kayala, kayamaram, kayampucceti, kayampuvuchedi, kayan, kucumam 2, mulacittincam, punkali, tipali, tiyali Telugu (8) - alie, alli, allichettu, manchialli, manciyalli, midalli, peddaalli, peddalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6869bcf5818798f28011b446b40a26c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1410
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1410.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6869bcf5818798f28011b446b40a26c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6869bcf5818798f28011b446b40a26c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

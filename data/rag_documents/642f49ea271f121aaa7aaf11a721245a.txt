@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 642f49ea271f121aaa7aaf11a721245a
+Botanical Name: Leea indica MERILL
+Family: Leeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Leea sambucina BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 51 Vernacular names found in 7 languages. Hindi (3) - kurkurjihva, kurkurjihwa, kurkurjiwah Kannada (7) - andilu, deepaavali kolu, gadhapatri, midichi, nadathe, nedathe, nedil soppu Malayalam (11) - erattayani, gnellu, kutanaluku, maniperandi, maniperanti, manipiranta, nallu nakku, naluku, nellu, nyeru, parili Marathi (5) - dimdi, dimdo, dinda, dino, karkani Sanskrit (3) - Sanskrit Comments  chatri, karkatatjihva, kukurajihva Tamil (13) - manippiran, manippirantai, manippirantaicceti, naikki, nalam, nalava, nekku, niyakku, nyekki, ottamale, ottanalam, ottanali, ottannalam Telugu (9) - ancados, anka dora, ankadora, ankadosa, ankdora, jalamukkudu, jata mukudi, jatamukkudu, neetiveli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/642f49ea271f121aaa7aaf11a721245a/xclkon/5e5ad653ac1ac8665a43b7b7777f37cf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/642f49ea271f121aaa7aaf11a721245a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/642f49ea271f121aaa7aaf11a721245a/xclkon/5e5ad653ac1ac8665a43b7b7777f37cf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/642f49ea271f121aaa7aaf11a721245a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/642f49ea271f121aaa7aaf11a721245a/xclkon/5e5ad653ac1ac8665a43b7b7777f37cf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/642f49ea271f121aaa7aaf11a721245a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/642f49ea271f121aaa7aaf11a721245a/xclkon/5e5ad653ac1ac8665a43b7b7777f37cf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

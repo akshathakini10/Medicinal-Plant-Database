@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9ba63dffa8d6ef008723ec357591e4ff
+Botanical Name: Allium sativum L.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 172 Vernacular names found in 10 languages. English (2) - garlic, poor-mans-treacle Hindi (7) - lahasun, lahsan, lahsun, lasan, lassun, lasun, lehann Kannada (3) - belluli, bellulli, jawari gadde Malayalam (1) - vellulli Marathi (3) - lasoon, lasun, lasunas Sanskrit (29) - Sanskrit Comments  arishtha, bhutabhna, bhutagna, dirghapatraka, grinjana, grnjana, hana, katukanda, lashuna, lasuna, lasunah, maha-ushadha, mahakanda, mahausa, mahusudha, mlecchakanda, mlecha-gandha, rahuchhishta, rahutsrishta, rasona, rasonah, rasonaka, rasonam, ugragandha, ulli, vatari, yavanasta, yavaneshta, yavanesta Tamil (110) - acanam 1, acanapanni 2, acanapputu, accanam, acunam@, acunan, acunapputu, acuram2, amirtai5, araconam, araipavanati, arakacam, arakacappuntu, arital, arittam2, arittampokki, arittampokkipputu, attankal, cavukkiriya, cavukkiriyacceti, cocanam, cocanapputu, corutca1, cunakam, cunakapputu, cunam, cunam2, eripuntu, ilacunam, ilacunam@, iletitacceti, iletitam, iracanai, iracanam, iracanappuntu, iraconakam, iraconam, iraconopi, iracunam, irecan, irecani, irecapputu, kalinkam, kantakam2, kantam7, katukantam, kautatam, kayam, kirancam, kirancanam2, kulamarccam, kutiraippallan, lacunam, makorakattam, malacanati, matalam@, matamatu 1, matamatupputu, matukiyakentam, mileccakantakam, mileccakantam 1, nattotarici, nicciyam2, paccainirulli, palantu 2, poondu, pundu, puntu, raconakam, raconam, racunam, racunapputu, tellulli, temekavitayam, tiri, tiripuravanitacceti2, tiripuravanitam, uccatai2, ukkirakantam4, ulli, ulli-poondu, ulli2, ulliccuvetam1, ullipoondu, ullippuntu, ullipputu, umiyarpuntu, umiyarputu, vacikaram 3, vacikarapputu, vacu, vallaipundu, vellai-p-puntu, vellai-poondu, vellaippundu, vellaippuntu, vellaipputu, vellaipundu, vellaipuntu, vellaivenkayam#, vellaivenkayam@, vellapundu, vellulli, velvankayam, velvenkayam, venkavali, venkaveli, vetpuntu, virutalam, vullay poondoo Telugu (7) - tellagadda, thellagaddalu, thellavayalu, vellipayalu, velluli, vellulli, vellullitellagadda Tibetan (3) - sgog gcig, sgog skya, sgog-skyam Urdu (7) - aghlees, awqariyo saqardeen, lahasan, lahsan, lehsan, lehsun, seer (lahsan)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ba63dffa8d6ef008723ec357591e4ff
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Lasuna
+sanskrit_name: लशुन
+transliteration: laśuna
+ref_drug_name: लशुन
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Rasona
+sanskrit_name: रसोन
+transliteration: rasona
+ref_drug_name: रसोन
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

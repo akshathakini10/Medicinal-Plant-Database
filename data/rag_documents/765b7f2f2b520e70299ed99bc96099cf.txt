@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 765b7f2f2b520e70299ed99bc96099cf
+Botanical Name: Trichosanthes anaimalaienis BEDDOME
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/765b7f2f2b520e70299ed99bc96099cf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/765b7f2f2b520e70299ed99bc96099cf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

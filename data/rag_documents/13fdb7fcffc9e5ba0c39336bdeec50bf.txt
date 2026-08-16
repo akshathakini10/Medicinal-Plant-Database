@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 13fdb7fcffc9e5ba0c39336bdeec50bf
+Botanical Name: Habenaria edgeworthii HOOK. F. E COLLETT
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 6 languages. Hindi (1) - rddhi Kannada (1) - rddhi Malayalam (1) - rddhi Sanskrit (1) - Sanskrit Comments  riddhi Tamil (1) - rddhi Telugu (1) - rddhi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13fdb7fcffc9e5ba0c39336bdeec50bf
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1093
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1093.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13fdb7fcffc9e5ba0c39336bdeec50bf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

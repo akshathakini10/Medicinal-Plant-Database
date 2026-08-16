@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5e61a3ccb898ce34f62ec050b012b2f2
+Botanical Name: Pueraria tuberosa (ROB. E. WILLD.) DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Hedysarum tuberosum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 83 Vernacular names found in 9 languages. Hindi (19) - badar, bidarikand, bilaikand, dhodhala, ghora-bel, ghorvela, godra, gor-bel, gudbel, salod, salorh, saral, sarul, siralu, sirola, slod, surai, sural, vidarikand Kannada (7) - bhoochakra gedde, bhoosakkare gedde, bidrerakanda, dari, gumadi gida, gummadi balli, gummadi gida Malayalam (2) - mutukku, palmutukku Marathi (7) - badra, bharda, bhendar vaela, bhooyi kohlaa, birmolo, godha bael, pithana Sanskrit (32) - Sanskrit Comments  bhukushmandi, bhumikushmand, bhumikusmanda, gajavajipriya, gajeshta, gandhaphala, ikshugandha, iksugandha, kandapalasa, kandapalasah, kandapalash, kroshtri, kshirashukla, kshiravalli, kundapalasha, payasvini, shrigalika, shukla, sita, svadukanda, svadulata, triparna, vajivallabha, vidali, vidari, vidarika, vidarikanda, vidarikandah, vrikshavalli, vrishyakanda, vrishyavallika, vrishyavardhini Tamil (2) - darigummadi, niala-gumodi Telugu (12) - daree, dari, darigummadi, dhaarigummadi, goomodee, goomoodee, gumidi, gummadi, gumodi, kubaayathige, kubayatige, vidhaarikanda Tibetan (1) - ksi ra bi da ri Urdu (1) - badarikand
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1770
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1770.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2/xclkon/7fd5c89a3ade7b69dd277b23568b0b39
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2/xclkon/7fd5c89a3ade7b69dd277b23568b0b39
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2/xclkon/7fd5c89a3ade7b69dd277b23568b0b39
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2/xclkon/7fd5c89a3ade7b69dd277b23568b0b39
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e61a3ccb898ce34f62ec050b012b2f2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vidari
+sanskrit_name: विदारी
+transliteration: vidārī
+ref_drug_name: विदारी
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vidari
+sanskrit_name: विदारी
+transliteration: vidārī
+image_urls: https://www.medicinalplants.in/slokaimages/1367/1367_1.jpg https://www.medicinalplants.in/slokaimages/1367/1367_2.jpg https://www.medicinalplants.in/slokaimages/1367/1367_3.jpg https://www.medicinalplants.in/slokaimages/1367/1367_4.jpg https://www.medicinalplants.in/slokaimages/1367/1367_5.jpg https://www.medicinalplants.in/slokaimages/1367/1367_6.jpg https://www.medicinalplants.in/slokaimages/1367/1367_7.jpg https://www.medicinalplants.in/slokaimages/1367/1367_8.jpg
+ocr_text: अन्या क्षीरविदारी स्यादिक्षुकन्देक्षुवल्यपि क्षीरवल्ली क्षीरकन्दा क्षीरशुक्ला पयस्विनी Il (Mdn) Anya ksiravidari is Iksukanda, Iksuvalli, Ksiravalli, Ksirakanda, ksirasukla Payasvini. अन्या क्षीरविदारी स्यादिक्षुगनेक्षुवल्लरी इक्षुवल्ली क्षीरकन्दः क्षीरवल्ली पयस्विनी क्षीरशुक्ला क्षीरलता पयःकन्दा पयोलता पयोविदारिका चेति विज्ञेया द्वादशाह्वया (Rjn) Ksira vidari is called as Iksugandha, Iksuvalli, Ksirakanda, Ksiravalli , payasvini, Ksirasukla , ksiralata, Payahkanda, Payolata, Payovidarika. अन्या शुक्ला क्षीरशुक्ला क्षीरकन्दा पयस्विनी | क्षीरवल्लीक्षुकन्देक्षुवल्ली क्षीरविदारिका II शुक्लकन्दा महाश्वेतेक्षुगनिका IKdn) Anya is Sukla , Ksirasukia, Ksirakanda, Payasvini, Ksiravalli, Iksukanda, Iksuvalli, Ksiraviaarika, Iksuparni, Suklakanda, Mahasveta, Iksugandhika. इक्षुपर्णी क्षीरविदारिका बल्या वातापित्तहरा च सा मुाुरा बृंहणी वृष्या शीतस्पर्शाडतिमूत्रला II स्तन्यदोषस्य हरणी पित्तशूलनिषूदनी IDhn ) Ksiravidarika is Balya, Vatapitta hara, Madhura in rasa, Brmhani, Vrshya, Sita, Asparsa, Atimutrala, Stanya dosha haram, Pitta sula nishudani. ज्ञेया क्षीरविदारी च माुराम्ला कषायिका तिक्ता च पित्तशूलघ्नी मूत्रमेहामयापहा JRini Ksira vidari is Maahura, Amla in rasa, Kashayika, Tikta in Rasa, Pitta- Sulaghna, Mutra-Meha amaya hara. पयस्या कुसुमं वृष्यं मुाुरं रसपाकयोः पित्तघ्नं शीतवीर्यं च वातश्लेष्मकरं गुरुः IlKdn) Payasya Kusumam is Vrshya, Madhura, in Rasa ana Paka is Pittaghna, Sita in Virya, Vata Slesma kara ana is Guru. प्रोक्ता क्षीरविदारी तु माुराम्लकषायका वृष्या च शुक्लजननी पुष्टिदुगप्रदा कटुः Ksiraviaari is Madhura, Amla, Kashaya in Rasa, Vrshya, Suklajanani, Pustiaugdha prada ana Katu. रसायनी च वल्या च शीता मूत्रकफप्रदा स्निगा वर्ण्या गुरुः स्वर्या पित्तरुग्रक्तदोषहा पित्तशूलहरा वातादाहजिन्मूत्रमेहजित् ज्ञेया कन्दगुणा ह्यंस्याः सदृशा वल्लिवद्गुणैः Il INir) Vidari is Rasayani, Balya , Sita in Potency , Mutra Kapha praaa, Snigdha Varnya, Guru in Guna, Svarya , Pitt vikara rakta dosha hara, Pitta sula hara, Vata daha Mutra Meha hara. Valli guna is also similar to the guna of Kanda

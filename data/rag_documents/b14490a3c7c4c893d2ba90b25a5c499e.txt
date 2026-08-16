@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b14490a3c7c4c893d2ba90b25a5c499e
+Botanical Name: Barringtonia racemosa (L.) K.SPRENG.
+Family: Baringtoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Eugenia racemosa L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 143 Vernacular names found in 7 languages. Hindi (2) - ijjul, norvisnee Kannada (10) - ganagilatora, ganigala thora, kanaginathora, kanaginatora, kempuganigilu, kempukanagina, neeruganagile, neevaara, nivar, samudraphala Malayalam (13) - katampu, samaskaravadi, samstaravati, samstravadi, samudraccam, samudracham, samudrakka, samudrapad, samudrapoo, samudrappu, samudrapu, samuthraccham, samuthrachcham Marathi (2) - nivar, sadphali Sanskrit (8) - Sanskrit Comments  hijjala, neepa, nichula, nipa, samstravadi, samudrapad, samudraphala, vishaya Tamil (104) - aracakkini, arattam, arippiriyam, arittiram2, cadapum vayr, calacakam, calam3, calaparam, camuttira4, camuttirakkatampu, camuttirappalam, camuttirappalam2, camuttirappalavi, camuttirappalavimaram, cantakentam, carucapam, carucapikam, carupam, carusam, cilesmanacani, cilettumavisapakan, citakantanam, citakantanamaram, cukataru, cumpal, cumpul, cupuram, curapi8, curapiyankam, cutaru, cuvetacamaram, icataru, icitaru, icitarumaram, icutaru, icuvarataru, intirapacitam, intirapacitamaram, isudaru, isuvaradaru, kaciram2, kadambam, kadambu, kalampakam, kalampam3, karaci, karacimaram, karam4, karamam, katampaccuvetam, katampaccuvetamaram, katampam2, katampam3@, katampuri, katampurimaram, katappaimaram2, katappamaram, katotam, kelivirutcam, kogali, kokali2, kondalai, kontalai#, kontalai2, kontalam, kontalankay#, kontalankay@, kontavakkay, koputtam, kotalankay, kucciram2, kuchidam, mara, maraam 2, marakika, marakikamaram, maram 2, maravam, nipam3, nipam3@, palapatirappiriyam, periyacali, periyacalimaram, peruncerippan, peruncerippanmaram, piriyakam 1, piriyatati, pitriyagam, sametrapalam, samuthram, semetrapalam, tarakatampam#, tarakatampam$, tarakatampam@, tenakam, tevavirutcam, tunikkatampamaram, tunikkatampu, varaki@, venkatampu, venkatampumaram, vicalam 4, vicuvalopakarakam, vilattaru Telugu (4) - aare, kadapa, kanapa, samudrapandu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e/xclkon/a80656cd18fdebec9552952ce43de543
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 293
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/293.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e/xclkon/a80656cd18fdebec9552952ce43de543
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e/xclkon/a80656cd18fdebec9552952ce43de543
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b14490a3c7c4c893d2ba90b25a5c499e/xclkon/a80656cd18fdebec9552952ce43de543
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nicula
+sanskrit_name: निचुल
+transliteration: nicula
+ref_drug_name: निचुल
+status: ?
+discussion: ?
+reference: [2]
+
+Identity Record 2
+drug_name: Nicula
+sanskrit_name: निचुल
+transliteration: nicula
+ref_drug_name: निचुल
+status: Accepted source
+discussion: Nicula is identified with this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 29bd74b20f0de681f842ae11ae181b2f
+Botanical Name: Anacyclus pyrethrum DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Anthemis pyrethrum GOUAN
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 45 Vernacular names found in 8 languages. Hindi (2) - akarkara, akorkaro Kannada (5) - aakala kaare, aakala kari, akkala kara, akkalkara, akrakara Malayalam (2) - akkikkaruka, akkravu Marathi (2) - akkalkaaraa, akkirakaram Sanskrit (6) - Sanskrit Comments  agragrahi, akallaka, akarakalabha, akarakarabha, akarakarabhah, akarakarava Tamil (19) - akirakaram, akkalkara, akkara karam, akkara#, akkara@, akkarakaram, akkarakaram#, akkarakaram@, akkarakarum, akkaram, akkimakaram, akkirakaaram, akkirakaram, akkirakkaram, akra, akrakaram, tosattiraviyam, vannikaram, vannikkaracceti Telugu (3) - akarakaram, akkalakara, akkarakaram Urdu (6) - aaqarqarha, agarq arha, aqar karha, aqar qarha, aqarqara, aqarqarha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f/xclkon/ea35a1126a46d8a9b679af307c6ffdc5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f/xclkon/ea35a1126a46d8a9b679af307c6ffdc5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f/xclkon/ea35a1126a46d8a9b679af307c6ffdc5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29bd74b20f0de681f842ae11ae181b2f/xclkon/ea35a1126a46d8a9b679af307c6ffdc5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Akarakarabha
+sanskrit_name: आकारकरभ
+transliteration: ākārakarabha
+ref_drug_name: आकारकरभ
+status: Accepted source
+discussion: Akarakarabha is identified with this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Akarakarabha
+sanskrit_name: आकारकरभ
+transliteration: ākārakarabha
+image_urls: https://www.medicinalplants.in/slokaimages/125/125_1.jpg
+ocr_text: वीर्येणाडडाकल्लकोह्युष्णो बलकृत् मतः प्रतिश्यायं च शोथं च वातं चैव विनाशयेत् II (Bpn) It is katu in rasa, usna in veerya, bala karaka, cures pratisyaya, sotha and vata कटुको

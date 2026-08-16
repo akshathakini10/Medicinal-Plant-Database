@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a2f93928283eebce4a07933d8f360cc4
+Botanical Name: Verbascum chinense (L.) SANT.
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Celsia coromandeliana VAHL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 5 languages. Hindi (4) - gadartambaku, gaderi tamakhu, sanslo, sunslo Kannada (1) - kaadu hoge soppu Marathi (2) - kolhala, kutki Sanskrit (4) - Sanskrit Comments  bhutakeshi, kulahala, sundika, vishamushti Tamil (1) - arrumelalaki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f93928283eebce4a07933d8f360cc4/xclkon/29a6762865b1e20fc802226b9baf28af
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f93928283eebce4a07933d8f360cc4/xclkon/eb29df9a821bd2406f49181285315d3a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f93928283eebce4a07933d8f360cc4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f93928283eebce4a07933d8f360cc4/xclkon/29a6762865b1e20fc802226b9baf28af
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f93928283eebce4a07933d8f360cc4/xclkon/eb29df9a821bd2406f49181285315d3a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f93928283eebce4a07933d8f360cc4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f93928283eebce4a07933d8f360cc4/xclkon/29a6762865b1e20fc802226b9baf28af
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f93928283eebce4a07933d8f360cc4/xclkon/eb29df9a821bd2406f49181285315d3a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f93928283eebce4a07933d8f360cc4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f93928283eebce4a07933d8f360cc4/xclkon/29a6762865b1e20fc802226b9baf28af
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

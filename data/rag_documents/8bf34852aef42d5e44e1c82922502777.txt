@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8bf34852aef42d5e44e1c82922502777
+Botanical Name: Zingiber purpureum ROSC.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Zingiber cassumunar ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 7 languages. English (1) - cassumar ginger Hindi (3) - ban-ada, banada, jangli adrak Kannada (6) - agala shunti, agale shunti, agalesunthi, agalu shunti, kaadushunti, kadushunti Marathi (6) - malabari halad, nisa, nisan, nisana, penlekosht, penlekshot Sanskrit (4) - Sanskrit Comments  ardrakam, ardrika, peu, vanardraka Tamil (3) - kattumanjal, nn, vvanarttirakam Telugu (13) - adavi pasupu, banada, kaarallamu, karallamu, karpushpoo, karpushpu, karu pasupu, karu-allamu, karu-pasupu, karuallumu, karupasupu, koorapasupu, kurapasupu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777/xclkon/795a7d6efc19df80fefa713d54394a7f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777/xclkon/795a7d6efc19df80fefa713d54394a7f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777/xclkon/795a7d6efc19df80fefa713d54394a7f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8bf34852aef42d5e44e1c82922502777
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

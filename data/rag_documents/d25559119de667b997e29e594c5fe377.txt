@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d25559119de667b997e29e594c5fe377
+Botanical Name: Vigna trilobata (L.) VERDCOURT
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Dolichos trilobus (L.) AIT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 58 Vernacular names found in 9 languages. English (1) - wild blackgram Hindi (9) - arkmoth, jangli moth, mugani, mugawana, mungani, mungi, mungwan, s.n mudagaparni, trianguli Kannada (7) - kaadesaru, kohasaru, kohesaru, mudgaparni, nari hesara, nari hesaru, pilli hesaru Malayalam (1) - kattupayar Marathi (8) - arkamath, arkmut, jangli mung, janglimath, ran-mat, ranamuga, ranmath, ranmuga Sanskrit (19) - Sanskrit Comments  aranyamudga, hrasva, kakamudga, karanjika, koshila, kshudrasaha, kurangika, marjaragandhika, mudgaparni, saha, shimbi, shimbiparni, shimbiparnika, shurpaparni, tryangguli, vanajaringini, vanamudga, vanodbhava, vanya Tamil (9) - cirupayaru, kocilam, nari payaru, narip payaru, naripayar, narippayaru, pani-pyre, panipayar, panipayir Telugu (1) - pillippersara Tibetan (3) - mom sran sde u i dab ma (d), sde u i dab ma, smon sran sde u i dab ma (p)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/13553b6f0f69dffb8ff90aba57bd9919
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/13553b6f0f69dffb8ff90aba57bd9919
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/13553b6f0f69dffb8ff90aba57bd9919
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/13553b6f0f69dffb8ff90aba57bd9919
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/4235761c7cd7bcee37b6309bd47623ed
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d25559119de667b997e29e594c5fe377/xclkon/13553b6f0f69dffb8ff90aba57bd9919
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

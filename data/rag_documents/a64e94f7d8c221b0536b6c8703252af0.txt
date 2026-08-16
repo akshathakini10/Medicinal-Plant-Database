@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a64e94f7d8c221b0536b6c8703252af0
+Botanical Name: Luvunga scandens (BLUME) KURZ.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 2 languages. Kannada (4) - jeeanthi balli, jeevani, kakkola, lavangalathe Sanskrit (20) - Sanskrit Comments  dhankshika, dhira, dhmanksholi, gandhakokila, jivaniya, jivanti, kakoli, kayasthika, kshira, lavali, lavangalata, madhura, payasvinim, payasya, shitapaki, shukla, svadumansi, vayasoli, vayasolika, vayastha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64e94f7d8c221b0536b6c8703252af0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1354
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1354.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64e94f7d8c221b0536b6c8703252af0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

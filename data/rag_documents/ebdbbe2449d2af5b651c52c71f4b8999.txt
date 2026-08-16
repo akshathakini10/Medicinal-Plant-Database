@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ebdbbe2449d2af5b651c52c71f4b8999
+Botanical Name: Nasturtium officinale R. BR.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Nasturtium fontanum ASCHERS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. English (2) - nasturtium, watercress Hindi (1) - chhuch
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdbbe2449d2af5b651c52c71f4b8999
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdbbe2449d2af5b651c52c71f4b8999/xclkon/352bda627363a7813a056f80ec563ccf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebdbbe2449d2af5b651c52c71f4b8999
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

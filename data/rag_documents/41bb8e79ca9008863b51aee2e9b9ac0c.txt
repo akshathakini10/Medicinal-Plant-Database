@@ -1,0 +1,126 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 41bb8e79ca9008863b51aee2e9b9ac0c
+Botanical Name: Stephania japonica (THUNB.) MIERS.
+Family: Menispermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Stephania hernandifolia (WILLD.) WALP.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 5 languages. Hindi (1) - tamarki Malayalam (5) - padakelenga, padavalli, patakilannu, patakkilannu, patavalli Sanskrit (5) - Sanskrit Comments  ambashtha, patha, rajapatha, vanatik-tika, vanatikta Tamil (2) - ampastai, molakaranaikkoti Telugu (2) - duvvathige, duvyatige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/0bfdcb2c5e1888717e88872407b4cefc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3916703b2911721b5de07b2ef319a3f8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/0bfdcb2c5e1888717e88872407b4cefc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3916703b2911721b5de07b2ef319a3f8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/0bfdcb2c5e1888717e88872407b4cefc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3001c0837b219c672e4d6afe2a9d953a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/3916703b2911721b5de07b2ef319a3f8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41bb8e79ca9008863b51aee2e9b9ac0c/xclkon/0bfdcb2c5e1888717e88872407b4cefc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rajapatha
+sanskrit_name: राजपाठा
+transliteration: rājapāṭhā
+ref_drug_name: राजपाठा
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Rajapatha
+sanskrit_name: राजपाठा
+transliteration: rājapāṭhā
+ref_drug_name: राजपाठा प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Rajapatha
+sanskrit_name: राजपाठा
+transliteration: rājapāṭhā
+ref_drug_name: राजपाठा प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Rajapatha - prakara
+sanskrit_name: राजपाठा प्रकार
+transliteration: rājapāṭhā prakāra
+ref_drug_name: राजपाठा
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Rajapatha - prakara
+sanskrit_name: राजपाठा प्रकार
+transliteration: rājapāṭhā prakāra
+ref_drug_name: राजपाठा प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 6
+drug_name: Rajapatha - prakara
+sanskrit_name: राजपाठा प्रकार
+transliteration: rājapāṭhā prakāra
+ref_drug_name: राजपाठा प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Patha
+sanskrit_name: पाठा
+transliteration: pāṭhā
+image_urls: https://www.medicinalplants.in/slokaimages/410/410_1.jpg https://www.medicinalplants.in/slokaimages/410/410_2.jpg https://www.medicinalplants.in/slokaimages/410/410_3.jpg https://www.medicinalplants.in/slokaimages/410/410_4.jpg https://www.medicinalplants.in/slokaimages/410/410_5.jpg https://www.medicinalplants.in/slokaimages/410/410_6.jpg https://www.medicinalplants.in/slokaimages/410/410_7.jpg https://www.medicinalplants.in/slokaimages/410/410_8.jpg
+ocr_text: Patha alleviates atisara, sula, kapha, pitta and jvara. ISdn) पाठाउम्बष्ठाडम्बष्ठिका स्यात प्राचीना पापचेलिका पाठिका स्थापनी चैव श्रेयसी वृद्धिकर्णिका |l एकाष्ठीला कुचैली च दीपनी वरतिक्तका तिक्तपुष्पा बृहत्तिक्ता दीपनी त्रिशिरा मालवी च वरा देवी द्विदृङ्मिता IRjn ) Patha, ambashtha, ambashthika, pracina, papacelika, pathika, sthapani, sre yasi, vrdahakarnika, ekasthila, kucaili, dipani, varatiktaka, tiktapuspa, brhattikta, dipani, trisira, vrki, malavi, vara, devi, vrttaparni are the synonyms of patha. वृकी वृत्तपर्णी पाठा स्थैल्या स्थापनी तु वृद्धा चाश्मसुता वरा अम्बष्ठाडम्बष्ठका यूथा प्राचीनाडविद्धकर्णिका |l एकैषी त्रिशिरा देवी बृहत्तिक्ता वृकी रसा बृहत्तिक्ता पापचेली मालती वृकदन्त्यपि IKdn) Synonyms of patha are patha, stahilya, sthapani, vradha, asmasuta vara, ambhastha, ambhasthaka, yutha, pracina, aviddhakarnika, ekaishi, trisira, devi, brhattikta, vrki, rasa, papaceli, malati and vrkadanti. विषघ्नी सर्वशूलघ्नि वातपित्तजित् पाठा ज्वरप्रशमनी रक्तातीसारनाशनी Il IMdnl Patha alleviates visha, sarva sula, guma, vata, pitta, pacifes jvara, destroys rakta atisara. गुल्मघ्नी पाठोष्णा कटुका तीक्ष्णा वातश्लेष्महरी लघुः हन्तिशूलज्वरच्छर्दिकुष्ठातीसारहृद्रुजः || दाहकण्डुविषश्वासकृमिगुल्मगरव्रणान् (Bpn, Mpn) Patha is katu in rasa, tiksna, laghu in guna, usna in veeryza, alleviates vata ana slesma, cures sula, jvara, charai, kustha, atisara, hraruja, daha, Kandu, visa sva5a krmi, gulma, gara visha and vrana. पाठा तिक्तरसा वृष्या विष्घ्नी कुष्ठकण्डुनुत् छर्दिहृद्रोगज्वरजित त्रिदोषशमनी परा पाठाड तिसारशूलघ्नी कफपित्तज्वरापहा (Dhn) Patha is tikta in rasa, vrsya, alleviates kapha, pitta, visha, kustha, kandu, chardi , hrdroga, jvara, tridosha, atisara, sula and jvara पाठा तिक्ता गरुष्णा च वातपित्तज्वरापहा भग्नसन्धानकृत्पित्तदाहातीसारशूलहृत् IRjn) Patha is tikta in Jasa, guru in guna, usna in veerya, causes bhagna sanahana , alleviates vata, pitta, jvara, pacifies pitta, daha, atisara ana sula पाठा कटुका तीक्ष्णा लघुरुष्णा त्रिदोषहा हरत् कुष्ठज्वर च्छर्दिदाहातीसारहृद्रुजः II गुल्मकण्डूविषश्वासव्रणशूलगरकृमीन् | पाठाफलं पित्तहरं च शीतं कषायमाधुर्ययुतं गुरु स्यात् तस्यैव पत्रं त्वथ शीतविर्यं रूक्षं गुरुग्राहि निहन्ति मेहम् Il IKdnl Patha is katu in rasa, tiksna, laghu in guna, usna in veerya, alleviates triaosha , cures kustha, jvara, charai, daha, atisara, hrdruja, gulma, kandu, visa, sva5a vrana, sula, gara visha and krmi. Patha phala is Kashaya , madhura in rasa , in guna, sita in veerya and alleviates pitta. Its patra is ruksa , guru, in guna sita in veerya and cures meha Buru Brahi पाठा तिक्ता कटष्णा च भग्नसन्धानकारका तीक्ष्णा लघ्वी पित्तदाहशूलातीसारनाशिनी वातपित्तज्वरच्छर्दिविषाजीर्णत्रिदोषकान् हृद्रोगरक्तकुष्ठकण्डूश्वासकृमीन् जयेत् गुल्मोदरव्रणकफवातनाशकरी मता INir) Patha is tikta, katu in rasa, tiksna, laghu in guna, usna in veerya, causes bhagna sandhana, pacifies pitta, daha, sula, atisara cures vata pitta jvara, chardi, visa, ajirna, tridosha, hrdroga, rakta vikara, kustha, ati kandu, svasa, krmi, gulma, udara, vrana, kapha and vata
+
+Shloka Record 2
+drug_name: Patha - anya
+sanskrit_name: पाठा अन्या
+transliteration: pāṭhā anyā
+image_urls: https://www.medicinalplants.in/slokaimages/410/410_1.jpg https://www.medicinalplants.in/slokaimages/410/410_2.jpg https://www.medicinalplants.in/slokaimages/410/410_3.jpg https://www.medicinalplants.in/slokaimages/410/410_4.jpg https://www.medicinalplants.in/slokaimages/410/410_5.jpg https://www.medicinalplants.in/slokaimages/410/410_6.jpg https://www.medicinalplants.in/slokaimages/410/410_7.jpg https://www.medicinalplants.in/slokaimages/410/410_8.jpg
+ocr_text: Patha alleviates atisara, sula, kapha, pitta and jvara. ISdn) पाठाउम्बष्ठाडम्बष्ठिका स्यात प्राचीना पापचेलिका पाठिका स्थापनी चैव श्रेयसी वृद्धिकर्णिका |l एकाष्ठीला कुचैली च दीपनी वरतिक्तका तिक्तपुष्पा बृहत्तिक्ता दीपनी त्रिशिरा मालवी च वरा देवी द्विदृङ्मिता IRjn ) Patha, ambashtha, ambashthika, pracina, papacelika, pathika, sthapani, sre yasi, vrdahakarnika, ekasthila, kucaili, dipani, varatiktaka, tiktapuspa, brhattikta, dipani, trisira, vrki, malavi, vara, devi, vrttaparni are the synonyms of patha. वृकी वृत्तपर्णी पाठा स्थैल्या स्थापनी तु वृद्धा चाश्मसुता वरा अम्बष्ठाडम्बष्ठका यूथा प्राचीनाडविद्धकर्णिका |l एकैषी त्रिशिरा देवी बृहत्तिक्ता वृकी रसा बृहत्तिक्ता पापचेली मालती वृकदन्त्यपि IKdn) Synonyms of patha are patha, stahilya, sthapani, vradha, asmasuta vara, ambhastha, ambhasthaka, yutha, pracina, aviddhakarnika, ekaishi, trisira, devi, brhattikta, vrki, rasa, papaceli, malati and vrkadanti. विषघ्नी सर्वशूलघ्नि वातपित्तजित् पाठा ज्वरप्रशमनी रक्तातीसारनाशनी Il IMdnl Patha alleviates visha, sarva sula, guma, vata, pitta, pacifes jvara, destroys rakta atisara. गुल्मघ्नी पाठोष्णा कटुका तीक्ष्णा वातश्लेष्महरी लघुः हन्तिशूलज्वरच्छर्दिकुष्ठातीसारहृद्रुजः || दाहकण्डुविषश्वासकृमिगुल्मगरव्रणान् (Bpn, Mpn) Patha is katu in rasa, tiksna, laghu in guna, usna in veeryza, alleviates vata ana slesma, cures sula, jvara, charai, kustha, atisara, hraruja, daha, Kandu, visa sva5a krmi, gulma, gara visha and vrana. पाठा तिक्तरसा वृष्या विष्घ्नी कुष्ठकण्डुनुत् छर्दिहृद्रोगज्वरजित त्रिदोषशमनी परा पाठाड तिसारशूलघ्नी कफपित्तज्वरापहा (Dhn) Patha is tikta in rasa, vrsya, alleviates kapha, pitta, visha, kustha, kandu, chardi , hrdroga, jvara, tridosha, atisara, sula and jvara पाठा तिक्ता गरुष्णा च वातपित्तज्वरापहा भग्नसन्धानकृत्पित्तदाहातीसारशूलहृत् IRjn) Patha is tikta in Jasa, guru in guna, usna in veerya, causes bhagna sanahana , alleviates vata, pitta, jvara, pacifies pitta, daha, atisara ana sula पाठा कटुका तीक्ष्णा लघुरुष्णा त्रिदोषहा हरत् कुष्ठज्वर च्छर्दिदाहातीसारहृद्रुजः II गुल्मकण्डूविषश्वासव्रणशूलगरकृमीन् | पाठाफलं पित्तहरं च शीतं कषायमाधुर्ययुतं गुरु स्यात् तस्यैव पत्रं त्वथ शीतविर्यं रूक्षं गुरुग्राहि निहन्ति मेहम् Il IKdnl Patha is katu in rasa, tiksna, laghu in guna, usna in veerya, alleviates triaosha , cures kustha, jvara, charai, daha, atisara, hrdruja, gulma, kandu, visa, sva5a vrana, sula, gara visha and krmi. Patha phala is Kashaya , madhura in rasa , in guna, sita in veerya and alleviates pitta. Its patra is ruksa , guru, in guna sita in veerya and cures meha Buru Brahi पाठा तिक्ता कटष्णा च भग्नसन्धानकारका तीक्ष्णा लघ्वी पित्तदाहशूलातीसारनाशिनी वातपित्तज्वरच्छर्दिविषाजीर्णत्रिदोषकान् हृद्रोगरक्तकुष्ठकण्डूश्वासकृमीन् जयेत् गुल्मोदरव्रणकफवातनाशकरी मता INir) Patha is tikta, katu in rasa, tiksna, laghu in guna, usna in veerya, causes bhagna sandhana, pacifies pitta, daha, sula, atisara cures vata pitta jvara, chardi, visa, ajirna, tridosha, hrdroga, rakta vikara, kustha, ati kandu, svasa, krmi, gulma, udara, vrana, kapha and vata

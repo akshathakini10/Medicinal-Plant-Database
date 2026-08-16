@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 07f9d4312033840770e30fc64583b56c
+Botanical Name: Ipomoea fastigiata (ROB.) SWEET
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ipomoea candicans SWEET
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. Tamil (5) - cunaivakini, cunaivakinikkoti, mucuttai, musuttai, panci2
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07f9d4312033840770e30fc64583b56c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07f9d4312033840770e30fc64583b56c/xclkon/8d6a59560799d4aef45aba0444a625b5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07f9d4312033840770e30fc64583b56c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07f9d4312033840770e30fc64583b56c/xclkon/8d6a59560799d4aef45aba0444a625b5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07f9d4312033840770e30fc64583b56c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

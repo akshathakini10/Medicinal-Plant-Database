@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e718dfa73689e820c75289c52d1bce2e
+Botanical Name: Premna barbata WALL.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Hindi (4) - baker, ginani, karandi, kota-khursi Sanskrit (1) - Sanskrit Comments  vasuka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e718dfa73689e820c75289c52d1bce2e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e718dfa73689e820c75289c52d1bce2e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vasuka
+sanskrit_name: वसुक
+transliteration: vasuka
+ref_drug_name: वसुक
+status: Most probable
+discussion: Cakrapani has identified this with another plant which may be Premna barbata
+reference: [1]
+
+Identity Record 2
+drug_name: Vasuka
+sanskrit_name: वसुक
+transliteration: vasuka
+ref_drug_name: वसुक
+status: Substituted source
+discussion: Cakrapani has interpreted it as 'Basuhattaka' which is identified with this species; It was used as its substitute
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

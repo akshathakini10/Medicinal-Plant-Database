@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ddade919c7ce0fa66821e9482e5d83e4
+Botanical Name: Mandragora autumnalis SPRENG.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Mandragora officinalis MILL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 5 languages. Hindi (2) - bhagener, lakmani Kannada (1) - lakshmana Sanskrit (4) - Sanskrit Comments  lakshamana, laksmana, putrada, raktavindu Tamil (2) - katal jati, katavjate Telugu (1) - kattai-jati
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddade919c7ce0fa66821e9482e5d83e4/xclkon/04e5d221197d4d405e70b7fdc766639d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddade919c7ce0fa66821e9482e5d83e4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddade919c7ce0fa66821e9482e5d83e4/xclkon/04e5d221197d4d405e70b7fdc766639d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddade919c7ce0fa66821e9482e5d83e4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddade919c7ce0fa66821e9482e5d83e4/xclkon/04e5d221197d4d405e70b7fdc766639d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Controversial
+discussion: With regard to its properties, Thakur Balwant Singh has correlated Laksmana to many species; Mandragora autumnalis is one of the suggested species
+reference: [5]
+
+Identity Record 2
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Most probable
+discussion: Taken into consideration as Laksmana as this species posseses similar fertility efficiency
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

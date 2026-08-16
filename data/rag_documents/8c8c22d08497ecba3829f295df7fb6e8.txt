@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8c8c22d08497ecba3829f295df7fb6e8
+Botanical Name: Kigelia africana (LAMK.) BENTH.
+Family: Bignoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Kigelia pinnata (JACQ.) DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 3 languages. English (1) - sausage-tree Kannada (2) - aanethoradu kaayi, mara sowthae Telugu (5) - enuga thondamu, jijiliyaarnattu, kijili, naagamalle, nagamalle
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c8c22d08497ecba3829f295df7fb6e8/xclkon/110057dc22cc2a2481a29e58c41c71ad
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c8c22d08497ecba3829f295df7fb6e8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c8c22d08497ecba3829f295df7fb6e8/xclkon/110057dc22cc2a2481a29e58c41c71ad
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

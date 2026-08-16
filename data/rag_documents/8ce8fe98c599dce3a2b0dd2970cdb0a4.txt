@@ -1,0 +1,101 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8ce8fe98c599dce3a2b0dd2970cdb0a4
+Botanical Name: Foeniculum vulgare GAERTN
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Anethum foeniculum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 89 Vernacular names found in 10 languages. English (4) - fennel, pastis, sweet fennel, wild fennel Hindi (8) - badi, badishep, bari saunf, barisaunf, saumph, saunf, sonp, sont Kannada (8) - badesopu, badhesoppu, badi-sopu, badisepu, badisopu, dodda jeerige, dodda sompu, sabbasige Malayalam (2) - perincirakam, perumjirakam Marathi (2) - badishep, fumh Sanskrit (34) - Sanskrit Comments  ahichhatra, avakapushpi, bhuripushpa, chhatra, gandhadhika, ghosha, ghoshawati, karavi, madhavi, madhura, madhuri, madhurika, mangalya, methica, mishreyaa, misi, misreya, potika, prthvika, pushpavha, sanghatapatrika, satahva, satapuspa, shaleya, shalina, shatapatrika, shataprasuna, shatapushpa, shitashiva, sugandha, supushpika, talaparni, trishahara, vanapushpa Tamil (10) - cokikkirai2, compu, kacicciram, perun siragum, perunjiragam, shombu, sohikirai, sohikire, sombu, sompu Telugu (6) - peddajeekaramu, peddajeela koora, peddajilakaramu, peddajilakarra, peddajilakurra, sopu Tibetan (2) - ma tog brgya pa, su ti Urdu (13) - arq badiyan, badi saunf, badiyan, badiyan (saunf), badiyan biryan, badiyan khatai, badiyan nim kofta, badyan, bikh badiyan, roghan badiyan, roghan-i-badyan, saunf, sonf
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4/xclkon/8c1670f57a0cf430b3edca88a30222dc
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4/xclkon/fb060b2f1511f35c03929900c038d705
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4/xclkon/8c1670f57a0cf430b3edca88a30222dc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4/xclkon/fb060b2f1511f35c03929900c038d705
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4/xclkon/8c1670f57a0cf430b3edca88a30222dc
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4/xclkon/fb060b2f1511f35c03929900c038d705
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4/xclkon/8c1670f57a0cf430b3edca88a30222dc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4/xclkon/fb060b2f1511f35c03929900c038d705
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4/xclkon/8c1670f57a0cf430b3edca88a30222dc
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4/xclkon/fb060b2f1511f35c03929900c038d705
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ce8fe98c599dce3a2b0dd2970cdb0a4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Misreya
+sanskrit_name: मिश्रेया
+transliteration: miśreyā
+ref_drug_name: मिश्रेया
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Misreya - prakara
+sanskrit_name: मिश्रेया प्रकार
+transliteration: miśreyā prakāra
+ref_drug_name: मिश्रेया प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Misreya - prakara
+sanskrit_name: मिश्रेया प्रकार
+transliteration: miśreyā prakāra
+ref_drug_name: मिश्रेया प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Satapuspa
+sanskrit_name: शतपुष्पा
+transliteration: śatapuṣpā
+ref_drug_name: शतपुष्पा
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

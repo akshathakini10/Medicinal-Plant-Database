@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 92478f184b06729a77ad133894a6ebb9
+Botanical Name: Dillenia indica L.
+Family: Dilleniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 66 Vernacular names found in 8 languages. Hindi (3) - chalta, girnar, kanigala Kannada (20) - betkanagalu, betta kanigala, bettakanagalu, bettakangala, bettakanigala, ganagalu, kaadu kanigala, kadkanagula, kal tega, kalthaega, kalthega, kanagalu, kanigala, muchhilu, muchiru, naaythaeku, naitaku, neyi vaakju, neyi-taaku, neyitaku Malayalam (9) - calita, chalita, pinnay, punna, syalita, valappunna, valapunna, vazchapunna, vazhapunna Marathi (7) - karambel, karmbel, mota karmal, motaakambal, motaakarmal, motakarmal, motakarmbal Sanskrit (3) - Sanskrit Comments  bhavya, bhavyam, ruvya Tamil (11) - akku, kattarali, kurukati, ugakkay, uka, uva, uvattekku, uvatteku, uvav, uvay 2, uvvattekku Telugu (12) - chalta, kaalinga, kalinga, muchiru, peda kalinga, pedda klinga, peddakalinga, revadi, revadi chettu, uppu ponna, uva, uvva Tibetan (1) - bha ba na
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92478f184b06729a77ad133894a6ebb9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhavya
+sanskrit_name: भव्य
+transliteration: bhavya
+ref_drug_name: भव्य
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Bhavya
+sanskrit_name: भव्य
+transliteration: bhavya
+ref_drug_name: भव्य
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 3
+drug_name: Bhavya
+sanskrit_name: भव्य
+transliteration: bhavya
+ref_drug_name: भव्य
+status: Controversial
+discussion: Presently it is identified with this species but by Dalhanas commentary it appears that it was a controversial plant during earlier times
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

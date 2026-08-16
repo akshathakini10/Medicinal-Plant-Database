@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4363b8d76a07b506e416768ec9f1e085
+Botanical Name: Garcinia pedunculata ROB.
+Family: Clusiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 3 languages. Malayalam (1) - nerinnampuli Sanskrit (2) - Sanskrit Comments  amlavetasa, amlavetasah Tibetan (5) - star bu, star bu (d), star zun, star-bu, tam bra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4363b8d76a07b506e416768ec9f1e085
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1030
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1030.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4363b8d76a07b506e416768ec9f1e085
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4363b8d76a07b506e416768ec9f1e085
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Amlavetasa
+sanskrit_name: अम्लवेतस
+transliteration: amlavetasa
+ref_drug_name: अम्लवेतस
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Amlavetasa
+sanskrit_name: अम्लवेतस
+transliteration: amlavetasa
+ref_drug_name: अम्लवेतस
+status: Accepted source
+discussion: In Gujarat this species is used as Amlavetasa and can be taken into consideration with regard to its properties which is similar as mentioned in the texts
+reference: [2]
+
+Identity Record 3
+drug_name: Amlavetasa
+sanskrit_name: अम्लवेतस
+transliteration: amlavetasa
+ref_drug_name: अम्लवेतस
+status: Accepted source
+discussion: Amlavetasa is identified with this species
+reference: [3]
+
+Identity Record 4
+drug_name: Amlavetasa
+sanskrit_name: अम्लवेतस
+transliteration: amlavetasa
+ref_drug_name: अम्लवेतस
+status: Most probable
+discussion: The fruit of Garcinia pedunculata is used as Amlavetasa in Bengal and Assam
+reference: [1]
+
+Identity Record 5
+drug_name: Amlavetasa
+sanskrit_name: अम्लवेतस
+transliteration: amlavetasa
+ref_drug_name: अम्लवेतस
+status: Suggested source
+discussion: Ancient samhitas have mentioned 'Amlavetasa' under the 'Amlavarga' (group of sour) and 'Phalavarga' (group of fruits) which resembles the 'Vetasa' tree whose fruits are sour; It has properties where in it has the ability to dissolve almost anything; With regard to the above properties they have suggested to use this species and use its fruits as 'Amlavetasa'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Amlavetasa
+sanskrit_name: अम्लवेतस
+transliteration: amlavetasa
+image_urls: https://www.medicinalplants.in/slokaimages/784/784_1.jpg https://www.medicinalplants.in/slokaimages/784/784_2.jpg https://www.medicinalplants.in/slokaimages/784/784_3.jpg https://www.medicinalplants.in/slokaimages/784/784_4.jpg
+ocr_text: कषायं कटु रूक्षोष्णमम्लवेतसकं विदुः तृट्कफानिलजन्त्वर्शोहृद्बाधाश्मरिगुल्मजित् Il (Dhn) It is kashaya, katu in rasa, ruksa in guna, usna in potency cures trt, kapha, anila, arsa, hrd badha, asmari and gulma. अम्लवेत्तसमत्यम्लं कषायोष्णञ्च वातजित कफार्शःश्रमगुल्मघ्नमरोचकहरं परम्II (Rjn) Amlavetasa is atyamla, kashaya in Tasa Lis1a in potency, vata hara, cures kapha, arsa, srama, gulma, adhmana and arocaka. अम्लवेतसमत्यम्लं भेदनं लघु दीपनम् हृद्रोगशूलगुल्मघ्नं पित्तलं लोमहर्षणम् |l रूक्षं विण्मूत्रदोषघ्नं प्लीहोदावर्तनाशनम् हिक्कानाहारुचिश्वासकासाजीर्णवमिप्रणुत् |l कफवातामयध्वंसि छागमांसद्रवत्वकृत् चणकाम्लगुणं ज्ञेयं लोहसूचीद्रवत्वकृत् II (Bpn) Amalvetasa is atyamla iz rasa, ruksa, laghu in guna, bhedana dipana, loma harsana, pittala, alleviates hrdroga, sula, gulma, T7111 mutra dosha, plila, udavarta, hikka, anaha, aruci, svasa, kasa, ajirna, vami, kapha vata maya hara if taken with mnaisa drava meat soup), and is of canakamla guna (chick pea), has the capacity to melt loha chaga (goat अम्लवेतसं भेदनीयदीपनीयानुलोमिकवातश्लेष्मप्रशमनानाम् (Ch SU २५. .३३ Atlavetasa bhedaniya, dipaniya, anulomnaka, vata slesma prasamana in karma.

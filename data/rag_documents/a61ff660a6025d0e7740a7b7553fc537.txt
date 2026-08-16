@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a61ff660a6025d0e7740a7b7553fc537
+Botanical Name: Nardostachys grandiflora DC.
+Family: Valerianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Nardostachys jatamansi DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 196 Vernacular names found in 10 languages. English (2) - nard, spikenard Hindi (13) - bal-chhar, balchhar, balchir, balchora, baluchar, jatalasi, jatamamsi, jatamansi, jatamashi, jatamasi, kanuchara, mansi, tatalasi Kannada (8) - ganigalamusthe, jataamonsi, jatamaansi, jatamamsi, jatamansi, jatamavashi, jatamavasi, jetamavashi Malayalam (6) - jatamamsi, jatamanchi, jatamanci, jeta-manchi, jetamanshi, manci Marathi (4) - baalchuda, jataamaamsi, jatamavshi, jatashankar Sanskrit (51) - Sanskrit Comments  akasamamsi, akashamansi, amritajata, bhutajata, bhutakeshi, bhytajata, chakravartini, gandhamansi, gauri, hinsra, jadamansi, janani, jata, jatala, jatamamsi, jatamansi, jatavali, jati, jatila, keshi, khasambhava, kiratini, kravyadi, krishnajata, laghumansi, limasha, mamsahvaya, mamsi, mansi, mansini, mata, mishika, misi, mrigabhaksha, nalada, parvatavasini, peshi, peshini, pishachi, pishita, putena, sevali, shvetakeshi, sugandhamamsi, sukshmajatamansi, sukshmapatri, sulomasa, sulomasi, tamasi, tapasvini, tapaswini Tamil (100) - cakkaravarttini, cakkiravarttini, carumanci, cata mancil, catacumirutam, catai1, cataimancil, cataiyamanci, catakirusna, catakirusnar, catamaci, catamancattini, catamanci, catamancil, cataputam, catilai, catilam, catilamancil, centu, centumancil, centutti, centutti1, cepalamam, ceppika, ceppikamancil, ceppitil, cepputil, cokkali, cokkali1#, cokkali1@, cokkalimancil, elam, elam2, irattapittacamani, jadamanji, jatamanci, jatamashi, jatamasi, kaccolam, kaccolam1, kantamanci, karpakam, karpakam1, kattikkorai, kentamancil, kiratini, kiratini@, kutalaccan, kutalaccankorai, kutalaccankori, kutavatikam, mamaci, mamici, mamjici, manci, mancil, muleram, nakuli, nakuli1, nalatai, nalataimanci, nalattam, nalattam@, nalattamancil, nalinamata, namattam, namattam#, namattam@, narattam, narattam1, nattuccatamanci, navattam, paicaci, paicacimancil, paruncay, parunkorai, pecivacikai, perungorai, perunkorai, picacci, picaci, picacicci, picacintan, picacu, picacumancil, piracci, putacacini, putakecani, putakecini, putaku, putakumancil, putam, putam 1, sadamanchil, sadamanjil, tapacuvini, toyatam, toyataram, ulocam, ulomacam Telugu (5) - jatamaamshi, jatamamshi, jatamamsi, jatamsi, nn Tibetan (4) - span spos, span spos dri zim po, span-pos, spu sel Urdu (3) - balchar, nardin, sumbul-ut-teeb
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537/xclkon/8e51c170f7947f9e380b1062cc0d0a9f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1498
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1498.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537/xclkon/8e51c170f7947f9e380b1062cc0d0a9f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537/xclkon/8e51c170f7947f9e380b1062cc0d0a9f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537/xclkon/8e51c170f7947f9e380b1062cc0d0a9f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61ff660a6025d0e7740a7b7553fc537/xclkon/8e51c170f7947f9e380b1062cc0d0a9f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

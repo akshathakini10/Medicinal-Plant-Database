@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c01c6c0d0a15bb0b8d0fcdea3f9c853d
+Botanical Name: Asplenium polyodon G. FORSTER
+Family: Aspleniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c01c6c0d0a15bb0b8d0fcdea3f9c853d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c01c6c0d0a15bb0b8d0fcdea3f9c853d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

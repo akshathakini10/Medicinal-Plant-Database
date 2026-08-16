@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ddaf27e6f3e104858d9b0cae48ddab01
+Botanical Name: Amaranthus tricolor L.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Amaranthus gangeticus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 106 Vernacular names found in 8 languages. English (2) - joseph s coat, tampala Hindi (8) - chaulai, chaulai sag, deokati, lal sag, lal-sag, lalnatiya, rajkiri, sarvari Kannada (14) - chikka harive soppu, chikkeere soppu, chivika soppu, dantina soppu, dantu, dantu palya, dantu soppu, geerakasaale, goraji, keerake saale, kempudantu soppu, kempuharive, kunambu, naeneyakki gida Marathi (10) - chavalaayi, chavli, domgli-bhaji, koordoo, pokla, ranmaath, tamdi-bhaji, tandulji, thambada maath, thandulajaa Sanskrit (11) - Sanskrit Comments  alpamarisa, ariki sira, ganna, jalaja, marisa, meghanada, mekanada, panyasaka, ramasitalika, tanduliya, tanduliyaka Tamil (47) - ancan, appulaki, appulakittantu, cankumutaki, cankumutakicceti, cenkirai-t-tantu, cerikkirai, chirukirai, ciru kirai, cirukirai, cittacantacceti, cittacantam, ilantantu, kalancakacceti, kalancu, karuvilatikam, katampam1@, killukkirai, kiraittantu, kullattantukkirai, mattuka, mattukattuantu, mulaikkirai, mulaittantu, mutikkirai, nilattantu, paccaki, paccakikkirai, pannai-k-kirai, pillaikkirai, pirati, piratikkirai, rocukkirai, rocukkiraittantu, sirukeerai, tantankirai, tantu1, tantukirai, tantuli1, tantulikkirai, thandukkeerai, thandukkirai, ulukattantucceti, ulukatttantu, utaivalaikkirai, valukkopikam, venkiraittantu Telugu (13) - bhadara, chiri koora, dant.v, dantu koora, doggalikoora, erra doggali koora, gurugu, kamulu, koyyatotakoora, perugu thotakoora, sirukoora, thotakoora, tota kura Urdu (1) - tukhm sarwali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/0b517da20077d624fa16c31d4bf69831
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/dc95088f4aed6f8430209d341dec548c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/0b517da20077d624fa16c31d4bf69831
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/dc95088f4aed6f8430209d341dec548c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/0b517da20077d624fa16c31d4bf69831
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/dc95088f4aed6f8430209d341dec548c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/0b517da20077d624fa16c31d4bf69831
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/2e2e171aedc0fdf3ca5d4fcd271d9f14
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01/xclkon/dc95088f4aed6f8430209d341dec548c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddaf27e6f3e104858d9b0cae48ddab01
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

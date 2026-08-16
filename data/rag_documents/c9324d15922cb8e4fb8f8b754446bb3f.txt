@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c9324d15922cb8e4fb8f8b754446bb3f
+Botanical Name: Blumeopsis falcata (D.DON) MERR.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Laggera flava BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9324d15922cb8e4fb8f8b754446bb3f/xclkon/ac0c7da46f825489cff2e7ee7e6ef03b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9324d15922cb8e4fb8f8b754446bb3f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9324d15922cb8e4fb8f8b754446bb3f/xclkon/ac0c7da46f825489cff2e7ee7e6ef03b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

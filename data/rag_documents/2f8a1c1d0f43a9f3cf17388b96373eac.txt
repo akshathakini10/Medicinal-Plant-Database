@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2f8a1c1d0f43a9f3cf17388b96373eac
+Botanical Name: Begonia luxurians SCHEIDW.
+Family: Begoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f8a1c1d0f43a9f3cf17388b96373eac
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f8a1c1d0f43a9f3cf17388b96373eac
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

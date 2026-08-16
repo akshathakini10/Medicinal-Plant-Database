@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1374570ed27ea547919d0637e0885186
+Botanical Name: Tiliacora acuminata MIERS
+Family: Menispermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Tiliacora racemosa COLEBR
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 38 Vernacular names found in 5 languages. Hindi (1) - bagamushada Kannada (1) - kuri balli Malayalam (4) - valli-caniram, vallikannimaram, vallikkanniram, vullycaniram Tamil (2) - nakamutti, perunkattukkoti Telugu (30) - adavi thamalapaaku, kappa teega, kappathige, kappatiga, kappatige, naagamushini, nagamusadi, nagamushini, nalla tige, nallathige, nallatige, paataeru, paatavaeru, pataveru, pateru, theega mushidi, thigemushini, tigamushadee, tigamushadi, tigamushini, tigamushti, tigemushidi, tigemushini, tivva mushini, tivvamushidi, tivvamusidi, verri chitramulamu, verrichithra moolamu, verricitramulamu, yerricitramolam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1374570ed27ea547919d0637e0885186/xclkon/ef8520fdf6908ad7accb4f56c425d54c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1374570ed27ea547919d0637e0885186
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1374570ed27ea547919d0637e0885186/xclkon/ef8520fdf6908ad7accb4f56c425d54c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1374570ed27ea547919d0637e0885186
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1374570ed27ea547919d0637e0885186/xclkon/ef8520fdf6908ad7accb4f56c425d54c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9cb904855a72c0103ad947cad38c467d
+Botanical Name: Crepidium acuminatum (D.DON) SZLAC.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Malaxis acuminata D.DON
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 7 languages. Hindi (1) - jivak Kannada (1) - jivaka Malayalam (1) - jivakam Sanskrit (2) - Sanskrit Comments  jivaka, jivakah Tamil (1) - jivakam Telugu (1) - jivakamu Tibetan (1) - zans rtsi ba
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9cb904855a72c0103ad947cad38c467d/xclkon/56ab45dcc2515ed07be7b7a0485c23e5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 7559
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/7559.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9cb904855a72c0103ad947cad38c467d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9cb904855a72c0103ad947cad38c467d/xclkon/abf16a32e47a7e2de821c8aeda3f4fc4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9cb904855a72c0103ad947cad38c467d/xclkon/5f094693baa20ce3d5f3250e2add0aed
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9cb904855a72c0103ad947cad38c467d/xclkon/56ab45dcc2515ed07be7b7a0485c23e5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9cb904855a72c0103ad947cad38c467d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9cb904855a72c0103ad947cad38c467d/xclkon/abf16a32e47a7e2de821c8aeda3f4fc4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9cb904855a72c0103ad947cad38c467d/xclkon/5f094693baa20ce3d5f3250e2add0aed
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9cb904855a72c0103ad947cad38c467d/xclkon/56ab45dcc2515ed07be7b7a0485c23e5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

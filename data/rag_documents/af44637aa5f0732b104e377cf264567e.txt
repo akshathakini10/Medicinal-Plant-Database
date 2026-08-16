@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: af44637aa5f0732b104e377cf264567e
+Botanical Name: Murraya koenigii (L.) SPR.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Bergera koenigii L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 128 Vernacular names found in 8 languages. English (1) - curry leaf Hindi (16) - bursunga, gadhelu, gadhelu/gandla, gandela, gandhela, gandhla, gandla, gani, ganuhilu, harri, karaypak, kathnim, katnim, kudia-nim, mitha-nim, mithanim Kannada (15) - besoppu, gandha baevu, gandha bevu, gandhabevu, kakibevu, karabeaevu, karbaevu, karepak, kari-bevinagida, karibaevina mara, karibaevu, karibevana, karibevu, karivebu, oggarane yele mara Malayalam (14) - kareapela, karepak, kari-bepau, karibepou, karivaepu, kariveppu, karivepu, kariyapala, karrayapela, karu-veppa, karuvepilai, karuveppu, maricangam, mirsingam Marathi (15) - gandha, gandla, godanimb, jhirang, jirani, kadhee-nimba, kadhi-nim, kadhianimba, kadi-nimb, kadiben, karepacha, karhinimb, karipat, kudianim, puspala Sanskrit (25) - Sanskrit Comments  alakavhaya, chhardighna, girinimba, kadarya, kaidarya, kaidaryah, kaitarya, kalasaka, kalasakah, krishnanimba, krishnapatabhinimba, kristnanimba, kristnanimbao, mahanimba, maharishta, nimba-patram, nimba-vrkshaha, nimbapatra, priyasala, ra, raman, shuklasara, surabhi, surabhi-nimbu, varatikta Tamil (24) - enneykkarai 1, karaway pillay, kari-vembu, karivembu, karivempu, kariveppilai, kariveppilaimaram, kariyanimpam, kariyapilai, kariyapilai#, kariyapilai@, karu-vembu, karu-veppilai, karupalai, karuppilai 1, karuvembu, karuvempu, karuveppilai, karuveppu, kattuveppilai, kattuveppilai 1, nattukkariveppilai, uluvavikacceti, uluvavikam Telugu (18) - kaliama, karempaku, karepak, karepaku, karepeku, karevepa, kari-vepa-chettu, karimpaku, karivaepamu, karivapaku, karivempu, karivemu, karivepa, karivepaku, karivepamu, karrivaympakoo, karsepak, karuvepaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e/xclkon/b80bfccd045e39bc363e7abfdc978ca6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e/xclkon/b80bfccd045e39bc363e7abfdc978ca6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e/xclkon/b80bfccd045e39bc363e7abfdc978ca6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af44637aa5f0732b104e377cf264567e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kaidarya
+sanskrit_name: कैडर्य
+transliteration: kaiḍarya
+ref_drug_name: कैडर्य
+status: Controversial
+discussion: This has been interpreted to various plant names; Correlation to Murraya koenigii might be a possibility
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

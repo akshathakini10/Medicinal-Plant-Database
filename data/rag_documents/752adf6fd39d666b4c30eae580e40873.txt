@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 752adf6fd39d666b4c30eae580e40873
+Botanical Name: Smilax glabra ROB.
+Family: Smilacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. Hindi (3) - bari-chob-chini, bari-chobchini, barichobchini Sanskrit (1) - Sanskrit Comments  copacini Tamil (1) - parangipattai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/752adf6fd39d666b4c30eae580e40873
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/752adf6fd39d666b4c30eae580e40873
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Copacini
+sanskrit_name: चोपचीनी
+transliteration: copacīnī
+ref_drug_name: चोपचीनी
+status: Substituted source
+discussion: This species is used as a substitutein India
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ff6ef7465e1a7c1f7d18e4f8d289391e
+Botanical Name: Elaeocarpus oblongus GAERTN.
+Family: Elaeocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 4 languages. Kannada (5) - bike, bikki, hanaltadi, hanillatade, hennalalade Malayalam (3) - kattakara, malamkara, malankara Marathi (1) - kasa Tamil (1) - malankarai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff6ef7465e1a7c1f7d18e4f8d289391e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff6ef7465e1a7c1f7d18e4f8d289391e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff6ef7465e1a7c1f7d18e4f8d289391e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

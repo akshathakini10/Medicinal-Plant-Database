@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dbed130dea67853f9a26cc0bb92e4b8c
+Botanical Name: Pleiospermium alatum (WALL. E WT. & ARN.) SURINGLE.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hesperethusa alata (W. & A.) ALST
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 3 languages. Kannada (2) - kaadu bilvapathre, naayi baela Tamil (9) - karineyam, karineyamaram, kasturinarattai, kattelumiccai2, kurankuntaki, kurankuntakimaram, talavaccimaram, talavacciramaram, ukirccarikai Telugu (3) - kondanimma, munukundu, nalla munukundu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbed130dea67853f9a26cc0bb92e4b8c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbed130dea67853f9a26cc0bb92e4b8c/xclkon/e7afe9186acefb5f24fcde2179db1696
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbed130dea67853f9a26cc0bb92e4b8c/xclkon/7da29db177dc72b1e48bdaf47d433848
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbed130dea67853f9a26cc0bb92e4b8c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbed130dea67853f9a26cc0bb92e4b8c/xclkon/e7afe9186acefb5f24fcde2179db1696
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbed130dea67853f9a26cc0bb92e4b8c/xclkon/7da29db177dc72b1e48bdaf47d433848
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbed130dea67853f9a26cc0bb92e4b8c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

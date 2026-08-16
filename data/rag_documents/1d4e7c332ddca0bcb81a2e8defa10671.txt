@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1d4e7c332ddca0bcb81a2e8defa10671
+Botanical Name: Mentha sylvestris L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 4 languages. Hindi (2) - pahadi pudina, podina Marathi (1) - pudina Sanskrit (10) - Sanskrit Comments  ajirnahara, pudina, putiha, rochani, ruchishya, shakashobhana, sphurdana, sugandhipatra, vantihara, vyanjana Urdu (1) - mushktara mushi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1d4e7c332ddca0bcb81a2e8defa10671
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1d4e7c332ddca0bcb81a2e8defa10671
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1d4e7c332ddca0bcb81a2e8defa10671
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

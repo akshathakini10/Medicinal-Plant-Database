@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 286afce510671abfbbf606395906a9c0
+Botanical Name: Euphorbia tirucalli L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 132 Vernacular names found in 8 languages. English (1) - tirucalli rubber Hindi (16) - angli thor, anglithor, barki-sehund, barki-thohar, gangli-thor, konpahlsehnd, konpal, konpal-sehnd, sehnd, sehnr, sehud, sehund, sendh, shirthohar, sindh, thohra Kannada (32) - bonta-kalli, bontakalli, bontekalli, bottu kalli, bottugalli, jiggalli, jiggu kalli, kadunevali, kalli, kodekalli, kodu galli, kodugalli, kodukalli, kolu galli, kolu kalli, kolugalli, kolukalli, mondugalli, mondukalli, mundugalika, mundugalli, munukalli, nandu galli, nandugalli, nandukalli, nundugalli, paccanegalli, pacchaneballi, pachan, pachanegalli, taria, yellegulla Malayalam (11) - guda, kalli, kateruma, katerumakkalli, katterumakkalli, kol-kalli, kolkalli, tirucalli, tiruk-kalli, tirukalli, tirukkalli Marathi (13) - kada nivali, nevli, nirval, nival, nivla, portugali, seyr, seyrteg, shar, shera, tej, thuvar, vajraduhu Sanskrit (14) - Sanskrit Comments  bahukshira, dandasruha, dandathuhara, dugdhika, ganderi, kampillaka, satala, snuhi, snuk, snuka, trikantaka, trikuntaka, vajradruma, vajravrksah Tamil (21) - cakkalavi, catukalavi, kalli, kalli kiri, kalli-kombu, keeri, kombu-kalli, kombukkalli, kompukkalli, pachankalli, parchanu, thirugukalli, tiru-kalli, tirucalli, tirugu-kalli, tirukalli, tirukkalli, tiruku, tiruku-k-kalli, tirukukalli, tiruvatti Telugu (24) - cemudu, chemadu, chemudu, jamudu, jemudu, jemudu-kadalu, kaadu jemmudu, kada-jemudu, kadajamudi, kadujemudu, kalli, kanchi jemudu, kancijemudu, kanji jemudu, kanjijemudu, kundigi, manchi jamudu, pullajeedikada, pullakada, sanna jemudu, sannajamudu, sannajemudu, thirugu jemmudu, thirukalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286afce510671abfbbf606395906a9c0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Saptala
+sanskrit_name: सप्तला
+transliteration: saptalā
+ref_drug_name: सप्तला
+status: Most probable
+discussion: Taken into consideration with regard to its characteristic features
+reference: [1]
+
+Identity Record 2
+drug_name: Snuhi
+sanskrit_name: स्नुही
+transliteration: snuhī
+ref_drug_name: स्नुही जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Snuhi - jati
+sanskrit_name: स्नुही जाति
+transliteration: snuhī jāti
+ref_drug_name: स्नुही जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Snuhi
+sanskrit_name: स्नुही
+transliteration: snuhī
+image_urls: https://www.medicinalplants.in/slokaimages/707/707_1.jpg https://www.medicinalplants.in/slokaimages/707/707_2.jpg https://www.medicinalplants.in/slokaimages/707/707_3.jpg
+ocr_text: सेहुण्डको रसे तिक्तो गुरूष्णः कफवातजित् दुष्टव्रणाश्मरीं हन्ति तथा वातविशोधनः | | स्नुहीक्षीरं विषाडडमगुल्मोदरहरं परम् स्नुही रस्षु तिक्ता च गुरूष्णा कफवातजित् IDhn) Sehunaaka is tikta in rasa, guru in guna usna in veerya , vata sodhana alleviates kapha, vata, dusta vrana and asmari. Snuhiksira alleviates visha, ama, gulma and udara Snuhi rasa is tikta in rasa, guru in guna, usna in veerya, alleviates kapha vata and स्नुहिरुष्णा ष्ठवातप्रमेहनुत् क्षीरं वातविषाउडध्मानगुल्मोदरहरं परम् स्नुहिरन्या त्रिधारा स्यात् तिस्रो धारास्तु यत्र सा| पूर्वोक्तगुणवत्येषा विशेषाद् रसाद्धिदा IRjn Snuhi is usna in veerya , alleviates pitta, daha, kustha, vata and prameha Ksira alleviates vata, visha, aahmana, gulma and uaara Snuhi anya is triahara which hastri dhara ana is similar to the above but is rasa adhika. पित्तदाकु स्नुक्पयः तीक्ष्णविरेचनानाम् (चरकसंहिताया दृढबलः) Snuk payaha is tiksna virecana.
+
+Shloka Record 2
+drug_name: Snuhi - jati
+sanskrit_name: स्नुही जाति
+transliteration: snuhī jāti
+image_urls: https://www.medicinalplants.in/slokaimages/707/707_1.jpg https://www.medicinalplants.in/slokaimages/707/707_2.jpg https://www.medicinalplants.in/slokaimages/707/707_3.jpg
+ocr_text: सेहुण्डको रसे तिक्तो गुरूष्णः कफवातजित् दुष्टव्रणाश्मरीं हन्ति तथा वातविशोधनः | | स्नुहीक्षीरं विषाडडमगुल्मोदरहरं परम् स्नुही रस्षु तिक्ता च गुरूष्णा कफवातजित् IDhn) Sehunaaka is tikta in rasa, guru in guna usna in veerya , vata sodhana alleviates kapha, vata, dusta vrana and asmari. Snuhiksira alleviates visha, ama, gulma and udara Snuhi rasa is tikta in rasa, guru in guna, usna in veerya, alleviates kapha vata and स्नुहिरुष्णा ष्ठवातप्रमेहनुत् क्षीरं वातविषाउडध्मानगुल्मोदरहरं परम् स्नुहिरन्या त्रिधारा स्यात् तिस्रो धारास्तु यत्र सा| पूर्वोक्तगुणवत्येषा विशेषाद् रसाद्धिदा IRjn Snuhi is usna in veerya , alleviates pitta, daha, kustha, vata and prameha Ksira alleviates vata, visha, aahmana, gulma and uaara Snuhi anya is triahara which hastri dhara ana is similar to the above but is rasa adhika. पित्तदाकु स्नुक्पयः तीक्ष्णविरेचनानाम् (चरकसंहिताया दृढबलः) Snuk payaha is tiksna virecana.

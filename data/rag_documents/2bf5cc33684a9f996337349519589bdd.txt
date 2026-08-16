@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2bf5cc33684a9f996337349519589bdd
+Botanical Name: Cyperus iria L.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 4 languages. English (2) - rice blat sedge, umbel sedge Hindi (1) - moth Kannada (1) - dadde jambu hullu Tamil (1) - yanaikkitti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf5cc33684a9f996337349519589bdd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf5cc33684a9f996337349519589bdd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf5cc33684a9f996337349519589bdd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

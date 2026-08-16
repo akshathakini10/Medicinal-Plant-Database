@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 32c022c721b9d9d84162eeaabfbf1e7e
+Botanical Name: Hopea odorata ROB.
+Family: Dipterocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. English (1) - thingan Kannada (7) - bili thirupu, bilitirpa, bilitirupu, kalguggila, kallu raala, kalluguggula, kallurala Malayalam (2) - urappimpasa, urappinpasha Tamil (2) - urappupppicin, uruppa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32c022c721b9d9d84162eeaabfbf1e7e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32c022c721b9d9d84162eeaabfbf1e7e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32c022c721b9d9d84162eeaabfbf1e7e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

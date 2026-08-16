@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6a51729911963f4064aefbef2dd454a7
+Botanical Name: Uraria rufescens (DC.) SCHINDL.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Uraria hamosa WALL. E WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  salaparni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a51729911963f4064aefbef2dd454a7
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2155
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2155.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a51729911963f4064aefbef2dd454a7/xclkon/06e274c6c293a5a52b1f3885c379e3ef
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a51729911963f4064aefbef2dd454a7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a51729911963f4064aefbef2dd454a7/xclkon/06e274c6c293a5a52b1f3885c379e3ef
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a51729911963f4064aefbef2dd454a7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

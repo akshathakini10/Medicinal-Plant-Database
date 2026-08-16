@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d3941028b6c5eefb0cce88aa2b672d52
+Botanical Name: Diospyros peregrina (GAERTN.) GURKE.
+Family: Ebenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Diospyros embryopteris PERS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 186 Vernacular names found in 8 languages. English (1) - gaub tree Hindi (11) - gab, gabh, gaub, kala tendu, kala-tendu, kalatendu, make-tendu, makurkendi, taindu, tedu, tendu Kannada (50) - antena, antina, antina mara, banda, bandada, bandada mara, bandadamara, bantha, bhanda, buntha, gavandu, guvandu, hagna, haine, higa, hige, hige bandha, higebanda, higebantha, higebuntha, hole thumri, holehoopare, holethumri, holetupare, holetupra, holletupara, holletupra, hulitumri, jagala mara, jole thumri, kaaka thoopra, kakadhupada, kakutupare, kasure, kusha ratha, kusharada, kusharta, kusthure, kusure, olle thumpare, olletupra, tapasi, tappasi, thinduka, thumaaree, thumuki, tubare, tumaki, tumburu, tupare Malayalam (15) - panacca, panacci, panachi, pananci, paniccha, panicci, panich-chi, panicha, panichi, panitsjika, panitsjika-maram, vananchi, vananchik-ka-maram, vananci, vananji Marathi (8) - maakada kaendi, tembiri, temburani, themburni, thimburi, thimbwini, timar, timbursi Sanskrit (34) - Sanskrit Comments  anilsara, asitakaraka, asitasaraka, atimuktaka, dantasatha, kalaskanda, kalaskandha, kendu, krishnasara, krishnatvaka, nilasara, rava, ravana, saphurjak, sheetisarak, shitisaraka, sindica, sindika, sphurjaka, sphurjana, spurjaka, srishta, susara, svaryaka, syandana, syandanavhaya, tinduka, tindukah, tindukaha, tinduki, tindula, tuvara, virala, virupaka Tamil (35) - karuntali, kattatti, kavikattai, panaicai, panaiccai, paniccai, paniccaikkay, paniccaimaram, paniccakay, paniccakkay, paniccankay, paniccikkay, panichai, panichekai, panichi, panicika, panickcki, pattuppalam#, pattuppalam@, pattuppallam, thumbilikkai, thumblik kay, tumbi, tumbika, tumbilik-kay, tumika, tumpi, tumpi 3, tumpi maram, tumpika, tumpikarumpu, tumpikkay, tumpilikkay, tumpimaram, tuvarai Telugu (32) - elosu, erutumiki, etithummika, etitummika, gaabu, gabu, muttiatumiki, neelithumiki, nilitumiki, nirutumiki, nititumiki, nititunika, nitta tumiki, nittatummi, nitutumilka, racha-tumiki, thinduki, thubiki, thumiki chettu, thummika, thunduki, thuniki, thunki, tinduki, tubiki, tubuki, tumika, tumiki, tumikichettu, tumil, tummi, tummika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/63650f9cbf0b91db92f726bdc84961fe
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/dcb52e7379b8847f564c0022d02ac89f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/63650f9cbf0b91db92f726bdc84961fe
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/dcb52e7379b8847f564c0022d02ac89f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/63650f9cbf0b91db92f726bdc84961fe
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/dcb52e7379b8847f564c0022d02ac89f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/63650f9cbf0b91db92f726bdc84961fe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/dcb52e7379b8847f564c0022d02ac89f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3941028b6c5eefb0cce88aa2b672d52/xclkon/c8677d946f3b5713622cbf021911108b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tinduka
+sanskrit_name: तिन्दुक
+transliteration: tinduka
+ref_drug_name: तिन्दुक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Tinduka
+sanskrit_name: तिन्दुक
+transliteration: tinduka
+ref_drug_name: तिन्दुक
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tinduka
+sanskrit_name: तिन्दुक
+transliteration: tinduka
+image_urls: https://www.medicinalplants.in/slokaimages/625/625_1.jpg https://www.medicinalplants.in/slokaimages/625/625_2.jpg https://www.medicinalplants.in/slokaimages/625/625_3.jpg https://www.medicinalplants.in/slokaimages/625/625_4.jpg
+ocr_text: स्यादामं तिन्दुकं ग्राहि वातलं शीतलं लघु | पक्वं पित्तप्रमेहास्रश्लेष्मघ्नं मधुरं गुरु|| (Bpnl Tinduka ama phala is grahi, laghu in guna, sita in virya and alleviates vata Pakva phala is madhura in rasa, guru in guna, alleviates pitta, asra and slesma, cures prameha. तिन्दुकस्तु कषायः स्यात् संग्राही वातकृत् परः पक्वस्तु मधुरः स्निग्धो श्लेष्मलो गुरुः Il KRjnl Tinduka is kashaya in rasa, sangrahi and increases vata. Pakva phala is madhura in rasa , snigaha, guru in guna, durjara and slesmala दुर्जरः तुन्दुकं कफपित्तघ्नं कषायं मधुरं लघु| | चरक सू॰ २७ Tinduka is kashaya, madhura in rasa, laghu in guna, alleviates kapha ana pitta तिन्दुकम् अनन्नद्रव्यरुचिकराणां श्रेष्ठम् चरक सू॰ २६ Tinduka is srestha anna dravya ruci kara.

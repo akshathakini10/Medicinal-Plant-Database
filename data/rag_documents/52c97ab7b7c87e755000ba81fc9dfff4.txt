@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 52c97ab7b7c87e755000ba81fc9dfff4
+Botanical Name: Cyperus brevifolius (ROTTB.) HASSK.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Kyllinga brevifolia ROTTB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. English (1) - mat sedge Marathi (1) - musta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c97ab7b7c87e755000ba81fc9dfff4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c97ab7b7c87e755000ba81fc9dfff4/xclkon/87ed14c67011144ea613c197bd282618
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c97ab7b7c87e755000ba81fc9dfff4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

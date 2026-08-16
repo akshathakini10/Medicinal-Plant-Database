@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b0e444016bd94be1d33120cfd5e8fde3
+Botanical Name: Alstonia venenata R.BR.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 5 languages. Kannada (2) - adda sarpa, addasarpa Malayalam (3) - analivegam, othalam, theeppala Sanskrit (3) - Sanskrit Comments  anadana, raja-adana, visaghni Tamil (2) - palamunnipalai, sinnappalai Telugu (3) - edaakula paala, edakula pala, gandu ganneru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b0e444016bd94be1d33120cfd5e8fde3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 139
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/139.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b0e444016bd94be1d33120cfd5e8fde3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b0e444016bd94be1d33120cfd5e8fde3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

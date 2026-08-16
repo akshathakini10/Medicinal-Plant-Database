@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8be9312fdfcd1a853f95e4334d861161
+Botanical Name: Rosa brunonii LINDL.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Rosa moschata HERRM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 22 Vernacular names found in 4 languages. English (1) - musk rose Hindi (19) - bal gulab, balgulab, ban, ban gulab, gulab, jujja, karer, karer/bangulab, kuja, kujai, kujas, kujen, kujh, kujh kunj, kunga, kunj, kunja, van gulab, yal Sanskrit (1) - Sanskrit Comments  kubjaka Tamil (1) - catapattiri 2
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 4528
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/4528.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8be9312fdfcd1a853f95e4334d861161/xclkon/d7f82b84efd9ab450a978426594ddf86
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

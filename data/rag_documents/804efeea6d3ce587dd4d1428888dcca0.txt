@@ -1,0 +1,73 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 804efeea6d3ce587dd4d1428888dcca0
+Botanical Name: Nicotiana tabacum L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Nicotiana macrophylla SPRENG.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 93 Vernacular names found in 9 languages. English (1) - tobacco Hindi (12) - bhambakhu, bujjerbhang, hoge-soppu, tamakhu, tamaku, tamarkut, tambaka, tambakhu, tambaku, tampaku, tanbaku, tumak Kannada (7) - beedi hoorana yele, cigaretu yele gida, hoge soppu, hogesappu, hogesoppu, tambaku, thambaaku Malayalam (4) - pokala, puka-yila, pukayil, pukayila Marathi (5) - pan, tamaku, tambaku, thamaaku, thambaaku Sanskrit (16) - Sanskrit Comments  dhumapatram, dhumrapatra, dhumrapatrika, gucchaphala, kalanja, krimighni, ksarapatra, ksharapatra, tamakhu, tamakhuh, tamala, tamrakuta, tamrakuttika, tamraparna, vajrabhringi, vajrabhrngi Tamil (40) - auritayavilai, avipattiram, avippattiram, biramam, birammapattiram, inkariyam, irutticinkam, kanananti, kanananti@, kariyakoracceti, kariyakoram, karuncurai2@, kentuvalikacceti, kentuvalikam, koram1, kotikkaraiccerivu, maccankolli, maccankollicceti, nattuppukaiyilai, paccai pukaiyilai, paittiyankari, piramam, piramapattiram, piramapattiri, piramma pattiram, pittakori, poghei elley, pugai elai, pugai-ilai, pugaielai, pugaiyilai, pugaiyilay, puhaiyilai, pukaiyilai, pukaiyilaicceti, pukayilai, talaipatan, tattirukki, tumam, velathi-chedi Telugu (6) - dhoomrapathramu, dhumra-patramu, dhumrapatramu, poga aku, pogaaku, pogaku Urdu (2) - tambaku, tambaku surti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0/xclkon/cce6a66ccdd41d3dc801626382ee2a92
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0/xclkon/cce6a66ccdd41d3dc801626382ee2a92
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0/xclkon/cce6a66ccdd41d3dc801626382ee2a92
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0/xclkon/cce6a66ccdd41d3dc801626382ee2a92
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0/xclkon/cce6a66ccdd41d3dc801626382ee2a92
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/804efeea6d3ce587dd4d1428888dcca0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tamraparna
+sanskrit_name: ताम्रपर्ण
+transliteration: tāmraparṇa
+ref_drug_name: ताम्रपर्ण
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Tamraparna - jati
+sanskrit_name: ताम्रपर्ण जाति
+transliteration: tāmraparṇa jāti
+ref_drug_name: ताम्रपर्ण
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

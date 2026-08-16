@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5985d26252cb595ae36b28ff3bc7cf27
+Botanical Name: Pennisetum flaccidum GRISEB.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Hindi (2) - phark, phirki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5985d26252cb595ae36b28ff3bc7cf27
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5985d26252cb595ae36b28ff3bc7cf27
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

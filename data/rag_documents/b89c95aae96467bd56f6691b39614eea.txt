@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b89c95aae96467bd56f6691b39614eea
+Botanical Name: Agropyron repens BEAUV.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 1 languages. English (4) - couch grass, dog grass, quack grass, witchgrass
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b89c95aae96467bd56f6691b39614eea
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b89c95aae96467bd56f6691b39614eea
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b89c95aae96467bd56f6691b39614eea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

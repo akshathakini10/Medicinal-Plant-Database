@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a8e45e0c947b54ff55829326cce9168e
+Botanical Name: Amorphophallus paeoniifolius (DENNST.) NICOLSON var. campanulatus (DECNE.) SIVADASAN
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Amorphophallus campanulatus BLUME E DECNE Arum campanulatum ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 99 Vernacular names found in 8 languages. Hindi (10) - alu, gandira, jamikand, jangli suran, kanda, madana masta, suran, suran-kand, zamin-kand, zaminkand Kannada (5) - choorana, choorana gedde, gandira, kanda gedde, suvarna-gadde Malayalam (4) - cena, cinapavu, karunakarang, kizhanna Marathi (2) - sooran, suran Sanskrit (31) - Sanskrit Comments  alu, arsaghna, arshoghna, arsoghna, bahukanda, durnamari, kanda, kandala, kandanayaka, kandarha, kandashurana, kandi, kandula, kandvardhana, kanthalla, kunda, ola, olla, rutchyakanda, sala, sthulakandaka, sukandi, surana, suranah, suranaka, suranakanda, suvitra, tivrakantha, vajrakanda, vajrandi, vatari Tamil (31) - anaittantu, boomi sallaraikilangu, camattilai, cenai, cirramitakkarunai, curanam@, kantai, karak karunai, karak-karunai, karakarunai, karakkaranai, karanai 3, karanaikkilanku, karikkarunai, karukkarunaikkilangu, karuna kalang, karunai 1, karunai kizhangu, karunai-k-kilanku, karunai-t-tantu, karunaikkalang, karunaikkilhangu, karunaikkishangu, karunaippala, kiccilikkizanku, malaiyalaccenaikkilanku, perunkarunai, pulikkarunai, senai kizhangu, taittiyamatanacceti, taittiyamatanam Telugu (15) - alukamu, daradakandagadda, duladumpa, ghemikanda, kanda, kandagodda, manchi kanda, manchi-kindaguddae, manchikanda, naati kanda, oorakanda, paati kanda, poti-kunda, potikanda, thiya-kandha Urdu (1) - zaminqand
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/9f25acfde30909e039a1892d43818729
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 165
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/165.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/0c92e068c67a38f36a9c98751792431a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/9f25acfde30909e039a1892d43818729
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/0c92e068c67a38f36a9c98751792431a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/9f25acfde30909e039a1892d43818729
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/0c92e068c67a38f36a9c98751792431a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/9f25acfde30909e039a1892d43818729
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/0c92e068c67a38f36a9c98751792431a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8e45e0c947b54ff55829326cce9168e/xclkon/9f25acfde30909e039a1892d43818729
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Surana
+sanskrit_name: सूरन
+transliteration: sūrana
+image_urls: Not available
+ocr_text: Not available

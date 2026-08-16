@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2fde1dd99b305c7a3cfd4d970e14c2b6
+Botanical Name: Lycopodium clavatum L.
+Family: Lycopodiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 2 languages. English (9) - clubfoot moss, clubmoss, foxtail, ground pine, running clubmoss, staghorn, staghorn moss, vegetable sulfer, vegetable sulphur Marathi (1) - bendarli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2fde1dd99b305c7a3cfd4d970e14c2b6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2fde1dd99b305c7a3cfd4d970e14c2b6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2fde1dd99b305c7a3cfd4d970e14c2b6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

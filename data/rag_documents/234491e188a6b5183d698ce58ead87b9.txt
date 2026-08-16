@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 234491e188a6b5183d698ce58ead87b9
+Botanical Name: Ipomoea dissecta WILLD.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ipomoea coptica (L.) ROTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Tamil (1) - siru-thali-kodi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/234491e188a6b5183d698ce58ead87b9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/234491e188a6b5183d698ce58ead87b9/xclkon/522c57c0ce5897f47a38f8bbeb787107
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/234491e188a6b5183d698ce58ead87b9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/234491e188a6b5183d698ce58ead87b9/xclkon/522c57c0ce5897f47a38f8bbeb787107
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/234491e188a6b5183d698ce58ead87b9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

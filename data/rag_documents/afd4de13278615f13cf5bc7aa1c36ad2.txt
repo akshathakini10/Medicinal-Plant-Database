@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: afd4de13278615f13cf5bc7aa1c36ad2
+Botanical Name: Paspalum scrobiculatum L.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Paspalum scrobiculatum L. var. commersonii STAPF
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 85 Vernacular names found in 10 languages. English (2) - kodo millet, rice grass Hindi (7) - koda, kodaka, kodava, kodnu, kodo, kodra, paplya Kannada (12) - aaraka, arike, baraga, baragu, haaraka, haaraka akki, haaraka hullu, haarike, haraka, harakuhullu, harik, harike Malayalam (1) - varaku Marathi (5) - hareek, harik, kodra, kodru, pakad Sanskrit (12) - Sanskrit Comments  koddara, kodrava, kodravah, koradusa, koradusha, kordrava, krodava, kuddala, madanagraka, uddala, uddalaka, vanakodrava Tamil (28) - camai3, camarutaccivaram, cantirakikam, cantirakikavarici, catcamam, cavan2, kanakatti, kattuvaragupullu, kattuvargupullu, kevaaiyam, kiraruga, korattusam, kottiram4, kottiravam, kuranpul, macaccittiram, munipaka, nattiyosam, panivaraku, payarranku, piccakam, punal, puttakam, tottiravam, vapitam, varagu, varaku, varavu Telugu (15) - allu, alu, arige chettu, arikalu, arike, arikelu, aruga, arugu, asakalu, kiraruga, nalea, niraaruga, nita-ari-gaddi, paata arige chettu, pataarige Tibetan (2) - khre dan ci tse, tsa tse Urdu (1) - kodon
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2/xclkon/d5b1b7d476fe278c20d0f5f6899de8c6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2/xclkon/d5b1b7d476fe278c20d0f5f6899de8c6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2/xclkon/d5b1b7d476fe278c20d0f5f6899de8c6
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2/xclkon/d5b1b7d476fe278c20d0f5f6899de8c6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2/xclkon/d5b1b7d476fe278c20d0f5f6899de8c6
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/afd4de13278615f13cf5bc7aa1c36ad2/xclkon/d5b1b7d476fe278c20d0f5f6899de8c6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kodrava
+sanskrit_name: कोद्रव
+transliteration: kodrava
+ref_drug_name: कोद्रव
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Kodrava
+sanskrit_name: कोद्रव
+transliteration: kodrava
+ref_drug_name: कोद्रव
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Uddalaka
+sanskrit_name: उद्दालक
+transliteration: uddālaka
+ref_drug_name: उद्दालक
+status: Accepted source
+discussion: Uddalaka is correlated to this species
+reference: [2]
+
+Identity Record 4
+drug_name: Uddalaka
+sanskrit_name: उद्दालक
+transliteration: uddālaka
+ref_drug_name: उद्दालक
+status: Most probable
+discussion: Some of them identify Uddalaka as Kodrava which is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

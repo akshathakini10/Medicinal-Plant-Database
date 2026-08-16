@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: af319f890c430ab8ed68a058a1170946
+Botanical Name: Zornia diphylla (L.) PERS.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Zornia gibbosa SPAN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 4 languages. Kannada (6) - gadi hullu, godimaadu, harada hachhaga, haredachhaga, nellu chollu soppu, nellu jollu soppu Malayalam (2) - mallam-tsjulli, nelam-mari Marathi (2) - jimgari, naala barki Tamil (1) - cirupalatai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af319f890c430ab8ed68a058a1170946/xclkon/b21afc438b66be95770e9481254f827c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af319f890c430ab8ed68a058a1170946
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af319f890c430ab8ed68a058a1170946/xclkon/b21afc438b66be95770e9481254f827c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af319f890c430ab8ed68a058a1170946
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af319f890c430ab8ed68a058a1170946/xclkon/b21afc438b66be95770e9481254f827c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

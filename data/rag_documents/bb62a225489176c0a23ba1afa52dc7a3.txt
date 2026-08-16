@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bb62a225489176c0a23ba1afa52dc7a3
+Botanical Name: Marsdenia roylei WIGHT
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. Hindi (1) - mariabel Kannada (1) - kadahaale balli Sanskrit (1) - Sanskrit Comments  murva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb62a225489176c0a23ba1afa52dc7a3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1386
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1386.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb62a225489176c0a23ba1afa52dc7a3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+ref_drug_name: मूर्वा प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+ref_drug_name: मूर्वा प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.
+
+Shloka Record 2
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7adf7fd6aaaa3cd64cbb0a5e9029f7c6
+Botanical Name: Rungia parviflora NEES
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. Sanskrit (2) - Sanskrit Comments  parpata, pindi Tamil (4) - punaka-pundu, punakapundu, punnaka-p-puntu, tavasumurungi Telugu (1) - pindikunda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7adf7fd6aaaa3cd64cbb0a5e9029f7c6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7adf7fd6aaaa3cd64cbb0a5e9029f7c6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7adf7fd6aaaa3cd64cbb0a5e9029f7c6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

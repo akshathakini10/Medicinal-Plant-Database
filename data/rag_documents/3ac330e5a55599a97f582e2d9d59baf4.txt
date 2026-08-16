@@ -1,0 +1,76 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3ac330e5a55599a97f582e2d9d59baf4
+Botanical Name: Lagerstroemia parviflora ROB.
+Family: Lythraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lagerstroemia parir-flosh ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 56 Vernacular names found in 6 languages. Hindi (9) - bakli, dhaura, dhauri, kakadiyo, kakarwa, kakon, kalihara, lendia, sidi Kannada (17) - bhutara, bolnandi, burra, cannangi, cennangi, chanangi, channangana mara, channangi, channangi mara, cheemange, cheemangi, chenengi, cheninge, chennagi, chennangi mara, cimangi, ventaku Malayalam (4) - cheemangi, cimanci, cimanii, ventekku Marathi (5) - bondaara, bondara, bondga, lende, nano Tamil (5) - chenangi, cinnanci, kaccaikkattai, peyakkatukkay, verrikkatukkay Telugu (16) - cennangi, chanangi, chenangi, chennangi, chinangee, chinangi, chinanji, chinnangi, chinnanjee, chinvargi, cinnangi, dhaathakikusumamu, dhatikikusamamu, seniga, sianangi, venteku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ac330e5a55599a97f582e2d9d59baf4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ac330e5a55599a97f582e2d9d59baf4/xclkon/b561d93fd14092c3b4f37a28f53edc1d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ac330e5a55599a97f582e2d9d59baf4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ac330e5a55599a97f582e2d9d59baf4/xclkon/b561d93fd14092c3b4f37a28f53edc1d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ac330e5a55599a97f582e2d9d59baf4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhava
+sanskrit_name: धव
+transliteration: dhava
+ref_drug_name: धव
+status: Most probable
+discussion: Poplular names of this plant are reported to be used for this species
+reference: [1]
+
+Identity Record 2
+drug_name: Siddha
+sanskrit_name: सिद्ध
+transliteration: siddha
+ref_drug_name: सिद्ध
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Siddhaka
+sanskrit_name: सिद्धक
+transliteration: siddhaka
+ref_drug_name: सिद्धक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dhava
+sanskrit_name: धव
+transliteration: dhava
+image_urls: https://www.medicinalplants.in/slokaimages/140/140_1.jpg https://www.medicinalplants.in/slokaimages/140/140_2.jpg
+ocr_text: धवः शीतः प्रमेहार्शः पाण्डुपित्तकफापहः मधुरस्तुवरस्तस्य फलं तु मधुरं मनाक् II (Bpn) Dhava is madhura, tuvara in rasa, sita in veerya alleviates pitta, kapha and cures prameha, pandu Its phala is madhura in rasa. धवः कषायः कटुकः कफघ्नोडनिलनाशनः पित्तप्रकोपनो रुच्यो विज्ञेयोः दीपनः परः II (Rin) Dhava is kashaya, katu in rasa, alleviates vitiation of kapha and anila, increases pitta, is rucya and highly dipana in action.

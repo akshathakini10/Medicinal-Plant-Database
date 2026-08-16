@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 263dad22df3c7b670e62b372acca2840
+Botanical Name: Pimenta racemosa J. W. MOORE
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pimenta acris KOSTEL ALLG.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. English (1) - bay rum tree Kannada (5) - gandamenasu, gandumenasu, malayalamunchi, malayalamunci, maramenasu Malayalam (3) - chinamulaku, cinamulaku, kappalmulaku Tamil (4) - cinimilaku, kapapcini, takkolam3, vellaimilaku 1
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/263dad22df3c7b670e62b372acca2840
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/263dad22df3c7b670e62b372acca2840/xclkon/2473a75f9ad32c431b632872bc48701f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/263dad22df3c7b670e62b372acca2840
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/263dad22df3c7b670e62b372acca2840/xclkon/2473a75f9ad32c431b632872bc48701f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/263dad22df3c7b670e62b372acca2840
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

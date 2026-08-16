@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b97df8ba5a3f78d5e57e97fb94fc0890
+Botanical Name: Piper ribesioides WALL.
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97df8ba5a3f78d5e57e97fb94fc0890
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97df8ba5a3f78d5e57e97fb94fc0890
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kankola - jati
+sanskrit_name: कंकोल जाति
+transliteration: kaṃkola jāti
+ref_drug_name: कंकोल जाति
+status: Accepted source
+discussion: Fruits of this species resemble Kankola but are big in size
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,72 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: edab2a314693f3a25a21f493e238a418
+Botanical Name: Cymbopogon martini (ROB.) WATS
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Andropogon martini ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 71 Vernacular names found in 9 languages. English (3) - ginger grass, palma-rosa, rusha grass Hindi (12) - gandhabel, gandhej-ghas, makora, merchya, mirchagandh, motio, piriya ghas, rousa-ka-aitr, rousa-ka-tel, rusa, rusa ghas, rusha Kannada (21) - anche hullu, anchi hullu, anchit hullu, bhootika hullu, bili dodda, chatta hullu, chippu hullu, kaachi hullu, kaachihullu, kaashi hullu, kaashihullu, kaasi hullu, kaavancha, kachi gedde, kachi kaddi, kasavre hullu, kasi hullu, kunthi hullu, maarvali hullu, nanj hullu, nase hullu Malayalam (1) - sambharappullu Marathi (4) - kusatan, rhus sugandhi, roshsagavath, rusha Sanskrit (6) - Sanskrit Comments  bhustrina, bhustrnam, dhyamakah, mulatrina, rohisa, rohisah Tamil (16) - cukkunarippul 1, cunnarippul, curaippul, kacattampul, kaippuppul, kamakshapullu, kamaksippul, kannam pillu, kannam pullu, kavattam pul, kavattampillu, kavattampul 1, kavattan pullu, kavattan-pillu, mantappul, munkilpul Telugu (5) - kachi gaddi, kamachi-kassuvu, kanchi, kashy gaddi, nimma gaddi Tibetan (3) - bu sra ni, bu sri na (p), li ga dur
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 725
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/725.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418/xclkon/68e1f0420c13f5e9f1ed5c4b246cd84f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418/xclkon/68e1f0420c13f5e9f1ed5c4b246cd84f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418/xclkon/68e1f0420c13f5e9f1ed5c4b246cd84f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edab2a314693f3a25a21f493e238a418
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+ref_drug_name: रोहिष
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+ref_drug_name: रोहिष
+status: Most probable
+discussion: Previously it was identified as Andropogon species (now Cymbopogon)
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+image_urls: https://www.medicinalplants.in/slokaimages/550/550_1.jpg https://www.medicinalplants.in/slokaimages/550/550_2.jpg https://www.medicinalplants.in/slokaimages/550/550_3.jpg
+ocr_text: कत्तृणं श्वासकासघ्नं हृद्रोगशमनं परम् विसूच्यजीर्णशूलघ्नं कफपित्तास्रनाशनम् न (ज.नि) Kattrna alleviates svasa , kasa, visuci, ajirna, sula, best in pacifyng hrdroga, destroys kapha, pitta asra and कत्तृणा दशनामाढ्यं कटुतिक्तं कफापहम्| शस्त्रशल्यादिदोषघ्नं बालग्रहविनाशनम् | IRin) Kattrna is katu, tikta in rasa, dasanamdhya, alleviates kapha, sastra salyadi dosha and destroys bala Braha. रोहिषं तिक्तं कटुपाकं व्यपोहति | हृत्कण्ठव्याधिपित्तास्रशूलकासकफज्वरान् (Bpn) Rohisa is tuvara, tikta in rasa, katu in paka, alleviates hrt kantha vyadhi, pitta, asra, sula, kasa, kapha and jvara. तुवरं

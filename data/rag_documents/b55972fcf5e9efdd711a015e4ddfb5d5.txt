@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b55972fcf5e9efdd711a015e4ddfb5d5
+Botanical Name: Euphorbia dracunculoides LAM.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 5 languages. Hindi (3) - bamburi, ban-bui-jayanti, bumburi Kannada (4) - bilee kaddi, bili kaddi, bili kalli, mandaa mada Sanskrit (4) - Sanskrit Comments  sankhini, saptala, satala, titali Tamil (1) - tilla-kada Telugu (2) - tillakaada, tillakada
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b55972fcf5e9efdd711a015e4ddfb5d5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sankhini
+sanskrit_name: शङ्खिनी
+transliteration: śaṅkhinī
+ref_drug_name: शङ्खिनी
+status: Controversial
+discussion: ?
+reference: [5]
+
+Identity Record 2
+drug_name: Saptala
+sanskrit_name: सप्तला
+transliteration: saptalā
+ref_drug_name: सप्तला
+status: Most probable
+discussion: Saptala is a highly controversial drug; There are many species correlated to it but with regard to its description this species tentatively comes very near to the description
+reference: [2]
+
+Identity Record 3
+drug_name: Saptala
+sanskrit_name: सप्तला
+transliteration: saptalā
+ref_drug_name: सप्तला
+status: Controversial
+discussion: ?
+reference: [5]
+
+Identity Record 4
+drug_name: Saptala
+sanskrit_name: सप्तला
+transliteration: saptalā
+ref_drug_name: सप्तला
+status: Most probable
+discussion: This species can be taken into consideration with regard to its features and properties
+reference: [1]
+
+Identity Record 5
+drug_name: Tiktala
+sanskrit_name: तिक्तला
+transliteration: tiktalā
+ref_drug_name: तिक्तला
+status: Most probable
+discussion: Is a synonym of Saptala which is most probably correlated to this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

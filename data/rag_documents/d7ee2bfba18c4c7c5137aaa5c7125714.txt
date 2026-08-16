@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d7ee2bfba18c4c7c5137aaa5c7125714
+Botanical Name: Salix alba L.
+Family: Salicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 2 languages. English (5) - common willow, cricket-bat willow, european willow, golden willow, white willow Hindi (5) - badah, badah (willow), badda, badha, beuns
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7ee2bfba18c4c7c5137aaa5c7125714
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7ee2bfba18c4c7c5137aaa5c7125714
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vetasa
+sanskrit_name: वेतस
+transliteration: vetasa
+ref_drug_name: वेतस
+status: Suggested source
+discussion: This species may be treated as a variety of it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

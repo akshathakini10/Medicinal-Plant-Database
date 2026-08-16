@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a121efded04a762fb0a5a86706ff106b
+Botanical Name: Colebrookea oppositifolia SM.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 5 languages. Hindi (16) - bambker, bansa, bhamber, bhirmoli, binda, bindu, bintalakri, birali ghas, dharoos, dharros, doos, dusen, duson, kala-bansa, lunji, pansra Kannada (1) - thuggi gida Marathi (4) - bhaman, bhamini, bhamni, dussarika-jhar Tamil (1) - vitupucittalai Telugu (2) - jolidi, tolisi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a121efded04a762fb0a5a86706ff106b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a121efded04a762fb0a5a86706ff106b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a121efded04a762fb0a5a86706ff106b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

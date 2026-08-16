@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 548e2aa378038bef7b03daf4fe911fb7
+Botanical Name: Smilax china L.
+Family: Smilacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 67 Vernacular names found in 8 languages. Hindi (2) - chobchini, cobcini Kannada (3) - chobachini, chopaachini, cinipavu Malayalam (4) - chinapaivu, cinappavu, pairu, pavu Marathi (1) - chobchini Sanskrit (8) - Sanskrit Comments  chobachini, copacini, dvipantaravaca, dwipantaravaca, dwipautra, hrddhatri, madhusnuhi, wacha Tamil (40) - cinaccirumi, cinaccirumippatai, cinakkilanku2, cinappa1, cinappala, cinapparakkilanku, cinapparam, cinappattai, cinaver, cinimaruntu, cirakati, cirakatippattai, copcini, elaparani, elaparni, kolumpuver, matusmikam, matusmikam#, matusmikam@, matusmiki, matusmiki#, matusmiki@, parangi chakkai, parangichekkai, parangippattai, paranki-p-pattai, parankiccakkai#, parankiccakkai@, parankiccali, parankicceti, parankicekkai, parankikkilanku, parankippattai, parankippattai@, paringay, paringay puttay, parinkipatte, pattaikkulikam, shuk-china, unnatamaram Telugu (5) - gaali chakka, gali-chekka, parangicekka, pirangi chakka, pirangi-chekka Urdu (4) - chob chini, chobchini, chobchini barik pisihui, kabab chini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/548e2aa378038bef7b03daf4fe911fb7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Copacini
+sanskrit_name: चोपचीनी
+transliteration: copacīnī
+ref_drug_name: चोपचीनी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Dvipantaravaca
+sanskrit_name: द्वीपान्तरवचा
+transliteration: dvīpāntaravacā
+ref_drug_name: द्वीपान्तरवचा
+status: Accepted source
+discussion: It is a type of 'Vaca' which is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Svadamstra
+sanskrit_name: स्वदंष्ट्रा
+transliteration: svadaṃṣṭrā
+ref_drug_name: स्वदंष्ट्रा
+status: Most probable
+discussion: This species posseses some of the important clinical properties of Svadamstra hence taken into consideration
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

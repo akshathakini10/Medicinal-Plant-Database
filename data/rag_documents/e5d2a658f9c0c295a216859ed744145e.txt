@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e5d2a658f9c0c295a216859ed744145e
+Botanical Name: Euphorbia tortilis ROTTLER
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 6 languages. Hindi (2) - tirugukalli, vilankalli Kannada (4) - chilla, gangwa, tella, thilla Marathi (5) - banda, itepulla, kumbala, kumbalam, sridamanu Sanskrit (1) - Sanskrit Comments  vajratunda Tamil (8) - agadi, ambala-virukkam, pageri, thillai, thirugakalli, tirrooghucallie, tirugukalli, tirukukalli Telugu (14) - baramaajemudu, baramajemudu, bommajemudu, muppaka jemudu, muppakajemudu, muppakkajemmadu, muppakkajemmudu, muppukkajemudu, naaga jemmudu, pedda jemudu, thirugujemmudu, tirugudu-jemudu, tirugujamudu, tirugujemudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5d2a658f9c0c295a216859ed744145e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 943
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/943.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5d2a658f9c0c295a216859ed744145e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5d2a658f9c0c295a216859ed744145e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 87e6a084a3a0c56ac4b52bdd2bf6b62c
+Botanical Name: Commicarpus chinensis (L.) HEIMERL
+Family: Nyctaginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Boerhavia chinensis (L.) ASCH. & SCHW. Boerhavia repanda WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 25 Vernacular names found in 3 languages. Kannada (1) - bekkina hejje balli Tamil (21) - cattaranai, catticattaranai, kattatati, kattatatikkoti, kotiminnai, kotimunnikam, kunavakacceti, kunavakam, kuttankutampai, kuttankutampaippuntu, kuttankutumpai@, mukkorri, mukkutti, patarmunnai, periyamukkirattai, sathi-charanai, uca@, varakanpuntu, varakanputu, varakapputu, varakarapputu Telugu (3) - atukumamidi, kannekomali, theega mamidi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87e6a084a3a0c56ac4b52bdd2bf6b62c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87e6a084a3a0c56ac4b52bdd2bf6b62c/xclkon/e94aa9d270f193c9446da741110a6bb9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87e6a084a3a0c56ac4b52bdd2bf6b62c/xclkon/15c69fe677cb4340de456fbe5170d39d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87e6a084a3a0c56ac4b52bdd2bf6b62c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87e6a084a3a0c56ac4b52bdd2bf6b62c/xclkon/e94aa9d270f193c9446da741110a6bb9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87e6a084a3a0c56ac4b52bdd2bf6b62c/xclkon/15c69fe677cb4340de456fbe5170d39d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87e6a084a3a0c56ac4b52bdd2bf6b62c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

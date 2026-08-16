@@ -1,0 +1,90 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c978bf24ff9aa78a5834419188d62bbf
+Botanical Name: Hydnocarpus kurzii (KING) WARB.
+Family: Flacourtiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Taraktogenos kurzii KING
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 4 languages. English (1) - chaulmoogra oil Hindi (1) - chaulmoogra Sanskrit (1) - Sanskrit Comments  tuvaraka Tamil (8) - maravetti, neeradi muththu, niradimutu, nirati, nirati muttu, niratimuttu, niretti muttu, nirvetti muttu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf/xclkon/654f5593575669857ab3a3c75be22f11
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1152
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1152.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf/xclkon/654f5593575669857ab3a3c75be22f11
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf/xclkon/654f5593575669857ab3a3c75be22f11
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c978bf24ff9aa78a5834419188d62bbf/xclkon/654f5593575669857ab3a3c75be22f11
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tuvara
+sanskrit_name: तुवर
+transliteration: tuvara
+ref_drug_name: तुवरक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Tuvara
+sanskrit_name: तुवर
+transliteration: tuvara
+ref_drug_name: तुवर
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Tuvaraka
+sanskrit_name: तुवरक
+transliteration: tuvaraka
+ref_drug_name: तुवरक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Tuvaraka
+sanskrit_name: तुवरक
+transliteration: tuvaraka
+ref_drug_name: तुवर
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tuvaraka
+sanskrit_name: तुवरक
+transliteration: tuvaraka
+image_urls: https://www.medicinalplants.in/slokaimages/885/885_1.jpg
+ocr_text: तुवरस्तु वरश्चोष्णो रसे पाके च तिक्तकः कफव्रणकृमिमेहकुष्ठज्वरविनाशनः | आनाहमर्शः शोफञ्च नाशयेदिति ते जगुः ( INir) Tuvara is tikta in rasa, usna in veerya, tikta in paka, destroys kapha, alleviates vrana, krmi, meha, kustha, jvara, anaha, arsa and sopha.

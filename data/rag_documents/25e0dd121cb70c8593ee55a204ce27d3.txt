@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 25e0dd121cb70c8593ee55a204ce27d3
+Botanical Name: Strychnos colubrina AUCTT. PL.
+Family: Loganiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 7 languages. Hindi (1) - kuchilalata Kannada (3) - balli kaasaraka, naaga,ushti, naagamusti Malayalam (9) - cerukattuvallikanniram, cherukattuvallikanniram, cherukattuvallikkaniram, modira-caniram, modira-kanniram, modiracaneram, modirakaniram, modirakanni, motirakkanniram Marathi (6) - devakadu, dhavo-khajro, kajarvael, kajarvel, kajarwel, kanel Sanskrit (2) - Sanskrit Comments  anjanaki, karuskaralata Tamil (2) - naga malligai, nagamalligai Telugu (11) - kausukandira, kavasukandira, kavusukandira, konsu-kandira, naagamushti, nagamusadi, nagamushti, nagamusti, tansoopaum, thigemushti, tigemushti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25e0dd121cb70c8593ee55a204ce27d3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1994
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1994.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25e0dd121cb70c8593ee55a204ce27d3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Anjanaki
+sanskrit_name: अञ्जनकी
+transliteration: añjanakī
+ref_drug_name: अञ्जनकी
+status: Suggested source
+discussion: Anjanaki' is mentioned only in Susruta samhita; Dalhana has interpreted it as 'Nilini'; According to the author it is identifed with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a558896dba24db198ba0d82f09e264f3
+Botanical Name: Typha angustata BORY & CHAUB
+Family: Typhaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Typha angustifolia L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 37 Vernacular names found in 9 languages. English (2) - broad leaved cattails, indian reed-mace Hindi (9) - era, gon, paan, parocito, pata, patar, pater, patera, pota Kannada (7) - aane jondu, aanejondu, apu, jambu, jambu hullu, mungusibaala, naribaala Marathi (4) - motitrina, pan-kanis, pun, tambana Sanskrit (6) - Sanskrit Comments  eraka, erakasaktuh, gundra, gundramula, sari, sivi Tamil (1) - sambu Telugu (6) - dabbu jambu, dabbujambu, jambu, jammu, jammugaddi, neeti jambu Tibetan (1) - ku ntha Urdu (1) - bikh patera
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3/xclkon/bd3a08a50f64d66e509ac9001dd51b2e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3/xclkon/bd3a08a50f64d66e509ac9001dd51b2e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3/xclkon/bd3a08a50f64d66e509ac9001dd51b2e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a558896dba24db198ba0d82f09e264f3/xclkon/bd3a08a50f64d66e509ac9001dd51b2e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Guntha
+sanskrit_name: गुण्ठ
+transliteration: guṇṭha
+ref_drug_name: गुण्ठ
+status: Most probable
+discussion: May be considered as this species, as according to Bhavamisra Gundra is 'Pateraka' which is this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

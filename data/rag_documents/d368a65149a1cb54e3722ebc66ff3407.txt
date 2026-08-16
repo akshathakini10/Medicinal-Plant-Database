@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d368a65149a1cb54e3722ebc66ff3407
+Botanical Name: Plantago ovata FORSK.
+Family: Plantaginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 70 Vernacular names found in 9 languages. English (1) - isphagul seeds Hindi (8) - isabghul, isabgol, isapghul, isaphgol, isbaghol, isbgul, ispaghul, issufgul Kannada (9) - esabakolu, esabgolu, esamgolu, esangola, espagola, isabakolu, isabgolu, isamgolu, issabagolu Malayalam (3) - ispaghal, karkatasringi, snigddhajirakam Marathi (4) - chitrak, eeshvarbola, esabagola, isabagola Sanskrit (13) - Sanskrit Comments  asvabija, asvagola, asvakarna, isadgola, ishadgol, ishadgola, isvarabola, shlakshnajira, sitabija, snigdhabija, snigdhabijah, snigdhajeeraka, snigdhajiraka Tamil (21) - aliyakocam, aliyakocavirai, capja, icapkol, icappakolvirai, icappukolvitai, icapukolvitai, icippukkovitai, icukkolvittu, icupakol, icuponkolvitai, isapakulvittu, ishappukol, ishappukolvirai, iskol, iskolvitai, ispakol, isphogol, ispoghol, kucikam 2, ponki Telugu (6) - esapagala, esphagula, isapagala, isapagalavittulu, isapgaluvittulu, isphagula Urdu (5) - aspaghol, isapghul, ispaghul, ispaghul musallam, subus isapghol
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d368a65149a1cb54e3722ebc66ff3407
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1697
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1697.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d368a65149a1cb54e3722ebc66ff3407
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d368a65149a1cb54e3722ebc66ff3407
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d368a65149a1cb54e3722ebc66ff3407
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d368a65149a1cb54e3722ebc66ff3407
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asvagola
+sanskrit_name: अश्वगोल
+transliteration: aśvagola
+ref_drug_name: अश्वगोल
+status: Accepted source
+discussion: Asvagola is correlated to this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Asvagola
+sanskrit_name: अश्वगोल
+transliteration: aśvagola
+image_urls: https://www.medicinalplants.in/slokaimages/1313/1313_1.jpg
+ocr_text: अशगोलमश्वकर्णबीज स्निग्धजारकम अश्वगोलं गुरु स्वादु स्निग्धं शीतं पिच्छिलम् स्नहन मूत्रजननं ललैेष्मनिःसारणं परम् दाहतृष्णाहर बल्यं ज्वरघ्नं चाथ शस्यते प्रवाहिकातिसारामदाहतृष्णाज्वरादिषु वातपित्तामय कासे दौर्बल्य मूत्रकृच्छ्रज्ञे ( Ref:PV sharma ; dravyaguna vijnan;partz )

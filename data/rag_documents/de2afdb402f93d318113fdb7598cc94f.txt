@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: de2afdb402f93d318113fdb7598cc94f
+Botanical Name: Brassica campestris L. var. dichotoma (ROB.) WATT.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Sanskrit (2) - Sanskrit Comments  rajika, tuverika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de2afdb402f93d318113fdb7598cc94f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de2afdb402f93d318113fdb7598cc94f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Grnjanaka
+sanskrit_name: गृञ्जनक
+transliteration: gṛñjanaka
+ref_drug_name: गृञ्जनक
+status: Accepted source
+discussion: Grnjanaka is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Sarsapa
+sanskrit_name: सर्षप
+transliteration: sarṣapa
+ref_drug_name: सर्षप
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Sarsapa
+sanskrit_name: सर्षप
+transliteration: sarṣapa
+ref_drug_name: सर्षप
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,80 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e00f75276fae36521c4b35c368cf8393
+Botanical Name: Cordia dichotoma FORST. F.
+Family: Cordiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cordia myxa SENU CL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 158 Vernacular names found in 9 languages. English (2) - sebesten plum, sudan teak Hindi (14) - bada-goonda, bara-gunda, bara-lasora, bhokar, chokar-gond, chokargond, gondi, gonni, gunda, lasoora, lasora, lasura, lesuwa, lisora Kannada (39) - ada, bankegida, callangayi, calle, cella, challe, challe hannu, chandle, chella, chelle, chikka challe, chikka-salle, chikkasale, chikkasalle, chikkusalle, cholle, chotte, cikkacalle, cotte, doda chillu, dodda chagate, dodda solle, haadige, hadaga, hadige, hire challe, hiri saale, kaadchellai, kaadu chaale, kaadu challe, kaducalle, kadusolle, kendal, kendala, mannadike, mannadike mara, salle, solle, tella Malayalam (24) - ari, cella, ceruvanicci, ceruviri, chella, cheruvanicci, cheruviri, karadi, karati, kotta, madaviriyasam, mathaviracchi, naruvari, naruveli, naruviri, periya-viri, selu, valiyavanicci, valiyavanich-chi, vida, vidi, virasham, viri, viriyasam Marathi (16) - bakar, bargud, bhakram, bhokar, bhokara, bhokur, chokri, godan, goden, gondhen, montabhokar, semar, shelu, sherti, vargund, vhadli Sanskrit (7) - Sanskrit Comments  bahuvaraca, bahuvarah, bauvaraca, bukampadaruka, seluh, slesmatakah, uddalaka Tamil (23) - cavarittakikam, cavarittakikamaram, cirunaruvili, citam, jollai, kalliyavam, kalliyavamaram, kalviricu, kalvirusu, mukku-chali, naruli1, naruvali, naruvalli1, naruveli, naruvili, naruvili1, naruvuli, periya-naruvili, perunaruvuli, vidi, vidimaram, virusham, viruvu Telugu (31) - banakanakkiri, bankanakkera, bankiriki, binka, botgiri, botuka, chinna-nakkeru, chinnabotuku, chinnanakkera, chinnanakkeru, cinnabotuku, iriki, irkee, irki, nakaru, nakeru, nakkera, nakkeri, nakkeru, nakkiri, naravanji, nekkara, nekra, pedda botaka, pedda irki, pedda-botuku, pedda-nakkera-chettu, urunakkera, virgi, virigi, vura-nakkeru Tibetan (2) - sle ma sma ta ka, sle ma sma ta ka (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 645
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/645.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e00f75276fae36521c4b35c368cf8393/xclkon/32344fbcf54de972ab63217f147b3953
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Slesmataka
+sanskrit_name: श्लेष्मातक
+transliteration: śleṣmātaka
+ref_drug_name: श्लेष्मातक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Slesmataka
+sanskrit_name: श्लेष्मातक
+transliteration: śleṣmātaka
+ref_drug_name: श्लेष्मातक
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Slesmataka
+sanskrit_name: श्लेष्मातक
+transliteration: śleṣmātaka
+image_urls: https://www.medicinalplants.in/slokaimages/493/493_1.jpg https://www.medicinalplants.in/slokaimages/493/493_2.jpg https://www.medicinalplants.in/slokaimages/493/493_3.jpg https://www.medicinalplants.in/slokaimages/493/493_4.jpg
+ocr_text: श्लेष्मातको हिमः स्वादिः स्याद्रुक्षः पिच्छिलः शुचिः | | (घ. नि॰) Slesmataka is svadu in rasa, ruksa, picchila in guna, hima in veerya and suci. श्लेष्मलं मधुरं शीतं श्लेष्मातकपलं गुरु (चरक॰ सू॰ २७ १५२) Slesmataka phala is madhura in rasa, guru in guna , sita in veerya, increases slesma. श्लेष्मातकः कटुहिमो मधुरः कषायः स्वादुश्च पाचवकरः कृमिशूलहारी| आमास्रदोषफलरोधबहुव्रणार्त्ति विस्फोटशान्तिकरणः कफकारकश्च| | भूकर्बुदारो मधुरः कृमिदोषविनाशनः वातप्रकोपनः किञ्चित् सशीतः स्वर्णमारकः (Rjn Slesmataka is katu, madhura, kashaya in rasa, hima in veerya, svadu in paka, increases kapha, alleviates krmi, sula, ama, asra dosha, phala rodha, bahu vrana, arti ana visphota. Bhuka budara is madhura in rasa, kincit sita in veerya, increases vata destroys krmiaosha, is svarna maraka विस्फोटव्रणविसर्पकुष्ठनुत् मधुरस्तुवरस्तिक्तः केश्यश्च कफपित्तहृत् || फलमामन्तु विष्टम्भिरक्तपित्तकफास्रजित्| | फलमामन्तु मधुरं स्निग्धं श्लेष्मलं शीतलं गुरु|| (Bpnl Bahuvara is madhura, tuvara , tikta in rasa, kesya, alleviates kapha, pitta, visphota, vrana, visarpa and kustha. Ama phala is maahura in rasa, snigdha, guru in guna, sita in virya, increases slesma, is vistambhi, alleviates raktapitta, kapha ana asra बहुवारो

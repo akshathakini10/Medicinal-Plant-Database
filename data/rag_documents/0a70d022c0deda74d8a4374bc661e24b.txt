@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0a70d022c0deda74d8a4374bc661e24b
+Botanical Name: Dioscorea oppositifolia L.
+Family: Dioscoreaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 66 Vernacular names found in 6 languages. Kannada (19) - aenna soora, bellaraai, bellarai, bellare, bellaroy, ennasara, hakki genasu, imsara, inaasara, inasara, kaadu genasu, neerabatte, neerbatte, nirballe, nirbatte, nirbatti, tabinere, taveneve, thaabi nere Malayalam (1) - kachil Marathi (4) - choratogu, gilandru, mar-paspoli, paspoli Sanskrit (2) - Sanskrit Comments  amlardraka, sarpakhya Tamil (16) - alakamatitakkilanku, alakamatitam, avatengatige, kavala-kodi, kayvalli2, kayvallikkilanku, maruvalli, maruvallikkilanku, thavai-kachchu, varivalli, varivallikkoti, venil valli, verrilaivalli, verrilaivallikkilankukkoti, verrolaivalli, vettilaivalli Telugu (24) - adavidumpathige, adavidumpatige, adaviyatagathige, adaviyatagatige, adividumpatheega, adiviyatagatige, aretega, aretegalu, arethegalu, aretige, arithige, athyaga, atyaga, avatengatige, avathengathige, cencudumpa, chenchudampa, chenchudumpa, ganuga, karrapendalamu, naarabadlu, tella gadda, tsuntsugadda, yella gadda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a70d022c0deda74d8a4374bc661e24b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 824
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/824.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a70d022c0deda74d8a4374bc661e24b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a70d022c0deda74d8a4374bc661e24b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a70d022c0deda74d8a4374bc661e24b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

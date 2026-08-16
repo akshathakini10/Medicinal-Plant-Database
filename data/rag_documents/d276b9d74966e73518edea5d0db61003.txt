@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d276b9d74966e73518edea5d0db61003
+Botanical Name: Ferula sumbul HOOK. F.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Euryangium sumbul KAUFFMAN
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 8 languages. English (1) - sumbul Hindi (2) - balchir, jatamashi Kannada (2) - jatamansi, jatamavashi Malayalam (1) - jatamanchi Sanskrit (1) - Sanskrit Comments  sumbula Tamil (1) - jatamashi Telugu (2) - jatamamshi, jatamsi Urdu (2) - sak binj, sakbinj
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d276b9d74966e73518edea5d0db61003
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d276b9d74966e73518edea5d0db61003/xclkon/eef382b51352ea2a4c8df1fc620ab0c3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d276b9d74966e73518edea5d0db61003
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d276b9d74966e73518edea5d0db61003/xclkon/eef382b51352ea2a4c8df1fc620ab0c3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d276b9d74966e73518edea5d0db61003
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d276b9d74966e73518edea5d0db61003/xclkon/eef382b51352ea2a4c8df1fc620ab0c3
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d276b9d74966e73518edea5d0db61003
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

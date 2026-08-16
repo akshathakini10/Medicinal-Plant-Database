@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8c0ee445e68abfaca0b87ff3b55f4e81
+Botanical Name: Zanthoxylum tetraspsermum WT. & ARN.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 2 languages. Kannada (5) - jimmi, jummina, seshike, sesige, shettiga Tamil (36) - ayutcatam, calamalipattiram, campanacaram, campanacaramaram, captacatai, captaparani 1, carata, cattaparani, cattaparni, cattaparuni, cattaparunippalai, cattiparuni, cattiparunimaram, cattiyaruni, ciranayirucuvam, cukkilaparani, cuparani, cuttilapparani, elilaippinnai, elilaippunnai, elilaivalai, incopitam, incovitamaram, irulpalai, kantaparani, kanuppalai, kuccappurati, kuccappuratimaram, kuccaputpam, mukkanpalai, nuccilai, nuccilaippalai, palai 2, puttapalai, tacaputtam, tamanoyirutti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c0ee445e68abfaca0b87ff3b55f4e81
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c0ee445e68abfaca0b87ff3b55f4e81
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

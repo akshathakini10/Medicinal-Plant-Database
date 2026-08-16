@@ -1,0 +1,99 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3bee610668c32c22dfa86540884bc5f3
+Botanical Name: Citrus limon (L.) BURM.F.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 29 Vernacular names found in 9 languages. English (1) - lemon Hindi (4) - bara-nimbu, jamiri nimbu, khatta, pahari-nimbu Kannada (2) - brihat nimbe, dodda nimbe Malayalam (1) - cerunarakam Sanskrit (10) - Sanskrit Comments  amla, dantasathah, jambira, jambirah, limpaka, mahajambiraphalam, mahanimbu tvak, naranga, nimbu, nimbuka Tamil (2) - elumiccai, elumichai Telugu (1) - dabba Tibetan (2) - dzam bi ri (d), dzi ma bi ra Urdu (6) - bara nebu, lembu, lemu, nembu, nenbu, utraj
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3bee610668c32c22dfa86540884bc5f3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3bee610668c32c22dfa86540884bc5f3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3bee610668c32c22dfa86540884bc5f3
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3bee610668c32c22dfa86540884bc5f3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3bee610668c32c22dfa86540884bc5f3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3bee610668c32c22dfa86540884bc5f3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jambira
+sanskrit_name: जम्बीर
+transliteration: jambīra
+ref_drug_name: जम्बीर
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Jambira
+sanskrit_name: जम्बीर
+transliteration: jambīra
+ref_drug_name: जम्बीर
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 3
+drug_name: Jambira
+sanskrit_name: जम्बीर
+transliteration: jambīra
+ref_drug_name: जम्बीरफल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Jambira phala
+sanskrit_name: जम्बीरफल
+transliteration: jambīraphala
+ref_drug_name: जम्बीर
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 5
+drug_name: Jambira phala
+sanskrit_name: जम्बीरफल
+transliteration: jambīraphala
+ref_drug_name: जम्बीर
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 6
+drug_name: Jambira phala
+sanskrit_name: जम्बीरफल
+transliteration: jambīraphala
+ref_drug_name: जम्बीरफल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

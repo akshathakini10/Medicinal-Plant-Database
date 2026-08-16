@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c9945fc62f09276aad3562d367dab6d6
+Botanical Name: Marsilea quadrifolia L.
+Family: Marsileaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 6 languages. Hindi (2) - caupatiya, sunsuniya Kannada (2) - citiginasoppu, neer hurali Malayalam (1) - niraral Sanskrit (9) - Sanskrit Comments  catuhpatri, catuspatri, sitivara, sunisanaka, sunisannah, sunisannaka, sunisannakah, svastika, swastikah Tamil (9) - aarai, acanaparni, arai, araikkirai, araikkirai@, catuppalli, kurantam, nirarai, niraraikkirai Telugu (4) - araa koora, ciklintakura, mudugu thaamara, munugu thaamara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9945fc62f09276aad3562d367dab6d6
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1390
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1390.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9945fc62f09276aad3562d367dab6d6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9945fc62f09276aad3562d367dab6d6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sunisannaka
+sanskrit_name: सुनिषण्णक
+transliteration: suniṣaṇṇaka
+ref_drug_name: सुनिषण्णक
+status: Accepted source
+discussion: Sunisannaka is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Sunisannaka - prajati
+sanskrit_name: सुनिषण्णक प्रजाति
+transliteration: suniṣaṇṇaka prajāti
+ref_drug_name: सुनिषण्णक प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

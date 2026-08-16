@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5e4ebc365194ed7dde1e2162a2a012b7
+Botanical Name: Butea superba ROB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 55 Vernacular names found in 7 languages. Hindi (5) - bel-palas, kesu, kimsuka, palas, palaslata Kannada (14) - balli-muttaga, dagadar, ippaarathi, kaithi, mullu mutthuga, mullumuttuga, muthugabilu, muthugina-baili, muthuginaballi, muttanabilu, mutthugada balli, muttugada balli, muttuginaballi, valavarai Malayalam (4) - palas-vel, palas-wail, valli-murukka, valliplach-cha Marathi (4) - beltivas, palasavela, palasvel, yelparas Sanskrit (5) - Sanskrit Comments  latapalasa, latapalasha, palasha-niryasam, palasini, vallipalasah Tamil (8) - kodi-murukkam, kodi-murukkan, kodi-palasham, koti murukkan, kotimurukkam, kotippalacam, murukkan pishin, palasha-pishin Telugu (15) - baaranki chettu, moduga, modugaige, modugatheega, modugatige, mothugatiga, teegamoduga, theegemoduga, thigamoduga, thivvamoduga, tiga moduga, tigamuduga, tige-palashamu, tigemoduga, tivvamoduga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4ebc365194ed7dde1e2162a2a012b7
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 379
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/379.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4ebc365194ed7dde1e2162a2a012b7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4ebc365194ed7dde1e2162a2a012b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4ebc365194ed7dde1e2162a2a012b7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Palasini
+sanskrit_name: पलाशिनी
+transliteration: palāśinī
+ref_drug_name: पलाशिनी
+status: Accepted source
+discussion: Widely known by the name 'Latapalasa' and identified with this species; It is mentioned in Sodala and Raja nighantu
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

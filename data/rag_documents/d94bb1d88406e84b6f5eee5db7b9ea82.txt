@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d94bb1d88406e84b6f5eee5db7b9ea82
+Botanical Name: Dalbergia paniculata ROB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 76 Vernacular names found in 5 languages. Hindi (5) - barbet, dobin, safed pihi, safed-pihi, sisum Kannada (22) - belaga, bilagada, bilibeete, bilibide, bilibiti, bilugatha, bolbide, bolbudi, dhobuiro, hasarguniri, hasarugani, hasarugoni, hasarugunni, paccari, pachale, pachali, pachari, pacheri, potibage, potubaghi, velaga, vellaja Malayalam (13) - meruthi, mryti, ottutholi, paiyangani, payinginni, piangani, piyangani, piyannani, vattantoli, velitthavitti, velutaeeti, veluttavitti, vettatholi Marathi (1) - pasi Telugu (35) - jalari, pacaru, paccare, pachaari, pachara, pachare, pacharu, pachchari, pacnari, patraru, patsari, patsaru, patsuroo, patsuru, pattsari, poralapaccari, poralasaapara, poralasapara, porapatcha, porila saapara, porilasapara, porilla, porillasopara, porlapachari, porlapatsari, potrum, saapara, sapara, syapotu, tellapacaru, tellapachari, tellapattsari, tellopatsaru, thellapacharu, toper
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d94bb1d88406e84b6f5eee5db7b9ea82
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d94bb1d88406e84b6f5eee5db7b9ea82
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

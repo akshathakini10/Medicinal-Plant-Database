@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 16dba29598ef4204b7a6c4e803b3cc81
+Botanical Name: Fagopyrum tataricum (L.) GAERTN.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. English (3) - kangra buckwheat, siberian buckwheat, tartary buckwheat Hindi (3) - kaspat, phapara, phaphar Sanskrit (1) - Sanskrit Comments  ukhala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16dba29598ef4204b7a6c4e803b3cc81
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16dba29598ef4204b7a6c4e803b3cc81
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Udumbara
+sanskrit_name: उदुम्बर
+transliteration: udumbara
+ref_drug_name: उदुम्बर
+status: ?
+discussion: ?
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Udumbara
+sanskrit_name: उदुम्बर
+transliteration: udumbara
+image_urls: https://www.medicinalplants.in/slokaimages/752/752_1.jpg https://www.medicinalplants.in/slokaimages/752/752_2.jpg https://www.medicinalplants.in/slokaimages/752/752_3.jpg https://www.medicinalplants.in/slokaimages/752/752_4.jpg
+ocr_text: उदुम्बरो हिमो रूक्षो गुरुः पित्तकफास्रजित्| मधुरस्तुवरो वर्ण्यो व्रणशोधनरोपणः || (Bpn) Udumbara is madhura, kasaya in rasa, ruksa, guru in guna, sita in veerya varnya, vrana sodhana and ropana in karma, alleviates pitta, kapha ana rakta vikara. हेमदुग्धो हरिताक्षो वसुद्रुमः | | क्षीरी शीतवल्कलः | यज्ञाङ्गको जन्तुवृक्षः सुप्रतिष्ठः सदाफलः| | अपुष्पफलसम्बन्धः काञ्चनो जंतुमत्फलः उदुम्बरो हिमो रूक्षः कषायो मधुरो गुरुः| | भग्रसंधानकृद् वर्ण्यो व्रणशोधनरोपणः Ikanl Udumbara, hemadugaha, haritaksa, vasudruma, sacaksu,mashaki, ksiri, sitavalkala, yajanga, jantuvrksa, supratista, sadaphala, apuspaphala sambandha, kancana ana jantuphala are the synonyms of uaumbara. Udumbara is kasaya, madhura in rasa, ruksa, guru in guna , sita in veerya, varnya, sandhanakrt, vrana sodhana and vrana ropana in karma उदुम्बरो सचक्षुर्मशकी क्षीरद्रुः उदुम्बरः क्षीरवृक्षो हेमदुग्धः सदाफलः | अपुष्पफलसंबन्धो यज्ञाङ्गः शीतवल्कलः| | कषायं स्यात् पक्कं तु मधुरं हिमम्| कृमिकृत् पित्तरक्कघ्नं मूर्च्छादातृषापहम् IDhn) Synonyms of udumbara are ksiravrksa, hemadugdha, saaaphala , apuspaphala sambandha, yajhanga, sitavalkala Komala phala of udumbara is kasaya in rasa Pakva phala is madhura in rasa, sita in veerya, causes krimi, alleviates vitiation of rakata, pitta, cures murccha, daha and trsna उदुम्वरं उदुम्बरं स्यात्पक्कम्तु मधुरं हिमम्| कृमिकृत्पित्तरक्तघ्नं मूर्च्छादाहतृषापहम्|| (Rjn) Apakva udumbara is kasaya in rasa. Pakva udumbara is madhura in rasa and sita in veerya.ly causes krmi, cures raktapitta, murccha, daha trsna कषायं and

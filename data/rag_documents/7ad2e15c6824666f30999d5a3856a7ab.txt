@@ -1,0 +1,97 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7ad2e15c6824666f30999d5a3856a7ab
+Botanical Name: Pterocarpus santalinus L.F.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 195 Vernacular names found in 10 languages. English (2) - red sandalwood, sanderswood Hindi (10) - lal-chandan, lalcandan, lalchandan, lalchandana, ragat-chandan, ragatchandan, rakta-chandana, raktacandan, rukhtochandan, undum Kannada (11) - benne, honne, kempu gandha, kempu-gandha-chekke, kempugandha, kempugandha chakke, patranga, rakta-chandana, raktacandana, raktachendana, raktashandana Malayalam (14) - cencandanam, chan-chandanam, ooruttahchandanam, patrangam, rakta-channanam, raktacandanam, raktachandanam, raktashandanam, senshendanam, tilaparnni, tilparnni, uruttachandanam, uruttucandanam, uruttushandanam Marathi (5) - rakta-chandana, raktachandan, rathaanjili, tambadachandana, thambada chandana Sanskrit (37) - Sanskrit Comments  agaru-gandhakashtaha, agarugandha, andana, arka, asukla candana, bhaskarpriya, candana, chandana, harichandana, hima, kshudrachandana, kucandana, kuchrasara, kumoda, kushikam, lohita, lohitacandana, lohitachandana, malayaja, patranga, pattanga, pravalphala, rajanakuchandana, raktabija, raktacandana, raktacandanah, raktacandanam, raktachandana, raktakta, raktanga, raktasara, raktavrksa, ranjana, tamrabhra, tamravriksha, tilapari, tilaparni Tamil (77) - akilankattai, anukam#, anukam@, anukkapitam, anukkapitamaram, arakkam2, aricantanam, ariccantanam, arikantam, atti, atti2, calavimpam, calliyam, calyam, cantanavenkai, cantani2, cemmaram3, cencandanam, cencantam, cencantanakkatti, cencantanam, cenkantam, cenkunkumam, chenchandanam, cikappu cantanam, cikappuccantanam, citacaram, civantacantam, civappuccantanam, civappuccenturam, curonitavirutti, curonitaviruttimaram, cuttiracantanam, iracitam, irancanam, irattacantanam, kapi1, kucantanam, kulavari2, kulaviri2, kulavukacam2, kulavuri2, kusandanam, locitam, makakantam 1, malcantanam, malcantanamaram, mantaram 1, maturam 1, nallacantanam, nattuccantanam2, nittittam, pattankam, pattirankam#, pattirankam@, picanam, picanam1, pidagattam, pulliri, rattacantanam, salliyam, sandanam, sandanavengai, segapoo shandanum, semmaram, sensandanakkattai, shen-chandanam, shen-shandanam, sivappuccandanam, sivapu chandanam, tamirakam1, tanmalokitam, tanpalokitam, teyvakala, teyvakalamaram, vatappatiram, vattiyam Telugu (32) - agarugandhamu, candanam, chandam, chandanam, chandanamu, erra-gandamu, erra-gandhapu-chekka, erracandamanu, errachandamu, errachandanam, erragandhapu, ettachandamu, kuchandanam, kuchandanamu, kunchandanamu, rakta-chandanam, rakta-gandham, raktacandanamu, raktachandanam, raktachandanamu, raktagandham, raktagandhamu, raktha chandanamu, raktha-chandanamu, rakthagandhamu, shandam, shandanamu, sundhanam, tsandanam, yerra-chandanamu, yerrachandanam, yerragandhamu Tibetan (4) - dmar, tsa nda na dmar po, tsan dan damar po, tsan dan dmar po Urdu (3) - burada sandal safaid, burada sandal surkh, sandal surkh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1764
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1764.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ad2e15c6824666f30999d5a3856a7ab
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Candana - rakta
+sanskrit_name: चन्दन रक्त
+transliteration: candana rakta
+ref_drug_name: चन्दन रक्त
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Raktacandana
+sanskrit_name: रक्तचन्दन
+transliteration: raktacandana
+ref_drug_name: रक्तचन्दन
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Raktacandana
+sanskrit_name: रक्तचन्दन
+transliteration: raktacandana
+ref_drug_name: रक्तचन्दन
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Raktacandana
+sanskrit_name: रक्तचन्दन
+transliteration: raktacandana
+ref_drug_name: रक्तचन्दन
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Raktacandana
+sanskrit_name: रक्तचन्दन
+transliteration: raktacandana
+ref_drug_name: रक्तचन्दन
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Raktacandana
+sanskrit_name: रक्तचन्दन
+transliteration: raktacandana
+image_urls: https://www.medicinalplants.in/slokaimages/1363/1363_1.jpg https://www.medicinalplants.in/slokaimages/1363/1363_2.jpg
+ocr_text: रक्तं शीतं गुरु स्वादु च्छर्दितृष्णास्रपित्तहृत् तिक्तं नेत्रहितं ज्वरव्रणविषापहम् (Bhava prakasha ) वृष्यं रक्तचन्दनमतीव शीतलं तिक्तमीक्ष्णगदास्रदोषनुत् भूतपित्तकफकाससज्वरभ्रान्तिजन्तुवमिजित्तृषापहम् (Raja nighantu )

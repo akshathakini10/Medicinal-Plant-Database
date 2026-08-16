@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 49d0100032236d1570f6d6d1d6019dbd
+Botanical Name: Cyphostemma setosum (ROB.) ALSTON
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cissus setosa ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 106 Vernacular names found in 4 languages. Kannada (3) - huli mangaravalli, narale balli, talavaranaballi Marathi (2) - khaajagoli, khajgolichavel Tamil (90) - ammilika, ammilikai2, anaittaticcal, atinkalikakkoti, atinkalikkam, attirapanitam, cankukelari, cankukilari, cankuni, cempinitavuralpokki, cikappuppuliyampirantai, civappuppuliyam pirantaikkoti, cotikavari, cukampal, cukampal2, cukampal@, culukan, kaiccanakkilanku, kaiccanam, kamari, kapavatahari, kauri2, keliki, kelikippirantai, kirakaniyam, kuncakarakkilanku, kuncakaram, kuncam, kunkumappirantai, kunkumappuliyampinantai, mancini, mancinikkilanku, metippalkunaratti, mulpirantai, mutpirantai, naralai, nulampirantai, nulanpirantai, pallavakkoti, pallavam, penpirantai, perkkavi, perkkavikkilanku, peymati@, pokiteram, puli naralai, puliam pirandai, puliampirandai, pulikkaranaikkilanku, pulikkarunaikkilanku, pulimaturai, pulimaturaikkilanku, pulinaralai, pulinaralai@, pulinaralaikkilanku, pulinaralaikkilanku@, pulinaranai, pulinatalai, pulinkarunai, pulippirantai, pulippuppirantai, pulippuppirantaikkoti, puliyamatarkilanku, puliyampirantai, puliyampirantaikkilanku, puliyaranai, puliyaranaikkilanku, puliyarilaikkilanku, pulliyam 2, pulliyam@, punniyam, putaram, putaram@, timpirantai, tukam, tumakkilanku, tustam, usnakapavatakkini, vetiyupputtampi, yacumirttan, yanaippiccan, yanaippiccankilanku, yanaippuccan, yanaittaticcal 1, yanaittaticcal 2, yanaittaticcarkilanku, yanaittatikkal, yanaittatippu 1, yanaittatippu 2, yanaiyaccan Telugu (11) - baraburtsali, barrebaccali, barrebachali, barrebachchali, burrabaccali, burrabatchellie, narabotchali, pullabaccali, pullabachchali, pullabattsali, pullubachhali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d0100032236d1570f6d6d1d6019dbd/xclkon/181f932c68335516fa2fcacf827a54b2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d0100032236d1570f6d6d1d6019dbd/xclkon/f663501a6efd9e4eff30507c25cb0658
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d0100032236d1570f6d6d1d6019dbd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d0100032236d1570f6d6d1d6019dbd/xclkon/181f932c68335516fa2fcacf827a54b2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d0100032236d1570f6d6d1d6019dbd/xclkon/f663501a6efd9e4eff30507c25cb0658
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d0100032236d1570f6d6d1d6019dbd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49d0100032236d1570f6d6d1d6019dbd/xclkon/181f932c68335516fa2fcacf827a54b2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

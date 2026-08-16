@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1b9ce0fc003be405c6d7ac1320014e3e
+Botanical Name: Calophyllum elatum BEDD.
+Family: Clusiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Tamil (2) - kattu punnai, kattuppinnai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b9ce0fc003be405c6d7ac1320014e3e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b9ce0fc003be405c6d7ac1320014e3e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b9ce0fc003be405c6d7ac1320014e3e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

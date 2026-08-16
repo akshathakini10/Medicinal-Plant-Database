@@ -1,0 +1,85 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 824a2c2219788b48e2a3bb1633d43370
+Botanical Name: Azadirachta indica A. JUSS.
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Melia azadirachta L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 295 Vernacular names found in 10 languages. English (3) - margosa
+margosa, neem, nim Hindi (18) - bakain, balnimb, darek, darek.dek.bekam, dinkan, drek, leemba, leemda, limbada, neem, neemda, neemdi, neemdo, neemro, nim, nimb, nimgachh, ninb Kannada (33) - ajani, arebevu, baalanthi baevu, baemu, baevina mara, baevu, bemu, beorunara, bevina, bevina mara, bevina-mara, bevu, beysdunara, chikkabevu, garudabevu, huttchubevu, isabaevu, kaayabaevu, kahi baevu, kahi bevu, kahi nimba, kahibevu, kaybevu, kayibevu, kaypebevu, kaypebivu, keibevu, lemalo, nimba, olle-bevu, ollebevu, thurakabevu, vevina Malayalam (17) - aria-bepou, ariabepou, ariya-veppa, aruveppu, aryatikta, aryaveppu, arytikta, kaippanveppu, nimbam, picumarddam, pisumarddam, rajaveppu, vembu, veppa, veppu, veppuu, vepu Marathi (12) - balantanimba, balanthanimba, kadu khajur, kadukhajur, kadunimb, kadunimba, limb, limba, limba chajhada, limbachajhada, nimb, nimbay Sanskrit (45) - Sanskrit Comments  a, arishta, arista, aristah, arkapadapa, chhardana, chhardighna, hingu, hinguniryasa, kaitarya, kakaphala, kireshta, kitaka, malaka, neta, nimba, nimbah, nimbaka, nimbavrikshaha, niryasa, niyamana, pakvakrita, paribhadhraka, paribhadrakah, pichumanda, picumanda, picumandah, picumarda, pitasara, prabhadra, prabhadrah, pukamalaka, puyari, rajabhadraka, ravipriya, sarvatobhadra, shirshaparna, shita, shukrapriya, subhadra, sumana, varatvacha, vishirnaparna, vranasodhakari, yavaneshta Tamil (138) - acutakimaram, akaluti, akappalamakkiyacatti, akuluti, ammapattini, ammapattiri, aracankanni, aricu2, aristakam, aritam@, arittam, arittam2, arkkapatavam, arukkapatavam, arulaci, arulundi kaduppagai, arulupati, aruluruti, arunati, aruttakam2, aruttam3, atipam, cakarakam, cakatam@, cakatamaram, cakatamuli3, cankumaru, cankumarutam, cankumarutamaram, carutopattiri, carvacatakam2, catapalacitti, catapalacittimaram, cavamuli2, cenkumaru, cippuratimuli, cirilipannan, cirinapannam, cirinapanni, cirinapannimaram, cirinapattiram, cirnaparam, cirnapattiram, civam2, civamatukam, civamatukamaram, iravippiriyam, kacappi6, kacappu3, kacappuppacitam, kacappuppacitamaram, kacappuvaruti, kacappuvarutimaram, kaitariyam, katippakai3, kecamutti, kinci 2, kincika, kinji, kiruminacamaram, kosaram, kotakapaciyam, kotakapaciyamaram, kotaravali, kotaravalimaram, malai vembu, malai vempu, malai-vembu, malakai, malakam, malugam, malukam@, maturakkacappi, mutikam, nalatampumaram, nattuvempu, nim, nimpakam, nimpam, nimpamaram, nimpataru, ninpam, niriyacam#, niriyacam@, niriyasam, nitarpam, niyacam, niyamanam@, niyamanamaram, niyaracam, niyaratam, niyatam, pacumantam, paripattiram, paripattiram2, pariyam2, parvatam 2, peranimpam, perunimpam, picacappiriyam, picacappiriyam#, picacappiriyam@, picacuppiriyam, picaram@, picavappiriyam, picumantam, picumantam2, picumattam, pirapattiram, pisidam, piyacukam, puyari 2, puyarikam, sengumaru, tittai, tittai@, tuttai, ukkirakantam5, ukkirakanti2, ukkragandam, varuttam, vatari, vaypum puttay, vembu, vempu, vempumaram, venipam, vepa, veppam, veppamaram, veppan, veppu, vicimikini, vicumantam, vicumikini, vicumini, viruttamaram, visapatcani Telugu (12) - nimbamu, tarakuvepa, taruka, tharuka, vaepa, vemu, vepa, vepa-chettu, vepachettu, yaapa chettu, yapa, yeppa Tibetan (2) - ni mba, ni-mba Urdu (15) - bakayens, burg neem, burge neem, gul neem, maghz tukhm bakayan, maghz tukhm neem, maghz tukhm-e-neem, neem, neem ke khusk pattay, neem ki namontian, poast darakht neem, poast darakht nim, poast neem, roghan neem, roghan nim
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370/xclkon/000d3b45b23e8d5511c0100bd4f75875
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 266
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/266.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370/xclkon/000d3b45b23e8d5511c0100bd4f75875
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370/xclkon/000d3b45b23e8d5511c0100bd4f75875
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370/xclkon/000d3b45b23e8d5511c0100bd4f75875
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370/xclkon/000d3b45b23e8d5511c0100bd4f75875
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370/xclkon/000d3b45b23e8d5511c0100bd4f75875
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/824a2c2219788b48e2a3bb1633d43370/xclkon/000d3b45b23e8d5511c0100bd4f75875
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nimba
+sanskrit_name: निम्ब
+transliteration: nimba
+ref_drug_name: निम्ब
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Nimba
+sanskrit_name: निम्ब
+transliteration: nimba
+ref_drug_name: निम्ब
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nimba
+sanskrit_name: निम्ब
+transliteration: nimba
+image_urls: https://www.medicinalplants.in/slokaimages/193/193_1.jpg https://www.medicinalplants.in/slokaimages/193/193_2.jpg https://www.medicinalplants.in/slokaimages/193/193_3.jpg https://www.medicinalplants.in/slokaimages/193/193_5.jpg
+ocr_text: Prabhadraka is Sita in Potency, Tikta in Rasa, cures Kapha, Vrana, krmi, Vami, Sopha, Balasabhid, Bahu vis,a Pitta dosha, Specifically it cures Hrdaya vidaha Nimba taila is not atyushna ana is Krmi-Kustha Kapha hara. Rjn) अथ निगदितः प्रभद्रः पारिभद्रको निम्बः काकफलः कीरेष्टो नेतारिष्टश्च सर्वतोभद्रः |l धमनो विशीर्णपर्णी पवनेष्टः पीतसारकः शीतः वरतिक्तोडरिष्टफलो ज्येष्ठामलकश्च हिंगुनिर्यासः |I छर्दनश्चाग्निंधमनो ज्ञेया नाम्ना तु विंशतिः IRjn Nigadita, prabhadra , picumanda, paribhaaraka, nimba, kakaphala, kiresta, netaristha, sarvatobhadra, dhamana, visirnaparna, pavanestha, pitasaraka, sita, varatikta, arista phala, jyesthamalaka, hinguniryasa, chardana, agni dhamana are the synonyms पिचुमन्दः निम्बः स्यात पिचुमर्दश्च पिचुमन्दश्च तिक्तकः अरिष्टः पारिभद्रश्च हिंगुनिर्यास इत्यपि Il (Bpnl Nimba is also called as pichu marda, pichumanda, tiktaka, aristha, paribhadra and hingu niryasa. निम्बो नियामनो नेता पिचुमन्दः सुतिक्तकः अरिष्टः सर्वतोभद्रः सुभद्रः पारिभद्रकः |l शुकप्रियश्चीर्णपर्णी यवनेष्टो वरत्वचः छर्दनो हिंगुनिर्यास पीतसारो रविप्रियः Il (sdn) Nimba is also called as niyamana, neta, picumanda , sutiktaka, arista sarvatobhadra, subhadra, paribhadraka, sukapriya, cirnaparna, yavanesta, varatvaca, chardana, hinguniryasa, pitasara ana ravipriya. निम्बस्तिक्तरसः शीतो लघुः श्लेष्मास्रपित्तनुत् कुष्ठकण्डूव्रणान् इन्ति लेपहारादिशीलितः अपक्वं पाययेच्छोफं व्रणं पक्वं विशोधयेत् नात्युष्णं निम्बजं तैलं कृमिकुष्ठकफापहम् वातरक्तप्रशमनं मदालक्ष्मीज्वरापहम् IDhn) Nimba is tikta in rasa , laghu in guna, sita in veerya, alleviates slesma, asra, pitta cures kustha, kandu, vrana, is effective as lepa. Apakva nimba alleviates sopha. Pakva nimba is vrana sodhaka Nimba taila is not atyushna, pacifies vatarakta, cures krmi, kustha, kapha, mada, jvara and alakshmi.

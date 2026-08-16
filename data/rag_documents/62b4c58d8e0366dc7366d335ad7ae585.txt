@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 62b4c58d8e0366dc7366d335ad7ae585
+Botanical Name: Commiphora myrrha ENGL.
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Balsamodendron myrrha N.& E.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 46 Vernacular names found in 10 languages. English (1) - myrrh Hindi (2) - bol, hirabol Kannada (3) - bola, gandharasa, guggula Malayalam (2) - narumpasa, narumpasamaram Marathi (1) - hirabol Sanskrit (10) - Sanskrit Comments  barbarah, bola, bolah, gandharasah, rasagandha, rasam, saindhava, samudraguggul, surasah, vola Tamil (22) - carukkaraippolam, civapolam, kanturu, kunkumatipam, kunkumatupam, kuntavilakkam, kunturu2, miru, nirlokam, polam, polam 2, valattipolam, valendrabolam, valentira palam, valentira polam, valentirapolam, valentirapolam#, valentirapolam@, vellaipolam, vellaippa-polam, vellaippapolam, vellattipolam Telugu (1) - balintrapolum Tibetan (2) - bo la bo ra pa, bo la bor pa (p) Urdu (2) - mur makki, murmakki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585/xclkon/ef9026b89e24f29e946a7b78bb91af7b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585/xclkon/ef9026b89e24f29e946a7b78bb91af7b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585/xclkon/ef9026b89e24f29e946a7b78bb91af7b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585/xclkon/ef9026b89e24f29e946a7b78bb91af7b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62b4c58d8e0366dc7366d335ad7ae585
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bola
+sanskrit_name: बोल
+transliteration: bola
+ref_drug_name: बोल
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Jatirasa
+sanskrit_name: जातीरस
+transliteration: jātīrasa
+ref_drug_name: जातीरस
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Rasa
+sanskrit_name: रस
+transliteration: rasa
+ref_drug_name: रस
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bola
+sanskrit_name: बोल
+transliteration: bola
+image_urls: https://www.medicinalplants.in/slokaimages/473/473_1.jpg https://www.medicinalplants.in/slokaimages/473/473_2.jpg https://www.medicinalplants.in/slokaimages/473/473_3.jpg
+ocr_text: बोलं रक्तहरं शीतं मेध्यं दीपनपाचनम् मधुरं कटु तिक्तं च ग्रहस्वेदत्रिदोषनुत्| | ज्वरापस्मारकुष्ठध्नं गर्भाशयविशुद्धिकृत्| | श्रीवासः सरलो बोलः कुन्दरुः ग्रन्थिपर्णकम् सिंल्हकं स्पृक्का गुछं नखद्वयं मुरा E सर्वेडमी पावनाः प्रेक्ता रक्षोघ्नाः ज्वरनाशनाः स्वादुतिक्तरसायुष्याः स्वेददौर्गन्ध्यनाशनाः | | लघुष्णाः कटुकाः पाके कफवातनिबर्हणाः बोलो विशेषतस्तत्र रक्तहन्ता प्रकीर्तितः | | (निघण्ट संग्रहे Bola is madhura, katu, tikta in rasa, sita in veerya medhya, dipana, pacana, alleviates vitiation Of rakta cures graham, sveda, tridosha, jvara, apasmara, kustha and is garbhashaya visuddhikaraka. Its synonyms are srivasa, sarala, bola, kunduru, granthiparnaka, turuska, simhalka, sprkka, guccha nakha dvaya, mura, ami, pavana, raksoghna jvaranasana It is svadu, tikta, in rasa, ayushya, laghu in property, USha In veerya, katu in paka, and specifically cures sveda daurgandhya and vitiation Of rakta, kapha and vata तुरुष्कं बोलं तु कटु तिक्तोष्णं कषायं रक्तदोषनुत् कफपित्तामयान हन्ति प्रदरादिरुजापहम (Rin) Bola is katu, tikta, kashaya in rasa, usna in veerya cures rakta dosha, diseases of kapha pitta and pradaradi ruja. बोलं तु कटु तिक्तोष्णं कषायं रक्तदोषनुत् [ कफपित्तामयान हन्ति प्रदरादिरुजापहम्I| (Rin) Bola is katu, tikta, kashaya in rasa, usna in veerya, cures rakta dosha, diseases of kapha pitta and pradaradi ruja.

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 020d7c9d590a49fa2a0268577153493f
+Botanical Name: Arthrocnemum indicum MOQ.
+Family: Chenopodiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Salicornia indica DREGE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 6 languages. Hindi (1) - machola Kannada (1) - havalada hoo Marathi (1) - machur Sanskrit (2) - Sanskrit Comments  subhar, suvar Tamil (8) - kolliam, pavalappundu, pavalappuntu, tagal, takal2, takarappuntu, umari, umiri Telugu (3) - koyyapippali, koyyapippli, pagadal chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/020d7c9d590a49fa2a0268577153493f/xclkon/f21af2217c34303a364bd22ef0e96af5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/020d7c9d590a49fa2a0268577153493f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/020d7c9d590a49fa2a0268577153493f/xclkon/f21af2217c34303a364bd22ef0e96af5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/020d7c9d590a49fa2a0268577153493f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/020d7c9d590a49fa2a0268577153493f/xclkon/f21af2217c34303a364bd22ef0e96af5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/020d7c9d590a49fa2a0268577153493f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/020d7c9d590a49fa2a0268577153493f/xclkon/f21af2217c34303a364bd22ef0e96af5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

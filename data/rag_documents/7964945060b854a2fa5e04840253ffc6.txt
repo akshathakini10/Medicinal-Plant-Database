@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7964945060b854a2fa5e04840253ffc6
+Botanical Name: Ipomoea pes-tigridis L.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 8 languages. English (1) - trailing ipomoea Hindi (5) - gheta, ghiabati, kamalata, panchati, panchpatri Kannada (1) - kaama lathe Malayalam (5) - puliccuvatu, pulichuvatu, pulicuvata, pulli-schovadi, pullischovadi Marathi (1) - arti Sanskrit (1) - Sanskrit Comments  vyaghranakhi Tamil (7) - mekamuaduga, puliccovati, pulichovadi, pulikkali, punaikkirai, punaikkirai 1, punnai-k-kirai Telugu (6) - chikunuvvu, cikunuvvu, mekamadugu, mekamuadugu, puritikada, puritithige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7964945060b854a2fa5e04840253ffc6
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1206
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1206.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7964945060b854a2fa5e04840253ffc6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7964945060b854a2fa5e04840253ffc6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7964945060b854a2fa5e04840253ffc6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

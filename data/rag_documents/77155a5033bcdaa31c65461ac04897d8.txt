@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 77155a5033bcdaa31c65461ac04897d8
+Botanical Name: Butea monosperma (LAMK.)TAUB. var. lutea (WIT.)MAHESHWARI
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Telugu (1) - tella modugu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/77155a5033bcdaa31c65461ac04897d8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/77155a5033bcdaa31c65461ac04897d8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Palasa
+sanskrit_name: पलाश
+transliteration: palāśa
+image_urls: https://www.medicinalplants.in/slokaimages/275/275_1.jpg https://www.medicinalplants.in/slokaimages/275/275_2.jpg https://www.medicinalplants.in/slokaimages/275/275_3.jpg https://www.medicinalplants.in/slokaimages/275/275_4.jpg
+ocr_text: क्षारश्रेष्ठः कृमिघ्नश्च संग्राही दीपनः सरः प्लीहगुल्मग्रहण्यर्शोवातश्लेष्मविनाशमः | | किंशुकस्यापि कुसुमं सुगन्धि मधुरं च तत्| कटुकं स्निग्धमुष्णं कृमिबलासजित् IDhn) Palasa is sangrahi, sara in guna, ksara sresta, dipana para, alleviates krmi, pliha, gulma, grahani, arsa, vata and slesma Its kusuma is sugandhi ana madhura Its bija is katu in rasa, snigdha in guna, usna in veerya, alleviates krmi ana bbalasa बीजन्तु पलाशस्तु कषायोष्णकृमिदोषविनाशनः | तद्बीजं पामयोष्णकृमिदोषविनाशनः | तस्य पुष्पं च सोष्णं च कण्डूकुष्ठार्तिनाशनम् [ रक्तः पीतः सितो नीलः कुसुमैस्तु विभज्यते| | किंशुकर्गुणसाम्येडपि सो विज्ञानदः परः Il IRjn) Palasa is kashaya in rasa, usna in veerya ana destroys krmi dosha. Its bija is pamayo, usna in veerya, destroys krmi dosha Its puspa is usna in veerya, alleviates kandu, kustha and arti. Types of palasa are rakta, pita, sita, nila, depending on the colour of the flower and they are similar in properties. पलाशमूलस्वरसो नेत्रच्छायान्ध्यपुष्पजित्| तद्बीजं कृमिविध्वंसि हितः काण्डो रसायने ( ISodala) Palasa mula svarasa alleviates netrachaya, andhya puspa. Its Dija destroys krmi ana its kanda is rasayana कुष्ठगुल्मोदरार्शोघ्नं कटुपाकि तथैव च| करंजर्किशुकारिष्टकलं जन्तुप्रमेहजित्| | किंशुकं (शाकं) कफपित्तघ्नम् ॰ सु॰ सू ४६ Palasa is katu in paka, alleviates kapha and pitta cures kustha, gulma, udara arsa, jantu and prameha.

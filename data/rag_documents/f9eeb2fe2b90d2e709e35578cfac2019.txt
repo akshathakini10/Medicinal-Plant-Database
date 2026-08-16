@@ -1,0 +1,111 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f9eeb2fe2b90d2e709e35578cfac2019
+Botanical Name: Alpinia galanga (L.) WILLD.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Costus arabicus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 180 Vernacular names found in 9 languages. English (1) - siamese ginger Hindi (9) - bara-kalijan, bara-kulanjan, barakalijan, barakulanjan, barakulinjan, kulanajn, kulanjan, kulinjan, saphed-panaki-jhad Kannada (18) - dhumarasmi, doddadumprashme, doopparaasme, dumbaraasme, dumbarasme, dumbraashta, dumpa rasme, dumpa-rasmi, dumparaasme, dumrashta, gandhamoola, kulinjana, raasmi, rasmi, rasmini, sugandhavachi, sugandhavaci, sughandavachi Malayalam (6) - aratta, chitta-ratta, cittaratta, pera-ratta, peraratta, perasatta Marathi (4) - kolinjan, kosht-kulinjan, koshtkulinjan, kulimjan Sanskrit (32) - Sanskrit Comments  aruna, dhumala, dhumparastma, dumparastma, elaparni, gandhamula, gandhavaruni, kapidruma, kemooka, koraja, kulangana, kulanja, kulanjana, kulin-jana, kulinjana, kushtam, mahabaravach, mahabharavacha, mahabhari vaca, mahabharivaca, malayavaca, nakuli, patala, purusha, raktapushpa, rasna, sthulagranthi, sugandha, sugandhamula, sugandhavacha, sugandhayoga, tikshnamula Tamil (98) - akkulati, anaivacampu, anandam, anantam 1, anantatam, ananti#, ananti@, aracanam 2#, aracanam 2@, araddai, arattai, ardubam, arppatumam, arttupam, arttuvam, artupam, atitipam, attumam, attumam#, attumam@, atumam, cakunam, canna rastakam, caramarutam, cattiratci, cattiratti, cencaram, cerukkampam, cikamatakikam, cikamatam, cirenki, citakampam, cukantam 1, curacam, curatakku, curatakkutam, elaparani, erarattai, iracana#, iracana@, iracanacikam, iracanakikam, iracina, iratanai, irattaputpam 1, irattarenu, kandanaguliyam, kantamulam 1, kantanakuliyam, katiyastakam, kattiratci, kentacamakan, kentakanarani, kostum, kottakarai, kulancam, mitintarattai, mitintu, mulatiracam, mutical, nakuli 1, narayanam, natanatam, oramrundu, ormaruntu, pavanam, pera-rattai, peraraddai, perarathai, perarathi, perarattai, perarattai#, perarattai@, perearetei, periareta, purantam, putakani, sattiradji, sugandam, thumbrashtagam, tiritosavatakacakkini, tittikam, tittipam, tittiram, tittiyam#, tittiyam@, tummarastakam, tumpakam 2, tumparastakam, tumparattakam, tumparattam, tumpurastakam, tumpurattakam, tumpurattam, tumras takam, turani, uttamam, vamanaci Telugu (8) - dumparaashtrakamu, dumparashtrakamu, kachoramu, pedda-dhumpa, pedda-dumpa-rashtrakam, peddadumparaashtrakmu, peddadumparashtrakamu, rash-trakam Urdu (4) - badi khulanjan, khulanjan, khulanjan nim kofta, kulanjan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019/xclkon/5b313063c0be7e6213fa60665c081af8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019/xclkon/5b313063c0be7e6213fa60665c081af8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019/xclkon/5b313063c0be7e6213fa60665c081af8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019/xclkon/5b313063c0be7e6213fa60665c081af8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f9eeb2fe2b90d2e709e35578cfac2019/xclkon/5b313063c0be7e6213fa60665c081af8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Elaparni
+sanskrit_name: एलापर्णी
+transliteration: elāparṇī
+ref_drug_name: एलापर्णी
+status: Most probable
+discussion: May be identified with this species which is a synonym of Rasna and used as Rasna in the south
+reference: [1]
+
+Identity Record 2
+drug_name: Kulanjana
+sanskrit_name: कुलञ्जन
+transliteration: kulañjana
+ref_drug_name: कुलञ्जन
+status: Accepted source
+discussion: Raja nighantu has explained 'Kulanjana' in detail where as Bhavaprakasa explained it by the name 'Mahabharivaca'; It is identified by this species
+reference: [5]
+
+Identity Record 3
+drug_name: Mahabhari vaca
+sanskrit_name: महाभारी वचा
+transliteration: mahābhārī vacā
+ref_drug_name: महाभारी वचा
+status: Accepted source
+discussion: Mahabhari vaca' is identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Malayavaca
+sanskrit_name: मलयवचा
+transliteration: malayavacā
+ref_drug_name: मलयवचा
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Rasna
+sanskrit_name: रास्ना
+transliteration: rāsnā
+ref_drug_name: रास्ना
+status: Controversial
+discussion: Rasna is a highly controversial drug and this is considered as Rasna in South India; With regard to the synonyms given in the text matching with the morphological features of the plant this species was taken into consideration
+reference: [2]
+
+Identity Record 6
+drug_name: Rasna
+sanskrit_name: रास्ना
+transliteration: rāsnā
+ref_drug_name: रास्ना
+status: Controversial
+discussion: In various parts of India different species are assumed as 'Rasna' and this is one of the species which is suggested as a correlation
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rasna
+sanskrit_name: रास्ना
+transliteration: rāsnā
+image_urls: https://www.medicinalplants.in/slokaimages/95/95_1.jpg https://www.medicinalplants.in/slokaimages/95/95_2.jpg https://www.medicinalplants.in/slokaimages/95/95_3.jpg https://www.medicinalplants.in/slokaimages/95/95_4.jpg https://www.medicinalplants.in/slokaimages/95/95_5.jpg https://www.medicinalplants.in/slokaimages/95/95_6.jpg https://www.medicinalplants.in/slokaimages/95/95_7.jpg https://www.medicinalplants.in/slokaimages/95/95_8.jpg
+ocr_text: रास्ना युक्तरसा स्याच्छ्रेयस्या श्रेयसा रसा युक्ता सुवहा सुगन्धमूला रस्या सा गन्धनाकुली चे Il IAa mal Rasna, yuktarasa, sreyasa, sreyasi, yukta, suvaha, sugandhamula, rasya and gandhanakuli are its synonyms रास्ना युक्तरसा रस्या सुवहा रसाना रसा एलापर्णी च सुरसा सुगन्धा श्रोयसी तथा Il (Bpnl Rasna , yukta rasa, rasya, suvaha, rasna, rasa, elaparni, surasa, sugandha, sroyasi are its synonyms विशेषाद्वातरोगघ्नी तैलादिषु नियोजिता विषघ्नी श्वासकासघ्नी रास्ना हिक्कानिवारणी Il MMdnl Rasna specifically alleviates vataroga when used in the form of taila It also alleviates visha, svasa, kasa Inikka. and रास्नामपाचनी तिक्ता गुरूष्णा कफवातजित् शोफश्वाससमीरास्रवातशूलोदरापहा कासज्वरविषार्शावातिकामयहिध्महृत (Bpn) Rasna is tikta in rasa, guru in guna, usna in veerya, ama pacani, alleviates kapha ana vata, cures sopha , svasa, samira, asra vata, sula, udara, kasa jvara visa, sita vata and hidhma रास्ना गुरुश्च तिक्तोष्णा विषवातास्रकासजित् शोफकम्पोदरश्लेष्मशमन्यामस्य पाचनी Il IDhnl Rasna is tikta in rasa, guru in guna, usna in veerya, cures visha, vata, asra, kasa, sopha, kampa, udara, slesma and is ama pacana रास्ना तिक्ता गुरुश्चोष्णा पाचन्यामविनाशिनी वातरक्तं विषं श्वासं कासं विषमज्वरम |l शोफं हिक्कां चामवातं कफं शूलं विनाशयेत् ज्वरं कम्पं चोदरं च सर्वान् वातांश्च नाशयेत Il (Sgnl Rasna is tikta in rasa, guru in guna usna in veerya, pacana, aestroys ama cures vatarakta, visa , svasa, kasa, visamajvara, sopha, hikka , amavata kapha, sula, jvara, kampa, uaara and sarva vata रास्ना तिक्ता गुरूष्णामपाचनी कफपित्तहा निहन्ति शोफवातास्रश्वासकासविषज्वरान १ हिध्माशीतामवाताढ्या वातशूलोदरणि च (Kdn) Rasna is Tikta in rasa, guru in Guna, Usna in Potency Ama pacani, Kapha Pitta hara, cures Sopha, Vata asra, Svasa, Kasa, Visha, Hidhma, Sita vata, Ama vata, Vata adhya, Vata sula and Udara रास्नोष्णा वातशोफामवातवातामयान् जयेत् ISdn) Rasna is Usna in Potency, Vata sopha Amavata hara.

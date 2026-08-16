@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e2ae590bf349b449c4be0661dbeefb93
+Botanical Name: Eulophia herbacea LINDL.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  munjataka Tamil (6) - calamiciri, calampicin, koraipperikam, koraipperikapparuppu, miciri, miciripparuppu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2ae590bf349b449c4be0661dbeefb93
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Munjjataka
+sanskrit_name: मुञ्जातक
+transliteration: muñjātaka
+ref_drug_name: मुञ्जातक
+status: Accepted source
+discussion: This species is used as a substitute for Munjjataka
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

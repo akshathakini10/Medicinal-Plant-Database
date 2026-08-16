@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2f57a77e2ee2a731b67113510c90833a
+Botanical Name: Tricholepis glaberrima DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 5 languages. Hindi (1) - brahmadandi Kannada (4) - brahma dande gida, brahmadande, brahmadandi, naati brahma dande Marathi (2) - dhan, motabor Sanskrit (3) - Sanskrit Comments  ajadandi, brahmadandi, kantapatraphala Urdu (2) - birham dandi, birham daundi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2118
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2118.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f57a77e2ee2a731b67113510c90833a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Brahmadandi
+sanskrit_name: ब्रह्मदण्डी
+transliteration: brahmadaṇḍī
+ref_drug_name: ब्रह्मदण्डी
+status: Accepted source
+discussion: Brahmadandi' is mentioned in Raja nighantu which is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ebd12a80de52d48d71032b829e9c7251
+Botanical Name: Lippia javanica (BURM.F.) SPR.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lippia alba N.E. BR. E BRITTON & WILS
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd12a80de52d48d71032b829e9c7251
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd12a80de52d48d71032b829e9c7251/xclkon/0881ddf5363bf0de08f771f5a0355217
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd12a80de52d48d71032b829e9c7251/xclkon/ede932f9add36baf7d5344ef6d7bedbf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebd12a80de52d48d71032b829e9c7251
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

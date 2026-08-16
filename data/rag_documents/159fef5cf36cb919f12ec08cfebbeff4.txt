@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 159fef5cf36cb919f12ec08cfebbeff4
+Botanical Name: Carallia brachiata (LOUR.) MERR.
+Family: Rhizophoraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Carallia integerrima DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 44 Vernacular names found in 6 languages. Hindi (1) - kierpa Kannada (19) - anda murimu, andamuria, andhi punaaru mara, andhimaragala, andhimuriyana, andi muriya, andimargal, andimuria, andimuriya, andinaru, andipunaaru mara, andipunai, andipunar, andipunaru, andivu naaru gida, andumurugal, naayi halasu, punselu, undimara Malayalam (10) - kara, kare-kandel, murukanhiram, vallabham, vallayam, valogam, valovam, vankana, varanga, varangu Marathi (3) - kamdelo, ponsi, savo-kam-delo Tamil (4) - andimiriam, antimiriyan, karalli, pumpillu Telugu (7) - gijuru chettu, kaaralli, kaaravalli, kaarvalli, karali, karalli, karavalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/159fef5cf36cb919f12ec08cfebbeff4/xclkon/5e0ab37c50387f1fa7145cb68cd0936c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/159fef5cf36cb919f12ec08cfebbeff4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/159fef5cf36cb919f12ec08cfebbeff4/xclkon/5e0ab37c50387f1fa7145cb68cd0936c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/159fef5cf36cb919f12ec08cfebbeff4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/159fef5cf36cb919f12ec08cfebbeff4/xclkon/5e0ab37c50387f1fa7145cb68cd0936c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

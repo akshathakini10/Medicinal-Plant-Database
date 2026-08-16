@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7288d13db1c723748b010caabb7e16fe
+Botanical Name: Delphinium bruonianum ROYLE
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 4 languages. Hindi (4) - bhotia-ladara, kasturi, nepari, samp-phali Kannada (3) - dodda nirvisha, kasthoori, latha kasthoori Sanskrit (1) - Sanskrit Comments  tagara Tibetan (1) - bya rgod spos
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7288d13db1c723748b010caabb7e16fe
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 773
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/773.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7288d13db1c723748b010caabb7e16fe
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

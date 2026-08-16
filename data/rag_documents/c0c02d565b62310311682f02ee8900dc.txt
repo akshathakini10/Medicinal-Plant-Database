@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c0c02d565b62310311682f02ee8900dc
+Botanical Name: Monochoria vaginalis PRESL.
+Family: Pontederiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 8 languages. English (2) - marshy betelvine, monochoria Hindi (1) - nanka Kannada (1) - neelothpala Malayalam (2) - carim-gola, karinkuvvalam Marathi (1) - nelat-phal Sanskrit (1) - Sanskrit Comments  indivarah Tamil (25) - karikakkuvalaikkoti, karimkuvalam, karunkuvalai, kavitakkoti, kavitam, kolai, koticcittamarai, kullaiyam, kuncarakkoti, kuncaram 2, kuvalam, kuvalayam 2, nilakamalam, nilakkoti, nilampucam, nilampukkoti, nilappattiram, nilattamarai, nirkkavi, rauka 2, raukakuvalaikkoti, senkazhuneer kizhangu, tankacci, tankai, tankaicci Telugu (3) - neerukaacha, nirkanca, nirokancha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0c02d565b62310311682f02ee8900dc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1459
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1459.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0c02d565b62310311682f02ee8900dc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0c02d565b62310311682f02ee8900dc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0c02d565b62310311682f02ee8900dc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

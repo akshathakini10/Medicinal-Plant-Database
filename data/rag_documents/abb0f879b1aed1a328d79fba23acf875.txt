@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: abb0f879b1aed1a328d79fba23acf875
+Botanical Name: Opuntia elatior MILL.
+Family: Cactaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Opuntia nigricans HAW.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 2 languages. Hindi (2) - nagphani, thor-ka-haath Tamil (18) - ariyokitakkarralai, ariyokitam, cennakatali2, civappunakatali, kaiviritavam, karunakatali, karunakatalikkoti, mullilakkarralai, mullillakkarralai, mulumuvitakkarralai, mulumuvital, nakamullu, nakaparani, nakapatam, nakappatikkarralai, ninocikkarralai, tevamati, tevamatikkarralai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abb0f879b1aed1a328d79fba23acf875/xclkon/70abf7dc52d753518d41767b4ce3a1ab
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abb0f879b1aed1a328d79fba23acf875
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abb0f879b1aed1a328d79fba23acf875/xclkon/70abf7dc52d753518d41767b4ce3a1ab
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abb0f879b1aed1a328d79fba23acf875
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abb0f879b1aed1a328d79fba23acf875/xclkon/70abf7dc52d753518d41767b4ce3a1ab
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

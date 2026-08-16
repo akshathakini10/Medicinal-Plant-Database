@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3ce7921933ce69410cf9955206a6e109
+Botanical Name: Grangea maderaspatana POIR.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Artemisia maderaspatana L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 6 languages. English (1) - masipatri Kannada (12) - davana, dodda gaadari, dovna, granthiparni, kaadu uddu, maachi pathre, maasi patre, manchi patre, muthu kaaraachi, mutthu kaaraasi gida, mutthu karaacha, mutthu karaasi gida Malayalam (1) - nelam-pata Marathi (4) - maachi pathree, maashipathri, mashipatri, modagoru Tamil (6) - cinnappukkottaikkarantai, macipattiri 1, mashipatri, mashipattiri, masipathri, terulupam Telugu (4) - maachi pathre, manchipathri, nemalipadham, save
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ce7921933ce69410cf9955206a6e109
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ce7921933ce69410cf9955206a6e109/xclkon/12c4f87746ef9f27e7a44ce61dee948c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ce7921933ce69410cf9955206a6e109
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ce7921933ce69410cf9955206a6e109/xclkon/12c4f87746ef9f27e7a44ce61dee948c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ce7921933ce69410cf9955206a6e109
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ce7921933ce69410cf9955206a6e109/xclkon/12c4f87746ef9f27e7a44ce61dee948c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ce7921933ce69410cf9955206a6e109
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,321 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 50a88a84c96f84eac60a122e7745fa20
+Botanical Name: Oryza sativa L.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 105 Vernacular names found in 10 languages. English (5) - paddy, rice, sake, sea-grass matting, wild rice Hindi (9) - caval, chauval, chaval, dhan, hal, saal, saatti, sawal, seal Kannada (6) - akki, batta, battha, bhatta, bhattha, nellu Malayalam (3) - ari, navaranellu, nellu Marathi (6) - bhat, pendha, saala, tandul, tandula, thandula Sanskrit (28) - Sanskrit Comments  ahi, bilvaja, dhanya, dhanyah, garuda, hima, jiraka, kacoraka, kalama, kalmasa, kapinjala, khanjarita, magadhi, mahasali, nivara, pita, raktabhasali, raktasali, rukmavanti, sali, sastika, saugandhi, shali, sukala, tandula, tandulam, vara, vilavasin Tamil (27) - ari3, arici, aricikkati, arisee, arishi, arisi, arshi, cali, cennel, iyavam1, kalamam, kalanippayir, kalunir, karunkuruvai arici, kati nir, nel, nell, nellu, nerpori, tantulam2, torai, torai2, vai, vari, viriki, viriki 1, yavam 1 Telugu (17) - biyam, biyyam, cheni, dhaanyamu, dhanyamu, errajilama, errajilama vadlu, mattakaa, mattakaaralu, nevaridhaanyamu, nevaridhanyamu, pari, urlu, vadlu, vari, vudlu, yerra rajanaalu Tibetan (2) - bras dmar po, drug cu pa Urdu (2) - biranj sathi(chawal), chawal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50a88a84c96f84eac60a122e7745fa20
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhaanya
+sanskrit_name: धान्य
+transliteration: dhānya
+ref_drug_name: धान्य
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 2
+drug_name: Dhanyaka
+sanskrit_name: धान्यक
+transliteration: dhānyaka
+ref_drug_name: धान्यक
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 3
+drug_name: Gandhala
+sanskrit_name: गन्धल
+transliteration: gandhala
+ref_drug_name: शालि
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Gandhala
+sanskrit_name: गन्धल
+transliteration: gandhala
+ref_drug_name: षष्टिक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Gandhala
+sanskrit_name: गन्धल
+transliteration: gandhala
+ref_drug_name: व्रीही
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 6
+drug_name: Gandhala
+sanskrit_name: गन्धल
+transliteration: gandhala
+ref_drug_name: कलम
+status: Accepted source
+discussion: identified with it, VARIETY ?
+reference: [1]
+
+Identity Record 7
+drug_name: Kalama
+sanskrit_name: कलम
+transliteration: kalama
+ref_drug_name: शालि
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 8
+drug_name: Kalama
+sanskrit_name: कलम
+transliteration: kalama
+ref_drug_name: षष्टिक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 9
+drug_name: Kalama
+sanskrit_name: कलम
+transliteration: kalama
+ref_drug_name: व्रीही
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 10
+drug_name: Kalama
+sanskrit_name: कलम
+transliteration: kalama
+ref_drug_name: कलम
+status: Accepted source
+discussion: identified with it, VARIETY ?
+reference: [1]
+
+Identity Record 11
+drug_name: Kedara
+sanskrit_name: केदार
+transliteration: kedāra
+ref_drug_name: शालि
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 12
+drug_name: Kedara
+sanskrit_name: केदार
+transliteration: kedāra
+ref_drug_name: षष्टिक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 13
+drug_name: Kedara
+sanskrit_name: केदार
+transliteration: kedāra
+ref_drug_name: व्रीही
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 14
+drug_name: Kedara
+sanskrit_name: केदार
+transliteration: kedāra
+ref_drug_name: कलम
+status: Accepted source
+discussion: identified with it, VARIETY ?
+reference: [1]
+
+Identity Record 15
+drug_name: Kusumandaka
+sanskrit_name: कूष्माण्डक
+transliteration: kūṣmāṇḍaka
+ref_drug_name: शालि
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 16
+drug_name: Kusumandaka
+sanskrit_name: कूष्माण्डक
+transliteration: kūṣmāṇḍaka
+ref_drug_name: षष्टिक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 17
+drug_name: Kusumandaka
+sanskrit_name: कूष्माण्डक
+transliteration: kūṣmāṇḍaka
+ref_drug_name: व्रीही
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 18
+drug_name: Kusumandaka
+sanskrit_name: कूष्माण्डक
+transliteration: kūṣmāṇḍaka
+ref_drug_name: कलम
+status: Accepted source
+discussion: identified with it, VARIETY ?
+reference: [1]
+
+Identity Record 19
+drug_name: Sali
+sanskrit_name: शालि
+transliteration: śāli
+ref_drug_name: शालि
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 20
+drug_name: Sali
+sanskrit_name: शालि
+transliteration: śāli
+ref_drug_name: षष्टिक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 21
+drug_name: Sali
+sanskrit_name: शालि
+transliteration: śāli
+ref_drug_name: व्रीही
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 22
+drug_name: Sali
+sanskrit_name: शालि
+transliteration: śāli
+ref_drug_name: कलम
+status: Accepted source
+discussion: identified with it, VARIETY ?
+reference: [1]
+
+Identity Record 23
+drug_name: Sastika
+sanskrit_name: षष्टिक
+transliteration: ṣaṣṭika
+ref_drug_name: शालि
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 24
+drug_name: Sastika
+sanskrit_name: षष्टिक
+transliteration: ṣaṣṭika
+ref_drug_name: षष्टिक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 25
+drug_name: Sastika
+sanskrit_name: षष्टिक
+transliteration: ṣaṣṭika
+ref_drug_name: व्रीही
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 26
+drug_name: Sastika
+sanskrit_name: षष्टिक
+transliteration: ṣaṣṭika
+ref_drug_name: कलम
+status: Accepted source
+discussion: identified with it, VARIETY ?
+reference: [1]
+
+Identity Record 27
+drug_name: Vrihi
+sanskrit_name: व्रीही
+transliteration: vrīhī
+ref_drug_name: शालि
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 28
+drug_name: Vrihi
+sanskrit_name: व्रीही
+transliteration: vrīhī
+ref_drug_name: षष्टिक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 29
+drug_name: Vrihi
+sanskrit_name: व्रीही
+transliteration: vrīhī
+ref_drug_name: व्रीही
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 30
+drug_name: Vrihi
+sanskrit_name: व्रीही
+transliteration: vrīhī
+ref_drug_name: कलम
+status: Accepted source
+discussion: identified with it, VARIETY ?
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dhanyaka
+sanskrit_name: धान्यक
+transliteration: dhānyaka
+image_urls: https://www.medicinalplants.in/slokaimages/68/68_1.jpg https://www.medicinalplants.in/slokaimages/68/68_2.jpg https://www.medicinalplants.in/slokaimages/68/68_3.jpg https://www.medicinalplants.in/slokaimages/68/68_4.jpg https://www.medicinalplants.in/slokaimages/68/68_5.jpg https://www.medicinalplants.in/slokaimages/68/68_6.jpg
+ocr_text: धान्यकं मधुरं शीतं कषायं पित्तनाशनम् ज्वरकासतृषाच्छर्दिकफहारि च दीपनम् II (Rjn) Dhanyakam is madhura, kashaya in rasa, sita in paka, pitta nasana cures jvara, kasa, irsa, chardi, kapha and is dipana रोचनं दीपनं वातज फदौर्जध्यbाशbोम् | (C.S.Su २७) Dhanyaka is rocana, pacana, alleviates vata, kapha and daurgandhya. भक्ष्यव्यञ्जनभोज्येषु विविधेष्ववचारिता आर्द्र कुस्तुम्बरी कुर्यात् स्वादु सौगन्ध्यहृद्यताम् Il (Su.S Su ४६) Fresh dhanyaka used for processing various food items and condiments brings deliciousness, good aroma and agreeableness आर्द्रका मूत्रला नच पित्तकृत् भोज्यव्यञ्जनभक्ष्येषु प्रयोजिता || आर्द्रा कुस्तुम्बरी स्वर्या स्वादु सौगन्ध्यहृद्यताम् सा शुष्का मधुरा पाके स्निग्धा तृड्दाहजाशिनी Il (Mdn) Ardra Dhanyaka is Katu, Tikta in Taste, Usna in Potency Mutrala Pitta karaka, when used in the preparation of different types of food and condiments it is Svarya, Svadu, Saugandhya hrdyatama Suska is Madhura in Paka, Snigdha, TrtDaha nasini. कटुतिक्तोष्ण विचित्रेषु धान्यकं स्निग्धमवृष्यं मूत्रलं लघु | तिक्तं कटूष्णवीर्यं च दीपनं पाचनं स्मृतम् Il ज्वरघ्नं रोचनं ग्राहि स्वादुपाकि त्रिदोषनुत् तृष्णादाहवमिश्वासकासामार्शः कृमिप्रणुत् |l तद्गुणं स्वादु विशेषात्पित्तनाशिं तत् (Bpn) Dhanyaka is Tuvara in Taste Snigdha, Avrsya, Mutrala, Laghu in Property Tikta Katu in Taste Usna in Potency Dipana Pacana, Jvaraghna, Rocana, Grahi, Svadu in Paka, Tridosha hara, cures Daha, Svasa Vami, Kasa Ama Arsa, Krmi. Ardra is Svadu, Visesat Pitta nasaka. तुवरं आर्द्रन्तु Trsna आर्द्रा कुस्तुम्बरुः स्वादुसौगन्धहृद्यताम् सा शुष्का मधुरा पाके स्निग्धा तृड्दाहनाशिनी Il धान्यकं कासतृट्छर्दिज्वरहृच्चक्षुषो हितम् कषायतिक्तमधुरं हृद्यं दीपनपाचनम् Il (Dhn) Ardra Kustumburu is Svadu, Saugandhya, Hrdya. Suska is Madhura in Paka, Snighda, Trt Daha hara. Dhanyaka is Kasa Trt- Chardi Jvara Hrt Cakshu Hita is Kashaya, Tikta Madhura in taste Hrdya and Dipana and Pacana कुर्यात्

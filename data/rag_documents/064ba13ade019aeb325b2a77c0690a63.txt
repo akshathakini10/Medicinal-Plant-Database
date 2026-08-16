@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 064ba13ade019aeb325b2a77c0690a63
+Botanical Name: Aeschynomene indica L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 7 languages. English (2) - shola pith, trailing sesbania Hindi (3) - chhuimui, didhen, phulan Kannada (3) - bedukasa, bendu kasa, bendukasa Malayalam (3) - neli-tali, nelitali, nellittali Marathi (1) - nalabi Tamil (13) - athunetti, catai, catinam1, kidaichi, kitai, kitaicci, kottiram1, netti, nettithakkai, sadai poondu, takkai, takkaippuntu, thakkapundu Telugu (6) - bendu, jeeluga, jiluga kaada, tella jeeluga, thigejiluga, tigejiluga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/064ba13ade019aeb325b2a77c0690a63
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/064ba13ade019aeb325b2a77c0690a63
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/064ba13ade019aeb325b2a77c0690a63
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

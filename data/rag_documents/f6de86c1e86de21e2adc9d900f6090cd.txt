@@ -1,0 +1,87 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f6de86c1e86de21e2adc9d900f6090cd
+Botanical Name: Baliospermum solanifolium (J.BURM.) SURESH
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Baliospermum axillare BLUME
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 113 Vernacular names found in 8 languages. Hindi (9) - dante, danti, dantt, hakni, hakum, hakun, hakuna, jangli jamalghota, jangli-jamalgota Kannada (7) - danthi, danti, dantika, kaadu haralu, kaduharalu, naaga danti, naagadanthi Malayalam (9) - danti, dantika, katalavanakku, naga-danti, nagadanti, nakadanti, nervalam, niradimuttu, niratimuttu Marathi (3) - buktumbo, danti, jamalgot Sanskrit (46) - Sanskrit Comments  a, anukheti, anukula, artagala, bhadra, danti, danti-nana, dantika, dravanti, erandapatri, erandaphala, gunapriya, jayapala, kakubha, kumbhachitra, kumbhi, kurantaka, madhupushpa, makulaka, makunaka, mukulaka, nagadanti, nagasphota, nepala, nikumba, nikumbha, nikumbhah, nikumbhi, nishalya, nishkumbha, pratyakparni, pratyaksreni, raktadanti, rechani, ruksha, shighra, shwetaghanta, shyenaghanta, sighra, taruni, udumbaraparni, upachitra, upakulya, varahangi, vishalya, vishodhini Tamil (28) - appaiccevakacceti, appaiccevakam, cimai amanakku, cimaiyamanakku@, ilantanamanakku, irancani1, kanniyucari, kanniyucaricceti, kattamanakku, kattamanakku2, kattamankku, kumpam2, maniyamanakku 2, maniyamanakkucceti, nagdanti, nakatanti, nepalam2, nir adimuttu, niradimuttu, niratimuttu2, nirettimuttu, nirvetti2, parankiyamanakku 2, peyamanakku, shimai-amanakku, tanti3, timpalai, turuvati Telugu (9) - erradundiga, ettadundiga, kanaka pata, kanakapaata, kanakapata, kondamudamu, neelajidi, nela jidi, nelajidi Tibetan (2) - da nti, da-nti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/7d6d7b9ba0e302d5656f99319ec7eb68
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 279
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/279.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/029aef95772bcbfdcecd82e64295e867
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/4535d94292c08569d35c5b9f32b738a1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/7d6d7b9ba0e302d5656f99319ec7eb68
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/029aef95772bcbfdcecd82e64295e867
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/4535d94292c08569d35c5b9f32b738a1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/7d6d7b9ba0e302d5656f99319ec7eb68
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/029aef95772bcbfdcecd82e64295e867
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/4535d94292c08569d35c5b9f32b738a1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/7d6d7b9ba0e302d5656f99319ec7eb68
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/029aef95772bcbfdcecd82e64295e867
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/4535d94292c08569d35c5b9f32b738a1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/7d6d7b9ba0e302d5656f99319ec7eb68
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/029aef95772bcbfdcecd82e64295e867
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/9880ad72c7fc698adc45355595f69f38
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/4535d94292c08569d35c5b9f32b738a1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6de86c1e86de21e2adc9d900f6090cd/xclkon/7d6d7b9ba0e302d5656f99319ec7eb68
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

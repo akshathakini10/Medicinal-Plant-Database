@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6fbfce690f7bad8fd142e27835f7bf4a
+Botanical Name: Luffa acutangula ROB. var. amara (ROB.) CL.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Luffa amara ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 84 Vernacular names found in 7 languages. Hindi (7) - jhimani, karvi-turai, karvi-turi, karvitarui, karvituri, rantorai, sankirah Kannada (4) - kahi heere, kahi-keera, kahire, naaga daali balli Malayalam (1) - athanga Marathi (7) - dadudodaka, divali, kadudodaki, kadudodka, kadushirali, kaduturai, ranturai Sanskrit (11) - Sanskrit Comments  dhamargava, ghantali, jhingaka, katuki, kosataki, koshataki, kratavedhana, ksweda, mridangaphalika, sutikta, tiktakoshataki Tamil (41) - akacaveni, akacavenkkoti, arakkuppecarippirkku, cacu, calini2#, cantirakayam, cantirakayani, cantirakayanikkoti, cikikkavirai, itukari, itukarikkoti, kacappi1, kacappuppirkku, kaccam, kaippuppirkku, karniti, karnitikkoti, katiyavisava, kirutacittirar, kirutavetanai, kosataki, kuccam4, maruluvikam, maruluvikam#, maruluvikam@, pai-peerku, palikam, pe-pirkkam, peppirakam, periyakocataki, pey pirkkku, pey-p-pirkku ver, peycci, peyppirkam, tatukattu, tilartatturuti1, tinnakkay1, tiritosavinaci, titta2, tittikocataki, vatarokaari Telugu (13) - adavi beera, adavibira, adivi beera, chathi beera, chedu beera, chedu-bira, chedubira, sendubeerkai, sendubirkai, verri beera, verri-beera, verri-birra, verribira
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbfce690f7bad8fd142e27835f7bf4a/xclkon/a31e687c8cf997c7ba0f576cd8ae0033
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbfce690f7bad8fd142e27835f7bf4a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbfce690f7bad8fd142e27835f7bf4a/xclkon/a31e687c8cf997c7ba0f576cd8ae0033
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbfce690f7bad8fd142e27835f7bf4a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbfce690f7bad8fd142e27835f7bf4a/xclkon/a31e687c8cf997c7ba0f576cd8ae0033
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbfce690f7bad8fd142e27835f7bf4a
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbfce690f7bad8fd142e27835f7bf4a/xclkon/a31e687c8cf997c7ba0f576cd8ae0033
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kosataki
+sanskrit_name: कोशातकी
+transliteration: kośātakī
+image_urls: https://www.medicinalplants.in/slokaimages/1043/1043_1.jpg https://www.medicinalplants.in/slokaimages/1043/1043_2.jpg https://www.medicinalplants.in/slokaimages/1043/1043_3.jpg
+ocr_text: क्ष्वेडस्तिक्तः कटुस्तीक्ष्णोडप्रगाढश्च प्रशस्यते| कुष्ठपाण्ड्वामयप्लीहशोफगुल्मगरादिषु| | (Dhnl Kosataki is katu in rasa, tiksna in guna, apragada, cures Kustha, pandu, pliha, sopha, gulma and gara visha. कोशातकी शिशिरा कटुकाडल्पकषायका पित्तवातकफघ्नी च मलाघ्मानविशोधिनी| | धाराकोषातकी स्निग्धा मधुरा कफपित्तनुत्| ईषद् वातकरी पथ्या रुचिकृद् बलवीर्यदा Il IRjnl Kosataki is katu, alpa kashaya in rasa, sisira in veerya, alleviates pitta, vata and kapha doshas, is mala adhmana visodhani. Dhara kosataki is madhura in rasa, snighda in guna, alleviates kapha and pitta, increases vata is pathya, ruci kara, and bala viryada. mildly, राजकोषातकी गरे गुल्मोदरे कासे वातश्लेष्मामये स्थिते| कफे च कण्टवक्त्रस्थ कफसञ्चयजेषु च|| तचरक.क.अ४) Raja kosataki cures gara, gulmodara, kasa, vata slesmamya, kapha in kantha, vaktra and kapha sancaya.
+
+Shloka Record 2
+drug_name: Kosataki catustaya
+sanskrit_name: कोशातकी चतुष्टय
+transliteration: kośātakī catuṣṭaya
+image_urls: https://www.medicinalplants.in/slokaimages/1043/1043_1.jpg https://www.medicinalplants.in/slokaimages/1043/1043_2.jpg https://www.medicinalplants.in/slokaimages/1043/1043_3.jpg
+ocr_text: क्ष्वेडस्तिक्तः कटुस्तीक्ष्णोडप्रगाढश्च प्रशस्यते| कुष्ठपाण्ड्वामयप्लीहशोफगुल्मगरादिषु| | (Dhnl Kosataki is katu in rasa, tiksna in guna, apragada, cures Kustha, pandu, pliha, sopha, gulma and gara visha. कोशातकी शिशिरा कटुकाडल्पकषायका पित्तवातकफघ्नी च मलाघ्मानविशोधिनी| | धाराकोषातकी स्निग्धा मधुरा कफपित्तनुत्| ईषद् वातकरी पथ्या रुचिकृद् बलवीर्यदा Il IRjnl Kosataki is katu, alpa kashaya in rasa, sisira in veerya, alleviates pitta, vata and kapha doshas, is mala adhmana visodhani. Dhara kosataki is madhura in rasa, snighda in guna, alleviates kapha and pitta, increases vata is pathya, ruci kara, and bala viryada. mildly, राजकोषातकी गरे गुल्मोदरे कासे वातश्लेष्मामये स्थिते| कफे च कण्टवक्त्रस्थ कफसञ्चयजेषु च|| तचरक.क.अ४) Raja kosataki cures gara, gulmodara, kasa, vata slesmamya, kapha in kantha, vaktra and kapha sancaya.

@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d6ba7db9ee3cf915fbea2fa92a30a73b
+Botanical Name: Brassica rapa L. subsp. campestsris (L.) L.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Brassica campestris L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 35 Vernacular names found in 9 languages. Hindi (13) - bangasarson, baralai, dain, dainlai, jadiya, jariya, kalerai, kalisarson, khetiya, lahi, lahota, lai, sarson Kannada (2) - kappusasoe, sarsive Malayalam (1) - karupakatuka Marathi (3) - kalamohare, salgam, sherasa Sanskrit (7) - Sanskrit Comments  grunjanakam, katusneha, raktasarshapa, sarsapa, sarshapa, siddharthah, tantubha Tamil (1) - karuppukkadugu Telugu (1) - nallaavalu Tibetan (3) - yums kar, yun ba, yuns-dkar Urdu (4) - roghan sarson, sarson, tukhm shalijam, tukhm shaljam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b/xclkon/009c9a98a0ed284cb21fa73d531d916d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b/xclkon/009c9a98a0ed284cb21fa73d531d916d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b/xclkon/009c9a98a0ed284cb21fa73d531d916d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b/xclkon/009c9a98a0ed284cb21fa73d531d916d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6ba7db9ee3cf915fbea2fa92a30a73b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Salayam
+sanskrit_name: सलयम
+transliteration: salayama
+ref_drug_name: सलयम
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Sarsapa
+sanskrit_name: सर्षप
+transliteration: sarṣapa
+image_urls: https://www.medicinalplants.in/slokaimages/263/263_1.jpg https://www.medicinalplants.in/slokaimages/263/263_2.jpg https://www.medicinalplants.in/slokaimages/263/263_3.jpg https://www.medicinalplants.in/slokaimages/263/263_4.jpg https://www.medicinalplants.in/slokaimages/263/263_5.jpg https://www.medicinalplants.in/slokaimages/263/263_6.jpg
+ocr_text: गौरसर्षकोडत्युष्णो रक्षोघ्नः कफवातजित् क्रिम्यामकण्डूकुष्ठघ्नः श्रृतिशीर्षानिलार्त्तिजित्| | तद्वत् रक्त्तस्तु सिद्धार्थः तिक्त्तः स्निग्धोष्णकः कटुः IDhn) Gaura sarsapa is atyusna in veerya, raksoghna, alleviates kapha, vata Krmi, ama, kandu, kustha, sruti sirsa anila arti. Rakta variety is siddhartha, tikta, katu in rasa, snigdha in guna and usna in veerya सिद्धार्थः कटुतिक्तोष्णः वातरक्तग्रहापहः त्वग्दोषशमना रुच्यः विषभूतव्रणापहः (Rjn) Siddhartha is katu, tikta in rasa usna in veerya, rucya, pacifies tvagdosha, alleviates vata, rakta, graha, visha, bhuta ana vrana. सर्षपस्तु रसे पाके कटुः हृद्यः सतिक्तकः तीक्ष्णोष्णः कफवातघ्नो रक्तपित्ताग्निवर्द्धनः | | रूक्षो हरेद् व्रणं कण्डूं कुष्ठकोष्ठकृमिग्रहान्| यथा रक्तस्तथा गौरः गौरो वरो मतः | | तीक्ष्णोष्णं सार्षपं नालं वातश्लेष्मव्रणापहम् | कण्डुवम्हरं दद्रुकुष्ठघ्नं रुचिकारकम्| | (Bpnl Sarsapa is katu, tikta in rasa, tiksna ruksa in guna, usna in veerya, katu in paka, hraya, causes increase of rakta pitta and agni, alleviates kapha ana vata, cures vrana, kanau, kustha, kostha, krmi and graha Gaura sarsapa nala is tiksna in guna, usna in veerya, ruci kara, alleviates vata, slesma, vrana, kanau, vami, daaru and kustha किन्तु विदाहि बद्धविण्मूत्रं रूक्षं तीक्ष्मोष्णमेव च| त्रिदोषं सार्षपं शाकं (सुश्रुत) Sarsapa saka is ruksa, tiksna in guna, usna in veerya vidahi, badahavin mutra and alleviates all the three doshas कटुपाकमचक्षुष्यं स्निगधोष्णं बहुपित्तलम् सार्षपं तैलं कण्डूकुष्ठापहं लघु|| (सु) Sarsapa taila is snigdha, laghu in guna, usna in veerya, katu in paka, acaksushya, bahu pittala, alleviates krmi, kandu and kustha. कृमिघ्नं कटूष्णं सार्षपं तैलं रक्त्तपित्तप्रदूष्णम्| कफशुक्रनिलहरं कण्डूकोठविनाशनम्|| तच) Sarsapa taila is katu in rasa usna in veerya, raktapitta pradushana, alleviates kapha, sukra, anila, kanau ana kotha

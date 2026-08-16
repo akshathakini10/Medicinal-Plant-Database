@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 744cb2e25dfbd1eb2c1cdf9036f0bbf0
+Botanical Name: Caesalpinia digyna ROTTL.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. Hindi (4) - bakam, patang, vakeri-mul, vakerimul Sanskrit (1) - Sanskrit Comments  ghrtakaranja Tamil (1) - nuni-gatcha Telugu (7) - noonagatcha, noonagatchandi, noone gachha, nooneeglika, nooniglika, nunegacha, nunegachcha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/744cb2e25dfbd1eb2c1cdf9036f0bbf0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 388
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/388.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/744cb2e25dfbd1eb2c1cdf9036f0bbf0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

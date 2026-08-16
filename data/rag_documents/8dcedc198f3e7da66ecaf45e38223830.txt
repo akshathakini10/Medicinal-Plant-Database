@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8dcedc198f3e7da66ecaf45e38223830
+Botanical Name: Phoenix acaulis ROB.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 6 languages. Hindi (7) - chamror, jangli khajur, kajre, khajur, khajuri, sindhi, thakal Kannada (6) - kaadu kharjoora, sannaichal, sannaichala, sannaichi, sannicalu, sannichai Malayalam (8) - etha, inta, intal, ithal, itta, katinda, sannaichal, sannintal Sanskrit (1) - Sanskrit Comments  bhukharjuri Tamil (2) - ichampul, sittugichu Telugu (7) - chinnita, chiriita, konda ita, kondaita, samuta, sanna ita, sannayita
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dcedc198f3e7da66ecaf45e38223830
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dcedc198f3e7da66ecaf45e38223830
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dcedc198f3e7da66ecaf45e38223830
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kharbuja
+sanskrit_name: खर्बूजा
+transliteration: kharbūjā
+ref_drug_name: खर्बूजा
+status: Suggested source 4
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Kharjur
+sanskrit_name: खर्जूर
+transliteration: kharjūra
+ref_drug_name: खर्जूर
+status: Suggested source 4
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Kharjura - prakara
+sanskrit_name: खर्जूर प्रकार
+transliteration: kharjūra prakāra
+ref_drug_name: खर्जूर प्रकार
+status: AS
+discussion: This species is the Bhukharjuri of Ayurveda
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

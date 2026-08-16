@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9f3d81f798ca3f471a2b5c16f2c2f825
+Botanical Name: Asplenium furcatum THUMB
+Family: Aspleniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f3d81f798ca3f471a2b5c16f2c2f825
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f3d81f798ca3f471a2b5c16f2c2f825
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

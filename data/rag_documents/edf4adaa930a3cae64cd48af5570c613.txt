@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: edf4adaa930a3cae64cd48af5570c613
+Botanical Name: Adansonia digitata L.
+Family: Bombacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 103 Vernacular names found in 7 languages. English (3) - baobab, judas s bag, monkey bread Hindi (16) - gorak-amli, gorak-imli, gorakamali, gorakh amli, gorakh-imli, gorakhamli, goramlichora, hatti-kattian, kalpa dev, kalpadev, kalpviriksha, kalpvrikhsa, kasaan-aamli, lochora, mansapooran, sumpura Kannada (10) - aane hunase, aane hunise, baobaab, brahmaamlika, brahmamilika, brahmamlika, brahmamlike, maagi maavu, magimaavu, magimavu Marathi (6) - baubab, chori chinch, gonik--chintz, gorak-chinch, gorakh-chinch, gorakhchinch Sanskrit (19) - Sanskrit Comments  chitrala, choramli, dirghadandi, gajabala, gandhabahula, gopali, gorakh-chinch, goraksacinca, gorakshi, goraksi, kasmiramlika, pancaparni, pancaparnika, panchaparnika, ravanamlika, sarpadandi, sitaphala, sitaphalam, sudandika Tamil (41) - aanaipuliya maram, anai puliyamaram, anai-puliya-maram, anaimaram, anaippuli, anaippuliyamaram, anaipuliamaram, anaipuliyamaram, arucaka, arucakamaram, arukkankopikam, arukkankopikamaram, cimaippuli, korakkarmaram, korakkarpuli, malukikam, malukikamaram, paparapuli, pappappuli, papparapa-puli, papparappuli, papparappuli@, pappura puli, parpparappuli, pepper-appauli, perukkamaram, perukku, pontaippulimaram, pontampuli, puri, puri-maram, purimaram, purinelli, purippuli, toti, totimaram, totiyam, totiyamaram, yanaippuli, yanaippulimaram, yanaippuliyamaram Telugu (8) - brahma malika, brahmaamlika, brahmamlika, maggimaavu, maggimavu, seemachinta, simachinta, simae-chinta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edf4adaa930a3cae64cd48af5570c613
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edf4adaa930a3cae64cd48af5570c613
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edf4adaa930a3cae64cd48af5570c613
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edf4adaa930a3cae64cd48af5570c613
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edf4adaa930a3cae64cd48af5570c613
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Goraksi
+sanskrit_name: गोरक्षी
+transliteration: gorakṣī
+ref_drug_name: गोरक्षी
+status: Accepted source
+discussion: Goraksi is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Sitapatala
+sanskrit_name: सितपाटला
+transliteration: sitāpaṭalā
+ref_drug_name: सितपाटला
+status: Most probable
+discussion: With regard to description given by Dalhana it is correlated to this species
+reference: [1]
+
+Identity Record 3
+drug_name: Sitapatala
+sanskrit_name: सितपाटला
+transliteration: sitāpaṭalā
+ref_drug_name: सितपाटला
+status: Most probable
+discussion: In Susruta Samhita, 'Sitaphala' is mentioned only once under the Phala varga (group of fruits); Dalhana has mentioned this as 'Ravana amlika' and 'Kasmira amlika' which mean the same plant; This species may be most probably correlated to it
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

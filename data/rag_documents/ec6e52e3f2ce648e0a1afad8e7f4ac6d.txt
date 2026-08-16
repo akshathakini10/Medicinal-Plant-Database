@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ec6e52e3f2ce648e0a1afad8e7f4ac6d
+Botanical Name: Vicia faba LINN.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 4 languages. English (4) - broad bean, field bean, horse bean, pigeon bean Hindi (3) - anhuri, bakla, kalamatar Kannada (2) - dodda hurali kaayi, kadu huralikayee Tamil (1) - kapuliyavarai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec6e52e3f2ce648e0a1afad8e7f4ac6d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec6e52e3f2ce648e0a1afad8e7f4ac6d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec6e52e3f2ce648e0a1afad8e7f4ac6d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

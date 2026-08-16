@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 67ac79989e7f2d710e81174bf58afd0a
+Botanical Name: Saussurea simpsoniana (FIELD & GARD.) LIPSCH.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Saussurea sacra EDGEW.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67ac79989e7f2d710e81174bf58afd0a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67ac79989e7f2d710e81174bf58afd0a/xclkon/690887a5a06e80cf299fbd340b3c7834
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67ac79989e7f2d710e81174bf58afd0a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f4a366236a46dad574e5d484d9f83852
+Botanical Name: Costus speciosus (KOEN. E RETZ.) SM.
+Family: Costaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 188 Vernacular names found in 7 languages. Hindi (5) - kebu, keu, keyu, kust, mahalakri Kannada (20) - aarathi kundige, benne kundige, cangalakoshta, changal kostha, changala koshta, changalakoshta, chikey, chikke, cikke, korikattu, korikottu, korikuttu, kundige gida, neeraja, niraja, padmapatra, pushkaramoola, pushkaramula, pushkarmoola, vyaadi Malayalam (26) - anakkuva, anappu, canna, cannakkilannu, cannakkuva, cannakkuvva, channa, channak-koova, channakkuva, channakuva, kottam, marujanna, maruncanna, marunchanna, nariccanna, narikarambu, narikkurampu, narumcanna, naruncana, narunchana, onapoovu, patimukam, pushkaramulam, tjanakua, tsjana-kua, tsjanakua Marathi (6) - naagaali, penva, pinnaga, pinnga, pushkarmoola, pushkarmula Sanskrit (27) - Sanskrit Comments  a, bramhatirtha, canda, kashmeera, kashmira, kasmira, kemuka, kushtha, kushthabheda, padmakarna, padmapatra, padmapatramulira, padmapunya, padmavarnaka, paushkara, pushkara, pushkarajata, pushkaramula, pushkaramulaka, pushkarashifa, sagara, shulaghna, shura, shvasari, subandhu, virapushkaravhaya, vrkisharuha Tamil (81) - cancamancam, catikostam, cetamakam, cikarappati, cikarappatikam, cilatarattinam, cirakapali, cirakapati, cirakapatiakm, ciram, itapavanati, kacumiram, koestam, kostam, kostam 1, kottam, kottilam, kudavam, kugaimanjal, kukaimancal, kumam, kupam, kuperam, kura, kurampai 2, kuravam, kuravam 2, kuravam 3, kurutupalam, kutavan, kutcim, kutikam, kuttaiyidukki, kuttam, kuttam 2, kuttamam, kuttapam, kuttarokovakkini, kutti 3, kuttiyitukki, kuttu, malaivacampu, malaivacapancam, malaivasambu, mukkili, oli 2, palakam 2, palkostam, panpakappu 2, pappayam, pari, paripaviyam, perunkurumpai, pillaikkocam, pulakkaram, pulkkaram, punakkam, putkaram, tattan, tatti, tomapalam, tuttai, ubariyavi, upariyavi#, upariyavi@, urpalam, vamananitam, vappiyam, vappuyam, vayinarutatayam, vellaikkostam, vengottam, venkostam, vintiyavacani#, vintiyavacani@, vintiyavacini, viranari, viyacitam, viyappirayam, viyappiyam, viyati Telugu (23) - bhangalkoshta, bogachchikadumpalu, bommakaccika, bommakachchika, bommakachhika, bommakachika, cengalvakoshtu, chengalvakoshtu, kaashmeeremu, kashmeeramu, kashmiramu, kasmiramu, kevukinna, kimuka, koshtamu, kushthamu, paaribhavyamu, paribhavayamu, paribhavyamu, pushkaramoolam, pushkaramulam, pushkaramulamu, vana vaasa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 657
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/657.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4a366236a46dad574e5d484d9f83852
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kebuka
+sanskrit_name: केबुक
+transliteration: kebuka
+ref_drug_name: केबुक
+status: AS
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Kebuka
+sanskrit_name: केबुक
+transliteration: kebuka
+ref_drug_name: केबुक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Langalaka
+sanskrit_name: लाङ्गलक
+transliteration: lāṅgalaka
+ref_drug_name: लाङ्गलक
+status: Market source
+discussion: This species is sold in the market as Langali as it posseses properties similar to that of Langali
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kebuka
+sanskrit_name: केबुक
+transliteration: kebuka
+image_urls: https://www.medicinalplants.in/slokaimages/81/81_1.jpg https://www.medicinalplants.in/slokaimages/81/81_2.jpg
+ocr_text: केमुकःकटुकःपाकेतिक्तंग्राहिहिमंलघुः दीपनंपाचनंहृद्यंकफपित्तज्वरापहम्| | कुष्ठकासप्रमेहार्शनाशनंवातलंकटु OBpn) Kemuka is tikta, katu in rasa, grahi, laghu in guna, hima in virya, katu in paka, dipana, pacana, hrdya, alleviates kapha and pitta, increases vata, cures jvara, kustha, kasa, prameha and arsa केलूटकंतुमधुरंरूक्षमच्छंचशीतलम् भेदकंग्राहकंरुच्यंगुरुपित्तकफापहम्| | वातानाशकरंचैवकंदीप्येतेगुणाःस्मृताः | | (Nir) Kelutaka is madhura in rasa, ruksa, guru in guna, sita in virya, bhedani, grahi, rucya, allevates pitta and kapha, destroys vata.

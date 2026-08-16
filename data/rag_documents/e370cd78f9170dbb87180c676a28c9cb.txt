@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e370cd78f9170dbb87180c676a28c9cb
+Botanical Name: Portulaca tuberosa ROB.
+Family: Portulacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Hindi (1) - safed mushali Tamil (1) - mukkulikkirai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e370cd78f9170dbb87180c676a28c9cb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e370cd78f9170dbb87180c676a28c9cb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e370cd78f9170dbb87180c676a28c9cb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

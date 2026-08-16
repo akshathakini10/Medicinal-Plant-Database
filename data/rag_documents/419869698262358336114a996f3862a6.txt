@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 419869698262358336114a996f3862a6
+Botanical Name: Euphorbia pilosa L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 2 languages. Hindi (3) - chopalo, chounpalu, chuplya Sanskrit (9) - Sanskrit Comments  bahapenarasa, carmakara, carmashva, copalo, kankusta, saptala, saptalika, satala, tiktala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/419869698262358336114a996f3862a6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/419869698262358336114a996f3862a6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kankustha
+sanskrit_name: कंकुष्ठ
+transliteration: kaṃkuṣṭha
+ref_drug_name: कंकुष्ठ
+status: Most probable
+discussion: Most probably correlated to this species
+reference: [5]
+
+Identity Record 2
+drug_name: Saptala
+sanskrit_name: सप्तला
+transliteration: saptalā
+ref_drug_name: सप्तला
+status: Controversial
+discussion: Many drugs are correlated to Saptala; On basis of its name and actions this species is taken into consideration
+reference: [5]
+
+Identity Record 3
+drug_name: Saptala
+sanskrit_name: सप्तला
+transliteration: saptalā
+ref_drug_name: सप्तला
+status: Most probable
+discussion: This species can be considered with regard to its properties and its use by Garhwalis for their purgative action
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kankustha
+sanskrit_name: कंकुष्ठ
+transliteration: kaṃkuṣṭha
+image_urls: https://www.medicinalplants.in/slokaimages/783/783_1.jpg https://www.medicinalplants.in/slokaimages/783/783_2.jpg
+ocr_text: कंकुष्ठं रेचनं तिक्तमुष्णं वर्णविशोधनम् [ कफशोफोदरानाहगुल्माध्मानकृमिप्रणुत् IKdn) Kankushta is tikta in rasa , usna in veerya, alleviates kapha, is recana, varna visodhana, cures sopha, uaara, anaha, gulma, adhmana ana krmi. कंकुष्ठकं तिक्तकटूष्णवीर्यं विशेषतो रेचकं करोति| गुदातिगुल्मव्रणशूलहृत्परं प्रचक्षते शास्त्रविदः पुराणाः रसपकाशसुधाकर ) Kankustha is tikta, katu in rasa, usna in veerya, visesat recaka, cures guaa vyadhi, guima, vrana sulahrt and

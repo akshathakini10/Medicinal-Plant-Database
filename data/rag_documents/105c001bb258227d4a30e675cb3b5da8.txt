@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 105c001bb258227d4a30e675cb3b5da8
+Botanical Name: Flagellaria indica L.
+Family: Flagellariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 37 Vernacular names found in 6 languages. Hindi (6) - ghar-googar, kango, kanju, kankair, kankairo, konkrol Kannada (20) - dodda gejjala kaayi, gajabeera, gajale, gajalike, hanmaanikya gida, hanumaakshi, hettharimullu, hooimullu, kanraegu, kuduvele gida, laat lota, mindi, miradi, mirde, mullu hannnu, mullutare, mullutari, naayibaela, panambuvalli, vanambu balli Malayalam (3) - panambu-valli, panambuvalli, panampuvalli Marathi (1) - silon Tamil (2) - panampuvalli, sooralvalli Telugu (5) - poindupootee, poyinadiputathige, poyinadiputatige, vanacandra, vanachandra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/105c001bb258227d4a30e675cb3b5da8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/105c001bb258227d4a30e675cb3b5da8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/105c001bb258227d4a30e675cb3b5da8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7f34c13599e6ad5f1122627fb7b83d65
+Botanical Name: Amaranthus viridis L.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Amaranthus fasciatus ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 7 languages. Hindi (4) - chuolae, jangli chaulai, jangli-chauli, tendula Kannada (4) - cheakeerae soppu, dagglarive soppu, dagglisoppu, keere soppu Malayalam (2) - cerucira, mullancira Marathi (2) - lahanamat, ran-bhaji Sanskrit (6) - Sanskrit Comments  gandira, hilamochaka, tanduliya, tanduliyah, tanduliyaka, vishaghna Tamil (12) - iruvati, iruvatikkirai, kollaikkirai, kullattantukkirai, kuppai-kirai, kuppaikkirai, niccatakkirai, niccatam, peyppalati, peyppalatikkirai, vakucakkirai, vakucam 2 Telugu (3) - chilaka thota koora, chilaka-thotakoora, chilakathotakura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65/xclkon/fec7dd88cccb24a53a5629902de611d9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65/xclkon/d3d64722d4863f562c3536e588e2b1d1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65/xclkon/fec7dd88cccb24a53a5629902de611d9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65/xclkon/d3d64722d4863f562c3536e588e2b1d1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65/xclkon/fec7dd88cccb24a53a5629902de611d9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65/xclkon/d3d64722d4863f562c3536e588e2b1d1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f34c13599e6ad5f1122627fb7b83d65
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gandira - jalaja
+sanskrit_name: गण्डीर जलज
+transliteration: gaṇḍīra jalaja
+ref_drug_name: गण्डीर जलज
+status: Accepted source
+discussion: Jalaja Gandira is identified with this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

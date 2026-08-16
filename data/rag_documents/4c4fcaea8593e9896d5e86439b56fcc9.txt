@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4c4fcaea8593e9896d5e86439b56fcc9
+Botanical Name: Desmodium pulchellum BENTH.E. BAKER.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 6 languages. Hindi (1) - jatsalpan Kannada (13) - jenkotte, jenukaddi, kaaduhuralithe, kaadulthi, kaadumuduru, kadmuduru, kaduhuralite, kadulti, kadumuduru, kadunhuralite, seegate gida, thigari, tigure Malayalam (2) - kattumutira, katumudura Sanskrit (2) - Sanskrit Comments  lodhrah, lodrom Tamil (1) - vellalothi Telugu (12) - karra anthina, karraantinta, karranthintha, karrantinta, konda antinta, kondaantintha, kondanthinta, kondantinta, kondontinta, sarivi, survi, tiga velaga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c4fcaea8593e9896d5e86439b56fcc9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 797
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/797.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c4fcaea8593e9896d5e86439b56fcc9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

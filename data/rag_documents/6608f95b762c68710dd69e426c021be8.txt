@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6608f95b762c68710dd69e426c021be8
+Botanical Name: Parsonsia alboflavescens (DENNST.) MABB.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Parsonsia helicandra HOOK. &  ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Malayalam (3) - kudici-kodi, penalivalli, wallia-pal-valli Marathi (1) - nagal kuda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6608f95b762c68710dd69e426c021be8/xclkon/3be2a7f055eab76d0820f55c7cbaa478
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6608f95b762c68710dd69e426c021be8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6608f95b762c68710dd69e426c021be8/xclkon/87c0af0c41550c43071dcdc041fae81c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6608f95b762c68710dd69e426c021be8/xclkon/3be2a7f055eab76d0820f55c7cbaa478
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,78 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c8ed3ad40516a2873cf00155bc39949c
+Botanical Name: Tephrosia purpurea PERS.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Galega purpurea L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 119 Vernacular names found in 9 languages. English (1) - wild indigo Hindi (16) - ban-nil, bisoni, biyani, boyonia, dhamasia, pal, saphanko, sar punkha, sarpanka, sarpankha, sarphankha, sarphanko, sarphenka, sarphoka, sarphomka, sarphonka Kannada (19) - adavi hurali, adavi neeli, empali, honnaavarike, kaggi, koggali, kogge, koggi, koggili, kolingili, koliniji, marali gida, phanike, phankee gida, phanki, punike, vajaranili, vajra neeligida, vajradanili Malayalam (10) - colinil, kattamari, kazhinnila, kazlunnilla, kolinnil, koluva, korinil, kotikkolinnil, kozhinnil, kozhinnila Marathi (8) - sarpunk, sharapunkha, sirapakha, udhadi, unhaali, unhal, unhali, untoali Sanskrit (21) - Sanskrit Comments  banah, banapunkha, banapunkhah, ishupunkhika, kalashaka, kalika, kandapunkha, kriti, neelabralakrati, nilavriksha, nilavrksakrti, plihari, plihasatru, plihashatru, poonkhie, puleehashtree, sarapunkha, sarapunkhah, sayakapunkha, sharapuchchha, sharapunkha Tamil (30) - caat kolingie, carapunku 2, cimmantukacceti, cimmantukam, kallu-k-kay-velai, kat-kolingi, kattukkolincai, kattukkolunci 3, kavali, kayvelai, kolinci 2, kolinji, kollilai, kollilaicceti, kolluk-kay-velai, kolluk-kay-welai, kollukai, kollukkai velai, kollukkay velai, kollukkayvelai, kolunchi, kolunci, koolingie, kozhungi, kumpuranacceti, kumpuranam, muka velai, nallicacceti, nallicam, tilapavi Telugu (10) - bonta vemapli, bonta vempali, bontavempali, karusembai, pamparachettu, tella vempali, tellavempali, thellavempali, vaympalie, vempali Urdu (4) - sarabhuka, sarphoka, sarphooka, sarphuka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2057
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2057.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c/xclkon/a8bdda61255b09fc495ae2f32b5dee5d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c/xclkon/740118e91cbb338173ea00990c0358ac
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c/xclkon/a8bdda61255b09fc495ae2f32b5dee5d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c/xclkon/740118e91cbb338173ea00990c0358ac
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c/xclkon/a8bdda61255b09fc495ae2f32b5dee5d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c/xclkon/740118e91cbb338173ea00990c0358ac
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c/xclkon/a8bdda61255b09fc495ae2f32b5dee5d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c/xclkon/740118e91cbb338173ea00990c0358ac
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8ed3ad40516a2873cf00155bc39949c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sarapunkha
+sanskrit_name: शरपुङ्खा
+transliteration: śarapuṅkhā
+ref_drug_name: शरपुङ्खा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Sarapunkha
+sanskrit_name: शरपुङ्खा
+transliteration: śarapuṅkhā
+ref_drug_name: शरपुङ्खा
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

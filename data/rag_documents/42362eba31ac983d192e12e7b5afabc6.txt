@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 42362eba31ac983d192e12e7b5afabc6
+Botanical Name: Delphinium cashmirianum ROYLE
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Delphinium kashmirianum ROYLE.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  tagara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42362eba31ac983d192e12e7b5afabc6/xclkon/b16873d685a6b3bd83da8a5a1010f7cc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 774
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/774.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42362eba31ac983d192e12e7b5afabc6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42362eba31ac983d192e12e7b5afabc6/xclkon/b16873d685a6b3bd83da8a5a1010f7cc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42362eba31ac983d192e12e7b5afabc6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42362eba31ac983d192e12e7b5afabc6/xclkon/b16873d685a6b3bd83da8a5a1010f7cc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

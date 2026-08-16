@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 78dbf2bd3b4c81a2d9131ee906c8cd0c
+Botanical Name: Silene moorcroftiana WALL. E BTH.
+Family: Caryophyllaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78dbf2bd3b4c81a2d9131ee906c8cd0c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78dbf2bd3b4c81a2d9131ee906c8cd0c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

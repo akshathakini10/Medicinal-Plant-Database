@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7b6dd3c6f37a291782a1fba746563e72
+Botanical Name: Solanum torvum SWARTZ
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 72 Vernacular names found in 7 languages. Hindi (2) - bhurat, tit-baigun Kannada (25) - borasunde, bovasonde, bovasunde, busende, busunde, chinde, chundai, chunde, kaada kallatti, kaadu badane, kaadu kadane, kaadu kallate, kaadu kallunte, kaadu sonde, kadakadana, kadakallate, kadchunde, kadubadene, kadusonde, karase, karashe, katukallante, shundakkayi, sonde, sonde gida Malayalam (7) - chunda, chunde, cunta, kadchunde, katchunde, kattucunta, puttaricunta Marathi (2) - dhoravaange, doralee Sanskrit (1) - Sanskrit Comments  brhati Tamil (32) - amarakkay, cenkuronikacceti, cenkuronikam, chundai, cularkay, cularkaycceti, cuntai, cuntai varral, cuntankay, curacica, curapakam, curuntaikkay, curutkay, cuvacakacokkini, cuvucakacakkinipokki1, iruttiyakuttam, kancakacceti, kancakam, katikipalam, kottukkattari, malaiccuntai, malasundai, nattuccuntai, pasanamaini, pitiratakacceti, pitiratakam, pittalam, pittatincam, sundai, sundaikai, sundakkai, tottitanaipparpamakki Telugu (3) - konda vusti, kondavuste, usti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b6dd3c6f37a291782a1fba746563e72
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Brhati
+sanskrit_name: बृहती
+transliteration: bṛhatī
+ref_drug_name: बृहती
+status: Controversial
+discussion: This species may be called as Sveta Brhati and used as Brhati
+reference: [1]
+
+Identity Record 2
+drug_name: Brhati - jati
+sanskrit_name: बृहती जाति
+transliteration: bṛhatī jāti
+ref_drug_name: बृहती जाति
+status: Accepted source
+discussion: Is a variety of Solanum species which has white flowers
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Brhati
+sanskrit_name: बृहती
+transliteration: bṛhatī
+image_urls: https://www.medicinalplants.in/slokaimages/1501/1501_1.jpg https://www.medicinalplants.in/slokaimages/1501/1501_2.jpg https://www.medicinalplants.in/slokaimages/1501/1501_3.jpg https://www.medicinalplants.in/slokaimages/1501/1501_4.jpg
+ocr_text: बृहतीमहतीसिंहीप्रसहाहिंगुलीकुली| | अक्रान्ताक्षुद्रवार्ताकीरक्तापाकीलतातथा Brhati, mahati, simhipa, saha, hinguli, Kuli, akranta, ksudra vartaki, raktapaki and lata are the synonyms वृहतीकटुतिक्तोष्णावातजिज्जवरहारिणी | अरोचकामकासघ्नीश्वासहृद्रोगनाशिनीI| (Rjn) Brhati is katu, tikta in rasa, usna in veerya, alleviates vata, cures jvara, arocaka, ama, kasa, svasa and hrdroga. फलगुणाः फलानिबृहतीनांचकटुतिक्तलघुनिच [ कण्डूकुष्ठकृमिघ्नानिकफवातहराणिच | | Its phala is katu, tikta in rasa, laghu in guna, alleviates kandu, kustha, krmi, kapha, vata. क्षुद्रबृहतिका लघ्वीबृहतिकावातश्वासशूलकफापहा अग्निमांद्यंज्वरंछर्दिहृद्रुगामंचनाशयेत् Laghu brhati alleviates vata, svasa, sula, kapha, mandya, jvara, chardi, hrdroga and ama agni

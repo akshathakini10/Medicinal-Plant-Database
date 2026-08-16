@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d2ca687e3aa5c4746a78a057aa3f6e75
+Botanical Name: Leea aequata L.
+Family: Leeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Leea arguata L. Leea hirta ROB E HORNEIM
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 37 Vernacular names found in 7 languages. Hindi (1) - kakajangha Kannada (4) - aeluvasandhe gida, kaaka mruthyu, kaaka samhaari gida, monakaalu muruka Malayalam (1) - kakanasika Marathi (3) - bhooyidinda, kaakajanga, kanga Sanskrit (19) - Sanskrit Comments  dasi, dhvankshajangha, kaka, kakajangha, kakakala, kakanasa, kakanasika, kakanchi, kakanga, kakangah, kakangi, kakavha, kaki, krishibala, nadikanta, paravatapadi, sulomasha, surangi, surapadi Tamil (2) - kakanacikam, surapadi Telugu (7) - chivikivelama, neetiveli, sirapadi, surapaadi, surapadi, velanasandi, velumasandi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75/xclkon/5a0cba24c5ccb29f6b6f5b6e607352b6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75/xclkon/5dc840a0ad8499f2f338baf83d917fc9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75/xclkon/5a0cba24c5ccb29f6b6f5b6e607352b6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75/xclkon/5dc840a0ad8499f2f338baf83d917fc9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75/xclkon/5a0cba24c5ccb29f6b6f5b6e607352b6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75/xclkon/5dc840a0ad8499f2f338baf83d917fc9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2ca687e3aa5c4746a78a057aa3f6e75/xclkon/5a0cba24c5ccb29f6b6f5b6e607352b6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakajangha
+sanskrit_name: काकजंघा
+transliteration: kākajaṃghā
+ref_drug_name: काकजंघा
+status: C 2
+discussion: Needs to be identified; This species is generally used under this name
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

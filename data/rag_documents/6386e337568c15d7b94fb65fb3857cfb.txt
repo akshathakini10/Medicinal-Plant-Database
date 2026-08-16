@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6386e337568c15d7b94fb65fb3857cfb
+Botanical Name: Trema orientalis BL.
+Family: Ulmaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Celtis orientalis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 121 Vernacular names found in 8 languages. English (1) - mpesi Hindi (4) - glo, jiban, jivan, jiwanti Kannada (37) - amathalai, ambarathi, ame, ami, amparuthi, bendai, bendakarki, bende, bendu, bendu mara, eme, goklu mara, goralu mara, gorkal mara, gorklu, gorklumara, gorku, gorlu, goru kallu, goru mara, hoame mara, home, kaadu baja, kaadu baje, kadabaja, kadubaja, karee haale, karu halle, karuheele, kiruhaale, kiruhale, madalei, mena, oma, vended, wome, yeme Malayalam (26) - ama, amarathi, amathali, ambaratti, ambarki, ami, ayalai, ayalli, iradai, kapshi, kargoi, malantotali, malantutali, mallam-toddah, mallamthoddali, mallamtoddali, mallantoddali, ola, omi, pottama, pottami, puni, punnai, ramabada, ratthi, ratti Marathi (6) - ghatari, ghol, goi, gol, khagola, khargul Sanskrit (2) - Sanskrit Comments  jivani, jivanti Tamil (22) - amathalai, ambarathi, ambaratthi, ambaratti, amparuthi, chenkolam, kattumunnai, kuttippala, madalei, mallam toddali, mena, mini, mudalai, munnai, munnai 2, nudalei, oma, oman, peymunnai, peymunnai 2, vendaivirai, yerralai Telugu (23) - aava, ava, boggu chettu, bogguchettu, budumuru, cekumanu, chakamanu, chakramanu, chekumanu, gada nelli, gadanelli, gadda nelli, gaddanelli, kakamushti, kakamuste, konda jonna, morali, orakanujunaalika, orakanujunaluka, priyaalu, priyaalu vrikshamu, priyalu, sekumanu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6386e337568c15d7b94fb65fb3857cfb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6386e337568c15d7b94fb65fb3857cfb/xclkon/e414c79eff72fb0eb9f148d468888c93
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6386e337568c15d7b94fb65fb3857cfb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6386e337568c15d7b94fb65fb3857cfb/xclkon/e414c79eff72fb0eb9f148d468888c93
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6386e337568c15d7b94fb65fb3857cfb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6386e337568c15d7b94fb65fb3857cfb/xclkon/e414c79eff72fb0eb9f148d468888c93
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6386e337568c15d7b94fb65fb3857cfb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

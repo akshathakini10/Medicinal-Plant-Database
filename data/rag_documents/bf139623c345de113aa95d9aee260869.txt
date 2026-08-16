@@ -1,0 +1,97 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bf139623c345de113aa95d9aee260869
+Botanical Name: Leea macrophylla ROB. E HORN.
+Family: Leeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Leea robusta ROB. HORT. BENG.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 5 languages. Hindi (4) - dholsamudra, dholshumoodra, samoodraka, samudraka Kannada (1) - mandala gadde Marathi (3) - dimdo, dinda, jino Sanskrit (8) - Sanskrit Comments  dhola samudrika, dholasamudrika, hastikanda, hastikarnapalasha, hastiparni, kekidanda, morata, samudraka Telugu (2) - peddapayagillaaku, peddapayagillaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869/xclkon/74edac2ead4f9d84d9271be8e7fc587e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869/xclkon/74edac2ead4f9d84d9271be8e7fc587e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf139623c345de113aa95d9aee260869/xclkon/74edac2ead4f9d84d9271be8e7fc587e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Hastikanda
+sanskrit_name: हस्तिकन्द
+transliteration: hastikanda
+ref_drug_name: हस्तिकन्द
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Hastikarna
+sanskrit_name: हस्तिकर्ण
+transliteration: hastikarṇa
+ref_drug_name: हस्तिकर्ण
+status: Most probable
+discussion: Identified with this species
+reference: [4]
+
+Identity Record 3
+drug_name: Hastikarna
+sanskrit_name: हस्तिकर्ण
+transliteration: hastikarṇa
+ref_drug_name: हस्तिकर्ण
+status: Most probable
+discussion: Most probably correlated to this species with regard to its features
+reference: [1]
+
+Identity Record 4
+drug_name: Hastikarnapalasa
+sanskrit_name: हस्तिकर्णपलाश
+transliteration: hastikarṇapalāśa
+ref_drug_name: हस्तिकर्णपलाश
+status: Accepted source
+discussion: Hastikarnapalasa is correlated to this species
+reference: [2]
+
+Identity Record 5
+drug_name: Hastiparni
+sanskrit_name: हस्तिपर्णी
+transliteration: hastiparṇī
+ref_drug_name: हस्तिपर्णी
+status: Most probable
+discussion: In Caraka it has been mentioned under the emetic drugs; Cakrapani has interpreted it as 'Morata' but the fruits are not proven to be emetic; In the above reference 'Hastiparni' is mentioned along with 'Trapusa'; In the nighantus it is mentioned as the synonym of 'Trapusa'; So this can be considered as a variety of 'Trapusa' and the fruits of 'Vanatrapusi' are emetic; Presently they have interpreted it with 'Hastikarnapalasa' which is correlated to this species but even this is not emetic
+reference: [5]
+
+Identity Record 6
+drug_name: Kekidanda
+sanskrit_name: केकिदंडा
+transliteration: kekidaṃḍā
+ref_drug_name: केकिदंडा
+status: Accepted source
+discussion: It has been mentioned in Sodala nighantu; Vaidya Bapalal has identified it with this species which is known in Gujarat as ' Mordeni' or 'Mordinda';
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

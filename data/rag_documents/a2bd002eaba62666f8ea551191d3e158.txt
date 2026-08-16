@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a2bd002eaba62666f8ea551191d3e158
+Botanical Name: Dolichandrone spathacea (L.F.) K.SCHUM.
+Family: Bignoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 3 languages. Kannada (1) - arkuvoddi Malayalam (2) - neerpongiliyam, nirpongilium Tamil (9) - attukkompoti, attukkompotiyai, kanbillai, kanpilaicceti, kanpulaippu, nettirappulai, peruppumpatiri, vilpadri, viribadiri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2bd002eaba62666f8ea551191d3e158
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2bd002eaba62666f8ea551191d3e158
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2bd002eaba62666f8ea551191d3e158
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

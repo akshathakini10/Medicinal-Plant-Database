@@ -1,0 +1,107 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f19728e96d6246c0e2dcbe2d59406afc
+Botanical Name: Symplocos racemosa ROB.
+Family: Symplocaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Symplocos beddomei C.B.CLARKE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 96 Vernacular names found in 9 languages. English (1) - lodh bark Hindi (2) - lodh, lodhra Kannada (12) - baala doddigana mara, bala doddli, bala loddi, baladoddi, balalodduginamara, bodigaane, budigaane, loadhanada chakke mara, loddugana mara, lodhra, pachettu, shaabara mara Marathi (3) - lodar, lodh, lodhra Sanskrit (38) - Sanskrit Comments  aksibhaisajya, aksibhesaja, balabhadra, balipriya, bhillataru, bhilli, galava, hastilodhraka, hemapushpaka, kandakilaka, kandanila, laktakarma, lodhra, lodhrah, lodhraka, lodhravriksha, mahalodhra, marjana, nayanousadha, rodhra, rodhrah, savara, savaraka, savarakarodhra, savararodhra, savura, shahara, shaharalodhra, shambara, shavaraka, shukla, srinata, sthulavalkala, tilaka, tillaka, tirita, tiritaka, vanarajhata Tamil (22) - kacacankai, kalottiram, kaya vilai, kayavilai, lodhra, lottira, lottukattol, lottutattol, tillakam, tillakam2, velilothiram pattai, vellai laddip pattai, vellalattippattai, vellattippattai, velli lottiram, velli-lethi, velli-lodhram, velli-lothi, vellilothram, velliloththirampattai, vellilottiram, verrilai Telugu (7) - erra lodduga, erralodduga, lodduga, lodhuga-chettu, nellamarri, sabaramu, sapara Tibetan (6) - gsen phram, gsen phrom (p), sa ba ra, sen khrom, sen phrom (d), sen-phrom Urdu (5) - lodh pathani, lodh pathani sayida, ludhpathani, pathan lodh, pathani lodh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc/xclkon/1c194dc21c6e49dd33002a4bc2a166be
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2020
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2020.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc/xclkon/1c194dc21c6e49dd33002a4bc2a166be
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc/xclkon/1c194dc21c6e49dd33002a4bc2a166be
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc/xclkon/1c194dc21c6e49dd33002a4bc2a166be
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc/xclkon/1c194dc21c6e49dd33002a4bc2a166be
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f19728e96d6246c0e2dcbe2d59406afc/xclkon/1c194dc21c6e49dd33002a4bc2a166be
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Lodhra
+sanskrit_name: लोध्र
+transliteration: lodhra
+ref_drug_name: लोध्र
+status: Accepted source
+discussion: Lodhra is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Lodhra
+sanskrit_name: लोध्र
+transliteration: lodhra
+ref_drug_name: लोध्र
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Lodhra
+sanskrit_name: लोध्र
+transliteration: lodhra
+ref_drug_name: लोध्र
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Lodhra
+sanskrit_name: लोध्र
+transliteration: lodhra
+ref_drug_name: लोध्र
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Lodhra - prajati
+sanskrit_name: लोध्र प्रजाति
+transliteration: lodhra prajāti
+ref_drug_name: लोध्र प्रजाति
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Lodhra
+sanskrit_name: लोध्र
+transliteration: lodhra
+image_urls: https://www.medicinalplants.in/slokaimages/1559/1559_1.jpg https://www.medicinalplants.in/slokaimages/1559/1559_2.jpg https://www.medicinalplants.in/slokaimages/1559/1559_3.jpg
+ocr_text: लोध्रः शीत कषायश्च हन्ति तृष्णामरोचकम्| | लोध्रयुग्मं कषायं शातं वातकफास्रजित् चक्षुष्यं विषहृत् तत्र विशिष्टो वल्करोध्रकः I IDhn, Rjn) Lodhra is kashaya in rasa, sita in veerya, cures trsna and arocaka Lodhra yugma is kashaya in rasa, sita in veerya, alleviates vata, kaphasra, is caksushya and cures visa लोध्रो ग्राही लघुः शीतश्चक्षुष्यः कफपित्तनुत्| कषायो रक्तपित्तासृग्ज्वरातीसारशोथहृत् [ IBpn) Lodhra is kashaya in rasa, laghu in guna, sita in veerya, caksushya in karma, alleviates kapha and pitta, cures rakta pitta, asra vikara, jvara, atisara and sotha. Brahi, लोध्रोडसृक्कफपित्तघ्नः चक्षुष्यः शोथजित् सरः तद्नच्छावरलोध्रोडपि चक्षुष्यो मृदुरेचनः| | (Rjvl Loahra is sara in guna, caksushya ana mrdu recana in karma, alleviates vitiation of asrk, kapha, pitta, cures sotha

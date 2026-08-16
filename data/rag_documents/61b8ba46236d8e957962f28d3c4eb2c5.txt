@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 61b8ba46236d8e957962f28d3c4eb2c5
+Botanical Name: Commicarpus helenae (J.A.SCHULTES) MEIKLE
+Family: Nyctaginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Boerhavia verticillata ROTTL. Commicarpus verticillatus STANDLEY
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 7 languages. Hindi (1) - pungalio Kannada (1) - madanike Malayalam (2) - talutama, tavilama Sanskrit (1) - Sanskrit Comments  punarnava Tamil (3) - mukkorri, mukkuttikkodi, ucha Telugu (6) - gujju kanne-komali, gujjukannekomlai, gujjukannerkomali, kanne komali, kannekomali, madinika Tibetan (1) - pu-na-rna-ba
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5/xclkon/fc82653f9d26cd3772075706586dfd61
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5/xclkon/9e7751871e873767ab8b1d79f94510fa
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5/xclkon/fc82653f9d26cd3772075706586dfd61
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5/xclkon/9e7751871e873767ab8b1d79f94510fa
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5/xclkon/fc82653f9d26cd3772075706586dfd61
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5/xclkon/9e7751871e873767ab8b1d79f94510fa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5/xclkon/fc82653f9d26cd3772075706586dfd61
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5/xclkon/9e7751871e873767ab8b1d79f94510fa
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61b8ba46236d8e957962f28d3c4eb2c5/xclkon/fc82653f9d26cd3772075706586dfd61
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

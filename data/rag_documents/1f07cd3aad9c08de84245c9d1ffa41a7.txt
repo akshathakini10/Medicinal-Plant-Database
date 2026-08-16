@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1f07cd3aad9c08de84245c9d1ffa41a7
+Botanical Name: Eulophia campestris WALL.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 6 languages. Hindi (3) - salap, salib-misri, salibmisri Marathi (4) - ambarkand, bhuikakali, mankand, salamishri Sanskrit (9) - Sanskrit Comments  amrita, amritodbhava, jiva, jivani, munjataka, pranabhrita, pranada, sudhamuli, virakanda Telugu (2) - goruchettu, unaniturphylla Tibetan (1) - dban lag Urdu (1) - salabmisri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f07cd3aad9c08de84245c9d1ffa41a7
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 920
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/920.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f07cd3aad9c08de84245c9d1ffa41a7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f07cd3aad9c08de84245c9d1ffa41a7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Grnjanaka
+sanskrit_name: गृञ्जनक
+transliteration: gṛñjanaka
+ref_drug_name: गृञ्जनक
+status: Suggested source
+discussion: V G Desai has identified Grnjanaka as 'Baadshahi saalam'; With regard to its properties and its name 'Lasaniya saalam' he has correlated Grnjanaka to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Munjjataka
+sanskrit_name: मुञ्जातक
+transliteration: muñjātaka
+ref_drug_name: मुञ्जातक
+status: Accepted source
+discussion: This species is used as a substitute for Munjjataka
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

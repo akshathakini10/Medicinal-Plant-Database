@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c1a3a16ba1c30094388e988539db9282
+Botanical Name: Thuja orientalis L.
+Family: Cupressaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Hindi (3) - mayurpankh, morepankhi, morpankhi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1a3a16ba1c30094388e988539db9282
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1a3a16ba1c30094388e988539db9282
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1a3a16ba1c30094388e988539db9282
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

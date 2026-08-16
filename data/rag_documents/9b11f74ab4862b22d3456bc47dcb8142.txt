@@ -1,0 +1,96 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9b11f74ab4862b22d3456bc47dcb8142
+Botanical Name: Acacia catechu (L.F.) WILLD.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 69 Vernacular names found in 9 languages. English (4) - catechu, cutch, khair gum, khayer Hindi (8) - kath, kattha, khair, khaira, khdira, kheera, kher, khir Kannada (25) - cachu, cateku, kaachu, kaachu mara, kachu, kaggali mara, kagli, kalariro, kanti, kashu, kempu khairapa jaali, kempukayiru, kempukhair, kempukhairada, kempukhairadajali, khadira, khaira, kuglee, kugli, seredu, tara, tare, tareda, tere, thareddu Malayalam (12) - cengarinali, cenkarinnali, kadaram, karigoli, karimgali, karinali, karinnali, karukoli, karungali, karungnyali, khadiram, khapuram Marathi (7) - kaderi, khaderi, khair, khaira, khairkatha, khera, laalkhair Sanskrit (1) - Sanskrit Comments  khadira Tamil (2) - karunkaali, karunkali Telugu (8) - kaachu, khadiramu, mallasandra, pdalamaanu, pogamu, sandra, sundra, thellathumma Urdu (2) - katha safaid, supari chikni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 22
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/22.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b11f74ab4862b22d3456bc47dcb8142
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Khadira
+sanskrit_name: खदिर
+transliteration: khadira
+ref_drug_name: खदिर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Khadira
+sanskrit_name: खदिर
+transliteration: khadira
+ref_drug_name: खदिर
+status: AS
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Khadira - jati
+sanskrit_name: खदिर जाति
+transliteration: khadira jāti
+ref_drug_name: खदिर जाति
+status: AS
+discussion: This variety is found in North India
+reference: [3]
+
+Identity Record 4
+drug_name: Khadira - jati
+sanskrit_name: खदिर जाति
+transliteration: khadira jāti
+ref_drug_name: खदिर जाति
+status: AS
+discussion: This variety is found in East India
+reference: [3]
+
+Identity Record 5
+drug_name: Khadira - jati
+sanskrit_name: खदिर जाति
+transliteration: khadira jāti
+ref_drug_name: खदिर जाति
+status: AS
+discussion: This variety is found in Bengal, Bihar and western India
+reference: [3]
+
+Identity Record 6
+drug_name: Khadira - jati
+sanskrit_name: खदिर जाति
+transliteration: khadira jāti
+ref_drug_name: खदिर जाति
+status: AS
+discussion: This variety is found in South India
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

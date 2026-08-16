@@ -1,0 +1,87 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9154e8f7b6a3cdddea2f4dd0a1076f89
+Botanical Name: Calotropis gigantea (L.) R.BR.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Asclepias gigantea WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 300 Vernacular names found in 10 languages. English (2) - wara, yercum Hindi (21) - aak, aakdo, ag, ak, akan, akond, akond or akan, akro, ark, lalak, lalmadar, madar, mandara, moto aak, moto-aak, mudar, mudhar, safed aak, safed-akra, safedak, shiy-aak Kannada (23) - aarka, aekka, aekka maale, aekki gida, akarai, ake, arka, bili ekkada gida, ekka, ekkai, ekkamale, ekke, ekkemale, kari aekkada gida, mandaara, mandara, yekkada, yekkada gida, yekkadaguda, yekkamali, yekkamalle, yekke, yekkemale Malayalam (15) - belerica, belericu, bukam, dinesam, eri, ericu, erikka, erikku, erukku, vellaarike, vellerikku, yerica, yerika, yerrikku, yerriku Marathi (14) - aka, akanak, akanda, akda, akdachajhada, akra, arka, dhavi rui, lalakava, lalmadar, lalrui, muda, rui, ruvi Sanskrit (54) - Sanskrit Comments  aditya, aharbandhava, aharmani, aharpati, alarka, arka, arkah, arkavrikshaha, aryama, asphotaka, bhanu, bhaskara, buka, divakar, ganarupa, haridashva, himarati, jambhala, kharjjughna, kirtanuphala, kshiradala, kshirakandaka, kshiranga, kshiraparni, mandara, prabhakara, pratapa, pratapasa, puchhi, ravi, rupika, sadapushpa, sadapuspi, sadapyshpa, sadasuma, saptashva, savita, shitapushpaka, shukaphala, sukaphala, sunu, suryapattra, suryavgha, svaytaurkum, tapana, tulaphala, ushnarashmi, vasuka, vibhakara, vibhavasu, vikorana, vikshira, vivasvana, vivaswana Tamil (141) - ahgaram, akan 2, alacikacceti, alacikam, alagar, alakam, alal 1, alarpal, amarkkam, ancolam@, arakkam 2, arakkanceti, arakkaparani, ariccunam#, arkkam, arkkam 1, arkku, aruccanam, aruccunam 2, aruccunanceti, aruchunam, arukkam, arukkan, arukku, arulagam, atittiyam, attaticai, attaticam, attiaticaicceti, badabadam, calaippota, campalam, cantamani, cantamanicceti, cantamappam, cantamayam, catakacuriyan, catakam, catalacceti, catalam, catam, catanapam, cataparikacceti, cataparikam, catapatalam, catapatam#, catapatam@, catappan, cataputacceti, cataputam@, cataputpam, cataputpi, cayitakam, ciraccatam, cirapiraneci, citaputpakam, civavallapam, cukalavi, cukapala, cukapalai, cukapalam, curam 1, curi, curiyanam, curiyanvintu, curiyapputu, ekayitcakam, erikalan 1, erukkalai, erukkam, erukkam ver, erukkampal, erukkan, erukkanceti, erukku, eruku, irumpunirricceti, irupunirri, itcika, kanaripam, kanatipam, karccakkinam, karnam, katiccavaytutaiccan, katiravan, katterumai 2, katterumaikkalli, kokarunai, kokaruni, kutiketan, makam, makkam, makkika, makkikacceti, malaipparutimaram, manotayam, marttantacceti, marttantam, marttantan, mirugusayidagam, mirukacayitakam, mirukucayittakam, mutitamaram, naccilaikkurikacceti, nattam, nattappalai, nattappila, nattappiraki, nattappirakicceti, nilavukay 2, nilavukaycceti, nubam, nupakacceti, nupakam, nupam#, nupam@, nuttam, palaikkaraviki, putanivaranicceti, tanalam, tanali, tanalicceti, tarani, tirkkaputpam, tulapalam, tuntakkini, tutaiccavam, tutaiccavay, tutaiccuvacceti, urukku, utumparakacceti, utumparakam, utumparam 2, vacciram 2, vacciramuli, varkkam, vellerukkam poo, vellerukku, yercum, yerikkan, yeroocum pawl Telugu (19) - arkamu, ekke, jilledu, mandaaramu, mandaramu, nalla jelledu, nallajilledu, nellajeleroo, nellajilledo, nilledu, pachajilledu, raachajilledu, racajilledu, rachajilledu, ratsajilledu, tellajilledoo, tellajilledu, thellajilledu, uste Tibetan (2) - a rga, a-rka Urdu (9) - ab shir madar, akh ke phool, burg akh taza, gul madar, gule akh taza, madar (aak), roghan gul akh, shir madar, shri madar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 409
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/409.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89/xclkon/8caccd32abaee977d8cdb7fd6360b723
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89/xclkon/8caccd32abaee977d8cdb7fd6360b723
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89/xclkon/8caccd32abaee977d8cdb7fd6360b723
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89/xclkon/8caccd32abaee977d8cdb7fd6360b723
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89/xclkon/8caccd32abaee977d8cdb7fd6360b723
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89/xclkon/8caccd32abaee977d8cdb7fd6360b723
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9154e8f7b6a3cdddea2f4dd0a1076f89
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Alarka
+sanskrit_name: अलर्क
+transliteration: alarka
+ref_drug_name: अलर्क
+status: Most probable
+discussion: Usually correlated to the bigger and white flowered variety of this plant
+reference: [1]
+
+Identity Record 2
+drug_name: Arka - sveta
+sanskrit_name: अर्क श्वेत
+transliteration: arka śveta
+ref_drug_name: अर्क श्वेत
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Vasuka
+sanskrit_name: वसुक
+transliteration: vasuka
+ref_drug_name: वसुक
+status: Accepted source
+discussion: Vasuka is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

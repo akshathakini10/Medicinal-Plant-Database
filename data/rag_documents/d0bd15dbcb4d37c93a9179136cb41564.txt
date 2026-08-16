@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d0bd15dbcb4d37c93a9179136cb41564
+Botanical Name: Vigna aconitifolia (JACQ.) MARECHAL
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Phaseolus aconitifolius L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 62 Vernacular names found in 7 languages. English (2) - moth bean, tepary bean Hindi (9) - bhringga, mat, math, matki, methkalai, mot, moth, mothi, urad Kannada (6) - madaki, madike, madki, saabara hesara kaalu, thuruku hesaru, tutuku hesaru Marathi (4) - mat, math, matha, matki Sanskrit (23) - Sanskrit Comments  amrita, aranyamudga, bassunta, khandi, krimilaka, kulinaka, madyaka, makushtaka, makushtha, makushthaka, makustaka, makustakah, makustha, makusthaka, mapashtha, mayastha, mudjashtaka, nigudhaka, rajamudga, vallimudga, vanamudga, varaka, vasunta Tamil (14) - arimantakam, kannippayiru, kirumilakam, kirusnamukka, maturama, nannippayaru, panippayaru, payaru, piccippayaru, tulka-pyre, tulkapayir, tulkapyrai, tulukkappayaru, vekuputtirikai Telugu (4) - banmudga, kunkumapesalu, minumulu, pijjipesara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564/xclkon/f073cf83d5d261931ca77b2eb007703f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564/xclkon/f073cf83d5d261931ca77b2eb007703f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564/xclkon/f073cf83d5d261931ca77b2eb007703f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564/xclkon/f073cf83d5d261931ca77b2eb007703f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0bd15dbcb4d37c93a9179136cb41564
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Makusthaka
+sanskrit_name: मकुष्ठक
+transliteration: makuṣṭhaka
+ref_drug_name: मकुष्ठक
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

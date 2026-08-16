@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2023fca93d2c4f4b3739fc57c064b3eb
+Botanical Name: Jatropha gossypifolia L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 50 Vernacular names found in 6 languages. Hindi (6) - bherenda, mayla, ratan-jhad, ratanjhad, ratanjoti, ratanjyot Kannada (9) - chikka kaada haralu, chikka kaadu haralu, chikka turuka, hatthi yele haralu, hattiaela visha haralu, kari thruku haralu, kari-turukaharalu, kariturakaharalu, kariturukaharalu Malayalam (4) - katalavanakku, seema avanakku, shimaavanakku, simayavanakku Sanskrit (1) - Sanskrit Comments  dravanti Tamil (19) - aadalai, adalai, adali, atalai1, atlai, cimaiyamanakku, cimaiyatalai, cimaiyatalaicceti, civappatalai2, civappatalaicceti2, katta-manakku, kattamanakku, kattamanakku1, nakkurotam, parainitacceti, parainitam, simaiyamanakku, sumaiyaman, vatalai Telugu (11) - naepaalemu, nala amida, nalamudamu, nepalamu, nepalemu, seema-nepalamu, seemanaepaalemu, seemanepalam, simanepalamu, simanepalemu, yerra dundimalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2023fca93d2c4f4b3739fc57c064b3eb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2023fca93d2c4f4b3739fc57c064b3eb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2023fca93d2c4f4b3739fc57c064b3eb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2023fca93d2c4f4b3739fc57c064b3eb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

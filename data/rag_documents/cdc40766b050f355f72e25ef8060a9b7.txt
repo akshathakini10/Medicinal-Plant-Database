@@ -1,0 +1,108 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cdc40766b050f355f72e25ef8060a9b7
+Botanical Name: Balanites aegyptiaca (L.) DELILE
+Family: Balanitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Balanites roxburghii PLANCH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 99 Vernacular names found in 9 languages. Hindi (17) - baam, hingan, hingan-ka- per, hingan-ka-per, hingen, hingol, hingora, hingorni, hingot, hingota, hingotia, hingotio, hingoto, hingu, hingudi, ingna, ingua Kannada (19) - hingaata, hingalat, hingaloru, hingoloro, ingala, ingalaarada mara, ingalada mara, ingalara, ingalarade, ingalare, ingaleeka, ingalika, ingalike, ingalukke, inglara, ingudi, ingulada mara, ingulaka, meenu mara Malayalam (4) - namunta, nanchunta, nancunta, nunjoonda Marathi (6) - hingalbet, hingam, hingan, hingan bet, hingane, hingu Sanskrit (38) - Sanskrit Comments  akantaka, angaravrksa, angarvriksha, angulidala, anilantaka, bhallakiviriksha, daruparnaphala, dirghakanta, gaurtvaka, gouritvae, hinguputra, inguda, ingudam, ingudi, ingudi-vraksha, ingudi-vrikshaka, ingudivrikshaha, ingul, inguni, jalajantu, kantaka, krisharaka, kroshtuphala, munipadapa, putigandha, putranjiva, putripatra, shulari, tailabija, tailaphala, tanupatra, tapasadruma, tapasamudrama, tapasataru, tapasavrksa, tiktaka, tiktarnajja, vinashaka Tamil (6) - nanchundan, nancuntan, nancuntan pattai, nanjunda, nanjundan, toruvattu Telugu (7) - gaara, gara, gara-chettu, gari, ingalu mullu, ingudi, ringri Tibetan (1) - i ngu da Urdu (1) - hingot
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/5bdc111b7ddc4049dc8130c2fd0e70ff
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 271
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/271.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/9c110a3bb5b2e7f93f0ee16dda637ca3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/5bdc111b7ddc4049dc8130c2fd0e70ff
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/9c110a3bb5b2e7f93f0ee16dda637ca3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/5bdc111b7ddc4049dc8130c2fd0e70ff
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/9c110a3bb5b2e7f93f0ee16dda637ca3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/5bdc111b7ddc4049dc8130c2fd0e70ff
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/9c110a3bb5b2e7f93f0ee16dda637ca3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/5bdc111b7ddc4049dc8130c2fd0e70ff
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/9c110a3bb5b2e7f93f0ee16dda637ca3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cdc40766b050f355f72e25ef8060a9b7/xclkon/5bdc111b7ddc4049dc8130c2fd0e70ff
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Inguda
+sanskrit_name: इङ्गुद
+transliteration: iṅguda
+ref_drug_name: इङ्गुदी
+status: Accepted source
+discussion: Ingudi is correlated to this species
+reference: [3]
+
+Identity Record 2
+drug_name: Inguda
+sanskrit_name: इङ्गुद
+transliteration: iṅguda
+ref_drug_name: इङ्गुद
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Ingudi
+sanskrit_name: इङ्गुदी
+transliteration: iṅgudī
+ref_drug_name: इङ्गुदी
+status: Accepted source
+discussion: Ingudi is correlated to this species
+reference: [3]
+
+Identity Record 4
+drug_name: Ingudi
+sanskrit_name: इङ्गुदी
+transliteration: iṅgudī
+ref_drug_name: इङ्गुद
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Ingudi
+sanskrit_name: इङ्गुदी
+transliteration: iṅgudī
+image_urls: https://www.medicinalplants.in/slokaimages/196/196_1.jpg https://www.medicinalplants.in/slokaimages/196/196_2.jpg https://www.medicinalplants.in/slokaimages/196/196_3.jpg https://www.medicinalplants.in/slokaimages/196/196_4.jpg https://www.medicinalplants.in/slokaimages/196/196_5.jpg
+ocr_text: इंगुदः कुष्ठभूतादिग्रहव्रणविषकृमीन्| इत्युष्णः श्वित्रशूलघ्नः तिक्तकः कटुपाकवान् I (Bpnl Ingudi is tikta in rasa usna in veerya, katu in paka cures kustha, bhutadigraha, vrana krmi svitra and sula. इंगुदी कफरक्तामग्रंथिघ्नी स्याद् व्रण हिता| ऐंगुदं स्वादु तिक्तं च स्निग्धोष्णं श्लेष्मवातजित् Il KSodala) Ingudi is svadu, tikta in rasa, snigdha in guna, usna in veerya, alleviates kapha and vata, cures kapha rakta ama granthi and vrana इंगुद्याः फलमज्जको जलयुतो लेपो सुखे कांतिदो II IVaidyajeevanam Phalamajja of ingudi along with jala used as a lepana is kantida इंगुदी मदगंधा स्यात् कटूष्णा फेनिला लघुः रसायनी हन्ति जंतुवातामयकफव्रणान् IRjn) Ingudi is katu in rasa, laghu in guna, usna in veerya, alleviates kapha ana vata, is madagandha, phenila, rasayani, cures jantu, and vrana. ऐंगुदं तिक्तमधुरं स्निग्धोष्णं कफवातजित्|| (चःसू २७ २४०) Einguaa is madhura rasa, snighda in guna, usna in veerya, alleviates kapha and vata tikta,

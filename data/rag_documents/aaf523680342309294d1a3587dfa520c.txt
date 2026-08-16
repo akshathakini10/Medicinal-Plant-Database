@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: aaf523680342309294d1a3587dfa520c
+Botanical Name: Aponogeton natans (L.) ENGL. & KRAUSE
+Family: Aponogetonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Aponogeton monostachyon L.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 4 languages. Kannada (3) - kothe gida, neeru balli, neeru kasa Malayalam (1) - parua-kelangu Tamil (24) - allikkilanku, alliyakkilanku, ammatti, citti 2, cittikkilanku, elakkotti, elakkottikkilanku, kanmaykkilanku, kanmaykkotti, kopapattiram, kottaimulam, kotti, kotti kizhangu, kotti-k-kilanku, kottikkilanku, kottikkizhangu, lottirakkilanku, lottiram, metuvacakkilanku, metuvacam, naiciyakkotti, naiciyam, utumparacitakkilanku, utumparacitam Telugu (3) - namma dumpa, nanna puvvumokka, nava dumpa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaf523680342309294d1a3587dfa520c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaf523680342309294d1a3587dfa520c/xclkon/644419c9be669bee57f92ee340c516e3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaf523680342309294d1a3587dfa520c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaf523680342309294d1a3587dfa520c/xclkon/644419c9be669bee57f92ee340c516e3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaf523680342309294d1a3587dfa520c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

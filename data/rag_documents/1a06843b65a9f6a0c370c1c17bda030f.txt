@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1a06843b65a9f6a0c370c1c17bda030f
+Botanical Name: Plumeria alba L.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Plumieria alba L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 7 languages. Hindi (1) - gulchin Kannada (5) - belcampaka, bili daeva kanigalu, haalu sampige, kadusampige, vellachampaka Malayalam (1) - velutharali Marathi (1) - khairchampa Sanskrit (1) - Sanskrit Comments  kananakaravira Tamil (8) - peru, perumalari, perumallari, perumalli, perumaram 1, perungalli, perunkalli, seemai arali Telugu (4) - adavi-ganneru, daevaganneru, veyyivarahaalu, veyyivarahalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a06843b65a9f6a0c370c1c17bda030f/xclkon/6697c12989c7b46fef80d4af3284e423
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a06843b65a9f6a0c370c1c17bda030f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a06843b65a9f6a0c370c1c17bda030f/xclkon/6697c12989c7b46fef80d4af3284e423
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a06843b65a9f6a0c370c1c17bda030f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a06843b65a9f6a0c370c1c17bda030f/xclkon/6697c12989c7b46fef80d4af3284e423
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a06843b65a9f6a0c370c1c17bda030f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a06843b65a9f6a0c370c1c17bda030f/xclkon/6697c12989c7b46fef80d4af3284e423
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

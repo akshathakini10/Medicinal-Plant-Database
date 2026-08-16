@@ -1,0 +1,159 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ac85a1dcb3ffc32786f88e3307605202
+Botanical Name: Ocimum basilicum L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Ocimum album L. Ocimum basilicum L. var. basilicum Ocimum caryophyllatum SCHWEIG E. SCHRAUK Ocimum pilosum WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 195 Vernacular names found in 10 languages. English (4) - basil, common basil, lemon basil, sweet basil Hindi (21) - babestul, babui, babuitulsi, babul, babuyitulsi, bahari, ban tulsi, barbar, gola-tulasi, jangli-tulsi, kalitulsi, marua, maruwa, murya, niyakshbo, rihan, sabzah, safed-tulsi, sbazah, tukhmerihan, tulsi Kannada (16) - bhoothulasi, kaama gaggare, kaama kasthoori, kaama kasturi, kaamakasturi, kam kasturi, kamagaggare, kamakasturi, kamkasturi, karavgagri, nayi-tulasi, neeru thulasi, ramkasturi, sabjaa gida, sajjebiya, tulasi Malayalam (10) - kattarama-tulasi, pach-cha-pushpam, pachcha, ram-tulasi, ramattulasi, ramatulasi, soladi-tirtava, tirunitri, tirunitru, tirunitru-pach-cha Marathi (8) - bhumy-tulas, marva, ran-tulasi, sabja, sabjaa, sabji, sabza, tukhamariya Sanskrit (38) - Sanskrit Comments  ajagandhika, ajaka, ambheram, apetarakhsasi, arjaca, arjaka, arjakah, asurasa, barba, barbara, barbari, bisvatulasi, g, gandha-panirajaka, gandhapatra, jambirah, karahi, kharapushpa, kharapuspa, krsnarjakah, kutheraka, manjariki, manjirika, marubaka, munjariki, parnasa, pasanabheda, phanijjah, sitarjakah, suklatulasi, surabhi, surasa, tulasidvesha, tungi, ugragandha, varavara, varvara, vishvatulasi Tamil (69) - cankanirakkarantai, capcavitai, capja, cirukancankorai1, cirvanikkottan, civatocikappaccai, civatotikam, civatulaci1, cunaikkarantai, cunaikkarantai@, cunja koray, ganjankorai, kalimokam, kalimokappaccai, kamakasturi, kancan korai, kancankorai, kancankorai2, kancankullai1, kanchan korai, kanjan-korai, kanjankorai, karandai, karantai1, karpuratulasi, karunthulasi, kavavi, kiruttina parani, kuttiracatai, makkatirunirruppattiri, mancali$, mancalippaccai, mancilikkan, milankili, nay-tolashi, naytulaci, nolakitacceti, nolatikam, paccai, paccaicapja, paccilai, pasanacceti, rudrajadai, ruttiracatai, thiruneethupachai, thiruneetru patchi, tirnoot patchie verie, tirnut-patchi, tirnutpatchi, tiruneetruppachchilai, tiruneetruppachilai, tirunirruppaccai, tirunirruppattiri, tirunirupaccai, tirunirupachai, tiruniruppaccai, tirunitru, tirunitru-pach-chi-ai, tirunitrup-pattiri, tirunittru, tirunutpatchi, tunnarruppaccai, uruttira catai, uruttirac-catai, uruttiracatai, varuttiraccatai, varvaram, ventulaci 1, viputippaccai Telugu (20) - bhoo tulasi, bhoothulasi, bhu-tulasi, bhutulasi, gakarakau, komma gaggiri, kukka-tulasi, kukkatulasi, rudra jada, rudra-jeda, rudrajada, sabja, vaepudupachha, vebudipatri, vepudu-pach-cha, vepudupachha, vibhudi patri, viboodipathri, vibudi-patri, vibudipatri Tibetan (1) - pha ni dza Urdu (8) - burg faranjmishk, burg faranjmushk, burg firanjmishk, burg tulsi, sosambar (kali tulsi), tukhm faranjmishk, tukhm firanjmushk, tukhm ftranjmushk
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/b4254b0ae105044e0f20976d34747787
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1535
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1535.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/97ce9fe7cc31f18af5e3b2d7dce2ca71
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/daae509f4ca3bec31936f989894fea63
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/fe612d2ecb6796577bcf0ba3b091691c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/b4254b0ae105044e0f20976d34747787
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/97ce9fe7cc31f18af5e3b2d7dce2ca71
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/daae509f4ca3bec31936f989894fea63
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/fe612d2ecb6796577bcf0ba3b091691c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/b4254b0ae105044e0f20976d34747787
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/97ce9fe7cc31f18af5e3b2d7dce2ca71
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/daae509f4ca3bec31936f989894fea63
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/fe612d2ecb6796577bcf0ba3b091691c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/b4254b0ae105044e0f20976d34747787
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/97ce9fe7cc31f18af5e3b2d7dce2ca71
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/daae509f4ca3bec31936f989894fea63
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/fe612d2ecb6796577bcf0ba3b091691c
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/b4254b0ae105044e0f20976d34747787
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/97ce9fe7cc31f18af5e3b2d7dce2ca71
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/daae509f4ca3bec31936f989894fea63
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/fe612d2ecb6796577bcf0ba3b091691c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/b4254b0ae105044e0f20976d34747787
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/97ce9fe7cc31f18af5e3b2d7dce2ca71
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/daae509f4ca3bec31936f989894fea63
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/fe612d2ecb6796577bcf0ba3b091691c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac85a1dcb3ffc32786f88e3307605202/xclkon/b4254b0ae105044e0f20976d34747787
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ajagandha
+sanskrit_name: अजगन्धा
+transliteration: ajagandhā
+ref_drug_name: अजगन्धा
+status: Controversial
+discussion: Its vernacular names point towards it as a correlation
+reference: [1]
+
+Identity Record 2
+drug_name: Barbari
+sanskrit_name: बर्बरी
+transliteration: barbarī
+ref_drug_name: बर्बरी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Barbari - prakara
+sanskrit_name: बर्बरी प्रकार
+transliteration: barbarī prakāra
+ref_drug_name: बर्बरी प्रकार
+status: Accepted source
+discussion: It is correlated to a type of Barbari
+reference: [3]
+
+Identity Record 4
+drug_name: Barbari - prakara
+sanskrit_name: बर्बरी प्रकार
+transliteration: barbarī prakāra
+ref_drug_name: बर्बरी प्रकार
+status: Accepted source
+discussion: It is correlated to a type of Barbari
+reference: [3]
+
+Identity Record 5
+drug_name: Barbari - prakara
+sanskrit_name: बर्बरी प्रकार
+transliteration: barbarī prakāra
+ref_drug_name: बर्बरी प्रकार
+status: Accepted source
+discussion: It is correlated to a type of Barbari
+reference: [3]
+
+Identity Record 6
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+ref_drug_name: पाषाणभेद
+status: Controversial
+discussion: Throughout the country many species have been correlated to Pasanabheda and this is one among them
+reference: [5]
+
+Identity Record 7
+drug_name: Phanijja
+sanskrit_name: फणिज्ज
+transliteration: phaṇijja
+ref_drug_name: फणिज्ज
+status: Most probable
+discussion: Usually identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

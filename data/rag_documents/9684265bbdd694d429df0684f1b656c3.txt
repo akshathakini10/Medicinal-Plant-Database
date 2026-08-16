@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9684265bbdd694d429df0684f1b656c3
+Botanical Name: Calamus tenuis ROB.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Hindi (1) - bent Sanskrit (2) - Sanskrit Comments  vetasa, vetra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9684265bbdd694d429df0684f1b656c3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 398
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/398.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9684265bbdd694d429df0684f1b656c3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vetra
+sanskrit_name: वेत्र
+transliteration: vetra
+ref_drug_name: वेत्र
+status: Accepted source
+discussion: Thakur Balwant Singh has identified 'Vetra' with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Vetra
+sanskrit_name: वेत्र
+transliteration: vetra
+ref_drug_name: वेत्र
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

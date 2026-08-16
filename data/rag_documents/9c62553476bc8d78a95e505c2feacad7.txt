@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9c62553476bc8d78a95e505c2feacad7
+Botanical Name: Ipomoea asarifolia (DESR.) ROEM. & SCHULT.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Malayalam (1) - bel-adambu Tamil (4) - atappankoti, vellaiyatampu, venatampu, vennatampu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c62553476bc8d78a95e505c2feacad7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c62553476bc8d78a95e505c2feacad7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c62553476bc8d78a95e505c2feacad7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

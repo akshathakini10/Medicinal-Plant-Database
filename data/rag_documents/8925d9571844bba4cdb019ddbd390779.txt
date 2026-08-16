@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8925d9571844bba4cdb019ddbd390779
+Botanical Name: Cucurbita maxima DUCHESNE
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 122 Vernacular names found in 9 languages. English (3) - pumpkin, turks cap gourd, winter squash Hindi (9) - kaddu, kadu, kashiphala, lal kolu, lal kumra, lalkumra, meetha kaddu, mithakaddu, pilakohola Kannada (10) - chini kaayi, chinikavi, govekaayi, gumbalo, kumbala, kumbala kaayi, kumbala-hannu, kumbala-kayi, kumbalakai, see gumbala Malayalam (3) - chakkerakumpalan, mattan, mattanga Marathi (4) - bhomphala, dudhni, lal, tambda bhopla Sanskrit (11) - Sanskrit Comments  dadhiphala, dangari, gramya, gudayogaphala, kushmanda, peetaphala, pitakushmanda, pitakusmandah, pitaphala, pitapushpa, punyalatha Tamil (72) - akantamarican, animulai, animulaimatu, aracanikkay1, arasanikai, carkkaraipparanki, carkkaraippucani, carukkaraipparanki, carukkaraippucanai, carukkaraippucini2, cempucani, cikivarttakam, cimaippucani@, cinakkaykkoti, curiyaputattan, inippupucani, kacinikkuppantam, kakarupala, kampalam, kampu1, kanipalamulai, kantupariccunai, karkaru, kucumantakkay, kulika, kulikakkoti, kumutikai, kumutikaikkoti, kuppil, mancal pucani, matavappiriyakkoti, matavappiriyam, nalla-pusini, nallapucani, naratiya1, nompurikakkoti, nompurikam, parangi kayi, parangikayi, paranki1, paranki@, parankik kay, parankikkay, parankikkoti, parankkikai, pasanavuralpokki, patarkay1, periyakatalai, perumpantakkoti, perumpantam, pooshalni, pucanai, pucani@, pucanikkay, pucuni 1, pulaippucanikkoti, pulipalam, puliyacani, puliyacanikkoti, puliyamalam, puliyapalam, pushini, pushinik-kay, pusini, pusinikkay, putpalata, sarkarai pusunai, tecalika, tecalikappucanikkoti, tevatalikam, tiravapotakkoti, tiravapotam1 Telugu (7) - erra gummadi, gummadi, gummadi kaaya, gummadi kayi, gummadi-kaya, thiyya gummadi, tiyya gummadi Urdu (3) - maghz tukhm kaddu, maghz tukhm-i-kaddu, maghz-i-tukhm-i-kaddu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8925d9571844bba4cdb019ddbd390779
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8925d9571844bba4cdb019ddbd390779
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8925d9571844bba4cdb019ddbd390779
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8925d9571844bba4cdb019ddbd390779
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8925d9571844bba4cdb019ddbd390779
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Pitakusmanda
+sanskrit_name: पीतकूष्माण्ड
+transliteration: pītakūṣmāṇḍa
+ref_drug_name: पीतकूष्माण्ड
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Pitakusmanda - prakara
+sanskrit_name: पीतकूष्माण्ड प्रकार
+transliteration: pītakūṣmāṇḍa prakāra
+ref_drug_name: पीतकूष्माण्ड
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 00476847af4ebbbd31e6dad28ea1f00f
+Botanical Name: Achyranthes aspera L.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 273 Vernacular names found in 10 languages. English (1) - prickly chaff flower Hindi (26) - andhi jalo, andhijhara, apang, appamarg, chichra, chirchira, chirchitta, cicimda, circita, dintara, kanti, kantta, katio bhuratio, khara, latjira, latjiri, lich kuri, puth kanda, puthkanda, puthkunda, putkanda, sn apamargh, ultokure, undhokanto, undo kanto, unta ghada Kannada (11) - kempu uthraani, mayooraka, utrani-gida, utranigida, uttaraane, uttaraani, uttaraani gida, uttarane, uttaranee, uttarani, uttrane Malayalam (5) - cadelari, kadaladi, katalati, valiyakatalati, vankatalati Marathi (7) - aghaada, aghada, aghadha, aghado, aghara, pandhara-aghada, surat Sanskrit (41) - Sanskrit Comments  a, adhahsalya, adhoghanta, adhvashalya, aghamargava, aghata, apamarga, apamargah, apamargaha, apangakpushpi, chamatkara, dhamargava, durabhigraha, durgraha, kantarika, kanti, karkatapippali, katalati, katumanjirika, kharamanjari, kini, kinit, kishaparni, ksharamadhya, kshuraka, kubja, malakanta, markati, mayura, mayuraka, pandukantaka, parakpushpi, pratyakparni, pratyakpuspa, pratyakpuspi, shaikharika, shkhari, sikhari, sthalamanjari, talakata, vasira Tamil (166) - akatam, akatamonicceti, akatturam, akayamauni, ancanati, apamarkkam#, apamarkkam@, apamarkki, apamarutamuli, aparamarkkam, aramaravam, aramiyam1, atokantam, attuvacalliyam, caitanniyam, cakarikam, caramattiyam, cavakam, cavuntati, cekari1, cekarikam#, cekarikam@, cennayuruvi, cikari1, cikiciram, cirukatalati, cirukatalaticceti, civanta nayuruvi, culanam, cuvanam2, cuvanam@, cuvayam, iraviliyanputu, kacurantam, kalvacamati, kamankalam, kancari, karakkarati, karamantali, karapippivi, karattilkaram2, karattirkaram2, karcikacceti, karcikam, karumalaki, karumancari, karumancaricceti, karumpai, katalati, katalati@, katavakam, katumancaricceti, katumancarikai, katumancarikam, katunti, kavutam, kecaravaram, kecarikacceti, kecarikam#, kecarikam@, kicaparnam, kicaparni, kicaparnicceti, kicaparunicceti, kicavalli, kicavallicceti, kincakapanni, kincakapannicceti, kincapanni, kini, kirusnapanni, kolitakikam, kotavi, kottakacceti, kottakam, kottavi1, kottavivittirukki, kottavivittirukku, kurccakacitacceti, kurccanacitam, kurmakkerutamuli, lokkikacceti, lokkila, makatacceti, makatam#, malakantacceti, malakantam, mamuni, mamuni#, mamuni@, mamuniki, mamuri, manakimuli, manca, mancari 2, mancaricceti, manikkarutu, manikkayaru, markkatapippali, markkatappippili, markkavikam, maruttipoti#, maruttipoti@, maruttippoti@, maruttira, maruttiracceti, mayirakam, mayurakacceti, mayurakam 2, mayuram 1, munrutari, munrutarikkoti, na-yurivi, naayurivi, naayuruvi, nahiooroovie vayr, navuri, nayiranci, nayiranci2, naykkittam, naykuruvi, nayurivi, nayuruvi, nayurvi, nayuviri, nayvananki, nayvanankicceti, pataramukki#, pataramukki@, pataramukkicceti, pellaunacceti, pellaunam, pinrutari 1, pinrutaricceti, pippilicikari, pirattiyakapanni, pirattiyakapannicceti, pirattiyakpanni, pirattiyaputpam, puli 1, puratiyuram, shiru-kadaladi, sirukadaladi, tamarkkavam, tarattilkaram, tucciram, tutaivi, ulimani#, ulimani@, uruvi1, uttareni, valanatikamam, vancamuli, vantamarkkam, varakamarkkam, varkamarkkam, varkamarutacceti, vellainayuruvi, vennayuruvi, viralaneri, viralnericceti, virarkoti, visakkani 2, vittirukki, yakattam, yapamarakkam Telugu (11) - antisa, antisha, apamaargamu, apamargamu, dubbinachettu, pratyukpushpi, utta-reni, uttaraene, uttaren, uttareni, utthareni Tibetan (3) - a pa ma rga, a pa ma rga (d), a-pa-ma-rga Urdu (2) - charchatta, rakh chirchitta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 42
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/42.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00476847af4ebbbd31e6dad28ea1f00f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Apamarga
+sanskrit_name: अपामार्ग
+transliteration: apāmārga
+ref_drug_name: अपामार्ग
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Apamarga
+sanskrit_name: अपामार्ग
+transliteration: apāmārga
+ref_drug_name: अपामार्ग
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Apamarga - raktapuspi
+sanskrit_name: अपामार्ग रक्तपुष्पी
+transliteration: apāmārga raktapuṣpī
+ref_drug_name: अपामार्ग रक्तपुष्पी
+status: Accepted source
+discussion: This plant has been mentioned as variety of 'Apamarga' in Dhanvantari nighantu and in Bhavaprakasa; It is considered inferior in quality when compared to the white variety; It is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

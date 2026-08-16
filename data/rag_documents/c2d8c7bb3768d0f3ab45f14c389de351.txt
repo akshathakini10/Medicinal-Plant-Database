@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c2d8c7bb3768d0f3ab45f14c389de351
+Botanical Name: Periploca aphylla DECNE.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Malayalam (1) - nn Sanskrit (1) - Sanskrit Comments  soma
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d8c7bb3768d0f3ab45f14c389de351
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1620
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1620.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2d8c7bb3768d0f3ab45f14c389de351
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

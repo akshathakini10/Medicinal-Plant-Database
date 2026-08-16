@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 27682b0c064ca5b03803a85dd7e6685f
+Botanical Name: Iphigenia indica (L.) KUNTH
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Melanthium indicum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. Kannada (2) - kaadu belluli, neeru baale Tamil (2) - neerpanai, pullamanaku Telugu (1) - kaki katuka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/27682b0c064ca5b03803a85dd7e6685f/xclkon/b8146e574140a3d6af3d2a19e23460e0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/27682b0c064ca5b03803a85dd7e6685f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/27682b0c064ca5b03803a85dd7e6685f/xclkon/b8146e574140a3d6af3d2a19e23460e0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/27682b0c064ca5b03803a85dd7e6685f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/27682b0c064ca5b03803a85dd7e6685f/xclkon/b8146e574140a3d6af3d2a19e23460e0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

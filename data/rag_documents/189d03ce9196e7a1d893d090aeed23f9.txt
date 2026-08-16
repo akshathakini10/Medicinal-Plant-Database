@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 189d03ce9196e7a1d893d090aeed23f9
+Botanical Name: Orchis mascula L.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 3 languages. English (3) - dead man s finger, early purple orchid, long purples Tamil (4) - calamiciri, salamisiri, salamisrie, shalamishiri Urdu (4) - sa lab misri, sailab misiri, salab misiri, salab misri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/189d03ce9196e7a1d893d090aeed23f9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/189d03ce9196e7a1d893d090aeed23f9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/189d03ce9196e7a1d893d090aeed23f9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/189d03ce9196e7a1d893d090aeed23f9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Grnjanaka
+sanskrit_name: गृञ्जनक
+transliteration: gṛñjanaka
+ref_drug_name: गृञ्जनक
+status: Suggested source
+discussion: V G Desai has identified Grnjanaka as a type of garlic and correlated it to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

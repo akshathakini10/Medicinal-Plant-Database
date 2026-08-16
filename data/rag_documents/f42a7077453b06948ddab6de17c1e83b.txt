@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f42a7077453b06948ddab6de17c1e83b
+Botanical Name: Arctium lappa L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 1 languages. English (4) - bur, cockle buttons, gobo, great burdock
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f42a7077453b06948ddab6de17c1e83b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f42a7077453b06948ddab6de17c1e83b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f42a7077453b06948ddab6de17c1e83b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

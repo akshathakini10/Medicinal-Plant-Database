@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 20a11cd98847ede50be899127c7fcb90
+Botanical Name: Alliaria petiolata (BIEB.)CAVARA & GRANDE
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Alliaria officinalis ANDRZEJ
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. English (3) - garlic mustard, hedge garlic, jack-by-the-hedge
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20a11cd98847ede50be899127c7fcb90
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20a11cd98847ede50be899127c7fcb90/xclkon/dbd18f8066284ec8f3e9389fa9ca29e9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20a11cd98847ede50be899127c7fcb90
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

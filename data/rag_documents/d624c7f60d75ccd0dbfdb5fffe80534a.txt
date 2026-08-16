@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d624c7f60d75ccd0dbfdb5fffe80534a
+Botanical Name: Heliotropium rariflorum STOCKS
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. Hindi (2) - kharchan, kharsani Sanskrit (5) - Sanskrit Comments  ashmariripu, bhurandi, hastisundi, kurandika, srimastini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d624c7f60d75ccd0dbfdb5fffe80534a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1122
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1122.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d624c7f60d75ccd0dbfdb5fffe80534a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ea0fd392777419d966989d0836f06e06
+Botanical Name: Arachis hypogaea L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 101 Vernacular names found in 8 languages. English (4) - earthnut, ground nut, monkey nut, peanut Hindi (9) - bhising, moongphali, mumphali, mung-phali, mung-phalli, mungphali, vilayati-mung, vilayeti-mung, vilayetimung Kannada (11) - baeru kadale, bhuimug, kadale, kadale kaayi, kalle kaayi, nelagadale, nelagadale kaayi, nelagale-kayi, nelakadale, nelgale, shaenga Malayalam (6) - nelak-katala, nelakadale, nelakkatala, nilakkatala, verk-katala, verkkala Marathi (12) - bhooichane, bhooisheng, bhui-mung, bhuichana, bhuichane, bhuimug, bhuimuga, bhuisheng, chooyimoonga, shaenga daana, vilaaythimug, vilayatimug Sanskrit (12) - Sanskrit Comments  bhucanakah, bhuchanaka, bhumija, bhushimbika, bhusimbi, bhustha, buchanaka, mandapi, raktabija, snehabija, snehabijaka, tribija Tamil (37) - alamatitakkatalai, alamatitam, attumakecari, elumacikacceti, elumacikam, kallakkay, karralikacceti, karralikam, katalaikkottai, kattukkatalai, kotaikkottai, kotinimpiyacceti, kotinimpiyam, mallakkottai, manilakkatalai, manilakkottai, manilakottai, maracaki, maracikikkatalai, moticceti, narali, naralikkatalai, nilak-kadalai, nilakadalai, nilakkadalai, nilakkatai, nilakkatalai, nilakkottai, noncavakkottai, noncavam, potippurikakkoti, potippurikam, vaerkadali, verk-kadalai, verkadalai, verkkadalai, verkkatalai Telugu (10) - nela sanagalu, nela-sanagalu, nila-kadalai, nilasanagalu, vaerushanagalu, veru-sanagalu, verushanaga, verushanaga-kaya, verushanagalu, virushanaga-kaya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea0fd392777419d966989d0836f06e06
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea0fd392777419d966989d0836f06e06
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea0fd392777419d966989d0836f06e06
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea0fd392777419d966989d0836f06e06
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

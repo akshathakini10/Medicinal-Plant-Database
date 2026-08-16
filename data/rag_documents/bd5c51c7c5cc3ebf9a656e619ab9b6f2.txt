@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bd5c51c7c5cc3ebf9a656e619ab9b6f2
+Botanical Name: Dalbergia pinnata PRAIN
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Dalbergia tamarindifolia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd5c51c7c5cc3ebf9a656e619ab9b6f2/xclkon/62a5e23cc45a4688f726718842ae6208
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd5c51c7c5cc3ebf9a656e619ab9b6f2
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd5c51c7c5cc3ebf9a656e619ab9b6f2/xclkon/62a5e23cc45a4688f726718842ae6208
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd5c51c7c5cc3ebf9a656e619ab9b6f2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd5c51c7c5cc3ebf9a656e619ab9b6f2/xclkon/62a5e23cc45a4688f726718842ae6208
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

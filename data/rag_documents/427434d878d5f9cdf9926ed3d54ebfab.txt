@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 427434d878d5f9cdf9926ed3d54ebfab
+Botanical Name: Triumfetta rotundifolia LAM.
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 6 languages. Hindi (1) - mendurli Kannada (3) - benki thutthoori, benkituthuri, benkitutthoori Marathi (1) - tupkati Sanskrit (4) - Sanskrit Comments  gippita, jirjirita, jirpata, kantaphali Tamil (2) - adayotti, atayotti Telugu (3) - banki-tuthuru, bankitutthuri, bankitutturi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/427434d878d5f9cdf9926ed3d54ebfab
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gippita
+sanskrit_name: गिप्पिट
+transliteration: gippiṭa
+ref_drug_name: गिप्पिट
+status: Accepted source
+discussion: Gippita' has been mentioned in Sodala nighantu; According to Vaidya Bapalal it is interpreted as 'Jhinjhirita' which is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e0c873d905746576f4c38ebb47f4c5bd
+Botanical Name: Cedrus libani BARREL
+Family: Pinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 7 languages. English (1) - cedar of lebanon Hindi (1) - kelon Kannada (6) - bhadradaru, devadara, devadari, devadaru, gunduguragi, pitadaru Malayalam (1) - devataram Sanskrit (1) - Sanskrit Comments  devadaru Tamil (2) - devadarm, toon-maram Telugu (2) - devadari, devadaruvu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0c873d905746576f4c38ebb47f4c5bd
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 485
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/485.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0c873d905746576f4c38ebb47f4c5bd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

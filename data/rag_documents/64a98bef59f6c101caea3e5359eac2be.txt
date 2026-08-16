@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 64a98bef59f6c101caea3e5359eac2be
+Botanical Name: Erythrina suberosa ROB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 47 Vernacular names found in 5 languages. Hindi (11) - dhaul, greru, madar, madaru, mandara, pariara, pariaru, paribhadara, paryara, pungar vel, punger-vel Kannada (10) - kaadu paarivaala, kadparwala, kaduparivala, mullu hongara, mullu mutthuga, mullu paarivaala, mulluhalivara, mulluhangara, mulluhongara, mulul mutthaala Marathi (2) - kaantepalasa, pangra Tamil (9) - arakeyuram, mullumurukku 2, mullumurunkai 3, mulumurunku, velaikkaliyanamurukkam, vellaimulmurunkai, vellaimurukku, venmurukkam, venmurunkai Telugu (15) - badadam, badadum, baditha, barijamu, barjapu, mooneemaduga, mudugu, mullamoduga, mullumoduga, mulmoduga, mulumoduga, mulumodugu, munimoduga, rohi, rohitakamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64a98bef59f6c101caea3e5359eac2be
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64a98bef59f6c101caea3e5359eac2be
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64a98bef59f6c101caea3e5359eac2be
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Paribhadra
+sanskrit_name: पारिभद्र
+transliteration: pāribhadra
+ref_drug_name: पारिभद्र
+status: Most probable
+discussion: With regard to its features this species may be correlated to Paribhadra
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Paribhadra
+sanskrit_name: पारिभद्र
+transliteration: pāribhadra
+image_urls: https://www.medicinalplants.in/slokaimages/686/686_1.jpg https://www.medicinalplants.in/slokaimages/686/686_2.jpg https://www.medicinalplants.in/slokaimages/686/686_3.jpg
+ocr_text: पारिभद्रः कटूष्णः स्यात्कफवानिकृन्तनः आरोचकहरः पथ्यो दीपनश्चापि कीर्त्तितः Il IRjn) Paribhadra is katu in rasa, usna in veerya, pathya, dipana, increases kapha, causes vanti, alleviates arocaka पीरिभद्रोडनिलश्लेष्मशोथमेदःकुमिप्रणुत् च तत्पत्रं पित्तरोगघ्नं कर्णव्याधिविनाशनम्| | (Bpnl Paribhadra alleviates anila , slesma, sotha meda and krmi Its patra alleviates pitta roga, cures karna vyadhi. पुष्पं पित्तरुजं हन्ति कर्णव्याधिं विनाशयेत्| INir) Paribhadra puspa alleviates pitta ruja and karna vyadhi.

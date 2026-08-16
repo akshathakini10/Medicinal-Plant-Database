@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9c15fb23de218f7f200e7f2d57247b9f
+Botanical Name: Marsilea minuta L.
+Family: Marsileaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 4 languages. English (1) - cat s feet Malayalam (1) - niraral Sanskrit (3) - Sanskrit Comments  catuspatri, sunisannah, sunisannaka Tibetan (2) - yu ni sa nna ka, yu ni sna ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c15fb23de218f7f200e7f2d57247b9f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c15fb23de218f7f200e7f2d57247b9f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c15fb23de218f7f200e7f2d57247b9f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sunisannaka
+sanskrit_name: सुनिषण्णक
+transliteration: suniṣaṇṇaka
+ref_drug_name: सुनिषण्णक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Sunisannaka
+sanskrit_name: सुनिषण्णक
+transliteration: suniṣaṇṇaka
+ref_drug_name: सुनिषण्णक
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 3
+drug_name: Sunisannaka
+sanskrit_name: सुनिषण्णक
+transliteration: suniṣaṇṇaka
+ref_drug_name: सुनिषण्णक
+status: Accepted source
+discussion: In Caraka samhita it has been cited under the 'Saka varga'; In different diseased condition its leaves are said to be wholesome; Similarly in Susruta samhita it has been mentioned similarly; Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

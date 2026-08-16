@@ -1,0 +1,156 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9890fa63f0b4bfe4a0edb46f014acca3
+Botanical Name: Operculina turpethum (L.) S. MANSO
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Convolvulus turpethum L. Ipomoea turpethum (L..) R. BR. Merremia turpethum RENDLE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 220 Vernacular names found in 10 languages. English (3) - indian jalap, turpeth root, turpethum Hindi (13) - nakpatra, nishoth, nisotar, nisoth, nisut, nukpatar, pithori, pitohri, tarbal, tarbud, tarbut, tera, trabal Kannada (27) - aalthigudu, aaluthigade, aalutigade, altigudu, aluthi gida, alutigade, bangada balli, benne bidiru, bilae naga danthi, bilenagadanti, biley naagadanthi, bili aluthigade, bili tigade, bilithigade, bilitigade, bilitigadu, devadanthi, devadanti, elavu sandi gida, naagadanthi, nagadanti, sigade, tigade, tigade beru, tigadeballi, tigadi, tigadikeputigadda Malayalam (12) - chivaka, civaka, rocani, rochani, sarala, sivata, tigade, tigude, tribhandi, trikolpakkonna, trikolpakonna, triputa Marathi (6) - nishotar, nishottara, nishotthara, phutkari, taed, turbeda Sanskrit (45) - Sanskrit Comments  ardhachandra, aruna, arunatrivrt, bahurecani, hurochani, kalameshi, kalaparni, kali, kalingika, kootarana, kumbah, kumbha, kumbhadhatri, kutarana, lagivrittika, malavika, masuravidala, masuri, nandi, palindi, paripakini, recani, rechani, rochani, saha, sara, sarala, sarana, sarasa, sarata, sarvanubhuti, shyama, sukrabhandi, susheni, suvaha, syama, tribhandi, triputa, trivela, trivrit, trivrt, trivrta, trivrtta, tryirit, vidala Tamil (86) - adimbu, akarajam, arunai1, atakacceti, atakam, atimpu, atimpurukam, calakaki, calakakicceti, calam1, calapceti1, calappu, cantirakalinti, caralam, caralam1, caranam@, caruvanukam, caruvanuputi, cayamaram1, cenappal, cimai civatai, ciratai ver, civadai, civatai, civetai1, ciyamattiri, gunakandi, irattaccivatai, kalacuram, karunchivadai, karuncivatai ver, karunsivadai, kentakarani1, kolapam, kotaram, kumbam, kumbanjan, kumbham, kumpacaram, kumpacinakam, kumpam1, kumpamati, kumpancan, kunagandi, kunakanti, matura, nacakeralam, nattuccevatai, nikumpam1, nukai, paganrai, pakanrai1, pakantai, pakantai1, pakantai@, pakatai, pilikkini, pitalapam, samaram, saralam, shevadie vayr, shivadai, shivadai-ver, shivadaiver, sivadai, sivadaiver, sivatai, sivathai, sivathaiver, sivedai, tali x, tali@, talini1, tanti1, tiriputam, tiriviruta, tirivirutam, tirivirutti1, tirivitam, tiruvilam1, urpalavanatai, varanacira, vayirocanati, vayirocani, vencivatai, virocani 1 Telugu (13) - erra tegada, errategada, errathegada, ettategada, nalla tegada, nalla thegada, nallategada, tegada, tella tegada, tellatagada, tellategada, thegada, thella thegada Tibetan (4) - ba la dur brid, dur byid, ne ron, sya ma dur byid Urdu (11) - naagpatar, nasooth, naswat-i-safaid, nisot safaid, turbad, turbud, turbud safaia, turbud safaid, turbud safaid nim kofta, turbud-i-safaid, turbudh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/c89015006d303f00715cca9d9c66bef1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1553
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1553.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/d881ebfd760ea21287019276126e8839
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/a20af9e33e3c50b75771165f1f5e16a2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/c89015006d303f00715cca9d9c66bef1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/d881ebfd760ea21287019276126e8839
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/a20af9e33e3c50b75771165f1f5e16a2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/c89015006d303f00715cca9d9c66bef1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/d881ebfd760ea21287019276126e8839
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/a20af9e33e3c50b75771165f1f5e16a2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/c89015006d303f00715cca9d9c66bef1
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/d881ebfd760ea21287019276126e8839
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/a20af9e33e3c50b75771165f1f5e16a2
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/c89015006d303f00715cca9d9c66bef1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/d881ebfd760ea21287019276126e8839
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/a20af9e33e3c50b75771165f1f5e16a2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/c89015006d303f00715cca9d9c66bef1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/d881ebfd760ea21287019276126e8839
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/a20af9e33e3c50b75771165f1f5e16a2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9890fa63f0b4bfe4a0edb46f014acca3/xclkon/c89015006d303f00715cca9d9c66bef1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Trivrt
+sanskrit_name: त्रिवृत्
+transliteration: trivṛt
+ref_drug_name: त्रिवृत्
+status: Accepted source
+discussion: Trivrt is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Trivrt
+sanskrit_name: त्रिवृत्
+transliteration: trivṛt
+ref_drug_name: त्रिवृत्
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Trivrt
+sanskrit_name: त्रिवृत्
+transliteration: trivṛt
+ref_drug_name: त्रिवृत्
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Trivrt
+sanskrit_name: त्रिवृत्
+transliteration: trivṛt
+ref_drug_name: त्रिवृत्
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Trivrt - sveta
+sanskrit_name: त्रिवृत् श्वेता
+transliteration: trivṛt śvetā
+ref_drug_name: त्रिवृत्
+status: Accepted source
+discussion: Trivrt is correlated to this species
+reference: [2]
+
+Identity Record 6
+drug_name: Trivrt - sveta
+sanskrit_name: त्रिवृत् श्वेता
+transliteration: trivṛt śvetā
+ref_drug_name: त्रिवृत्
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 7
+drug_name: Trivrt - sveta
+sanskrit_name: त्रिवृत् श्वेता
+transliteration: trivṛt śvetā
+ref_drug_name: त्रिवृत्
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 8
+drug_name: Trivrt - sveta
+sanskrit_name: त्रिवृत् श्वेता
+transliteration: trivṛt śvetā
+ref_drug_name: त्रिवृत्
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

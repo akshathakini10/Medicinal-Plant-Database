@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 77c28fec82c384dcb7cb0dee711e9454
+Botanical Name: Rhus hookeri SAHNI & BAHADUR
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Rhus insignis HOOK. F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/77c28fec82c384dcb7cb0dee711e9454/xclkon/1b2e5ced561cb546cb759ce7a5c084db
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/77c28fec82c384dcb7cb0dee711e9454
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/77c28fec82c384dcb7cb0dee711e9454/xclkon/1b2e5ced561cb546cb759ce7a5c084db
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8053682e1350e81d159c941958baac0d
+Botanical Name: Protium kataf -
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Balsamodendron kataf KUNTH
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 2 languages. Sanskrit (6) - Sanskrit Comments  besabol, bola, gandha-rasaha, jatirasah, mhaisabol, rasagandhaha Tamil (3) - camuttirakkukkil, cayintavakukkulu, cintukukkil
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8053682e1350e81d159c941958baac0d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8053682e1350e81d159c941958baac0d/xclkon/32516bb9eae25f015df3a4a76c32a417
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8053682e1350e81d159c941958baac0d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8053682e1350e81d159c941958baac0d/xclkon/32516bb9eae25f015df3a4a76c32a417
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8053682e1350e81d159c941958baac0d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8053682e1350e81d159c941958baac0d/xclkon/32516bb9eae25f015df3a4a76c32a417
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8053682e1350e81d159c941958baac0d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

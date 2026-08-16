@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6e8305e33ed791d6a38375c07ce1c572
+Botanical Name: Dinebra retroflexa (VAHL) PANZER subsp. retroflexa
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Dinebra arabica JACQ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 5 languages. Hindi (1) - man-alu Kannada (3) - halgyan hullu, huligyan hullu, nari baalada gandu hullu Marathi (2) - goradu, kangar Sanskrit (2) - Sanskrit Comments  alu, madhvalu Tamil (1) - katakelenga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e8305e33ed791d6a38375c07ce1c572
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e8305e33ed791d6a38375c07ce1c572/xclkon/1c60988e6dac34582433b60f643f4470
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e8305e33ed791d6a38375c07ce1c572
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e8305e33ed791d6a38375c07ce1c572/xclkon/1c60988e6dac34582433b60f643f4470
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e8305e33ed791d6a38375c07ce1c572
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

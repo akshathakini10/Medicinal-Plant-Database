@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 180009dcf3f64171795122deb79c7be9
+Botanical Name: Luffa graveolens ROB.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Sanskrit (3) - Sanskrit Comments  brihatphala, devadali, koshataki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/180009dcf3f64171795122deb79c7be9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/180009dcf3f64171795122deb79c7be9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Devadali - pita
+sanskrit_name: देवदाली पीत
+transliteration: devadālī pīta
+ref_drug_name: देवदाली पीत
+status: Most probable
+discussion: May be identified with this species which is scarcely found
+reference: [1]
+
+Identity Record 2
+drug_name: Devadali - pita
+sanskrit_name: देवदाली पीत
+transliteration: devadālī pīta
+ref_drug_name: देवदाली प्रजाति
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Devadali - pita
+sanskrit_name: देवदाली पीत
+transliteration: devadālī pīta
+ref_drug_name: देवदाली प्रजाति
+status: Accepted source
+discussion: This species has yellow coloured flowers and is a variety of Luffa echinata
+reference: [3]
+
+Identity Record 4
+drug_name: Devadali - prajati
+sanskrit_name: देवदाली प्रजाति
+transliteration: devadālī prajāti
+ref_drug_name: देवदाली पीत
+status: Most probable
+discussion: May be identified with this species which is scarcely found
+reference: [1]
+
+Identity Record 5
+drug_name: Devadali - prajati
+sanskrit_name: देवदाली प्रजाति
+transliteration: devadālī prajāti
+ref_drug_name: देवदाली प्रजाति
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 6
+drug_name: Devadali - prajati
+sanskrit_name: देवदाली प्रजाति
+transliteration: devadālī prajāti
+ref_drug_name: देवदाली प्रजाति
+status: Accepted source
+discussion: This species has yellow coloured flowers and is a variety of Luffa echinata
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

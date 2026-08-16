@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9dc99ed01cd75337be1fe40729cf37a6
+Botanical Name: Cassia obtusifolia L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 62 Vernacular names found in 7 languages. Hindi (5) - chakunda, panevar, puadia, pumaria, punwad Kannada (8) - dundu thangadi, gandutagase, sagace, sogase, sogata, tagace, taragasi, vanavarike Malayalam (2) - sakramardakam, takara Marathi (4) - takala, takla, tankli, tarota Sanskrit (34) - Sanskrit Comments  avudham, chakragaja, chakramarda, chakramardaka, chakrapadmada, chakravha, chakri, dadrughna, dridhabija, edagaja, edahasti, gajakhya, ghna, kharjjuana, kusuma, meshakshi, meshalochana, meshavhaya, padmata, prabhunatha, prapunnala, prapunnata, praputatri, prisnaparni, punnata, sakramardaka, taga, tarkila, tarkina, tarvata, uranakhyaka, uranaksha, vimardaka, vyavartaka Tamil (6) - ciru takarai, senavu, sirudagarai, tagarai, vanamavaram, vindu Telugu (3) - tagirise, tantemu, tantiyamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc99ed01cd75337be1fe40729cf37a6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc99ed01cd75337be1fe40729cf37a6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cakramarda - bheda
+sanskrit_name: चक्रमर्द भेद
+transliteration: cakramarda bheda
+ref_drug_name: चक्रमर्द भेद
+status: Accepted source
+discussion: This species is a variety of Cassia tora which doesnt have a foul smell in its leaves
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

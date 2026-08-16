@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 791bd3c2021e69e0c0e1d152926f7420
+Botanical Name: Rhus javanica L.
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Rhus chinensis MILL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 3 languages. English (2) - chinese sumac, japanese galls Hindi (8) - arkhar, bankhor, damphela, deshmeel, rikhal, tatri, titar, titry Tamil (2) - kaduka poo, karkataka singi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/791bd3c2021e69e0c0e1d152926f7420/xclkon/3a7c2c8ecd8ebc0c01055321cc784329
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/791bd3c2021e69e0c0e1d152926f7420
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/791bd3c2021e69e0c0e1d152926f7420/xclkon/f52d445c881c08f47e240a6e745add3d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/791bd3c2021e69e0c0e1d152926f7420/xclkon/3a7c2c8ecd8ebc0c01055321cc784329
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/791bd3c2021e69e0c0e1d152926f7420
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/791bd3c2021e69e0c0e1d152926f7420/xclkon/f52d445c881c08f47e240a6e745add3d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/791bd3c2021e69e0c0e1d152926f7420/xclkon/3a7c2c8ecd8ebc0c01055321cc784329
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

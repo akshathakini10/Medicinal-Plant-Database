@@ -1,0 +1,121 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 10f3a59b845d9890f688ad66980941fa
+Botanical Name: Piper longum L.
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Chavica roxburghii MIQ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 369 Vernacular names found in 10 languages. English (1) - long pepper Hindi (9) - gazpipal, pimpli, pipal, pipal mal, pipar, piplamul, pipli, pipli-mool, pipulmul Kannada (14) - hipli, hippali, hippali balli, hippaliballi, ippali, kuna, kuna balli, modi, thippali balli, tippali, tippall, tippili, yippali, yippilli Malayalam (12) - capala, cattu-tirpali, cattutirpali, chapala, cuttaterpati, kana, kattutipali, kattutippali, magadhi, pippali, tippali, tippli Marathi (4) - pimpalee, pimpli, piplee, pipli Sanskrit (68) - Sanskrit Comments  capala, catikasira, chanchala, chupula, dantakapha, eranda, gonamika, granthika, granthikam, ka, kagophale, kana, kanamula, kati, katubija, katugranthikam, kola, kolamula, kolya, korangi, krikala, krishna, krishnapippali, krsna, krsnatandula, kuna, magadha, magadhaja, magadhajam, magadham, magadhi, magadhika, magadhodbhava, maghadi, magudhi, mula, na, osanam, pippali, pippali mula, pippalika, pippalimulam, pippalu, pippuli, rudhakam, ruthakam, sadgraathi, sadgranthi, sarvagranthikam, saundi, shaundi, shoundi, shyama, sukshmatandula, sumulakam, syama, tandula, tiksnatandula, tiktatandula, trikana, upakulya, upkulya, upukulya, usana, ushuna, vaidehi, vaidehikana, videhi Tamil (234) - a, akaci@, akari2, alakalunku#, alakalunku@, alakaman, amirtai2, amirutai1, ampinati, ampu, ampu2, arakanti, arake, argadi, aricitippili, arippalam, arisi thippili, ariyantippilli, ariyapalam, ariyappalam, arkali, arkati, arke, arkki, arsithippili, arttikam, atcatti, ati maruntu, atimaruntu, atti, atti@, attikatiyam, calani1, calani@, calini1, camilaki, camilakikam, camivaci, canam1, capala, capalai, capalatikam, caram, caram1, catalam1, catevi, cati, cati2, catikam, caucanti, caunti, cauntikam, cavikam, cavuntai, cavuntakam2, cavuntam2, cavunti, cavvantam, cayalati, cayini, cayinikam, cayulati@, cayutai, cemmai, ceruppatai, cilerpananaci1, cilettumanaci, cilettumanacini, cilettumattukkati, cincatai, civalokatti, cukkumatantulam, cukkumattantulam, dippili, ekalakikam, ekam, ekavacam, elivari, erantai, eranti, etakam, etam, eytumalan, inkai1, irattai2, kakari, kakattiruppi, kalidi, kalini, kaliti, kallni, kamam2, kaman, kamanam#, kamanam@, kamanpuli, kana2, kanai, kanam, kanamekampokki, kanamuli1, kanavatai, kanna, kanna@, kannatam, kantankanam, kantat-tippili, kantumulam2, kati, kattitosana, kattu-t-tippili, kattuttippilikkodi, kavarkulikam1, keccarutti, kindigam, kintikam, kirandigam, kirantikam, kirantiver, kirauncatanam, kirayantam, kirumanisattini, kirupantikam, kirusnam1, kiruttinam1, kiruttinatantulam1, kittinacaram, kittinan, kola, kolagam, kolaiarukki, kolaiyarukki, kolaiyarukkuncuran, kolakam, kolakam1, koli, koli@, kolikam1, kotittippili, kulam#, kulam$, kutari, magadi, makati, makati 1, makati 1@, malayaviretam, milagu, modi, moti, motiver, mukattamancari, mukayi, narukkuttippili, narukkuveru, natikantai, palappiratikam, palappiratitam, palappiretam#, palappiretam@, panam, panam 1, pili 2, pipili, pippalai, pippali 1, pippili, pippili 1, piranciyapalam, pirapalam, potakam 2, ratintikam, takkolam4, tanman1, tanmantanmulam, tantapacalai, tantapalai, tantulam1, tantuli, tantuli2, tecavaram, tevanati1, thippili, thippili ver, thippili-ver, thippiliver, thippli, tipali, tipilie, tipilli, tippali, tippam, tippili, tippili ver, tippilik kattai, tippilikkoti, tippilimulam, tippilittavayam, tippilli, tirantikam, titcanam1, titcanatantulam, tittatantulam, tiyaipi, tiyonti, tulampikkiri, tulavi, tulavikam, tunavi, tuttan, ulakulam, ulavainaci, uncaram, upakilliyam, upakuliyai, upakuliyam, upakullikam, upakulliyai, usanai, usanam1, utanai, uvakulam, vaitaki, vaitakikam, vaiteki, vaitekikam, vaitti, vanapippili, vatakunmanacini, vayateki, vayatorri, vettilai, viyalkana, viyalkanakam Telugu (9) - modi, pappelu pippallu, peppelu pippallu, pipili, pippali, pippali katte, pippali-katte, pippallu, pippuloo Tibetan (5) - dro-sman, dro-sman-nar-mo, na-le-sam, pi pi lin, pi pi lin gi rtsa ba Urdu (13) - darfilfil, filfil daraz, pipal, pipal kalah, pipal kalan, pipal mol, pipla mul, pipla-mul, piplamul, pippala mul, pippali, rupa mukhi, tirkuta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1674
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1674.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa/xclkon/5debbd66ad6efb280c3bd77ff9a1e799
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa/xclkon/5debbd66ad6efb280c3bd77ff9a1e799
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa/xclkon/5debbd66ad6efb280c3bd77ff9a1e799
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa/xclkon/5debbd66ad6efb280c3bd77ff9a1e799
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa/xclkon/5debbd66ad6efb280c3bd77ff9a1e799
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10f3a59b845d9890f688ad66980941fa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+ref_drug_name: नागकेशरम्
+status: Market source
+discussion: This species is used as Nagakesara in the markets
+reference: [2]
+
+Identity Record 2
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+ref_drug_name: नागकेशरम्
+status: Market source
+discussion: This species is used as Nagakesara in the markets
+reference: [2]
+
+Identity Record 3
+drug_name: Pippali
+sanskrit_name: पिप्पली
+transliteration: pippalī
+ref_drug_name: पिप्पली
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Pippali
+sanskrit_name: पिप्पली
+transliteration: pippalī
+ref_drug_name: पिप्पली
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Pippalimula
+sanskrit_name: पिप्पलीमूल
+transliteration: pippalīmūla
+ref_drug_name: पिप्पलीमूल
+status: Accepted source
+discussion: Pippalimula is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+image_urls: https://www.medicinalplants.in/slokaimages/1099/1099_1.jpg https://www.medicinalplants.in/slokaimages/1099/1099_2.jpg https://www.medicinalplants.in/slokaimages/1099/1099_3.jpg https://www.medicinalplants.in/slokaimages/1099/1099_4.jpg
+ocr_text: नाग गकेसरमल्पोष्णं लघु तिक्तं कफापहम्| बस्तिवातामयघ्नञ्च कण्ठशीर्षरुजापहम् IRin) Nagakesara is tikta in rasa, laghu in guna, alposna in virya, alleviates kapha, cures vasti vatamaya, kantha sirsa ruja. केसरं विषविसर्परक्तर्शोवमिकुष्ठहृत् हृल्लासवमिदौर्गन्ध्यतृष्णापित्तबलासजित् | (ग.नि) Kesara cures visa, visarpa, rakta vami, kustha, hrilasa, vami, daurganahya, trsna, pitta balasa arsa , and नागपुष्पं कषायोष्णं रूक्षं लघ्वामपाचनम्| ज्वरकण्डूतृषास्वेदच्छर्दिहृल्लासनाशनम् दौर्गन्धकुष्ठवीसर्पकफपित्तविषापहम् IBpnl Nagapuspa is kashaya in rasa, ruksa, laghu in guna, usna in veerya, ama pacana, alleviates jvara , kandu, trsha, sveda, chardi and hrllasa. उष्णं, रूक्ष, नागपुष्पं कषायं तृष्णाच्छर्द्दिश्लेष्मनातप्रमाथि|| तसि॰ भे.म॰ Nagakesara is kashaya in rasa, ruksa in guna, usna in veerya, is pramathi, alleviates trsna, chardi and slesma
+
+Shloka Record 2
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+image_urls: https://www.medicinalplants.in/slokaimages/1099/1099_1.jpg https://www.medicinalplants.in/slokaimages/1099/1099_2.jpg https://www.medicinalplants.in/slokaimages/1099/1099_3.jpg https://www.medicinalplants.in/slokaimages/1099/1099_4.jpg
+ocr_text: नाग गकेसरमल्पोष्णं लघु तिक्तं कफापहम्| बस्तिवातामयघ्नञ्च कण्ठशीर्षरुजापहम् IRin) Nagakesara is tikta in rasa, laghu in guna, alposna in virya, alleviates kapha, cures vasti vatamaya, kantha sirsa ruja. केसरं विषविसर्परक्तर्शोवमिकुष्ठहृत् हृल्लासवमिदौर्गन्ध्यतृष्णापित्तबलासजित् | (ग.नि) Kesara cures visa, visarpa, rakta vami, kustha, hrilasa, vami, daurganahya, trsna, pitta balasa arsa , and नागपुष्पं कषायोष्णं रूक्षं लघ्वामपाचनम्| ज्वरकण्डूतृषास्वेदच्छर्दिहृल्लासनाशनम् दौर्गन्धकुष्ठवीसर्पकफपित्तविषापहम् IBpnl Nagapuspa is kashaya in rasa, ruksa, laghu in guna, usna in veerya, ama pacana, alleviates jvara , kandu, trsha, sveda, chardi and hrllasa. उष्णं, रूक्ष, नागपुष्पं कषायं तृष्णाच्छर्द्दिश्लेष्मनातप्रमाथि|| तसि॰ भे.म॰ Nagakesara is kashaya in rasa, ruksa in guna, usna in veerya, is pramathi, alleviates trsna, chardi and slesma
+
+Shloka Record 3
+drug_name: Pippali
+sanskrit_name: पिप्पली
+transliteration: pippalī
+image_urls: https://www.medicinalplants.in/slokaimages/1296/1296_1.jpg https://www.medicinalplants.in/slokaimages/1296/1296_2.jpg https://www.medicinalplants.in/slokaimages/1296/1296_3.jpg https://www.medicinalplants.in/slokaimages/1296/1296_4.jpg https://www.medicinalplants.in/slokaimages/1296/1296_5.jpg https://www.medicinalplants.in/slokaimages/1296/1296_6.jpg https://www.medicinalplants.in/slokaimages/1296/1296_7.jpg https://www.medicinalplants.in/slokaimages/1296/1296_8.jpg
+ocr_text: पिप्पली मागधी कृष्णा वैदेही चपला कणा उपकपल्योषणा शौण्डी कोलास्यात्तीक्ष्णतण्डूला II (Bpn) Synonyms of pippali are magadhi, krsna, vaidehi, capala, kana upakulya, usana, saundi, kola, tiksna tandula. पिप्पली कृकरा शौण्डी चपला मागधी कणा कोरङ्गी वैदेही तिक्ततण्डुला |I श्यामा दन्तफला कृष्णा कोला च मगदोद्भवा ऊषणा चोपकुल्या च स्मृत्याह्वा तीक्ष्णतण्डुला II (Rjn) Synonyms of pippali are krkara, saundi, capala, magadhi, kana, katubija, korangi, vaidehi, tiktatandula, syama dantaphala, krsna kola, magadodbhava usana, upakulya, smrtyahva, tiksna tandula कटुबीजा श्लेष्मला स्वादुशीताउर्द्रा गुर्वी स्निग्धा च पिप्पली सा शुष्का विपरीताउतः स्निग्धा वृष्या रसे कटुः II स्वादुपाकानिलश्लेष्मश्वासकासापहा सरा तामत्युपयुञ्जीत रसायनविधिं विना Il (Mdn) Ardra pippali is svadu in rasa, guru snigdha in guna, sita in veerya and increases slesma. Suska pippali has opposite properties katu in rasa, snigdha in guna, vrsya, svadu in paka, alleviates anila, slesma kasa and svasa. It should not be used in excess except in the form of rasayana vidhi. पिप्पली कटुका स्वादुर्हिमा त्रिदोषजित् तृड्ज्वरोदरजन्त्वामनाशिनी च रसायनी Il (Dhn) Pippali is Katu, Svadu in Rasa, Hima in Potency, Snigdha in Guna, Tridosha hara, cures Trt, Jvara, Udara, Jantu, Ama and is Rasayana पिप्पली ज्वरहा वृष्या स्निग्धोष्णा कटुतिक्तका दीपनी मारुतश्वासकासश्लेष्मक्षयापहा Il (Rin) Pippali is Jvara hara, Vrsya, Snigdha Usna in Potency, Katu and Tikta in Rasa, Dipani, cures Maruta, Svasa, Kasa, Slesma, Ksaya. ग्रन्थिकं पिप्पलीमूलमूषणं चटकाशिरः (Bpn) Granthika,and Catakasira are the synonyms of Pippali mula ग्रन्थिकं पिप्पलीमूलं मूलं तु चविकाशिरः कोलमूलं कटुमूलं कटूषणम् |I सर्वग्रन्थि च पत्राढ्यं विरूपं शोणसम्भवम ग्रन्थिलं चैव पर्यायाः स्याश्चतुर्दश Il (Rjn) Pippali mula is also named as Granthika Pippalimula, Mula, Cavikasira, Kolamula, Katugranthi, Katumula, Katusna, sarvagranthi, Patradhya, Virupa, Sona sambhava, Sugranthi, Granthila कटुग्रन्थि सुग्रन्थि दीपनं पिप्पलीमूलं कटूष्णं पाचनं लघु रूक्षं पित्तकरं भेदि कफवातोदरापहम |l आनाहप्लीहगुल्मघ्नं कृमिश्वासकफापहम् (Bpn) Pippali mula is Dipana, Katu in rasa, Usna in Potency, Pacana, Laghu in Guna Ruksa, Pitiakara Bhedi, Kapha Vatodara hara Anaha Pliha Gulmaghna, Krmi Svasa Kapha hara

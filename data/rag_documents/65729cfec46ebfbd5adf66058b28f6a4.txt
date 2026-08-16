@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 65729cfec46ebfbd5adf66058b28f6a4
+Botanical Name: Dalbergia latifolia ROB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Dalbergia emarginata ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 115 Vernacular names found in 8 languages. English (3) - bombay blackwood or rosewood, indian rosewood, malabar rosewood Hindi (7) - kala-shisham, pai, safed-sisum, shisham, shisu, sishal, walayti shisham Kannada (27) - agaru beete, beete, beete mara, beetee, beetee rooku, belbiti, bete, bide, bidi, bite, biti, bude, budi, ibadi, ibbadi, ibidi, ibri, kareevyaadhi, karevyadi, karimbeetti, karimbetti, kariya ibbadi, kodegatti, shisham, shushmaru, thodagatti, todagatti Malayalam (22) - beety, biti, cholaibiti, cholavitti, colavitti, eettee, eetti, eettie, itti, kareetti, karibiti, karitti, kariveeti, karuvitti, karvitti, ulmalavitti, ulmaleiveetti, ulnalavitti, veeti, veetti, viti, vitti Marathi (13) - bhotheula, kalarukh, kalasinsapa, sheesham, sheesu, shisham, shisu, sisam, siso, sissu, sissui, sisu, sisva Sanskrit (3) - Sanskrit Comments  krishna-sinsapa, shishapa, simsapa Tamil (12) - eetti, eravadi, irupottu, iruppottu, itti, karundorviral, nukku, tawadi, thodagathi, thothagatthi, todagatti, totakatti Telugu (28) - chava, chittage, chittegi, cittegi, cittengi, gitegi, gittagee, iraguduchava, iridi, iruduchava, irugudi, irugudu, iruguduceva, iruguduchava, iruvudu, ittigi, jitangi, jitregi, jittegi, nalla yarugudu chettu, viroogoodoocharva, virugadu, virugaducheva, virugudi-cheva, virugudu, viruguduceva, yerugudu, zitregi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 753
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/753.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4/xclkon/966205a3adb81572dd1c5b68167ed702
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4/xclkon/966205a3adb81572dd1c5b68167ed702
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4/xclkon/966205a3adb81572dd1c5b68167ed702
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65729cfec46ebfbd5adf66058b28f6a4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Simsapa - prajati
+sanskrit_name: शिंशपा प्रजाति
+transliteration: śiṃśapā prajāti
+ref_drug_name: शिंशपा प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

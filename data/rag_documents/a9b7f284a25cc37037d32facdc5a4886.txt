@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a9b7f284a25cc37037d32facdc5a4886
+Botanical Name: Aframomum melegueta (ROSC.) K. SCHUM.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Amomum melegueta ROSC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 1 languages. English (4) - alligator pepper, grains ofparadise, guinea grains, malagueta pepper
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a9b7f284a25cc37037d32facdc5a4886/xclkon/dbe1f8672bbce274201ee812745cb462
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a9b7f284a25cc37037d32facdc5a4886
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a9b7f284a25cc37037d32facdc5a4886/xclkon/dbe1f8672bbce274201ee812745cb462
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

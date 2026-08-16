@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f7cedd9933155d80eb3d2383c720264b
+Botanical Name: Trichosanthes anguina L.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 91 Vernacular names found in 8 languages. English (1) - snake gourd Hindi (5) - chachenda, chachinda, chachinga, chichonda, purwul Kannada (7) - adala balli, atla kaayi, haavu kaayi, padavala, padavala balli, padavalkayi, patla kaayi Marathi (4) - padaval, padual, padvali, tarakankadi Sanskrit (13) - Sanskrit Comments  ahiphala, brihatphala, chichinda, chichunda, chinakarkatika, cicinda, dirghaphala, grihakulaka, patoli, shvetaraji, sudirgha, swadupatraphala, veshmakula Tamil (55) - catavantulakkoti, catavantulam, ciccintam, cikkirakayam, cincakapikakkoti, cincikapikam, cottini, ilinkamuli, kacitakkiyam, kacitakkiyapputal, kakuraci, kalikai, karipputal, karipputol, karuraci1, karutam1, kirakakulam, kottupputal, lingapotla, mankalakarakkooti, mankalakaram, maruvuka, maruvukakkoti, nakarai, naracimpakkani, naripputal, naripputarkoti, naypputal, netumputal, netumputarkoti, pantula, pantulam, papparakkani, patolikai1, patolukai, perulakikapputal, perulakitam, pucai 2, pucam, pudal, putal, putalai, putalankay, putalankoti, putol, puttla, tanukalakkoti, tanukalam, tattan, tattankottocai, tinputalai, vicattam, vicutakkoti, yanayamatayankay, yatalayamuli Telugu (3) - lingapotla, potla, potlakaya Tibetan (3) - bi sa la rnam gcig, byi sa la rnam gcig, byi sa la rnam gcig (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7cedd9933155d80eb3d2383c720264b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Citra
+sanskrit_name: चित्रा
+transliteration: citrā
+ref_drug_name: चित्रा
+status: Most probable
+discussion: Has been identified with this species by the commentators but as the name is multi meaning it indicates many plants of Cucurbitacae or Euphorbiacae family
+reference: [1]
+
+Identity Record 2
+drug_name: Citraphala
+sanskrit_name: चित्रफल
+transliteration: citraphala
+ref_drug_name: चित्रफल
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+Identity Record 3
+drug_name: Kulaka
+sanskrit_name: कुलक
+transliteration: kulaka
+ref_drug_name: कुलक
+status: Most probable
+discussion: Kulaka is usually identified with Patola or its variety which is correated to this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f04fbb6319c653ca0953c4e1a84a9fe6
+Botanical Name: Scleria lithosperma (L.) SW.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Malayalam (1) - kaden-pullu Tamil (2) - kaden pullu, katinappul
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f04fbb6319c653ca0953c4e1a84a9fe6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f04fbb6319c653ca0953c4e1a84a9fe6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f04fbb6319c653ca0953c4e1a84a9fe6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

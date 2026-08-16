@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: deb6873d4d874e7cbd3454703404ef0d
+Botanical Name: Thysanolaena procera MEZ.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Sanskrit (2) - Sanskrit Comments  jurna, jurnahva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/deb6873d4d874e7cbd3454703404ef0d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/deb6873d4d874e7cbd3454703404ef0d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jupha
+sanskrit_name: जूफा
+transliteration: jūphā
+ref_drug_name: जूर्णा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Jurna
+sanskrit_name: जूर्णा
+transliteration: jūrṇā
+ref_drug_name: जूर्णा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

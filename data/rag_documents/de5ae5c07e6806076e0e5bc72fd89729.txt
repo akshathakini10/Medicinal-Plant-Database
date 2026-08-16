@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: de5ae5c07e6806076e0e5bc72fd89729
+Botanical Name: Carthamus tinctorius L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 120 Vernacular names found in 10 languages. English (8) - american saffron, azafran, bastard safron, dyer s-saffron, false saffron, kurdee, safflower, saffron thistle Hindi (10) - barre, kar, kar; karar-ke-bij, karar-ke-bij, karrah, kasumba, kussum, kusum, kusumba, kusumbar Kannada (14) - kusambe, kusambi-bija, kushibe, kusibe, kusube, kusube enne kaalu, kusubeegida, kusubi, kusumba, kusumbe, kusumbhi, kusume, kusume kaalu, maharajana Malayalam (3) - centurakam, chendurakam, kuyimpu Marathi (11) - kadaya, karadayi, karadi, kararhi, kardai, kardi, kasdi, kurdi, kusbo, kusumba, sadhi Sanskrit (18) - Sanskrit Comments  agnishikha, cusumbha, gramyakunkuma, kamalottara, kamlottama, kukkutashikha, kusamba, kusambabijam, kusumbha, kusumbhah, lohita, maharajana, padmottara, papaka, pita, rakta, vanishikha, vasraranjana Tamil (35) - akkinicekaram 1, araniyakukampam, ayattira, ayattiracceti, cantirakam1, cantirikam, centirikkam, centirukkam, centirukku, centurukkai, centurukkam, centurukku, chendurukam, cilacayacceti, cilacayam, irattakam, kamalottaram, kentakakkoli, kentakakkolicceti, kucumpa, kuntumanikkacceti, kuntumanikkam, kushumba-virai, kusumba, kusumbai, kusumbavirai, paicacattumpili, paicacattumpilicceti, sendoorkum, sendurakam, sendurgam, sendurkam, sendurukkai, senturakam, tumpuravali Telugu (10) - agni-sikha, agnisikha, kooshumba chettu, koosumbha, kushumba, kusmbe chettu, kusuma, kusuma chettu, kusumba-vittulu, kusumbha Tibetan (2) - le brgan rtsi, le ra na tsi Urdu (9) - hab qurtum, kar ke bijun ki giri, kurtum, maghz tukhm qurtum, maghz-i-qurtum, qurtum, roghan-i-qurtum, roghan-i-usfar, tukhm kar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de5ae5c07e6806076e0e5bc72fd89729
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kusumbha
+sanskrit_name: कुसुम्भ
+transliteration: kusumbha
+ref_drug_name: कुसुम्भ
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1c0b44b613da903bf6c16ae88e73a7b8
+Botanical Name: Ferula orientalis L.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Urdu (1) - gul hamama
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c0b44b613da903bf6c16ae88e73a7b8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c0b44b613da903bf6c16ae88e73a7b8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c0b44b613da903bf6c16ae88e73a7b8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

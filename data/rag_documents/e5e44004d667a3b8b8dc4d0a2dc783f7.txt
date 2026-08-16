@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e5e44004d667a3b8b8dc4d0a2dc783f7
+Botanical Name: Glossocardia bosvallea DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Glossocardia linearifolia CASS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 6 languages. Hindi (2) - phattar-suva, seri Kannada (4) - ghattarasva, kallu suseege, parpaataka, parpataka Marathi (3) - patharasuva, phattar-suva, seri Sanskrit (4) - Sanskrit Comments  charak, parpata, pithari, renu Tamil (1) - parapalanam Telugu (1) - parapalanamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5e44004d667a3b8b8dc4d0a2dc783f7/xclkon/4044fe862183f273b388f532be8255cd
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1053
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1053.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5e44004d667a3b8b8dc4d0a2dc783f7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5e44004d667a3b8b8dc4d0a2dc783f7/xclkon/4044fe862183f273b388f532be8255cd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

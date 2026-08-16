@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 521667df5d056ab61748974be037e097
+Botanical Name: Jasminum auriculatum VAHL
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 97 Vernacular names found in 8 languages. Hindi (2) - juhi, juyi Kannada (18) - davana mallige, ganike mallige, hurinaballi, jaajimallige, kadaramallige, kadaru mallige, kudathargana balli, maagadhi, madhyaanamallige, madhyanamallige, magadhi, magdhimallige, sanna mallige, sannamaallige, sannamallige, sevantige, soojimallige, sujimallige Malayalam (3) - bolidda, sucimulla, tusimulla Marathi (3) - jay, jooyi, paandhareejui Sanskrit (5) - Sanskrit Comments  hemapushpika, jati, malati, svarnajuthica, yuthika Tamil (32) - cucakkiracceti, cucakkiram, ilancitacceti, ilancitam, ilankalatitacceti, irincakam, irincakamallikai, irkkumallikai, karpu, karpuri, karpuricceti, karunamalli, kattaku, kattakumullaicceti, kotimullai, kullimallikai 1, kurmalli, mucumallikai, mullai, mullaikkodi, nocculam, oosimalli, turotaki, turotakicceti, uccimallikai, ucimallikai, udigai, usimalligai, utikai, vanamalligai, vanamallikai 1, yatika Telugu (32) - adavi teega-malli, adavimolla, adavimolle, adavimulla, adavitheega malle, adivimolla, erraadavimolla, erradavimolla, ettadavimolla, maagadhi, magadhi, maghyamu, mallatheega, mallatiga, malle, mallethige, malletige, molla, mollalu, mulle, sanna jaji, sannadzaji, sannajaajulu, sannajaji, sannajajulu, soojimalle, sudimalle, tellaadacimolla, telladavimolla, thellaadavimolla, vasanthi, vasanti Tibetan (2) - si pu sa, si pu si (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/521667df5d056ab61748974be037e097
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/521667df5d056ab61748974be037e097
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/521667df5d056ab61748974be037e097
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/521667df5d056ab61748974be037e097
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/521667df5d056ab61748974be037e097
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Yuthika
+sanskrit_name: यूथिका
+transliteration: yūthikā
+ref_drug_name: यूथिका
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Yuthika
+sanskrit_name: यूथिका
+transliteration: yūthikā
+image_urls: https://www.medicinalplants.in/slokaimages/941/941_1.jpg https://www.medicinalplants.in/slokaimages/941/941_2.jpg
+ocr_text: यूथिकायुगलं स्वादु शिशिरं शर्करार्त्तिनुत्| पित्तदाहतृषाहारि नानात्वग्दोषनाशनम् सर्वासां यूथिकानां तु रसवीर्यादिसाम्यता सुरूप्य सुगन्धाढ्यं स्वर्णयूथ्यां विशेषतः || (Rjnl Yuthika yugala is svaau in rasa, sita in veerya, alleviates sarkaraarti, pitta, daha, trsha, and destroys nana tvagdosha. Sarvasa yuthika is similar in rasa, veerya, rupa, gandha ana svarna is considered as the best. yutha यूथियुग्मं हिमं तिक्तं कटुपाकरसं लघु मधुर हृद्यं पित्तघ्नं कफवातलम् व्रणास्रमुखदन्ताक्षिशिरोरोगविषापहम् IBpn) Yuthi yugma is tikta, madhura, tuvara, katu in rasa, laghu in guna, hima in veerya, katu in paka, hrdya, alleviates pitta, increases kapha ana vata, cures Vrana, asra, mukha danta aksi siro roga and visha. तुवरं

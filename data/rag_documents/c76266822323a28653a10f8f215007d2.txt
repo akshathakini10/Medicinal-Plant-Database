@@ -1,0 +1,109 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c76266822323a28653a10f8f215007d2
+Botanical Name: Calotropis procera R.BR.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 72 Vernacular names found in 9 languages. English (3) - apple of sodom, french cotton, sodom apple Hindi (15) - aak, aakdo, aakro, ag, ak, akada, akaro, akh, akha, akra, dudla, madar, mudar, safed-ak, safedak Kannada (4) - bili aekka, bili aekkada gida, bili yekkada gida, kempu ekka Malayalam (2) - erikku, erukku Marathi (2) - mandara, rui Sanskrit (35) - Sanskrit Comments  adityapushpika, alarka, alarkah, arka, arkah, arkaparna, arkavrikshaha, asphota, bhanu, bimbora, dirghpushpa, ganarupaka, kashthila, ksiraparna, mandara, pi, pratapa, rajarka, raktarka, ravi, rupika, sadapushpa, sadapushpi, shambhu, sharkarapushpa, shitakarka, shuklaphala, shveta, shvetarka, tapana, tulaphala, vasuka, vedha, vikirana, vrittamallika Tamil (4) - vellai erukkan, vellai erukku, vellerku, vellerukku Telugu (5) - erra jilledu, jilledu, mandaaramu, mandaramu, nallajilledu Tibetan (2) - a rga i rtsa ba, a rgai rtsa ba
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 412
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/412.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76266822323a28653a10f8f215007d2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Arka
+sanskrit_name: अर्क
+transliteration: arka
+ref_drug_name: अर्क प्रकार
+status: Accepted source
+discussion: Arka is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Arka
+sanskrit_name: अर्क
+transliteration: arka
+ref_drug_name: अर्क
+status: Accepted source
+discussion: Arka is identified with this species
+reference: [3]
+
+Identity Record 3
+drug_name: Arka - jati
+sanskrit_name: अर्क जाति
+transliteration: arka jāti
+ref_drug_name: अर्क प्रकार
+status: Accepted source
+discussion: Arka is correlated to this species
+reference: [2]
+
+Identity Record 4
+drug_name: Arka - jati
+sanskrit_name: अर्क जाति
+transliteration: arka jāti
+ref_drug_name: अर्क
+status: Accepted source
+discussion: Arka is identified with this species
+reference: [3]
+
+Identity Record 5
+drug_name: Arka - prakara
+sanskrit_name: अर्क प्रकार
+transliteration: arka prakāra
+ref_drug_name: अर्क प्रकार
+status: Accepted source
+discussion: Arka is correlated to this species
+reference: [2]
+
+Identity Record 6
+drug_name: Arka - prakara
+sanskrit_name: अर्क प्रकार
+transliteration: arka prakāra
+ref_drug_name: अर्क
+status: Accepted source
+discussion: Arka is identified with this species
+reference: [3]
+
+Identity Record 7
+drug_name: Arka - rakta
+sanskrit_name: अर्क रक्त
+transliteration: arka rakta
+ref_drug_name: अर्क रक्त
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

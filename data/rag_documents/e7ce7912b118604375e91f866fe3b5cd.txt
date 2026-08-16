@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e7ce7912b118604375e91f866fe3b5cd
+Botanical Name: Physalis divaricata D.DON.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Physalis angulata L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. English (2) - cold cherry, dog tomato Malayalam (1) - pee-inota-inodien Marathi (1) - phopti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ce7912b118604375e91f866fe3b5cd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ce7912b118604375e91f866fe3b5cd/xclkon/7f2e9916decfab3f0eb924bf21da705c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7ce7912b118604375e91f866fe3b5cd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

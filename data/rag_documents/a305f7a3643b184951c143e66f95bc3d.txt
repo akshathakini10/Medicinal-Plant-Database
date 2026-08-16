@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a305f7a3643b184951c143e66f95bc3d
+Botanical Name: Solena amplexicaulis (LAM.) GANDHI
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Bryonia umbellata KLEIN E WILLD. Melothria heterophylla COGN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 25 Vernacular names found in 7 languages. Hindi (5) - amantamul, bankundura, gomoth, parula, tarali Kannada (3) - ananthamool, bimpuli, gouti balli Malayalam (2) - karuvikkilannu, nerinnampuli Marathi (1) - goimtini Sanskrit (1) - Sanskrit Comments  sukakandah Tamil (10) - avirkkovaikkoti, kalkovai 1, kar-kovai, karkovai, karkovai 1, karunkovai, kattukkovai, panrikkovai, pulivanci, pulivanji Telugu (3) - adavi donda, tiddanda, tiyyadonda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/6f1b3ab1b12fd9270828b12056d68ad4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/f3e6ea5750ab0333ce64a934f065ceb6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/0437bcbda70a4a762ed0d1a20d9c6e4d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/ef3117b1789ec0112483d116f4f86120
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/6f1b3ab1b12fd9270828b12056d68ad4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/f3e6ea5750ab0333ce64a934f065ceb6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/0437bcbda70a4a762ed0d1a20d9c6e4d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/ef3117b1789ec0112483d116f4f86120
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/6f1b3ab1b12fd9270828b12056d68ad4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/f3e6ea5750ab0333ce64a934f065ceb6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/0437bcbda70a4a762ed0d1a20d9c6e4d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/ef3117b1789ec0112483d116f4f86120
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a305f7a3643b184951c143e66f95bc3d/xclkon/6f1b3ab1b12fd9270828b12056d68ad4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

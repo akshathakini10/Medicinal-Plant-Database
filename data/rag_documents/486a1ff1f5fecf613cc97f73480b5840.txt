@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 486a1ff1f5fecf613cc97f73480b5840
+Botanical Name: Annona reticulata L.
+Family: Annonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 55 Vernacular names found in 8 languages. English (3) - bullock s-heart, custard apple, sugar apple Hindi (6) - kapri, lavni, lona, luvuni, nona, ramphal Kannada (6) - raamaphala, ram-phal, ramapala, ramaphala, ramphal, ramphala Malayalam (10) - anona, anona-maram, manilanilam, paraankiccakka, parankichchakka, pharangicakka, ramaccita, ramachchita, ramacita, ramasita Marathi (3) - raamphal, ram-phal, ramphal Sanskrit (8) - Sanskrit Comments  krishnabija, lavali, lavani, mriduphala, raktatvatch, ramawhaya, ramphala, vasanta Tamil (14) - aninuna, atta, iramacitta, iramapalai, manilatta, manilayatta, parankiyaninuna, ram citta, ram-sitaphalam, rama sitha, ramachita, ramacitta, ramapalam, ramaseethapazham Telugu (5) - raamaphalamu, raamaseethaphalamu, ramaphalamu, ramasitaphalamu, tam-seetapandu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/486a1ff1f5fecf613cc97f73480b5840
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/486a1ff1f5fecf613cc97f73480b5840
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/486a1ff1f5fecf613cc97f73480b5840
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/486a1ff1f5fecf613cc97f73480b5840
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sitaphala
+sanskrit_name: शीतफल
+transliteration: śītaphala
+ref_drug_name: शीतफल प्रजाति
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Sitaphala - prajati
+sanskrit_name: शीतफल प्रजाति
+transliteration: śītaphala prajāti
+ref_drug_name: शीतफल प्रजाति
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Sitaphala
+sanskrit_name: शीतफल
+transliteration: śītaphala
+image_urls: https://www.medicinalplants.in/slokaimages/139/139_1.jpg https://www.medicinalplants.in/slokaimages/139/139_2.jpg https://www.medicinalplants.in/slokaimages/139/139_3.jpg
+ocr_text: सीताफलंगंडगात्रंवैदेहीवल्लभंतथा कृष्णबीजंचाग्रिमाख्यमातृप्यंबहुबीजकम्| | Synonyms of sitaphala are ganaa, gatra, vaidehi, vallabha, krsnabija, agrimakhya, atrpya bahubijaka and तर्पणंरक्तकृत्स्वादुशीतलंहृद्यमेवच बलदंमांसकृद्दाहरक्तपित्तमरुत्प्रणुत् Sitaphala is svadu in rasa , sita in veerya, tarpana, hrdya, balada, increases rakta mamsa, alleviates daha, raktapitta and marut. सीताफलंतुमधुरंशीतंहृद्यंबलप्रदम् | वातलंकफकृत्स्वादुपुष्टिकृत्पित्तनाशनम् INir) Sitaphala is madhura in rasa, sita in veerya, hrdya, bala prada, increases vata, kapha, pusti and destroys pitta.

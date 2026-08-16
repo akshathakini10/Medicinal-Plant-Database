@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ec08cd45797746e57adca9c7e0c516d7
+Botanical Name: Sphaeranthus hirtus WILLD.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Sphaeranthus indicus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 169 Vernacular names found in 9 languages. Hindi (4) - gorakmundi, gundi, mundi, mundika Kannada (19) - adike kasa, bettukarande, bodadaraga, bodathara, bodu kadale, bodu kadale soppu, boladaraga, bondathhara, chandikasa, gorakmundi, karanda, karandagida, kiriya bodandara, moodugattina gida, munde gida, mundeekasa, mundi gida, mundi kasa, mundigida Malayalam (8) - adaca-manjen, adakkamanian, adakumaniyam, atakka-mani, atakkamaniyan, attakkamanni, minanganni, mirangani Marathi (8) - barasavodi, bodathara, gorakhamundee, gorakhamundi, gorakmundi, mundee, mundi, varasbodi Sanskrit (49) - Sanskrit Comments  alambusa, alambusha, aruna, avyatha, bhikshu, bhikshugparivraji, bhukadamba, bhukadambika, bhukanda, bhumikadamba, bhutaghni, boda, chhitragranthika, hapusa, jita, kadambapushpa, kadambapushpika, kadambapuspi, krodachuda, kulahalah, kumbhala, lochani, lotani, mahamundi, mahashvranika, mahasravani, mahasrawani, mata, mundakhya, mundi, mundika, mundirika, munditika, nadikadamba, nilakadambika, palankasha, parivraji, rajapatha, shravana, shravanashirshika, shravani, sravana, sravanahva, sravani, sthavira, tapasvini, tapodhana, vikacha, vridha Tamil (64) - anantai, camani 2, cenkottaikkarantai, cenkottankarantai, ciravani, citapiriyam, citappiriyam, citaranam, cittakanni, civa karantai, civanmuticelvi, civappukkottaikkarantai, cukantini, kallakaraki, kallakarakicceti, karandai, karantai, kirantini, kotalikkarantai@, kotarikkarantai#, kottai karandhai, kottai karanthai, kottai-k-karantai, kottaik karantai, kottaikarandai, kottaikkarandai, kottainalam, kottaippalai, kottaippamiracceti, kottaippamiram, kottak-karandai, kottakkarandai, kottakkarantai, kottang karundei, kottankarantai, kulatti, macittakanni, macumankaiyar, milankali 2, munmani, muntani, nanaiyavirutti, pallatarini, pallatarinicceti, parimali, pentamutamuli, perukarantai, petakaruval, piracitta, putpaki, putpakikkottai, putpakorittaru, tattai, tiruvakkinipputu, tontuppukkoti, unti, vakorakantan, valamatarai, vencitam, vishnu-karandai, visnu karantai, visnukarantai, visnukkarantai, vittunukarantai Telugu (10) - badathaarguyi, boda savamu, boda-tarapu, bodasaramu, bodasoram, bodatarapu, bodatharamu, bodatharapu chettu, boddatarapu, boedatarapu-chettu Tibetan (3) - ka dam bi i me tog, ka dam pa i me tog (p), ka dam pai me tog (p) Urdu (4) - gorakh mundi, gorakmundi, gul mundi, mundi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec08cd45797746e57adca9c7e0c516d7/xclkon/85f71eab3c1210d29a3d7648f55163c1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Mundi
+sanskrit_name: मुण्डी
+transliteration: muṇḍī
+image_urls: https://www.medicinalplants.in/slokaimages/1521/1521_1.jpg https://www.medicinalplants.in/slokaimages/1521/1521_2.jpg https://www.medicinalplants.in/slokaimages/1521/1521_3.jpg https://www.medicinalplants.in/slokaimages/1521/1521_4.jpg
+ocr_text: मुण्डितिका कटुः पाके वीर्योष्ण मधुरा लघुः | मध्या गण्डीपचीकृच्छ्रकृमिपित्तार्तिपाण्डुनुत् IBpn ) Mundi is madhura in rasa, laghu in guna, usna in veerya, katu in paka, medhya, alleviates gandi, apaci, krcchra, krmi, pitta vikara and pandu. मुण्डिका कटुतिक्तास्यादेडनिलास्रविनाशिनी आमारुचिघ्न्यपस्मारगण्डश्लीपदनाशिनी IDhn) Mundi is katu, tikta in rasa, destroys anila and asra dosha, alleviates ama, aruci, cures apasmara, ganda and slipada. श्रावणी कषाया स्यात् कटूष्णा कफपित्तनुत्| आमातीसारकासघ्नी विषच्छर्द्दिविनाशिनी| | महामुण्ड्युष्णतिक्ता च ईषद् गौल्या मरुच्छिदा | स्वरकृद्रोचनी चैव मेहकृच्च रसायनी| | IRjn) Sravani is kashaya, katu in rasa, usna in veerza, alleviates kapha ana pitta, cures ama, atisara, kasa, visa and chardi. Maha mundi is tikta in usna in veerya, isad gaulya, marucchida (?), svarya, rocani, meha kara ana rasayana rasa, मुण्डितिका कटुः पाके वार्योष्णा मधुरा लघुः | मेध्या गण्डापचीकृच्छ्रकृमियोन्यर्तिपाण्डुनुत् श्लीपदारुच्यपस्मारप्लीहेदोगुदार्तिहृत् च तत्तुल्या गुणैरुक्ता महर्षिभिः| | (Bpnl Mundi is madhura in rasa, laghu in guna, usna in veerya, katu in paka, meahya, cures ganda, apaci, krcchra, krmi, yoni vikara, panau, slipaaa, aruci, apasmara, plihodara and guaa roga. Maha mundi also has similar properties as above महामुण्डी
+
+Shloka Record 2
+drug_name: Mundi - jati
+sanskrit_name: मुण्डी जाति
+transliteration: muṇḍī jāti
+image_urls: https://www.medicinalplants.in/slokaimages/1521/1521_1.jpg https://www.medicinalplants.in/slokaimages/1521/1521_2.jpg https://www.medicinalplants.in/slokaimages/1521/1521_3.jpg https://www.medicinalplants.in/slokaimages/1521/1521_4.jpg
+ocr_text: मुण्डितिका कटुः पाके वीर्योष्ण मधुरा लघुः | मध्या गण्डीपचीकृच्छ्रकृमिपित्तार्तिपाण्डुनुत् IBpn ) Mundi is madhura in rasa, laghu in guna, usna in veerya, katu in paka, medhya, alleviates gandi, apaci, krcchra, krmi, pitta vikara and pandu. मुण्डिका कटुतिक्तास्यादेडनिलास्रविनाशिनी आमारुचिघ्न्यपस्मारगण्डश्लीपदनाशिनी IDhn) Mundi is katu, tikta in rasa, destroys anila and asra dosha, alleviates ama, aruci, cures apasmara, ganda and slipada. श्रावणी कषाया स्यात् कटूष्णा कफपित्तनुत्| आमातीसारकासघ्नी विषच्छर्द्दिविनाशिनी| | महामुण्ड्युष्णतिक्ता च ईषद् गौल्या मरुच्छिदा | स्वरकृद्रोचनी चैव मेहकृच्च रसायनी| | IRjn) Sravani is kashaya, katu in rasa, usna in veerza, alleviates kapha ana pitta, cures ama, atisara, kasa, visa and chardi. Maha mundi is tikta in usna in veerya, isad gaulya, marucchida (?), svarya, rocani, meha kara ana rasayana rasa, मुण्डितिका कटुः पाके वार्योष्णा मधुरा लघुः | मेध्या गण्डापचीकृच्छ्रकृमियोन्यर्तिपाण्डुनुत् श्लीपदारुच्यपस्मारप्लीहेदोगुदार्तिहृत् च तत्तुल्या गुणैरुक्ता महर्षिभिः| | (Bpnl Mundi is madhura in rasa, laghu in guna, usna in veerya, katu in paka, meahya, cures ganda, apaci, krcchra, krmi, yoni vikara, panau, slipaaa, aruci, apasmara, plihodara and guaa roga. Maha mundi also has similar properties as above महामुण्डी

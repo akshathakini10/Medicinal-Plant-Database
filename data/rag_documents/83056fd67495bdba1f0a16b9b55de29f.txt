@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 83056fd67495bdba1f0a16b9b55de29f
+Botanical Name: Acacia polyacantha WILLD. subsp. polycantha BRENAN
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Acacia polyantha SPRENG E BENTH. Acacia suma (ROB.) KURZ Mimosa suma ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 50 Vernacular names found in 8 languages. Hindi (3) - chhikkur, gonharea, svetakhair Kannada (18) - bani, banni mara, bannimara, bile jaali, bilejali, buguli, celayudi, chelaargudi, chelayudi, mugali, mugali soppu, mugli, mugula, mukkili, same, sami, selaiudi, shami Malayalam (3) - somarayattoli, vengarinali, venkarinnali Marathi (5) - khair, kumtiya, sami, son-khair, sonekhair Sanskrit (5) - Sanskrit Comments  kadarah, samee, samse, shami, somavalkah Tamil (11) - celai, celai1, cilai1, cilaiyuncil1, kovil, mogalli, sealai, selaivunjai, silai, silaiyuncai, silaiyunjai Telugu (4) - sara tumma, saratumma, tellachandra, thellachandra Tibetan (1) - sen lden dkar po
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/f5107e309271e1967a8441373bfabc30
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/d7cda0181e6002a8b0dcff723785d99b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/05b8a9164a5a880ce42e2ec09143a869
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/f5107e309271e1967a8441373bfabc30
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/d7cda0181e6002a8b0dcff723785d99b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/05b8a9164a5a880ce42e2ec09143a869
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/f5107e309271e1967a8441373bfabc30
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/d7cda0181e6002a8b0dcff723785d99b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/05b8a9164a5a880ce42e2ec09143a869
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/f5107e309271e1967a8441373bfabc30
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/d7cda0181e6002a8b0dcff723785d99b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/05b8a9164a5a880ce42e2ec09143a869
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83056fd67495bdba1f0a16b9b55de29f/xclkon/f5107e309271e1967a8441373bfabc30
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

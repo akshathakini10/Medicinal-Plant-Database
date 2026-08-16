@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f8b7602b1c449bc05f18d4bb7cf07e1b
+Botanical Name: Exogonium purga LINDL.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ipomoea purga (WEND.) HEYNE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 3 languages. English (1) - jalap Tamil (12) - calapceti2, calapetikkilanku, calapkilanku, calappucceti, cantiramalliver, caruvanuputi, jalappu, mancalcinakkilanku, mancatcinakkilanku 2, mancatkilanku 2, petikkilanku, revalcinnikkilanku Telugu (2) - bedigadda, bhedigadda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8b7602b1c449bc05f18d4bb7cf07e1b/xclkon/5acea55c2f6dfb85836b2933ed856443
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8b7602b1c449bc05f18d4bb7cf07e1b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8b7602b1c449bc05f18d4bb7cf07e1b/xclkon/5acea55c2f6dfb85836b2933ed856443
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8b7602b1c449bc05f18d4bb7cf07e1b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8b7602b1c449bc05f18d4bb7cf07e1b/xclkon/5acea55c2f6dfb85836b2933ed856443
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8b7602b1c449bc05f18d4bb7cf07e1b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8b7602b1c449bc05f18d4bb7cf07e1b/xclkon/5acea55c2f6dfb85836b2933ed856443
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

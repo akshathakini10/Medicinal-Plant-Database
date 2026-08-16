@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3b04bad0350d20505ca637f486b76b0a
+Botanical Name: Galium aparine L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 2 languages. English (7) - bedstraw, catchweed, cleavers, goose grass, sticky bob, sticky willy, sweetheart Hindi (1) - kuri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b04bad0350d20505ca637f486b76b0a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b04bad0350d20505ca637f486b76b0a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b04bad0350d20505ca637f486b76b0a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

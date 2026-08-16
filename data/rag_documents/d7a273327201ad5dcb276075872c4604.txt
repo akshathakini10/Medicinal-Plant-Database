@@ -1,0 +1,72 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d7a273327201ad5dcb276075872c4604
+Botanical Name: Dolichos lablab L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 86 Vernacular names found in 7 languages. Hindi (11) - bhatavasu, bhetarasu, borboti, lobia, lobiya, makhansim, rajashimbi, sem, sim, valm, wall Kannada (4) - alsande, avare, avare balli, chapparada avare Marathi (13) - amvri, anvare, chardari, chavdari ghevda, ghevda, ghevdo, kadavevala, pandharepavate, paote, pawta, tambadepavade, val, wal papri Sanskrit (11) - Sanskrit Comments  nespava, nishpava, nispava, nispavah, rajashimbi, shimbi, shvetashimbika, simbi, valla, vallah, vallaka Tamil (34) - akanami#, akanami@, akanamikkoti, avarai, avarai#, avarai-k-koti, avarai@, cattirakkil, cikkatti, cikkiti, cimpikam 1, kattu moccai, kotiyaracu, kotiyavarai, maccai, mankuvittam, mati 3, moccai, mochai, motchai, mutirakkoti, mutiram, mutiri, mutirikkoti, muvilaiminni, muvilaiminnikkoti, nakaravarai, nakuli, nattavarai, nispavam, nitpavam, pancari, pancarikkoti, vellai avarai Telugu (10) - adavichikkudu, alsanda, alsande, anapachikkudu, annapa, anumulu, boberlu, chikkudu, tellachikkudu, tellachikurkai Tibetan (3) - ni mba ba, ni spa ba (p), nis pa ba (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7a273327201ad5dcb276075872c4604
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nispava
+sanskrit_name: निष्पाव
+transliteration: niṣpāva
+ref_drug_name: निष्पाव
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Nispava
+sanskrit_name: निष्पाव
+transliteration: niṣpāva
+ref_drug_name: निष्पाव
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Simba
+sanskrit_name: शिम्ब
+transliteration: śimba
+ref_drug_name: शिम्ब
+status: ?
+discussion: ?
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

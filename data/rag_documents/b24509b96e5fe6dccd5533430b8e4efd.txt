@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b24509b96e5fe6dccd5533430b8e4efd
+Botanical Name: Uncaria sessilifructus ROB.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  susavi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b24509b96e5fe6dccd5533430b8e4efd
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2150
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2150.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b24509b96e5fe6dccd5533430b8e4efd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Paniyavalli
+sanskrit_name: पानीयवल्ली
+transliteration: pānīyavallī
+ref_drug_name: पानीयवल्ली
+status: Most probable
+discussion: With regard to its name that it’s a creeper in which there is water, three species are correlated to it and this species is one among them; Its found in North Bengal, Assam and Northeast part of Andhra Pradesh
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

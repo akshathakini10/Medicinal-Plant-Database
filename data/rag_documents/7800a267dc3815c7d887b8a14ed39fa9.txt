@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7800a267dc3815c7d887b8a14ed39fa9
+Botanical Name: Pentatropis capensis (L.F.) BULLOCK
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Pentatropis microphylla (ROB.) WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 8 languages. Hindi (1) - ambarvel Kannada (2) - kaaka anaashi, uppili balli Malayalam (2) - paparam, parpparam Marathi (1) - shingrota Sanskrit (7) - Sanskrit Comments  kakanasa, kakanasika, kakatundaphala, shringariti, sringiritti, sunasika, suryavalli Tamil (12) - inkai 2, irkkolikkopi, irkkolli, irkolli 1, irukolli, parparam, uppilan koti, uppili, uppilikkoti, uppiliver, vellaiuppi, vellaiuppillankoti Telugu (10) - cekurtitivva, chekruti-teeg, chekurthithivva, chekurtitivva, chekurtitivya, poda paala, poola pala, poolapaala, poolapalla, pulapala Tibetan (1) - ka ka na sa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7800a267dc3815c7d887b8a14ed39fa9/xclkon/32748a2358caf9f87d98f7af702c1890
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakanasika
+sanskrit_name: काकनासिका
+transliteration: kākanāsikā
+ref_drug_name: काकनासिका
+status: Accepted source
+discussion: Kakanasika has been mentioned in Caraka under the madhura skanda (group of sweet drugs) along with its various usages; In Susruta its use has been mentioned only in anuvasana basti (enema); It has not been cited in Vagbhata; Cakrapani has interpreted it as 'Nasaphala' and Dalhana as 'Vayasaphala'; Popularly it is known as 'Kauvatodi'; P.capensis is popularly known by this name and hence it is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

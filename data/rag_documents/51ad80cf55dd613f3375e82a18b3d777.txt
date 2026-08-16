@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 51ad80cf55dd613f3375e82a18b3d777
+Botanical Name: Capsicum annuum L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 61 Vernacular names found in 8 languages. English (1) - paprika Hindi (8) - gach-mirichi, gachmarich, lal, lalmirca, lalmirich, marchi, mirch, mirchi Kannada (8) - byadagi menasina kaayi, donne menasina kaayi, kempu menasu, kempumenasu, khaarada menasinakaayi, menasina, menasina kaayi, menasinakai Malayalam (10) - capo-molago, chalie, cuvannamulaku, kappalmelaka, kappalmulaku, lodachina, mulaku, paccamulaku, perangimuluk, upperiparanki Marathi (4) - laal mirchee, mirchee, mirchi, mirsinga Sanskrit (11) - Sanskrit Comments  branmaricha, bruhi, katuvira, katuvirah, lanka, marichi-phalam, marichiphalam, pittakarini, raktamarica, raktamaricah, tiksna Tamil (9) - milagai, milakai, milakay, molagay, mulagai, mulakay, seemai milagai, usimilagai, usimulagay Telugu (10) - galakonda, mirapa kaayi, mirapa-singa, mirapakaya, mirchi, mirepakaya, miriyapukaya, mirpakaya, sudmirapakaaya, sudmirapakaya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ad80cf55dd613f3375e82a18b3d777
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ad80cf55dd613f3375e82a18b3d777
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ad80cf55dd613f3375e82a18b3d777
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ad80cf55dd613f3375e82a18b3d777
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ad80cf55dd613f3375e82a18b3d777
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ad80cf55dd613f3375e82a18b3d777
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Lanka
+sanskrit_name: लङ्का
+transliteration: laṅkā
+ref_drug_name: लङ्का
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

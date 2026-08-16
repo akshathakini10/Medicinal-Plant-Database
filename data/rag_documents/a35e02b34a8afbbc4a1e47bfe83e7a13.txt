@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a35e02b34a8afbbc4a1e47bfe83e7a13
+Botanical Name: Cyperus triceps (ROTTB.) ENDL.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Kyllinga triceps ROTTB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 5 languages. Hindi (2) - nirbisi, shwetgothubi Kannada (1) - anantha gonde hullu Malayalam (2) - mottenga, pimottenga Marathi (1) - mustu Sanskrit (8) - Sanskrit Comments  apavisha, avisha, nirvisha, vishabhava, vishaha, vishahantri, vishavairini, vivisha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a35e02b34a8afbbc4a1e47bfe83e7a13
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a35e02b34a8afbbc4a1e47bfe83e7a13/xclkon/2547c26b349dc3ffa5b7a1b04ad2c501
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a35e02b34a8afbbc4a1e47bfe83e7a13
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a35e02b34a8afbbc4a1e47bfe83e7a13/xclkon/2547c26b349dc3ffa5b7a1b04ad2c501
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a35e02b34a8afbbc4a1e47bfe83e7a13
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

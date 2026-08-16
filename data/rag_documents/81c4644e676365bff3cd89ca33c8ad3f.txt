@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 81c4644e676365bff3cd89ca33c8ad3f
+Botanical Name: Launaea sarmentosa (WILLD.) ALST.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Launea sarmentosa ALSTON.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 55 Vernacular names found in 3 languages. Kannada (3) - hakkarike, hattharige, kaadu udda navilukolu Marathi (4) - bhonpathri, paathharee, paathradi, paattha Tamil (48) - alantari, antecolikam, antecolikappuntu, celvilippuntu, celvilipputu, centakam, centalaipputu, centam, cinnaveluttanicceti, cinnaveluttanippuntu, cirreluttanippuntu, cirukirankippuntu, ciruveluttani, civatakai, civatakaippuntu, civatankai, eluttani, eluttanikkur, eluttanippaccai, eluttanippaccilai, eluttanippuntucceti, emanatimuli, kaittalam, kaittalappuntu, karuvanci, katarkoluppai, katarkoluppuntu, kattamam, kattanavi, kattari, kattarippuntu, katuki, katukippuntu, kokkarikam, kolakayam, kolakayappuntu, korikai, korikaippuntu, korikkalam, korikkam, korikkati, kotari, kotaricceti, kotarippuntu, matankaipputu, murreruntincevi, muttirukkancevi, pattiracuram
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81c4644e676365bff3cd89ca33c8ad3f/xclkon/db45733b33a8bae09a8b8ab93d424a79
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81c4644e676365bff3cd89ca33c8ad3f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81c4644e676365bff3cd89ca33c8ad3f/xclkon/db45733b33a8bae09a8b8ab93d424a79
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81c4644e676365bff3cd89ca33c8ad3f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81c4644e676365bff3cd89ca33c8ad3f/xclkon/db45733b33a8bae09a8b8ab93d424a79
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

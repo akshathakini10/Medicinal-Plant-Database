@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a37bb8784b81994d3f1c16653056e0fd
+Botanical Name: Solanum ferox L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Solanum hirsutum ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 6 languages. Hindi (1) - rambegun Kannada (9) - bijagulla, bilegulla, biligulla, gulla, gulla badane, gullabadane, mulluchundekayi, mullucundekayi, mullusuntikai Malayalam (6) - anaccunta, anachchunta, anachunda, vellothuvazhutina, vellottuvalutina, vellottuvazhutina Sanskrit (14) - Sanskrit Comments  chandrapushpa, chandri, chandrika, garbhada, gardabhi, kshetraduti, lakshmana, laksmana, mahaushadi, nakuli, nisnehapushpa, rama, sitakanta, svetakantakari Tamil (9) - ana-chundai, anai cuntaikkay, anaiccuntai2, anaichundai, anaisundai, cantiraputpam2, cuvetakantankari2, vellai kantankattiri, yanaiccuntai Telugu (2) - molak-kayi, mulaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a37bb8784b81994d3f1c16653056e0fd/xclkon/1694a3cf7e01fd0421a98583beb777c2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a37bb8784b81994d3f1c16653056e0fd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a37bb8784b81994d3f1c16653056e0fd/xclkon/1694a3cf7e01fd0421a98583beb777c2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a37bb8784b81994d3f1c16653056e0fd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a37bb8784b81994d3f1c16653056e0fd/xclkon/1694a3cf7e01fd0421a98583beb777c2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a37bb8784b81994d3f1c16653056e0fd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a37bb8784b81994d3f1c16653056e0fd/xclkon/1694a3cf7e01fd0421a98583beb777c2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

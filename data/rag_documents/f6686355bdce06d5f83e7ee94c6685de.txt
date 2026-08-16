@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f6686355bdce06d5f83e7ee94c6685de
+Botanical Name: Agrostemma githago L.
+Family: Caryophyllaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. English (1) - corn cockle
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6686355bdce06d5f83e7ee94c6685de
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6686355bdce06d5f83e7ee94c6685de
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6686355bdce06d5f83e7ee94c6685de
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

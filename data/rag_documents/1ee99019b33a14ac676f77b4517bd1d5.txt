@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1ee99019b33a14ac676f77b4517bd1d5
+Botanical Name: Quisqualis indica L.
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 6 languages. English (1) - rangoon creeper Hindi (1) - rangoon-ki-bel Kannada (3) - rangoon balli, rangoon kempu balli, rangoon kempu malle Marathi (8) - barmas, firangi-chameli, kalavati, laalchameli, lalchameli, rangoonchameli, rangunchavel, vilati chemeli Tamil (7) - ilankaramallikai, ilengaramalligai, irangun-malli, irankunmalli, rangoonmallikai, rankun mallikai, tonkin Telugu (10) - erraguttilathivva, erraguttilativva, raadha mancharam, rangonimalle, rangoon-malli, rangooni malle, rangunumalle, thigegannaeru, tigeganneru, yerraguttilativva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ee99019b33a14ac676f77b4517bd1d5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ee99019b33a14ac676f77b4517bd1d5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ee99019b33a14ac676f77b4517bd1d5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b19923f009ea4e6a7741288f59a54a9d
+Botanical Name: Elaeagnus angustifolia L.
+Family: Elaeagnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Elaeagnus hortensis M. BIEB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. English (2) - russian olive, trebizond date Hindi (1) - shiulik
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b19923f009ea4e6a7741288f59a54a9d/xclkon/93e751a5cb856517aa99ad7a1e76cfae
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b19923f009ea4e6a7741288f59a54a9d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b19923f009ea4e6a7741288f59a54a9d/xclkon/93e751a5cb856517aa99ad7a1e76cfae
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

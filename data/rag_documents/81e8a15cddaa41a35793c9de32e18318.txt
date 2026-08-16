@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 81e8a15cddaa41a35793c9de32e18318
+Botanical Name: Cuscuta chinensis LAM.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Hindi (2) - amar bel, makhanio
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81e8a15cddaa41a35793c9de32e18318
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81e8a15cddaa41a35793c9de32e18318
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Akasavalli - prajati
+sanskrit_name: आकाशवल्ली प्रजाति
+transliteration: ākāśavallī prajāti
+ref_drug_name: आकाशवल्ली प्रजाति
+status: Most probable
+discussion: This species is a variety of Cuscuta reflexa andhas similar properties so most probably can be identified with Akasavalli
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

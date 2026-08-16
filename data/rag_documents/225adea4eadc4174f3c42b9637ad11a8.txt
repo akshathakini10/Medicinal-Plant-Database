@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 225adea4eadc4174f3c42b9637ad11a8
+Botanical Name: Tetrastigma leucostaphylum (DENNST.) ALSTON E MABB.
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. Malayalam (1) - vallia-tsjori-valli Tamil (1) - pirantaikkoti Telugu (1) - kond draaksha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/225adea4eadc4174f3c42b9637ad11a8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/225adea4eadc4174f3c42b9637ad11a8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/225adea4eadc4174f3c42b9637ad11a8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

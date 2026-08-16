@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: aa1be2d2b6825d321e108c769571e669
+Botanical Name: Rosa indica L.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 2 languages. Tamil (15) - aintiracili, cauntirappu, cauntirappucceti, cinamutcevvanti, cirramarai, kulamalli, kulappu#, kulappu@, mutcevvanti, pannirppu 2, racakamiyam, roca, titamokanacceti, titamokanam, vanacippu Telugu (1) - tellagulabi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa1be2d2b6825d321e108c769571e669
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa1be2d2b6825d321e108c769571e669
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa1be2d2b6825d321e108c769571e669
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

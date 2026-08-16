@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7a733e29b6e545c49f8d230b4a0e2b57
+Botanical Name: Acalypha paniculata MIQ.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. Malayalam (1) - kuppaimeni Tamil (1) - kuppaimeni Telugu (1) - adavi kuppinta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a733e29b6e545c49f8d230b4a0e2b57
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a733e29b6e545c49f8d230b4a0e2b57
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

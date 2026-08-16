@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: df390e69fd59e26c8d68780d1bf5dc19
+Botanical Name: Nymphaea alba L.
+Family: Nymphaeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 6 languages. English (2) - water lilies, white water lily Sanskrit (2) - Sanskrit Comments  kumuda, utpalam Tamil (3) - neitharkizhangu, neytal, neytarkilanku Telugu (1) - nn Tibetan (3) - ko mu da, ko mu ta (d), u tpa la dkar po Urdu (5) - gul nilofar, gul-i-nilofar, gule nilofar, nilofar, tukhm nilofar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1518
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1518.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df390e69fd59e26c8d68780d1bf5dc19
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kumuda
+sanskrit_name: कुमुद
+transliteration: kumuda
+ref_drug_name: कुमुद
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kumuda
+sanskrit_name: कुमुद
+transliteration: kumuda
+image_urls: https://www.medicinalplants.in/slokaimages/1174/1174_1.jpg https://www.medicinalplants.in/slokaimages/1174/1174_2.jpg https://www.medicinalplants.in/slokaimages/1174/1174_3.jpg
+ocr_text: कैरवंचन्द्रकान्तञ्चगर्दभंकुमुदंकुमुद् 0 Synonyms of kumuaa are candrakanta, gardabha ana kumudam. कुमुदंशीतलंस्वादुपाकेतिक्तंकफापहम् रक्तदोषहरंदाहश्रमपित्तप्रशान्तिकृत् IRjnl Kumudam is tikta in rasa , sita in veeryza, svaau in paka, alleviates kapha and rakta dosna cures aaha, srama and pitta, is prasantikaraka. भवेत्कुमुद्वतीबीजंस्वादुरूक्षंहिमंगुरु | Its bija is svadu in rasa, ruksa, guru in guna and hima in veerya.

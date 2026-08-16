@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6797a12d49fca1293c559e6cf9557141
+Botanical Name: Basilicum polystachyon (L.) MOENCH.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 2 languages. Tamil (11) - canakkirai, cittanantakkirai, cittanantam, karuppakkirai, lolekam, lolekkirai, naukacini, naukacinikkirai, peykkancan, tulakakikakkirai, tulakakikam Telugu (2) - kaachana, kaashana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6797a12d49fca1293c559e6cf9557141
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6797a12d49fca1293c559e6cf9557141
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6797a12d49fca1293c559e6cf9557141
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

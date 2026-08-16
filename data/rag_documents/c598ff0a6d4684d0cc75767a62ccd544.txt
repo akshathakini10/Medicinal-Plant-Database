@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c598ff0a6d4684d0cc75767a62ccd544
+Botanical Name: Gardenia resinifera ROTH.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Gardenia lucida ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 68 Vernacular names found in 6 languages. Hindi (3) - dekamari, dikamali, dikmali Kannada (13) - aeribikke, bikke, bikke maena, bikke, dikkamalli, birki, bukki, dikkaamali, dikkamaali, dikkamalli, kallarige, kumbe, kunte, naadihingu Marathi (4) - dekamari, dikaamaali, dikamali, nanamat Sanskrit (14) - Sanskrit Comments  hingu, hingunadika, hingusivatika, jantuka, nadhihingu, nadihingu, palashakhya, pinda, pindavha, ramathi, shivadika, suvirya, vanshapatri, venupatri Tamil (8) - kambil, kumbai, tikkamalli, kampalip picin, kampi 1, kampil 1, kampili 1, kumbi, kumpai 1, tikkamalli Telugu (26) - bikke, erubikki, bikki, chinakaaringuva, chinakaringuva, chinna karinga, chinnakaringuva, chinnakondapapidi, cinnakaringuva, erri bikki, erubikki, gerribikki, harangi, karaingi, karangi, karinga, karinguva, konda manga, sinnakaaringuva, sinnakaringuva, tellakaringuva, tellamanga, thellakaaringuva, thellamanga, yerrabikki, yerri-bikki, yerribikki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1038
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1038.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544/xclkon/40019bb2e2d492c9e486a1e5ed4ec811
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544/xclkon/40019bb2e2d492c9e486a1e5ed4ec811
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544/xclkon/40019bb2e2d492c9e486a1e5ed4ec811
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c598ff0a6d4684d0cc75767a62ccd544
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nadihingu
+sanskrit_name: नाडीहिङ्गु
+transliteration: nāḍīhiṅgu
+image_urls: https://www.medicinalplants.in/slokaimages/788/788_1.jpg https://www.medicinalplants.in/slokaimages/788/788_2.jpg
+ocr_text: नाडिहिंगु कटुष्णा च कफवातार्तिशान्तिकृत्| विष्ठाविबन्धदोषघ्नीडडनाहामयहारिणी|| IRinl Nadi hingu is katu in rasa, usna in veerya, pacifies kapha, vata and arti, cures vistambha, vibanaha, anaha ana amaya. नाडीहिंगुस्तु कटुकस्तीक्ष्णोष्णश्चापि दीपकः [ कफवातमलस्तम्भमनोमोहामनाशनः | | INir) Nadi hingu is katu in rasa, tiksna in guna, usna in veerya, dipaka alleviates kapha, vata, malastambha, mano, moha and ama.

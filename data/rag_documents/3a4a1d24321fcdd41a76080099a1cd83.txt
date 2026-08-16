@@ -1,0 +1,88 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3a4a1d24321fcdd41a76080099a1cd83
+Botanical Name: Aconitum heterophyllum WALL. E ROYLE
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 144 Vernacular names found in 9 languages. Hindi (8) - and, arand, ateicha, atis, atvika, mohra, padish, patis Kannada (4) - athibaje, athivisha, atibaje, bhangura Malayalam (1) - ativitayam Marathi (3) - atavish, athivish, ativisha Sanskrit (41) - Sanskrit Comments  amrita, aruna, ataicha, atisaraghni, ativisa, ativisha, bhangura, bhringi, ghuna-priya, ghunaisa, kashmira, kasmira, madri, mahoshadha, mridvi, pankura, prativisa, prativisha, pravisha, shishubhaishyajja, shokapaha, shringi, shringika, shuklakanda, shveta, shvetakanda, shvetavacha, shyamkanda, sisubhaisajya, sitashringi, suklakanda, surala, upavishaaka, upvisha, vallabha, vira, virupa, visakhya, visha, visharupa, vishva Tamil (77) - adhividayam, adivitaiyam, akuculapu, alakavetam, alecuveppam, alecuveppu, alecuvitaiyam, alecuvitayam, ariyan, ariyavitaiyam, ariyavitayam, arttiram 1, aruna, arunai, athividayam, athividyam, ati vitayam, ati-vadayam, ati-vidayam, aticaracuracamaraci, aticarakkini, ativacam, ativacampu, ativadayam, ativaka, atividyam, ativitai, ativitaiyam, ativitam, ativitayam, attakatitam, attam 1, attatam, attiranam, avirukam, cattivinacini, cinki 1, cirinki 1, cukkilakentam, cukkulakantam, kalacu, kalacuvetam, kalacuvitaiyam, kalakavetam, kalarcipatam, kalarcupatam, kalarcuvatam, kantacukkilam, kenta 1, kukkilam, kunakkacikam#, kunakkacikam@, kunapalam, kunapalan, kunattam, kunavallapai, kunetakam, kunettam, mantiri, matiri, matirivitaiyam, nattuativitaiyam, pankaram, pankurai, pankuram, upavitai, upavitam, vicu, vicuvacan, vicuvam, vicuvankatti, vicuvatikkam, visapaka, vitam, vitaru, vitayam, yankura Telugu (4) - athivaasa, atirasa, ativasa, ativasu Tibetan (3) - bon na, bon na dkar po, bon-na-dkar-po Urdu (3) - atees, atis shirin, beesh (mitha zahar,atees)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 52
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/52.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4a1d24321fcdd41a76080099a1cd83
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ativisa
+sanskrit_name: अतिविषा
+transliteration: ativiṣā
+ref_drug_name: अतिविषा
+status: Accepted source
+discussion: This species is considered as the Ativisha of Ayurvedic medicine
+reference: [2]
+
+Identity Record 2
+drug_name: Ativisa
+sanskrit_name: अतिविषा
+transliteration: ativiṣā
+ref_drug_name: अतिविषा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Ativisa
+sanskrit_name: अतिविषा
+transliteration: ativiṣā
+ref_drug_name: अतिविषा
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 4
+drug_name: Ativisa
+sanskrit_name: अतिविषा
+transliteration: ativiṣā
+ref_drug_name: अतिविषा
+status: Accepted source
+discussion: Ativisa is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Ativisa
+sanskrit_name: अतिविषा
+transliteration: ativiṣā
+image_urls: https://www.medicinalplants.in/slokaimages/37/37_1.jpg https://www.medicinalplants.in/slokaimages/37/37_2.jpg https://www.medicinalplants.in/slokaimages/37/37_3.jpg
+ocr_text: विषा सोष्णा कटुस्तिक्ता पाचनी दीपनी हरेत् | कफपित्तातिसारामविषकासवमिकृमीन् II (Bpn, kyn)) Visa is Katu, tikta in rasa usna in veerya, pacani, dipani cures kapha pitta, atisara, ama, visa, kasa, vami and krmi. कटुष्णातिविषा तिक्ता कफपित्तज्वरापहा आमातिसारकासघ्नी विषच्छर्दिविनाशिनी || (Rjn) Ativisa is katu, tikta in rasa alleviates kapha, pitta, ivara ama atisara, kasa, visa and chardi अतिविषा दीपनीयपाचनीयसंग्राहकसर्वदोषहरणाम्| (Ch) Ativisha is dipaniya, pacaniya, sangrahaka ana sarvadoshahara

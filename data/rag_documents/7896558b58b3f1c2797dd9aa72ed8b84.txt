@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7896558b58b3f1c2797dd9aa72ed8b84
+Botanical Name: Oxalis acetosella L.
+Family: Oalidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 3 languages. English (6) - hallelujah, shamrock, sour trefoil, true wood sorrel, white wood sorrel, wood sorrel Hindi (1) - amloni Sanskrit (1) - Sanskrit Comments  cangeri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7896558b58b3f1c2797dd9aa72ed8b84
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Carngeri
+sanskrit_name: चाङ्गेरी
+transliteration: cāṅgerī
+ref_drug_name: चाङ्गेरी
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

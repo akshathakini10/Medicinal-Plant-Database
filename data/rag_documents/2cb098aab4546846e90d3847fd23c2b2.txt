@@ -1,0 +1,78 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2cb098aab4546846e90d3847fd23c2b2
+Botanical Name: Thespesia populnea (L.) SOL.E. CORREA
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hibiscus populneus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 198 Vernacular names found in 9 languages. English (1) - mahoe Hindi (11) - ban-pipal, bhendi, gajadanda, gajhanol, paras pipal, paras-pipal, parashajhad, paraspipal, parsipu, pipal, porush Kannada (37) - adavi bande tree, adavibende mara, arasha, arashi, arasi, asha, bangaali, bangali, bhogiarale, bogari, boogooi, bugari, bugari mara, gandarali, gandaralihuvarasi, havarasi, hooarasu, hoovarasi, hoovarasi mara, hurvashi, huvarase, huvarasi, huvarsi, huvvagase, jogi, jogia mara, jogiattasa, jogierale, jogiyarale, jogiyattasa, kandarola, kandarola-mara, kandaroola, kandasola, kilankoi, paarasi, turuve Malayalam (22) - bupariti, chandamaram, cheelanthi, cheelanthy, chilanti, cilanti, cilantippatta, kallal, kattal, pooarasu, poovarasu, poovarchi, porassu, puparti, puparutti, pupparutti, puvarachu, puvaracu, puvarasu, puvvarasha, puvvarashah, puvvarasu Marathi (15) - ashta, bendi, bhenda, bhendi, bhendy, kaade paayir, khari-kapusi, manor, paaras peepal, paaras peepar, paarsachajhada, paraspipar, parsachajhada, ranbhendi, vhadli Sanskrit (23) - Sanskrit Comments  gardabhanda, gardabhandah, gardha-bhanda, haripucchah, kamandalu, kandarala, kapichuta, kapitana, kapitanah, kuberaksha, kundah, nandi, nandivrksa, parisa, parisah, parisha, parsvapippala, phalisha, plaksah, sooparshavaka, suparashvaka, suparsha-vaka, suparshvaka Tamil (69) - acuvattai 2, ampuviyaracu, aracanviroti, aracu, cakkiram2, carutavikam, chandamaram, cilanti, cilanti$, cuyakkini, kallal, karttapavantakam, kattuparuthi, kulirikam, kulirkamaram, makanimpam 2, makanimpar 2, mannaracu, mannaracumaram, mannilaventan 1, manru, nattuppuvaracu, pancalai, paricam, parushamaram, perumputalam, piram, piram 2, piramanettam, piramataru 2, piramatarucam, pirmakastam, pirumaniyam, pirumpirkku, pittarocanam, poovarasam, poovarasu, poursunghai, puarasu, pukam 3, pulam, punam, pupparuti, pupparutimaram, pupparutti, puracu 2, purappoti, purasha-maram, purashamaram, purpoti, pursung, purvarasam, puvanam, puvaracu, puvaracu vittu, puvarasam, puvarasamkallal, puvarasu, puviracan, tutancam, umam, umattotikam, umattotikamaram, vatapetam, vatapotam, vattu 1, vekutci, vekutcimaram, viranahari 1 Telugu (19) - benda, gandareni, ganga ravi, gangaraavi, gangaravi, gangaraya, gangareeni, gangaregu, gangareni, gangarenu, gangarenuchettu, gangarevi, ganguranichettu, gara, ghengheranie, ghengheravie, mooneegangaraya, muni gangaravi, munigangaravi Urdu (1) - tukhm ispast
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2/xclkon/246253363405fb3ce6a4a36e91b812e8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2/xclkon/246253363405fb3ce6a4a36e91b812e8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2/xclkon/246253363405fb3ce6a4a36e91b812e8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2/xclkon/246253363405fb3ce6a4a36e91b812e8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb098aab4546846e90d3847fd23c2b2/xclkon/246253363405fb3ce6a4a36e91b812e8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kapitana
+sanskrit_name: कपीतन
+transliteration: kapītana
+ref_drug_name: कपीतन
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Kapitana
+sanskrit_name: कपीतन
+transliteration: kapītana
+ref_drug_name: कपीतन
+status: Accepted source
+discussion: Kapitana' is interpreted as 'Gardabhanda' which is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Nandivrksa
+sanskrit_name: नन्दीवृक्ष
+transliteration: nandīvṛkṣa
+ref_drug_name: नन्दीवृक्ष
+status: Most probable
+discussion: Some identify Nandivrksa as Gardabhand which is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

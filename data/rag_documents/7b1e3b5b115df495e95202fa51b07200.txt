@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7b1e3b5b115df495e95202fa51b07200
+Botanical Name: Mimosa rubicaulis LAMK. subsp. himalayana (GAMBLE) DHASHI
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Mimosa rubicaulis AUCT. NON LAM. Mimosa spinisilqua KLEIN. E POIR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 129 Vernacular names found in 7 languages. Hindi (14) - agla, aila, alay, alral, dadar, dadrar, durghari, eil, kacheyta, kachyata, karingan, kinglu, shiah-kanta, shiahkanta Kannada (3) - rasne, urasige, urisige Malayalam (3) - katcheenikoi, kattucinikka, kattusinikka Marathi (1) - arai Sanskrit (5) - Sanskrit Comments  rala-arlu, sajjaka, sallaka, sarja, sarjarasah Tamil (78) - ankkitam, aravikantakkoti, aravikantam, arrumalikam, bida, chemba, ciravattai, ciravattaicceti, igai, ikai 1, ikam, ikkagodi, imakkoti, indai, indangodi indu, ingai, ingu, inkai, inku@, intai 2, intu, iraittu, irantikai, irantini, irantinicceti, iyakkoluntu, iyattantu, iyattantukkoti, kakkaikariccanceti, kakkaikkariccan 1, karindu, karintu, karuncunti, karunjundi, karuppintiriyakkoti, karuppuintiriyakkoti, karuppuppilankoti, karuppuuppilankoti, katampaputpi, katamparaka, katirvalli, kattu sikkai, kattucciyakkay, kattucikkay, kentakayippini, kotantam, kuntai, kuvankiya, kuvankiyacceti, mantakkoti, mantam, nakaviyakkiram, nakkiyakkiram#, nakkiyakkiram@, pannaimaritakkoti, pannaimaritam, pavalacayintu, pulitotakkicceti, pulittotakki, pulitttakki, pulittutakki, punarrantu, punarrantukkoti, tkai, tulopam, tuppiracam, tuppiram, tutpiracam, tyakkoluntu, uccintikakkoti, uccintikam, umpilati, unmantakkoti, unmantam, uppilankoti, uppili, vanavulimiti, vellai intu Telugu (25) - bodacandra, bodachandra, candratige, chandra, hundra, kandratige, kodimudusu, korendum, korinda, korintha, kotha korintha, munugudamaramu, muttavapulagamu, pootakorinta, putakorinda, sandratige, sarjjasasamu, sundratheega, udra kampa, undra, undrakampa, vallikatura, ventra, vundra, wallagdoora
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b1e3b5b115df495e95202fa51b07200/xclkon/a43b5b21d7f9b28e92710f92afc93d23
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b1e3b5b115df495e95202fa51b07200
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b1e3b5b115df495e95202fa51b07200/xclkon/f756a87f9aa026bb6d3ff2f9d16b1e39
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b1e3b5b115df495e95202fa51b07200/xclkon/a43b5b21d7f9b28e92710f92afc93d23
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b1e3b5b115df495e95202fa51b07200
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b1e3b5b115df495e95202fa51b07200/xclkon/f756a87f9aa026bb6d3ff2f9d16b1e39
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b1e3b5b115df495e95202fa51b07200/xclkon/a43b5b21d7f9b28e92710f92afc93d23
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

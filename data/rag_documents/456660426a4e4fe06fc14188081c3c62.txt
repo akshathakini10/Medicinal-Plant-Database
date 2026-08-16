@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 456660426a4e4fe06fc14188081c3c62
+Botanical Name: Terminalia paniculata ROTH
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 132 Vernacular names found in 6 languages. Kannada (34) - hanalu, holematthi, honaal, honagalu, honal, honalu, hongal, honilu, honnagalu, honnal, hoonal, hulave, hulive, hulune, huluva, huluve, hulve, hunaalu, hunab, hunagalu, hunal, hunugalu, kerijal, kirijul, kondal, marava, maruva, maruve, marwa, marwah, marwe, matthi, matti, pillamaradu Malayalam (27) - maruthi, maruthu, marutu, peimaruthu, pemarutu, pilamaruthu, pilavumarudu, pilemardu, pillamarda, pillamarudu, pilleimaruthu, poomarda, poomardu, poomarida, poomaridu, poomurda, pulamarada, pullamaruthu, pullamarutu, pumarda, pumardu, pumarutha, pumarutu, vellamarutu, vemmarudu, vemmarutu, venmaruthu Marathi (3) - kimdal, kindal, kinjal Sanskrit (1) - Sanskrit Comments  asvakarnah Tamil (52) - adamarudu, adamaruthu, attukkal, cantirapurutam, cantirapurutamaram, cattikakkalmaram, cattikam, citanki, compakam, compakamaram, culamarutu1, ilaikkadukkay, ilaikkatukkay, kecamorikam, kecamorikamaram, kulamarutu1, kumaranocikam, kumaranocikamarutu, marudu, marutamaram, mati, mati#, mutavattukkal, ocaimali, ocaimalimaram, peikadukai, pekarakai, peykkadukkai, peykkatukkay, pillaimarutu#, pillaimarutu@, pillamaruddu, pillamarudu, pulatti, pulatti#, pulatti@, pulavai, pulavaimarudu, pulavaimarutu, pullamarutu, pullumarutu, pumarudu, pumarutam, pumarutu, tampali, vadamarudu, vatamarutu, vellaimarutu 1, vem-maruthu, venmarrutu, venmarudu, venmarutu Telugu (15) - chirimanu, neemari, neemeeri, nemeeri, nerali, nimiri, pillamaddi, pudimaddi, pulamaddi, puligi, pulimaddi, putakarakkaaya, putakarakkaya, putamanu, putanallamanu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/456660426a4e4fe06fc14188081c3c62
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2077
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2077.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/456660426a4e4fe06fc14188081c3c62
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/456660426a4e4fe06fc14188081c3c62
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/456660426a4e4fe06fc14188081c3c62
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

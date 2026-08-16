@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 90bf73a413f0b21a8a50d3b44686982b
+Botanical Name: Cheiranthus cheiri L.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 2 languages. English (3) - english wallflower, hand flower, wallflower Urdu (6) - suranjan, todri surkh, todri zard, todri-surkh, todrisurkha, tudri (surkh/zard)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90bf73a413f0b21a8a50d3b44686982b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90bf73a413f0b21a8a50d3b44686982b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90bf73a413f0b21a8a50d3b44686982b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

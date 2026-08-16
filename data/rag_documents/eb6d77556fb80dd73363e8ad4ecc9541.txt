@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: eb6d77556fb80dd73363e8ad4ecc9541
+Botanical Name: Cytisus scoparius (L.) LINK
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 1 languages. English (7) - broom, broom tops, common broom, european broom, genista, irish broom, scotch broom
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6d77556fb80dd73363e8ad4ecc9541
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6d77556fb80dd73363e8ad4ecc9541
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6d77556fb80dd73363e8ad4ecc9541
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

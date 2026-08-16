@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3981b2632f0bb0909934e098a32fdc4b
+Botanical Name: Rheum spiciforme ROYLE
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Rheum spiciforeme ROYLE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  amlaparni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3981b2632f0bb0909934e098a32fdc4b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1799
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1799.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3981b2632f0bb0909934e098a32fdc4b/xclkon/23a0331d48877870830fdc625ca22953
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3981b2632f0bb0909934e098a32fdc4b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3981b2632f0bb0909934e098a32fdc4b/xclkon/23a0331d48877870830fdc625ca22953
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3981b2632f0bb0909934e098a32fdc4b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

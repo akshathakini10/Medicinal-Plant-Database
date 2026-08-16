@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 855d7daf2f3a30de95a15ee2101c939f
+Botanical Name: Hyssopus officinalis L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. English (1) - hyssop Urdu (5) - zanjibil, zufa khusk, zufah khushk, zufah-i-khushk, zufah-khushk
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855d7daf2f3a30de95a15ee2101c939f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855d7daf2f3a30de95a15ee2101c939f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855d7daf2f3a30de95a15ee2101c939f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jupha
+sanskrit_name: जूफा
+transliteration: jūphā
+ref_drug_name: जूफा
+status: Accepted source
+discussion: Jupha is correlated to this species
+reference: [3]
+
+Identity Record 2
+drug_name: Jurna
+sanskrit_name: जूर्णा
+transliteration: jūrṇā
+ref_drug_name: जूफा
+status: Accepted source
+discussion: Jupha is correlated to this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

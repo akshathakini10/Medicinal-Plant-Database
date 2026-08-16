@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1bcbb18db81db1daaba675e99d1a5114
+Botanical Name: Asphodelus tenuifolius CAV.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Asphodelus fistulosus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. English (2) - onion weed, welsh onion Hindi (2) - cheel, piazi Urdu (1) - burg-i- gundana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bcbb18db81db1daaba675e99d1a5114
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bcbb18db81db1daaba675e99d1a5114/xclkon/7cb8e03528876e23d556b05ce2e435d4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bcbb18db81db1daaba675e99d1a5114
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bcbb18db81db1daaba675e99d1a5114/xclkon/7cb8e03528876e23d556b05ce2e435d4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bcbb18db81db1daaba675e99d1a5114
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

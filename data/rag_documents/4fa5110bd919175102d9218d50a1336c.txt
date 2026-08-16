@@ -1,0 +1,73 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4fa5110bd919175102d9218d50a1336c
+Botanical Name: Phaseolus mungo (L) MANT. var. radiatus L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. Sanskrit (5) - Sanskrit Comments  danie-masha, hurita, masa, masha, mudga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fa5110bd919175102d9218d50a1336c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fa5110bd919175102d9218d50a1336c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Masa
+sanskrit_name: माष
+transliteration: māṣa
+ref_drug_name: माष
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Masa
+sanskrit_name: माष
+transliteration: māṣa
+ref_drug_name: माष
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Masa - prakara
+sanskrit_name: माष प्रकार
+transliteration: māṣa prakāra
+ref_drug_name: माष
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Masa - prakara
+sanskrit_name: माष प्रकार
+transliteration: māṣa prakāra
+ref_drug_name: माष
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

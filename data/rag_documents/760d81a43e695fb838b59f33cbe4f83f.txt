@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 760d81a43e695fb838b59f33cbe4f83f
+Botanical Name: Nepeta cataria L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. English (5) - cat s-play, cataria, catmint, catnep, catnip Urdu (1) - badranj boya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/760d81a43e695fb838b59f33cbe4f83f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/760d81a43e695fb838b59f33cbe4f83f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/760d81a43e695fb838b59f33cbe4f83f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

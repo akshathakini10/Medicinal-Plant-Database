@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0aace821778b8f532c4c28c591637906
+Botanical Name: Physalis alkekengi L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Physalis alkekengi LOUR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 3 languages. English (5) - bladder cherry, chinese lantern, ground cherry, strawberry tomato, winter cherry Sanskrit (1) - Sanskrit Comments  rajaputrika Urdu (3) - hab aknaj, hab kaknaj, hub-i-kaknaj
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0aace821778b8f532c4c28c591637906/xclkon/cbd04d9ba9b8bd16ae5336739f39a26e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0aace821778b8f532c4c28c591637906
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0aace821778b8f532c4c28c591637906/xclkon/cbd04d9ba9b8bd16ae5336739f39a26e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0aace821778b8f532c4c28c591637906
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0aace821778b8f532c4c28c591637906/xclkon/cbd04d9ba9b8bd16ae5336739f39a26e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0aace821778b8f532c4c28c591637906/xclkon/cbd04d9ba9b8bd16ae5336739f39a26e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0aace821778b8f532c4c28c591637906
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

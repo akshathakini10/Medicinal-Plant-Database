@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 864f83f261520afa8e2011d02228a1f3
+Botanical Name: Panicum psilopodium TRIN.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Panicum psilopodium TRIN. var. psilopodium
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. Hindi (1) - kuri Kannada (3) - bilee saame hullu, bili saame hullu, kaadu kari saame hullu Sanskrit (1) - Sanskrit Comments  kuri Tamil (3) - kodaikanai, pattupullu, piva pullu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864f83f261520afa8e2011d02228a1f3/xclkon/6020162f52e9ffded1641b3bf1e8c2cd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864f83f261520afa8e2011d02228a1f3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864f83f261520afa8e2011d02228a1f3/xclkon/6020162f52e9ffded1641b3bf1e8c2cd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kuri
+sanskrit_name: कुरी
+transliteration: kurī
+ref_drug_name: कुरी प्रकार
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Kuri
+sanskrit_name: कुरी
+transliteration: kurī
+ref_drug_name: कुरी प्रकार
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Kuri - prakara
+sanskrit_name: कुरी प्रकार
+transliteration: kurī prakāra
+ref_drug_name: कुरी प्रकार
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Kuri - prakara
+sanskrit_name: कुरी प्रकार
+transliteration: kurī prakāra
+ref_drug_name: कुरी प्रकार
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

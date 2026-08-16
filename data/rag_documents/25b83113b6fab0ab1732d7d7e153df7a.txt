@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 25b83113b6fab0ab1732d7d7e153df7a
+Botanical Name: Commiphora agallocha ENGL.
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Balsamodendron agallocha WIGHT & ARN. Commiphora roxburghii ENGL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 5 languages. Hindi (1) - gogil Kannada (3) - agaru, agilu, guggala Sanskrit (2) - Sanskrit Comments  agaru, koushikaha Tamil (7) - attam, gukkal, gukkulu, kukkula, kungiliyam, kungulu, mai-shakshi Telugu (6) - agaru, bodaniki chettu, bodanki, guggilamu, mahi-sakshi, mahisakshi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a/xclkon/ce996220e8cac4254dd54fbf9d183eab
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a/xclkon/7a7cb97033a5ccabcf3d587e78349955
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a/xclkon/ce996220e8cac4254dd54fbf9d183eab
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a/xclkon/7a7cb97033a5ccabcf3d587e78349955
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25b83113b6fab0ab1732d7d7e153df7a/xclkon/ce996220e8cac4254dd54fbf9d183eab
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

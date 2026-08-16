@@ -1,0 +1,63 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8b3e943eaf551afe69c37b775b63a810
+Botanical Name: Aquilaria malaccensis LAM.,
+Family: Thymelaeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Aquilaria agallocha ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 180 Vernacular names found in 10 languages. English (5) - agarwood, aloewood, calambac, eaglewood, lign-aloes Hindi (1) - agar Kannada (4) - agaru, agaru gandha, agilu gandha, krishnagaru Malayalam (3) - akil, karakil, kayagahru Marathi (2) - agar, agara Sanskrit (32) - Sanskrit Comments  agaru, agnikashtha, aguru, aguruh, akil, anaryaka, asara, bhringaja, jishvarupa, jongaka, jongakah, jongakaichhila, jonk, kalaguru, kalaloha, kashthaka, krimigandha, krimija, krimijagandha, krishna, krsnaguruh, laghu, loha, lohakhya, maliyaka, pataka, pravara, rajarahkalijya, rajarha, vanshika, varnaprasadana, yogaja Tamil (115) - agalicandana, agar, aggalichandana, agil, akar, akaru, akil, akil kattai, akilmaram, akircilai, akirkattai, akkakalam, akkil, akku, akkuru, akuru, aracakam, arakkam, arakkam 1, arakkam@, arukam, cakatuntam, cakatuntam#, cakatuntam@, cakatuyil, cakatuyilmaram, catatuntam, cikalokam, cilokam, cipiyam, cirivil, ciriyavitamaram, citam, conkam, cukacaritam, ilakal, ilaku, ilatavi, ilatavi#, ilatavi@, ilatavimaram, iracarukam, kakatuntam, kalecam, kaleyam, kaleyam 1, kaleyamaram, kalimalakam, kalimankam, kalimayikam, kalomam, kalomavvi, kamaracamaram, kamaram, kamaram 1, kapaterikam, karaincal, karaincan, karanical, karkantam, karkantamaram, karkaru, karkaru 1, kattakam, katteri, katteri 1, kavai, kavaikkal, kavaikkalmaram, kavikkalmaram, kayam, kayaperikam, kayaperikamaram, kayaterikam, kayateriyam, kirumicamtai, kiruttuvam, kirutuvam, krishnagaru, krsnaguru, marali, marali 1, murukamaram, murukku, murukku 1, pacarukam, paruciyam, paruciyam 1, pirakaram, pirakaram#, pirakaram$, pirakaram@, pirakaricam, pirakarikam, porika, pulil, punil, purarika, purika, purinakar, putikam, putikaram, tuti, tuti 1, tuticcopitam, tuticcopitamaram, vanacananam, vanacantanam, vanacantanam 1@, vanacantanam#, vancantanam, varanppiracatanam, varnappiracatanam, varnapracatanam, vilam Telugu (5) - agaru, agaru chettu, agru, krishna agaru, krishnagaru Tibetan (2) - a ga ru, a ka ru nag po Urdu (11) - agar, agar hindi, agar hindi saida, agar nim kofta, agar pisa hua, ood, ood hindi, ood hindi (agar), ood hindi saida, roghan ood, udghargi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 5663
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/5663.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810/xclkon/ab3a820d2c99245939f5efc1bd65b84b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810/xclkon/ab3a820d2c99245939f5efc1bd65b84b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810/xclkon/ab3a820d2c99245939f5efc1bd65b84b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810/xclkon/ab3a820d2c99245939f5efc1bd65b84b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810/xclkon/ab3a820d2c99245939f5efc1bd65b84b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b3e943eaf551afe69c37b775b63a810
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Agaru
+sanskrit_name: अगरु
+transliteration: agaru
+image_urls: https://www.medicinalplants.in/slokaimages/147/147_2.jpg https://www.medicinalplants.in/slokaimages/147/147_3.jpg https://www.medicinalplants.in/slokaimages/147/147_4.jpg
+ocr_text: कटुतिक्तोष्णमगुरु स्निग्धं वातकफापहम् श्रुतिनेत्ररुजं हन्ति माङ्गल्यं कुष्ठनुत् परम् (Dhn) Agaru is katu, tikta in rasa, usna in veerya, snigdha in guna, vata kapha hara, sruta netraruja hara, mangalya, kustha hara param अर्कागुरुगुडूंचीनां तिक्तानाम् उष्णमुच्यते (ch su २६ ७५) Arka, agaru and tikta are usna in veerya अगुरुष्णं कटु तिक्तं तीक्ष्णं च पित्तलम | लघु कर्णक्षिरोगघ्नं शीतवातकफप्रणुत्| | तत्तु लोहवद् वारि मज्जति | अगुरुप्रभवः स्नेहः कृष्णागुरुसमा मतः (Bpn) Agaru is katu, tikta in rasa, laghu in guna, Ushna in veerya, tvacya, increases pitta, alleviates vata, kapha, cures karna aksi roga Krsna is gunadhika, sinks in water like Ioha and is sneha. त्वच्यं गुणाधिकं कृष्णं

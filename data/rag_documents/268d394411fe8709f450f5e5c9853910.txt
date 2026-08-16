@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 268d394411fe8709f450f5e5c9853910
+Botanical Name: Nepeta hindostana (ROTH) HAINES
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Nepeta ruderalis HOOK.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. Hindi (1) - billilotan Urdu (5) - arq badranj boya, badran boya, badranj boya, badranjboya, khushk badranj boya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/268d394411fe8709f450f5e5c9853910/xclkon/3d7ada2252031439f25198593ce9f9d8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/268d394411fe8709f450f5e5c9853910
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/268d394411fe8709f450f5e5c9853910/xclkon/3d7ada2252031439f25198593ce9f9d8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/268d394411fe8709f450f5e5c9853910
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/268d394411fe8709f450f5e5c9853910/xclkon/3d7ada2252031439f25198593ce9f9d8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

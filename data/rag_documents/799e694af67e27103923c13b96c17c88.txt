@@ -1,0 +1,103 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 799e694af67e27103923c13b96c17c88
+Botanical Name: Trapa natans L.
+Family: Trapaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Trapa bicornis L. F. Trapa bispinosa ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 93 Vernacular names found in 9 languages. English (8) - horn-nut, jesuit s nut, ling nut, saligot, singhara nut, water caltrops, water chestnut, water chestnut or singhara nut Hindi (14) - hingada, hingoda, karimpolam, pani-patasa, pani-phal, siagharah, simghada, simghara, singada, singara, singhara, singharah, singhora, singoda Kannada (8) - mullu kombu balli, mullu kombu beeja, mullukombu beeja, neeru aakrotu, neeru acrotu, singaara beeja, singara, singhaade Malayalam (3) - karimpolam, panover-tsjeraua, vankottakkaya Marathi (4) - shingada, singada, singari, singhaada Sanskrit (27) - Sanskrit Comments  ingataka, jalakantaka, jalaphala, jalaphalam, jalashaya, jalasuchi, jalavalli, kshirashukla, paniyaphala, sanghatica, shringakanda, shringamula, shringaruha, shringata, shrni, shukladugdha, sringataka, srngata, srngatah, srngataka, srngatakah, srngatakam, trika, trikonaphala, trikota, varikantaka, varikubshaka Tamil (18) - cimkhara, cinkara, cinkara-k-kottai, cinkarak kottai, cinkarakkottai, cinkari, kuperakam, mulikkay, mullikkay, panni-mondan-kizhangu, pannimontan kilanku, pannimonthan kizhangu, pannimonthan-kizhangu, panri-mottai, pauri-mattaisal, singara, singarakottai, somghara Telugu (7) - kubjakam, kubjakamu, kubyakam, pandi gadda, pandi-gadda, parike gadda, parike-gadda Urdu (4) - singara, singhara, singhara khushk, singhara khusk
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/5067dba0b11cc4c27a497bd99e16be7c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/8e0cb253d81f0e515da8f9b4fb5e8187
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/5067dba0b11cc4c27a497bd99e16be7c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/8e0cb253d81f0e515da8f9b4fb5e8187
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/5067dba0b11cc4c27a497bd99e16be7c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/8e0cb253d81f0e515da8f9b4fb5e8187
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/5067dba0b11cc4c27a497bd99e16be7c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/8e0cb253d81f0e515da8f9b4fb5e8187
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/6cd791fd69e9053cf6cbcb60d3adf819
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/799e694af67e27103923c13b96c17c88/xclkon/5067dba0b11cc4c27a497bd99e16be7c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Srngataka
+sanskrit_name: श्रृङ्गाटक
+transliteration: śrṛṅgāṭaka
+ref_drug_name: श्रृङ्गाटक
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Srngataka
+sanskrit_name: श्रृङ्गाटक
+transliteration: śrṛṅgāṭaka
+ref_drug_name: श्रृङ्गाटक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Srngatika
+sanskrit_name: श्रृङ्गाटिक
+transliteration: śrṛṅgāṭika
+ref_drug_name: श्रृङ्गाटक
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 4
+drug_name: Srngatika
+sanskrit_name: श्रृङ्गाटिक
+transliteration: śrṛṅgāṭika
+ref_drug_name: श्रृङ्गाटक
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

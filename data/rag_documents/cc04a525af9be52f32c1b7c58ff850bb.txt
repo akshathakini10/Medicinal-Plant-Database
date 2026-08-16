@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cc04a525af9be52f32c1b7c58ff850bb
+Botanical Name: Stephania glabra (THUNB.) MIERS.
+Family: Menispermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Hindi (3) - ganeeth, gindaru, rajapatha Sanskrit (2) - Sanskrit Comments  patha, rajapatha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc04a525af9be52f32c1b7c58ff850bb
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1977
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1977.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc04a525af9be52f32c1b7c58ff850bb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Patha - jati
+sanskrit_name: पाठा जाति
+transliteration: pāṭhā jāti
+ref_drug_name: पाठा जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Patha - jati
+sanskrit_name: पाठा जाति
+transliteration: pāṭhā jāti
+ref_drug_name: पाठा जाति
+status: Most probable
+discussion: Two types of 'Patha' are mentioned in Caraka Samhita; The variety with big leaves and thick stems is most probably correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

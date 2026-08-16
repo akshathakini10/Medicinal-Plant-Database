@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 39d4c3c3e9cd929ca619edfeea80012b
+Botanical Name: Uvaria micrantha (A.DC.)HOOK.F.THOMS.
+Family: Annonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cyathostemma micranthum J.SINCLAIR
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39d4c3c3e9cd929ca619edfeea80012b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39d4c3c3e9cd929ca619edfeea80012b/xclkon/74739fe7e90599c6b8d13375458b2a68
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39d4c3c3e9cd929ca619edfeea80012b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

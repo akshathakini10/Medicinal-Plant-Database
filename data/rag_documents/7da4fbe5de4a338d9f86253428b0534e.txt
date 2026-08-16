@@ -1,0 +1,107 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7da4fbe5de4a338d9f86253428b0534e
+Botanical Name: Curcuma angustifolia ROB.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 64 Vernacular names found in 8 languages. English (2) - bombay arrowroot, east indian arrowroot Hindi (5) - tavakhira, tikar, tikhar, tikhur, tikora Kannada (5) - kaadu arrow root, koove-hittu, koovehittu, kove gida, kove hittina gida Malayalam (3) - koova, kuva, kuva-kizhanna Marathi (5) - tavakeera, tavakhira, tavakila, thavakheera, thavakila Sanskrit (18) - Sanskrit Comments  gavayodbhava, godhumaja, pansarocana, payakshira, pishtika, talakshira, talasambhuta, tandulodbhava, tavakshira, tavakshiri, tavaksira, tavaksiri, tuga, tugaksiri, tuka, vamsi, vanshi, yavaja Tamil (21) - ararut, ararut-kizhangu, ararutkilangu, artimavu, cataneciyacceti, katterumai 1, kattukuvai, koodmdoo, koogaineer, kookai, kua, kukai niru, kukai-k-kilanku, kukaikki, kukaikkilanku, kukainiru, kuva, kuvaik kizangu, kuvaikkilanku, kuvakkilanku, kuvamavu-kizhangu Telugu (5) - ararut-gaddalu, ararutgaddalu, artimaavu, jiguru dumpa, kookai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7da4fbe5de4a338d9f86253428b0534e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 702
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/702.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7da4fbe5de4a338d9f86253428b0534e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7da4fbe5de4a338d9f86253428b0534e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7da4fbe5de4a338d9f86253428b0534e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7da4fbe5de4a338d9f86253428b0534e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bamsalocana - kantasa
+sanskrit_name: बंशलोचन कांटास
+transliteration: baṃśalocana kāṃṭāsa
+ref_drug_name: बंशलोचन मानवेल
+status: Market source
+discussion: It is prepared from this species
+reference: [2]
+
+Identity Record 2
+drug_name: Bamsalocana - manavel
+sanskrit_name: बंशलोचन मानवेल
+transliteration: baṃśalocana mānavela
+ref_drug_name: बंशलोचन मानवेल
+status: Market source
+discussion: It is prepared from this species
+reference: [2]
+
+Identity Record 3
+drug_name: Tavaksiri
+sanskrit_name: तवक्षीरी
+transliteration: tavakṣīrī
+ref_drug_name: तवक्षीरी
+status: Accepted source
+discussion: It is the starch seperated from the rhizomes of this species
+reference: [1]
+
+Identity Record 4
+drug_name: Tugaksiri
+sanskrit_name: तुगाक्षीरी
+transliteration: tugākṣīrī
+ref_drug_name: तुगाक्षीरी
+status: Substituted source
+discussion: Tugaksiri is mentioned in the Brhatrayis but considering its references its popularity decreased in later periods and a new plant Tavaksiri was taken in its place; Commenators have identified it with Vamsalocana which creates a belief that Tugaksiri is Vamsalocana; Astanga sangraha describes the properties of Tavaksiri after Vamsalocana; So there is a possibility that due to non availability of Tugaksiri, its substitute Tavaksiri was taken which is identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Tugaksiri
+sanskrit_name: तुगाक्षीरी
+transliteration: tugākṣīrī
+ref_drug_name: तुवक्षीर
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 6
+drug_name: Tuvaksira
+sanskrit_name: तुवक्षीर
+transliteration: tuvakṣīra
+ref_drug_name: तुगाक्षीरी
+status: Substituted source
+discussion: Tugaksiri is mentioned in the Brhatrayis but considering its references its popularity decreased in later periods and a new plant Tavaksiri was taken in its place; Commenators have identified it with Vamsalocana which creates a belief that Tugaksiri is Vamsalocana; Astanga sangraha describes the properties of Tavaksiri after Vamsalocana; So there is a possibility that due to non availability of Tugaksiri, its substitute Tavaksiri was taken which is identified with this species
+reference: [5]
+
+Identity Record 7
+drug_name: Tuvaksira
+sanskrit_name: तुवक्षीर
+transliteration: tuvakṣīra
+ref_drug_name: तुवक्षीर
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

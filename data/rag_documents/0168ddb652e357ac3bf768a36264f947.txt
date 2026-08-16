@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0168ddb652e357ac3bf768a36264f947
+Botanical Name: Phyla nodiflora (L.) GREENE
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lippia nodiflora MICH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 94 Vernacular names found in 8 languages. Hindi (9) - bakkan, bhu-kokra, bhuiokra, chota-okra, jal - butti, jal pipali, jalapapili, jalpapli, ludra Kannada (8) - jala pippali, kere hippali, neela hippali, neeru hippali, neeru pippali, nela hippali, nela-hippali, nelahippali Malayalam (4) - ana-coluppa, kattuttippali, katu-tippali, nirtippali Marathi (6) - adali, jalapimpali, ratalio, ratolia, ratoliya, vekkan Sanskrit (16) - Sanskrit Comments  agnijvala, bahushikha, chitrapatri, jalakarna, jalapippali, langali, maharashtri, matsyagandha, pranada, sakuladani, shakuladani, sharadi, toyavallari, trinashita, vasaka, vashira Tamil (45) - btutalai, caivam3, calakirakani, calakkiranitipanam, cempucattumuli2, cetitta, civakarnanki, ilatcumi2, kampanatakarai, kattuttippili, kirumutalatai, kotikkaccirukam, mulakalakkoti, mulakalam, nakacinku, navati, nilappippili, perumpotutalaikkoti, podootalei, podutalai, podutalei, poduthalai, poduthalai kudineer, poduthuvalai, ponnankani, potkalam, potta, potudalai, potutalai, potutilai, potuttalai, purcatam, putatalai, talaibodam, talaipotakam, talaipotam, talamputam, talapotam, tipani2, tosakkinakunmanacini, toyapanam, toytalai, toytalaikkoti, vannikai, vannikaikkoti Telugu (5) - bokenaku, bokkena, gajapippala-kada, mosalipappu, neeru pippali kada Urdu (1) - bukun booti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/0b4f44f6abff15eda1c022e0386dbb8a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1639
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1639.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/0b4f44f6abff15eda1c022e0386dbb8a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/0b4f44f6abff15eda1c022e0386dbb8a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/0b4f44f6abff15eda1c022e0386dbb8a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/93433ae3241998392139c08cf476ecee
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0168ddb652e357ac3bf768a36264f947/xclkon/0b4f44f6abff15eda1c022e0386dbb8a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Langali
+sanskrit_name: लाङ्गली
+transliteration: lāṅgalī
+image_urls: https://www.medicinalplants.in/slokaimages/803/803_1.jpg https://www.medicinalplants.in/slokaimages/803/803_2.jpg https://www.medicinalplants.in/slokaimages/803/803_3.jpg
+ocr_text: लाङ्गली कटुरुष्णा च कफवातविनाशिनी | तिक्ता सरा श्वयथुगर्भशल्यव्रणापहा न( IDhnl Langali is katu, tikta in rasa, sara in guna, usna in veerya, destroys kapha ana vata, cures svayathu, garbha salya ana vrana. कलिहारी कटूष्णा च कफवातनिकृन्तनी | गर्भन्तः शल्यनिष्कासकारिणी सारिणी परा| | (ग.नि) Kaliahari is katu in rasa, usna in veerya, alleviates kapha and vata garbhanta, salya niskasakarini (removes substances , sarini para. foriegn कलिहारी सरा कुष्ठशोफर्शोव्रणशूलजित् सक्षारा श्लेष्मजित् लघ्वी पित्तला गर्भपातिनी ( IBpn) Kalihari is sara in guna, cures kustha, sopha, arsa, vrana and sula. Its Ksara is laghu Buna, alleviates slesma, increases pitta ana garbhapatani.

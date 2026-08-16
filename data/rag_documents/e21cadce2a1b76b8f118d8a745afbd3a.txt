@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e21cadce2a1b76b8f118d8a745afbd3a
+Botanical Name: Rumex crispus L.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 7 languages. English (1) - yellow dock Hindi (1) - chukkah Kannada (1) - pdlivanchi Sanskrit (2) - Sanskrit Comments  amla-vedasa, shula-vedhi-chukra Tamil (1) - suk-gu-kire Telugu (2) - kuraku, shukku Urdu (2) - tukhm hummaz, tukhm hummaz baryan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e21cadce2a1b76b8f118d8a745afbd3a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e21cadce2a1b76b8f118d8a745afbd3a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e21cadce2a1b76b8f118d8a745afbd3a
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e21cadce2a1b76b8f118d8a745afbd3a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

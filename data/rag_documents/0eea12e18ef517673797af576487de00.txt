@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0eea12e18ef517673797af576487de00
+Botanical Name: Ipomoea mauritiana JACQ.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Convolvulus paniculatus L. Ipomoea digitata L. Ipomoea paniculata (L.) R.BR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 142 Vernacular names found in 8 languages. Hindi (5) - bhilaykand, bhuyikohada, bidarikand, bilai-khand, bilaikand Kannada (19) - bhoochakra gedde, bhoomi chakra gedde, bhoomi chakragadde, bhuja gumbala, bhujagumbala, bhumicakragadde, bhumicakrigadde, bhumichakragadde, bujagumbala, guddagenasu, nadakumbala, nela-kumbala, nelagudda genasu, nelagumbala, nelagummadi, nelakumbala, nelakumbudu, vidaarigadde, vidari Malayalam (10) - ancilattali, motalkanta, mothalkanta, mutalakkanta, mutalakkilannu, pal-modecca, palmodecca, palmodikka, palmutakku, palmutukku Marathi (7) - bhooyikohala, bhui-kohala, bhumy-kumvali, doodhbhooyi kohada, hadandaa kaanda, pattana, vidaarikand Sanskrit (33) - Sanskrit Comments  bhukshmandi, bhumikashmanda, bhumikushmanda, gajavajipriya, gajeshta, gandhaphala, ikshugandha, kroshtri, ksheera-kanda, kshirakhanda, kshirashukla, kshiravalli, kshiravidali, ksiravalli, ksiravidari, mahaveshta, payasvini, shreshtakanda, shrigalika, shukla, sita, svadukanda, svadulata, triparna, vajivallabha, vidali, vidari, vidarika, vrashavalli, vrikshavalli, vrishyakanda, vrishyavallika, vrishyavardhini Tamil (41) - cattivattu, elaiccakitam, itcukantam1, kantapalai1, kappalvallikkilanku, nakattayir, nelli-kumbala, nilaippucini, nilakkaliyanapucani, nilappoosani, nilappucanai, nilappucani, nilappucani@, nilappuchani, nilappucini, nilappusini, nilapusini, nompukayacceti, nompukayam, palmodha kilang, palmodikka, palmodikkay, palmotikka, palmotikkam, palmotikkay, palmudamgi, palmudangi, palmutanki1, palomatikka, phal-modecca, phalmodika, porrani, porranikkoti, puccarkkaraikkilanku, puccarukkaraikkilanku, pucharkkaraikkilangu, pumikucumantam, pumikulmantam, tampiravayaccattumuli, valli, valli 2 Telugu (25) - bhucakragadda, bhuchakragadda, boochakra gadda, chirigummudu, chirugummudu, cirugummudu, devakaanchanamu, devakancanamu, devakanchanamu, devakanjanamu, gummudu, karkaarukamu, karkarukamu, matta-paltiga, mattapaltiga, mettapaalathige, mettapalatige, nallanelagummu, nallanelagummudu, nelagummadi, nelagummudu, nelakumbudu, paalamodikku, palamodikku, palmodikku Tibetan (2) - bi da ri (d), bi tta ra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1198
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1198.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/f5543b5e4644054bd269345ab16c1fa1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/f5543b5e4644054bd269345ab16c1fa1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/f5543b5e4644054bd269345ab16c1fa1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/f5543b5e4644054bd269345ab16c1fa1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/637fda7ad883b696da4f83dfbb28faad
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0eea12e18ef517673797af576487de00/xclkon/47f5ace321b1ada6084eee82a017716f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

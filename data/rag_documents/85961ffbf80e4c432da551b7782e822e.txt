@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 85961ffbf80e4c432da551b7782e822e
+Botanical Name: Aralia quinquefolia DECNE. & PLANCH.
+Family: Araliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  laksmana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85961ffbf80e4c432da551b7782e822e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85961ffbf80e4c432da551b7782e822e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Most probable
+discussion: Taken into consideration as Laksmana as this species posseses similar fertility efficiency
+reference: [1]
+
+Identity Record 2
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Suggested source
+discussion: With regard to its properties, Thakur Balwant Singh has correlated 'Laksmana' to many species; Aralia quinquefolia is one of the suggested species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

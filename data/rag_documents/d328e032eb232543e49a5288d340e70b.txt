@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d328e032eb232543e49a5288d340e70b
+Botanical Name: Allium cepa L.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cepa alba RENAULT
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 168 Vernacular names found in 10 languages. English (2) - common onion, onion Hindi (7) - kanda, kando, piaz, piyaj, piyaz, pyaj, pyaz Kannada (7) - eerulli, irulli, kunbali, neerulli, nirulli, ullagaddi, vengayam Malayalam (5) - bawang, ceriyaulli, cuvannulli, eerulli, ira-vengayam Marathi (4) - kamdo, kanda, kandaa, piyav Sanskrit (22) - Sanskrit Comments  dirghapatra, durgandha, latarka, madhujam, mahakanda, mukhadusaka, nripakanda, nripapriya, nripavhaya, nripeshtha, palandu, palanduh, palanduhu, rajapalandu, rajapriya, rajeshtha, raktakanda, rochaka, siktha, sukandaka, yavaneshtha, yavanesta Tamil (102) - acam2, aleriyam2, aritarapasakam, cukantam#, cukantam@, cukantanam, cukantaram, cukantarapputu, cukarantam, cukkirantam, cumirtam2, eeravengayam, eerulli, enkalapputu, enkanapputu, etcam, ira-vengayam, irakayam, irakkacciyam, irakucci, irakuccipputu, irakuccittam, irakucittam, irankayam, iratam2, iravengayam, iravenkayam, iravenkayam#, iravenkayam@, iravulli, irulli, kaccanakayam, kaccankayam, kantaculikam, kantam, kapalakini, kapalakinipputu, karam3, katikaropi, kayam, kayam3, kayatari, kayattiri, kecaram5, kuranacam, kutam2, kutamakayam, mannai 2, matukkamam, mesakaputpam, mukantakam, mukattusanam, mukatusikam, mullittalati, muttuppuvali, naimamicam, naimamicappuntu, nattirulli, niccayam, nicciyam1, nirulli, palan@, palankayam, palantu, palantu 1, palantukam, pantu, pantu@, perullattali, racakam, racakam#, recanam, tati, tirkkapattira2, tirkkapattirakam3, tirkkapattiram2, titcanakantakam, titcanakantakam@, titcanakantam, titcanakantam@, titcanakkantakayam, titcanakkantam, travenkayam, travulli, turturumam, ukkiranamam, ullegaddi, ulli, vallimatarai, vekuracakam, vekuracakappuntu, vella-vengayam, vellai venkayam, vellavengayam, vengayam, venggayum, venkaayam, venkan, venkayam, venkayam 1, venkayappuntu, yiravenkayam Telugu (10) - erra ulligadda, erragaddalu, neermulli, neerulli, nirulli, ulli gaddalu, vuligaddalu, vulligaddalu, vullipayalu, yerragadda Tibetan (3) - ba la nda (p), pa la na da (d), pa la nda Urdu (6) - piyaz, piyaz safaid, piyaz taza, pyaz, tukhm piyaz, tukhm-i-piyaz
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b/xclkon/e411f80e482a0978683cd1c026140433
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b/xclkon/e411f80e482a0978683cd1c026140433
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b/xclkon/e411f80e482a0978683cd1c026140433
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b/xclkon/e411f80e482a0978683cd1c026140433
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b/xclkon/e411f80e482a0978683cd1c026140433
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b/xclkon/e411f80e482a0978683cd1c026140433
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d328e032eb232543e49a5288d340e70b/xclkon/e411f80e482a0978683cd1c026140433
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Palandu
+sanskrit_name: पलाण्डु
+transliteration: palāṇḍu
+ref_drug_name: पलाण्डु
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Palandu
+sanskrit_name: पलाण्डु
+transliteration: palāṇḍu
+ref_drug_name: पलाण्डु
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Palandu
+sanskrit_name: पलाण्डु
+transliteration: palāṇḍu
+image_urls: https://www.medicinalplants.in/slokaimages/80/80_1.jpg https://www.medicinalplants.in/slokaimages/80/80_2.jpg https://www.medicinalplants.in/slokaimages/80/80_3.jpg https://www.medicinalplants.in/slokaimages/80/80_4.jpg https://www.medicinalplants.in/slokaimages/80/80_5.jpg
+ocr_text: श्लेष्मलो मारुतघ्नश्च पलाण्डुः स च पित्तहृत् | आहारयोगी बल्यश्च गुरुः बल्योड्य रोचनः | | चरक, सू.अ २७) Palandu is guru in guna, increases slesma, alleviates maruta and pitta, is aharayogi, balya ana rocanam बलावहः पित्तकरो अथ किञ्चित् पलाण्डुरग्निं च विवर्धयेच्च स्निग्धो रुचिष्यः स्थिरधातुकर्त्ता बल्योडथ मेधाकफपुष्टिदश्च | | स्वादुर्गुरुः शोणितपित्तशस्तः सपिच्छिलः क्षीरपलाण्डुरुक्तः| | (सुश्रुत, सू.अ ४६) Palandu is svaau in rasa, guru, snigdha, picchilam in guna, increases pitta, is balavaha, agni vivardhana, rucya, sthiradhatukaraka, balya, medha kapha pusti karaka, sonita pitta sasta पलाण्डुस्तद्गुणो नान्यो विपाके मधुरस्तु सः | कफं करेति नो पित्तं केवलोडनिलनाशनः| | पलाण्डुः कटुको बल्यः कफपित्तहरो गुरुः वृष्यश्च रोचनः स्निग्धो वान्तिदोषविनाशनः IRjn) Palandu is maahura in paka, increases kapha and pittam, and destroys vata onl y/ Palandu is katu in rasa, Buru, snigaha in guna, balya, vrshya, rocana , alleviates kapha, pitta and vanti dosha. स्वादुः पाके रसेडनुष्णः कफकृन्नाति पित्तलः हरते केवलं वातं बलवार्यंकरो गुरुः T IBpn) Palandu is svadu in rasa and paka, guru in guna anusnam, kapha na Kkaraka, increases pitta, destroys vata only, is bala veerya karaka. बीजं पलाण्डोः वृष्यं स्यात् दन्तकीटप्रमेहजित् T INir) Palandu bija is vrshya, alleviates danta, kita ana prameha

@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 845ee1bf17d379a272f2ff77ef4960a5
+Botanical Name: Geniosporum prostratum (L.) BENTH.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Ocimum prostratum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. Malayalam (1) - katu-tumba Marathi (1) - bhumi-tulas Tamil (1) - nilattulaci
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/845ee1bf17d379a272f2ff77ef4960a5/xclkon/8448d7fdd121127b4b760b38fe5db952
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/845ee1bf17d379a272f2ff77ef4960a5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/845ee1bf17d379a272f2ff77ef4960a5/xclkon/8448d7fdd121127b4b760b38fe5db952
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/845ee1bf17d379a272f2ff77ef4960a5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/845ee1bf17d379a272f2ff77ef4960a5/xclkon/8448d7fdd121127b4b760b38fe5db952
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

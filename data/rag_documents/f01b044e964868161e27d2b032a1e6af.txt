@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f01b044e964868161e27d2b032a1e6af
+Botanical Name: Urena lobata L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 60 Vernacular names found in 8 languages. English (4) - aramina fibre, congo jute, cousin mahoe, guaxima Hindi (13) - bachata, bachit, bachita, bala-bhed, brachta, chatkura, dudh-khal, kapasi, kunjia, lapetua, lotloti, unga, vilaiti san Kannada (9) - baralu kaddi mara, bekkina hejje gida, dodda bende, dooda bende, hamsapaadi, kaadu thutthi, otte, otte mara, vatta Malayalam (8) - kuruntotti, ottey, udiram, uram, uran, uren, vatti, vatto Marathi (7) - rantupkada, rantupkuda, tupkato, vana-bhenda, vanabendha, vanbhendi, wagdau bhendi Sanskrit (4) - Sanskrit Comments  atibala, bala, nagabala, vanabhenda Tamil (7) - ottatti, ottatti 1, ottattutti, ottu thuththi, ottukututti, ottuttutti, ottuttutti 1 Telugu (8) - nalla benda, nallabenda, padanikaada, pedda benda, peddabena, peddabenda, piliyamankena, vana benda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f01b044e964868161e27d2b032a1e6af
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f01b044e964868161e27d2b032a1e6af
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f01b044e964868161e27d2b032a1e6af
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f01b044e964868161e27d2b032a1e6af
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nagabala
+sanskrit_name: नागबला
+transliteration: nāgabalā
+ref_drug_name: नागबला
+status: Most probable
+discussion: This species may be identified as Nagabala and used in its place
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nagabala
+sanskrit_name: नागबला
+transliteration: nāgabalā
+image_urls: https://www.medicinalplants.in/slokaimages/1483/1483_1.jpg https://www.medicinalplants.in/slokaimages/1483/1483_2.jpg https://www.medicinalplants.in/slokaimages/1483/1483_3.jpg
+ocr_text: गांगेरुकी मधुराम्ला कषायोष्णा गुरुस्तथा कटुस्तिक्ता च वातघ्नी व्रणपित्तविकारजित IDhn) Gangeruki is madhura, amla , kashaya, katu, tikta in rasa, guru in guna usna in veerya, alleviates vata vrana and pitta vikara मधुराम्ला नागबला कषायोष्णा गुरुस्तथा कण्डूतिकुष्ठवातघ्नी व्रणपित्तविकारजित् IRjn) Nagabala is madhura , amla, kashaya in rasa, guru in guna, usna in veerya, cures kandu, kustha, vata, vrana and pitta vikara गांगेरुकीफलं रूक्षं कषायं स्वादु वातलम्| लेखनं स्तम्भनं शीतं विबन्धाध्मानकृद् गुरु १ (ग.नि) Gangeruki phala is ruksa, kashaya, svadu in rasa, guru in guna, sita in veerya, increases vata, is lekhana, stambhana, causes vibandha ana adhmana

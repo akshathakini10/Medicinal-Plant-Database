@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1b7ff6980b812e3d97d3a2b7bccd3b70
+Botanical Name: Breynia retusa (DENNST.) ALSTON
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Breynia patens (ROB.) BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 7 languages. Hindi (5) - kalamahomad, kambhi, kedakamboi, khedakamboi, lapano Kannada (2) - bilisuli, kaamboji Malayalam (4) - parinnirouri, paruniruri, perin-nirouri, peruniruri Marathi (1) - kalichikali Sanskrit (6) - Sanskrit Comments  bahupraja, bahupushpa, bahupuspa, devadaru, kamboji, kumarbeeja Tamil (1) - nn Telugu (5) - davadari, dawadaree, devadaari, devadari, kintaipude
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b7ff6980b812e3d97d3a2b7bccd3b70
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b7ff6980b812e3d97d3a2b7bccd3b70/xclkon/0d16479ace53a50e75aac8fea3834be7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b7ff6980b812e3d97d3a2b7bccd3b70
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b7ff6980b812e3d97d3a2b7bccd3b70/xclkon/0d16479ace53a50e75aac8fea3834be7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b7ff6980b812e3d97d3a2b7bccd3b70
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

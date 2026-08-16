@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e747c881113cc8e65771a5019dffc52c
+Botanical Name: Polygala chinensis L.
+Family: Polygalaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Polygala telephioides WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 5 languages. Hindi (1) - meradu Kannada (4) - belesoppu, bili cheeni kanigalu, ghuntaani, meradu Marathi (1) - negli Tamil (4) - ciriya nankai, ciriya nantai, ciriyanankai, perianangai Telugu (1) - nelajanumu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e747c881113cc8e65771a5019dffc52c/xclkon/71f16a089651392789eb4f8aa9bf3b7e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e747c881113cc8e65771a5019dffc52c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e747c881113cc8e65771a5019dffc52c/xclkon/71f16a089651392789eb4f8aa9bf3b7e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e747c881113cc8e65771a5019dffc52c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e747c881113cc8e65771a5019dffc52c/xclkon/71f16a089651392789eb4f8aa9bf3b7e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 859dd59f42ed55fa20aa69926c77a51a
+Botanical Name: Berberis asiatica ROB.
+Family: Berberidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 45 Vernacular names found in 4 languages. Hindi (13) - dar-chob, dar-hald, daruhaldi, kasmal, kemal, kemal/kasmal, kilmora, kingora, kingori, rasaunt, rasvat, sumlu, zarishk Marathi (1) - daruhaldi Sanskrit (30) - Sanskrit Comments  daru, daruharidra, darunisa, darunisha, darupita, darvi, dvitiyabha, haimavati, haridra, hemakanti, hemkranta, kaliyaka, kapitaka, karkatini, karnavati, kashtha, kashtharajani, katankateri, marmmari, nirdishta, pacampaca, pachampacha, parjani, parjaniya, pita, pitadaru, pitadru, pitatvaka, pitika, sthirraga Tamil (1) - ucikkala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 310
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/310.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/859dd59f42ed55fa20aa69926c77a51a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Daruharidra
+sanskrit_name: दारुहरिद्रा
+transliteration: dāruharidrā
+ref_drug_name: दारुहरिद्रा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Daruharidra - prajati
+sanskrit_name: दारुहरिद्रा प्रजाति
+transliteration: dāruharidrā prajāti
+ref_drug_name: दारुहरिद्रा प्रजाति
+status: Market source
+discussion: This species is a variety of B.aristata and correlated to Daruharidra
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Daruharidra
+sanskrit_name: दारुहरिद्रा
+transliteration: dāruharidrā
+image_urls: https://www.medicinalplants.in/slokaimages/229/229_1.jpg https://www.medicinalplants.in/slokaimages/229/229_2.jpg https://www.medicinalplants.in/slokaimages/229/229_3.jpg https://www.medicinalplants.in/slokaimages/229/229_4.jpg https://www.medicinalplants.in/slokaimages/229/229_5.jpg
+ocr_text: तिक्ता दारुहरिद्रा स्याद्रूक्षोष्णा व्रणमेहजित्| कर्ण-्नेत्र मुखोद्भूतां रुजं कण्डूञ्च नाशयेत्| | (Dhn) Daruharidra is Tlkta Ruksa, Usna Vrana mehajit Karna netra mukhodbhuta ruja kandu hara तिक्त दारुहरिद्रा तु कटूष्णा व्रणमेहनुत्| फण डूविसर्पत्वग्दोषविषकर्णाक्षिदोषनुत् IRinl Daruharidra is Tikta Katu in rasa Usna in virya vrana meha hara Kandu visarpa tvag dosha visha karna aksi dosha hara दार्वी विशेषेण कफाभिष्यन्दनाशिनी |Rjv) Darvi is specifically Kaphabhishyanda nasani. रसांजनं हिमं तिक्तं रक्तपित्तकफापहम हिमाश्वासहरं वर्ण्य मुखरोगविषापहम् / IDhnl Rasanjana is Hima Tikta in rasa rakta pitta kapha hara Hidhma svasa hara Varnya Mukha roga visa hara रसांजनम् नेत्रयोः परमं रसांजनम् कटु श्लेष्मविषनेत्रविकारनुत् E उष्णं रसायनं तिक्तं छेदनं व्रणदोषहृत् Rasanjana is Netrya It is Katu Slesma visa netra vikara hara Usna in Rasavyana Tikta in rasa Chedana Vrana dosha hara हितम्| ४| (Bpnl para virya

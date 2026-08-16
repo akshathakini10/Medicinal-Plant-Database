@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 083045b34fb297d9f9c7ec281604a98f
+Botanical Name: Albizia amara (ROB.) BOIVIN
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Mimosa amara ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 111 Vernacular names found in 6 languages. Kannada (26) - balukambi, beelkambi, belkambi, belkhaambi, belkhambi, bilatti, bilkambi, chigare, chigari, chiguru, chugalu, chujjallu, chujjalu, cigiriya, kadshige, kadu seege, kadusige, ruggli, seejali, sujil, sujjali, sujjallu, sujjalu, thungli, tuggali, tugli Malayalam (9) - chalavagai, cholaivagai, culivaka, dosulay, oosulay, sulivaka, varacchi, varachi, varasi Marathi (5) - lali, lalisurangi, lulai, lullei, thugli Sanskrit (2) - Sanskrit Comments  krishnasirish, krishnasirisha Tamil (55) - arappu, arappumaram, cikkiram, cikkiran, cikkiranmaram, cikkiriyan#, cikkiriyan@, cikkuran, curanci, iruvaccita, kalikai, kanukkari, kanukkarimaram, karuvaagai, karuvatai, munnam, oonjal, sayalvagai, sikkram, sikkri, thuringi, thurinji, turincalmaram, turinci 1, turincilmaram, turinjil, ucal, ucalam, ucila maram, ucilam, ucilamaram, ucilampattai, udu, uncalmaram, uncamaram, uncil, unjai, unjal, unjil, urincumaram, ushil, ushilai, ushilam, usil, usila maram, usilam, usilamaram, utu, utuci, utucimaram, utumpai, utuppai, uva ver, uvappattai, wunja Telugu (14) - chigara, chikkareni, chikondi, chikreni, konda chigara, nalla regi, nallangi, nallaregu, nallarenga, narlingi, seekireni, shekrani, sigara, sirikenu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/083045b34fb297d9f9c7ec281604a98f/xclkon/927eb7520ebce80ecbf0d4e7190dad58
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 93
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/93.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/083045b34fb297d9f9c7ec281604a98f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/083045b34fb297d9f9c7ec281604a98f/xclkon/927eb7520ebce80ecbf0d4e7190dad58
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/083045b34fb297d9f9c7ec281604a98f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/083045b34fb297d9f9c7ec281604a98f/xclkon/927eb7520ebce80ecbf0d4e7190dad58
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/083045b34fb297d9f9c7ec281604a98f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/083045b34fb297d9f9c7ec281604a98f/xclkon/927eb7520ebce80ecbf0d4e7190dad58
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b22339bd7b08169fb15e7da6dfbc9aa7
+Botanical Name: Ficus racemosa L.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Ficus glomerata ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 288 Vernacular names found in 10 languages. English (1) - crattock Hindi (24) - dimere, dimeri, domoor, dumba, fagoora, fagura, gular, gullar, gulliar, lelka, paroa, phagoora, rambel, rumbal, rumkbal, tue, udumbar, umar, umba, umbio, umbra, umra, umrai, umrao Kannada (18) - arti, athi, atthi, atthi hannu, atthimara, atti, etti, gola, golaru, guldredo, guldredu, gullredu, haguche, hathi, janthuphala, kollakitu, kullakith, rumadi Malayalam (10) - athi, attee, atthi, atti, attialu, attiyal, atty-alu, audumbaram, jantuphalam, udumbaram Marathi (11) - atthi, atti, audumbara, gular, rumadi, rumbad, umar, umbar, umbara, umbaram, umbra Sanskrit (39) - Sanskrit Comments  a, apushpaphalasambandha, audumbaram, bhadrodumbara, brahmavriksha, haritaksha, hemadugdha, hemadugdhaka, hemadughda, jadhanephala, jantrphala, jantuphaljnayogga, kalaskandha, krimikanta, kshiravriksha, kunjera, mashaki, panimukha, pavitraka, pushpahina, sadaphala, sadaphalah, saumya, shitaphala, shitavalkala, shvetavalkala, suchakshu, supratishthita, udumbara, udumbarah, yajana, yajnanga, yajnaphala, yajnasara, yajniya, yajnodumbara, yana, yanodumbara, yojynanga Tamil (160) - acamarutam, acamarutam#, acamarutam@, acuvattam, acuvattam 1, adam, adavam, adavu, addi, akki, alaram, anai, anai 1, anaikkannan, anaikkanru, anaikkanru 1, anaimaram, ancirakam, anciram, anjiram, appiyakatan, appiykatan, ara, arattam, arattamaram, aro, aro@, aruvu, asamarudam, asuvattam, ata, ata@, atalai, atalai 1#, atam, atavam, atavattippili, atavi, atavu, athi, athikkai, aththi, aticayaputpi, atthi, atti, atti ilai, atti pal, atti pattai, atti-pazham, atti-t-tol, attie puttay, attikam, attimorappattai, attip pattai, attiverttol, attmukil, cakkaram, cakkaram 1, cakkirakam, cakkirakamaram, cakkiram, cakkiram#, cantakarikamaram, catakarikamaram, catapalam, catapalam 1, cirataru, ciravirutcam, citavarkam, citavarkkam, cuppiratastam, cuppiratistam, cuppirattittam, emaruttam, ematuttam, kalikai, kalikai 1, kalimokanam, karupparam, katakam, kati, kauli, kauri, kecakam, koli, kolikam, kolikamaram, koni, koni 1, koturuvakam, kuncaram, kuncaram 1, kuncaramaram, kuncari, kuncarimaram, kuvyaputpakam, kuyyaputpakam, macaki, macaki 1, malaiyinmunivan, malaiyinmunivan 2, mamali, mamalimaram, marattatti, matakuncaram, matakuncaramaram, matakuncaramram, matankai, matankai 1, matankal, moy, muttummi, muttummi 1, nallatti, narruli, param, paramam, pavittirakam, pavittirakam 1, perakatti, puspacuniyam, putakimaram, putpacuniyam, putpapala, puttovam, puvirkanni, tacanati, tanu, tarakkati, tarakkatimaram, tarumapattiram, tumbaram, tumpakam, tumpakam 1, tumparam, tuniyankamaram, tuppakar, upattapattiram, utamparam, utamparamaram, utumpai, utumpar, utumparam, utumparam 1, utumparam@, va, valuvi, vayamam, vellaiatthi, vetacannam, virapi, vitaiyatti, vitapi 1, viyacam, yakkiyayokkiyam, yamappiriyam, yamappiriyam 1, yamatuttam, yatavu, yatavumaram Telugu (23) - athi, atthi, atthichettu, atti, attimanu, boda, bodda, brahmamedi, bramhamedi, budi, haritaksha, madi, mari, maydi, medi, medichettu, mori, moydi, moyui, paid, paidi, udambaramu, udumbaramu Tibetan (1) - u du mba ra Urdu (1) - gular
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7/xclkon/0a6fc1518f767f06ed6e96b6fa1bb8f8
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b22339bd7b08169fb15e7da6dfbc9aa7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Udumbara
+sanskrit_name: उदुम्बर
+transliteration: udumbara
+ref_drug_name: उदुम्बर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Udumbara
+sanskrit_name: उदुम्बर
+transliteration: udumbara
+image_urls: https://www.medicinalplants.in/slokaimages/752/752_1.jpg https://www.medicinalplants.in/slokaimages/752/752_2.jpg https://www.medicinalplants.in/slokaimages/752/752_3.jpg https://www.medicinalplants.in/slokaimages/752/752_4.jpg
+ocr_text: उदुम्बरो हिमो रूक्षो गुरुः पित्तकफास्रजित्| मधुरस्तुवरो वर्ण्यो व्रणशोधनरोपणः || (Bpn) Udumbara is madhura, kasaya in rasa, ruksa, guru in guna, sita in veerya varnya, vrana sodhana and ropana in karma, alleviates pitta, kapha ana rakta vikara. हेमदुग्धो हरिताक्षो वसुद्रुमः | | क्षीरी शीतवल्कलः | यज्ञाङ्गको जन्तुवृक्षः सुप्रतिष्ठः सदाफलः| | अपुष्पफलसम्बन्धः काञ्चनो जंतुमत्फलः उदुम्बरो हिमो रूक्षः कषायो मधुरो गुरुः| | भग्रसंधानकृद् वर्ण्यो व्रणशोधनरोपणः Ikanl Udumbara, hemadugaha, haritaksa, vasudruma, sacaksu,mashaki, ksiri, sitavalkala, yajanga, jantuvrksa, supratista, sadaphala, apuspaphala sambandha, kancana ana jantuphala are the synonyms of uaumbara. Udumbara is kasaya, madhura in rasa, ruksa, guru in guna , sita in veerya, varnya, sandhanakrt, vrana sodhana and vrana ropana in karma उदुम्बरो सचक्षुर्मशकी क्षीरद्रुः उदुम्बरः क्षीरवृक्षो हेमदुग्धः सदाफलः | अपुष्पफलसंबन्धो यज्ञाङ्गः शीतवल्कलः| | कषायं स्यात् पक्कं तु मधुरं हिमम्| कृमिकृत् पित्तरक्कघ्नं मूर्च्छादातृषापहम् IDhn) Synonyms of udumbara are ksiravrksa, hemadugdha, saaaphala , apuspaphala sambandha, yajhanga, sitavalkala Komala phala of udumbara is kasaya in rasa Pakva phala is madhura in rasa, sita in veerya, causes krimi, alleviates vitiation of rakata, pitta, cures murccha, daha and trsna उदुम्वरं उदुम्बरं स्यात्पक्कम्तु मधुरं हिमम्| कृमिकृत्पित्तरक्तघ्नं मूर्च्छादाहतृषापहम्|| (Rjn) Apakva udumbara is kasaya in rasa. Pakva udumbara is madhura in rasa and sita in veerya.ly causes krmi, cures raktapitta, murccha, daha trsna कषायं and

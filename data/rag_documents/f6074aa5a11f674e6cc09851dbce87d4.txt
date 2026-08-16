@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f6074aa5a11f674e6cc09851dbce87d4
+Botanical Name: Sisymbrium irio L.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 4 languages. English (1) - london rocket Hindi (3) - asalio, khubkaln, khubkhala Sanskrit (2) - Sanskrit Comments  khakasi, khubakala Urdu (1) - khubakalan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6074aa5a11f674e6cc09851dbce87d4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1928
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1928.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6074aa5a11f674e6cc09851dbce87d4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6074aa5a11f674e6cc09851dbce87d4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

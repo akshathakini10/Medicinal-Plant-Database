@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6ddd9f01a806249ae8306064b767007a
+Botanical Name: Drimia indica (ROB.) J.P. JESSOP
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Urginea indica (ROB) KUNTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 84 Vernacular names found in 8 languages. Hindi (10) - ban piaz, jangli piaz, jangli-piaz, jangli-piyaz, janglikanda, janglipiyaz, kanda, kande, koli-kanda, safed-kando Kannada (11) - adavi-irulli, bheemana ulli, dodda kaadu bellulli, kaadu bellulli, kaadu bili eerulli, kola kanda, naayi ullaa gaddi, naayiulli, nari eerulli, seeme nari eerulli, shiru naarangadde Malayalam (2) - kanthanga, kattulli Marathi (10) - hal-kamdo, jangli-kanda, janglipyaaz, janglipyajha, kolkaandaa, kolkanda, ranachakanda, ranachakande, rankaandaa, rankanda Sanskrit (12) - Sanskrit Comments  asmantaka, kolakanda, krimighna, panjala, patalu, putakanda, putalu, suputa, vana-palandam, vanapalandam, vanapalandu, vasrapanjala Tamil (32) - acukkayam, cevakam 1, cevakan, cevukan, ciruvenkayam, kaattu vengayam, kakunarakavulli, karunarakam, karuvulli, katterumai 3, kattirulli, kattu venkayam, kattulli, kattullikkilanku, kattuvelvenkayam, kattuvengayam, kattuvenkayam, kirincanam 2, nari-vengayam, narivengayam, narivenkayam 1, narivenkayam#, narivenkayam@, nayulli, nir venkayam, peyanulli, peyanullicceti, peyppariti, peypparitiyulli, peyulli, peyvenkayam#, peyvenkayam@ Telugu (5) - adavi-tellagada, adavithellagadda, kaazagadda, nakka-vulli-gadda, nakkavalligadda Urdu (2) - isqeel, janglipiyaz
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 856
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/856.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ddd9f01a806249ae8306064b767007a/xclkon/6689ee33b13257da64c29d622d98007e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

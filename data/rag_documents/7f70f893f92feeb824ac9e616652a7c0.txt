@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7f70f893f92feeb824ac9e616652a7c0
+Botanical Name: Diospyros paniculata DALZ.
+Family: Ebenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 5 languages. Kannada (1) - karikoomar Malayalam (5) - ilakatta, ilakkata, illakatta, kari, karivella Marathi (1) - kuri Sanskrit (1) - Sanskrit Comments  tinduka Tamil (5) - karinthuvari, karunduvarai, karunthovarai, karunthuvrei, karuntuvarai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f70f893f92feeb824ac9e616652a7c0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 838
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/838.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f70f893f92feeb824ac9e616652a7c0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f70f893f92feeb824ac9e616652a7c0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f70f893f92feeb824ac9e616652a7c0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

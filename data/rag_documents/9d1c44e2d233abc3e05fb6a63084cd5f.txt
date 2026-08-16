@@ -1,0 +1,89 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9d1c44e2d233abc3e05fb6a63084cd5f
+Botanical Name: Soymida febrifuga (ROB.) A.JUSS.
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Swietenia febrifuga ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 111 Vernacular names found in 9 languages. English (2) - bastard cedar, indian redwood Hindi (8) - rakatrohan, roham, rohan, rohin, rohn, rohun, rohunna, royan Kannada (18) - kalgarige, kalkarige, kemmara, kora mara, limbaara mara, maamsa rohini, navilu mettu, ronero, sanna kainka, sombi, some, some mara, somida, sumbi, svami, swami, swami mara, swami-mara Marathi (3) - guhin-ruhina, potar, ruhin Sanskrit (22) - Sanskrit Comments  agniruha, atiruha, carmakasa, chandravallabha, charmakasha, kashamansi, lomakarani, mahamansi, mamsarohini, mansa-rohini, mansarohi, patranga, praharavalli, rasayani, rohini, rohuna, suloma, vasa, vikasha, viravati, vritta, zurna Tamil (30) - cataputpilinapam, cataputpinai, cem2, cemmaram, centumi, centumimaram, civappumaram1, comatanam, comimaram, cumi#, cumi@, curakkalli, ekinam1, ekkiyakumari, sem, semmaram, shem-maram, shemmaram, shemmarum, somadanam, sombu, sombupattai, sumi, surakkali, tatimapattirakam, uccittanci, uccittancimaram, vadamalaichekku, vandu, vantu Telugu (26) - cevamanu, cheramaanu, cheva manu, cheva-manu, chevamanu, sami, sevamaanu, sevamanu, soimida, somi, somida, somida chettu, somida maanu, somida-manu, somidamanu, somidi, somili, somitha, somithi, somiti, soomee, soomi, soymida, soymidi, sumi, summi Tibetan (1) - ma ndza ro hi ni Urdu (1) - rohan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f/xclkon/41fa9edf29a259f17765685187082610
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1964
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1964.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f/xclkon/41fa9edf29a259f17765685187082610
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f/xclkon/41fa9edf29a259f17765685187082610
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f/xclkon/41fa9edf29a259f17765685187082610
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f/xclkon/41fa9edf29a259f17765685187082610
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d1c44e2d233abc3e05fb6a63084cd5f/xclkon/41fa9edf29a259f17765685187082610
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Mamsarohini
+sanskrit_name: मांसरोहिणी
+transliteration: māṃsarohiṇī
+ref_drug_name: मांसरोहिणी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Mamsarohini
+sanskrit_name: मांसरोहिणी
+transliteration: māṃsarohiṇī
+ref_drug_name: मांसरोहिणी
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Rohini
+sanskrit_name: रोहिणी
+transliteration: rohiṇī
+ref_drug_name: रोहिणी
+status: Most probable
+discussion: Mamsarohini is known as Rohini in many parts of the country and this is correlated to Soymida febrifuga
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Mamsarohini
+sanskrit_name: मांसरोहिणी
+transliteration: māṃsarohiṇī
+image_urls: https://www.medicinalplants.in/slokaimages/1519/1519_1.jpg https://www.medicinalplants.in/slokaimages/1519/1519_2.jpg https://www.medicinalplants.in/slokaimages/1519/1519_3.jpg
+ocr_text: स्यान्मांसरोहिणी वृष्या सरा दोषत्रयापहा रसे पाके तु कटुका तुवरा शीतला तु साll (Bpn) Mamsarohini is katu, tuvara in rasa, sara in guna, sita in veerya, katu in paka, vrshya and alleviates all the three doshas रोहिणीयुगलं शीतं कषायं कृमिनाशनं कण्ठशुद्धिकरं रुच्यं वातदोषनिषूदनम् /| (Rin) Rohini yugala is kashaya in rasa, sita in veerya, alleviates vata, is rucya, kantha suddhi kara and cures krmi रोहिणीवातहृत कासश्वासशोणितनाशनी | रोहिणीद्वितीयं बल्यं रक्तपित्तविषूदनम्I| पौष्टितं शीतलं कण्ठशूद्धिकारि कषायकम् | रुच्यं सरं मधुरं वृष्यं च कृमिवातकम्I| (Nir) Rohini alleviates vata, cures kasa, svasa and sonita Rohini dvitiya is kashaya, madhura, in rasa, sara in guna, sita in veerya, balya, rucya, vrsyha, paustika, kantha suadhi kara, alleviates vata cures raktapitta and krmi.

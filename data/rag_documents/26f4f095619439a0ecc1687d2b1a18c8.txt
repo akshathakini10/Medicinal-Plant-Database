@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 26f4f095619439a0ecc1687d2b1a18c8
+Botanical Name: Vitex altissima L.F
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 108 Vernacular names found in 6 languages. Hindi (1) - myrole Kannada (43) - balgai, balgay, banige mara, bharanage, bharani, bharaniga, bulgi, doddalakkhi, doddalakki, hule, kaadu naevile, kaadunekki, kadunekki, katnuski, mailaadi, mailadi, mailellu, maillalu, mairol, mairole, mayiladi, mayoorolu, mayurolu, mirole, myrole, nanladi, naulaadi mara, nauldi, navilaadi, naviladi, navladi, navulaadi, navuladi, nerole, nevaladi, nowladi, sampagapala, sampagepala, sompu kepala, sompukepala, tomukki, torenekki, tornukki Malayalam (17) - kattumayila, kattumelan, mail-elou, mailadi, mailellu, maillalu, maiyella, mayila, mayilati, mayilella, mayilelu, mayilila, mayilila (for v.alata), myla, myladi, mylellu, valli Marathi (2) - bavalgee, dhavi-rivti Tamil (27) - cakavatitam, cakavatitamaram, elilaimayilai, elilainocci, kalikarakam, kalikaram, kattumayilai, kattumayilam, kattuna, kattunamaram, kattunocci, kattunocci2, maila, malyiladi, mayilaadi, mayilai, mayilai 2, mayilainochi, mayilati#, mayilati@, mayilatinocci, mayilei, mayili, talakattinmancalpokki, tilakam3, titikeyam, titikeyamaram Telugu (18) - busi chettu, gandarupu, mayooramu, mayoorapugandarapu, mayuramu (for v. alata), mayurapau, mayurapugandarupa, mirapagandra, namiladagu, nemali adugu, nemaliaduga, nemaliadugu, nemaliyadugu, nemiliadagu, nevaliadugu, nevalyaduga, nowlieragu, nowllieragu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26f4f095619439a0ecc1687d2b1a18c8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26f4f095619439a0ecc1687d2b1a18c8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26f4f095619439a0ecc1687d2b1a18c8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

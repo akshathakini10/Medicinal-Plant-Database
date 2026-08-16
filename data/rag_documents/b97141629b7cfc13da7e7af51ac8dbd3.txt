@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b97141629b7cfc13da7e7af51ac8dbd3
+Botanical Name: Physalis peruviana L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 7 languages. English (1) - cape gooseberry Hindi (6) - macao, rasbari, rashbhari, tankari, tepariyo, tipari Kannada (6) - bondoola, budde hannu, dodda bondoola gida, dodda budde gida, dodda guppatte gida, doddabudd Marathi (4) - chirbot, phopati, popti, thanmori Sanskrit (3) - Sanskrit Comments  kuntali, tankari, tankasi Tamil (17) - ciyattini, erumaittakkali2, koticceni, koticcenittakkali, kutavayacceti, kutavayam, milaku takkali, nallatakkali, naruntakkali, periyatakkali, perungunni, peruntakkali, peyttakkali 2, pottipallam, tankari, turputikacceti, turputikam Telugu (6) - budama, buddabusara, busarakaaya, busarataya, paambudda, pambudda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97141629b7cfc13da7e7af51ac8dbd3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97141629b7cfc13da7e7af51ac8dbd3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97141629b7cfc13da7e7af51ac8dbd3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Padma
+sanskrit_name: पद्म
+transliteration: padma
+ref_drug_name: पद्म
+status: ?
+discussion: ?
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

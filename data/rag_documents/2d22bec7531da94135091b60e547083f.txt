@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2d22bec7531da94135091b60e547083f
+Botanical Name: Cinnamomum iners REINW.
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 63 Vernacular names found in 8 languages. Hindi (5) - darchini, jangli darchini, jangli-dar-chini, janglidarchini, tejpat Kannada (10) - adavi-lavanga-patte, adavi-lavangpatte, adavilavangapatte, dalchini, dalchiniyanne, kadudalcini, kuddulavanga, lavangadayale, lavangayale, yellagada Malayalam (8) - ilavangam, ilavannam, karuntoli, karuvu, katkarva, kattu-karuvatoli, kattukaruvatoli, kotkarva Marathi (3) - ranachadal, ranachadalchini, randalchini Sanskrit (6) - Sanskrit Comments  patra, patraka, tamalapatra, tamalapatram, tejpatra, tilaka Tamil (19) - cempila, ilavankam 2, ilavankappattaimaram, ilavankappattiri, kattu-karuvap-pattai, kattu-karuvappattai, kattukkaruva, kattukkaruvappattai, kattukurrnup, kattulavankam, kurakaccinnam, lavangam, milappu 2, sembelappulippilla, talicapattiri, tamalapattiram, tamalapattiri#, tamalapattiri@, tilakam 2 Telugu (6) - adavi-lavanga-patta, adavilavangapatta, akupatrikamu, lavangam, pachaku, talishapatri Urdu (6) - darchini, sazaj hindi, sazaj-i-hindi, sazig-i-hindi, tazpat, tezpat
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d22bec7531da94135091b60e547083f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 539
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/539.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d22bec7531da94135091b60e547083f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d22bec7531da94135091b60e547083f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d22bec7531da94135091b60e547083f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

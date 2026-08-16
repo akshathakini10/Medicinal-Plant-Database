@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 89192d3a08ab3a66f6710132fecc44c9
+Botanical Name: Alectra parasitica A.RICH. var. chitrakutensis RAU.
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89192d3a08ab3a66f6710132fecc44c9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89192d3a08ab3a66f6710132fecc44c9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhrngari
+sanskrit_name: भृङ्गारी
+transliteration: bhṛṅgārī
+ref_drug_name: भृङ्गारी
+status: Most probable
+discussion: In Raja nighantu it is mentioned as 'Bhramarari' which is famous in Malwa; It is conceived to be a bunch which arises from Nirgundimula (roots of nirgundi) and attracts towards itself due to its bright red colour; Due to similar feature in this species it is most probably correlated to it
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

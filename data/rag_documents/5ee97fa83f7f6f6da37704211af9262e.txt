@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5ee97fa83f7f6f6da37704211af9262e
+Botanical Name: Papaver rhoeas L.
+Family: Papaveraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 50 Vernacular names found in 9 languages. English (8) - common poppy, corn or field poppy, corn poppy, corn rose, field poppy, flanders poppy, red poppy, shirley poppy Hindi (6) - lal, lal-poshta, lal-post, lalpost, post, postekebija Kannada (7) - armistis hoo, kempu-khasa-khasi-gida, kempugasagase, kempugasgase, kempukhasa-khase gida, kempukhasakhasi, kempupostaka Malayalam (2) - chovanna-kaha-kashach-cheti, chovannakashakasha Marathi (5) - jangli mudrika, khasakhasa, tambada, tambadakhasakhasa, tambde-khaskhasache-jhad Sanskrit (3) - Sanskrit Comments  rakta-posta, raktapostavrikshah, raktapostuvrikshaha Tamil (13) - civantapostakkay, civappu postakkay, civappukkacakaca, civappukkacakacacceti, civappukkilanelli, civappuppostakkaycceti, shevappughas-ghaschedi, shigappu-postaka-chedi, shivappu-gasha-gasha-chedi, shivappu-postaja-chedil, siguppuppostaka, sivantha posthakkai, sivappugashagasha Telugu (5) - erra-gasa-gasala-chettuu, erra-posta kaye chettu, erra-posta-kaya-chettu, erragassagassala, errapostakaya Urdu (1) - gulelalakebija
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ee97fa83f7f6f6da37704211af9262e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ee97fa83f7f6f6da37704211af9262e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ee97fa83f7f6f6da37704211af9262e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ee97fa83f7f6f6da37704211af9262e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ee97fa83f7f6f6da37704211af9262e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

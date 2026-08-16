@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0a81aec29472302814e99625864ce45a
+Botanical Name: Acacia catechu (L.F.) WILLD. var. sundra (DC.) PRAIN
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 148 Vernacular names found in 9 languages. Hindi (8) - kath-kh-air, katha, kh-air, kh-air-babul, kh-air-ka-per, khair, khairbabul, kottha fooflee sooparee Kannada (14) - cachu, kaachu, kachu, kacu, kaggali, kanti, kashu, kempukhairapajali, khadira, kugli, seredu, shemi, tere, tharekundi Malayalam (5) - kadaram, karimgali, karinnali, khadiram, senkarinnali Marathi (7) - kaderi, khaderi, khadira, khair, khaira, khera, lalkhair Sanskrit (35) - Sanskrit Comments  bahushalya, balapatra, balaputra, balatanaya, dantadhavana, gayatri, hihmashalya, homa, jihvashalya, jivamangalya, kantaki, karkati, khadira, khadirah, khadiravrikshaha, khadyapatri, kshitikshana, kushtarhita, kushthari, kustaghna, medhya, mridupatrika, ntakidruma, pathidruma, prasakha, raktasara, raktasarah, saradruma, sushalya, tiktasara, vakrakantaka, yajnanga, yajnangah, yajnika, yajniya Tamil (62) - alu, amirakitam, anmaram 2, carrankali, catta, cenkarunkali, cinkacalliyam, irattacaraccam, irattacaram, irattacaramaram, irulmuli, kacappi 1, kadiram, kantaki 2, karai, karangalli, karungali, karunkali, kasha-katti, kasku-kutta, kasukkati, kasukkatti, katir, katiram, katiravam, katiravamaram, katirmaram, kavi 2, kayattiri, kodam, koratam, kotakam 1, kotam1, kotankam, kotankamaram, kudakkini, kutakkini, kutarcalliyam 2, kutilakantakam, kuttakkini, odalai, otakam, otakamaram, otam, othalei, parittavam, parittavamaram, pataravatam, patirakam, patiram, pattiracanam, sengarungali, sirumarodam, tantatvanam, tantayavanam, tantiyavanamaram, utukkaimaram, varacunti, voadalam, vodalai, vodalam, wothalay Telugu (12) - kachu, kasu, khadiramu, mallasandra, nalla sundra, podalamanu, podali-manu, podalimanu, poogamu, sandra, sundra, tellatumma Tibetan (4) - khyi la ba ri, sen lden, sen-lden, stod za Urdu (1) - katha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a81aec29472302814e99625864ce45a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a81aec29472302814e99625864ce45a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a81aec29472302814e99625864ce45a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a81aec29472302814e99625864ce45a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a81aec29472302814e99625864ce45a
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0a81aec29472302814e99625864ce45a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Khadira
+sanskrit_name: खदिर
+transliteration: khadira
+image_urls: https://www.medicinalplants.in/slokaimages/16/16_1.jpg https://www.medicinalplants.in/slokaimages/16/16_2.jpg https://www.medicinalplants.in/slokaimages/16/16_3.jpg https://www.medicinalplants.in/slokaimages/16/16_4.jpg https://www.medicinalplants.in/slokaimages/16/16_5.jpg https://www.medicinalplants.in/slokaimages/16/16_6.jpg
+ocr_text: खदिरो गायत्रयाह्व क्षिति क्षमी दन्तधावनः शल्यः होमतरुः सकण्टको रक्तसारश्च प्रोच्यते बालपत्रोडज्ञो बालः कटिलकण्टकः जिह्मशल्यो होमवृक्षः शब्दैः पर्यायवाचकैः Il (Aa mal Khadira is called as Gayatri, ksiti, ksami, dantadhavana, salya, Kusthaghna, homataru, sakantaka, raktasara, balapatra, ajjho, bala katilakantaka, jihmasalya, homavrksa कुष्ठघ्नो खदिरो बालपत्रश्च खाद्यः पत्री क्षिति क्षमा वक्रकण्टश्च यज्ञांगो दन्तधावनः |l गायत्री जिह्मशल्यश्च कण्टी सारद्रुमस्तथा कुष्ठारि्बहुसारश्च मेध्यः सप्तदशाह्वयः Il IRjnl Khadira is called as balapatra, khadya, patri, ksiti, ksama, susalya, vakrakanta, yajnjnaga, dantadhavana, gayatri, jihmasalya, kanti, saraaruma, kusthari, bahusara, medhya, saptaaasahvaya सुशल्यो खदिरः शतिलो दन्त्यः कण्डूकासारुचिप्रणुत् तिक्तः कषायो मेदोघ्नः कृमिमेहज्वरव्रणान् श्वित्रशोफामपित्तास्रपाण्डुकुष्ठकफान् हरते IBpn) Khadira is tikta, kashaya in rasa, sita in veerya , dantya, medaghna cures kandu, kasa, aruci, krmi, meha, jvara, vrana, svitra, sopha, ama, pitta, asra vikara, pandu, kustha ana alleviates kapha खदिरः स्याद् रसे तिक्तो हिमः पित्तकफास्रनुत् कुष्ठामकासकण्डूतिकृम्दोषहरः स्मृतः Il (Dhny Khadira is tikta in rasa, hima in veerya, alleviates pitta and kapha is asra nara, cures kustha, ama, kasa, kandu and atikrmi. खदिर कुष्ठघ्ननाम् (C.S.Su २५) Khadira is Kusthaghna. ICs. ) शनैर्मेहिनं खदिरकषायम ISu.S Chi २२ ) Khadira is kashaya in rasa and cures meha within a minute

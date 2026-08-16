@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9120c30191247bac32c4b0c623e3fbec
+Botanical Name: Eupatorium adenophorum SPRENG
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ageratina adenophora (SPR.) KING & ROB.,
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. English (2) - crofton weed, mexican devil Hindi (1) - bakura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9120c30191247bac32c4b0c623e3fbec/xclkon/4ad70234d02cf3a64f8902b918754e8a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9120c30191247bac32c4b0c623e3fbec/xclkon/b1c9b1f3d31c39dc7f5fb4fa0ad59211
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9120c30191247bac32c4b0c623e3fbec
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9120c30191247bac32c4b0c623e3fbec/xclkon/4ad70234d02cf3a64f8902b918754e8a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

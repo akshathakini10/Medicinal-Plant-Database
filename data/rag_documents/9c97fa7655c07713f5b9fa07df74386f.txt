@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9c97fa7655c07713f5b9fa07df74386f
+Botanical Name: Scleropyrum pentandrum (DENNST.) MABBERLEY
+Family: Santalaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Scleropyrum wallichianum (WIGHT & ARN.) A.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 2 languages. Kannada (13) - benduga, bendugali, bendulike, bodige hallu, bodlegahallu, bodlige, bodulike hallu, bodulikehallu, mullalaka, naaikooli, naaikuli, naikkuli, nayikuli Malayalam (7) - idou-moulli, idumalli, irumulli, ittimalli, tiri-itti-canni, tiriitticanni, tiruvittikanni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c97fa7655c07713f5b9fa07df74386f/xclkon/e27e0d9eaa175fa2f992ed7828084250
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c97fa7655c07713f5b9fa07df74386f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c97fa7655c07713f5b9fa07df74386f/xclkon/e27e0d9eaa175fa2f992ed7828084250
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

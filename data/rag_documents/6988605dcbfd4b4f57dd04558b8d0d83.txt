@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6988605dcbfd4b4f57dd04558b8d0d83
+Botanical Name: Rhaphidophora pertusa SCHOTT
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Rhaphidophora laciniata (BURM.F.) MERR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 22 Vernacular names found in 6 languages. Kannada (3) - dodda thippali, kandadapana balli, kandodi beelu Malayalam (8) - anacukiri, anaichukary, elattadi-maravara, elettadimaravara, elittatiyan, ilattimaravala, izhattimaravazha, putayavu Marathi (4) - ganeshkanda, ghanashkande, ghones-vel, saumal Sanskrit (1) - Sanskrit Comments  sphotyabhujangam Tamil (4) - anaitippili, anaittippili, ilatti maravalai, ilattimaravalai Telugu (2) - enuganalleru, yenuganalleru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6988605dcbfd4b4f57dd04558b8d0d83
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2574
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2574.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6988605dcbfd4b4f57dd04558b8d0d83/xclkon/e1260d41f4ee08a0e752c05d257fc22e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6988605dcbfd4b4f57dd04558b8d0d83
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6988605dcbfd4b4f57dd04558b8d0d83/xclkon/e1260d41f4ee08a0e752c05d257fc22e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6988605dcbfd4b4f57dd04558b8d0d83
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6988605dcbfd4b4f57dd04558b8d0d83/xclkon/e1260d41f4ee08a0e752c05d257fc22e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6988605dcbfd4b4f57dd04558b8d0d83
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

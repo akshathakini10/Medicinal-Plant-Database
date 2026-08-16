@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d4f397691ff7b38c5ecd065469b75c18
+Botanical Name: Grewia microcos L.
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Grewia paniculata ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 3 languages. Kannada (10) - abhraangu, abhrangu, abroni, bili abhraangu, biliabhrangu, biliyabihrangu, cheerakalu, chowri soppu, majjige soppu, majjigesoppu Malayalam (3) - kottai, kottakka, schagen-cottam Marathi (2) - amsali, hasoli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4f397691ff7b38c5ecd065469b75c18/xclkon/0818e3049d7bfbeb13f941a3bba01fff
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4f397691ff7b38c5ecd065469b75c18
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4f397691ff7b38c5ecd065469b75c18/xclkon/d7897fdacd76238085fb52e6dac26e03
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4f397691ff7b38c5ecd065469b75c18/xclkon/0818e3049d7bfbeb13f941a3bba01fff
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

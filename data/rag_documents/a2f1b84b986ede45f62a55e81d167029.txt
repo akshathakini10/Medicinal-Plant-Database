@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a2f1b84b986ede45f62a55e81d167029
+Botanical Name: Rumex acetosella L.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 5 languages. English (1) - sheep(s) sorrel Hindi (1) - chuk Kannada (1) - chukke soppu Sanskrit (1) - Sanskrit Comments  chutrika Tibetan (1) - tsu ka ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f1b84b986ede45f62a55e81d167029
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f1b84b986ede45f62a55e81d167029
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f1b84b986ede45f62a55e81d167029
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cukrika
+sanskrit_name: चुक्रीका
+transliteration: cukrīkā
+ref_drug_name: चुक्रीका
+status: Most probable
+discussion: This species is known by this name
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

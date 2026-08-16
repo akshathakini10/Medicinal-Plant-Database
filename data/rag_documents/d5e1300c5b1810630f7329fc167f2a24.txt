@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d5e1300c5b1810630f7329fc167f2a24
+Botanical Name: Vigna adenantha (MEYER) MARECHAI
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Phaseolus adenanthus G.F. MEYER
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 6 languages. Kannada (2) - kaadu hesaru, kaadu hesaru balli Malayalam (2) - kattupayar, katu-paeru Marathi (1) - ran-chavli Sanskrit (3) - Sanskrit Comments  aranyamudga, makustakah, mudgaparni Tamil (5) - karalsona, kattu p payaru, kattupayaru, kattupayru, kattuppayir Telugu (5) - adavipesalu, kaaralasana, kaaru alachanda, karalasana, karu alachanda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e1300c5b1810630f7329fc167f2a24
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e1300c5b1810630f7329fc167f2a24/xclkon/a06ebf31bb483a550f8d095c4e07a8c1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e1300c5b1810630f7329fc167f2a24
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e1300c5b1810630f7329fc167f2a24/xclkon/a06ebf31bb483a550f8d095c4e07a8c1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e1300c5b1810630f7329fc167f2a24
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e1300c5b1810630f7329fc167f2a24/xclkon/a06ebf31bb483a550f8d095c4e07a8c1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5e1300c5b1810630f7329fc167f2a24
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b06fcda4ae7ef965c2dab783529d6831
+Botanical Name: Matricaria recutita L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Matricaria chamomilla L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 2 languages. English (4) - chamomiles, german chamomile, hungarian chamomile, wild chamomile Urdu (5) - bikh babunah, gul babunab, gul babunah, gul-babunah, roghan babunah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b06fcda4ae7ef965c2dab783529d6831
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b06fcda4ae7ef965c2dab783529d6831/xclkon/aa1a29215355e4306493e95fe7e43071
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b06fcda4ae7ef965c2dab783529d6831
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b06fcda4ae7ef965c2dab783529d6831/xclkon/aa1a29215355e4306493e95fe7e43071
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b06fcda4ae7ef965c2dab783529d6831
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b06fcda4ae7ef965c2dab783529d6831/xclkon/aa1a29215355e4306493e95fe7e43071
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b06fcda4ae7ef965c2dab783529d6831
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

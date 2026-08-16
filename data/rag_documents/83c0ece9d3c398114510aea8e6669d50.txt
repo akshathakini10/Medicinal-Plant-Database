@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 83c0ece9d3c398114510aea8e6669d50
+Botanical Name: Borreria hispida (L.) SCHUM.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Spermacoce hispida L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 97 Vernacular names found in 7 languages. Hindi (1) - madanaghanti Kannada (8) - daare botu, daare kaddi, madana buddame gida, madana ganti, madanabadu, madanaganti, megidda, nn Malayalam (5) - kutalccurukki, nattaccuri, tardavel, tartaval, thartuvel Marathi (2) - gedo, ghamtachi-bhaji Sanskrit (4) - Sanskrit Comments  bukah, madanaghanti, madanghanta, vasukah Tamil (67) - cakacam2, cirakkuli, cirakkulicceti, curi, curi1, kacamallikai, kamaracepikacceti, kariyacuracceti, kariyacuri, katukam, katukam2, kotippacuri, kotippacuricceti, kulacankulam, kulimittan, kulimittan2, kulimittan2@, malaikattanceti, malaikkattan, natai-c-curi, nathai choori, nathai-choori, nathaichuri, naththai-churi, nattaccuri, nattai-c-curi, nattai-ceuri, nattai-churi, nattaiccunti, nattaiccunti#, nattaiccunti@, nattaiccuri, nattaichuri, nattalaiccuri, natti-choori, nothai-ccuri, nuttei choorie vayr, nuttichoori, pankillam, putpacankunatti, talini, taliyakarampai, taruni, tattaic cunti, thathara, toliyakalappai, toliyakarampai, toliyakkalappai, toliyakkarampai, tontippuntu, tulaputpacakam, tulaputpaccam, vakkam, valuviccam, vannerru, vannettu, vanniyamacceti, vanniyamam, vararcuri, vararcuricceti, vericcuri, vericcuricceti, vetikkuncuri, vettaramuli, vetuppaccuri, vinacaya, yar Telugu (10) - madana, madana budatha kaada, madana kaada, madana kattu, madana-ghettu, madanabudata, madanaghanti, madanagrandhi, madanagranthi, modina
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83c0ece9d3c398114510aea8e6669d50/xclkon/30a11d06748d3862d40baf7d1f34fbc5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1967
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1967.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83c0ece9d3c398114510aea8e6669d50
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83c0ece9d3c398114510aea8e6669d50/xclkon/30a11d06748d3862d40baf7d1f34fbc5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83c0ece9d3c398114510aea8e6669d50
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83c0ece9d3c398114510aea8e6669d50/xclkon/30a11d06748d3862d40baf7d1f34fbc5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83c0ece9d3c398114510aea8e6669d50
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83c0ece9d3c398114510aea8e6669d50/xclkon/30a11d06748d3862d40baf7d1f34fbc5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

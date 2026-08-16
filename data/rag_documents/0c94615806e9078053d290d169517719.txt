@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0c94615806e9078053d290d169517719
+Botanical Name: Osbeckia aspera BLUME
+Family: Melastomataceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Melastoma asperum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 3 languages. Malayalam (4) - katou-kadah, kattukkadali, kattukkatali, totukara Sanskrit (2) - Sanskrit Comments  citnaqueri, tinisah Tamil (3) - katou-kadali, kattukkadalai, kattukkatalai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c94615806e9078053d290d169517719
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c94615806e9078053d290d169517719/xclkon/e4f88fbe4cbc1f7cb30fd40fc77529df
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c94615806e9078053d290d169517719
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c94615806e9078053d290d169517719/xclkon/e4f88fbe4cbc1f7cb30fd40fc77529df
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c94615806e9078053d290d169517719
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c94615806e9078053d290d169517719/xclkon/e4f88fbe4cbc1f7cb30fd40fc77529df
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c94615806e9078053d290d169517719
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

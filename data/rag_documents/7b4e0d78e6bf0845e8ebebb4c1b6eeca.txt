@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7b4e0d78e6bf0845e8ebebb4c1b6eeca
+Botanical Name: Bauhinia acuminata L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 40 Vernacular names found in 6 languages. Hindi (2) - kachnar, safed-kachnar Kannada (15) - aralu mandaara, bile kanchuvaala, bile kanchuvala, bile mandara, bilemandara, bili kanchuvaala, bili mandaara, bilikancivala, bilikancivalada, bilimandaara, bilimandar, bilimandara, pujamandara, vanasampige, vanasampigi Malayalam (5) - mandaram, vellamandaram, velutta-mandaru, veluttamandaram, veluttamandaru Sanskrit (2) - Sanskrit Comments  kancanarah, karbudarah Tamil (15) - civamalli, kanalmirakamaram, kanalmirukam, kokkirakumantarai, kokkumandarai, kokkumantarai, mandharai, manjal mandharai, pakam, pakaram, pakaramaram, tevataru 2, vellaimantarai, vellaimantaram, vellirakumantarai Telugu (1) - devakanchanamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b4e0d78e6bf0845e8ebebb4c1b6eeca
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b4e0d78e6bf0845e8ebebb4c1b6eeca
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b4e0d78e6bf0845e8ebebb4c1b6eeca
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b4e0d78e6bf0845e8ebebb4c1b6eeca
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

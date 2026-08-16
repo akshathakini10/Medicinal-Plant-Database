@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 915ff3ac85470fdf9e93aa381f582b51
+Botanical Name: Tylophora tetrapetala (DENNST.) SURESH
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Tylophora tenuis BL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Malayalam (2) - nanjaruppan, parparam Tamil (1) - nanjaruppan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/915ff3ac85470fdf9e93aa381f582b51
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/915ff3ac85470fdf9e93aa381f582b51/xclkon/be61bfb64238d20f43f6a8ac163da032
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/915ff3ac85470fdf9e93aa381f582b51/xclkon/a7f5421f5dfbfd856d6471b5a950c365
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/915ff3ac85470fdf9e93aa381f582b51
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 96f0b332fdc350d1d1ce82cd9d60cb47
+Botanical Name: Vernonia aspera BUCH.-HAM.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Vernonia pyramidale (D.DON) MITRA
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f0b332fdc350d1d1ce82cd9d60cb47/xclkon/e85572c06ec8874af2fa9e74a5ab3088
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f0b332fdc350d1d1ce82cd9d60cb47
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f0b332fdc350d1d1ce82cd9d60cb47/xclkon/24d6bd8ce1ec5cb510b29bb269485ab1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f0b332fdc350d1d1ce82cd9d60cb47/xclkon/e85572c06ec8874af2fa9e74a5ab3088
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

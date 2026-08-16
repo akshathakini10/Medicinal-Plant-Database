@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4a056b23b44076d96a4b7ebaaef04922
+Botanical Name: Mundulea sericea (WILLD.) A. CHEVAL
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 3 languages. Kannada (5) - betta hurali, haenukuruvina gida, kaadu beeta hurali, kaadu thuvari, menbundathi Tamil (18) - kattuppuracu, katuppuracu, kayppuracu, kutaccailam, kutaccailamaram, malaippuracu, ottuppalacitam, ottuppalacitamaram, ottuppalacu, parankippuraki, parankippurakimaram, pilavaram#, pilaviram, piralavaram, puracu, vellai 2, venpuracamaram, venpuracu Telugu (4) - kondavempali, palasaram, palasarapatti, verribilludu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4a056b23b44076d96a4b7ebaaef04922
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4a056b23b44076d96a4b7ebaaef04922
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4a056b23b44076d96a4b7ebaaef04922
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0f9390be8b724b028288d65c4aa79c67
+Botanical Name: Aeschynomene aspera L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 74 Vernacular names found in 7 languages. English (1) - shola pith Hindi (1) - sola Kannada (11) - alagina, alagina gida, aligina, bendu, bendu gida, jeenangi, jinangi, kare bendu, kere bondu, tanakali, tankali gida Malayalam (5) - arrukatesam, attekudasa, attukatesham, nellitali, nellittali Sanskrit (1) - Sanskrit Comments  damana Tamil (47) - aatru netti, amunkakkoti, arru netti, athunetti, atru netti, attuneddi, ayariyam, ayiri1, ayiriyam, catai3, cataicci2, cataikkoti, cayulatikam1, kataicci, kitai, kitaiccai, kitaicci, kitaiccu, kiteccai, kokkeri, kokketu, kotal1, koti neti, kottirakakkoti, kottirakam, kottiram3, mamuti, narana#, narana@, narukkunetti, narukkuvetti, nertattai, nertattaikkoti, netti, netticceti, nirccunti takkai, nirccunti2, punetti, sadai, takkai, takkaipputu, totalavakakkoti, totalavam, tuyilkana, tuyilkanacceti, venkitaicci, vintukavuli Telugu (8) - bendu, jiluga, jiluga bendu, jilugu, neerunjiluga, niru-jilugu, sitavirya, thige jluga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9390be8b724b028288d65c4aa79c67
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9390be8b724b028288d65c4aa79c67
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9390be8b724b028288d65c4aa79c67
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

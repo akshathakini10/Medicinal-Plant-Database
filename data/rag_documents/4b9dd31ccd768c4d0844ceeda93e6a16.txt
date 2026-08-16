@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4b9dd31ccd768c4d0844ceeda93e6a16
+Botanical Name: Hedera helix C.B.CLARKE
+Family: Araliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 4 languages. English (3) - english ivy, ivy, true ivy Hindi (5) - banbatkari, grumru, kareni, kural, mithiari Malayalam (1) - maravazha Urdu (1) - bikh lablab
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b9dd31ccd768c4d0844ceeda93e6a16
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b9dd31ccd768c4d0844ceeda93e6a16
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b9dd31ccd768c4d0844ceeda93e6a16
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

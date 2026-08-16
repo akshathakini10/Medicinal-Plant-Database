@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6c0815579d3c82b5747bf0ca898b3343
+Botanical Name: Acalypha fruticosa FORSSK.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 4 languages. Kannada (6) - chinee mara, chinni, chinni gida, chinni mara, chinnimara, cinni Malayalam (1) - perim-munja Tamil (30) - chinni, cinni, cinnicceti, cinnimar, cinniver, ciri#, cirucinni, cirumanikacceti, italai1, kacci1, kalam#, kannikkilanku, kantali @, kantalikam, katalikam, katalikamaram, kilamacunacceti, kilimacunam, kitti, kittik-kilanku, kupokacinni, kupokam, nanti1, nantiracinni1, nantivirutcam1, nariccinni, nariccinnicceti, perun cinni, sinni, siru sinni Telugu (6) - chinnaaku, chinni, cinnaku, cinni, mabbaku, tsinnie
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0815579d3c82b5747bf0ca898b3343
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0815579d3c82b5747bf0ca898b3343
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0815579d3c82b5747bf0ca898b3343
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

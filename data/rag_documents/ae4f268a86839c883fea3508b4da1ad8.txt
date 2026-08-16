@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ae4f268a86839c883fea3508b4da1ad8
+Botanical Name: Onosma bracteatum WALL.
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 5 languages. Hindi (5) - gaozaban, rarra (rattanjot), ratta, ratta (ratanjot), shankhahuli Marathi (1) - gaavjabaana Sanskrit (4) - Sanskrit Comments  darvipatra, goji, gojihva, kharapatra Tamil (14) - canakippuntu, canakki, canakkikkirai, erumainakki, ilavatitam, ilavtitacceti, itapavakanan, kanamuli, kolli, kolli 2, kollikai, kollikaicceti, nayaral, valaipalatti Urdu (12) - arq gaozaban, arq-i- gaozaban, arq-i-gapzaban, barg gaozaban, burg gaozaban, gaozaban, gul gaozaban, gul goazaban, gul-e-gaozaban, gul-i-gaozaban, gul-i-goozaban, sankhaholi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae4f268a86839c883fea3508b4da1ad8
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1549
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1549.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae4f268a86839c883fea3508b4da1ad8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae4f268a86839c883fea3508b4da1ad8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae4f268a86839c883fea3508b4da1ad8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gojihva
+sanskrit_name: गोजिह्वा
+transliteration: gojihvā
+ref_drug_name: गोजिह्वा
+status: Accepted source
+discussion: Gojihva is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Gojihva
+sanskrit_name: गोजिह्वा
+transliteration: gojihvā
+ref_drug_name: गोजिह्वा
+status: Accepted source
+discussion: Gojihva is correlated to this species
+reference: [3]
+
+Identity Record 3
+drug_name: Gojihva
+sanskrit_name: गोजिह्वा
+transliteration: gojihvā
+ref_drug_name: गोजिह्वा
+status: Most probable
+discussion: Most probably it is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Gojihva
+sanskrit_name: गोजिह्वा
+transliteration: gojihvā
+image_urls: https://www.medicinalplants.in/slokaimages/661/661_1.jpg https://www.medicinalplants.in/slokaimages/661/661_2.jpg https://www.medicinalplants.in/slokaimages/661/661_3.jpg
+ocr_text: गोजिह्वा वातला शीता ग्राहिणी कफपित्तनुत्| बल्या प्रमेहकासास्रव्रणज्वरहरी लघुः|| कोमला तुवरा तिक्ता स्वादुपाकरसास्मृता T (Bpn) Gojihva is laghu in guna, sita in veerya, grahini, balya, vatala, kapha pitta hara, cures prameha, kasa, asra vikara, vrana and jvara Komala is tuvara, tikta in rasa, svadu in paka and rasa गोजिह्वा कटुका तिक्ता शीतला पित्तनाशिनी | व्रणसंरोपणी चैव सर्वदन्तविषर्तिजित््|| (Rjn) Gojihva is katuka, tikta in rasa, sitala in veerya, pitta nasini, vrana samropani, cures sarva danta roga and visa roga कषाया तु हिता पित्ते स्वादुपाकरसा हिमा [ लघ्वी मण्डूकपर्णी तु तद्वत् गोजिह्वका मतात (सुश्रुत सू ४६ २६४) It is kashaya in rasa, laghu in guna, hima in veerya, svadu in paka ana rasa, effective in pitta ana is similar to mandukaparni.

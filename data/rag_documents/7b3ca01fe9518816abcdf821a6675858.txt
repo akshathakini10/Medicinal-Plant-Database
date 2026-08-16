@@ -1,0 +1,102 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7b3ca01fe9518816abcdf821a6675858
+Botanical Name: Aegle marmelos (L.) CORREA E. SCHULTZ
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Crataeva marmelos L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 261 Vernacular names found in 10 languages. English (5) - bael fruit, bel-tree, beli, bengal quince, golden apple Hindi (15) - bael, bael sripal, beel, beeley, beelgiri, bel, bel patri, bel-patra, bello, bil, bilva, si-phal, siri-phal, sirphal, sri-phal Kannada (20) - baelada mara, belapatre, belavina, belavina mara, bellapatre, bilapatri, bilapatri-hannu, biliptari, billadu, bilpathre, bilpatre, bilpatri, bilpattiri, bilva, bilva pathre, bilva patre, bilvapatre, byaalada hannu, kumbala, malura Malayalam (10) - covalam, covalum, koovalam, kovalam, kulakam, kuvalam, kuvalap-pazham, kuvvalam, mavilavu, vilvam Marathi (5) - bael, baela, bel, bili, vel Sanskrit (63) - Sanskrit Comments  Sanskrit Name - Bilva Author Comments Chunekar: Identified with the species Dr Bapalal Vaidya: Identified with the species P.V.Sharma: Identified with the species adhararuha, aritaki, asholam, atimangaliya, balva, bilva, bilvah, bilvam, bilvaphalam, bivalva, duraruha, gandhagarbha, gandhapatra, gohki, granthila, hridyagandha, kantakadhya, kantaki, kapitana, karkatavha, lakshmiphala, mahakapitha, mahakapithakhya, mahaphala, mahaphalah, malura, malurah, mangalya, nilamallika, patrashreshtha, pitaphala, putivata, sadaphala, sailusa, sailusah, salatuh, samirasara, sandilya, sandilyah, sangrahi, satyadharma, satyaphala, shailapatra, shailusha, shalatu, shalya, shandilya, shivadruma, shiveshtha, shriphala, sitanuna, sivadrumah, sriphal, sriphala, sriphalah, sunitika, tripatra, trishakhapatra, trishikha, vilva, vilvah, vilvaka, vilvapesika Tamil (115) - akuvakananmeccumilai, alluram, alukam#, alukam@, aluvigam, aluvikam, anincil, aranpucaikkerramaram2, arcanaiyati, bilva, bilvam, capalukam, catapalam2, catippattiram2, cattal2, cirettamaruntati, ciripalam, ciripalam2, ciripalamaram, cirivirutcam, civankam, civattirumaram, civattiruvam, civatturumam, covalam, iyalbudi, iyalpu@, iyalpupati, iyalputi2, kantapalai2, kantapattiram2, karkatam, karuvila1, karuvilakikamaram, karuvilakitam, karuvilam1, kentakakarpam, kentapattiram2, koovilam, kovaritaki2, kucapi, kuvilai, kuvilam, kuvilam palam, kuvinam, makakapittam, makapalai, makapalam 5, makapittam, makavali, makavalimaram, makavalli, maluram, maluramaram, maruntirkati, mavilamaram, mavilangai, mikuttikam, mikuttikamaram, mikuttiyal 2, mirutiyal, mirutiyam, mirutiyamaram, mulamukkanai, munkalantavirutcatti, mutantamuli, muvilaicci, navacikaram, nilamalikkam, nimilaiccattumuli, ninmalli, nirmatalam, pacunakam, pacunakamaram, pattiracirettam, pattiri3, piracinapanacam#, piracinapanacam@, pitapalam, pukku 2, pukkuli, pukkulimaram, putiiratam, putimarutam, putimarutamaram, putivakam, putivatam, puttiru 2, tiricakam, tiricakamaram, tiricam, tiricikam, tirucam, vailavam, vanamuli, vatacaram, vatam, vatam#, vatamaram, viccanniyam, viccanniyamaram, vil, villai, villankam, villuvam, villvam, vilva, vilva-pazham, vilvam, vilvappu, vilwam, virinikamaram, virinka, virutiyakentam, viyalputi Telugu (16) - bilva, bilva-pandu, bilvachettu, bilvamu, bilvapandu, maalaaramu, maluramu, maraedu, maredi, maredu, sailushamu, sandiliyamu, shandiliyamu, shreephalamu, sriphalamu, valaga Tibetan (4) - bi lva, bil ba, bil ba (d), ka-bed Urdu (8) - baelphal, bel, bel kham, belgiri, belgiri (bael), biligiris, chalbel, guda belgiri taza
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858/xclkon/02edce882e7fc9cccfa0cff2d92d30b5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 63
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/63.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858/xclkon/02edce882e7fc9cccfa0cff2d92d30b5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858/xclkon/02edce882e7fc9cccfa0cff2d92d30b5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858/xclkon/02edce882e7fc9cccfa0cff2d92d30b5
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858/xclkon/02edce882e7fc9cccfa0cff2d92d30b5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858/xclkon/02edce882e7fc9cccfa0cff2d92d30b5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b3ca01fe9518816abcdf821a6675858/xclkon/02edce882e7fc9cccfa0cff2d92d30b5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bilva
+sanskrit_name: बिल्व
+transliteration: bilva
+ref_drug_name: बिल्व
+status: Accepted source
+discussion: Bilva is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Bilva
+sanskrit_name: बिल्व
+transliteration: bilva
+ref_drug_name: बिल्व
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Bilva
+sanskrit_name: बिल्व
+transliteration: bilva
+ref_drug_name: बिल्व
+status: Accepted source
+discussion: Bilva is correlated to this species
+reference: [3]
+
+Identity Record 4
+drug_name: Bilva
+sanskrit_name: बिल्व
+transliteration: bilva
+ref_drug_name: बिल्व
+status: Accepted source
+discussion: Bilva is correlated to this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bilva
+sanskrit_name: बिल्व
+transliteration: bilva
+image_urls: https://www.medicinalplants.in/slokaimages/47/47_1.jpg https://www.medicinalplants.in/slokaimages/47/47_2.jpg https://www.medicinalplants.in/slokaimages/47/47_4.jpg https://www.medicinalplants.in/slokaimages/47/47_5.jpg https://www.medicinalplants.in/slokaimages/47/47_6.jpg
+ocr_text: सदाफलः पीलुफलो हृद्यगन्धः शलाटिकः शलाटुद्रुम इत्युक्तो शब्दैः पर्यायवाचकैः II (Aa ma) Sadaphala, piluphala, hrdyagandha salatika, salatu druma are the synonyms for bilva विलवः शाण्डिल्यशैलूषो मालूरश्रीफलावपि गन्धगर्भः शलादुश्च कण्टकी च सदाफलः बालं विल्वफलं विल्वकर्कटी विल्वपेशिका (Bpn) Vilva, sandilyasailusa, malura sriphala, gandhagarbha, salatu kantaki, sadaphala are the synonyms for bilva. Bilva karkati bilva pesika are ihe synonyms ior bala bilva phala मधुरो हृद्यः कषायोष्णो रुचिप्रदः दीपनो ग्राहको रूक्ष्ः पित्तलस्तिक्तकः कटुः |I गुरुः पाचनकर्ता च वातातीसारजूर्तिहा बालं विल्वफलं स्निगधं गुरु रुच्यं च दीपनम् Il ग्राहकं पाचकं तिक्तं लघु चोष्णं च तूवरम् शूलामवातग्रहणीकफातीसारनाशनम् |l तरुणं तु फलं वैल्वं ग्राही तुवरमम्लकम् स्निग्धं च कटु तीक्ष्णं च उष्णं च लघु दीपनम् Il पाचकं कफवाय्वोश्च नाशकं हृदयाप्रियम पक्वं वैलवं दाहकरं मधुरं गुरु तूवरम् विष्टम्भकारी तिक्तोष्णं ग्राहकं कटु दोषलम् वातलं चाग्निमान्द्यकृत् ऋषिभिर्मतम् |l विल्वमूलं तु मधुरं त्रिदोषच्छर्दिशूलनुत् लघु कृच्छहरं वातकफपित्तस्य नाशकम् |l पर्णानि ग्राहकाणि स्युर्वातनाशकराणि च (Nir) Bilva is kashaya katu, tikta, madhura in rasa, ruksa, guru in guna usna in veerya, hrdya ruciprada, dipana grahaka, pacani causes increase in pitta cures vata atisara Bala bilva (tender fruit) phala is snighda, guru laghu in property, rucya, dipana grahi, pacaka, tikta tuvara in rasa usna in veerya, cures sula amavata grahani, kapha and atisara. Taruna phala ( Semi-repined) is grahi, tuvara, amlaka, katu in rasa snigdha, tiksna, laghu in guna, usna in veerya dipana, pacaka, kapha vata hara and hrdya priya. Pakva phala is madhura, tuvara tikia katu in taste, usna in potency, causes increase in daha, is guru vistambha kari, grahi, doshala, durjara, vatala, agnimandya karaka Bilva mula is madhura in taste, laghu in property cures tridosha chardi sula, vata kaphapitta and krcchra Parna (leaf) is grahaka and vata nasaka विल्वस्तु दुर्जरं विल्वमूलं त्रिदोषघ्नं छर्दिघ्नं मधुरं लघु | विशल्या तु फलं बालं स्निग्धं संग्राहि दीपनम् |l कटुतिक्तकषायोष्णं तीक्ष्णं वातकफाहम् विद्यात्तदेव संपक्वं मधुरानुरसं गुरु |l विदाहि विष्टम्भकरं दोषहृत् पूतिमारुतम् (Dhn) Bilva mula is madhura tasie laghu property, alleviates tridosha and chardi. Bala phala is katu, tikta, kashaya in taste usna in potency tiksna snigdha, sangrahi in guna, dipana alleviates vata and kapha Pakva phala is madhura in anurasa guru in property vidahi, vistambhakara, dosha hara and putimaruta विल्वस्तु मधुरो हृद्यः कषायः पित्तजिद् गुरुः कफज्वरातिसारघ्नी रुचिकृद्दीपनः परः |l विल्वमूलं त्रिदोषघ्नं मधुरं लघु वातनुत् फलं तु कोमलं स्निग्धं गुरु संग्राहि दीपनम् Il तदेव पक्वं विज्ञेयं मधुरं सरसं गुरु कटुतिक्तकषायोष्णं संग्राहि च त्रिदोषजित् II (Rjn) Bilva is madhura kashaya in tasie guru in property hrdya, dipana, ruci karaka, alleviaies pitia, cures kapha ivara, atisara Bilva mula is madhura in rasa, laghu in property tridoshaghna vata hara Komala phala is snigdha, guru in property sangrahi and dipana Pakva phala is madhura, katu, tikta kashaya in taste, sara, guru in property, usna in potency, sangrahi and alleviates tridoshas

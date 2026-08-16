@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3b1ad368261bd41380a118d8eec6fe43
+Botanical Name: Convolvulus scammonia L.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. English (1) - levent scammony Tamil (3) - cakamoni, cakamuniya, mamuta Urdu (1) - saqmunia
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b1ad368261bd41380a118d8eec6fe43
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b1ad368261bd41380a118d8eec6fe43
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b1ad368261bd41380a118d8eec6fe43
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b1ad368261bd41380a118d8eec6fe43
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

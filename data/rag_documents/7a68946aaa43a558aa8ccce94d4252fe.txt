@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7a68946aaa43a558aa8ccce94d4252fe
+Botanical Name: Rhus parviflora ROB.
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 3 languages. Hindi (8) - raitung, rungla, saunla, tumra, tung, tungala, tungia, tungla Sanskrit (2) - Sanskrit Comments  tintidika, tintrini Urdu (1) - samandarphal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a68946aaa43a558aa8ccce94d4252fe
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a68946aaa43a558aa8ccce94d4252fe
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a68946aaa43a558aa8ccce94d4252fe
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tantidika
+sanskrit_name: तन्तिडीक
+transliteration: tantiḍīka
+ref_drug_name: तन्तिडीक
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Tintidika
+sanskrit_name: तिन्तिडीक
+transliteration: tintiḍīka
+ref_drug_name: तिन्तिडीक
+status: Accepted source
+discussion: Tintidika is correlated to this species
+reference: [2]
+
+Identity Record 3
+drug_name: Tintidika
+sanskrit_name: तिन्तिडीक
+transliteration: tintiḍīka
+ref_drug_name: तिन्तिडीक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 4
+drug_name: Tintidika
+sanskrit_name: तिन्तिडीक
+transliteration: tintiḍīka
+ref_drug_name: तिन्तिडीक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Tintidika
+sanskrit_name: तिन्तिडीक
+transliteration: tintiḍīka
+ref_drug_name: तिन्तिडीक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

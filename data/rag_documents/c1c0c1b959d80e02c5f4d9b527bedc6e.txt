@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c1c0c1b959d80e02c5f4d9b527bedc6e
+Botanical Name: Myristica malabarica LAM.
+Family: Myristicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 63 Vernacular names found in 7 languages. Hindi (2) - bambay-jayphal, van-jayphal Kannada (13) - dodda jaakaayi, dodda jajee kaayi, doddajaajikaayi, gaddaada mara, kaadu jaayi kaayi, kaanage, kaanagi, kaanaje, kanaga, kanage, kanagi, kirushivani, shamaara mara Malayalam (15) - chorapali, colavenna, katjatika, kattujathi, kattujati, kattujatikka, kattujattika, kottappannu, panam-palca, pasupasi, pathiri, patri, ponnampanu, ponnampayin, sholavengai Marathi (1) - raampathri Sanskrit (10) - Sanskrit Comments  asana, bandhukapushpa, gostani, jatiphala, kamuk, kamuka, katphalah, malati, pasupasi, vanyajati Tamil (17) - colaivenkai, katjathika, kattu jatikkai, kattu-c-catikkay, kattu-sathikkai, kattucatikkay, kattuccati, kattuchadi, kattujadikkai, nattu catikkay, pattiri, pattiri2, periyagattuchadi, periyakattu catikkay, periyakattuccati, peruncatikkay, saathikkai Telugu (5) - adavijajikaaya, adavijajikaya, adividzajikaya, rampatri, vanajati
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1c0c1b959d80e02c5f4d9b527bedc6e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1492
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1492.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1c0c1b959d80e02c5f4d9b527bedc6e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1c0c1b959d80e02c5f4d9b527bedc6e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1c0c1b959d80e02c5f4d9b527bedc6e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 91440d9efc82e1c8a8f82632791efcb7
+Botanical Name: Rhynchostylis retusa (L.) BL.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Epidendrum retusum L. Saccolabium guttatum LINDL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Malayalam (2) - ansjeli-maravara, biti-maram-maravara Marathi (1) - panas-keli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91440d9efc82e1c8a8f82632791efcb7/xclkon/a3f47915a955de1f2f904f0739e7c2aa
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91440d9efc82e1c8a8f82632791efcb7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91440d9efc82e1c8a8f82632791efcb7/xclkon/8edba5abd7afd6864234a1a4d5060873
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91440d9efc82e1c8a8f82632791efcb7/xclkon/a3f47915a955de1f2f904f0739e7c2aa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

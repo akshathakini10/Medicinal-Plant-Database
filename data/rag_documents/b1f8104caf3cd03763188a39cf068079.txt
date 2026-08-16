@@ -1,0 +1,105 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b1f8104caf3cd03763188a39cf068079
+Botanical Name: Vigna mungo (L.) HEPPER
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Phaseolus mungo (L) MANT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 89 Vernacular names found in 9 languages. English (2) - black gram, urd Hindi (10) - harrimung, moong, mug, mung, munj, pessara, urad, urd, urid, wallimung Kannada (4) - hesaru, hesarubele, pachahesaru, uddu Malayalam (5) - cherupayar, kattulunnu, katu-ulunu, serupayaru, ulunnu Marathi (4) - moog, moong, mug, udid Sanskrit (13) - Sanskrit Comments  bhuktiprada, hayananda, mada, masa, masah, masaparni, mudga, mudgah, rasottama, supashreshtha, suphala, vajibhojana, varnarha Tamil (38) - anaki, aparankapparuppu, ataiyankam, cellappayiru, cimpikam 2, cirupayaru, kakkacanti, kalaikkarippan, kalaikkarippanpayaru, karaikkarikkan, karuppukkarikkan, karuppukkarikkanpayaru, karuppuluntu, kattuluntu, kayttaniyam, kuttukkarpayaru, malam, masam, matappatinkam, matappayaru, murkam, paccaippayaru, pachaipayaru, pachchai poyaru, pachhai-payaru, pacippayaru, patchai payara, payaru, purisam, puritam, puritamam, siru payara, ulundu, ulunthu, uluntu, uluntucceti, uti 1, yavakam Telugu (9) - minumulu, nallaminumulu, pachapesalu, pachhai-pesulu, patcha pessara, pesalu, pesalu pessara, uddulu, wuthulu Urdu (4) - arad mung, dal mung, moong, mung
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079/xclkon/3acda78020a479b75afcc3cfb3a728fd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079/xclkon/3acda78020a479b75afcc3cfb3a728fd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079/xclkon/3acda78020a479b75afcc3cfb3a728fd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079/xclkon/3acda78020a479b75afcc3cfb3a728fd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b1f8104caf3cd03763188a39cf068079
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Masa
+sanskrit_name: माष
+transliteration: māṣa
+ref_drug_name: माष
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Masa
+sanskrit_name: माष
+transliteration: māṣa
+ref_drug_name: माष
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 3
+drug_name: Masa
+sanskrit_name: माष
+transliteration: māṣa
+ref_drug_name: माष प्रकार
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 4
+drug_name: Masa - prakara
+sanskrit_name: माष प्रकार
+transliteration: māṣa prakāra
+ref_drug_name: माष
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 5
+drug_name: Masa - prakara
+sanskrit_name: माष प्रकार
+transliteration: māṣa prakāra
+ref_drug_name: माष
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 6
+drug_name: Masa - prakara
+sanskrit_name: माष प्रकार
+transliteration: māṣa prakāra
+ref_drug_name: माष प्रकार
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

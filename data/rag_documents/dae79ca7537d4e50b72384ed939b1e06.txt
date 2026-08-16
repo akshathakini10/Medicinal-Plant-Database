@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dae79ca7537d4e50b72384ed939b1e06
+Botanical Name: Viscum articulatum BURM.F.
+Family: Viscaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Viscum nepalense SPRENG.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 53 Vernacular names found in 6 languages. Hindi (9) - banda, bandala, budu, pan, pand, pudu, vadaka, vahaakal, vande Kannada (3) - gantu badanike, gennu badanike, nn Marathi (4) - baanda, banda, kamaruka, kamarukha Sanskrit (28) - Sanskrit Comments  gandhamadini, jivantika, kamavriksha, kamini, karuruha, kesharupa, nilavalli, nilavarna, padapruha, parapushta, parashraya, parawasika, putrini, sevya, shekhara, shyama, tarubhuk, tarurohini, tarustha, upadi, valdaka, vanda, vandaka, vandya, vashini, vrikshabhaksha, vrikshadini, vriksharuha Tamil (1) - ottu Telugu (8) - badanika, bajanika, chettu bajiniki, karra badanika, karrabadanika, karribajinika, kattabadanika, kodabadanika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dae79ca7537d4e50b72384ed939b1e06/xclkon/929566b037604942711ae7cb280a2553
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dae79ca7537d4e50b72384ed939b1e06
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dae79ca7537d4e50b72384ed939b1e06/xclkon/929566b037604942711ae7cb280a2553
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dae79ca7537d4e50b72384ed939b1e06
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dae79ca7537d4e50b72384ed939b1e06/xclkon/929566b037604942711ae7cb280a2553
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

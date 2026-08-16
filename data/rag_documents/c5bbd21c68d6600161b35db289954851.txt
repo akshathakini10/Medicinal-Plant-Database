@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c5bbd21c68d6600161b35db289954851
+Botanical Name: Smilax ovalifolia ROB.
+Family: Smilacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Smilax macrophylla ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 6 languages. Hindi (4) - guti, jangli-aushbah, jangliushbah, ram dana Malayalam (4) - kal-tamara, kaltamara, karivilanti, kuri-vilandi Marathi (1) - gutvel Sanskrit (2) - Sanskrit Comments  copacini, maitri Tamil (3) - malai-tamarai, malait-tamarai, malaitamara Telugu (13) - kistapa-tamara, kistapatamara, konda-dantena, konda-guruva-tige, konda-tamara, kondadantena, kondagarbhatige, kondaguravatige, kummarabaddu, kundagurvatiga, kushtaputamara, sitapa, sitapa-chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851/xclkon/e713a41ff2fe16edde4f92cb763b9326
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851/xclkon/e713a41ff2fe16edde4f92cb763b9326
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5bbd21c68d6600161b35db289954851
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Copacini - prajati
+sanskrit_name: चोपचीनी प्रजाति
+transliteration: copacīnī prajāti
+ref_drug_name: चोपचीनी प्रजाति
+status: Substituted source
+discussion: This species is used as a substitutein India
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

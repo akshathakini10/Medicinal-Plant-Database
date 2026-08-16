@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 740f5a06cc95eb3ea60f291d5e6c83ea
+Botanical Name: Porana paniculata ROB.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 5 languages. English (1) - white corallita Hindi (8) - bel kamu, faindal, hirohi ra vela, hirohiravela, jhol, massata, safed bel, safel bel Kannada (1) - maalathi balli Sanskrit (1) - Sanskrit Comments  kanta Telugu (2) - chitti boddi, malatijapanatige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/740f5a06cc95eb3ea60f291d5e6c83ea
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/740f5a06cc95eb3ea60f291d5e6c83ea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gandhapriyangu
+sanskrit_name: गन्धप्रियङ्गु
+transliteration: gandhapriyaṅgu
+ref_drug_name: गन्धप्रियङ्गु
+status: Accepted source
+discussion: This species is taken into consideration with regard to its features resembling the plant.
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

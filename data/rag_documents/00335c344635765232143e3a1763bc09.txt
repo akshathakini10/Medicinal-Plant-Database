@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 00335c344635765232143e3a1763bc09
+Botanical Name: Ferula assa-foetida L.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 100 Vernacular names found in 7 languages. Hindi (3) - himg, hing, hingra Kannada (3) - hingu, ingina gida, ingu Malayalam (5) - karikkayam, kayam, perungayam, perungkayam, perunkayam Sanskrit (9) - Sanskrit Comments  bahleeka, bhedana, bhutnasan, gathukam, hingu, ramatha, ramatta, sahasveani, sulanasan Tamil (76) - acani2, akutakantakam, akutakantam#, akutakantam@, atakantam, atikanari, attiyakirakam, cakantirapeti, canam, canam2, cantunacam, capapatankam, capapatankamaram, caranam1, catukam, centutti2, cukantiram, cukantiramaram, culakirutu, cuttakaitavam, cuttakaitavamaram, inku, inkuli, inkupumam, inkura, inkuramam, inkutumam, intuli b, intuli y, iramatai, iramatam, iramatam#, iramatam@, iranam, iratam1, kanti, kanti2, kapari, kaparimaram, karam1, karavi2, kayam, kayam1, kecaram3, kuracam, kuramatam, kutanacam, kutanacanam, kutaram, kuttaracam, nari2, narimaram, narukam, narukamaram, narukatti, parunkayam, perungayam, perungkayam, perungyum, perunkayam, perunkayanari, putanacam, putanacini, ucitam, ukkirakantam1, ukkirakentai1, ukkirakentam1, ukkitam, urappam, urappankayam, uraral, urpalacacanan, urpalacanan#, urpalacanan@, urumparam, vallikam Telugu (3) - ingu, inguva, raamatamu Urdu (1) - hing
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00335c344635765232143e3a1763bc09
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

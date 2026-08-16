@@ -1,0 +1,119 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a4f1228958884d0b1d991ee640366154
+Botanical Name: Cucumis melo L. var. momordica DUTHIE & FULLER
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cucumis callosus (ROTTL.) COGN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 99 Vernacular names found in 9 languages. Hindi (13) - baro-kachro, kachra, kachri, kachrio, kachro, kakri-ke-bij, kakrio, khadbiyo, kharbooja, khurbuza, meki, phoot, takmak Kannada (12) - adike baale, aramekke, dodda mekke, haalu mekke, hirey mekke, kahiminike kaayi, kalangari, kallangadi, kharbooja, minike hannu, mullu-savate-bija, pacche kaayi Malayalam (2) - kakkarikka-vitta, kattuvellari Marathi (8) - chibunda, kadvi, karit, kharbuja, khurbuj, sakkar teti, tarkakdi, tavsini Sanskrit (40) - Sanskrit Comments  alakakhya, alaya, aluka, amritavha, cirbhati, citraphalam, dashangula, ervaru, ervaruh, ervaruka, g, garakshi-vrikshamu, gavadani, indravaruni, kalinga, karkati, kharbuja, kharvuja, lomashi, madhupaka, madhuphala, odumba, phalaraja, pitavarnakam, sadbhujah, sadbuja, sadrekhah, shadabhya, shadbhuja, shadrekha, shanmukha, sisravrttam, tikta, tiktaphala, trapusa, trapusi, urvaru, urvaruka, vrittakarkatti, vrttervaru Tamil (11) - akaya kakkarikay, chukkarigai, kak-karik-kay-virai, kakkarik kay-virai, kattu thumatti, mul-vellirik-kay-virai, mul-vellrik-kay-virai, mulampalam, mulampazham, mulvellari, thumattikai Telugu (3) - karbooja dosa, mulam-pandu, mullu-dosakaya-vittulu Tibetan (5) - ba na ntra pu si (d), ba na tra pu sa, ba na tra pu si (p), ba ntra pu si (d), rgya mtshog gon Urdu (5) - kakri, kharbuja, kharbuza, khurbuzah, qarbooza
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/8160c0195126abf90e366fd7447990b7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/8160c0195126abf90e366fd7447990b7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/8160c0195126abf90e366fd7447990b7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/8160c0195126abf90e366fd7447990b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/8160c0195126abf90e366fd7447990b7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4f1228958884d0b1d991ee640366154/xclkon/e9e5d138e313019434c1aff43227e08c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cirbhata
+sanskrit_name: चिर्भट
+transliteration: cirbhaṭa
+ref_drug_name: चिर्भट
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Gajacirbhata
+sanskrit_name: गजचिर्भट
+transliteration: gajacirbhaṭa
+ref_drug_name: गजचिर्भट
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+Identity Record 3
+drug_name: Gajacirbhata
+sanskrit_name: गजचिर्भट
+transliteration: gajacirbhaṭa
+ref_drug_name: गजचिर्भट
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+Identity Record 4
+drug_name: Karkati
+sanskrit_name: कर्कटी
+transliteration: karkaṭī
+ref_drug_name: कर्कटी
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 5
+drug_name: Kharbuja
+sanskrit_name: खर्बूजा
+transliteration: kharbūjā
+ref_drug_name: खर्बूजा
+status: AS
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 6
+drug_name: Urvaruka
+sanskrit_name: उर्वारुक
+transliteration: urvāruka
+ref_drug_name: उर्वारुक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

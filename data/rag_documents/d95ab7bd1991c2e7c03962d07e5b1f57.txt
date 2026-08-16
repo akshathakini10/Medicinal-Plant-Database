@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d95ab7bd1991c2e7c03962d07e5b1f57
+Botanical Name: Hygroryza aristata NEES
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 7 languages. Hindi (4) - janglidal, jungali-dal, tilli, tini Kannada (3) - juarahumedhe, jyarahu medhe, kaadu bili sajjabu hullu Malayalam (4) - nir-valli-pulli, nirvallippulu, nirvallipullu, varinellu Marathi (3) - deobhaatha, deobhata, dev-bhat Sanskrit (11) - Sanskrit Comments  aranyadhanya, aranyajali, munidhanya, neevara, nirvarah, nivara, prasadhika, trinadhanya, trinodbhava, trunanna, vanavrihi Tamil (1) - vallippul Telugu (1) - erra changala gaddi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d95ab7bd1991c2e7c03962d07e5b1f57
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1163
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1163.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d95ab7bd1991c2e7c03962d07e5b1f57
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d95ab7bd1991c2e7c03962d07e5b1f57
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nivara
+sanskrit_name: नीवार
+transliteration: nīvāra
+ref_drug_name: नीवार
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

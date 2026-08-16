@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d35e9218b41d9dd87ae2ca590d56b635
+Botanical Name: Glossogyne bidens (RETZ.) ALSTON
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Glossogyne pinnatifida DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Kannada (1) - kaalu sabba seege soppu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35e9218b41d9dd87ae2ca590d56b635
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35e9218b41d9dd87ae2ca590d56b635/xclkon/f2c07d046b993ed4b80aa8d3205435c0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35e9218b41d9dd87ae2ca590d56b635
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

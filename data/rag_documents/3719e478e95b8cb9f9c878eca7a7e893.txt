@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3719e478e95b8cb9f9c878eca7a7e893
+Botanical Name: Ficus microcarpa L.F.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ficus retusa AUCT. NON L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 100 Vernacular names found in 8 languages. English (1) - nandrak vad Hindi (4) - chilkan, kamrup, pinwal, zir Kannada (26) - adakagoli, adike goli, bhillaal, biliala, girgoli, gudde goli, heelaala, hillala, hinaala, hinala, jeevi, kirgoli, kirigoli, kirugoli, nanki pipla, nankipipri, peelaalada mara, pibalada, pilaka, pilal, pilala, pilimara, pinala, pinval, shidigoli, sidigoli Malayalam (7) - itti, itti-arealou, ittiyal, itty-alu, ittyalu, kalatthi, kallithi Marathi (6) - arekgol dhavidek-gol, namdruk, nandruk, oval leaved fig, thunivriksha, tunivriksha Sanskrit (13) - Sanskrit Comments  gajapadapa, kantalaka, ksavataru, kshudra, kuberaka, kuni, kunjarapadapa, mandirriksha, nandivriksha, nandivrksa, plaksah, sthalivrksa, tunna Tamil (12) - antiyantapittan, icci, ichi, kallicchi, kallicci, kallichi, kallitti, kalluichi, malaiyicci, malaiyichi, malaiyitchi, yerrajuvi Telugu (31) - billa juvvi, billadzuvvi, billajuvvi, emmanta, emmenta, emmoduga, erradzuvvi, errajuvvi, helodaga, hema vudaga, hemanta, hemanthu, hemanto, hemantu, hemavudaga, hemavudaya, hemodaga, konda juvvi, konda pillara, kondapillaara, kondapillara, nandireka, uttarajuvvi, verrijuvvi, vettijuvvi, yerra juvvi, yerrajeevi, yerrajivvi, yerrajoovee, yerrajuvi, yerrajuvvi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3719e478e95b8cb9f9c878eca7a7e893/xclkon/0a6b22a0bd35ea31fb2c60b3431bd7be
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

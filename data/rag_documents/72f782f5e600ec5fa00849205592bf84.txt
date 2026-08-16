@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 72f782f5e600ec5fa00849205592bf84
+Botanical Name: Mimosa cinerea L.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 5 languages. Hindi (1) - vurtuli Marathi (1) - segumkati Sanskrit (1) - Sanskrit Comments  viravriksha Tamil (8) - mayilantam, vadatalla, vedittalung kolingoo, vidathala, vidather, vitatarai, vitatari, vitatter Telugu (1) - veturu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72f782f5e600ec5fa00849205592bf84
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72f782f5e600ec5fa00849205592bf84
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72f782f5e600ec5fa00849205592bf84
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

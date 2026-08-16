@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d7e731e92394f28ed204ab72d4191ba6
+Botanical Name: Barleria acanthoides VAHL.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 2 languages. Hindi (1) - chapari Sanskrit (9) - Sanskrit Comments  amlana, amlatana, artagala, bana, jhinti, jhintika, kurantaka, sahacara, saireyakah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e731e92394f28ed204ab72d4191ba6
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 283
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/283.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e731e92394f28ed204ab72d4191ba6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

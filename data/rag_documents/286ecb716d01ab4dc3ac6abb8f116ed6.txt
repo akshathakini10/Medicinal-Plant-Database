@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 286ecb716d01ab4dc3ac6abb8f116ed6
+Botanical Name: Mucuna monosperma DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 39 Vernacular names found in 5 languages. Kannada (4) - anipe balli, anipeballi, kaivalya balli, koogaari balli Marathi (4) - godikohali, godikuhili, songaarabee, vhadli-khat-kutli Sanskrit (10) - Sanskrit Comments  dadhiipushpi, kakakolapalika, kakanda, kakandola, khatava, khatavangi, khatvapadi, kupa, paryankapadika, vanshya Tamil (10) - avavikai, avavikaikkoti, cecaniyakkoti, cecaniyam, kavanakkoti, kavanam, periyatellukkaycceti, periyattalargai, tellukkaycceti, thelu-kodi Telugu (11) - doola-goonda, enuga-dulagondi, enugadoolagondi, enugadulagondi, gurrapugacca, gurrapugutcha, guttapugacha, pedda-enuga, peddadoolagondi, peddadoolagunda, peddadulagondi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286ecb716d01ab4dc3ac6abb8f116ed6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286ecb716d01ab4dc3ac6abb8f116ed6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286ecb716d01ab4dc3ac6abb8f116ed6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286ecb716d01ab4dc3ac6abb8f116ed6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakanda
+sanskrit_name: काकाण्ड
+transliteration: kākāṇḍa
+ref_drug_name: काकाण्ड
+status: Accepted source
+discussion: Caraka and Susruta both have mentioned the seeds of 'Kakanda' under the 'Samidhanya'; Cakrapani has interpreted it as 'Sukarasimbi' and Dalhana as 'Asvaka' most probably because it was used as an aphrodisiac just like Kapikacchu; Popularly Kakanda is known as 'Sukarasimbi'; According to the description given by Vagbhata, Kakanda and Atmagupta belong to the same family; With regard to this it is correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

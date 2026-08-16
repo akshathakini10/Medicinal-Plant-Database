@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2e0ced1066486c34d420d287ac7cb0da
+Botanical Name: Euphorbia hirta L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Euphorbia pilulifera L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 149 Vernacular names found in 9 languages. English (2) - garden spurge, semi-erect euphorbia Hindi (6) - dhedi dudheli, doodhli, dudhi, dudhile, dudhli, lal-dudhi Kannada (15) - acchacche gida, acche gida, achchegida, achhe soppu, barasagida, barasu, dodda haalu kudi, genthee kasa, haala kudi, haaluni, kempu nene akki, kempu neneakkee soppu, kempu neneyakki soppu, marri jevanige, naagaarjuni Malayalam (2) - nelapalai, nilappala Marathi (10) - dudhali, dudhi, dudnali, dudurli, govardhan, goverdhan, mothidudhi, motidoodhi, motinaayari, nayeti Sanskrit (8) - Sanskrit Comments  dugadhika, dugdhaphanii, dugdhika, ksharini, ksirini, nagarjuni, pusitoa, raktavinduchada Tamil (92) - alapatikam, amampatchaiarisi, amaum patcheh arisee, ammam pachcharisi, ammampaccarici, amman paccarici, amman paccarici ver, amman paccaris, amman paccirici, amman pacharisi, amman patcharisi, amman-pach-charisi, amman-pacharisi, ammanpaccharisi, ammanpacharisi, ammatti, ammatti 1, amum-patchaiaressi, amumpatchaiyarissi, ciivitu, cilivittarici, cilvitu, cintialatcurai, cintiyalatcurai, cirrammanpaccarici, cirrilaippalatai, cirrilairpalatai, cirukalikacceti, cirukammanpaccarici, cirupalatai, citiraipalavi, cittammanpaccarici, cittirai, cittirai pal, cittirai#, cittirai@, cittiraippal 1, cittiraippalavi, cittirap-palatai, cittirapalai, cittirapalatai, cittirappalai, cittirappalatai, cittirappalatai@, cittirappalatai~, cittirappalavi, cittiravalaiya, cittiravalaya, cittiravallari, cittiravallati, cittivalai, cittivalaiyam, cittivalaiyarici, cittivalayam, cittivalayarici, civittarici, cutuculatti, cututurattam, cututuratti, cututuratti#, cututuratti$, cututuratti@, cututuratticceti, karaccam, katuturatti, nakayacceti, nalayam, nalaycceti, nallammanpaccarici, nilappalai, nilappalai 1, nilavamman paccarici, nilavammanpaccarici, nulaccukacceti, nulaccukam, pacorri, palatai, par puranti, parcorri, parcorrikkoti, parcorrikosti, parcurri, parpuranti, patchaiyarissi, peyamman paccarici, peyammanpaccarici, pulika, pulikacceti, valayamman packaric, vayalammanpaccarici, vellaiyammanpaccarici, vellayammanpaccarici Telugu (12) - bidari, bidarie, naanabaala, naanabiyan, nanabala, nanabalu, nanabiyan, pachha bottu, pachhaku, reddinanabrolu, reddivaari nanubalu, reddivari-nanubalu Urdu (2) - doodhiklan, dudh khurd
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da/xclkon/2ccca8c16650bce5a6094a01406d3e4a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 930
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/930.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da/xclkon/2ccca8c16650bce5a6094a01406d3e4a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da/xclkon/2ccca8c16650bce5a6094a01406d3e4a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da/xclkon/2ccca8c16650bce5a6094a01406d3e4a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e0ced1066486c34d420d287ac7cb0da/xclkon/2ccca8c16650bce5a6094a01406d3e4a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dugdhika
+sanskrit_name: दुग्धिका
+transliteration: dugdhikā
+ref_drug_name: दुग्धिका
+status: Most probable
+discussion: It may be identified with this species. This name appears to be used for a wide variety of plants that are lactiferous as the name Dugdhika indicates
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

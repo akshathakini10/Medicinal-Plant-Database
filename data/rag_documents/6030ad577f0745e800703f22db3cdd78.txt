@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6030ad577f0745e800703f22db3cdd78
+Botanical Name: Aerva javanica (BURM.F.) JUSS.  E SCHULT.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Aerva tomentosa FORSK.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 4 languages. Hindi (2) - bui, safed-bui Sanskrit (6) - Sanskrit Comments  krishnavalli, nilkanthi, pasanabheda, pratanika, tripatra, valliyaka Tamil (23) - avalavi, avalavicceti, cimili, cimilikacceti, cimilikam, kannuppilai, kannuppilaicceti, kulirkonikacceti, kulirkonikam, pasanapeti 3, periyapulai, perum pilai, perumbulai, perumpilai#, perumpilai@, perumpilaicceti, perumpuli, pincatacceti, pulaippancu, pulaippu, tautikapilai, tautikapilaicceti, tucikai Telugu (3) - maga beera, pedda pindi, pindi konda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78/xclkon/94973e422c9a28ecbac4fb0199839702
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78/xclkon/94973e422c9a28ecbac4fb0199839702
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78/xclkon/94973e422c9a28ecbac4fb0199839702
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6030ad577f0745e800703f22db3cdd78/xclkon/94973e422c9a28ecbac4fb0199839702
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+ref_drug_name: पाषाणभेद
+status: Controversial
+discussion: Many plants are being used as Pasanabheda in different parts of India; Aerva javanica is found abundant in Gujarat and used as Pasanabheda
+reference: [2]
+
+Identity Record 2
+drug_name: Valliyaka
+sanskrit_name: वल्लियक
+transliteration: valliyaka
+ref_drug_name: वल्लियक
+status: Suggested source
+discussion: Vaidya Bapalal has identified the plant with this species but a look at its synonyms portrays it to be some other species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+image_urls: https://www.medicinalplants.in/slokaimages/233/233_1.jpg https://www.medicinalplants.in/slokaimages/233/233_2.jpg https://www.medicinalplants.in/slokaimages/233/233_3.jpg https://www.medicinalplants.in/slokaimages/233/233_4.jpg
+ocr_text: पाषणभेदकोश्मघ्नःशिलाभेदोश्मभेदकः सचैवोपलभेदश्चनगभिच्छैलगर्भजः Synonyms of pasanabheda are asmaghna, silabheda, asmabhedaka, palabheda, nagabhi elagarbhaja and अश्मभिद्वस्तिरुङ्मूत्रकृच्छ्रतोदाहवातनुत् शीतवीर्योगुरुःस्निग्धस्तथातीसारनाशनः न (शो.नि) Asmabhid is guru, snighda in guna, sita in veerya, alleviates vastiruk, mutra krcchra, daha, vata and atisara. अश्मभेदोहिमस्तिक्तःकषायोवस्तिशोधनः मेदंहन्तित्रिदोषार्शोगुल्मकृच्छ्राश्महृद्रुजः योनिरोगान्प्रमेहांश्चप्लीहशूलव्रणानिच It is tikta, kashaya in rasa, hima in veerya, vasti sodhana, alleviates meda tridosha, arsa, gulma, krcchra, asma, hraruja, yoni roga, prameha, pliha sula and vrana क्षुद्रापाषाणभेदश्चव्रणकृच्छ्राश्मरीहरः IRjn ) Ksudra pasanabheda alleviates vrana, krcchra and asmari.

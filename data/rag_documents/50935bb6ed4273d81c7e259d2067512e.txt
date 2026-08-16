@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 50935bb6ed4273d81c7e259d2067512e
+Botanical Name: Berberis chitria EDWARDS
+Family: Berberidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. Hindi (5) - chotar, chutrum, kashmal, kasmal, totaru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50935bb6ed4273d81c7e259d2067512e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 6672
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/6672.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50935bb6ed4273d81c7e259d2067512e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50935bb6ed4273d81c7e259d2067512e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,74 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 17104b3b47f47163e185684f28288000
+Botanical Name: Manilkara hexandra (ROB.) DUBARD
+Family: Sapotaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Mimusops hexandra ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 108 Vernacular names found in 10 languages. English (1) - palu Hindi (5) - khair, khir, khirni, kshiri, ranjan Kannada (15) - bakula, hale hannu, khiranee, kiraale, kiraanimara, kirani hannina mara, kirani mara, kirhaale, ksheera vriksha, ksheerini, mukula, nn, pakkalada, pakkila, pete Malayalam (7) - elengi, khrini, manilakkara, pala, palamunnippala, palamunpala, pali Marathi (7) - khiranee, kirni, raajana, raini, rajana, ranjana, rayan Sanskrit (26) - Sanskrit Comments  dhupeshtha, drdhaskandha, dridhaskandha, guchhaphala, jara, kapishtha, kshirashukla, kshiravriksha, kshiri, kshirika, kshirini, ksiri, ksirika, ksirini, madhavodbhava, madhuphala, nimbabija, nripadruma, phaladhyaksha, rajadana, rajadanah, rajadani, rajahvam, rajanya, rajaphala, shriphala Tamil (24) - attukkompuppalai, attukkottuppalai, civa, kannupalalai, kanupala, karupala, kirni, mesakkotu, metakkotu, pala, palai, palai 1, palai mukil, palla, patla, pola, sivandi, sivani, sukkilam, ulakkaipalai, ulakkaippalai, ulakkaippali, ullakai-palai, vatuvati Telugu (20) - kirni, manchipala, mancipala, manjipaala, manjipala, nemmi, nienni, nunni, nunni paala, pal, pala, palapandu chettu, pale, palla, pallapandu, palle, pallepaulo, patla, pola, puttapala Tibetan (2) - ra dza da na (d), ra dze da na Urdu (1) - tukhm khirini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/24f1cc80157bc5997e611cd6ecf32fda
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/fb8928ef52b7a0915e63a1250033eb66
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/24f1cc80157bc5997e611cd6ecf32fda
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/fb8928ef52b7a0915e63a1250033eb66
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/24f1cc80157bc5997e611cd6ecf32fda
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/fb8928ef52b7a0915e63a1250033eb66
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/24f1cc80157bc5997e611cd6ecf32fda
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/fb8928ef52b7a0915e63a1250033eb66
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/24f1cc80157bc5997e611cd6ecf32fda
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/fb8928ef52b7a0915e63a1250033eb66
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17104b3b47f47163e185684f28288000/xclkon/24f1cc80157bc5997e611cd6ecf32fda
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ksirika
+sanskrit_name: क्षीरिका
+transliteration: kṣīrikā
+ref_drug_name: क्षीरिका
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

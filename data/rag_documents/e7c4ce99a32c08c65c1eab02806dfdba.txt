@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e7c4ce99a32c08c65c1eab02806dfdba
+Botanical Name: Cordia obliqua WILLD.
+Family: Cordiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cordia latifolia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 130 Vernacular names found in 8 languages. Hindi (15) - bara-lasora, bhairala, bhokar, chhota-lasasa, chhota-laslasa, chhota-lasora, chhotalaslasa, chhotalasora, chotalasora, gondi, guslasah, lasora, lasura, lessora, rasalla Kannada (23) - burugundaa, calle, chaddle, chadle, challangayi, challe, chandle, chella, chikkachalle, cholle, chotte, dodda challe, doddacalle, doddachallu, doddasalle, doduchallu, geduri, gondaayi, hadige, kaduchalle, mannadikay, mannadike, viri Malayalam (17) - celu, ceruvannichi, cheru-vanich-chi, cheru-viri, cheruviri, karati, kotta, madaviriyasam, naruvari, naruviri, periyamari, periyaviri, vidi, vidimaram, virasham, viri, viriyasam Marathi (12) - bargund, bhokar, bhokur, chokri, goden, gondan, khokara, montabhokar, semar, shelu, sherti, vargund Sanskrit (19) - Sanskrit Comments  bahuvara, bahuvaraka, bhukampadaruka, bhukarbudara, bhuselu, bhutadruma, kshudrashleshmataka, laghupichhila, laghushelu, laghushita, laghushleshmataka, madhubhutadruma, picchila, selu, seluh, sleshmataka, slesmantaka, slesmataka, sukshmaphala Tamil (14) - jollai, naruvili, naruvilli, naruvizhi, perunaruvili, selu, shiru-naravili, shiru-naruvili, sirunaruvili, vallagu, vidi, viri, virisu, viriyan Telugu (25) - bankanakkera, bankanakkiri, botuku, chinna-botuku, chinna-nakkera-chettu, chinnabotuku, chinnanakkera, inki, kichavirigi, kichavirigi-chettu, kicuvirigi, kitsavirigi, kondairkee, nakkaeru, nakkera, nakkeri, nakkeru, nekkara, peddabokee, peddaboku, peddabotuku, peddanakkara, peddanakkeru, urunakkera, virigi Urdu (5) - lasora, sapistan, sapistan nim kofta, sipistan, sipistan nim kofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7c4ce99a32c08c65c1eab02806dfdba
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 649
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/649.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7c4ce99a32c08c65c1eab02806dfdba/xclkon/342595ac2a7e95d83a023647d31f4d52
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7c4ce99a32c08c65c1eab02806dfdba
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7c4ce99a32c08c65c1eab02806dfdba/xclkon/342595ac2a7e95d83a023647d31f4d52
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7c4ce99a32c08c65c1eab02806dfdba
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7c4ce99a32c08c65c1eab02806dfdba/xclkon/342595ac2a7e95d83a023647d31f4d52
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7c4ce99a32c08c65c1eab02806dfdba
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7c4ce99a32c08c65c1eab02806dfdba/xclkon/342595ac2a7e95d83a023647d31f4d52
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7c4ce99a32c08c65c1eab02806dfdba
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

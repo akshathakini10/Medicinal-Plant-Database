@@ -1,0 +1,110 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f420a8ab57a668675b6825cc58f4f881
+Botanical Name: Withania somnifera DUNAL
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Physalis flexuosa L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 237 Vernacular names found in 10 languages. English (1) - ashwagandha Hindi (10) - asgand, asgandh, asgandhi, ashgandh, ashgandha, ashwagandha, aswagandha, chirpotan, punir, rashbhari Kannada (35) - amakire, amangara gida, amangura, amikkira-gadday, ammangura, amukkire, angaara gadde gida, angara, angara baeru, angura gedde, anukeere, ashvagandha, ashvagandhi, ashwagandhi, asvagandha, asvagandhi, aswagandha, baiseyabara gida, hiremaddina, hiremaddina baeru, hiremaddina gida, hiremaddu, hirimaddina, hirimaddina-gadday, hirregadday, kiremallinagida, kirimaddana, kudure, manmatha shakthi, mohini gida, rathi gida, shakti gida, sogade-beru, sogadeberu, viremaddinagaddi Malayalam (4) - amukkiram, amukkuram, pevette, pevetti Marathi (6) - asagandha, askand, askandha, domdalaki, kanchuki, tilli Sanskrit (39) - Sanskrit Comments  Sanskrit Name - Asvagandha Author Comments Chunekar: for Asvagandha. Identified with the species Dr Bapalal Vaidya: for Asvagandha. Identified with the species P.V.Sharma: for Asvagandha. Identified with the species amukkura, ashvagandha, ashvakandika, ashvaroha, ashvavarshaka, ashwagandha, asvagandha, aswagandha, balada, balaja, gandhapatri, haya, hayagandha, hayapriya, kala, kambuka, kamrupini, kushthagandha, kushthagandhini, palashaparni, priyakari, punya, pushtida, pushtipavira, rajgandha, shyamala, turagagandha, turagi, turangagandha, ushuvaghendi, vajigandha, vajigandhika, vajikari, vajini, varada, varahakarni, varahapatri, vataghni, wajie ganaha Tamil (117) - acaiyu, achuvagandi, acupam, acurakenti, acuvacceti, acuvakantai, acuvakantam, acuvakanti, acuvakanti 1, acuvakanti 2, acuvakenti, acuvakkilanku, acuvam, acuvam 1, acuvam 2, acuvapalam, akavu, akavu 1, akavu 2, allivatali, amkkura kilangu, amkoolang-kalung, amkulang, amkulang-kalang, amukkanankilanku, amukkara, amukkaran-kilanku, amukkilacceti, amukkinankilanku, amukkira, amukkira ver, amukkira-kilzhangu, amukkirak kilanku, amukkirakkilangu, amukkiran kilanku, amukkirankilanku, amukkiri, amukknravi, amukkura, amukkura kizhangu, amukkura-virai, amukkurak kizhangu, amukkurak-kizhangu, amukkuravi, amukkuravu, amukran-kizhangu, amuttaraci, ankulan, ankulang, asubam, asuvagandi, aswaganthi, atitarikam, atittikam, avarokam, ceravilankam, cevvilankam, irulicceti, iruliccevi, kampukastam, kantapattiram 1, karappantalai, kenta, kenta 3, kiravarokacam, kiriccevi, kiticcevi, kolanakutaver, kolari, makanti, makanti 2, matalinkam, matanalinkacceti, matanalinkam, matappurakkanniram, matappurallamniram, matarika, matarikacceti, muttaci, muttarati, muttati, muttati 1, nakutam, nattuamukkirakkilanku, palapali, paricata, parikikanti 1, parikkanti, parikkanti 2, parikkantikkilanku, peyvetti, piratakam, pivari, pivari 1, pivari 2, tanuka, tanupara, tanupari, turki, uni, uni 1, uni 2, unikkilanku, vacikantam, vacikenta, valliayai, valliyai, varakakarni, varakarakkilanku, varucu, vippuruti nayakan, vippurutinayakam, vippurutinayakan, virpurtinayakam, virpuruti nayakacceti, virpurutinayakacceti, virpurutinayakam Telugu (16) - ashvagandhi, asvagandhi, dommadolu, pannirugada, penneroo, penneroo-gadda, penneru, penneru gaddi, pennerugedda, pillivattitige, pillivendram, pillivendramu, piniru, pulivendramu, vaajigandha, vajigandha Tibetan (3) - a sa ga ndhi (d), a swa ga ndhi (d), ba-dzi-ga-ndha Urdu (6) - asgand, asgand nagori, asgandh, asgandh-e-nagori, asgund, isgand nagori
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881/xclkon/ec54a2b544a76ad5cc7334ed43d67dc5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881/xclkon/ec54a2b544a76ad5cc7334ed43d67dc5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881/xclkon/ec54a2b544a76ad5cc7334ed43d67dc5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881/xclkon/ec54a2b544a76ad5cc7334ed43d67dc5
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881/xclkon/ec54a2b544a76ad5cc7334ed43d67dc5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881/xclkon/ec54a2b544a76ad5cc7334ed43d67dc5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f420a8ab57a668675b6825cc58f4f881
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asvagandha
+sanskrit_name: अश्वगन्धा
+transliteration: aśvagandhā
+ref_drug_name: अश्वगन्धा
+status: Accepted source
+discussion: Asvagandha is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Asvagandha
+sanskrit_name: अश्वगन्धा
+transliteration: aśvagandhā
+ref_drug_name: अश्वगन्धा
+status: Accepted source
+discussion: Roots of 'Asvagandha' are used and the ones available in the market are different from the ones described in the texts; Botanically based some scholars correlate 'Asvagandha' with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Asvagandha
+sanskrit_name: अश्वगन्धा
+transliteration: aśvagandhā
+ref_drug_name: अश्वगन्धा
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 4
+drug_name: Asvagandha
+sanskrit_name: अश्वगन्धा
+transliteration: aśvagandhā
+ref_drug_name: अश्वगन्धा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Asvagandha
+sanskrit_name: अश्वगन्धा
+transliteration: aśvagandhā
+ref_drug_name: अश्वगन्धा
+status: Accepted source
+discussion: Asvagandha is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Asvagandha
+sanskrit_name: अश्वगन्धा
+transliteration: aśvagandhā
+image_urls: https://www.medicinalplants.in/slokaimages/1725/1725_1.jpg https://www.medicinalplants.in/slokaimages/1725/1725_2.jpg https://www.medicinalplants.in/slokaimages/1725/1725_3.jpg
+ocr_text: अश्वगन्धा वाजिगन्धा कञ्चुकाअश्वावरोहकः वराहकर्णी बल्या वाजीकरी स्मृता अश्वगन्धा कषायोष्गा तिक्त्ता वातकफापहा विषव्रणक्षयान् कान्तिवीर्यबलप्रदा Dhn Vajigandha laiculza as"at arolala rarahakarni turagi balya and rajikari are the synonyms of asragandha. Astaganclha is kasaya tikta in rasa 1sma in reetya promotes kanti bala reerya alleviates Tata kapha cures visa Trana and ksaya तुरगी गन्धान्ता वाजिनामादिरश्वगन्धा हयाह्वया वराहकर्णा वरदा बलदा कुष्टगन्धिनी अश्वगन्धाअनिलश्लेष्मश्वत्रशोथक्षज्ञयापहा | बल्या रसायनी तिक्ता कषाग्रोष्णअतिशुक्रला|| KBpn) Synonyms of asragandha are hayahraya rarahakarni rarada balada kustagandhini and raji It is tikta kasaya in rasa usna in reetya promotes bala increases sulara rasavana i karma alleriates Tata kapa 5T1t1a sotha and ksaya अश्वगन्धा हयाह्वाअवावराहका | | वराहकर्णी गौकर्णी तुरगी वरदा वृषा | बल्या वाजीकरी पीता बर्हिपिच्छं अश्वगन्धा कषायोष्णा तिक्ता वृष्या बलपुष्टिप्रदा हन्ति कफकासाानलवणान| | शोफकण्डूविषश्वित्रकृमिश्वासक्षतक्षयान् IKdni Synonyns are layahra asrararohaka rarahakarni gokarni tragi Tarada Trsa balya rajikari pita barhipiccha and lanculi Asragandha is kasaya tikta li Tasa usna in reetya. sukrarardhaka rasayana balakara pustikara in karma alleviates kapha -rata cures kasa Trana sopha kandu -715a sTitra. krii 51ra5a Isata and ksaya कष्टगन्धा कञ्चुको | | रसायनी

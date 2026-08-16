@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ce649c9b00910b5bc2e1f3e8b02ca0de
+Botanical Name: Lannea coromandelica (HOUTT.) MERRILL
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Lannea grandis (DENNST.) ENGL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 210 Vernacular names found in 8 languages. Hindi (28) - ghinghan, ginyan, goda,a, godal, gojala, golar, gurjan, jhingam, jhingan, jingam, jingan, jingan-ki-gond, kaimil, kalmina, kamlai, kashmal, kashmala, kehmal, kehmbel, kehmble, khirni, kiamil, kimul, mohin, moween, moyen, salambra, thingam Kannada (46) - ajashringi, ajasringi, ajasryngi, bungaro, dhumpaari, dhumpari, dhumpila, dumpilli, geru, godan, godda, goddal mara, godde, goddel, goddi mara, gogal, gojal, gojjal, haleberi, hennu godda, jhigisee mara, kurathige, kuratige, kuratike, kurutige, kurutike, manjistha, mohimara, oodeemara, poonil, poonu, punaelemara, punal, puneb, punele, punli, puvil, shimtee, shimti, shinti, sintee mara, sinti, udee mara, udi, udi mara, wodiana Malayalam (21) - anakkaram, annakara, annakare, ennakara, kalasan, kalash, kalasu, kalayam, kalayasam, kalesjam, karasu, karayam, oti, otiyamaram, thingam, udi, udi-maram, udimaram, uthi, uti, wodier Marathi (12) - magir, mogeer, moi, moja, moya, moye, munidi, muya, shemat, shimat, shimti, shinti Sanskrit (17) - Sanskrit Comments  ajashringi, ajasringgi, ajasringi, gudamanjari, gudhamanjari, jhingi, jhingini, jingini, jivala, kvala, manjari, netrashuddhi, netraushadhi, parvati, pramodini, suniryasa, tumbi Tamil (51) - acacirinki, anaikarai, anaikkarai, anicarra, appariyantam#, appariyantam@, appiriya, appiriyam, appiriyataru, aticarampokki, cakkaracireni, cantamarutavirutcam, catcuciyam 2, cinkini 1, irattacosani, kakausil, kalasan, kanacirinki, mirutuputpi, motakam, motakam 1, neyttor, odi, odia maram, odiya-maram, odiyam, odiyamaram, odiyan, othiyamaram, oti, otikai, otirai, otiya maram, otiyam, otiyampattai, otiyan, pacalatti 3, pacantiriyam, pakulankicam, peruti, punnacam, udayan, udi, udimaram, urisa, uthian, utiramaram, utiyamaram, viranacani, vodiyar, wodier Telugu (32) - appiriyada, athopoo chettu, dampara, dhumpaari, dhumpari, dumper, dumperti, dumpidi, dumpilli, dumpini, dumpri, gampina, ganpani, goompana chettu, gumapan, gumapani, gumpena, gumpena chettu, gumpeni, gumpina, gumpini, gumpira, gumpirie, gumpna, kumpani, oddi, oddi-manu, oddimanu, othipoo, vaddi, voddapu, waddi Tibetan (3) - dzi ndza ni, dzi ndza ni (p), dzi ndzi ni (p)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/cb2c4f65a95faedcf3085587cf30a73c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1281
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1281.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/cb2c4f65a95faedcf3085587cf30a73c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/cb2c4f65a95faedcf3085587cf30a73c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/cb2c4f65a95faedcf3085587cf30a73c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/e465cb5437e4dc93479de2f06660d391
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce649c9b00910b5bc2e1f3e8b02ca0de/xclkon/cb2c4f65a95faedcf3085587cf30a73c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

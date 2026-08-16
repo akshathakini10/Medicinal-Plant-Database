@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 00747e105e2fd4eb7c461d808964095e
+Botanical Name: Verbascum thapsus PLENK
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 4 languages. English (9) - aarons rod, adams flannel, blanket leaf, bunny s ears, common mullein, flannel plant, flannelleaf, jacob s-staff, mullein Hindi (9) - akulbir, gaddi tamaku mullein, gidar tamaku, gidar tobacco, gidar tobacoo, gidar-tamakhu, gidar-tamaku, giddar tamaku, kakri tamakhu Kannada (1) - kaadu hogesoppu Urdu (1) - mahi zehraj
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00747e105e2fd4eb7c461d808964095e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00747e105e2fd4eb7c461d808964095e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00747e105e2fd4eb7c461d808964095e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

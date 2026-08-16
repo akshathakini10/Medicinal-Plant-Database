@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 398ca628f4b2d4d8eb6a0500fe1725ee
+Botanical Name: Valeriana officinalis L.
+Family: Valerianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 5 languages. English (7) - allheal, english valerian, garden heliotrope, german valerian, great wild valerian, valerian, vandalroot Marathi (1) - kalavala Sanskrit (1) - Sanskrit Comments  balahrivera Tamil (4) - catamaci, jatamanci, paicaci, takaram Urdu (6) - balchar, balchhar, bulchar, ikleel-ul-malik, nardin, sumbul-ut-teeb
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/398ca628f4b2d4d8eb6a0500fe1725ee
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/398ca628f4b2d4d8eb6a0500fe1725ee
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/398ca628f4b2d4d8eb6a0500fe1725ee
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/398ca628f4b2d4d8eb6a0500fe1725ee
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

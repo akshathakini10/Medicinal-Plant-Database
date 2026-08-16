@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e51f02c29bd2670027e89598c47fda42
+Botanical Name: Illicium verum HOOK.F.
+Family: Magnoliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 8 languages. English (2) - chinese anise, star anise Hindi (1) - anasphal Kannada (4) - chainaa sompu, chakramaggi, kankola, maraat moggu Malayalam (2) - takkolappottil, takkolapputtil Marathi (2) - anasphal, baadiyan Sanskrit (2) - Sanskrit Comments  takkola, takkolakam Tamil (9) - anasi poo, anasipoo, anasuppan, annaci, annacippu, annasippu, anusappu, anusuppu, takkolam Telugu (4) - anas poovu, anasapurvem, anasapuveru, kuppi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51f02c29bd2670027e89598c47fda42
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51f02c29bd2670027e89598c47fda42
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51f02c29bd2670027e89598c47fda42
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

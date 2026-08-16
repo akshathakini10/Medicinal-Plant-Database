@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d0de0b00cefa8bdebbd5e2e7aeaa5163
+Botanical Name: Dipteracanthus prostratus (POIR.) NEES
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ruellia prostrata POIR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 4 languages. Kannada (1) - bheemana soppu Malayalam (1) - upudali Tamil (7) - cilanti nayakam, cilanti nayatam, coracakki, coracakkicceti, kiranti nayakam, kiranti nayan, pottakanchi Telugu (2) - maanu pathri, nela neelaambaramu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0de0b00cefa8bdebbd5e2e7aeaa5163/xclkon/b5b47da95ac1b9b0b13e21ba1995da1c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0de0b00cefa8bdebbd5e2e7aeaa5163
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0de0b00cefa8bdebbd5e2e7aeaa5163/xclkon/b5b47da95ac1b9b0b13e21ba1995da1c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0de0b00cefa8bdebbd5e2e7aeaa5163
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0de0b00cefa8bdebbd5e2e7aeaa5163/xclkon/b5b47da95ac1b9b0b13e21ba1995da1c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

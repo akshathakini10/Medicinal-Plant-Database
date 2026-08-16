@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: aa0558d433b5aff8dfc3876a1ea2eee8
+Botanical Name: Ipomoea sepiaria ROB.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 7 languages. Hindi (1) - bankalmi Kannada (3) - laksmana, naagini, talikeere soppu Malayalam (1) - tirutali Marathi (2) - amthivel, amtivel Sanskrit (13) - Sanskrit Comments  asrabinduchhada, lakshamana, lakshmana, laksmana, manjika, nagaputri, nagavha, nagini, puchhada, putrada, putrajanani, putrakanda, tulini Tamil (7) - manjigai, manjigam, tali, talik-kirai, talikkirai, talikkodi, talikkoti Telugu (6) - laksmana, mettathuthi, mettatootia, mettatuti, puritithige, purititige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa0558d433b5aff8dfc3876a1ea2eee8
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1211
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1211.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa0558d433b5aff8dfc3876a1ea2eee8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa0558d433b5aff8dfc3876a1ea2eee8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa0558d433b5aff8dfc3876a1ea2eee8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Controversial
+discussion: With regard to its properties, Thakur Balwant Singh has correlated Laksmana to many species; Ipomoea sepiaria is one of the suggested species
+reference: [5]
+
+Identity Record 2
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Most probable
+discussion: Taken into consideration as Laksmana as this species posseses similar fertility efficiency
+reference: [1]
+
+Identity Record 3
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Controversial
+discussion: With regard to its properties, Thakur Balwant Singh has correlated Laksmana to many species; Ipomoea sepiaria is one of the suggested species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

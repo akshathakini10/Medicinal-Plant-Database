@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1f2ab748ca86a915387c97c9ca0b7dbf
+Botanical Name: Erythroxylum coca LAM.
+Family: Erythroylaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. English (1) - cocaine Kannada (1) - kokain oshadhi gida
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f2ab748ca86a915387c97c9ca0b7dbf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f2ab748ca86a915387c97c9ca0b7dbf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f2ab748ca86a915387c97c9ca0b7dbf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8c68ae9bd99691943746491fc259c3f4
+Botanical Name: Artocarpus gomezianus WALL. E TREC. subsp. zeylanicus JANET
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 4 languages. Kannada (4) - anjannu, esuluhuli, kanchi simbu, lakucha Marathi (6) - badhar, kshudraphanas, phala, vatar, votamba, wotomba Sanskrit (1) - Sanskrit Comments  lakucha Telugu (5) - kammaregu, lakuchamu, likuchamu, nakkaraenu, nakkaremu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c68ae9bd99691943746491fc259c3f4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 242
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/242.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c68ae9bd99691943746491fc259c3f4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7b38976f80593f571c62347c11aa30cb
+Botanical Name: Nervilia plicata SCHLTR
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Malayalam (1) - orilattamara Sanskrit (1) - Sanskrit Comments  padmacarini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b38976f80593f571c62347c11aa30cb
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1511
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1511.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b38976f80593f571c62347c11aa30cb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b38976f80593f571c62347c11aa30cb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

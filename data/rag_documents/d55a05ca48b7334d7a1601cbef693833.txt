@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d55a05ca48b7334d7a1601cbef693833
+Botanical Name: Pavonia odorata WILLD.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 148 Vernacular names found in 8 languages. Hindi (3) - bala, sugandha-bala, sugandhabala Kannada (13) - bala raakshasi, bala rakkasi, bala-rakkasi-gida, balaraakshi gida, balarakkasi, balarakkasi gida, balarakkasigida, balarakshasi, kareebaalada beru, madivaala, mudivaala, mudivala, peramuti beru Malayalam (2) - iruveli, kuruntotti Marathi (6) - kaalaavaala, kala-vala, kalavala, randodaki, sugandhabala, sughandabala Sanskrit (27) - Sanskrit Comments  ambu, ambunamaka, bala, balaka, barhishtha, harivera, hribera, hrivela, hrivera, kachamoda, keshanama, keshanamaka, keshya, kuntala, kuntaloshira, lalanapriya, toya, udichya, vajra, vala, valaka, valakah, valakam, varapinga, vari, varida, varinamaka Tamil (77) - anantai, anantavariti#, anantavariti@, anantavariticceti, antai, antaiyitan, arttavacceti, arttavam, ataiyalavan, avibattam, avipatam, avipattam, cakapita, carapantini, centotti, cukantapala, cunkattintakampokki, curiyamantiram, curiyarkkam, cutcayekavalli, cuvacakam2, cuvaccalam, cuvacitam, cuvacitamutti, cuveccam1, erunti, irutupala, karapattini, kayotalankam, kontulankam, kuruvicci2, kuruvinci2, makapala 3, makapalam 3, makapela 2, makavil, makavinitacceti, makavinitam, malaiccentotti, malaittarikacceti, malaittarikam, mirutturoki, nattukkantam, pala, palututainetti, paramutti, paramutty, paratakam, pataippariyan, pattakam, pera muttiver, peraamutti, peramootie vayr, peramutiver, peramutti, peramutti#, perunkuruntotti, pitaputpi 2, pitaputpi@, rutupala, suvesagam, taramutti, tavarattiyali, totikam, totikamutticceti, totipela, totippari, totipparicceti, tuvaratini, vantiracceti, vantiyam#, vantiyam@, varantiyam, vataiyavalan, vattiracuram, vilivilanki, yokavalli Telugu (19) - chirubenda, chitlebunda, chitti benda, chittibenda, cittibenda, erra-kuti, errakooti, errakuti, ettakuti, muthupalaagamu, muttavapulagam, muttavapulagamu, mutthava pulagam chettu, muttupalagamu, pudubodapu, theegabenda, thigebenda, tiga benda, tigebenda Tibetan (1) - ba-la-ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1605
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1605.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55a05ca48b7334d7a1601cbef693833
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Hrivera
+sanskrit_name: ह्रीवेर
+transliteration: hrīvera
+ref_drug_name: ह्रीवेर
+status: Most probable
+discussion: May be considered, as this species is used in some parts of India as Hrivera. Needs to be examined if it can be used as a substitute
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

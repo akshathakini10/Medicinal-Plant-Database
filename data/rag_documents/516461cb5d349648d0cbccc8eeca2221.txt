@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 516461cb5d349648d0cbccc8eeca2221
+Botanical Name: Cinchona calisaya WEDD.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 5 languages. Hindi (1) - kinakin Kannada (3) - baarkina mara, jvarahaari, kshayanamara Sanskrit (1) - Sanskrit Comments  kunayana Tamil (1) - shurup-pattai Telugu (1) - jvarap-patta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/516461cb5d349648d0cbccc8eeca2221
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/516461cb5d349648d0cbccc8eeca2221
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/516461cb5d349648d0cbccc8eeca2221
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kunayana
+sanskrit_name: कुनयन
+transliteration: kunayana
+ref_drug_name: कुनयन प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Kunayana - prajati
+sanskrit_name: कुनयन प्रजाति
+transliteration: kunayana prajāti
+ref_drug_name: कुनयन प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

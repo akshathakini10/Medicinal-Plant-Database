@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dbc37763b20b8237b789f37f64e107e8
+Botanical Name: Ixora coccinea L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 112 Vernacular names found in 8 languages. English (1) - flame flower Hindi (4) - rajana, rangan, rookmini, rugmini Kannada (29) - gudda daasala, guddedasal, gurugudu, holedaasala, kaepala, kapala hoo, kempu kaepala, kempugundu hoo, kempukepala, kempulagida, kepala, keppulagida, kepula, kepuladai, kevala, kevala gida, kisagaara hoo, kisgara, kiskar, kiskara, kissara, kissargida, kisu kaare, kisukaare, kisukare, kusumaale, maale gida, maale hoo, maalehoo gida Malayalam (13) - cekki, cetti, chekki, chetti, schetti, shekki, shetti, tecci, techi, tetti, thechhi, thechi, thetti Marathi (7) - bakora, padkali, pankul, pendgul, pendkul, pentgul, pitkuli Sanskrit (8) - Sanskrit Comments  bandhujivaka, bandhuka, binduka, parali, paranti, pathalee, raktaka, raktata Tamil (35) - attimankicacceti, attimankicam, cetarakacceti, cetarakam, cetaram, cetaram3, cetti, cetti2, cheddi, cinturacceti, cinturam2@, citaram2, cuvetaki2, cuvetakicceti, erinakai, koranpoo, koranpu, kullai, mayilai 3, sedaram, setti, sinduram, tecci, telli, thetti, vedcci, vedji, vellaivetci, vellaivetcippucceti, velvetci, verchi, vetchi, vetci, vitchie, vitci Telugu (15) - bandhuca, bandhujeevakamu, bandhujeevamu, bandhujivakamu, bandhujivamu, bandhukamu, koranam, korani, mankana, manmadhabana, manmadibanum, manmathabanamu, nuru varahalu, raama bhanamu, rama banamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbc37763b20b8237b789f37f64e107e8
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1222
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1222.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbc37763b20b8237b789f37f64e107e8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbc37763b20b8237b789f37f64e107e8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbc37763b20b8237b789f37f64e107e8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

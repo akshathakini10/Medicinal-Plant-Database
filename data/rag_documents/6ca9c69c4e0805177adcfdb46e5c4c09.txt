@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6ca9c69c4e0805177adcfdb46e5c4c09
+Botanical Name: Homonoia riparia LOUR.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 67 Vernacular names found in 7 languages. Hindi (2) - jalbent, serni Kannada (16) - abbe koralu, hole mekki, hole nage, hole nekki, holemekki, holenage, holenekki, kiral bogi, kshudra paashaana bhedi, neela kanagilu, neerganigile, neernekki, neeru ganigale, niraganugulu, nirganagile, sannapasanabheda Malayalam (14) - attuvanni, kallurvanci, katallari, katalluri, kattalari, kattalluree, kullur, nirnocci, nirnochil, nirvanni, pulavanni, puzhavanchi, puzhavanji, vangi Marathi (2) - shaerani, sherni Sanskrit (6) - Sanskrit Comments  jalavetasah, kshudrapashanabheda, pasanabheda, pasanabhedah, pashanabedaka, vetasah Tamil (14) - attuinci, captaparani 2, cheppunjeringal, kallarali, kalvisakkarantai, kat-allari, kataralli, kattalari 2, kattarali, kattaralicceti, kattuarali, ottalari, ottalaricceti, peruncuntari Telugu (13) - adavi-ganneru, cheppunjerinjal, erra tanuku, erratanuku, errathanuku, patada, shiridamanu, siridamaanu, siridamanu, tanaku, taniki, tanuku, thaniki chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ca9c69c4e0805177adcfdb46e5c4c09
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1146
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1146.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ca9c69c4e0805177adcfdb46e5c4c09
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ca9c69c4e0805177adcfdb46e5c4c09
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+ref_drug_name: पाषाणभेद
+status: Controversial
+discussion: Many species are correlated to this plant and one among them is Homomoia riparia which is used as Pasanabheda in Northern, Eastern, Central and Southern parts of India
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+image_urls: https://www.medicinalplants.in/slokaimages/233/233_1.jpg https://www.medicinalplants.in/slokaimages/233/233_2.jpg https://www.medicinalplants.in/slokaimages/233/233_3.jpg https://www.medicinalplants.in/slokaimages/233/233_4.jpg
+ocr_text: पाषणभेदकोश्मघ्नःशिलाभेदोश्मभेदकः सचैवोपलभेदश्चनगभिच्छैलगर्भजः Synonyms of pasanabheda are asmaghna, silabheda, asmabhedaka, palabheda, nagabhi elagarbhaja and अश्मभिद्वस्तिरुङ्मूत्रकृच्छ्रतोदाहवातनुत् शीतवीर्योगुरुःस्निग्धस्तथातीसारनाशनः न (शो.नि) Asmabhid is guru, snighda in guna, sita in veerya, alleviates vastiruk, mutra krcchra, daha, vata and atisara. अश्मभेदोहिमस्तिक्तःकषायोवस्तिशोधनः मेदंहन्तित्रिदोषार्शोगुल्मकृच्छ्राश्महृद्रुजः योनिरोगान्प्रमेहांश्चप्लीहशूलव्रणानिच It is tikta, kashaya in rasa, hima in veerya, vasti sodhana, alleviates meda tridosha, arsa, gulma, krcchra, asma, hraruja, yoni roga, prameha, pliha sula and vrana क्षुद्रापाषाणभेदश्चव्रणकृच्छ्राश्मरीहरः IRjn ) Ksudra pasanabheda alleviates vrana, krcchra and asmari.

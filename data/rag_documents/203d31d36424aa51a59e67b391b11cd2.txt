@@ -1,0 +1,78 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 203d31d36424aa51a59e67b391b11cd2
+Botanical Name: Tragia involucrata L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 181 Vernacular names found in 7 languages. Hindi (1) - barhanta Kannada (25) - antu suru surigi, asaadhya thurike balli, chaeluri gida, churachrike gida, churachurike gida, churchi, churukana soppu, dolagondi ingule, doola gondi, dulagondi, dulondi, haligilu, kiriberalu, kiriturache, kiruberalu, kiruduraci, kiruturachi, kiruturaci, sannaturachi, sannaturaci, thurike balli, tunuse, tunusu, turachi, turaci Malayalam (12) - cherukodithuva, chorinnanam, choriyanam, corinanam, corinnanam, coriyanam, coriyannam, kotattuva, kotittuva, kotittuvva, kotuttuvva, schorigenam Marathi (4) - kaanchakuree, khaajkolthee, khajkotli, kolthee Sanskrit (18) - Sanskrit Comments  doostparisha, duralabha, dusparcha, dusparsa, dustparisha, grahini, kacchura, kachchura, kasaghini, kasaghni, kasaginnie, samudranta, virupa, vrischikali, vrishchikali, vrishchikapatri, vrishi-kali, vrscikali Tamil (92) - aliparani, aliyankurinci, aliyankurincicceti, ambu, ampu, ampuli, ampulicceti, anaiddippili, anaik kancori ilai, anaikkayncori, atikantakam, ayir, canchori, canchorie vayr, cancuri, cariyutte, carukotticceti, cemmanattavikacceti, cemmanattavikam, cempiccicceti, cenkancori, centotti, centotti 2, centotticceti, chenthatti, cherukanjuru, ciru kancori, cirukancori, cirukancori ver, cirunannari, civappuccentotti, civappukkancori, cori 1, cori@, coriyan, coriyanmuli, erumaikkancori, erumaikkanjori, irattakomari, irattakomaricceti, kaanchori, kanchori, kanchuri-vayr, kancirakam, kancori, kancoricceti, kanculo, kandudi, kanjori, kanjuri, kannicci, kannichi, kantu 2, kantuti, karuppukkanjori, katiccakacceti, katiccakam, katiccavayttaticcan, katiccavayttutaiccan, katiccavaytutaiccan, kayavacam, kolippayacam, kunasagam, kunkumaccentotti, matankacintu, maturaparicam, perukancori, peruncentotti, peruncunaicci, perunkancori, perunkayncori, pittacuracamani, punai 2, putakeci 2, rattira 2, rattiracceti, siru-kanjori, sirukanchni, takanacani, tampiramuli, tatcinavarttakam, telilai, tottarcoriyan, totti 2, tucarapattirakam, turalamati, turalamaticceti, upavanacceti, upavanam 2, vellaikkancori, yanaikkancori, yatam 2 Telugu (29) - china-dulogondi, chinadulagondi, chinnadoolagondi, chinnadulagondi, cinnadulagondi, cinugantatiga, doolagaondi theega, doolagundi, doolyagunda, dulagondi, dulagundi, duradagantatiga, konda teeta-kanjari, nosanthaaku, pedda doolagondi, peddadulagondi, raevathidoolagondi, regadadoola, regadadula, revatidulagondi, teega-dulagondi, telladuradagondi, telumani, theegadoolikondi, thelumani, thelumani chettu, thigedoolagondi, tigedulagondi, trinuadulagondi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2104
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2104.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/203d31d36424aa51a59e67b391b11cd2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vrscika
+sanskrit_name: वृश्चीक
+transliteration: vṛścīka
+ref_drug_name: वृश्चिकाली
+status: Accepted source
+discussion: Vrscikali' has been used in various conditions as mentioned in the Brhatrayis; There was a lot of confusion regarding the interpretation by Dalhana; He considered 3 drugs as 'Vrscikali'; Among them one is 'Vrscikaya' which is identified with this species; According to the author this is 'Vrscikali'
+reference: [5]
+
+Identity Record 2
+drug_name: Vrscika
+sanskrit_name: वृश्चीक
+transliteration: vṛścīka
+ref_drug_name: वृश्चिकाली
+status: Suggested source
+discussion: Suggested to use this species as Vrscikali
+reference: [1]
+
+Identity Record 3
+drug_name: Vrscikali
+sanskrit_name: वृश्चिकाली
+transliteration: vṛścikālī
+ref_drug_name: वृश्चिकाली
+status: Accepted source
+discussion: Vrscikali' has been used in various conditions as mentioned in the Brhatrayis; There was a lot of confusion regarding the interpretation by Dalhana; He considered 3 drugs as 'Vrscikali'; Among them one is 'Vrscikaya' which is identified with this species; According to the author this is 'Vrscikali'
+reference: [5]
+
+Identity Record 4
+drug_name: Vrscikali
+sanskrit_name: वृश्चिकाली
+transliteration: vṛścikālī
+ref_drug_name: वृश्चिकाली
+status: Suggested source
+discussion: Suggested to use this species as Vrscikali
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

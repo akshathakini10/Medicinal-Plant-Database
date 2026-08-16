@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8944f2ec169269a0e201b6d0b9a26e6b
+Botanical Name: Rhus coriaria L.
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. English (1) - sumac Urdu (1) - sumaq
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8944f2ec169269a0e201b6d0b9a26e6b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8944f2ec169269a0e201b6d0b9a26e6b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8944f2ec169269a0e201b6d0b9a26e6b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tintidika
+sanskrit_name: तिन्तिडीक
+transliteration: tintiḍīka
+ref_drug_name: तिन्तिडीक
+status: Substituted source
+discussion: This species is used as its substitute
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

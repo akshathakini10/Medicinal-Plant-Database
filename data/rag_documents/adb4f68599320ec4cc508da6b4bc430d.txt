@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: adb4f68599320ec4cc508da6b4bc430d
+Botanical Name: Linum usitatissimum L.
+Family: Linaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 91 Vernacular names found in 10 languages. English (4) - flax, linseed, linseed oil, lint bells Hindi (4) - alsi, alsi-ka-tel, tisi, tisi-ka-tel Kannada (12) - agase beeja, agase gida, agase naaru, alasee beeja, alashi, alashiberu, alasibija, alsi, athasee gida, athasi gida, linseed enne, seeme agase beeja Malayalam (5) - akasi, cerucana, cheru-chanattinte-vitta, cheruchanavittintevilta, kayavu Marathi (4) - alashi, alsi-sanbyam, javas, javasa Sanskrit (29) - Sanskrit Comments  atasi, auma, budrapatni, chanaka, devi, haimwati, kshauma, kshaumi, ksuma, lika, madagandha, madotkata, malina, masina, masrina, masrind, masrna, masruna, masuna, mauverchala, nilapushpi, nilapushpika, nilapuspi, parvathi, pichhila, san, sunila, tailottama, uma Tamil (13) - alci, ali, ali vittu, alici, alici vitai, alishi-virai, alishivirai, alisi virai, alivirai, alleverei, alshi, cantiracura, serroo sanulverei Telugu (12) - ali, atasi, athasee, avishi, avisi, madana-ginjalu, madanaginja, madanaginjalu, madanginjalu, nalla agisi, nalla avisi, ullusulu Tibetan (2) - ol (mo) se, zar ma i me tog Urdu (6) - alasi, alsee, alsi, alsi nim bariyan, katan, roghan alsi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adb4f68599320ec4cc508da6b4bc430d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Atasi
+sanskrit_name: अतसी
+transliteration: atasī
+ref_drug_name: अतसी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Atasi
+sanskrit_name: अतसी
+transliteration: atasī
+ref_drug_name: अतसी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Atasi
+sanskrit_name: अतसी
+transliteration: atasī
+image_urls: https://www.medicinalplants.in/slokaimages/1027/1027_1.jpg https://www.medicinalplants.in/slokaimages/1027/1027_2.jpg https://www.medicinalplants.in/slokaimages/1027/1027_3.jpg https://www.medicinalplants.in/slokaimages/1027/1027_4.jpg https://www.medicinalplants.in/slokaimages/1027/1027_5.jpg
+ocr_text: अतसी मधुरा तिक्ता स्निग्धा पाके उष्ण दृक्शुक्रवातघ्नी किफषप त्ाकिेन कशटर्गीर : (Bpn) Atasi is madhura tikta in rasa, snigdha, in guna, usna in veerya, katu in paka, drk sukra vataghna, kapha pitta vinasini guru अतसी स्निग्धा वातास्रजिद् गुरुः (Bpn) Atasi is snigdha guru in guna, sukra drstighna, vatasra jid. शुक्रदृष्टिघ्नी अतसी मदगंधा स्यान्मधुरा बलकारिका कफवातकरी चेषत् पित्तहृत् कुष्ठवातनुत् II (Rjn) Atasi is madhura in rasa, madagandha, balakarika, increases kapha and vata alleviates pitta, kustha and vata स्निग्धोमा स्वादुतिक्तोष्णा कफपित्तकरी गुरुः दृक्शुक्र्हृत् कटुः पाके तद्वद्वीजं कुसुंभकम् II Vaghbata Its bija and kusuma are svadu tikta in rasa, snigdha guru in guna, usna in veerya, katu in paka, kapha pitta karaka and drk sukra hara उष्णाउतसी स्वादुरसाडनिलघ्नी पित्तोल्वणा स्यात्कटुका विपाके II (Su) Atasi is svadu, usna katuka in paka, anilaghna and pittolbana

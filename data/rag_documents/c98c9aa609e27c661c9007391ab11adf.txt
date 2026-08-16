@@ -1,0 +1,89 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c98c9aa609e27c661c9007391ab11adf
+Botanical Name: Avicennia officinalis L.
+Family: Avicenniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Aricennia officinalis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 52 Vernacular names found in 7 languages. Hindi (1) - bina Kannada (8) - ipathi, ipati, kaandal, kandaale, kandal, mada, uppathi, uppati Malayalam (7) - oepata, oepatu, orei, uppukutti, upputti, uri, urppam Marathi (3) - tivar, tiwar, upali Sanskrit (7) - Sanskrit Comments  sagarodbhutah, sagarodhurga, thavara, timirah, tivariya, tuvara, tuvaraka Tamil (16) - kandal, kantal4, kantil, kantukam, karungarudal, madaipattai, matappattai, nallamada, upatba, upatha, upattha, uppattam, uppukkurri, uppukkutti, vengandal, venkantal Telugu (10) - eriva, erivogu, gundumada, mada, madda, meda, nalla mada, nallamada, tellamada, thellamada
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf/xclkon/e6b8ccaa1dceb49fafc62ee842e28f1f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf/xclkon/e6b8ccaa1dceb49fafc62ee842e28f1f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf/xclkon/e6b8ccaa1dceb49fafc62ee842e28f1f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c98c9aa609e27c661c9007391ab11adf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bana
+sanskrit_name: बाण
+transliteration: bāṇa
+ref_drug_name: बाण
+status: Most probable
+discussion: With referance to its features its most likely correlated to this species
+reference: [1]
+
+Identity Record 2
+drug_name: Tivariya
+sanskrit_name: तिवरीय
+transliteration: tivarīya
+ref_drug_name: तिवरीय
+status: Accepted source
+discussion: Tivariya is correlated to this species
+reference: [2]
+
+Identity Record 3
+drug_name: Tuvara
+sanskrit_name: तुवर
+transliteration: tuvara
+ref_drug_name: तुवर
+status: Most probable
+discussion: Some have identified Tuvaraka with this species
+reference: [1]
+
+Identity Record 4
+drug_name: Tuvaraka
+sanskrit_name: तुवरक
+transliteration: tuvaraka
+ref_drug_name: तुवर
+status: Most probable
+discussion: Some have identified Tuvaraka with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tuvaraka
+sanskrit_name: तुवरक
+transliteration: tuvaraka
+image_urls: https://www.medicinalplants.in/slokaimages/885/885_1.jpg
+ocr_text: तुवरस्तु वरश्चोष्णो रसे पाके च तिक्तकः कफव्रणकृमिमेहकुष्ठज्वरविनाशनः | आनाहमर्शः शोफञ्च नाशयेदिति ते जगुः ( INir) Tuvara is tikta in rasa, usna in veerya, tikta in paka, destroys kapha, alleviates vrana, krmi, meha, kustha, jvara, anaha, arsa and sopha.

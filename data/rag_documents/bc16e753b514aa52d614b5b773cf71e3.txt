@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bc16e753b514aa52d614b5b773cf71e3
+Botanical Name: Abrus fruticulosus WALL. E WIGHT & ARN.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Abrus pulchellus WALL. E THWAITES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 5 languages. Hindi (1) - gaunchi Kannada (8) - bili gulaganji, gulaganji, gundumani, gunja, gunjee beeja, gunji, gurgunji, madalavela Marathi (2) - olakambal, ullat kambal Sanskrit (1) - Sanskrit Comments  karanjika Tamil (3) - vellakundumani, venkundri, vidathari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc16e753b514aa52d614b5b773cf71e3/xclkon/53fc59f815c8bf12a44d0f193c3cdfde
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc16e753b514aa52d614b5b773cf71e3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc16e753b514aa52d614b5b773cf71e3/xclkon/53fc59f815c8bf12a44d0f193c3cdfde
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc16e753b514aa52d614b5b773cf71e3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc16e753b514aa52d614b5b773cf71e3/xclkon/53fc59f815c8bf12a44d0f193c3cdfde
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

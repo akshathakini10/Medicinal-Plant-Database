@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c35204ade11bae51d579a1cd451a2fbf
+Botanical Name: Eulaliopsis binata (RETZ.) C.E. HUBBARD
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 3 languages. English (4) - baib, baib grass, bharbur grass, bharbur or sawai grass Hindi (11) - babar grass, babni, babula, bagar, baggar, bhabar, bhabar grass, bhabbar, bhabhar, sabai, sabai grass Sanskrit (1) - Sanskrit Comments  balvaja
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c35204ade11bae51d579a1cd451a2fbf
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 919
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/919.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c35204ade11bae51d579a1cd451a2fbf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Balvaja
+sanskrit_name: बल्वज
+transliteration: balvaja
+ref_drug_name: बल्वज
+status: Accepted source
+discussion: Balvaja is a grass variety, mentioned in very ancient texts like Vaidik samhitas; Many of its folk usages have been mentioned for e.g ropes; Caraka and Vagbhata have cited Balvaja in their texts; According to the author it is identified with this species as its ropes are being used for various purposes
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

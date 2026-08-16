@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e8de6387d689453520d0efff1fb6c0ad
+Botanical Name: Swertia alata ROYLE E. D.DON
+Family: Gentianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. Hindi (1) - chiratta Sanskrit (1) - Sanskrit Comments  kiratatikta Telugu (1) - nn
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e8de6387d689453520d0efff1fb6c0ad
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2002
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2002.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e8de6387d689453520d0efff1fb6c0ad
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kiratatikta - jati
+sanskrit_name: किराततिक्त जाति
+transliteration: kirātatikta jāti
+ref_drug_name: किराततिक्त जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

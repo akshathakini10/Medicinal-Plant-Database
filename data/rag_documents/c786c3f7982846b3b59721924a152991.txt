@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c786c3f7982846b3b59721924a152991
+Botanical Name: Iris nepalensis D.DON
+Family: Iridaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Hindi (4) - , brechra, chiluchi, kharera Sanskrit (1) - Sanskrit Comments  haimavati
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c786c3f7982846b3b59721924a152991
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c786c3f7982846b3b59721924a152991
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Haimavati - prajati
+sanskrit_name: हैमवती प्रजाति
+transliteration: haimavatī prajāti
+ref_drug_name: हैमवती प्रजाति
+status: Accepted source
+discussion: Is a variety of Iris found in the Himalayan regions
+reference: [3]
+
+Identity Record 2
+drug_name: Vaca - sveta
+sanskrit_name: वचा श्वेता
+transliteration: vacā śvetā
+ref_drug_name: वचा श्वेता
+status: Suggested source
+discussion: This species is suggested which needs to be examined
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

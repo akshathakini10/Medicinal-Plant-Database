@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0def6fd094f0b12d9086f3d9128eea65
+Botanical Name: Dipterocarpus indicus BEDD.
+Family: Dipterocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 53 Vernacular names found in 5 languages. Hindi (1) - gurjun Kannada (36) - aenne, aennemara, anna thamma mara, annathammana mara, banasampa, bansampa, callenne, challaane, challaase, challane, challani, challenne, chirathinjali, dhuma, dooma, ennamara, enne, enneda, gandu anne mara, gandu yenne, ganduyenne, googa mara, googe, googe mara, guga, guggala, kallapaini, marada yenne, maradaenneya, maradenne, vaalee mara, valivara, vana sampige, walivara, yenne, yenni Malayalam (14) - kaka, kakka, kalpayan, kalpayin, kalpayini, karanjili, varangu, varanku, varungu, velayani, vella aiyini, vellaini, vellayani, vellenna Marathi (1) - garjana Tamil (1) - enneimaram
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0def6fd094f0b12d9086f3d9128eea65
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0def6fd094f0b12d9086f3d9128eea65
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ca15d60388e3ca6d0193362b416fd58d
+Botanical Name: Kleinhovia hospita L.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Tamil (3) - panaitteku, punaittekku, puntekku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca15d60388e3ca6d0193362b416fd58d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca15d60388e3ca6d0193362b416fd58d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca15d60388e3ca6d0193362b416fd58d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

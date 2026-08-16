@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 21fd547f4d494d07cb6c4471820fd2dc
+Botanical Name: Hymenodictyon orixense (ROB.) MABBERLEY
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cinchona excelsa ROB. Hymenodictyon excelsum WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 151 Vernacular names found in 7 languages. Hindi (19) - bandaru, barhua, barthua, baurang, bauranga, bhalena, bhamina, bhaulan, bhohar, bhoswar, bhramarchhalli, bhramrachhii, bhurkul, bhurkur, boinga, bundaru, kala bachnak, kurkurakt, lunkhora Kannada (21) - aenne mara, amara, bandaari mara, bandaaru, bataga, battaga, betaga, bindaru, botaga, dalli mara, dhodi mara, diddimara, dodda thoppe mara, doddathoppe, doddi, doli, dolimara, dolli, ganadla mara, gandala, gandele Malayalam (16) - ben-theka, chakkathekku, ithil, itthilei, ittiyila, malamkalli, malankalli, nicakatampa, nichenkadamba, nishakatampa, perantholi, perantoli, perumtholi, vallari, vellakadamba, vellakatampa Marathi (13) - bhaurchhal, bhavarchhal, bhawarmat, bhorsal, bhramarsali, bhursal, bundaru, damdeli, dancelo, danceolo, dondru, kala bachnak, kalo-kudo Sanskrit (12) - Sanskrit Comments  bhramaravha, bhramarchhallika, bhrangavrksha, bhrigatvaka, bhringhamulika, bhringhava, bhrngahva, bramarachalli, chhalli, k	evika, kshiradru, ugragandha Tamil (39) - acitokatam, acitokatamaram, cakappu, cikappu2, cikappuparancolai, cilaippala, cinkattulikam, cinkattulikamaram, civamaram2, civappu#, civappu@, civappumaram2, eluthagathi, ilaimergai, ilaimerkay2, kadappu, kathambu, kavatakam2, malaitanakku, malaittanakku, naikadambai, nay-k-katampu, naykkadambu, naykkatampu, nirkadambam, nirkadumban, peruncoli, perunjoli, sagappu, sagapu, siva, sivappu, vellai-kadambu, vellaikkadambu, vellaikkatampu, velleikadambu, vilari, vilari 3, virali Telugu (31) - bandaaru chettu, bandam, bandara, bandara-chettu, bandaru, boorija, boorja, bundaroo, burija, burja, cedippa, chedippa, chetippa, dadhippa, diddipa, didippa, dudippa, dudippi, dudiyetta, duvvudippa, duvvudppa, manabira, manuvabillu, mokatu, monnabillu, monuvabillu, potaka, pottaka, pundaroo, shedippa, udippa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/39bcd8be8749e4c5af42758830a74bcb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/39bcd8be8749e4c5af42758830a74bcb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/39bcd8be8749e4c5af42758830a74bcb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc/xclkon/6609de9df0709f1f6de0e1443feb01eb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21fd547f4d494d07cb6c4471820fd2dc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

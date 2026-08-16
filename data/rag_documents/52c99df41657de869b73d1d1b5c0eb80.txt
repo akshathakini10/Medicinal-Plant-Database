@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 52c99df41657de869b73d1d1b5c0eb80
+Botanical Name: Ampelocissus tomentosa (ROTH.) PLANCH.
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Vitis tomentosa HEYNE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 4 languages. Kannada (1) - kaadu draakshi balli Sanskrit (1) - Sanskrit Comments  asvasakrut Tamil (6) - cirunaralai, cirunaralai@, naralaikkoti, narinaralai, narinaralaikkoti, sirunaralai Telugu (10) - adavi draaksha, atukula baddu, atukula-baddu, atukulabaddu, gari gummadi, garigummadi, lolugatige, lolugu tige, puvvuyerragummadi, puvvuyettagummadi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c99df41657de869b73d1d1b5c0eb80/xclkon/523e1c5d1d429be390c2cbff9a30c6d5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c99df41657de869b73d1d1b5c0eb80
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c99df41657de869b73d1d1b5c0eb80/xclkon/523e1c5d1d429be390c2cbff9a30c6d5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c99df41657de869b73d1d1b5c0eb80
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c99df41657de869b73d1d1b5c0eb80/xclkon/523e1c5d1d429be390c2cbff9a30c6d5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c99df41657de869b73d1d1b5c0eb80
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52c99df41657de869b73d1d1b5c0eb80/xclkon/523e1c5d1d429be390c2cbff9a30c6d5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

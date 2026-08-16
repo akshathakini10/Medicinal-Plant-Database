@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b7163d6d0033f6cd3fb15eb2bde54d42
+Botanical Name: Saraca asoca (ROB.) DE WILDE
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Saraca indica AUCT. NON L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 204 Vernacular names found in 9 languages. English (1) - asoka Hindi (5) - anganapriya, ashok, ashoka, asok, asoka Kannada (30) - abhanga, achanga, achenge, akshath, akshatha, aksunkara, asage, asaje, asanke, ashanke, ashoka, ashoka mara, ashokada mara, ashuge, ashunkar, asoka, asokada, gandha pushpi, hashige, jaasundi, jassoondie, kankelli, kempuchinnadeke gida, kengalimara, kenkali, kenkali mara, kenkalimara, kusge, kusgemara, seethe mara Malayalam (8) - ashokam, asjogam, asogam, asoka, asokam, hemapushpam, vanculam, vanjulam Marathi (4) - ashoka, asok, jasundi, tamada ashok Sanskrit (54) - Sanskrit Comments  anganapriya, apashoka, ashoka, asoka, asokah, chakraguchha, chitra, dohali, doshahari, gandapushpa, gandhapushpa, gatasoka, gatasokah, hemapushpa, hemapuspa, kankali, kankeli, kankelih, kankelli, kantacharandohada, kantangharidohadah, karnapura, karnapuraka, kelika, krimikaraka, madhupushpa, madhupuspah, nata, palladru, pindapushpa, pindipushpa, prapallava, raktapallava, raktapallavah, rama, rogitaru, shhaya, shokaharta, shokanasha, smaradhivasa, smaradhivasah, sokanasanah, strinirikshanadohada, subhaga, tamrapallava, vajula, vamanghrighataka, vamankayatana, vanjuladrumah, vanjuldruma, vichitra, vichitrah, vishoka, vitashoka Tamil (91) - acoka, acoka maram, acokam, acokam 2, acokataru, acokaturu, acoku, acunam, acunam 1, anagam, ankanappiriyam, asavu, ashoka pattai, asogam, asogu, asogy, asoka, asoka pattai, ayil, ayil 1, ayil pattai, cacupam, cakam, cakam 1, cakkarakuccam, caricam, caripam, centu, ceyalai, cincupam, cittirakaranam, cittiram, cittiram 1, cokam, emaputbam, emaputpam, iravatam, iravattam, kakoli, kakorini, kakorinimaram, kamukam, kamukam 1, kamukamaram, kankeli, kankeli#, kankeli@, kankoli, kannapuram, karcokam, kattutonimaram, kattuttoni, kelikam, kelikomaram, kopikam, kopikamaram, malaikarunai, malaikkarunai, malaikkoran, mati, mati 1, matu, matu 1, nettilink, nettilinkam, nettilinki, nettilinku, nettulinkam, pallavattiru, pallavattirumaram, pallavttirumaram, pintaputpam, pintitam, pintitam 1, pintitamaram, pirakipattikam, pitam, pitam 1, ravatam, sasubam, tamirapallavam, tamirapalliyam, tamirapalliyamaram, tokali, vacciram, vanculam, vantiputpam, vicokam, vitacokam, yukapatrikai, yukapattirikai Telugu (8) - ashokamu, asogam, asoka, asokamanu, asokamu, seethamma asokamu, vanjalamu, vanjulamu Tibetan (3) - a so ka, my nan med, mya-nan-med
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1857
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1857.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7163d6d0033f6cd3fb15eb2bde54d42/xclkon/d1b647103166d4e2f09762d792a45a49
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asoka
+sanskrit_name: अशोक
+transliteration: aśoka
+ref_drug_name: अशोक
+status: Accepted source
+discussion: Asoka is correlated to this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Asoka
+sanskrit_name: अशोक
+transliteration: aśoka
+image_urls: https://www.medicinalplants.in/slokaimages/1445/1445_1.jpg https://www.medicinalplants.in/slokaimages/1445/1445_2.jpg https://www.medicinalplants.in/slokaimages/1445/1445_3.jpg https://www.medicinalplants.in/slokaimages/1445/1445_4.jpg https://www.medicinalplants.in/slokaimages/1445/1445_5.jpg https://www.medicinalplants.in/slokaimages/1445/1445_6.jpg https://www.medicinalplants.in/slokaimages/1445/1445_7.jpg https://www.medicinalplants.in/slokaimages/1445/1445_8.jpg
+ocr_text: गतशोको उशोकाह्वाः रक्तको राजी | चित्रश्च कर्णपूरो मञ्जरिको हेमपुष्प इतिं |l निर्दिश्यते शोकनाशः चित्रस्तबकमञ्जरी विशोको वीतशोकश्च शब्दैः पर्यायवाचकै Il (Aa ma) Gatasoko, asokahva, pindipuspa raktaka, raji citra karnapura manjarika hemapuspa, sokanasa, citrasiambaka manjari, visoka, vitasoka- are the synonyms of asoka पिण्डीपुष्पश्च अशोको हेमपुष्पश्च वञ्जुलस्ताम्रपल्लवः कङ्केलिः पिण्डपुष्पश्च गधपुष्पो नटस्तथा Il (Bpn) Asoka hemapuspa, vanjula, tamrapallava, kankoli, pindapuspa gandha puspa, nata are the synonyms of asoka अशोकः शोकनाशः स्याद्विशोको वञ्जुलद्रुमः मधुपुष्पोडपशोकश्च कङ्केलि केलिकस्तथा Il रक्तपल्लवकशि्चित्रो विचित्रः सुभगः स्मराधिवासो दोषहारी प्रपल्लवः रागीतरुर्हेमपुष्पो रामवामाङ्घिघातकः पिण्डीपुष्पो नटश्चैव पल्लवदुर्द्विविंशति II (Rjn) Madhupuspa, apasoka, kankoli, kolika rakiapallava, citra, vicitra karnapuraka subhaga, smaradhivaso, doshahari prapallava, ragi, taruhu, hemapuspa, ramavamandhridhataka, pindipuspa, nata pallavadru are the २० synonyms mentioned. कर्णपूरकः अशोकः शीतलस्तिक्तो ग्राही वर्ण्यः कषायकः दोषापचीतृषादाहकृमिशोफविषास्रजित् Il (Bpn) Asoka is kashaya in rasa, sitala in veerya, varnya in karma used in trsa daha krmi, sopha visa asra vikara and causes dosha pacana. grahi, अशोकस्य त्वचा रक्तप्रदरस्य विनाशिनी Il (Sodala) Asoka's tvak is sisira in veerya, hrdya, destroys rakiapradara, alleviates pitta, daha, and srama. अशोकः शिशिरो हृद्यः पित्तदाहश्रमापहः गुल्मशूलोदराध्माननाशनः कृमिहारकः II (Rjn) Asoka is Sisira in Potency, Hrdya, Pitta Daha Srama hara. It is Gulma- Sula- Udara- Adhmana- Krmi Haraka. अशोकः शीतलश्चार्शःकृमीन्हन्ति प्रयोजितः अपचीं नाशयत्येव सर्वव्रणविनाशनः |l अशोको मधुरो हृद्यः सन्धानीयः सुगधिकः Dhn) Asoka is Sitala in Potency, is used in Arsa, Krmi Apaci, Sarva vrana. It is Madhura, Hrdya, Sandhaniya, Sugandhika. अशोकः शीतलः सिग्धो वर्ण्यो ग्राही कषायकः दोषापचीतृषादाहकृमिशोषविषास्रजित् Il (Kdn) Asoka is Sitala in Potency, Snigdha in Guna, Varnya and Grahi in Karma, Kashayaka in Tasie Causes Dosha pacana, and is used in Trsa, Daha, Krmi, Sosa, Visa, Asra vikara

@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: eb6ad1ac54a01c1ffaeddace467aa144
+Botanical Name: Saccharum spontaneum L.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 222 Vernacular names found in 10 languages. English (1) - kansgrass Hindi (11) - dharbi ghas, kagara, kahi, kans, kansi, kas, kasa, kosa, kus, munj, nannana Kannada (16) - darbhe, darbhe hullu, dharbe kabbu, gorasu hullu, hodake-hullu, hodakehullu, hodekehullu, hodike hullu, huchhu kabbu, kaadu kabbu, mudduli hullu, muddulihullu, muthhala hullu, muttullahullu, mutulla-hullu, mutullahullu Malayalam (3) - kerpa, kusa, nannana Marathi (8) - dharbi, dhub, kaash, kagara, kangar, kasaada, kasai, kasayi Sanskrit (8) - Sanskrit Comments  ikshugandha, kasa, kasah, kash, kasha, kashi, khaggara, svetacamara Tamil (149) - accaparam, achabaram, acumantakam, acumantakappul, alikai, amai1, ancani 1, anitcam, anjani, antamayimai, antamayina, antattaimayinamakki, cacaparam, cankapitam, cankipitam, cankunappul, cantakam, caracoti1, carattikam, caravanattattai, carpacci, carparacciyam2, carpatci, carpatcimaram, carupparaci, catparaci, cattiyacantakam, cavanam, cepappul2, ceppappul, ceppuki, ceppukippul, ceppuppul, cevarpanni, cevarpannippul, cikki, cinakkilanku1, civetai4, cukattam1, cukattan 1#, cukattan1@, cukattika, cukkilattam, cunate, cuttilattam, cuvetacaram1, cuvetakaram, cuvetakarattatai, cuvetam2, erumaikkorai, eruvai, ikkukantai1, irevalcini, irevalcinni, irevarcinni, kaca1, kacam1, kacappul, kacaram, kaka, kakattari, kanacara, kankunam, kantam4, kapetcu, karantai, karuntanam, kilavarikattattai, kilavariketanam, kilavarikketanappul, kocankam, kocankattattai, kocarankam, kosangam, kuccam2, kuccappul, kucham, kucumacattam, kulavukacam3, kumil, kumpal, kurakkam, kurbagam, kurpakam, kurpakattattai, kurvalakam, makkikkilanku, mampusam, mancatcinakkilanku 1, mancatkilanku 1, mantakkutori, munci 1, muncippul, naanal, naccetiraticci, nanal, nanarbul, nanarkattai, nanarpul, nanmugappul, nanmukappul@, naraipputam, naripputtattai, nateyam2, nattuirevalcinni, nattumancalcinakkilanku, natturevalcinni, naykkarumpu, nirakacitam, nirakacitappul, palatakam, pavini, pekkarimpu, petikkilanku, peykkarumbu, pitaram, pumicankunam, purpiti, putal, putumai, saravanam, sugattan, tarppi, tintippicci, tittippicci, tittiri, tittiricci, tittirittattai, tittiru, tittirucci, tittiruchi, titturu, titturucci, tiyankam, tiyankappul, tuttam1, tuttamam, tuttamappul, vanam, vanam$, variyattu#, variyattu@, vekutu, vekututtattai, velam 1, vetacam 1, vetacaram 1, vipalaketcu, viswamitra-dharbai Telugu (24) - billu gaddi, billugaddi, kaaki veduru, kaakicheruku, kaavi veduru, kaki ceruku, kaki gaddi, kaki-cheraku, kakiceraku, kakicheraku, kakiveduru, koregadi, naga saramu, raellugaddi, rallu, rasaalamu, rasalamu, rellu, rellu gaddi, rellugaddi, verri cheraku, verriceraku, verricheruku, vetticheraku Tibetan (1) - ka se ksu ka Urdu (1) - bikh kans
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1834
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1834.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb6ad1ac54a01c1ffaeddace467aa144
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Iksu – jati- kandeksu
+sanskrit_name: इक्षु जाति- काण्डेक्षु
+transliteration: ikṣu jāti kāṇḍekṣu
+ref_drug_name: इक्षु जाति- काण्डेक्षु
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 2
+drug_name: Kasa
+sanskrit_name: काश
+transliteration: kāśa
+ref_drug_name: काश
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Kasa
+sanskrit_name: काश
+transliteration: kāśa
+ref_drug_name: काश
+status: AS
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kasa
+sanskrit_name: काश
+transliteration: kāśa
+image_urls: https://www.medicinalplants.in/slokaimages/1423/1423_1.jpg https://www.medicinalplants.in/slokaimages/1423/1423_2.jpg https://www.medicinalplants.in/slokaimages/1423/1423_3.jpg
+ocr_text: दर्भः स्निग्धरसः स्वादुः कषायः कफपित्तहा | कुशमूलं हिमं रुच्यं मधुरं पित्तनाशनम्| रक्तज्वरं तृषाश्वासकामलादोषनाशकृत्| | दर्भो द्वौ च गुणैस्तुल्यौ तथापि च सितोडधिकः यदिश्वेतकुशाभावः त्वरं योजयेद् भिषक् I| IRjn) Kasa is svadu, kashaya in rasa, snigdha in हuna, alleviates kapha and pitta. Its muia is maahura in rasa, hima in veerya, rucya, destroys pitta cures rakta jvara, trsha, svasa and kamala. Both the aarba are similar but sita aarba is more potent, and in the absence of sveta kusa this can be used. दर्भद्वयं त्रिदोषघ्नं मधुरं तुवरं हिमम्| मूत्रकृच्छ्राश्मरीतृष्णाबस्तिरुक्प्रदरास्राजित् | IBpn) Darba dvaya is madhura, tuvara in rasa, hima in veerya, alleviates all the three aoshas, cures mutra krcchra, asmari, trsna, vasti ruk, pradara ana asravikara दर्भयुग्मं पवित्रं स्यान्मूत्रकृच्छ्रघ्नशीतलम् रक्तपित्तप्रशमनं केवलं पित्तनाशनम् IDhn) Both the darbha are sita in veerya, destroys pitta, is pavitra, cures mutrakrcchra ana raktapitta.

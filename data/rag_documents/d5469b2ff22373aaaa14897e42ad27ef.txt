@@ -1,0 +1,129 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d5469b2ff22373aaaa14897e42ad27ef
+Botanical Name: Syzygium cumini (L.) SKEELS
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Calyptranthes jambolana MOON. Eugenia jambolana LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 246 Vernacular names found in 10 languages. English (2) - jambolan, java plum Hindi (23) - amrut, bahojaman, jam, jaman, jamba, jambava, jambhal, jambu, jambua, jambus, jamniphalani, jamnoa, jamun, kalajaman, kathaman, lal sufrium, lalsufrium, mokni, pairman, phalanda, phalenda, phalinda, pharenda Kannada (34) - dulle nerale, goujalau mara, jama-phala, jambu naerale, jambunerale, jambuva, jumnerale, naayinaerale, naerale, naeralu, naerilu, nainerale, nairul, nankajamburo, narala, nayinerale, neeraala mara, neeralay, neeram, neral, nerale, nerale mara, nerale-hannu, nerali, neralu, nerel, nerilu, nerlu, nerolu, nerula, nirale, nirole, perala-hannu, shebe-hannu Malayalam (15) - gnaval, na-valin-pazham, naga, naivil, nara, naval, naval-pazham, navil, niral, njara, njaval, palamper, perin-njara, perinnaral, perinnjara Marathi (6) - jam, jaman, jambul, rajale, rajjambula, thorajambula Sanskrit (24) - Sanskrit Comments  brahaspati, jambava, jambavam, jambu, jambuh, jambula, kakajambu, mahajambu, mahaphala, mahaskandha, meghamodini, meghavarna, nilaphala, nilaprala, phalendra, raja-jambuh, rajajambu, rajaphala, rajasha, rajphala, shukapriya, shyamala, surabhipriya, svetajambu Tamil (101) - areconitamaram, arugadam, arukatam, caccanam, calappakam, campal, campam, campu, campu#, campu1, campukam#, cankirakiyaccam, catavam, catta, cattuvalam, cattuvam1, cempu, cempu@, cempukaruci, cirivilvam, curapipattirai, curapipattirai2, curuci, inippunavvalmaram, itampakam, itampakamaram, kananuceti, kananucetimaram, karunaval, karunkatikam, karunkatikamaram, katampaccevikam, kavarkalimaram, kavarkulikam2, komar, kottainagam, kottainakam1, kottainaval, koyapalam, koyapapalam, naaval, naga, naga maram, nagai, nagap-pazham, nagum, nairuri, nakai2, nakam3, nakamaram, nakappalamaram, nalaval, nampu, nampuli, nampulimaram, narinaval2, narinavval2, narruti1, narunaruvili, nateyinvati, nattunaval, nava, nava-mara, naval, naval pattai, navamaram, navartol, navel, navval, neratam, neratamaram, neredam, neredom, neretam, neretu, nerotam, nerotu, netan, netanmaram, nilacampu, nilacampumaram, nirali, niritam, palavamarkkam, pattiracam, pulippunavval, pupalamaram, sambal, sambavi, sambu takkolam, takkolam5, tennokalam, tennokalamaram, tevaninal, tittippunaval, tittippunavvalmaram, turavam, turavam$, turkolum, vatacankinati, viritam Telugu (35) - ala naredu, all neredu, goyya-pandu, jam-pandu, jama, jamba, jambu, jambu naredu, jambuvu, jinna, nageaydu, nairuri, nanedu, naradi, naredoo, naredu, narer, nareyr, nasedu, neradi, neradu, nerdi, neredi, neredu, neredu-pandu, nerudu, niradu, pedda naeredu, peddaneredu, raacahnaeredu, raasanaeredu, racaneredu, rachaneredu, rasaneredu, rattsaneredu Tibetan (3) - dza mbu, dzam-bu, ka ka dz mbu Urdu (3) - jaman, jamun, poast jamun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2029
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2029.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/565df43ee5d3f7be65dd61a87fee203c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/4238e8c05562f93249f1a830f36652de
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/8570d386b0bd69493c9bd5ce0d74c115
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/555ff86ef28f78419f94a88b4a9f421f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/565df43ee5d3f7be65dd61a87fee203c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/4238e8c05562f93249f1a830f36652de
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/8570d386b0bd69493c9bd5ce0d74c115
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/555ff86ef28f78419f94a88b4a9f421f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/565df43ee5d3f7be65dd61a87fee203c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/4238e8c05562f93249f1a830f36652de
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/8570d386b0bd69493c9bd5ce0d74c115
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/555ff86ef28f78419f94a88b4a9f421f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/565df43ee5d3f7be65dd61a87fee203c
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/4238e8c05562f93249f1a830f36652de
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/8570d386b0bd69493c9bd5ce0d74c115
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/555ff86ef28f78419f94a88b4a9f421f
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/565df43ee5d3f7be65dd61a87fee203c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/4238e8c05562f93249f1a830f36652de
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/8570d386b0bd69493c9bd5ce0d74c115
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/555ff86ef28f78419f94a88b4a9f421f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/565df43ee5d3f7be65dd61a87fee203c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/4238e8c05562f93249f1a830f36652de
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/8570d386b0bd69493c9bd5ce0d74c115
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef/xclkon/555ff86ef28f78419f94a88b4a9f421f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5469b2ff22373aaaa14897e42ad27ef
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jambu
+sanskrit_name: जम्बू
+transliteration: jambū
+ref_drug_name: जम्बू
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Jambu
+sanskrit_name: जम्बू
+transliteration: jambū
+ref_drug_name: जम्बू
+status: Accepted source
+discussion: Jambira is identified with this species
+reference: [3]
+
+Identity Record 3
+drug_name: Jambu
+sanskrit_name: जम्बू
+transliteration: jambū
+ref_drug_name: जम्बू
+status: Accepted source
+discussion: Jambira is identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Jambu
+sanskrit_name: जम्बू
+transliteration: jambū
+image_urls: https://www.medicinalplants.in/slokaimages/1565/1565_1.jpg https://www.medicinalplants.in/slokaimages/1565/1565_2.jpg https://www.medicinalplants.in/slokaimages/1565/1565_3.jpg https://www.medicinalplants.in/slokaimages/1565/1565_4.jpg https://www.medicinalplants.in/slokaimages/1565/1565_5.jpg
+ocr_text: जाम्बवं कफपित्तघ्नं ग्राहि वातकरं परम् |l च.सू २७ २३४ Jambu is grahi, alleviates kapha, pitta and increases vata अत्यर्थ वातलं ग्राहि जाम्बवं कफपित्तजित् | (सुश्रुत सू ४६ २६५) It is grahi, highly increases vata ana alleviates kapha and pitta जाम्बवं वातलं ग्राहि स्वाद्वम्लं कफवातजित् हृत्कण्ठघर्षणं चान्यत् कषायं क्षुद्रजाम्बवम् Il KDhnl Jambava is svadu, amla in rasa, grahi in guna, increases vata, kapha vata jit and hrt kantha gharshana. The other variety of jambu is ksuara jambu which is kasaya in rasa जम्बूः संग्राहिणी रूक्षा कफपित्तास्रदाहजित्| राजजम्बूफलं स्वादु विष्टम्भि गुरु रोचनम्|| (Bpnl Jambu is ruksa, sangrahi in guna, alleviates kapha and pitta, cures asra aaha. Raja jambu phala is svadu in rasa, guru in guna vistambhi and rocana and तन्मज्जा ग्राही विशेषान्मधुमेहहा Il INirl Its majja is tuvara, grahi, and specifically used to cure madhu meha. तुवरो

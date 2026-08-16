@@ -1,0 +1,104 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2ed95f3d53b344394870ef34c7d83b4d
+Botanical Name: Alangium salvifolium (L.F.) WANG.
+Family: Alangiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Alangium decapetalum LAM. Alangium hexapetalum LAM. Alangium lamarckii THWAITES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 243 Vernacular names found in 8 languages. Hindi (14) - aankol, akhaul, akol, akola, akola or akolah, anedhera, angol, ankera, ankora, dhela, dhera, ghaul, kweli, thailaankul Kannada (27) - amkole, ankalige, ankili, ankoelaemara, ankola, ankolare, ankole, ankole mara, ankoleda, ankolo, ankolu, ankota, ankotha, anosroli, anroli, ansroli, asroli, guddada doani, guddadagoni, guddaga goni, kallu maavina mara, kallu maavu, kallu-maavu, kallumavina, kallumavu, kare ankole gida, lucki Malayalam (21) - alanci, alangi, alinnil, amkolam-chettu, angolam, ankolam, arinil, arinjil, ayan-golam, cem, chem, chemmaram, kara-angolam, karaangolam, karangolam, karankolam, kimri, vallithondi, velittondi, vlittonti, vvallittonti Marathi (8) - akel, akola, amgolum, amkolam, ankol, ankoli, ankool, ankul Sanskrit (49) - Sanskrit Comments  ankodah, ankola, ankolah, ankolaka, ankolla, ankollah, ankollakah, ankota, ankotah, ankotaka, ankotha, bhushita, dheergha, dirghakila, dirghakilaka, dirghakilakah, dridhakantaka, gandhapyshpa, ghalanta, gudhamallika, gudhapatra, gudhavallika, gunadhyaka, guptasneha, itikolam, kankarola, kanthora, kolaka, kothara, lambakarna, madana, morata, nedishta, nikochaka, nikothaka, pita, pitasara, pitasarah, ramatha, rechi, rochana, shoedhanam, sodana, talokota, tamraphala, tamraphalah, vamaka, vishaghna, vishalatailagarbha Tamil (105) - accan, acchan-chedi, adigolam, ainkolam, ainkolavirutcam, al 1, alancai, alanci, alangi, alanji, alinci vittu, alinci@, alincil, alincil vitai, alincilver, alincilver-p-pattai, alincu, alingi, alinjil, an, angolam, angolavayirravan, animulai, anincil 1, ankolam, ankolavairavamaram, ankolavairavan, ankolavam, ankolum, ankotakam, ankukalam, anmaram 1, antai 1, apakolam, arulavam, aruluvam, ashunji, atikoevam, atikolam, atikovam, attigolam, attikolam, attu, avakolam, azhingil, azhinjal, azhinji maram, azhinji-maram, azhinjil, azihcil, cemmaram 1, cemmaratti, cenamaram, cenamarappattai, cey, civi, civini 1, eginam, ekin, ekinam, eralineil, eralinjil, erashunji, intiracali#, intiracali@, irangashunji, jivi, kallalincil, kantaputpam 2, karikkolam#, karikkolam@, karikkolamaram, karikolam, kariyanaccan, karumuli, kolakam, koliniram, kolumaram, kotakam, kunatiyakam, kuyyamallikam, malaimamikam, mantukapanni, murunkai, nallankolam, nettilangi, nisto, oru, pallam, pallatiki, pili, pittacattu, tamirapalam, tanakku, tericini, tirkkamulakam, ulincil 1, unnati, unnatimaram, unni 1, ventotikam, viracaki, viracakimaram, vittuni, yankolam Telugu (15) - amkolam-chettu, ankolamu, kudagu, nalla ankolamu chettu, nallankolamu, nallauduga, nallaukolamu, nalluduga, nalludugu, ooduga, udaga, uduga, udugachettu, urgu, uru Tibetan (4) - a go ta, a ke ta, a ko ta, a-rko-ta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 90
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/90.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/e4b4b96b7f019152df0e413a883759ac
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/a8fce5255cf2a1318b5f27ad972944c5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/dad0ab4fb9f3a1b91311e0c861080cf5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/e4b4b96b7f019152df0e413a883759ac
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/a8fce5255cf2a1318b5f27ad972944c5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/dad0ab4fb9f3a1b91311e0c861080cf5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/e4b4b96b7f019152df0e413a883759ac
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/a8fce5255cf2a1318b5f27ad972944c5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/dad0ab4fb9f3a1b91311e0c861080cf5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/e4b4b96b7f019152df0e413a883759ac
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/a8fce5255cf2a1318b5f27ad972944c5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d/xclkon/dad0ab4fb9f3a1b91311e0c861080cf5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ed95f3d53b344394870ef34c7d83b4d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ankola
+sanskrit_name: अङ्कोल
+transliteration: aṅkola
+ref_drug_name: अङ्कोल
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Ankola
+sanskrit_name: अङ्कोल
+transliteration: aṅkola
+ref_drug_name: अङ्कोट
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Ankota
+sanskrit_name: अङ्कोट
+transliteration: aṅkoṭa
+ref_drug_name: अङ्कोल
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 4
+drug_name: Ankota
+sanskrit_name: अङ्कोट
+transliteration: aṅkoṭa
+ref_drug_name: अङ्कोट
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

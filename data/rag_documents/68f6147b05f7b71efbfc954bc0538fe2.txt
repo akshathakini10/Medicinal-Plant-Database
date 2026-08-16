@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 68f6147b05f7b71efbfc954bc0538fe2
+Botanical Name: Albizia lebbeck (L.) BENTH.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Acacia speciosa WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 258 Vernacular names found in 10 languages. English (3) - east indian walnut, kokko, siris Hindi (26) - charas, garso, kalio siras, kalshish, kalsis, lasrin, mathirishi, pangar, safed siris, saras, sares, sarin, shiris, shirish, sirai, sirar, siras, sirasa, sirin, siris, siris (black), siris kala, siris-ka-per, sirs, sirsa, sissa Kannada (34) - baage, baage mara, bage, bageda, baghi, bagi, baji, dodda baage, dodda hombaage, dodda sirisha, doddabafe, doddabage, doddasirisa, ghulmero, goddu hunase, gulmhora, hombaage, hombage, kaadu manjeete, kadace, kadache, kalbaage, kalbaghi, kallu baage, kattu-vagai, motisarsiro, shireesha-mara, sireesha, sirisa, sirisha, sirsala, sirsool, sirsul, tirchul Malayalam (10) - chelinge, kattuvaka, nannaeni, nenmani, nenmeni, nenmenivaka, nenneni, vaga, vaka, velu-vake Marathi (9) - belisiras, chekola, chichola, kaalashiras, mothasiras, sankesar, shirish, siras, siris Sanskrit (48) - Sanskrit Comments  a, barhapushpa, bhandi, bhandika, bhandila, bhandira, kalinga, kapitaka, kapitana, karnapura, katabhi, kinihi, krishnashirisha, lomashapushpaksaparni, madhupushpa, mrdupushpah, mridupushpa, murdhapushpa, pitshirish, plavaga, pruthushrangi, sahasraki, shankiniphala, shikiniphala, shirish, shirisha, shitapushpa, shrisha, shukadruma, shukapriya, shukapushpa, shukataru, shukeshta, shuksatam, shyamavarna, shymala, sirisa, sirisah, sukapriya, sukataruh, sukhataru, supushpaka, svarnapushpaka, uddanaka, vishaghati, vishahanta, vishanashana, vrittapushpa Tamil (106) - adukkavagai, antutim, atukkuvakai, chireedam, cilipam, cinapam, ciritakam, ciritakamaram, ciritam, ciritam#, ciritam$, ciritam@, conakam#, conakam$, conakam1, conatamaram, cukattirakam, cukattiram, cukattiramaram, cukattiravam, cukatturumam, culika, culikamaram, eluvakai, eluvakaimaram, ilaivakai, kalincakam2, kalindi, kalinkam3, kalinti3, kalintimaram, kallukam, kanipala, kanmuracu, kapitanam, kapittaci, karuppuvakai, kattu vagai, kattu vakai, kattuvagai, kattuvakai, kirusnapiram, kona, kopattirai, kottancilai, mayurakari, mirutuputpam#, mirutuputpam@, mirutuputpamaram, nakappattiri, nakappittirimaram, nattuvakai, nentukam, pallukam, pallukamaram, pandil, pantakaccam, pantil, pantil 3, paruvakai, patikam, patil, periyavakai, perunvagai, peruvakai 1, peruvakaimaram, pilavam, pilavatitam, pilavatitamaram, piram, putamaram, putavirotikam, putavirotikamaram, putavirukkam, puvicilai, puvitavirukkam, siridam, siris-ka-per, sonagam, sugattram, ulincil, ulincilaivakai, undugam, untukam, utuntakam, utuntukam, vaagai, vagai, vagai maram, vaghai, vakai, vakaimaram, vakaiyilai, vakattimaram, vakattiram#, vannika 2, vannikavakai, variyankam, vellaivenkai, vellankam, velvariyankam, velvenkai, vinneyavam, viruttaputpam, viruttaputpamaram, yamavarana Telugu (14) - baagichettu, billa, billa vaara, dirisana, dirisanamu, girisamu, girishamu, kapitanamu, kapithanamu, pedda dirisinam, peddadirisanamu, sirisamu, sirishamu, telladirisana-chettu Tibetan (7) - si ri si (d), si-ri-sa, sri sa, sri si ka, sri si ka (d), sri si ks (d), su-ka-ta-ru Urdu (1) - saras
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f6147b05f7b71efbfc954bc0538fe2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 96
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/96.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f6147b05f7b71efbfc954bc0538fe2/xclkon/862e794ea388d42642fee15e2e297baf
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f6147b05f7b71efbfc954bc0538fe2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f6147b05f7b71efbfc954bc0538fe2/xclkon/862e794ea388d42642fee15e2e297baf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f6147b05f7b71efbfc954bc0538fe2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f6147b05f7b71efbfc954bc0538fe2/xclkon/862e794ea388d42642fee15e2e297baf
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f6147b05f7b71efbfc954bc0538fe2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f6147b05f7b71efbfc954bc0538fe2/xclkon/862e794ea388d42642fee15e2e297baf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f6147b05f7b71efbfc954bc0538fe2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

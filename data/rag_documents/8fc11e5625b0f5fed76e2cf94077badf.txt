@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8fc11e5625b0f5fed76e2cf94077badf
+Botanical Name: Premna serratifolia L.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Premna integrifolia L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 140 Vernacular names found in 8 languages. English (1) - headache tree Hindi (3) - agetha, arni, ustabunda Kannada (17) - agnimandha, agnimathha, bachanige mara, bhootha naeralu, eegigida, eeji gida, ichu, icu, ije, ishe, narahuli, narapelu, naravalu, narave, naruvalu, takkile, thakkile Malayalam (4) - appel, ben-moenja, munna, panira Marathi (8) - aeran, aran, chamari, kharanarvel, kharo narvel, naravaela, taakalai, taanklaa Sanskrit (34) - Sanskrit Comments  agnibijaka, agnimantha, agnimanthah, ananta, arani, aranika, araniketu, ganakasika, gani-karika, ganikarica, ganikarika, girikarnika, hari-mantha, havirmantha, jaya, jayanti, jyotishka, kanika, karnika, mathana, nadeyi, nadija, pavaka, pavakarini, pittamata, shriparna, takkari, tanutvaka, tejomantha, vaijayantika, vanhimantha, vanhimula, vijaya, vijayantika Tamil (61) - alattuppacitam, alattuppacitamaram, alimotai, arani, cailataraki, catai2, cataimaram, catur, ciratavallon, ciruparani1, cittirakkini, erutukanni, erutukannimaram, karamunnai, karamunnaimaram, karnakam, kataikkalutti, kenakari, kentapattiram1, kentivirutcam, kentivirutcokam, makaiyam, makaiyamaram, malaimunnai, malaimunnaimaram, malaippaka, malaippakamunnai, mantatorani, mantokkini, minnai, moonnee vayr, munnai, munnai#, munnaimaram, munnay, munni-vayz, murkkamakkini, nankuli, narmani, narumunnai, pachu munnai, pacumunnai, panri munnai, parumunnai, pasu-munnai, pasumunnai, pay minnay, perumunnai, perumunnaimaram, pitani 1, pitanimaram, takkari1, takkarikai1, tapanaccatam2, tecomantaram2, tecomaram2, vaicanti, vaicayanti, vaicayanti 1, vengai, vimmi Telugu (12) - gabbunelli, gadanelli, ghebunelli, kanika, karnika, nagura, nelli, nelli chettu, pinnanelli, takkedu, thakkadu, tukkadu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/c2ea578dc8654b79aa922aaddb3d5a28
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1730
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1730.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/a0b3d6fe4822fc7b2045787189c83af5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/c2ea578dc8654b79aa922aaddb3d5a28
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/a0b3d6fe4822fc7b2045787189c83af5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/c2ea578dc8654b79aa922aaddb3d5a28
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/909b06e753c2bd0afc7083883e1e057b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/a0b3d6fe4822fc7b2045787189c83af5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fc11e5625b0f5fed76e2cf94077badf/xclkon/c2ea578dc8654b79aa922aaddb3d5a28
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Agnimantha
+sanskrit_name: अग्निमन्थ
+transliteration: Agnimantha
+image_urls: https://www.medicinalplants.in/slokaimages/443/443_1.jpg https://www.medicinalplants.in/slokaimages/443/443_2.jpg https://www.medicinalplants.in/slokaimages/443/443_3.jpg https://www.medicinalplants.in/slokaimages/443/443_4.jpg https://www.medicinalplants.in/slokaimages/443/443_5.jpg https://www.medicinalplants.in/slokaimages/443/443_6.jpg
+ocr_text: तर्कारी कटुरुष्णा च तिक्ताउनिलकफापहा शोफश्लेष्माग्निमान्द्यार्शो विडगन्धाउडध्माननाशिनी | | अग्निमन्थद्वयं चैव वीर्यरसादिषु | तत्प्रयोगानुसारेण योजयेत् स्वमनीषयाI| (Rjn) Agnimantha is katu, tikta in rasa, usna in veerya, anila kapha hara, cures sopha, slesma, agni mandya, arsa vid gandha and adhmana The second variety of agnimantha has similar properties and is to be used accordingly तुल्यं तर्कारी कटुका तिक्ता तथोष्णाडनिलपाण्डुजित् शोषश्लेष्माग्निमान्द्यामविबन्धाँश्च विनाशयेत्I| (Dhn) Tarkari is katuka, tikta in rasa, usna in veerya, anilapandu hara, cures sosa, slesma, agnimandya and vibandha अग्निमन्थः श्वयथुनुद् वीर्योष्णः कफवातहृत् पाण्डुनुत् कटुकस्तिक्तस्तुवरो मधुरोडग्निदः [ (Bpn) Agnimantha is katuka, tikta, tuvara, madhura in rasa usna in veerya agni karaka, alleviates kapha, vata cures svayathu and pandu गणिकारी तु शोथघ्नी हिताघातविकारिणाम्I| (Rjv) Ganikari is sothaghna and useful in external vikara अग्निमन्थो गुरुस्तिक्तो वातशोफामजित् सरः (Sodala ) Agnimantha is tikta in rasa, guru, sara in guna, vata sopha ama hara गुणाः लघ्वाग्निमन्थस्य प्रोक्ताः वृद्धाग्निमन्थवत् विशेषाल्लेपने चोपनाहे शोफे च कीर्त्तितः|| (Nir) Laghu agnimantha is similar in property to that Of vrddha agnimantha

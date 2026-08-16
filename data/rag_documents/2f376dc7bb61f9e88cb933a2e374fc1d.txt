@@ -1,0 +1,78 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2f376dc7bb61f9e88cb933a2e374fc1d
+Botanical Name: Canscora decussata SCHULTES & SCHULTES.F.
+Family: Gentianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 8 languages. Hindi (6) - kalameg, samkhaphuli, sankhahuli, sankhaphuli, shankhahuli, shankhini Kannada (2) - shankapushpa, shankha pushpa Malayalam (3) - kancankora, samkhapuspi, sankhupuspam Marathi (2) - titavi, yavotchi Sanskrit (24) - Sanskrit Comments  akshapida, danakuni, dandotpala, dridhapada, kambumalinee, kambupushpi, mahatikta, maheshvari, nakuli, netramila, patratanduli, sanhkapuspi, sankhapuspi, sankhini, shankhapushpi, shankhini, sukshmapushpi, tikta, tiktayava, tunduli, visarpini, yashasvini, yavatikta, yavi Tamil (1) - tantorpalam Telugu (1) - chitti akchinata Urdu (2) - sankha holi, sankhaphuli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 425
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/425.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f376dc7bb61f9e88cb933a2e374fc1d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sankhapuspi
+sanskrit_name: शङ्खपुष्पी
+transliteration: śaṅkhapuṣpī
+ref_drug_name: शङ्खपुष्पी
+status: Controversial
+discussion: Among the Brhatrayi, Sankhapuspi was widely used as medhya (promotes memory); In Dhanvantari and Bhavaprakasa nighantu it is explained seperately; Raja nighantu and Kaideva nighantu have mentioned 3 types of Sankhapuspi based on the colour of flowers; Due to these reasons it ran into controversy; Many species are correlated to Sankhapuspi and this is one among them; Its widely used in Bengal
+reference: [5]
+
+Identity Record 2
+drug_name: Sankhapuspi
+sanskrit_name: शङ्खपुष्पी
+transliteration: śaṅkhapuṣpī
+ref_drug_name: शङ्खपुष्पी
+status: Accepted source
+discussion: Is a controversial drug; Canscora decussata has been accepted as Sankhapuspi by the Bengali Kavirajas
+reference: [1]
+
+Identity Record 3
+drug_name: Yavatikta
+sanskrit_name: यवतिक्ता
+transliteration: yavatiktā
+ref_drug_name: यवतिक्ता
+status: Most probable
+discussion: May be considered as it source
+reference: [1]
+
+Identity Record 4
+drug_name: Yavatikta
+sanskrit_name: यवतिक्ता
+transliteration: yavatiktā
+ref_drug_name: यवतिक्ता
+status: Most probable
+discussion: With regard to the interpretation and description given by Dalhana it is most probably identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

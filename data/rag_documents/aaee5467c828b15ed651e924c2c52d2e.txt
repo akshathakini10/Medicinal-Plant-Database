@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: aaee5467c828b15ed651e924c2c52d2e
+Botanical Name: Quercus leucotrichophora A. CAMUS
+Family: Fagaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Quercus incana ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 3 languages. Hindi (5) - ban, ban oak, bani, banj, banjha Sanskrit (1) - Sanskrit Comments  mayaphala Urdu (2) - baloot, balooth
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaee5467c828b15ed651e924c2c52d2e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1778
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1778.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaee5467c828b15ed651e924c2c52d2e/xclkon/ef603918a0d9ea8e12694124ebace690
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaee5467c828b15ed651e924c2c52d2e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaee5467c828b15ed651e924c2c52d2e/xclkon/ef603918a0d9ea8e12694124ebace690
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaee5467c828b15ed651e924c2c52d2e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaee5467c828b15ed651e924c2c52d2e/xclkon/ef603918a0d9ea8e12694124ebace690
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aaee5467c828b15ed651e924c2c52d2e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Mayaphala
+sanskrit_name: मायाफल
+transliteration: māyāphala
+image_urls: https://www.medicinalplants.in/slokaimages/1373/1373_1.jpg https://www.medicinalplants.in/slokaimages/1373/1373_2.jpg https://www.medicinalplants.in/slokaimages/1373/1373_3.jpg
+ocr_text: मायाफलं वातहरं कटूष्णकम् | शैतिल्यसंकोचककेशकार्ष्ण्यदम्I| (Rjn) Mayaphala is katu in rasa, usna in veerya, alleviates vata is shaithilya, sankocaka and kesakarsnyada. मायुकं बद्धविट्कं च शीतं च शिशुभेषजम्|| (शोढलः ) Mayuka is sita in veerya, baddhavitka and sisu bhesaja. शीतलं रूक्षं कषायं लघुदीपनम्| विपाके कटुकं ग्राहि कफपित्तहरं परम्I| (शोढलनिघण्टु) Mayuka is kashaya in rasa, ruksa, laghu in guna, sita in veerya katu in paka dipana, grahi and best in alleviating kapha and pitta. मायुकं
+
+Shloka Record 2
+drug_name: Mayaphala - prajati
+sanskrit_name: मायाफल प्रजाति
+transliteration: māyāphala prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/1373/1373_1.jpg https://www.medicinalplants.in/slokaimages/1373/1373_2.jpg https://www.medicinalplants.in/slokaimages/1373/1373_3.jpg
+ocr_text: मायाफलं वातहरं कटूष्णकम् | शैतिल्यसंकोचककेशकार्ष्ण्यदम्I| (Rjn) Mayaphala is katu in rasa, usna in veerya, alleviates vata is shaithilya, sankocaka and kesakarsnyada. मायुकं बद्धविट्कं च शीतं च शिशुभेषजम्|| (शोढलः ) Mayuka is sita in veerya, baddhavitka and sisu bhesaja. शीतलं रूक्षं कषायं लघुदीपनम्| विपाके कटुकं ग्राहि कफपित्तहरं परम्I| (शोढलनिघण्टु) Mayuka is kashaya in rasa, ruksa, laghu in guna, sita in veerya katu in paka dipana, grahi and best in alleviating kapha and pitta. मायुकं

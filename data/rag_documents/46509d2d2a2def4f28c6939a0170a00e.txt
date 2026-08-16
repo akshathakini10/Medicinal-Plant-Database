@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 46509d2d2a2def4f28c6939a0170a00e
+Botanical Name: Picrorhiza scrophulariiflora PENNELL
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 7 languages. Hindi (3) - katuka, kuru, kutki Kannada (5) - katthe garba, katthee garabu, katuka, katuka rohini, katukarohini Malayalam (2) - katukurohini, katurohini Marathi (4) - baal kadoo, kaalee kutakee, kaedaarkadoo, kutakee Sanskrit (3) - Sanskrit Comments  katuka, katurohini, katvi Tamil (1) - katugurohini Telugu (5) - katki, katukarogani, katukee, katukkurohini, katukuroni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/46509d2d2a2def4f28c6939a0170a00e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1657
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1657.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/46509d2d2a2def4f28c6939a0170a00e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

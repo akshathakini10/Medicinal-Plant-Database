@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 585e39d7a39848fcc72a6a3a13e0c99a
+Botanical Name: Vitex leucoxylon SCHAU
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 52 Vernacular names found in 6 languages. Kannada (17) - holanakee, holanaki, holanakki, hole lakki, hole nakki, holenekki, kareyile, kari senkaani, kariyaale, karri, karril, lakki, sangane, sangini, sengeni, sengenitkarril, senkani Malayalam (12) - arrunocci, attanocchi, attunochchi, attunochi, kariil, karil, karril, maiyella, mayilella, mayilia, mayilila, neernochi Marathi (4) - bavalgi, narda, sherus, sona garbi Sanskrit (1) - Sanskrit Comments  paravatapadi Tamil (7) - kattunocci1, kattunochi, katunocci, nir-nocchi, nirnocchi, nirnocci, nirnochi Telugu (11) - gaja vavila, gajavaavili, jinnukoyi, konda vavili, kondavaavili, kondavavili, lokki, luki, mylellu, nevalaedi, nevaledi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585e39d7a39848fcc72a6a3a13e0c99a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2213
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2213.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585e39d7a39848fcc72a6a3a13e0c99a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585e39d7a39848fcc72a6a3a13e0c99a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585e39d7a39848fcc72a6a3a13e0c99a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Paravatapadi
+sanskrit_name: पारावतपदी
+transliteration: pārāvatapadī
+ref_drug_name: पारावतपदी
+status: Accepted source
+discussion: Paravatapadi' has been cited just once in Susruta and Caraka; Cakrapani has interpreted it as 'Jyotismati' and Dalhana as 'Hamsapdi'; According to the author it is identified with this species which is known among the adivasis (tribal people) as 'Cirai-Godi'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

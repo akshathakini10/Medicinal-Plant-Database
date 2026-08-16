@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d85d1c4eb1388a0af5dd3dd0bb09eaa1
+Botanical Name: Ternstroemia gymnanthera (WT. & ARN.) BEDD.
+Family: Theaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ternstroemia japonica AUCT.NON THUNB)
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 1 languages. Kannada (8) - kaamoni, kaemoni, kamoni, kaymone, kemmani, kemmuni, kiamonu, kirmoni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d85d1c4eb1388a0af5dd3dd0bb09eaa1/xclkon/0f17b58709a340b2d06fe6d9fba55ed0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d85d1c4eb1388a0af5dd3dd0bb09eaa1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d85d1c4eb1388a0af5dd3dd0bb09eaa1/xclkon/0f17b58709a340b2d06fe6d9fba55ed0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

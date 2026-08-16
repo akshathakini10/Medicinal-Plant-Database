@@ -1,0 +1,108 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6afe7a03ff6471d6d529a33af35f7db7
+Botanical Name: Tinospora sinensis (LOUR.) MERR.
+Family: Menispermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Tinospora malabarica (LAM.) HOOK F. & THOMS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 7 languages. Hindi (7) - calon, gilai, giloe, giloei, gulancha, gurch, tiloe Kannada (3) - amratavalli, sudarsana balli, sudarshana balli Malayalam (5) - amrtu, chittamratam, cittamrtu, paiyamratam, pee-amerdu Marathi (2) - gulvel, vhadli-amrutvel Sanskrit (4) - Sanskrit Comments  amrta, guduci, sudarsana, vatsadani Tamil (10) - amradvalli, culavarini, culavarinikkoti, por cintil, porcintil, potchindil, seendil, sindilkodi, tuparakkoti, tuparam2 Telugu (2) - thippatheega, tippatega
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7/xclkon/c00992191bf4df793d2dc9e2590167f2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2089
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2089.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7/xclkon/197237f4ce6e52a222720e3d35c2a7de
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7/xclkon/c00992191bf4df793d2dc9e2590167f2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7/xclkon/197237f4ce6e52a222720e3d35c2a7de
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7/xclkon/c00992191bf4df793d2dc9e2590167f2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7/xclkon/197237f4ce6e52a222720e3d35c2a7de
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6afe7a03ff6471d6d529a33af35f7db7/xclkon/c00992191bf4df793d2dc9e2590167f2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Guduci – jati
+sanskrit_name: गुडूची जाति
+transliteration: guḍūcī jāti
+ref_drug_name: वत्सादनी
+status: Accepted source
+discussion: This species is correlated to a variety of Guduci which is known as ‘Padmaguduci or Kandaguduci’. Leaves appear big and triangular in shape
+reference: [3]
+
+Identity Record 2
+drug_name: Guduci – jati
+sanskrit_name: गुडूची जाति
+transliteration: guḍūcī jāti
+ref_drug_name: गुडूची जाति
+status: Accepted source
+discussion: This species is correlated to a variety of Guduci which is known as ‘Padmaguduci or Kandaguduci’. Leaves appear big and triangular in shape
+reference: [3]
+
+Identity Record 3
+drug_name: Guduci – jati
+sanskrit_name: गुडूची जाति
+transliteration: guḍūcī jāti
+ref_drug_name: वत्सादनी
+status: Accepted source
+discussion: In the nighantus, 'Vatsadani' is considered as a synonym of 'Guduci' but referance of ancient texts depict it to be a different drug from 'Guduci'; It’s a creeper which is a favourite of goats and hence its name 'Vatsadani'; In Abhidhanaratnamala, 'Vatsadani' is mentioned under the group of sweet drugs and 'Guduci' under the group of bitter drugs but there is also a mention of 'Vatsadani' as a synonym of 'Guduci' which shows that it should be variety of 'Guduci' hence identified with this species and which is popularly known as 'Padmaguduci'
+reference: [5]
+
+Identity Record 4
+drug_name: Vatsadani
+sanskrit_name: वत्सादनी
+transliteration: vatsādanī
+ref_drug_name: वत्सादनी
+status: Accepted source
+discussion: This species is correlated to a variety of Guduci which is known as ‘Padmaguduci or Kandaguduci’. Leaves appear big and triangular in shape
+reference: [3]
+
+Identity Record 5
+drug_name: Vatsadani
+sanskrit_name: वत्सादनी
+transliteration: vatsādanī
+ref_drug_name: गुडूची जाति
+status: Accepted source
+discussion: This species is correlated to a variety of Guduci which is known as ‘Padmaguduci or Kandaguduci’. Leaves appear big and triangular in shape
+reference: [3]
+
+Identity Record 6
+drug_name: Vatsadani
+sanskrit_name: वत्सादनी
+transliteration: vatsādanī
+ref_drug_name: वत्सादनी
+status: Accepted source
+discussion: In the nighantus, 'Vatsadani' is considered as a synonym of 'Guduci' but referance of ancient texts depict it to be a different drug from 'Guduci'; It’s a creeper which is a favourite of goats and hence its name 'Vatsadani'; In Abhidhanaratnamala, 'Vatsadani' is mentioned under the group of sweet drugs and 'Guduci' under the group of bitter drugs but there is also a mention of 'Vatsadani' as a synonym of 'Guduci' which shows that it should be variety of 'Guduci' hence identified with this species and which is popularly known as 'Padmaguduci'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

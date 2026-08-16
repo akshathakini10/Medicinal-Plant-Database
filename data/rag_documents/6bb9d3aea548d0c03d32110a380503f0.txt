@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6bb9d3aea548d0c03d32110a380503f0
+Botanical Name: Ceriscoides turgida (ROB.) TIRUV.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Gardenia turgida ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 72 Vernacular names found in 7 languages. Hindi (13) - gangli, ghurga, ghurgia, karamba, khuriari, khurrur, khurur, mhaner, padairi, thanela, thanella, thanera, vangli Kannada (10) - bangeri, bengeri, bona gaare, bonagaare, bone gaare, bongeri, boodugaare, magge, makkarai, makke Malayalam (5) - kharkar, makkara, malakara, malamkarai, malankara Marathi (8) - khurphendra, pendra, pendri, phanda, phendra, phethra, phetra, safed-phetra Sanskrit (3) - Sanskrit Comments  bharangi, bharngi, mahapindi Tamil (6) - malangarai, malankarai, manjunda, nancuntamaram, nancuntan#, nanjundam Telugu (27) - gudi manga, kokkita, kukka elaka, kukka-elka, manjunda, mullukokkita, mullukokkitha, naikinna, nakkareni, telel, teliga, tella gumma, tella-elka, tellaguma, tellakakkisa, tellakokkita, thella elaka, thellakakkitha, thellakokkita, tuddumanga, tuddumunga, verribikki, vettibikki, yelukari chittu, yerra-bikki, yerrabikki, yerribikki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6bb9d3aea548d0c03d32110a380503f0/xclkon/26f3f8ddeba2ef7e2b3e6f57b63aef8c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bharngi
+sanskrit_name: भार्ङ्गी
+transliteration: bhārṅgī
+image_urls: https://www.medicinalplants.in/slokaimages/444/444_1.jpg https://www.medicinalplants.in/slokaimages/444/444_2.jpg https://www.medicinalplants.in/slokaimages/444/444_3.jpg https://www.medicinalplants.in/slokaimages/444/444_4.jpg
+ocr_text: भार्गी स्यात् स्चरसे तिक्ता चोष्णा श्वासकफापहा गुल्मज्वरासृग्वातघ्नी यक्ष्माणं (Dhn) Bhargi svarasa is tikta rasa usna in veerya, $!2$2 kapha hara cures gulma, jvara, asrg vata yaksma and pinasa पीनसम् भार्गी तु कटुतिक्तोष्णा कासश्वासविनाशनी शोफव्रणकृमिघ्नी च दाहज्वरनिवारिणी II (Rjn ३) Bhargi is katu, tikia in rasa usha in veerya cures kasa, svasa, sopha vrana krmi and daha jvara भार्गी रूक्षा कटुस्तिक्ता रुच्योष्णा पाचनी लघुः दीपनी तुवरा गुल्मरक्तनुन्नाशयेत् ध्रुवम् |l शोथकासकफश्चकासपीनसज्वरमारुतान् (Bpn) Bhargi is katu tikta tuvara in rasas laghu ruksa in guna, rucya, usna, pacani dipani cures gulma rakta sotha, kasa, kapha, svasa, pinasa ivara and marurta पर्णमस्याः ज्वरं दाहं हिक्कां दोषत्रयं हरेत् I (Nir) Its leaves are beneficial for jvara daha, hikka vitiation Of three doshas and

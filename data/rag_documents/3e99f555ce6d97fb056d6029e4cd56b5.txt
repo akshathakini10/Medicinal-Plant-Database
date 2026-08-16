@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3e99f555ce6d97fb056d6029e4cd56b5
+Botanical Name: Actinodaphne angustifolia NEES
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Actinodaphne hookeri MEISSN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 4 languages. Kannada (9) - galavaara, haggodgi mara, heggoddi mara, hoggodgimara, kaggodagina mara, kaggodi, kamati, nitthe, tudgensu Malayalam (11) - malavirimji, malavirimvi, malavirinji, malavirinni, malavirinya, malavirinyi, neyalum, neyaram, puvaca, puvaccha, puvacha Marathi (5) - gulchal, pichli, pisa, pisha, pissa Tamil (2) - tali, thali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e99f555ce6d97fb056d6029e4cd56b5/xclkon/93b3b8d964696a447ebf0cd3df45c9d6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e99f555ce6d97fb056d6029e4cd56b5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e99f555ce6d97fb056d6029e4cd56b5/xclkon/93b3b8d964696a447ebf0cd3df45c9d6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e99f555ce6d97fb056d6029e4cd56b5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e99f555ce6d97fb056d6029e4cd56b5/xclkon/93b3b8d964696a447ebf0cd3df45c9d6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

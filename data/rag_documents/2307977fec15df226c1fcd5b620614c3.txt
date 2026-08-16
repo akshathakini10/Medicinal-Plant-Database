@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2307977fec15df226c1fcd5b620614c3
+Botanical Name: Albizia lucidior (STEND.) NIELSON
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Albizia lucida BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Sanskrit (2) - Sanskrit Comments  katabhi, sirisa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2307977fec15df226c1fcd5b620614c3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2307977fec15df226c1fcd5b620614c3/xclkon/f7bc589e23f2aa34c083abb5e353a5c6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2307977fec15df226c1fcd5b620614c3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2307977fec15df226c1fcd5b620614c3/xclkon/f7bc589e23f2aa34c083abb5e353a5c6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2307977fec15df226c1fcd5b620614c3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

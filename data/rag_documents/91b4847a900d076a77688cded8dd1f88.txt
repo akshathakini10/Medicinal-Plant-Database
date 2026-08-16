@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 91b4847a900d076a77688cded8dd1f88
+Botanical Name: Cucumis prophetarum L.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cucumis myriocarpus NAUD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. Hindi (6) - indras, kantalia, khari-indrayan, kharindroyan, khat kachario, khat-kachro Malayalam (1) - balia-mucca-piri Marathi (1) - kanteindrayan Sanskrit (4) - Sanskrit Comments  aindri, indravaruni, kakadini, kshundrakantaphala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91b4847a900d076a77688cded8dd1f88
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91b4847a900d076a77688cded8dd1f88/xclkon/aa594fe495e5e855ca9a1e6e946c419a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91b4847a900d076a77688cded8dd1f88
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91b4847a900d076a77688cded8dd1f88/xclkon/aa594fe495e5e855ca9a1e6e946c419a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91b4847a900d076a77688cded8dd1f88
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b808a7d1ab15006bdf349463cee877e5
+Botanical Name: Argyreia fulgens CHOISY
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  vrddhadaruka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b808a7d1ab15006bdf349463cee877e5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 213
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/213.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b808a7d1ab15006bdf349463cee877e5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vrddhadaruka - jati
+sanskrit_name: वृध्ददारुक जाति
+transliteration: vṛdhdadāruka jāti
+ref_drug_name: वृध्ददारुक जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

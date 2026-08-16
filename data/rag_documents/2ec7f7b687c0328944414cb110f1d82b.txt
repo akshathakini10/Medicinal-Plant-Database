@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2ec7f7b687c0328944414cb110f1d82b
+Botanical Name: Zanthoxylum acanthopodium DC.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Zanthoxylum hostile WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 3 languages. Hindi (4) - darmar, nipalidhanya, tejphal, tumra Sanskrit (7) - Sanskrit Comments  tejaswini, tejbal, tejovati, trimburu, tumburu, tumburuh, tumra Tamil (4) - kiccilippatikam, kiccilippatikaramaram, titcanapalam, titcanapattira
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ec7f7b687c0328944414cb110f1d82b/xclkon/705e60e64bdc391e1ecbb4649b98a327
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2249
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2249.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ec7f7b687c0328944414cb110f1d82b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ec7f7b687c0328944414cb110f1d82b/xclkon/705e60e64bdc391e1ecbb4649b98a327
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ec7f7b687c0328944414cb110f1d82b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ec7f7b687c0328944414cb110f1d82b/xclkon/705e60e64bdc391e1ecbb4649b98a327
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ec7f7b687c0328944414cb110f1d82b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ec7f7b687c0328944414cb110f1d82b/xclkon/705e60e64bdc391e1ecbb4649b98a327
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

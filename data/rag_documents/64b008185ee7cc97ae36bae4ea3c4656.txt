@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 64b008185ee7cc97ae36bae4ea3c4656
+Botanical Name: Anaphalis neelgerriana DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Kannada (1) - gaaya doppalu Sanskrit (2) - Sanskrit Comments  raktaskandana, vranapata
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64b008185ee7cc97ae36bae4ea3c4656
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 179
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/179.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64b008185ee7cc97ae36bae4ea3c4656
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64b008185ee7cc97ae36bae4ea3c4656
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

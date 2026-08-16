@@ -1,0 +1,93 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 43842c8edcd45ca1ca952945109884e5
+Botanical Name: Pongamia pinnata (L.) PIERRE
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Derris indica (LAM.) BENNET
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 237 Vernacular names found in 10 languages. English (2) - karanja, kerong Hindi (12) - kanja, kannaji, karani, karanj, karanja, karanjaka, karanjh, karanji, kiramal, papar, papra, sukhchain Kannada (29) - batta, batti, chitaveelya, honga, hongay, honge, honge mara, honge-mara, hongemara, hongey, huligali, huligili, huligilu, huligiri, hungay, kanaga, karanga, karanja, karinje, korangi, korengi, koringe, korinta, korngu, kurundi, pong, pungei, pungu, rakta honne Malayalam (17) - minnari, oongu, pongai, pongam, pongu, ponnam, ponnu, poonam, punga, pungammaram, punnu, punu, unga, ungha, ungu, unju, unnu Marathi (9) - ghanerakaranj, ghanerakaranji, karamji, karanj, karanja, karanji, keedamaar, kidamar, ponnamu Sanskrit (42) - Sanskrit Comments  angaravalli, badhaphala, chirabilva, ciravilva, dhana, gaura, ghratakaranja, ghritaparnaka, ghrtapura, gucchapuspaka, guchhapushpaka, hastija, kaidarya, kakaghni, kalimara, karabhandika, karanja, karanjah, matry, naktahva, naktamala, naktamalah, naktamalaka, prakirya, putika, putikaranja, putiparna, putipatraka, rochana, sadgrantha, shadagrantha, shamagashta, snigdhapatra, tamala-vrikshaha, tamalavrikshaha, tapasvi, udakirya, udakiryah, vahni, varuni, vishari, vrittaparna Tamil (91) - aciruntam, aciruttam, agirunanandam, akirantam, akirantamaram, akirantanam, akirunanantam, akirunantam, alam1, alamarikam, alamarikamaram, alati1, cittakikam, ilanci1, ilancu1, ilanji, intirani2, intiranikam, intiranikamaram, kakananam, kancaccam, kancatam, kanjanam, karancakam, karancam, karancamam, karancamamaram, kentikam#, kentitamaram, kolliyam, kolliyamaram, kucco, kuppucam, mancaripputpam, naguttam, nakatamalam, nakuttam, nanandam, nanantam2#, nanantam2@, nanantamaram, nankaimaram, nantam1, nantamalam, nattaka, nattakamaram, nattam, nattamalakimaram, nattamalam, nattamaram, nattmalakam, nirppungu, nirppunkan, nirppunku#, nirppunku@, palpunku, pirakacakamatu, pirakarancam, pirakari, ponga, pongan, ponka, porimalar, punga, punga maram, pungam, pungam-maram, pungammaram, pungu, punkaimaram, punkam, punkam@, punkan, punkan@, punku, punku 2, punkumaram, punkumaram 1, punti, punti 1, puntikarancakam, puvanti@, tattaippunku, tavanatcavalli, tiripilan, totakatti, ucaku, ulokatitam, utaku, vacaputpam, yayariyam Telugu (29) - canaga, ganuga, kaadepathige, kaagu, kaangu, kaanuga chettu, kaggera, kagu, kamu, kanaga, kandga, kanga, kaniga, kanniga, kanoogoo, kanuga, kanuga-chettu, kanugacettu, kanugu, karnaga, karunga, kaunga, kraanuga, kranuga, krovi, pungu, viaghranakamu, vyaaghranakamu, vyaghra-ekamru Tibetan (4) - jam bras, jam-bras, ka ra ndza, sve ta ka ra nja Urdu (2) - karanj, karanjwah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 788
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/788.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5/xclkon/d94531e41872704e2dfd6d14401c7201
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5/xclkon/98ae87223cbbfcec245500c92ed85628
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5/xclkon/d94531e41872704e2dfd6d14401c7201
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5/xclkon/98ae87223cbbfcec245500c92ed85628
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5/xclkon/d94531e41872704e2dfd6d14401c7201
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5/xclkon/98ae87223cbbfcec245500c92ed85628
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5/xclkon/d94531e41872704e2dfd6d14401c7201
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5/xclkon/98ae87223cbbfcec245500c92ed85628
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5/xclkon/d94531e41872704e2dfd6d14401c7201
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5/xclkon/98ae87223cbbfcec245500c92ed85628
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43842c8edcd45ca1ca952945109884e5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karanja
+sanskrit_name: करञ्ज
+transliteration: karañja
+ref_drug_name: करञ्ज
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Karanja
+sanskrit_name: करञ्ज
+transliteration: karañja
+ref_drug_name: करञ्ज
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Karanja - naktamala
+sanskrit_name: करञ्ज नक्तमाल
+transliteration: karañja naktamāla
+ref_drug_name: करञ्ज नक्तमाल
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

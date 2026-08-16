@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d7e1fad86b641084f389683f5160e659
+Botanical Name: Momordica dioica ROB. E WILLD.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Basella cordifolia LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 159 Vernacular names found in 7 languages. Hindi (12) - beksa, dhar-karela, ghosalphal, golkandra, golkankra, jangli karela, jangli-karela, kakda jangli-karela, kakoda, kankero, kinkoda, murela Kannada (16) - ghatta haagalu, gida haagala, gidda haagala, gidhagalu, kaakontini, kaali kaayi, kaarchi balli, kaarthee kaayi, karchi-balli, kartikai, mada haagala, mada haagalu, madahagala-kayi, maduvaagala, maduvaagalu, midi haagala Malayalam (4) - ben-pavel, erima-pavel, erimapasel, vempavalerimapase Marathi (6) - banzakartholi, banzakartoli, kartholi, kartoli, kertoli, phagulni Sanskrit (43) - Sanskrit Comments  avandhya, bhaktadamani, bhutapaha, bodhanajali, devi, diva, ishwari, kandashalini, kandavalli, kanta, karkasam, karkota, karkotah, karkotaka, karkotakee, karkotaki, mahajali, mahajalinika, mahayogeshwari, manasvini, manodna, nagahantri, nagarati, nagari, nakradamani, pathya, pitapushpi, putrada, sakanda, sarpadamani, sarvanshadhi, srikanda, sugandha, vahassa, vahisa, vahisee, vahisi, vandhya, vandhyakarkotaki, vishakandakini, vishakantakini, vishamohaprashamani, yogeswari Tamil (64) - aegarvalli, akacatankucakkoti, akacattankucam, ankitam#, apotakam, cilekakkoti, cilekam, ekaram2, ekaravalli2, erumaippakal, kaattu pagal, kacalini, kalampi, karkalavanki, karkalavankikkoti, kattu pakal, kattuppakal, kattuppakkal, kattuppalupakal, kattuppalupakarkoti, kotippacalai, kotivacalai, kotivacalaikkirai, kotivayalai, kottavi2, kottuppacalai#, kottuppacalai@, kottuvacalai, kupotaki, kuram1, kuttu pacalai, kuttuppacalai, malaippakal, melukupakal, nakatamaniyam1, nakattukkuruvani, nay-p-pakal, netuviral1, netuvirkoti, ocika, ocikakkoti, pacalai 2, pacalaikkilanku, pallephagil, paloopaghel kalung, palu-pagal, palupaghel-kalung, palupakal, palupakarkoti, palupalagakalungai, paluppakal, paluppakkay, pazhu pagal, peyppakal 2, picanamakkoti, picanamam, pinkam, putuppacalai, tholoopavai, tumbai, vicatam, vicatappacalaikkoti, virukkatini, virutcatini Telugu (14) - aagaakara, agakara, anga kakara, angaakara, karkotaki, pomu donda, potu kakara, potuaagaakara, potuagakara, potukaakara, potukandulu, puagaakara, puagakara, theepi kakara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1453
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1453.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659/xclkon/24bfd6a27c813d669bb4d3c1e79b836b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659/xclkon/24bfd6a27c813d669bb4d3c1e79b836b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659/xclkon/24bfd6a27c813d669bb4d3c1e79b836b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7e1fad86b641084f389683f5160e659
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karkota
+sanskrit_name: कर्कोट
+transliteration: karkoṭa
+ref_drug_name: कर्कोट
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Karkoti
+sanskrit_name: कर्कोटी
+transliteration: karkoṭī
+ref_drug_name: कर्कोटी
+status: Accepted source
+discussion: Its identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

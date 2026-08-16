@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 507e3c46db6fd127629c1a9f1c5fbc3b
+Botanical Name: Ixora nigricans BR.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 3 languages. Kannada (6) - adayaa;a, adayala, adyaala, aelegaara, kaepala, kisugaare Marathi (3) - katkuda, katkura, lokhandi Tamil (3) - macakani, mashagani, udappu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/507e3c46db6fd127629c1a9f1c5fbc3b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/507e3c46db6fd127629c1a9f1c5fbc3b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/507e3c46db6fd127629c1a9f1c5fbc3b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

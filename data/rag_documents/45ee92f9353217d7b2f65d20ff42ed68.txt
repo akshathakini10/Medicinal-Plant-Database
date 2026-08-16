@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 45ee92f9353217d7b2f65d20ff42ed68
+Botanical Name: Centaurium roxburghii (G.DON) DRUCE
+Family: Gentianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Centaurium centaurioides (ROB.) ROLLA RAO Erythraea roxburghii G.DON
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 5 languages. Hindi (5) - barik chirayata, barikchirayata, charayatah, kheta chirayata, khetachirayata Kannada (1) - kaadu kempu jeerige Malayalam (1) - thuporuppenpullu Marathi (3) - lahankirayat, lantak, samtak Sanskrit (1) - Sanskrit Comments  yavatikta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68/xclkon/21ae8e6aae44d0fa4bd84b818cd833ec
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68/xclkon/9d44d97bc8049cbcd07a6d6c5b39d4a7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68/xclkon/21ae8e6aae44d0fa4bd84b818cd833ec
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68/xclkon/9d44d97bc8049cbcd07a6d6c5b39d4a7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ee92f9353217d7b2f65d20ff42ed68/xclkon/21ae8e6aae44d0fa4bd84b818cd833ec
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

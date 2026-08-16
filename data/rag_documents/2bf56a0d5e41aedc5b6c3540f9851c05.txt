@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2bf56a0d5e41aedc5b6c3540f9851c05
+Botanical Name: Prunus persica BATSCH
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 6 languages. English (1) - peach Hindi (8) - aaroo, aaru, aru, aru (peach), aru (peach0, aruka, baimi, reg Kannada (3) - piccesu, pichchisuhanne, pichesu Sanskrit (5) - Sanskrit Comments  adu, alukah, arakah, aruka, virarukah Telugu (2) - piccesu, pichesu Tibetan (1) - kham bu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bf56a0d5e41aedc5b6c3540f9851c05
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aruka
+sanskrit_name: आरुक
+transliteration: āruka
+ref_drug_name: आरुक
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 2
+drug_name: Aruka - prajati
+sanskrit_name: आरुक प्रजाति
+transliteration: āruka prajāti
+ref_drug_name: आरुक
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 3
+drug_name: Nicula
+sanskrit_name: निचुल
+transliteration: nicula
+ref_drug_name: निचुल
+status: A-C
+discussion: ?
+reference: [1]
+
+Identity Record 4
+drug_name: Picuka
+sanskrit_name: पिचुक
+transliteration: picuka
+ref_drug_name: पिचुक
+status: Most probable
+discussion: Is correlated to this species with regard to its name used in the region of Kumaon
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

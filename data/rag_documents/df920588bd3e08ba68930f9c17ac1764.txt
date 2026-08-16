@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: df920588bd3e08ba68930f9c17ac1764
+Botanical Name: Polyporus officinalis FRIES
+Family: Polyporaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Urdu (3) - ghariqun, ghariqun nim kofta, hubbulghar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df920588bd3e08ba68930f9c17ac1764
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df920588bd3e08ba68930f9c17ac1764
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df920588bd3e08ba68930f9c17ac1764
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df920588bd3e08ba68930f9c17ac1764
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

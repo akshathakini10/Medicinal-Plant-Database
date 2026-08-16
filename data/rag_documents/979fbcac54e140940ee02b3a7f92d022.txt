@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 979fbcac54e140940ee02b3a7f92d022
+Botanical Name: Crotalaria verrucosa L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 94 Vernacular names found in 7 languages. Hindi (2) - banshana, jhanjhania Kannada (10) - gijate, giji-giji gida, gijibeeji, gijigiji gida, gijigiji soppu, gilanganchi gida, gilangicchu, ginagigiji gida, thannele gida, ulukina gida Malayalam (2) - kilukiluppa, pee-tandale-cotti Marathi (9) - bhat-ghagri, bomb, ghagaree, ghagari, ghagharu, khulkulaa, san, tag, thirat Sanskrit (4) - Sanskrit Comments  brihatapushpi, dhavani, sanapuspi, shanapuspi Tamil (60) - amparanemi, amparanemicceti, avaratimatu, calcalamatar, cankuniti, cankunti, cantatakacceti, cantatakam, guluglluppaichedi, iratimatu, iratimatucceti, kalimakam, kalimarakacceti, kalimarakam#, kalimarakam@, kappi, kaucikeyam, killukiluppai, kilu kulppai, kilukiluppai, kilunki, kuttanacani2, matavalaki, mavatalaki, narimarutti, narimerutti, narimiratti, nariverutti, otai, pakanrai3, pakanraicceti, pancapatcivaci, peetandale-cotti, pemiratti, peymiratti, peymocci, peyppalamiratti, peyppalamiratti 2, peyppalamiratticceti@, piccai4, pittantalaikkotti, tampalakkarutam, tantalaikkotti, tanti5, ulanku2, ulankucceti, uttelanacceti, uttelanam, vami, vattakillu killuppai, vattakilukiluppai, vattakkilukiluppai, vattanarimiratti, vattanariviratti, vellaikkilukiluppai, venkilukiluppai, venkilukiluppaicceti, vilupannivilu 2, vitaikalikacceti, vitaikalikam Telugu (7) - alla galli gheetsa, alla gili giccha, ghalegherinta, ghelegherinta, gheli-gherinta, gilagoranta, gili gicha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 672
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/672.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/979fbcac54e140940ee02b3a7f92d022
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sanapuspi
+sanskrit_name: शणपुष्पी
+transliteration: śaṇapuṣpī
+ref_drug_name: शणपुष्पी
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

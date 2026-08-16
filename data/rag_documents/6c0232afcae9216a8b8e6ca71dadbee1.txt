@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6c0232afcae9216a8b8e6ca71dadbee1
+Botanical Name: Origanum vulgare L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 7 languages. English (4) - common marjoram, marjoram, oregano, wild marjoram Hindi (5) - ban tulsi, jonkjari, mirzanjosh, mridu-maru-vama, sathra Kannada (2) - bilee maruga patre, maruga Marathi (1) - mijirikamy Sanskrit (1) - Sanskrit Comments  marubakah Telugu (2) - mridu maruvamu, mridumaruvamu Urdu (2) - satar, satar farsi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0232afcae9216a8b8e6ca71dadbee1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1564
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1564.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0232afcae9216a8b8e6ca71dadbee1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0232afcae9216a8b8e6ca71dadbee1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0232afcae9216a8b8e6ca71dadbee1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Marubaka
+sanskrit_name: मरुबक
+transliteration: marubaka
+ref_drug_name: मरुबक जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Marubaka - jati
+sanskrit_name: मरुबक जाति
+transliteration: marubaka jāti
+ref_drug_name: मरुबक जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

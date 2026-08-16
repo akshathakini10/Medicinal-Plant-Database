@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 08c0c96081f014ea5954247764d44fec
+Botanical Name: Corchorus aestuans L.
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Corchorus acutangulus AUCT.NON FORSK.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 5 languages. Hindi (1) - titpatti Kannada (2) - chanchu gida, chunchu Marathi (1) - titpat Sanskrit (2) - Sanskrit Comments  cancu, cuncuh Telugu (5) - budda nalitha, kajati, kalasa, nela bera, patta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec/xclkon/548ed26baa93d20c8bd43fc0ab2cb975
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08c0c96081f014ea5954247764d44fec
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cancu
+sanskrit_name: चञ्चु
+transliteration: cañcu
+ref_drug_name: चञ्चु
+status: Most probable
+discussion: May be considered as this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

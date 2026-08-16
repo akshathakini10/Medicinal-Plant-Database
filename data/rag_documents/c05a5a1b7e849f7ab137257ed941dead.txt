@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c05a5a1b7e849f7ab137257ed941dead
+Botanical Name: Ammannia baccifera L.
+Family: Lythraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Ammannia vesicatoria ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 70 Vernacular names found in 8 languages. English (1) - blistering ammania Hindi (12) - dadamari, dadmari, do-patti-ki-kanduri, jal bhangro, jal-bhangro, jangli mendi, janglimehndie, kuranda, kuranta, lal babusi, lalbabusi, mehudi Kannada (3) - agnivendrapaaku, kaadugida, kallurive Malayalam (4) - kallarvanchi, kallur vanchi, kalluruvi, nirummelneruppu Marathi (4) - aginbuti, agyo, bharajambhula, dadmari Sanskrit (13) - Sanskrit Comments  agnigarba, agnigarva, brahmasoma, davagni, kshetrabhusha, kshetravashini, kurandika, kuranti, mahasyama, pasanabheda, sukaranda, vikata, vrddhadarukah Tamil (28) - cemaciya, cilapetam, cirukalluruvi, ilavankappacitacceti, ilavankappacitam, kallarivi, kallukkoti, kalluppaikkatti, kalluri, kalluricceti, kallurivi, kalluruvi, kalluruvikkoti, kalluruvipoondu, kallurvi, malaimurikacceti, malaimurikam, neermelneruppu, nirmel neruppu, nirmelneruppu, nirneruppu 2, nirumel-neruppu, nirumelneruppu, pakuputtipati, pasanapetam, pasanapeti 1, tavakkini, tipputu Telugu (5) - aginendramu, agni vendrapaku, agnivaendrapaaku, agnivendapaku, agnivendra-paku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c05a5a1b7e849f7ab137257ed941dead/xclkon/0851c1bc5cd350ee7496eb33d91a3ed2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 157
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/157.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c05a5a1b7e849f7ab137257ed941dead
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c05a5a1b7e849f7ab137257ed941dead/xclkon/0851c1bc5cd350ee7496eb33d91a3ed2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c05a5a1b7e849f7ab137257ed941dead
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c05a5a1b7e849f7ab137257ed941dead/xclkon/0851c1bc5cd350ee7496eb33d91a3ed2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Brahmasoma
+sanskrit_name: ब्रह्मसोमा
+transliteration: brahmasomā
+ref_drug_name: ब्रह्मसोमा
+status: Accepted source
+discussion: Brahmasoma is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

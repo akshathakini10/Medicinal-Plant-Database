@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7bd2dbac4ab57bd78b3bfff7e972dd4f
+Botanical Name: Dimocarpus longan LOUR.
+Family: Sapindaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Euphoria longana LOUR. Nephelium longana CAMB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 35 Vernacular names found in 5 languages. English (5) - dragon s eyes, longan or longyen, longyen, mata kuching, mata kucing Kannada (12) - kaana kentaali, kaanakendela, kanakentali, kanakindali, kanakindeli, kandalla, kendaale, longaan hannu, malahakota, malahcota, malayakota, malehaakuta Malayalam (10) - cembuvan, cempuvana, malapuvam, malapuvana, mulei, mullai, pasakotta, poripuvana, shempuna, shempuvan Marathi (3) - vomb, vumb, wumb Tamil (5) - cempuvam, cempuvan#, kattuppuvam, puvatti, shempuvan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bd2dbac4ab57bd78b3bfff7e972dd4f/xclkon/4f16b342410a4d73b727a7b5ca2038e6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bd2dbac4ab57bd78b3bfff7e972dd4f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bd2dbac4ab57bd78b3bfff7e972dd4f/xclkon/7c2024fa3c759ddc3e4437f9e78ca474
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bd2dbac4ab57bd78b3bfff7e972dd4f/xclkon/4f16b342410a4d73b727a7b5ca2038e6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bd2dbac4ab57bd78b3bfff7e972dd4f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bd2dbac4ab57bd78b3bfff7e972dd4f/xclkon/7c2024fa3c759ddc3e4437f9e78ca474
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bd2dbac4ab57bd78b3bfff7e972dd4f/xclkon/4f16b342410a4d73b727a7b5ca2038e6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

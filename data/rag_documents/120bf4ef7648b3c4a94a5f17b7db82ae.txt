@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 120bf4ef7648b3c4a94a5f17b7db82ae
+Botanical Name: Piper bantamense BL.
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Piper attenuatum BUCH.-HAM. E MIQ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 2 languages. Malayalam (1) - kattumulaka Tamil (8) - arenukai, arenukam, cuttirapippili, irenukai, irenukam, kattu milaku, kaunti, renukam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/120bf4ef7648b3c4a94a5f17b7db82ae
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/120bf4ef7648b3c4a94a5f17b7db82ae/xclkon/64f13c9d0166800856245e63168430e8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/120bf4ef7648b3c4a94a5f17b7db82ae
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/120bf4ef7648b3c4a94a5f17b7db82ae/xclkon/64f13c9d0166800856245e63168430e8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/120bf4ef7648b3c4a94a5f17b7db82ae
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

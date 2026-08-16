@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8ea7b280aa844954c9e01be4b174c9ea
+Botanical Name: Amaranthus blitum L.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 5 languages. Hindi (1) - shandalio Kannada (4) - chilakarive, giraka saale, handi keere, kiranga saale Marathi (3) - maath, pokal-bhaji, rantandurja Sanskrit (3) - Sanskrit Comments  bashpaka, marisha, marsha Tamil (4) - centantu-k-kirai, pitunkirai, pitunkukirai, ventantukkirai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ea7b280aa844954c9e01be4b174c9ea
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ea7b280aa844954c9e01be4b174c9ea
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ea7b280aa844954c9e01be4b174c9ea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Marisa
+sanskrit_name: मारिष
+transliteration: māriṣa
+ref_drug_name: मारिष
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Marsa
+sanskrit_name: मार्ष
+transliteration: mārṣa
+ref_drug_name: मार्ष
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Marsa
+sanskrit_name: मार्ष
+transliteration: mārṣa
+ref_drug_name: मार्ष
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

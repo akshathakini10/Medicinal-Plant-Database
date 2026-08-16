@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a08277113be2113a1f4fa63ffe4eab97
+Botanical Name: Didymocarpus pedicellata R.BR.
+Family: Gesneriaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Hindi (1) - pathar phori Sanskrit (2) - Sanskrit Comments  pasanabehda, shila pushpa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a08277113be2113a1f4fa63ffe4eab97
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 806
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/806.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a08277113be2113a1f4fa63ffe4eab97
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

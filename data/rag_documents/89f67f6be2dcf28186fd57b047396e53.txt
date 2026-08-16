@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 89f67f6be2dcf28186fd57b047396e53
+Botanical Name: Scirpus articulatus L.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 4 languages. Hindi (1) - chichora Malayalam (1) - tsjeli Marathi (1) - tan-pokli Sanskrit (3) - Sanskrit Comments  chichora, ciccodaka, laghukaseruka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89f67f6be2dcf28186fd57b047396e53
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ciccotaka
+sanskrit_name: चिच्चोटक
+transliteration: ciccoṭaka
+ref_drug_name: चिच्चोटक
+status: Accepted source
+discussion: In Bhavaprakasha nighantu it is mentioned as a type of 'Kaseru' where in Ciccodaka is the smaller variety; It is identified with this species and popularly known as 'Ciccoda'
+reference: [5]
+
+Identity Record 2
+drug_name: Kaseruka - prakara
+sanskrit_name: कसेरुक प्रकार
+transliteration: kaseruka prakāra
+ref_drug_name: कसेरुक प्रकार
+status: AS 2
+discussion: This is the small variety of Kaseruka which is identifiedwith this species
+reference: [3]
+
+Identity Record 3
+drug_name: Krauncadana
+sanskrit_name: क्रौञ्चादन
+transliteration: krauñcādana
+ref_drug_name: क्रौञ्चादन
+status: Most probable
+discussion: May be identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Krauncadana - bheda
+sanskrit_name: क्रौञ्चादन भेद
+transliteration: krauñcādana bheda
+ref_drug_name: क्रौञ्चादन भेद
+status: Most probable
+discussion: May be identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

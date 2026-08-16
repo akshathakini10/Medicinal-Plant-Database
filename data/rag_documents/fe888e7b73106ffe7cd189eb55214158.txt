@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fe888e7b73106ffe7cd189eb55214158
+Botanical Name: Malva sylvestris L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 5 languages. English (4) - blue mallow, cheeseflower, common mallow, high mallow Hindi (2) - gurchanti, socholi Kannada (3) - sanna bindee gida, sanna bindige gida, seeme bende Marathi (1) - kubaajee Urdu (7) - gul-i-khubazi, khubaji, khubbazi, tukhm gul-i-khair, tukhm khubazi, tukhm khubbazi, tukhm-e-khubbazi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe888e7b73106ffe7cd189eb55214158
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe888e7b73106ffe7cd189eb55214158
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe888e7b73106ffe7cd189eb55214158
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Suvarcala
+sanskrit_name: सुवर्चला
+transliteration: suvarcalā
+ref_drug_name: सुवर्चला
+status: Most probable
+discussion: With regard to the synonym Sauncala given to Suvarcala this species is correlated to it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9334a3e65804ce6c934549ebb3e2744f
+Botanical Name: Solanum pseudocapsicum L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. English (2) - jerusalem cherry, winter cherry Hindi (1) - jangli mirch
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9334a3e65804ce6c934549ebb3e2744f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9334a3e65804ce6c934549ebb3e2744f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9334a3e65804ce6c934549ebb3e2744f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

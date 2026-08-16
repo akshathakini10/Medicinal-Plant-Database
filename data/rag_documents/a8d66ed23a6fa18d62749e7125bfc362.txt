@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a8d66ed23a6fa18d62749e7125bfc362
+Botanical Name: Terminalia citrina FLEMING
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8d66ed23a6fa18d62749e7125bfc362
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8d66ed23a6fa18d62749e7125bfc362
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Haritaki
+sanskrit_name: हरितकी
+transliteration: haritakī
+ref_drug_name: हरितकी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Haritaki
+sanskrit_name: हरितकी
+transliteration: haritakī
+image_urls: https://www.medicinalplants.in/slokaimages/1608/1608_1.jpg https://www.medicinalplants.in/slokaimages/1608/1608_2.jpg https://www.medicinalplants.in/slokaimages/1608/1608_3.jpg https://www.medicinalplants.in/slokaimages/1608/1608_4.jpg
+ocr_text: विन्ध्याद्रौ विजया हिमाचलभवा स्या्च्चोतकी पूतना सिन्धौ स्यादथ रोहिणी तु विजया जाता प्रतिष्ठानके चम्पायाममृताउभया च जनिता देशे सुराष्ट्राह्वये जीवन्तीति हरितकी निगदिता सप्तप्रभेदा बृधैः Il (Rjn) Vijaya is found in Vindhya mountains, Cetaki in Himachala mountain, Putana in Sinahi mountains, Rohini and Vijaya in the same place, Amrta ana Abhaya in Campa desa and Jivanti in Saurastra desa. नवा स्निग्धा घना वृत्ता गुर्वी क्षिप्ता च याम्भसी निमज्जेत्सा सुप्रशस्ता कथिताउतिरुणप्रदा II नवादिगुणयुक्तत्वं तथैवात्र द्विकर्षता | हरितक्याः फले यत्र द्वयं तद् श्रेष्ठमुच्यते Il (Bpnl That Haritaki which is nava, snigaha, ghana, vrtta, Buru and sinks in water, is considered the best Haritaki. Nava haritaki is dvi karsa in weight. Haritaki phala , which is 2 karsha in weight, is the best one. कफवातप्रशमनी भेदिनी दीपनी लघुः अर्शोगुल्माहिता रुच्या जठरघ्नी हरीतकी Il IMdn) It is kapha vata hara, laghu in guna, bhedani, dipani, rucya, jathara agni karaka and cures arsa, Bulma. विजया सर्वरेगेषु रोहिणी व्रणरोपणी प्रलेपे पूतना योज्या शोधनीर्थेडमृता हिता अक्षिरोगडभया शस्ता जीवन्ती सर्वरोगहृत् चेतकी शस्ता यथायुक्तं प्रयोजयेत् चेतकी परमा शस्ता हिता सुखविरेचिनी | सप्तनामानि जातिनां प्रधानं विजया स्मृता |l सुखप्रयोगा सुलभा सर्वरोगेषु शस्यते IRjnl Vijaya is used in sarva roga, Rohini in vrana ropana, Putana in pralepa, Amrta for sodhana karma, Abhaya for aksi roga, Jivanti for sarva roga ana Cetaki as churna. These are used according y Cetaki is the best as it is sukha virecani. Of the seven varieties Vijaya is given the first place because it is sukha in prayoga, sulabha, sarva roga hara. चूर्णार्थे

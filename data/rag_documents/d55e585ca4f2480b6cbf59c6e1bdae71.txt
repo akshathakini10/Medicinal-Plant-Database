@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d55e585ca4f2480b6cbf59c6e1bdae71
+Botanical Name: Adiantum incisum FORSK.
+Family: Adiantaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Adiantum caudatum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. Hindi (3) - aadishe, adashisi, hansraj Kannada (1) - gajkarna Sanskrit (4) - Sanskrit Comments  madhuchada, mayurashikha, mayurasikha, mayurshikha Tamil (5) - malaikalaicci, malaikalakki, mayilkontai, mylekondai, perumalaikalakki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71/xclkon/2564db2a8011c9e2f2ef3f0a0e42a2ec
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71/xclkon/2564db2a8011c9e2f2ef3f0a0e42a2ec
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71/xclkon/2564db2a8011c9e2f2ef3f0a0e42a2ec
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d55e585ca4f2480b6cbf59c6e1bdae71
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Mayurasikha
+sanskrit_name: मयूरशिखा
+transliteration: mayūraśikhā
+image_urls: https://www.medicinalplants.in/slokaimages/44/44_1.jpg https://www.medicinalplants.in/slokaimages/44/44_2.jpg
+ocr_text: नालकण्ठशिखा लघ्वी पित्तश्लेष्माति सारजित् ( IBpn) Nalakantha sikha is Laghu, Pitta slesma atisara hara. बर्हिचूडा रसे स्वादु मूत्रकृच्छ्रनाशिनी | बालग्रहादि दोषघ्नी वश्यकर्मणि शस्यते IRjn) Barhicuda is Svadu in Rasa , Mutrakrcchra nasini, Bala grahadi dosaghna, Vasya karmani sasyate

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ceb3c1444e7d2accb8ee6cc478b8890b
+Botanical Name: Caesalpinia coriaria WILLD.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 6 languages. English (2) - cascalote, divi-divi Kannada (5) - alde kaayi, divi-divi, dividivi, vilayatialdekayi, vilayatiyaldekayi Marathi (1) - libi-dibi Tamil (13) - ingimaram, inki maram, konaivel, konalkay, konarkay, konavel, konavelan, koticcitam, koticcittal, kotivel, kotivelam, tivitikkay, tivitivi Telugu (3) - dividivi, dividivithumma, dividivitumma Urdu (2) - sumaq, sumaq-amriquab
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ceb3c1444e7d2accb8ee6cc478b8890b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ceb3c1444e7d2accb8ee6cc478b8890b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ceb3c1444e7d2accb8ee6cc478b8890b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

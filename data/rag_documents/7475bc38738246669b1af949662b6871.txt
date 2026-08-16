@@ -1,0 +1,73 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7475bc38738246669b1af949662b6871
+Botanical Name: Artemisia nilagirica (CLARKE) PAMP.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Artemisia indica WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 144 Vernacular names found in 10 languages. English (5) - cingulum sancti johannis, felon herb, jack, mugwort, st. johns plant Hindi (16) - buer, charmar, charmar (khardar), dauna, davana, dona, drubsha, gathivana, kunja, kunjaa, majtari, mastaru, nagadouna, nagdona, nugduna, seski Kannada (8) - davana, kaadu manji pathre, machi-patri, manchapatri, manji pathre, manjipatre, manjipatri, naaga metta Malayalam (17) - appa, damanakam, kattucetti, kattuchatti, kattuchettippu, katu-tsjetti-pu, macipatri, makkippu, makkippuvu, mashipatri, masipatri, nilampala, rirunittipacha, tiru-nitripach-cha, tirunirripacca, tirunitripaccha, tirunittipacca Marathi (7) - davana, dhordhavana, gathona, gothona, mamdpatri, surband, surpin Sanskrit (39) - Sanskrit Comments  agnidamani, bahukantaka, barha, barhikusum, barhipushpa, brahmajata, damanah, damanaka, damanakah, damani, dana, gandhotkata, granthika, granthiparna, granthiparnaka, granthiparni, guccaphala, guchhaka, gutthaka, kakapushpa, ksudradusparsa, ksudrakantakari, kukura, nagadamanaka, nagadamani, nilapushpa, puspacamara, saraparni, shirnakhya, shuka, shukabarha, shukachhada, shukapuccha, sthauneya, sugandha, svaramaguchhaka, tailaparnaka, tapodhana, vanyadamanaka Tamil (42) - apicinti, caciyatitam, caciyatitappattiri, cankali, cankalippattiri, cinaccamanti, kantanakuli1, kattucetippu, kolacepikam, kolakacepikacceti, kolakacirisam, kolakaciritam, kulaputtiran, maasi-battiri, maasipattiri, maccippaddiri, machipatchai, machipatri, machipattiri, maci 2, macipattiri, macippaccai, macippattiri, mahibattiri, makkippu, marukozhunthu, mashiputrie, masipatchai, masipathri, masipattiri, nakatamani, nattumacippattiri, olikavipattiri, olikavippattiri, tavanam2, tirunama, tirunamacceti2, tiyamam1, vacam 2, varai 1, varaippattiram, varaippattiri Telugu (6) - adavi-dhavanamu, davanamu, maachipathri, macha patri, machi-patri, mashipatri Tibetan (2) - dha ma na ga, dha ma na ga (d) Urdu (2) - arthamasia, baranjasif
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 237
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/237.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/ee1b486457f94add8967fcdccb0b2901
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/ee1b486457f94add8967fcdccb0b2901
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/ee1b486457f94add8967fcdccb0b2901
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/ee1b486457f94add8967fcdccb0b2901
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/ee1b486457f94add8967fcdccb0b2901
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/ee1b486457f94add8967fcdccb0b2901
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7475bc38738246669b1af949662b6871/xclkon/170e7c9eedb83a01e5177f4191bbd8d2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

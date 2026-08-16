@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9a0716b27b21e0d3116a6e70f6b1d6db
+Botanical Name: Eragrostis tremula HOCHST.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Hindi (1) - chirio ro khet Sanskrit (1) - Sanskrit Comments  chanika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a0716b27b21e0d3116a6e70f6b1d6db
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9a0716b27b21e0d3116a6e70f6b1d6db
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Canika
+sanskrit_name: चणिका
+transliteration: caṇikā
+ref_drug_name: चणिका
+status: Most probable
+discussion: Its most probably correlated to this species as it has similar properties as mentioned in the ancient texts and is known as 'Cankam Buti' in Punjab
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9833483b0cc34daa3053079e4de12831
+Botanical Name: Aleurites moluccana (L.) WILLD.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 53 Vernacular names found in 8 languages. English (6) - balucanat, candle nut oil tree, candleberry, kukui nut, lumbang oil, otaheite walnut Hindi (5) - akhrot, akola, akrot, jangli-akhrot, jangliakrot Kannada (9) - akroda, akrotu, arkod, jaiphala, naadu aakrotu, naadu akrotu, naati akrotu, natakrodu, natuakrodu Malayalam (4) - akrottu, akshotam, karankolam, vadam Marathi (5) - akhod, akrut, japhala, ramakrot, ranakot Sanskrit (15) - Sanskrit Comments  akharota, akhota, akshota, asphotaka, gudashaya, kandarala, karparala, kaureshta, madanabhaphala, parvatiya, phalasneha, pritakchhada, rekhaphala, svadumajja, vrittaphala Tamil (5) - katakrote, nattakkarottu, nattkkarotu, nattu akrottu, woodooga Telugu (4) - naattakrotu, natakrotu, natu akrotu, uduga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9833483b0cc34daa3053079e4de12831
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9833483b0cc34daa3053079e4de12831
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9833483b0cc34daa3053079e4de12831
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9833483b0cc34daa3053079e4de12831
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 882fdbde02cdc497d7a9a621b3dfa0c2
+Botanical Name: Ceratophyllum demersum L.
+Family: Ceratophyllaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 35 Vernacular names found in 7 languages. English (2) - cool water brush, coontail Hindi (2) - sevar, sivara Kannada (2) - haval, honaal Malayalam (1) - karimpayal Marathi (1) - shevala Sanskrit (25) - Sanskrit Comments  ambuchamar, ambutala, araka, hathaparni, jalaja, jalakesa, jalakesha, jalakuntala, jalamandapi, jalanali, jalanchana, jalanili, jalaprishthaja, jalashuka, ka, kavara, manjula, saivala, saivalah, salilakundala, shaiwal, shaiwar, sheshana, shivala, souvala Telugu (2) - nasu, neeti sambraani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/882fdbde02cdc497d7a9a621b3dfa0c2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/882fdbde02cdc497d7a9a621b3dfa0c2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Saivala
+sanskrit_name: शैवाल
+transliteration: śaivāla
+ref_drug_name: शैवाल
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Saivala
+sanskrit_name: शैवाल
+transliteration: śaivāla
+image_urls: https://www.medicinalplants.in/slokaimages/379/379_1.jpg https://www.medicinalplants.in/slokaimages/379/379_2.jpg
+ocr_text: वारिपर्णी हिमा तिक्ता लघ्नी स्वाद्धी सरा पटुः | दोषत्रयकरी रूक्षा शोणितज्वरशोषकृत्|| शैवारं तुवरं तिक्तं मधुरं शीतलं लघु स्निग्धं दाहतृषापित्तरक्तज्वरं परम्| | (Bpn) Variparni is tikta, svadu, patu in rasa, laghu, ruksa, sara in guna, hima in veerya, alleviates tridosha, causes sonita, jvara and sosa. Saivara is tuvara, tikta, madhura in rasa, laghu, snigaha in guna, sita in veerya, daha, trsha, pitta, rakta jvara para. शेवालं शीतलं स्निग्धं सन्तापव्रणनाशनम IRjnl Saivala is snigdha in guna, sita in veerya, destroys santapa and vrana.

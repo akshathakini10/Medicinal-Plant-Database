@@ -1,0 +1,63 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c9c2d547fb6e13de08f4c2496e77b596
+Botanical Name: Tectona grandis L.F.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 159 Vernacular names found in 9 languages. English (1) - teak Hindi (12) - hag, hagwan, nakta, sagaun, sagon, sagun, sagvan, sagwan, sagwan (introduced), saigaun, sakhu, segun Kannada (29) - jaadi, jaddi, jadi, jaththi, saagivaani, sagonaro, sagoni, saguani, saguvani, saguvantega, sagwan, sagwana, sagwani, tega, tegada, tegada mara, tegina, tegu, tek, tekan, tekki, teku, thaigina, thega, thegina mara, thekinamara, tyaga, tyagada, tyagadamara Malayalam (8) - jati, tek, teka, tekka, tekku, teku, theka, thekku Marathi (5) - sag, saga, sagvan, sagwan, saylo Sanskrit (34) - Sanskrit Comments  anila, arjunopama, arna, atipatraka, balasara, balesara, bhumiruha, bhumisahah, dhrubasadhana, dirghachhada, dvarada, dvaradaru, gandhasara, grihadruma, halimaka, kharacchada, kharachhada, kharapatra, kolaphala, krakachapatra, mahapatra, mahiruha, nau, sabarasara, saka, sakam, shakakhya, shakataru, sharapatra, shreshthakashtha, sthirasara, tailapila, teka, yogi Tamil (58) - arimakattuvam, arimakattuvamaram, atipattiram, cakaccam, cakakuvancam, cakam, cakam3, cakayam, cakayamaram, caki@, cakuvancan, camunam, caracakalini, caracakalinimaram, caracam, catam2, cati, cati3, comavulukkam, cotimavoliccam, ilankali2, irattapakam, kalindi, kalinti1, katapalam, katpalam2, kattirini, keccam, kumidigam, kumitam, kumitikam, kuvesmaram, makapattiram 1, makattiram, palakanamaram, palikkanam, palitam, palitamaram, perumucuki, perumucukimaram, piracatanam 1, pirakirutitta 1, rattapakam, rattapakamaram, sadi, sagam, sarasam, tekku, tekku-maram, tekkumaram, thanagaamaram, thekku, tirkkaccam, tuvarataru, varataru, varataru@, vatanam@, vatanamaram Telugu (11) - adaviteku, pedda taeku, pedda teku, peddateku, peddatoku, taeku, teek, tek, teka, tekkoo, teku Tibetan (1) - sa kha pa tra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9c2d547fb6e13de08f4c2496e77b596
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9c2d547fb6e13de08f4c2496e77b596
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9c2d547fb6e13de08f4c2496e77b596
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9c2d547fb6e13de08f4c2496e77b596
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9c2d547fb6e13de08f4c2496e77b596
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9c2d547fb6e13de08f4c2496e77b596
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Saka
+sanskrit_name: शाक
+transliteration: śāka
+ref_drug_name: शाक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Saka
+sanskrit_name: शाक
+transliteration: śāka
+ref_drug_name: शाक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

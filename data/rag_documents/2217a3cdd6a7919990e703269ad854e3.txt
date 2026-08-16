@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2217a3cdd6a7919990e703269ad854e3
+Botanical Name: Aconitum ferox WALL. E SERINGE
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 72 Vernacular names found in 8 languages. Hindi (11) - bachhnag, bachnak, bis, bish, mahoor, mitha-zahar, mithazahar, singya, singya-bis, singyabis, teliya-bis Kannada (3) - vasa-nabhi, vasanabhi, vatsanabhi Malayalam (2) - valsanabhi, vatsanabhi Marathi (3) - bachnag, vachnag, vuchnag Sanskrit (9) - Sanskrit Comments  amrta, ativisa, garala, kshveda, prativisa, vatsanabha, visa, visam, visha Tamil (39) - amuttam2, cattuvam2, cirinkivisam, irulmuka, irulpuka, karu napi, karunaabhi, karunapi, karunapu, karunavi, marutam, matukaram, mirukapalikai, mitavisam, nabi, napam, napi, navi, paccai navi, paccanavi, piyusmirtam, putacarikai, vacanapi, vacanapi#, vacanapi@, vacanavi#, vaccanapi, vaccanvi, vanavacanam, varcanapi, vasanaavi, vasha-navi, vashanavi, vatcanapi, visanapi, vishamavi, vishnanuir, visnanuyir, vitam Telugu (4) - ativasa, nabhi, vasanabhi, vasanubhi Urdu (1) - mitha tilia mudabbir
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 51
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/51.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2217a3cdd6a7919990e703269ad854e3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vatsanabha
+sanskrit_name: वत्सनाभ
+transliteration: vatsanābha
+ref_drug_name: वत्सनाभ
+status: Accepted source
+discussion: Vatsanabha is identified with this species
+reference: [2]
+
+Identity Record 2
+drug_name: Vatsanabha
+sanskrit_name: वत्सनाभ
+transliteration: vatsanābha
+ref_drug_name: वत्सनाभ
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vatsanabha
+sanskrit_name: वत्सनाभ
+transliteration: vatsanābha
+image_urls: https://www.medicinalplants.in/slokaimages/36/36_1.jpg https://www.medicinalplants.in/slokaimages/36/36_2.jpg https://www.medicinalplants.in/slokaimages/36/36_3.jpg https://www.medicinalplants.in/slokaimages/36/36_4.jpg
+ocr_text: सिन्दुवारस वत्सनाभ्याकृतिस्तथा यत्पार्श्वे न तरोवृद्धि्वत्सनाभः स भाषितः [DhnJ The leaves resemble like that of sindhuvara, shape is like that of calves umbilicus and there are no other trees surrounding it, hence called as vatsanabha. दृक्पत्रो सिन्दुवारस वत्सनाभ्याकृतिस्तथा [ यत्पार्श्वे न तरोर्वृद्धिर्वत्सनाभः स भाष्पि [Bpn] The leaves resemble like that of sindhuvara, shape is like that of calves umbilicus and there are no other trees surrounding it, hence called vatsanabha दृक्पत्रो अमृतं स्यात् वत्सनाभी विषमुग्रं महौषधम्| गरलं मरणं नागं स्तोककं प्राणहारकम | गरलं स्थावरादि स्यात् प्रोक्तं चैकादशाह्वयम् [Rin] Amrta, vatsanabha, visa, ugra, mahaushada, garala, marana, naga sthokaka, pranaharaka and garala are the 1l synonyms of vatsanabha वत्सनाभोअतिमधुरः सोष्णो वातकफापहः कण्ठरु क्सन्निपातघ्नः पित्तसन्तापकारकः [Rjn] Its rasa is atimadhura, usna in veerya, destroys vata and kapha,increases pitta, alleviates kustha and is santapakaraka.

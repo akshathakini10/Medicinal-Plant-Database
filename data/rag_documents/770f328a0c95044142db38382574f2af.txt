@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 770f328a0c95044142db38382574f2af
+Botanical Name: Lodoicea maldivica (POIR.) PERS.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lodoicea seychellarum LABILL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 45 Vernacular names found in 9 languages. English (2) - coco-de-mer palm, double coconut palm Hindi (6) - dariya-i-nariyal, darva-ka-nariyal, darya-ka-nariyal, daryaka-nariyal, daryakanariyal, daryakanaryal Kannada (2) - kadalu thengu, kadalutengu Malayalam (6) - aklarittenna, akraritennu, kadala-tangay, katal-tenna, kataltenna, katalttenna Marathi (3) - daryaach naarl, jaahari naaral, jahari-naral Sanskrit (7) - Sanskrit Comments  abdhinarikelah, agnijarah, aklari, arkaraga, arkaragah, samudranarikela, ubdienarikaylum Tamil (12) - kadalttengai, kadarrengu, kadartengay, kadarthengai, kadat-rengay, kadattengai, kaddil tayngai, kapparrenkay, katal tenkay, katarrenkay, katarrenku, malattivuttenkay Telugu (5) - samadraputhekaaya, samudrapu, samudrapu-tenkaya, samudraputenkaya, tenkaya Urdu (2) - narialdaryaee, narjeel daryaee
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af/xclkon/a72dd7e0f465169f00ec49f0b779f0b3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af/xclkon/a72dd7e0f465169f00ec49f0b779f0b3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af/xclkon/a72dd7e0f465169f00ec49f0b779f0b3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af/xclkon/a72dd7e0f465169f00ec49f0b779f0b3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/770f328a0c95044142db38382574f2af/xclkon/a72dd7e0f465169f00ec49f0b779f0b3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Samudranarikela
+sanskrit_name: समुद्रनारिकेल
+transliteration: samudranārikela
+ref_drug_name: समुद्रनारिकेल
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

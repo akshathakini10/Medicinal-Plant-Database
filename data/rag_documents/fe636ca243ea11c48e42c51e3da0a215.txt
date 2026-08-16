@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fe636ca243ea11c48e42c51e3da0a215
+Botanical Name: Laportea interrupta (L.) CHEW
+Family: Urticaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Fleurya interrupta (L.) GAUD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 5 languages. Hindi (1) - lal bichua Kannada (6) - churike, devvada mulu, gaja mullu, kaadu churu, kaadu churuchurukana gida, mele muruga Malayalam (1) - batti-schorigenam Marathi (1) - redi-khatkutli Tamil (1) - perunkanchori
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe636ca243ea11c48e42c51e3da0a215
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe636ca243ea11c48e42c51e3da0a215/xclkon/429a0e405c9c855ff775140236436b75
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe636ca243ea11c48e42c51e3da0a215
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

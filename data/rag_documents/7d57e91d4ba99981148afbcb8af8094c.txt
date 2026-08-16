@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7d57e91d4ba99981148afbcb8af8094c
+Botanical Name: Prunus dulcis (MILLER) D.A. WEBB.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Prunus amygdalus BATSCH
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 59 Vernacular names found in 9 languages. English (2) - almond, almond gum Hindi (2) - badam, bandam Kannada (5) - ametlle, baadaami, badaami, badami, badamu Malayalam (2) - badam, badamkotta Marathi (2) - baadaam, badam Sanskrit (14) - Sanskrit Comments  alabukhara, arook, arukam, badama, badamitte, netropamaphala, netropamaphalam, suphala, vatada, vatadah, vatama, vatamah, vatamam, vatavairi Tamil (8) - padam, parsivadumai, patam, vaadumai, vadam-kottai, vadumai, vatamkottai, vatumai Telugu (8) - baadaamamu, baadaamu, badamamu, badami, badamu, badamvittulu, paarsibaadami, parsibadami Urdu (16) - badam, badam (shireen-o-talkh), badam shirin, khali badam, maghz badam, maghz badam muqashshar, maghz badam muqqashar, maghz badam shireen, maghz badam shirin, maghz badam shirin muqqashar, maghz badam talkh, maghz badan shirin, maghz tukhm badam shirin, maghz-i-badam shireen, maghz-i-badam shirin, roghan badam talkh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c/xclkon/c5908bf1970dba1886a96f815d82cfbb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d57e91d4ba99981148afbcb8af8094c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

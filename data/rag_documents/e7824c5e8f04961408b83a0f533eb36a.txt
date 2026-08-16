@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e7824c5e8f04961408b83a0f533eb36a
+Botanical Name: Litsea cubeba (LOUR.) PERS.
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Litsea citrata BL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  kankolam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7824c5e8f04961408b83a0f533eb36a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1328
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1328.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7824c5e8f04961408b83a0f533eb36a/xclkon/0e524daae180ea4762c86770375994ae
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7824c5e8f04961408b83a0f533eb36a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7824c5e8f04961408b83a0f533eb36a/xclkon/0e524daae180ea4762c86770375994ae
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e7824c5e8f04961408b83a0f533eb36a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kankola
+sanskrit_name: कंकोल
+transliteration: kaṃkola
+ref_drug_name: कंकोल
+status: Accepted source
+discussion: This species is used as a substitute for Kankola or sometimes mixed along with it during trade
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kankola
+sanskrit_name: कंकोल
+transliteration: kaṃkola
+image_urls: https://www.medicinalplants.in/slokaimages/1295/1295_1.jpg https://www.medicinalplants.in/slokaimages/1295/1295_2.jpg https://www.medicinalplants.in/slokaimages/1295/1295_3.jpg
+ocr_text: कंकोलं कटुतिक्तोष्णं वक्त्रजाड्यहरं परम् दीपनं पाचनं रुच्यं कफवातामकृन्तनम् IRjn ) Kankola is katu, tikta in rasa, usna in veerya, alleviates kapha and vata, dipana, pacana, rucya , cures vaktra jadya. कंकोलं लघु तीक्ष्णोष्णं तिक्तं हृद्यं रुचिप्रदन्| आस्यहृद्रोगदौर्गन्धकफवातामयान्ध्यहृत् | (Bpnl Kankola is tikta in rasa, laghu, tiksna in guna usna in veerya, alleviates kapha and vata, hrdya, ruci prada, cures asya daurandhya, hrdroga and andhya. कंक्कोलकं लवंगं च तिक्तं कटु कफापहम् लघु तृष्णापहं वृष्यं वक्त्रदौर्गन्धयाशनम्| | (सुश्रुत) Kankolaka is tikta, katu in rasa, laghu in guna, alleviates kapha, is vrshya cures trsna and vaktra daurgandhya.

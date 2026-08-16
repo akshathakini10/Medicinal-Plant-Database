@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 58cbb6de54f10c4c9c71fd7e725e2a6a
+Botanical Name: Hopea wightiana WALL.
+Family: Dipterocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 4 languages. Kannada (11) - haiga, hegge, hiralbogi, hiribogi, hiribovige, kalbon, kalbovu, kalbow, kar, kiraboghi, unni Malayalam (3) - ilapongu, ilappongu, keeree Marathi (1) - pav Tamil (4) - ilaipponku, kanku, orpalam, orppalam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58cbb6de54f10c4c9c71fd7e725e2a6a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58cbb6de54f10c4c9c71fd7e725e2a6a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58cbb6de54f10c4c9c71fd7e725e2a6a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

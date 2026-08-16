@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 572e567430b10a104df51c4e2ba9cfec
+Botanical Name: Reinwardtia indica DUMORT.
+Family: Linaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Reinwardtia trigyna PLANCH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 3 languages. Hindi (6) - asant, basant, basanthi, bosanti, pengun, phiunli Marathi (1) - abhai Telugu (2) - labodatar, verriyaadala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/572e567430b10a104df51c4e2ba9cfec/xclkon/351ecb7a48ccb33dc5d541402b7da54e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/572e567430b10a104df51c4e2ba9cfec
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/572e567430b10a104df51c4e2ba9cfec/xclkon/351ecb7a48ccb33dc5d541402b7da54e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

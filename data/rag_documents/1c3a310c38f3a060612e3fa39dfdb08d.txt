@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1c3a310c38f3a060612e3fa39dfdb08d
+Botanical Name: Nymphaea edulis D.C
+Family: Nymphaeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 5 languages. Hindi (2) - chhota-kanval, kanval Kannada (1) - nyadale-huvu Malayalam (2) - allit-tamara, anpala Tamil (5) - alli, alli-tamarai, ambal, cevvalli, manciti Telugu (1) - alli-tamara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c3a310c38f3a060612e3fa39dfdb08d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c3a310c38f3a060612e3fa39dfdb08d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

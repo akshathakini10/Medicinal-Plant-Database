@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 14bae9de90b99ea46b744d82f46c2f92
+Botanical Name: Pericampylus glaucus (LAMK.) MERR.
+Family: Menispermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pericampylus incanus MIERS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Kannada (1) - haavu nanjina gida
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14bae9de90b99ea46b744d82f46c2f92/xclkon/d545378d6e237f9ac4c44b8b03a40e38
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14bae9de90b99ea46b744d82f46c2f92
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14bae9de90b99ea46b744d82f46c2f92/xclkon/d545378d6e237f9ac4c44b8b03a40e38
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

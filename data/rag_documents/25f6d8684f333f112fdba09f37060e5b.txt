@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 25f6d8684f333f112fdba09f37060e5b
+Botanical Name: Gnidia glauca STEUD.
+Family: Thymelaeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lasiosiphon eriocephalus (MEISNER) DECNE.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 25 Vernacular names found in 4 languages. Kannada (13) - aaenu jaarige, enujariga, enujarige, mukkudaka, mukkude, mukkute, mukudaka, mukura gaale, mukute, mukuthi, raami, yenjalige, yenjirige Malayalam (3) - nanca, nangu, nanju Marathi (4) - rametta, rami, ramita, rumi Tamil (5) - nacchinar, naccinar, nachinaar, nanca, nancu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f6d8684f333f112fdba09f37060e5b/xclkon/139f9036dca5a024ff3f8834e8cb79ea
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f6d8684f333f112fdba09f37060e5b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f6d8684f333f112fdba09f37060e5b/xclkon/139f9036dca5a024ff3f8834e8cb79ea
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f6d8684f333f112fdba09f37060e5b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f6d8684f333f112fdba09f37060e5b/xclkon/139f9036dca5a024ff3f8834e8cb79ea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c440cae0856e418009246cef80594df1
+Botanical Name: Digitalis purpurea L.
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. English (4) - deadmen s bells, fairy fingers, foxglove, witchs bells Sanskrit (2) - Sanskrit Comments  hrtapatri, tilapuspi Tamil (1) - nilappukaiyilai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c440cae0856e418009246cef80594df1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c440cae0856e418009246cef80594df1
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c440cae0856e418009246cef80594df1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Hrtpatri
+sanskrit_name: हृत्पत्री
+transliteration: hṛtpatrī
+ref_drug_name: हृत्पत्री
+status: Accepted source
+discussion: Hrtpatri is correlated to this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

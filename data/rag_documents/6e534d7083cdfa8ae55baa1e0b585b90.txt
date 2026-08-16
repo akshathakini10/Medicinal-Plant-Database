@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6e534d7083cdfa8ae55baa1e0b585b90
+Botanical Name: Artemisia absinthium L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 9 languages. English (5) - absinthe, absinthium, green ginger, madderwort, wormwood Hindi (2) - vilayathi afsantin, vilayatiafsantin Kannada (3) - davana, urigattige, uruvalu Malayalam (3) - nilampala, shulabandha, tirunitri-pachcha Marathi (3) - serpana, surapeena, surpan Sanskrit (2) - Sanskrit Comments  damar, indhana Tamil (5) - cimaimacippattiri, machipattri, macipattiri, macipattiri 2, macippaccai Telugu (2) - moshipatri, tartiha Urdu (3) - afsanteen, afsantin, qaisoom (afsanteen)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e534d7083cdfa8ae55baa1e0b585b90
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 231
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/231.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e534d7083cdfa8ae55baa1e0b585b90
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e534d7083cdfa8ae55baa1e0b585b90
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e534d7083cdfa8ae55baa1e0b585b90
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e534d7083cdfa8ae55baa1e0b585b90
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

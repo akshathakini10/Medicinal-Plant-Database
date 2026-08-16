@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2992729662ad65b4a9ccb5f93551bc74
+Botanical Name: Calamus travancoricus BEDD. E HOOK. F.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. Kannada (4) - baale bettha, naayi bettha, naibetta, nayibetta Malayalam (6) - cerucural, kattucural, manichooral, tsjeratsjurel, tsjeru-tsjurel, tsjerutsjurel Sanskrit (1) - Sanskrit Comments  vethra Tamil (2) - maniperambu, pirambu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2992729662ad65b4a9ccb5f93551bc74
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 399
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/399.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2992729662ad65b4a9ccb5f93551bc74
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2992729662ad65b4a9ccb5f93551bc74
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 01611336d2ff45ed89c79b74ef23be88
+Botanical Name: Callicarpa arborea ROB.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Hindi (2) - ghiwala, kumhar Urdu (2) - ab bhantal buti, bhantal buti sabz
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01611336d2ff45ed89c79b74ef23be88
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01611336d2ff45ed89c79b74ef23be88
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/01611336d2ff45ed89c79b74ef23be88
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

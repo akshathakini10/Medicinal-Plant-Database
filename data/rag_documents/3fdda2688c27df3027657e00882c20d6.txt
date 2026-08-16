@@ -1,0 +1,85 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3fdda2688c27df3027657e00882c20d6
+Botanical Name: Psidium guajava L. var. pomiferum L.
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Psidium guyava L. Psidium pomiferum L. Psidium pyriferum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 131 Vernacular names found in 9 languages. English (1) - common guava Hindi (11) - am, amrud, amrut, anjir, jamphal, lal saphari, lal sufrium, lal-safri-am, safedsafari, saphed saphari, sufed-safri-am Kannada (26) - anjuri, balehannu, cepe, chepe, chopakaya, gova, jama-phala, jamaphala, jamaphalada, kempu-shibe-hannu, pearlu, pera, perala, perala-hannu, peralehannu, perangai, perangayi, perla, sebe, shebe-hannu, shibe, shibi, sibe, sibi, sibihannu, sippiannu Malayalam (13) - atakkappalam, chem-pera, chem-perakka, chovanna-malak-kappera, koyya, malacka-pela, malackapela, malakkapera, malampera, palamper, pela, pera, perakkaya Marathi (5) - jamba, per, peru, perunjaam, tupkel Sanskrit (19) - Sanskrit Comments  amratafalam, amruta-phalam, anjira, aprithaktvacha, bahu-bija-phalam, dridhabija, madhuramla, mansala, mrduphalam, mridu, perala, peruka, perukah, perukam, pita, raktaamrutaphalam, raktabahubijaphalam, tuvara, vastula Tamil (36) - amirtapala, ampalakkani@, anjura, avakacitam, avakacitamaram, cenkoyya, cenkoyyamaram, cikappu1, cikappukkoyya, goyya-pazham, irattakkoyyamaram, irattakoyya, irattamatappal, irattamatappalmaram, jaram, kalarkacikam, kalarkacikamaram, kalippacitam, kalippacitamaram, koyapalam, koyya, palaccaram, palaccaramaram, perunkoyya, segappugoyya, sengoyya, shimeatti, shivappu-goyyap-pazham, sirugoyya, tavitatikam, tavitatikamaram, uyyakkondan, uyyakkontan 2, uyyakontan 2, vellai-goyya pazham, vellaikoyya Telugu (19) - coya, erra-goyya-pandu, erra-jam-pandu, errajama, ettajama, gova, goyya, goyya-pandu, goyyapandu, jaama pandu, jaamachettu, jam-pandu, jama, jampandu, kondajami, modipatu, tellajama, tene-atti, thellajaama Urdu (1) - rub-i-amrud
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/3d4c70a99561d7779055622145f36f8c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/2bd9a762f38fc64f47a2e7ceff301be9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/3d4c70a99561d7779055622145f36f8c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/2bd9a762f38fc64f47a2e7ceff301be9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/3d4c70a99561d7779055622145f36f8c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/2bd9a762f38fc64f47a2e7ceff301be9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/3d4c70a99561d7779055622145f36f8c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/975930e0996cae25e596c9af45e3c4f4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/2bd9a762f38fc64f47a2e7ceff301be9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fdda2688c27df3027657e00882c20d6/xclkon/3d4c70a99561d7779055622145f36f8c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Amaruda
+sanskrit_name: आमरुद
+transliteration: āmaruda
+ref_drug_name: आमरुद
+status: Accepted source
+discussion: Identified with this species
+reference: [4]
+
+Identity Record 2
+drug_name: Paravata
+sanskrit_name: पारावत
+transliteration: pārāvata
+ref_drug_name: पारावत
+status: Most probable
+discussion: Some of them identify it with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

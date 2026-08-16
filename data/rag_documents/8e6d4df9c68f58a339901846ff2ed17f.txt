@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8e6d4df9c68f58a339901846ff2ed17f
+Botanical Name: Capparis moonii WIGHT
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 4 languages. Kannada (9) - bandiraroveldi, mullu kathari, mullu katthari balli, mullukarti, mullukathari, mullukattari, tatla, totte, tottulla Marathi (2) - rudrvanti, vaghati Sanskrit (1) - Sanskrit Comments  rudanti Telugu (2) - aadsenda, adonda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 433
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/433.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e6d4df9c68f58a339901846ff2ed17f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rudanti
+sanskrit_name: रुदन्ती
+transliteration: rudantī
+ref_drug_name: रुदन्ती
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Rudanti
+sanskrit_name: रुदन्ती
+transliteration: rudantī
+ref_drug_name: रुदन्ती
+status: Suggested source
+discussion: Its mentioned in Raja nighantu; During the period of Sarnghadara it was widely used as a rasayana (rejuvenative); In the medieval period it was used in sorcery; Present scholars use the fruits of this species as Rudanti
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

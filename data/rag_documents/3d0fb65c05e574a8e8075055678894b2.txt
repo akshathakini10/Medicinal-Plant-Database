@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3d0fb65c05e574a8e8075055678894b2
+Botanical Name: Orthosiphon pallidus ROYLE
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  arjaka Tibetan (2) - ku-the-ra-ka, zim taig le
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0fb65c05e574a8e8075055678894b2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0fb65c05e574a8e8075055678894b2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0fb65c05e574a8e8075055678894b2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Arjaka
+sanskrit_name: अर्जक
+transliteration: arjaka
+ref_drug_name: अर्जक
+status: Accepted source
+discussion: Cakrapani has interpreted 'Arjaka' as 'Svetaparnasa'; Dalhana has described it as a plant resembling 'Barbarika'; At other places it has been interpreted as 'Kuteraka' or 'Sveta kuteraka'; If 'Parnasa' and 'Kuteraka' are taken as synonyms of one another then the interpretation of Dalhana and Cakrapani can be considered the same; Arjaka is popularly known as 'Ajagura' and identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Arjaka
+sanskrit_name: अर्जक
+transliteration: arjaka
+ref_drug_name: अर्जक
+status: Most probable
+discussion: May be identified with this species with regard to its description and called as Sveta kutheraka
+reference: [1]
+
+Identity Record 3
+drug_name: Arjaka
+sanskrit_name: अर्जक
+transliteration: arjaka
+ref_drug_name: अर्जक
+status: Most probable
+discussion: May be identified with this species and called as Sveta kutheraka
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,86 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d261ad160748e7170f7a11df570890b8
+Botanical Name: Colocasia esculenta (L.) SCHOTT
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Arum colocasia L. Colocasia antiquorum SCHOTT
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 144 Vernacular names found in 8 languages. English (9) - aivi, cocoyam, dasheen, eddoes, imo, kalo, keladi, talas, taro Hindi (19) - arbi, arvi, arwi, ashukachu, auri, avois, ghoya, ghuiya, ghuiyan, ghuya, ghwiya, gorikachu, kaccalu, kachalu, kachoo, kachu, kacku, khuyya, pindalu Kannada (19) - alavi, arasina yele, avigedde, kacchachi, kacchi, kachchi, kasave, keeshina gedde, kesave dantu, kesavedantu, kesavegadde, kesavina gedde, kesavu, keshavana-gadde, keshavanagadde, saave gadde, shama gadde, shame-gadde, shamegadde Malayalam (6) - cempu, chempa-kizhanna, chempakizhanna, kaladi, kattuchena, weli-ila Marathi (4) - aaloo, alu, chempu, ran aalu Sanskrit (8) - Sanskrit Comments  aaluki, alukam, alupam, kachchi, kachu, kachwae, kachwi, katchu Tamil (66) - akkirantam, ampakam, cakavilvam, cakini2, cakiniyacceti, cakiniyam, cakiyacceti, cakiyam2, cakutam, camaikkilanku, canani$, canini, caninicceti, cemaikkilanku, cempai, cempilai, cempu, cenai, ceppai, ceppankilanku, chembu, compu, kancancikacceti, kancancikam, kattusenai, makarairutti, makaraviri, makaraviricceti, makavirukati, makavirutti, nalitam, natapattirikai, natikam, natipattiram, natpattirikai, natpattirikaicceti, nirccempu, pantaki#, pantaki@, pantakicceti, peculam, peculi, pullakacci, sempu, seppan kizhangu, seppankizhangu, shamak-kizhangu, shamakkilangu, shana dumpa, shanadumpa, shemakkalenga, turavi2, turavicceti, tuspiratarucini, tutpiratarucani, tutpirataucini1, urarpari1, urarparicceti, vankanam#, vankanam@, vatikam, vatinkanam, vatukacceti, vatukam#, vatukam@, viruntakam Telugu (13) - chaamakoora, chama, chamadumpa, chamagadda, chamakoora, chamakura, chamakuru, chamathumpa, chema, kaladi, sari kanda, shamakoora, shamathumpa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8/xclkon/947af6deac7eff3950e52b1dc4385d8a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8/xclkon/6d6f92fb730bb1f6ed1a7a2ae84ac086
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8/xclkon/947af6deac7eff3950e52b1dc4385d8a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8/xclkon/6d6f92fb730bb1f6ed1a7a2ae84ac086
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8/xclkon/947af6deac7eff3950e52b1dc4385d8a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8/xclkon/6d6f92fb730bb1f6ed1a7a2ae84ac086
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8/xclkon/947af6deac7eff3950e52b1dc4385d8a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8/xclkon/6d6f92fb730bb1f6ed1a7a2ae84ac086
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d261ad160748e7170f7a11df570890b8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aluki
+sanskrit_name: आलुकी
+transliteration: ālukī
+ref_drug_name: आलुकी
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 2
+drug_name: Pindalu
+sanskrit_name: पिण्डालु
+transliteration: piṇḍālu
+ref_drug_name: पिण्डालु
+status: Controversial
+discussion: Needs to be studied whether this species can be correlated
+reference: [1]
+
+Identity Record 3
+drug_name: Sthulakanda
+sanskrit_name: स्थूलकन्द
+transliteration: sthūlakanda
+ref_drug_name: स्थूलकन्द
+status: Most probable
+discussion: Susruta has mentioned Sthulakanda along with Surana; Vagbhata has explained Bhukanda after the explanation of Surana; According to the author Sthulakanda and Bhukanda mean one and the same and has correlated with this species which is known by the name 'Kanda' or 'Banda' nowadays
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

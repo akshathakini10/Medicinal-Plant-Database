@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d880bd02d3f20d29c4b2349028ac9771
+Botanical Name: Morinda pubescens SM.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Morinda coreia BUCH.-HAM. Morinda pubescens J.E.SMITH IN REES var. pubescens VERDC. Morinda tinctoria ROB. var. tomentosa (ROTH) HK.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 62 Vernacular names found in 7 languages. Hindi (5) - aal, acc, ach, al, kalmi Kannada (11) - aalum, ainshe, alam, haladi paavate, haladipavete, irshe, kadukumla, maddi, molagu, mulgal, tagatemara Malayalam (8) - cadapilva, karrapitalavam, manjanatthi, manjanatti, mannanarri, mannappavitta, pavetta, pavitta Marathi (7) - ahi, ak, al, aseti, bartundi, nagkura, suranji Sanskrit (3) - Sanskrit Comments  akshikiphala, indivarah, paphanah Tamil (8) - manjanathi, manjanatti, manjanuna, manjavatti, mannanatti, mannanunai, nuna, nunaa Telugu (20) - bandamaddi, bundamaddi, chekka, maaluga chettu, maddi, maddi chettu, maddicettu, mogali, mogilli, moluga, molugu, sekka, tagaree, tagaroo, thogara, togar-mogilli, togara, togaramogali, togaru, togarumogali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/87a235c658914a787d121232232c198d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1461
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1461.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/8000d14555500e2a572e668f497cc32a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/3e306069ca527c9964c81ea5e12d82a9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/70d372d3a394a201f3c13b154c20d3ef
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/87a235c658914a787d121232232c198d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/8000d14555500e2a572e668f497cc32a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/3e306069ca527c9964c81ea5e12d82a9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/70d372d3a394a201f3c13b154c20d3ef
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/87a235c658914a787d121232232c198d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/8000d14555500e2a572e668f497cc32a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/3e306069ca527c9964c81ea5e12d82a9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/70d372d3a394a201f3c13b154c20d3ef
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d880bd02d3f20d29c4b2349028ac9771/xclkon/87a235c658914a787d121232232c198d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

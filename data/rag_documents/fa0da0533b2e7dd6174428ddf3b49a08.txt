@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fa0da0533b2e7dd6174428ddf3b49a08
+Botanical Name: Mallotus philippensis (LAM.) MUELL.-ARG.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 231 Vernacular names found in 10 languages. English (1) - kamala Hindi (23) - kamal, kamal/kemela, kamala, kambal, kambhal, kambila, kamela, kamila, kamla, kamud, raini, rauni, rohini, rohni, roini, roli, rora, ruena, ruin, ruina, rulu, senduria, sindur Kannada (38) - candrahittu, chandra hittu, chandrahittu, corungamanje, dholo, etthunaalige, ettunalige, honne, hulicellu, hulichellu, hulichendu, hullichellu, kaesari maavu, kampillaka, kapeelaa rangu, kapila, kapile, kaseri, kesari, kesarimavoo, kesarimavu, korangumunji, kumkumada mara, kunkuma, kunkumada, kunkumadamara, kunkume, kurku, munnaga, ponne, ponneda, punnaga, purushatunga, saruakasari, surahonne, suraparni, suvarnakesari, vasare Malayalam (29) - cenkolli, chenkolli, kampipala, kampippala, kapila, kunkumum, kuramadakka, kuramatakku, kuramatukka, kurukkutti, manjana, manjanna, mannanna, maunana, pee-ponnagam, piponnakam, pipponnakam, ponnagam, ponnakam, ponni, ponoo, poonagam, punna, shenkolli, sinduram, sinduri, tavitu, thavatta, tsjerou-ponnagam Marathi (5) - bems, kapila, sendri, shendri, shindur Sanskrit (32) - Sanskrit Comments  bahupushpa, chandra, kamala, kambha, kampiliaka, kampilla, kampillah, kampillaka, kampillakah, kampilyakah, kapila, karkasha, kesara, laghupatraka, lohitanga, madhuka, nadivasa, pikaksha, punnaga, punnagakesara, punnama, rajanaka, rajanikah, raktanga, raktaphala, ranjaka, recanakah, rechanaka, rechani, rechi, rochana, varnaka Tamil (47) - avam, cinturamaram, cuvannakecari, cuvarnakecari, kabilam, kabilappodi, kamala, kamala 2, kamalai, kamalappoti, kambosam, kamela, kamela-mavu, kamelamavumaram, kamlappoti, kampocam, kampocam 3, kanapotta, kapila, kapilam, kapilapodi, kapilappoti, kapilappotimaram, kapli, kecavam, kopilapodi, kumpikam, kungumam, kunkumam, kunkumamaram, kurangumanianatti, kuranku mancanari, kurankumunci, kurankumuncimaram, mancanai, manjanai, maravam 3, nakamucikai, nakarattam, naravam 2, naravam 2@, naravu, punnakam 2, tanittai, tavattai, thavattai, tiruccalai Telugu (49) - adavigabathodu, adavigubatada, adavigubbathadu, adavigubbathuda, adavigubbatuda, adivigubatadu, benduruppu, cendiramu, chendiramu, chendra, chendurapu, kapila-podi, kapilapodi, kukuma, kukumapuvvu, kumkumamu, kunkuma, kunkumachettu, naagaraktha, nagarakta, nagaruttu, pachi, punnagam, sendhoori, sindhooragunda, sinduragunda, sinduri, sindurni, sundaragundi, sundari, sundharashundi, thunga, thungavriksham, tunga, vasant, vasanta, vasantagandhamu, vasantagundamu, vasantangauda, vasanthagandhamu, vasanthagunda, vasanthagundi, vasanthgunda chettu, vassanta, vassuntagunda, vassuntagundu, veligarapu, vusuntagundha, wusuntagundha Tibetan (2) - ka bi la ya ka, kam pi lya ga Urdu (5) - kamala, kamela, kamila, qimbeel (kamila), roghan kamila
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa0da0533b2e7dd6174428ddf3b49a08
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1370
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1370.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa0da0533b2e7dd6174428ddf3b49a08
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa0da0533b2e7dd6174428ddf3b49a08
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa0da0533b2e7dd6174428ddf3b49a08
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa0da0533b2e7dd6174428ddf3b49a08
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa0da0533b2e7dd6174428ddf3b49a08
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

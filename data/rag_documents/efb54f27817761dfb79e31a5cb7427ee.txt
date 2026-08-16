@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: efb54f27817761dfb79e31a5cb7427ee
+Botanical Name: Antiaris toxicaria (PERS.) LESCH.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 74 Vernacular names found in 6 languages. English (3) - ako, ipoh, upas-tree Kannada (29) - aajjana patte, aaranja mara, ajanapatte, ajjana patte, ajjana thaati, ajjanapatte, ajjanpatte, ajjanpatti, aranja patte, aranje, aranjee mara, aranji, aranyapatte, aranyi, bairi, bhairi, billavapale, billupale, chaaguri, jaaguri, jagoori, jaguri, jajhugri, jajjuri, jajugri, jazugri, karwat, sagguri, vishavriksha Malayalam (12) - aranjelli, aranjili, aranthal, arayaangeli, arayaanjili, arayanjili, arayannali, areianjili, arinji, maraviri, maravuri, nettavil Marathi (10) - chandakuda, chandkuda, chandkura, chandla, charvar mada, charvarmada, jasumdi, karvat, kharwat, kharwath Sanskrit (1) - Sanskrit Comments  valkala Tamil (19) - acini, ali, aniyurimaram, arandali, arantali, arantelli, aranthelli, atakavikam, atakavikamaram, ciritamaram, irainci2, irainji, mara-uri, maravuri, miruttuvacam, nettavil, pattai, pattaimaram, paymaram
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/efb54f27817761dfb79e31a5cb7427ee
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 200
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/200.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/efb54f27817761dfb79e31a5cb7427ee
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/efb54f27817761dfb79e31a5cb7427ee
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/efb54f27817761dfb79e31a5cb7427ee
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/efb54f27817761dfb79e31a5cb7427ee
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

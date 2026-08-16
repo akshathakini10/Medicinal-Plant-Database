@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ec88ecb8e9d414ea008a4d2863826858
+Botanical Name: Cochlospermum religiosum (L.) ALSTON
+Family: Cochlospermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cochlospermum gossypium DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 165 Vernacular names found in 9 languages. English (3) - karaya gum, kutira gum, silk-cotton tree Hindi (8) - gabdi, galgal, ganiar, ganiara, gehra, gjara, kumbi, pili kapas Kannada (21) - adavi booruga, arasina booraga, arasina booruga, arasinaburaga, arishina booraga, arisina, baruga, bettadavarai, bettataavare, bettatavare, bulavari, buragu, gaapli, gagili, ganeri, hoghara, hongaara, kaadu booruga, kadburaga, kaduburaga, kaduburga Malayalam (19) - appakkutukka, appakodakka, appakudakka, appakudukka, appakutakka, cempalukka, cempanni, chimaipunji, chimmaipunji, onkum, panninara, panyara, parapanni, parappanni, parappoola, pareipanyi, shimappanni, simappanni, tschempungie Marathi (8) - galgal, ganeri, ganglay, gangloy, gongal, gulgul, gunglay, kathalyagonda Sanskrit (2) - Sanskrit Comments  girisalmalika, silakarpasika Tamil (77) - accukaci, accukacimaram, annukam, antakevunam, araniyakarpaci, ataikkati, cataikkonku, cataikkonkumaram, centanakku, cikamatatikam, cikamatatikamaram, cikarappakitam, cikarappakitamaram, cokamatitam, cokamatitamaram, conku, cutalam, cutanamaram, cutinar#, cutinar$, cutinar@, iticika, iticikamaram, kanakacarimaram, kanakaccari, kannikaram#, kannikaram$, kannikarmaram, kattilavu, kattu ilavam, kattuppancu, kattupparutti, kattupparutti 1, kongelavam, kongilam, kongilavu, kongillam, konkilavu, konkillam, konku, kudirapuduku, kumarai, kumaraimaram, kuya, kuyakam, kuyakamaram, malaipparutti, malaipparuttimaram, mancatkonku, mancatkonkumaram, mancattanakku, matavai, matavaimaram, mullilavikam, mullilavikamaram, nalal, nalalmaram, ortilinku, ortilinkumaram, paccaikkiluvai 2, palini, palini 2, paruttimaram, peypparutti, pinara, pinaramaram, puntatu, puttali, tanakku, tanakkupparutti, tanaku, tanakumaram, thanukku, turumorpalam 1, turuverppalam, vanacarocani, vanapparutti Telugu (23) - adavi buruga, adavi godu, adavibooraga, adaviburaga, adaviburaka, adivi, akshotamu, booraga, buruga, condagongu, gungu, kandugogu, konda buruga, konda gogu, kondabooraga, kondaburaga, kondagagu, kondagogu, kongu, onkur, paarijatamu, parijata, pratti Urdu (4) - kateera (katira), katira, katira safaid, katria
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec88ecb8e9d414ea008a4d2863826858
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 601
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/601.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec88ecb8e9d414ea008a4d2863826858/xclkon/49963f1fb123eecce259acba22476e45
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec88ecb8e9d414ea008a4d2863826858
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec88ecb8e9d414ea008a4d2863826858/xclkon/49963f1fb123eecce259acba22476e45
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec88ecb8e9d414ea008a4d2863826858
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec88ecb8e9d414ea008a4d2863826858/xclkon/49963f1fb123eecce259acba22476e45
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec88ecb8e9d414ea008a4d2863826858
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec88ecb8e9d414ea008a4d2863826858/xclkon/49963f1fb123eecce259acba22476e45
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec88ecb8e9d414ea008a4d2863826858
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

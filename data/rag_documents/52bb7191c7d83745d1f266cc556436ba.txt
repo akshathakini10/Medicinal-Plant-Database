@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 52bb7191c7d83745d1f266cc556436ba
+Botanical Name: Moullava spicata (DALZ.) NICOLS.
+Family: Caesalpinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Wagatea spicata DALZ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 4 languages. Kannada (12) - gajegabilu, gajigabilu, gajjiga balli, gajjigaballi, hooliganji, huliganji, kaadanche, kadance, kodanchi, kodanji, mullu sundari balli, yeradu bannadasundari hoo Malayalam (1) - moullava Marathi (5) - kuldgajga, vagati, vakeri, wagati, wakeri Tamil (10) - karantikkonrai, karantipputu, nariverutti, okkatikkoti, pulinaka-k-konrai, pulinakakkonrai, puliraki, pulirakippuntu, puliyukir, varinakakkonrai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bb7191c7d83745d1f266cc556436ba/xclkon/97128d2d439d5479ec8b965d5ee8985c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bb7191c7d83745d1f266cc556436ba
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bb7191c7d83745d1f266cc556436ba/xclkon/97128d2d439d5479ec8b965d5ee8985c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bb7191c7d83745d1f266cc556436ba
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bb7191c7d83745d1f266cc556436ba/xclkon/97128d2d439d5479ec8b965d5ee8985c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

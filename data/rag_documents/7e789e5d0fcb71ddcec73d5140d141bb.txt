@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7e789e5d0fcb71ddcec73d5140d141bb
+Botanical Name: Centrostachys aquatica (R.BR.) WALL.E MIQ.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Achyranthes aquatica R.BR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  parnayavani Telugu (1) - neeru chirri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e789e5d0fcb71ddcec73d5140d141bb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e789e5d0fcb71ddcec73d5140d141bb/xclkon/441f547c648185c378f2c68017409f23
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e789e5d0fcb71ddcec73d5140d141bb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e789e5d0fcb71ddcec73d5140d141bb/xclkon/441f547c648185c378f2c68017409f23
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7e789e5d0fcb71ddcec73d5140d141bb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

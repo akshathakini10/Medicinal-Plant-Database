@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 368e37bbb42235a573ef9f8e9fea60ea
+Botanical Name: Withania coagulans DUNAL
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Puneeria coagulans STOCKS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 9 languages. English (2) - panirband, vegetable rennet Hindi (4) - akri, binputakah, paneer bandh, punir Kannada (3) - amakiregadday, asvagandhi, hire maddina gida Malayalam (1) - amukiram Marathi (1) - asvagandha Sanskrit (2) - Sanskrit Comments  asvagandha, rasna Tamil (2) - amukara, amukkura Telugu (2) - panneru-gadda, pennerugadda Urdu (1) - hab kaknaj
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368e37bbb42235a573ef9f8e9fea60ea
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2229
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2229.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368e37bbb42235a573ef9f8e9fea60ea/xclkon/512b86a4c786cc02e3b2b0611040ca83
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368e37bbb42235a573ef9f8e9fea60ea
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368e37bbb42235a573ef9f8e9fea60ea/xclkon/512b86a4c786cc02e3b2b0611040ca83
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368e37bbb42235a573ef9f8e9fea60ea
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368e37bbb42235a573ef9f8e9fea60ea/xclkon/512b86a4c786cc02e3b2b0611040ca83
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368e37bbb42235a573ef9f8e9fea60ea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f4981331d887a60afddd055ea336f6e7
+Botanical Name: Cayratia pedata JUSS. E GAGNEPAIN
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cissus pedata LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 40 Vernacular names found in 5 languages. Malayalam (5) - belutta-tsjon-valli, tripadi, veluttachorivalli, veluttacorivalli, veluttasorivalli Marathi (3) - ghorpadvel, gorpadvel, sarbarivel Sanskrit (2) - Sanskrit Comments  godhapadi, suvaha Tamil (9) - alaci, edakula, elilaippirantai, kattuppirandai, kitamatti, kitanaman, naralai, naralai-kodi, tiripatakam Telugu (21) - edaakulamandulamaari, edakulamandulam ari, edakulamandulamari, edakulamandulamaritige, gummadithige, gummaditige, kaade pathige, kaaniyamu, kaanniyaapathige, kamapatige, kaniapatige, kaniyamu, kaniyapatige, kannem, narali, nasagummadi, pulimaada, pulimada, teegagummadi, thigegummadi, tigegummadi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4981331d887a60afddd055ea336f6e7/xclkon/ad6d5d505590b79b0adb3f052cec01df
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4981331d887a60afddd055ea336f6e7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4981331d887a60afddd055ea336f6e7/xclkon/c4120d112779e272b5398ae49a22b9e2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4981331d887a60afddd055ea336f6e7/xclkon/ad6d5d505590b79b0adb3f052cec01df
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4981331d887a60afddd055ea336f6e7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4981331d887a60afddd055ea336f6e7/xclkon/c4120d112779e272b5398ae49a22b9e2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4981331d887a60afddd055ea336f6e7/xclkon/ad6d5d505590b79b0adb3f052cec01df
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4981331d887a60afddd055ea336f6e7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4981331d887a60afddd055ea336f6e7/xclkon/c4120d112779e272b5398ae49a22b9e2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4981331d887a60afddd055ea336f6e7/xclkon/ad6d5d505590b79b0adb3f052cec01df
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3aab16f22459644b4b41401d4659e6ae
+Botanical Name: Macaranga peltata (ROB.)  MUELL.-ARG.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Macaranga roxburghi WRIGHT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 52 Vernacular names found in 6 languages. English (1) - kenda Kannada (26) - batla chandrike, candakanne, chaandoda, chanda kanne, chandakala, chandakanne, chenthakanni, chinthakanni, chootha kanne, jaatiyuppalige, jagi uppalige, jagiuppalige, jatiuppalige, kanchu praanthi, kanchupranthi, kanchupranti, kancupparanti, kanju pparaanthi, oopalkai, upaligi, upalkai, upligi, uppalige, uppaligi, upparanti, upranti Malayalam (7) - pattavanni, peemoha, pimugam, potuvanni, uppalika, uppila, vatta Marathi (2) - chaandavada, chandvar Tamil (8) - naratiya2, pimukam 2, vattakanni, vattakkanni 2, vattakunni, vattathamarei, vattattamarai#, vattattutti Telugu (8) - boddi, godugu ganapa, konda thaamara, kondajaaphara, kondajaphara, pulichinjalamu, pulichinsaku, pulicincalamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3aab16f22459644b4b41401d4659e6ae/xclkon/5c090854a5f9f4d8b7f8a9cb957c9c10
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3aab16f22459644b4b41401d4659e6ae
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3aab16f22459644b4b41401d4659e6ae/xclkon/5c090854a5f9f4d8b7f8a9cb957c9c10
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3aab16f22459644b4b41401d4659e6ae
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3aab16f22459644b4b41401d4659e6ae/xclkon/5c090854a5f9f4d8b7f8a9cb957c9c10
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

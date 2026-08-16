@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8720e41fb0725417a42421c0ed635bee
+Botanical Name: Capsella bursa-pastoris MEDIC
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. English (5) - caseweed, mothers-heart, shepherds purse, shepherds-purse, shovelweed Hindi (1) - botlya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8720e41fb0725417a42421c0ed635bee
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8720e41fb0725417a42421c0ed635bee
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8720e41fb0725417a42421c0ed635bee
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

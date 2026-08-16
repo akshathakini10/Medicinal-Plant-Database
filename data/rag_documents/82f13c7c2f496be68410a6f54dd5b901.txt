@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 82f13c7c2f496be68410a6f54dd5b901
+Botanical Name: Euphorbia hypericifolia L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 6 languages. Hindi (4) - dudhi, dudhikalave, hakshardana, hazardana Malayalam (1) - nir-cottam-pala Marathi (3) - dhaktidudhi, dudhi, dudhmogra Sanskrit (1) - Sanskrit Comments  dugdhika Tamil (3) - acamelikacceti, acamelikam, karuppamman paccarici Urdu (1) - hazardana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82f13c7c2f496be68410a6f54dd5b901
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dugdhika
+sanskrit_name: दुग्धिका
+transliteration: dugdhikā
+ref_drug_name: दुग्धिका
+status: Substituted source
+discussion: Dugdhika means a plant which has milk or latex so it is suggested to take such plants with this feature and those which are known by the word Dudhi or Dudheli; This species is suggested as it supports the above statements
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

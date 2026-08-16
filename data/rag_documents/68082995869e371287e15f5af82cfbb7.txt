@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 68082995869e371287e15f5af82cfbb7
+Botanical Name: Phaseolus lunatus L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 5 languages. English (5) - burma bean, butter bean, duffin bean, lima bean, rangoon bean Hindi (1) - lobia Kannada (1) - dabbale beans Sanskrit (1) - Sanskrit Comments  aksipidaka Tamil (1) - kaci-k-kollu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68082995869e371287e15f5af82cfbb7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68082995869e371287e15f5af82cfbb7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aksapida
+sanskrit_name: अक्षपीड
+transliteration: akṣapīḍa
+ref_drug_name: अक्षपीड
+status: Controversial
+discussion: With referance to its uses it is correlated to different plant names so the correlations remain unspecified
+reference: [1]
+
+Identity Record 2
+drug_name: Aksapidaka
+sanskrit_name: अक्षपीडक
+transliteration: akṣapīḍaka
+ref_drug_name: अक्षपीडक
+status: Most probable
+discussion: Aksipidaka' has been cited in Caraka under the Visa cikitsa (treatment for poisons); Susruta has mentioned its use in case of kustha (skin disorders); Gangadhar has inferred the word 'Aksipida' as, whose juice can be expressed and put in the eyes in case of eye disorders; But in the samhitas its nowhere been mentioned in case of eye diseases; Cakrapani has interpreted it as 'Simbi bheda' (variety of Simbi) which most probably is taken as 'Jehermaar'; It is correlated to this species
+reference: [5]
+
+Identity Record 3
+drug_name: Simbi
+sanskrit_name: शिम्बी
+transliteration: śimbī
+ref_drug_name: शिम्बी
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

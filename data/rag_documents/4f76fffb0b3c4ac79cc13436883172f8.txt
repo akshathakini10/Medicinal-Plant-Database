@@ -1,0 +1,81 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4f76fffb0b3c4ac79cc13436883172f8
+Botanical Name: Pistacia integerrima STEW. E BRANDIS
+Family: Pistaciaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pistacia chinensis BUNGE subsp. integerrima (STEW) RECH.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 8 languages. Hindi (17) - kakar-singi, kakara, kakaran/kakkar, kakare, kakari, kakaro, kakarsinghi, kakkar, kakkatasimgi, kakra, kakra-singi, kakrain, kakran, kakreran, kakrian, kakroi, kareran Kannada (4) - chakrangi, kaakada shringi, karkaataka shringi, karkatakasrngi Malayalam (2) - karkkatakasrmgi, karkkatasrmgi Marathi (3) - kaakad shingee, kaakada, kakra Sanskrit (21) - Sanskrit Comments  chakra, chakrangi, chandraspada, ghosha, karkata, karkatakhya, karkatasringi, karkatasrngi, karkati, kasavinashini, kolira, kulingi, mahaghosha, natangi, navanga, shikhari, srngi, vakra, vanamurdhaja, visani, vishanika Tamil (2) - kakkata-shinigi, kakkatasrngi Telugu (3) - kaakara shingi, kakarashingi, kakarasrnga Urdu (2) - kakra, mastagi desi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8/xclkon/2752eb315ecc9c0cc5e27736fcce9197
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1686
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1686.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8/xclkon/acd362018655e596e4503535645a3af6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8/xclkon/2752eb315ecc9c0cc5e27736fcce9197
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8/xclkon/acd362018655e596e4503535645a3af6
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8/xclkon/2752eb315ecc9c0cc5e27736fcce9197
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8/xclkon/acd362018655e596e4503535645a3af6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f76fffb0b3c4ac79cc13436883172f8/xclkon/2752eb315ecc9c0cc5e27736fcce9197
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karkatasrngi
+sanskrit_name: कर्कटश्रृङ्गी
+transliteration: karkaṭaśrṛṅgī
+ref_drug_name: कर्कटश्रृङ्गी
+status: Controversial
+discussion: Needs to be studied as this correlation does not match with the etymology of the plant
+reference: [1]
+
+Identity Record 2
+drug_name: Karkatasrngi
+sanskrit_name: कर्कटश्रृङ्गी
+transliteration: karkaṭaśrṛṅgī
+ref_drug_name: कर्कटश्रृङ्गी
+status: Most probable
+discussion: Mesasrngi is identified with Karkatasrngi which is believed to be Pistacia integerrima
+reference: [1]
+
+Identity Record 3
+drug_name: Karkatasrngi
+sanskrit_name: कर्कटश्रृङ्गी
+transliteration: karkaṭaśrṛṅgī
+ref_drug_name: कर्कटश्रृङ्गी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

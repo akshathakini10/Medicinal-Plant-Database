@@ -1,0 +1,92 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3ddfaf61bf4ae28a0eae6a0c86c12fca
+Botanical Name: Picrorhiza kurroa ROYLE E BENTH.
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Picrorrhiza kurrooa BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 185 Vernacular names found in 8 languages. English (1) - kutki Hindi (9) - kardi, karoi, karu, karwi, katki, kaur, kuru, kutaki, kutki Malayalam (1) - katukhurohani Sanskrit (42) - Sanskrit Comments  a, anjani, arishta, ashoka, ashokarohini, asokarahini, asokarohini, cakrangi, chakrangi, chitrangi, dhanvantarigrantha, dvijangi, janani, kandaruhkulasadani, kanderuha, katamvara, katavi, katuka, katukarohini, katuki, katumbhara, katurohani, katurohini, katvi, kedarakatuka, krishna, krishnabheda, kutaki, mahaushadhi, malabhedini, matsyapitta, matsyasakala, matsyashakala, rohini, sataparva, shakuladani, shataparva, tikta, tiktakarohini, tiktarohanika, vamaghni, vantida Tamil (122) - acokarokini, akutam, akutarokini, amakkini, amalai, amalaippuntu, ankutakini, arippiriyam 2, arippuntu, aritam, aritam 2, aritarokani, arittai, arittam, arittam 1, aruttakam, aruttam, atankam, atankarokini, cakkaravankam, cakkiranki#, cakkirankirokani, cakulati, cakulatini, cakulatirokani, cankapunki, cankarokani, cankiparuti, canku 1, cankupacam, cirakarokani, cokarokani, iccirokini, iccirokinicceti, icciyal, icciyam, inturokani, intuvekani, kaccam, kaccamaram, kadugu rogini, kadugu-rohini, kadugurogini, kanaruttam, kankayam, karunkatukurokani, karuppotam, karuppukkatukurokani, karuppukkatukurokini, kata ka rokini, katakarokini, katu 3, katucaram, katukai, katukam 2, katukaram, katukarogani, katuku rokini, katuku-rogani, katukurogani, katukurohani, katukurokani, katukurokini, katumparai 2, katurokani, katurokini, katuroni, katuvili, katuvilirokini, katuvitittam, kavittam, kirusnapetam, kirusnapeti, kiruttinapenam, kiruttinapetam, kiruttinapeti, kiruttinapuvikam, kisnapetam, kisnapetarokini, kittinapetam, kittipetam, kukala, kukalarokini, kukkula, kukkularokani, kukula, kulatani, kulatanikam, kulatini, kumakki, kumakkirokani, kuttala, kuttalakam 1, kuttalam 1, kuttalarokini, kuvatirai, maccipam, macciyarokani, narannati, nattukkatukurokani, patumatam, pittakkini, pittaracarokani, pittarokani, pocarokani, rokani#, rokani@, roni, rotani, teni 1, tenika, tenikarokani, ulama, urokani, urokini 2, uroni, uvakali, vinna#, vinna@, vinnakam, vinnakarokani, vinnarokani Telugu (5) - katuka-rogani, katukarogani, katukkurohini, katuku-roni, katukuroni Tibetan (3) - hon len, hon-len, pu tse sel Urdu (2) - katki, kutki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca/xclkon/7aa0b3c39c9d80062a16d2860895786d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1658
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1658.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca/xclkon/7aa0b3c39c9d80062a16d2860895786d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca/xclkon/7aa0b3c39c9d80062a16d2860895786d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca/xclkon/7aa0b3c39c9d80062a16d2860895786d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca/xclkon/7aa0b3c39c9d80062a16d2860895786d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ddfaf61bf4ae28a0eae6a0c86c12fca/xclkon/7aa0b3c39c9d80062a16d2860895786d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gandadurva
+sanskrit_name: गण्ड दूर्वा
+transliteration: gaṇḍa dūrvā
+ref_drug_name: गण्ड दूर्वा
+status: Controversial
+discussion: Gandadurva is not found in the Brhatrayi but was mentioned later on; There were various synonyms given to it and one among them was Sakuladani which is Katurohini and correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Katuka
+sanskrit_name: कटुका
+transliteration: kaṭukā
+ref_drug_name: कटुका
+status: AS
+discussion: Katuka is correlated to this species
+reference: [3]
+
+Identity Record 3
+drug_name: Katuka
+sanskrit_name: कटुका
+transliteration: kaṭukā
+ref_drug_name: कटुका
+status: Accepted source
+discussion: identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Katuka
+sanskrit_name: कटुका
+transliteration: kaṭukā
+ref_drug_name: कटुका
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

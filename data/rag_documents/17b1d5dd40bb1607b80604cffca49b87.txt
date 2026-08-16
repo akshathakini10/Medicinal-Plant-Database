@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 17b1d5dd40bb1607b80604cffca49b87
+Botanical Name: Vepris bilocularis (WIGHT & ARN.) ENGL.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Toddalia bilocularis W. & A.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 4 languages. Kannada (4) - kadagilu, managappe, mangappe, manguppe Malayalam (1) - moothassari Sanskrit (1) - Sanskrit Comments  krishna-aguru Tamil (1) - devadarom
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17b1d5dd40bb1607b80604cffca49b87
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2173
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2173.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17b1d5dd40bb1607b80604cffca49b87/xclkon/fae55a68918641f19906aaf4109fa463
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17b1d5dd40bb1607b80604cffca49b87
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17b1d5dd40bb1607b80604cffca49b87/xclkon/fae55a68918641f19906aaf4109fa463
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17b1d5dd40bb1607b80604cffca49b87
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

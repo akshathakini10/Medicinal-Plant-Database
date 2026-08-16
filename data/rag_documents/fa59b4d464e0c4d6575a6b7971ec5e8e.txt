@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fa59b4d464e0c4d6575a6b7971ec5e8e
+Botanical Name: Commelina paludosa BI.
+Family: Commelinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Commelina obliqua BUCH.-HAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Hindi (3) - chhura, churra, kanjuna Marathi (1) - keni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa59b4d464e0c4d6575a6b7971ec5e8e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa59b4d464e0c4d6575a6b7971ec5e8e/xclkon/c34a044bc7089afd826ae77b9c5fa800
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa59b4d464e0c4d6575a6b7971ec5e8e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

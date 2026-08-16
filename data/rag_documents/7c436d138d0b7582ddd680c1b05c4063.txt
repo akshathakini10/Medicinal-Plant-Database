@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7c436d138d0b7582ddd680c1b05c4063
+Botanical Name: Piper clusii C.DC.
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. English (3) - african black pepper, african cubeb, west african black pepper Sanskrit (1) - Sanskrit Comments  kankolam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c436d138d0b7582ddd680c1b05c4063
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c436d138d0b7582ddd680c1b05c4063
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kankola
+sanskrit_name: कंकोल
+transliteration: kaṃkola
+ref_drug_name: कंकोल
+status: Substituted source
+discussion: This species is used as a substitute for Kankola or sometimes mixed along with it during trade. Its found in Africa
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kankola
+sanskrit_name: कंकोल
+transliteration: kaṃkola
+image_urls: https://www.medicinalplants.in/slokaimages/1295/1295_1.jpg https://www.medicinalplants.in/slokaimages/1295/1295_2.jpg https://www.medicinalplants.in/slokaimages/1295/1295_3.jpg
+ocr_text: कंकोलं कटुतिक्तोष्णं वक्त्रजाड्यहरं परम् दीपनं पाचनं रुच्यं कफवातामकृन्तनम् IRjn ) Kankola is katu, tikta in rasa, usna in veerya, alleviates kapha and vata, dipana, pacana, rucya , cures vaktra jadya. कंकोलं लघु तीक्ष्णोष्णं तिक्तं हृद्यं रुचिप्रदन्| आस्यहृद्रोगदौर्गन्धकफवातामयान्ध्यहृत् | (Bpnl Kankola is tikta in rasa, laghu, tiksna in guna usna in veerya, alleviates kapha and vata, hrdya, ruci prada, cures asya daurandhya, hrdroga and andhya. कंक्कोलकं लवंगं च तिक्तं कटु कफापहम् लघु तृष्णापहं वृष्यं वक्त्रदौर्गन्धयाशनम्| | (सुश्रुत) Kankolaka is tikta, katu in rasa, laghu in guna, alleviates kapha, is vrshya cures trsna and vaktra daurgandhya.

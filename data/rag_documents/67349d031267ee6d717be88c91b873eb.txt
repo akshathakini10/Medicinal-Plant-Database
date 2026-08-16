@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 67349d031267ee6d717be88c91b873eb
+Botanical Name: Glinus lotoides L.
+Family: Aizoaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Glinus dictamnoides BURM.F. Mollugo hirta THUNB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 70 Vernacular names found in 6 languages. Hindi (7) - badka, bakada, dholakani, gandhi-buti, gandhi-butti, hata, matter Kannada (4) - chandra kaasi soppu, chandrakaasi soppu, chandrakkasi soppu, kaage purale gida Marathi (2) - kadi-bhaji, kotak Sanskrit (3) - Sanskrit Comments  bhissata, okharadi, ushandi Tamil (50) - amucakam, amucam, anceruppatai, atai1, ati@, attanpatani, attanpullati, attilai, carati, caratippatai, ceruppa tai, ceruppatai, ceruppati, ceruppatinayan, ceruppu, ceruppukkal, cheruppadai, circuceruppatai, cirrilaippatam, cirruceruppatai, ciru ceruppati, ciruceruppatai, ciruceruppati, cori, cuntari1, karcurampa, karcurampacceti, kiritacuntari, kiritmacuntari, kirittumacuntari, kotaivacani, kotaivakali, kotaivakani, muttalaicatticceti, muttalaiccatti, paracatci, patavai, patavaikkoti, patukai, perumanti, piramitiyakkoti, piramitiyam, siru seruppadai, siru-cheruppadai, siruseruppadai, talaiviriccan1, talaivirittan1, tampirappiriyam, tekaccoti, utaiyam Telugu (4) - chadrasi koora, chadrasikoora, thella poraku, thella puni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/bd1582467214b79d1f62f8f630e5e3df
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1049
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1049.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/446c3611b2d09eea385c124e302df590
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/bd1582467214b79d1f62f8f630e5e3df
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/446c3611b2d09eea385c124e302df590
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/bd1582467214b79d1f62f8f630e5e3df
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/446c3611b2d09eea385c124e302df590
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/cec6d03d0e1bbe969c56f2e457d35f35
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67349d031267ee6d717be88c91b873eb/xclkon/bd1582467214b79d1f62f8f630e5e3df
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

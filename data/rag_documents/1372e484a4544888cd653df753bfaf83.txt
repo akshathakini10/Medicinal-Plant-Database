@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1372e484a4544888cd653df753bfaf83
+Botanical Name: Zaleya decandra (L.) BURM. F.
+Family: Aizoaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Trianthema decandra L. MANT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 35 Vernacular names found in 6 languages. Hindi (2) - gadabani, khari-buti Kannada (6) - bilee komme, bilikomme, gaija soppu, gaijasoppu, gajja soppu, jaija-soppu Marathi (1) - phasartani Sanskrit (1) - Sanskrit Comments  punarnavi Tamil (19) - caranai, caratai, caruvelai, catti caranai, catti-c-caranai, catticcaranai, catticcattaranai, charanai, saranai, sarvalai, sattichcharanai, siru charanai, vallai-sharunnai, vellai caddic caranai, vellai cattaranai, vellai saaranai, vellai-c-caranai ver, vellaici cattanai, vellaisharunnai Telugu (6) - galijaeru, galijeru, tella-galijeru, tellagalijeru, tellaghalijeroo, thellagalijaeru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/3bf1ad98c904c7f1a072b57e47d5f6e7
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2246
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2246.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/c72ff456a59ea3b9fe163df8f041a0bd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/3bf1ad98c904c7f1a072b57e47d5f6e7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/c72ff456a59ea3b9fe163df8f041a0bd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/3bf1ad98c904c7f1a072b57e47d5f6e7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/c72ff456a59ea3b9fe163df8f041a0bd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1372e484a4544888cd653df753bfaf83/xclkon/3bf1ad98c904c7f1a072b57e47d5f6e7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Punarnava
+sanskrit_name: पुनर्नवा
+transliteration: punarnavā
+image_urls: https://www.medicinalplants.in/slokaimages/251/251_1.jpg https://www.medicinalplants.in/slokaimages/251/251_2.jpg https://www.medicinalplants.in/slokaimages/251/251_4.jpg https://www.medicinalplants.in/slokaimages/251/251_5.jpg
+ocr_text: शोफघ्नी दीर्घपत्रिका पुनर्नवाडपरा रक्ता रक्तपुष्पा शिवाटिका |I शोफघ्नी क्षुद्रवर्षाभूर्वृषकेतुः कठिल्लका (Bpn) Synonyms are punarnava , svetamula , sophaghni, dirghapatrika. Synonyms of punarnava apara are rakta, raktapuspa, sivatika, sophaghni, ksudravarshabhu, vrshaketu, kathillaka. पुनर्नवा श्वेतमूला सदामण्डपत्रकः श्वेतमूलोडथ वर्षाभूर्वृश्चीवः क्षुद्रपत्रकः II वैशाखोः रक्तवृन्तः कठिल्लकः प्रैर्कसो न्ुय्रेव क्षुद्रवर्षाभू रक्तपुष्पा सिनाडिका Il MMdnl Varshaketu, sadamanaalapatraka , svetamula, varshabhu, civa ksudrapatraka are the synonyms of punarnava. Synonyms of punarnava anya are vaisakhya, raktavrnta, kathillaka , vikasa, ksuaravarshabhu, raktapuspa, sinadika. पुनर्नवो वर्षकेतुः वर्षाभूर्मधुरा तिक्ता कषाया कटुका सरा| | क्षारोष्णा वीपनी रूक्षा शोफानिलकफापहा हृद्या रुच्या जयेदर्शोव्रणपाण्डुगरोदरम् IKdn) Punarnava is madhura, tikta, kasaya , katu in rasa, sara, ruksa in guna, usna in veerya, agnidipaka, hrdya, rucya, in karma, alleviates vata, kapha cures sotha arsa, vrana visa and udara vikara. भवेदुष्णा तिक्ता रूक्षा कफापहा सशोफपाण्डुहृद्रोगकासोरःक्षतशूलनुत् ( IDhn) Punarnava is tikta in rasa, ruksa in guna, usna in veerya, alleviates kapha, cures sotha, panau roga, hradaya roga, kasa, uraksata and sula पुनर्नवा
+
+Shloka Record 2
+drug_name: Punarnava - rakta
+sanskrit_name: पुनर्नवा रक्त
+transliteration: punarnavā rakta
+image_urls: https://www.medicinalplants.in/slokaimages/251/251_1.jpg https://www.medicinalplants.in/slokaimages/251/251_2.jpg https://www.medicinalplants.in/slokaimages/251/251_4.jpg https://www.medicinalplants.in/slokaimages/251/251_5.jpg
+ocr_text: शोफघ्नी दीर्घपत्रिका पुनर्नवाडपरा रक्ता रक्तपुष्पा शिवाटिका |I शोफघ्नी क्षुद्रवर्षाभूर्वृषकेतुः कठिल्लका (Bpn) Synonyms are punarnava , svetamula , sophaghni, dirghapatrika. Synonyms of punarnava apara are rakta, raktapuspa, sivatika, sophaghni, ksudravarshabhu, vrshaketu, kathillaka. पुनर्नवा श्वेतमूला सदामण्डपत्रकः श्वेतमूलोडथ वर्षाभूर्वृश्चीवः क्षुद्रपत्रकः II वैशाखोः रक्तवृन्तः कठिल्लकः प्रैर्कसो न्ुय्रेव क्षुद्रवर्षाभू रक्तपुष्पा सिनाडिका Il MMdnl Varshaketu, sadamanaalapatraka , svetamula, varshabhu, civa ksudrapatraka are the synonyms of punarnava. Synonyms of punarnava anya are vaisakhya, raktavrnta, kathillaka , vikasa, ksuaravarshabhu, raktapuspa, sinadika. पुनर्नवो वर्षकेतुः वर्षाभूर्मधुरा तिक्ता कषाया कटुका सरा| | क्षारोष्णा वीपनी रूक्षा शोफानिलकफापहा हृद्या रुच्या जयेदर्शोव्रणपाण्डुगरोदरम् IKdn) Punarnava is madhura, tikta, kasaya , katu in rasa, sara, ruksa in guna, usna in veerya, agnidipaka, hrdya, rucya, in karma, alleviates vata, kapha cures sotha arsa, vrana visa and udara vikara. भवेदुष्णा तिक्ता रूक्षा कफापहा सशोफपाण्डुहृद्रोगकासोरःक्षतशूलनुत् ( IDhn) Punarnava is tikta in rasa, ruksa in guna, usna in veerya, alleviates kapha, cures sotha, panau roga, hradaya roga, kasa, uraksata and sula पुनर्नवा
+
+Shloka Record 3
+drug_name: Punarnava - sveta
+sanskrit_name: पुनर्नवा श्वेता
+transliteration: punarnavā śvetā
+image_urls: https://www.medicinalplants.in/slokaimages/251/251_1.jpg https://www.medicinalplants.in/slokaimages/251/251_2.jpg https://www.medicinalplants.in/slokaimages/251/251_4.jpg https://www.medicinalplants.in/slokaimages/251/251_5.jpg
+ocr_text: शोफघ्नी दीर्घपत्रिका पुनर्नवाडपरा रक्ता रक्तपुष्पा शिवाटिका |I शोफघ्नी क्षुद्रवर्षाभूर्वृषकेतुः कठिल्लका (Bpn) Synonyms are punarnava , svetamula , sophaghni, dirghapatrika. Synonyms of punarnava apara are rakta, raktapuspa, sivatika, sophaghni, ksudravarshabhu, vrshaketu, kathillaka. पुनर्नवा श्वेतमूला सदामण्डपत्रकः श्वेतमूलोडथ वर्षाभूर्वृश्चीवः क्षुद्रपत्रकः II वैशाखोः रक्तवृन्तः कठिल्लकः प्रैर्कसो न्ुय्रेव क्षुद्रवर्षाभू रक्तपुष्पा सिनाडिका Il MMdnl Varshaketu, sadamanaalapatraka , svetamula, varshabhu, civa ksudrapatraka are the synonyms of punarnava. Synonyms of punarnava anya are vaisakhya, raktavrnta, kathillaka , vikasa, ksuaravarshabhu, raktapuspa, sinadika. पुनर्नवो वर्षकेतुः वर्षाभूर्मधुरा तिक्ता कषाया कटुका सरा| | क्षारोष्णा वीपनी रूक्षा शोफानिलकफापहा हृद्या रुच्या जयेदर्शोव्रणपाण्डुगरोदरम् IKdn) Punarnava is madhura, tikta, kasaya , katu in rasa, sara, ruksa in guna, usna in veerya, agnidipaka, hrdya, rucya, in karma, alleviates vata, kapha cures sotha arsa, vrana visa and udara vikara. भवेदुष्णा तिक्ता रूक्षा कफापहा सशोफपाण्डुहृद्रोगकासोरःक्षतशूलनुत् ( IDhn) Punarnava is tikta in rasa, ruksa in guna, usna in veerya, alleviates kapha, cures sotha, panau roga, hradaya roga, kasa, uraksata and sula पुनर्नवा

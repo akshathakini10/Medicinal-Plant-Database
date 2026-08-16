@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1ab83c76f1c09cacf351ac6476d2541c
+Botanical Name: Tridax procumbens L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 7 languages. English (2) - coatbuttons, mexican daisy Hindi (7) - kalal, kanphuli, kanphuliya, kumra, pabula-ka-mocha, pebul-ka-mocha, pilo-bayoni Kannada (13) - addike gida, gabbu gida, gabbu sanna shaavanthi, gabbu sanna shavanti, gabbu shaavanthi, ilisppu, kaachaghni, nada murukana gida, netta gabbu, shaavanthi, thaale udurohoogida, theeke soppu, yeriyele gida Marathi (2) - aekadaandee, thanathanee Sanskrit (1) - Sanskrit Comments  jayanti Tamil (3) - kenattuppuntu, vettukkaaya-thalai, vettukkaya puntu Telugu (3) - balapaaku, gaayapaaku, gaddichamanthi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2128
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2128.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ab83c76f1c09cacf351ac6476d2541c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhrngaraja - bheda
+sanskrit_name: भृङ्गराज भेद
+transliteration: bhṛṅgarāja bheda
+ref_drug_name: भृङ्गराज भेद
+status: Accepted source
+discussion: In Sodala nighantu, 'Bhringaraja' has been mentioned of 2 types viz. 'Avanti' and 'Jayanti'; 'Jayanti' is with white flowers which is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Bhrngaraja - pita
+sanskrit_name: भृङ्गराज पीत
+transliteration: bhṛṅgarāja pīta
+ref_drug_name: भृङ्गराज भेद
+status: Accepted source
+discussion: In Sodala nighantu, 'Bhringaraja' has been mentioned of 2 types viz. 'Avanti' and 'Jayanti'; 'Jayanti' is with white flowers which is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

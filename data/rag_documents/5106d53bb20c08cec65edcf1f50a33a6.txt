@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5106d53bb20c08cec65edcf1f50a33a6
+Botanical Name: Indigofera trifoliata L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. English (1) - deep indigo Hindi (1) - kathi Telugu (2) - baragadam, miripindi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5106d53bb20c08cec65edcf1f50a33a6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5106d53bb20c08cec65edcf1f50a33a6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asvabala
+sanskrit_name: अश्वबला
+transliteration: aśvabalā
+ref_drug_name: अश्वबला
+status: Controversial
+discussion: Is not identified satisfactorily. This is one of the suggested species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

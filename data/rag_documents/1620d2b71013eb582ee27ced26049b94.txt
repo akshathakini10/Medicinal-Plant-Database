@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1620d2b71013eb582ee27ced26049b94
+Botanical Name: Buddleja asiatica LOUR.
+Family: Buddlejaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Buddleja neemda HAM. E ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 2 languages. Hindi (4) - bhati, dhura, dhurbana, neemda Kannada (4) - holi lakki, kara kaane, karakan, karakani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1620d2b71013eb582ee27ced26049b94/xclkon/0e55f9aacd2b4a27b018c69eae403ad5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1620d2b71013eb582ee27ced26049b94
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1620d2b71013eb582ee27ced26049b94/xclkon/0e55f9aacd2b4a27b018c69eae403ad5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

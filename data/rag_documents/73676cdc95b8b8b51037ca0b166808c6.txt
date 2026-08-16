@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 73676cdc95b8b8b51037ca0b166808c6
+Botanical Name: Dioscorea pentaphylla L.
+Family: Dioscoreaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 67 Vernacular names found in 7 languages. Hindi (13) - bhusa, bursa, dregal, gajaria, kada kanda, kanta alu, kantaalu, phal alu, phalu alu, ratalu, tena, teona, teoni Kannada (3) - adavigummathiga, kaadu gumbala, kaadugumbala Malayalam (14) - kattunurankilannu, kattunurankizhannu, kattunurunnakilannu, katu-nuren-kelengu, nuraigenassu, nuraikaju, nurankilangu, nurankilannu, nurankizhannu, nuren-kelengu, nurenikelangu, nurenkelengu, nurkavan, nurunnakilannu Marathi (7) - chataveli, dhai-karamdi, koneti, mamdel, manda, shendvel, ulasi Sanskrit (1) - Sanskrit Comments  kantakalu Tamil (12) - chedukundi, kattu valli kalangu, kattukkilangu, kattuvalli, keval, kevali, nurangilangu, nurankilanku#, nurankilanku@, vallai-kodi, vallaikkoti, vallikodi Telugu (17) - adavi-ginusu tiga, adavigummaditiga, chenchu gadda, dukka pendalam, dukka pendulamu, kaaruchemba, kanta alu, karucamba, karuchemba, monyakku-pendalam, mullupendalam, mullupendalamu, nuludumpa, pandi mukku dumpa, pandigada, pandimukkudumpa, pendi-muka tiga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 826
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/826.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73676cdc95b8b8b51037ca0b166808c6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vidari
+sanskrit_name: विदारी
+transliteration: vidārī
+ref_drug_name: विदारी
+status: Suggested source
+discussion: This species is suggested on basis of its features(plenty of latex in all its parts) and property (lactogogue); needs to be examined
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vidari
+sanskrit_name: विदारी
+transliteration: vidārī
+image_urls: https://www.medicinalplants.in/slokaimages/1367/1367_1.jpg https://www.medicinalplants.in/slokaimages/1367/1367_2.jpg https://www.medicinalplants.in/slokaimages/1367/1367_3.jpg https://www.medicinalplants.in/slokaimages/1367/1367_4.jpg https://www.medicinalplants.in/slokaimages/1367/1367_5.jpg https://www.medicinalplants.in/slokaimages/1367/1367_6.jpg https://www.medicinalplants.in/slokaimages/1367/1367_7.jpg https://www.medicinalplants.in/slokaimages/1367/1367_8.jpg
+ocr_text: अन्या क्षीरविदारी स्यादिक्षुकन्देक्षुवल्यपि क्षीरवल्ली क्षीरकन्दा क्षीरशुक्ला पयस्विनी Il (Mdn) Anya ksiravidari is Iksukanda, Iksuvalli, Ksiravalli, Ksirakanda, ksirasukla Payasvini. अन्या क्षीरविदारी स्यादिक्षुगनेक्षुवल्लरी इक्षुवल्ली क्षीरकन्दः क्षीरवल्ली पयस्विनी क्षीरशुक्ला क्षीरलता पयःकन्दा पयोलता पयोविदारिका चेति विज्ञेया द्वादशाह्वया (Rjn) Ksira vidari is called as Iksugandha, Iksuvalli, Ksirakanda, Ksiravalli , payasvini, Ksirasukla , ksiralata, Payahkanda, Payolata, Payovidarika. अन्या शुक्ला क्षीरशुक्ला क्षीरकन्दा पयस्विनी | क्षीरवल्लीक्षुकन्देक्षुवल्ली क्षीरविदारिका II शुक्लकन्दा महाश्वेतेक्षुगनिका IKdn) Anya is Sukla , Ksirasukia, Ksirakanda, Payasvini, Ksiravalli, Iksukanda, Iksuvalli, Ksiraviaarika, Iksuparni, Suklakanda, Mahasveta, Iksugandhika. इक्षुपर्णी क्षीरविदारिका बल्या वातापित्तहरा च सा मुाुरा बृंहणी वृष्या शीतस्पर्शाडतिमूत्रला II स्तन्यदोषस्य हरणी पित्तशूलनिषूदनी IDhn ) Ksiravidarika is Balya, Vatapitta hara, Madhura in rasa, Brmhani, Vrshya, Sita, Asparsa, Atimutrala, Stanya dosha haram, Pitta sula nishudani. ज्ञेया क्षीरविदारी च माुराम्ला कषायिका तिक्ता च पित्तशूलघ्नी मूत्रमेहामयापहा JRini Ksira vidari is Maahura, Amla in rasa, Kashayika, Tikta in Rasa, Pitta- Sulaghna, Mutra-Meha amaya hara. पयस्या कुसुमं वृष्यं मुाुरं रसपाकयोः पित्तघ्नं शीतवीर्यं च वातश्लेष्मकरं गुरुः IlKdn) Payasya Kusumam is Vrshya, Madhura, in Rasa ana Paka is Pittaghna, Sita in Virya, Vata Slesma kara ana is Guru. प्रोक्ता क्षीरविदारी तु माुराम्लकषायका वृष्या च शुक्लजननी पुष्टिदुगप्रदा कटुः Ksiraviaari is Madhura, Amla, Kashaya in Rasa, Vrshya, Suklajanani, Pustiaugdha prada ana Katu. रसायनी च वल्या च शीता मूत्रकफप्रदा स्निगा वर्ण्या गुरुः स्वर्या पित्तरुग्रक्तदोषहा पित्तशूलहरा वातादाहजिन्मूत्रमेहजित् ज्ञेया कन्दगुणा ह्यंस्याः सदृशा वल्लिवद्गुणैः Il INir) Vidari is Rasayani, Balya , Sita in Potency , Mutra Kapha praaa, Snigdha Varnya, Guru in Guna, Svarya , Pitt vikara rakta dosha hara, Pitta sula hara, Vata daha Mutra Meha hara. Valli guna is also similar to the guna of Kanda

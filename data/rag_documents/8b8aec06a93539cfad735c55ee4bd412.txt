@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8b8aec06a93539cfad735c55ee4bd412
+Botanical Name: Lagerstroemia indica L.
+Family: Lythraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 25 Vernacular names found in 6 languages. English (2) - crape or crepe myrtle, crepe flower Hindi (4) - har singar, phurush, saoni, telingachina Marathi (2) - joje-mart, vilayatimendi Sanskrit (1) - Sanskrit Comments  siddhesvara Tamil (11) - cinaccamanti, cinappu, katali1, pavala k kurinci, pavalakkurinca, pavalakkurincacceti, pavalakkurinci 1, pavalakkurinji, sinappu, tindiyam, tintiyam Telugu (5) - china, chinaagoranta, chinagoranta, chinnagoranta, cinagoranta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b8aec06a93539cfad735c55ee4bd412
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Siddhesvara
+sanskrit_name: सिद्धेश्वर
+transliteration: siddheśvara
+ref_drug_name: सिद्धेश्वर
+status: Not available
+discussion: Not available
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

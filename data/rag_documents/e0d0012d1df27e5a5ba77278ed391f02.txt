@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e0d0012d1df27e5a5ba77278ed391f02
+Botanical Name: Nymphaea odorata AIT.
+Family: Nymphaeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  raktotpala Tamil (42) - allakam1, calerukam, caupakkiyam, cavikarpavakkoti, cavikarpavam, cenkalunir, cenkuvalai, centonri, ciracenkalunir, cirini, intiva1, irakaciyamakkoti, irakaciyamam, iramapattini1, iramapattinikkoti, irattanalam, irattanati, irattorpalam1, kekkaricam, kentarakam, kuvalayam, kuvantam, murapam, neyccatti1, neytal, nilavamiyam, picumantam1, piramarestam, rommuka, rommukakkuvalai, sengashunir, shengalaneer kalung, tamacenkamalam, tevakantam, tevapucaippu, tevapujaippu, turttayakkoti, turttayam, unampal1, utampal1, utavalli1, viputarkantam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0d0012d1df27e5a5ba77278ed391f02
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0d0012d1df27e5a5ba77278ed391f02
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0d0012d1df27e5a5ba77278ed391f02
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e0d0012d1df27e5a5ba77278ed391f02
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: be2415ffb71cfbb5651d00611a2ffcd7
+Botanical Name: Leptadenia spartium WIGHT
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Gymnema spartium WALL. Leptadenia pyrotechnica DCNE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. Hindi (5) - kheemp, khimp, khimparlo, khimparo, thaliawar Sanskrit (2) - Sanskrit Comments  jivanti, mahameda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be2415ffb71cfbb5651d00611a2ffcd7
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1307
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1307.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be2415ffb71cfbb5651d00611a2ffcd7/xclkon/5016b9a983871816b349f1c158371513
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be2415ffb71cfbb5651d00611a2ffcd7/xclkon/e95d1c53e4ee85cfe5ca77c617b990e1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be2415ffb71cfbb5651d00611a2ffcd7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Prasarani
+sanskrit_name: प्रसारणी
+transliteration: prasāraṇī
+ref_drug_name: प्रसारणी
+status: Accepted source
+discussion: In Rajasthan this species is used as Prasarani
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

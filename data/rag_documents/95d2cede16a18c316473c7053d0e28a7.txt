@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 95d2cede16a18c316473c7053d0e28a7
+Botanical Name: Citrullus lanatus (THUNB.) MATSUMURA & NAKAI var. fistulosus (STOCKS) CHAKRAVARTHY
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Citrullus vulgaris SCHRAD. var. fistulosus STOCKS
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. Hindi (1) - tinda Marathi (5) - bimbi, kondvalli, tendli, tondali, zidadi Sanskrit (1) - Sanskrit Comments  tindisa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95d2cede16a18c316473c7053d0e28a7/xclkon/b8c89765e9605cf96eab8c7d532d6e31
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95d2cede16a18c316473c7053d0e28a7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95d2cede16a18c316473c7053d0e28a7/xclkon/b8c89765e9605cf96eab8c7d532d6e31
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95d2cede16a18c316473c7053d0e28a7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95d2cede16a18c316473c7053d0e28a7/xclkon/b8c89765e9605cf96eab8c7d532d6e31
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

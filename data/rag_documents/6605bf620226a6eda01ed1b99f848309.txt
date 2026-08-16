@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6605bf620226a6eda01ed1b99f848309
+Botanical Name: Hura crepitans L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 4 languages. English (3) - assacu, huru, sand box tree Kannada (2) - retidaani, retidani Tamil (2) - kaatu-amanku, mulla-rasanam Telugu (3) - seema buruga, seemabruga, simaburuga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6605bf620226a6eda01ed1b99f848309
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6605bf620226a6eda01ed1b99f848309
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6605bf620226a6eda01ed1b99f848309
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

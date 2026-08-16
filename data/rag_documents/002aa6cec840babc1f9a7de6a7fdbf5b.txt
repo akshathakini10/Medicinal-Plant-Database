@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 002aa6cec840babc1f9a7de6a7fdbf5b
+Botanical Name: Psilanthus travancorensis (WIGHT & ARN.) LERAY.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Coffea travancorensis WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Malayalam (3) - katu-mulla, puskaramulam, tsjeru-mulla Sanskrit (1) - Sanskrit Comments  puskaramulam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/002aa6cec840babc1f9a7de6a7fdbf5b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/002aa6cec840babc1f9a7de6a7fdbf5b/xclkon/31bc2e86780e96f7454facbac88ebf15
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/002aa6cec840babc1f9a7de6a7fdbf5b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/002aa6cec840babc1f9a7de6a7fdbf5b/xclkon/31bc2e86780e96f7454facbac88ebf15
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/002aa6cec840babc1f9a7de6a7fdbf5b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

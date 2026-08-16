@@ -1,0 +1,119 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f723ab5d64bea1511a90c43317cb5697
+Botanical Name: Luffa acutangula (L.) ROB.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 181 Vernacular names found in 9 languages. English (2) - sing-kwa, sinqua (melon) Hindi (11) - gudari, jinga, kali tori, kali-tori, karvi tori, karvi-tori, sataputitorai, torai, tori, turai, turi Kannada (9) - eere kaayi, heere balli, heere kaayi balli, heere-kai, hire balli, hire kaayi, hirekayi, kadupadagila, kahiheere balli Malayalam (8) - cheru-peeram, djinji, peechhakam, piccil, piccinna, picinna, puichenggah, puttalpiram Marathi (8) - dodaki, dodka, dodke, gomsali, sataputi, shiralla, shirola, turai Sanskrit (43) - Sanskrit Comments  dhamargava, dhamargavah, dhamargowa, dharaphala, dirghaphala, ghantali, ghosa, gramya, jalini, jhingaka, karkashachhada, karkotaki, katukoshataki, kausataki, kesataki, kosataki, koshataki, krishna, kritachhidra, kritavedhana, kritawedhana, krtavedhana, krtavedhanah, kshveda, ksvedah, laghukoshataki, mrdangaphala, mrdangaphalam, mridangaphalika, pitapushpa, rajakosataki, rajakoshataki, rajimatphala, saptaputri, sukosha, supushpa, sushodhani, sutikta, svadukosataki, svaduphala, tikta, tiktakoshataki, turai Tamil (92) - atalai2, atalakkay, atalankay, cakaram, cakati1, cakkarakkoti, cakkaram1, calini1#, canikappuri2, canikappurikkoti, canikkappuri2, catini1, catinikkoti, cattiyam, cinkakam, cittirakunam, curiyanaiyariyappanni, itukal, itukalam, itukali, itukalikkoti, kalalapu, kalapu, kecattiyam, kiritaveni, kirukampali, kirutacittiram, kiruttuvetan, kirutukakkoti, kirutukam, kirutuvetan, kirutuvetanan, kocamam, kocari, kocarppam, kocavati, koccam, kolakakkoti, kolakam2, kolunkiri, kolunkirikkoti, kosam2, kovaritaki1, macukam, makacalini, malinavalli, maruvarikam, maruvarikkoti, mirutankapalam 2, nacukam, nacukatitakkoti, nacukatitam1, narpikkankoti, narpirkku, nilappirkku, pampikai2, patarkay2, patarkaykkoti, patarkoti, peerakai, peerkku, pekankai, peyppichukku, peyppirkam, peyppirkku, picukku, pikangai, pikumkai, pikunkai, pir, pirankoti, pirkkakkoti, pirkkangai, pirkkankay, pirkkankoti, pirkkil, pirkku, pitaputpi 1, racakakkoti, racakam@, tamarakkavam, tamarkkatam, tamarkkatavakkoti, tamarkkavakkoti, tamarkkavam, tamarkkavam1, tikkay, tinpirkku, varippirkku, velakakkoti, velakam, velam 2 Telugu (6) - beera, beerakaaya, beerakaya, birakaya, burkaai, burkai Tibetan (2) - ko sa ta ki, ko-sa-ta-ki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f723ab5d64bea1511a90c43317cb5697
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kosataki
+sanskrit_name: कोशातकी
+transliteration: kośātakī
+ref_drug_name: कोशातकी
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Kosataki
+sanskrit_name: कोशातकी
+transliteration: kośātakī
+ref_drug_name: कोशातकी
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Kosataki
+sanskrit_name: कोशातकी
+transliteration: kośātakī
+ref_drug_name: कोशातकी
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Kosataki catustaya
+sanskrit_name: कोशातकी चतुष्टय
+transliteration: kośātakī catuṣṭaya
+ref_drug_name: कोशातकी
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 5
+drug_name: Kosataki catustaya
+sanskrit_name: कोशातकी चतुष्टय
+transliteration: kośātakī catuṣṭaya
+ref_drug_name: कोशातकी
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 6
+drug_name: Kosataki catustaya
+sanskrit_name: कोशातकी चतुष्टय
+transliteration: kośātakī catuṣṭaya
+ref_drug_name: कोशातकी
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Krtavedhana
+sanskrit_name: कृतवेधन
+transliteration: kṛtavedhana
+ref_drug_name: कृतवेधन
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 8
+drug_name: Krtavedhana
+sanskrit_name: कृतवेधन
+transliteration: kṛtavedhana
+ref_drug_name: कृतवेधन
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

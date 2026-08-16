@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b9a69bd5211ea41e8e39f7091dba3636
+Botanical Name: Salicornia brachiata ROB.
+Family: Chenopodiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 4 languages. Kannada (1) - havalada gida Malayalam (2) - umari, umari keerai Tamil (19) - alattu, alattucceti, cirrumari, ciruvumari, katalatikam, katalatitacceti, kattumari, kauripantacceti, kauripantam, kolliyam, konraivaruti, konraivaruticceti, pavalappuntu, umari keerai, umaricceti, umaripputu, umiri, umuri, umuricceti Telugu (6) - barillakoyalu, koyalu, koyyalu, quoioo, saakantipusalu, sakantipusalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9a69bd5211ea41e8e39f7091dba3636
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9a69bd5211ea41e8e39f7091dba3636
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9a69bd5211ea41e8e39f7091dba3636
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

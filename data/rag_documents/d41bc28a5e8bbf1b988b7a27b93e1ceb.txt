@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d41bc28a5e8bbf1b988b7a27b93e1ceb
+Botanical Name: Pavetta indica L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 123 Vernacular names found in 7 languages. Hindi (6) - angari, kankra, karnikara, kathachampa, padera, papari Kannada (20) - adavarai, adayaara, adayala, chitamitla, chitamutakalu, chitmitki, haavumekke gida, nidle, nitile, paapate, pappadi, patta, pavatay, pavate, pavati, soolebottu gida, sulay-bottu-gida, sulebottu, tharani gida, yedle Malayalam (8) - malleamothe, malleamothi, mallikamuti, patta, pavatakodi, pavatta, pavetta, yedle Marathi (5) - chitamitake, kakra, papadi, phapti, sitmataki Sanskrit (7) - Sanskrit Comments  carnicara, kakachedi, papata, paphanah, pappana, tiriakphala, tiryakphala Tamil (39) - araniya, canni, cukkanaiccattakki, intirepam, intireyam, kapamakarri, karanai, karanaippavattai, kattukkaranai, kuttuppukiyacceti, kuttuppukiyam, makatosanikki, mantattaiyarukki, nattalaicceti, nattalaivairavan, nattali, panaviruttam, parpanam#, parpanam@, parppanam, pavatai, pavattai, pavattan, pavattankam, pavetta, pavuttay vayr, pavuttayvayr, peramalli, tiranaicceti, tollukam, tovacalukam, tovalika, tovalikacceti, tumakani, vellaippavattai, vellaippavattaicceti, verunai, verunai#, verunai@ Telugu (38) - duyipaapata, duyipapata, kondapaapata, kondapapari, kondapapata, kondapipidi, lakkapaapidi, lakkapapidi, manchipaapata, manchipapidi, mancipapata, manjipapata, naama paapata, nallapaapidi, nallapapidi, namapapata, nampapoota, noonepaapata, noonipapoota, nunepapata, paapata kommi, papadi, papata, papatakammi, papatakommi, papatta, papidi, papiri, papiti, paputa, paputta, paputta vayru, parpiri, pavetta, tapra, tellapapata, thellapaapata, thellapapidi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d41bc28a5e8bbf1b988b7a27b93e1ceb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d41bc28a5e8bbf1b988b7a27b93e1ceb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d41bc28a5e8bbf1b988b7a27b93e1ceb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d41bc28a5e8bbf1b988b7a27b93e1ceb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

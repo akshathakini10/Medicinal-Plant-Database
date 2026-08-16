@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3a4923c2765cc4258e9d72b856df7252
+Botanical Name: Iris germanica L.
+Family: Iridaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. Malayalam (1) - puskaramulam Sanskrit (5) - Sanskrit Comments  haimavati, mulam, padma-pushkara, parasikavaca, puskaramulam Tibetan (1) - su dag dkar po
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4923c2765cc4258e9d72b856df7252
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1217
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1217.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4923c2765cc4258e9d72b856df7252
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4923c2765cc4258e9d72b856df7252
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4923c2765cc4258e9d72b856df7252
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a4923c2765cc4258e9d72b856df7252
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Haimavati - prajati
+sanskrit_name: हैमवती प्रजाति
+transliteration: haimavatī prajāti
+ref_drug_name: हैमवती प्रजाति
+status: Accepted source
+discussion: This variety is imported from Iran but now cultivated in Kashmir
+reference: [3]
+
+Identity Record 2
+drug_name: Vaca - jati
+sanskrit_name: वचा जाति
+transliteration: vacā jāti
+ref_drug_name: वचा जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Vaca - sveta
+sanskrit_name: वचा श्वेता
+transliteration: vacā śvetā
+ref_drug_name: वचा श्वेता
+status: Suggested source
+discussion: This species may be identified as its source
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

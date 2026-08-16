@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9dc2df606409c7cc811a085ecf32488a
+Botanical Name: Cardiocrinum giganteum (WALL.) MAK.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lilium giganteum WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Hindi (3) - , giotia, giotira
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc2df606409c7cc811a085ecf32488a/xclkon/7a5f33688ebe8021e378c747398be2c0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc2df606409c7cc811a085ecf32488a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dc2df606409c7cc811a085ecf32488a/xclkon/7a5f33688ebe8021e378c747398be2c0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

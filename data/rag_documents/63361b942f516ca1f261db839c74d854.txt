@@ -1,0 +1,98 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 63361b942f516ca1f261db839c74d854
+Botanical Name: Calophyllum inophyllum L.
+Family: Clusiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 149 Vernacular names found in 8 languages. English (5) - alexandrian laurel, borneo mahogany, domba oil, pinnay oil, tongan oil Hindi (8) - sultana-champa, sultanachampa, sultanah-champa, sultanchampa, surpan, surpunika, surpunka, undi Kannada (34) - hona, honne, honne kaayi mara, honnu, hoo home, hoo honne, huhome, huhonne, kallu honne, koove mara, mara, naameru mara, namaeru, nameru, nameyru mara, ooma mara, pinekai, pinnai, pinnaykai, ponne, ponneda, ponnekayi, srihonne, sudaabu mara, sura honne, suraganne-mara, suragonne, surahonnae, surahonne, surhonne, uma, voma, vuma, wuma Malayalam (12) - betan, ceruppuna, cerupunna, cherupinna, cherupuna, cherupunna, pine, ponna, ponnakam, ponnakum, pouna, punna Marathi (8) - nagchampa, pumag, surangi, undag, undela, undi, ungam, wundi Sanskrit (7) - Sanskrit Comments  namaeruak, panchakaeshera, punnaga, punnagah, punnagavrikshaha, punnaman, tunga Tamil (56) - arttakecam, cayantakam, cayantakamaram, cimmantacikam, culetam, culetamaram, curalam, cuvetputpakam, kecaram2, kopikakitam, kopikakitamaram, koppika, koppikamaram, kukattal, kuruntutikam, kuruntutikamaram, macarrapattiram, makapucurapi, makapucurpimaram, matukatitam, matukatitamaram, murunkai#, nagam, nakam, nakam4, nameru, nameru2, narruti2, patalatturumam, patumakecaram, pillaicceti, pinmai, pinnai, pinnai 2, pinnay unnay, pitataru 2, pitatarumaram, punnacam, punnacamaram, punnagam, punnagum, punnai, punnai-maram, punnaivirai, punnakam, purusa akacciyam, purusam, purutaki, purutakimaram, purutam, tamalai, tankakecaram, tevali, tevalimaram, vacanaikkenti, viranankalkustampokki Telugu (19) - naameru, nameru, ponna, ponna chettu, ponna vithulu, ponna-chettu, ponnachettu, ponnavittulu, poona, poonas, poone, pouna, pumagamu, puna, punas, punna, punnaagamu, punnaga, punnagamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 408
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/408.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/63361b942f516ca1f261db839c74d854
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+ref_drug_name: नागकेशर
+status: Substituted source
+discussion: At present this is used as a substitute
+reference: [1]
+
+Identity Record 2
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+ref_drug_name: नागकेशर
+status: Substituted source
+discussion: At present this is used as a substitute
+reference: [1]
+
+Identity Record 3
+drug_name: Punnaga
+sanskrit_name: पुन्नाग
+transliteration: punnāga
+ref_drug_name: पुन्नाग
+status: Accepted source
+discussion: Three species are being used as Nagakesara; Punnaga which is correlated to this species is one among them to be used as Nagakesara
+reference: [5]
+
+Identity Record 4
+drug_name: Punnaga
+sanskrit_name: पुन्नाग
+transliteration: punnāga
+ref_drug_name: पुन्नाग
+status: Most probable
+discussion: Punnaga is mostly correlated to this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+image_urls: https://www.medicinalplants.in/slokaimages/1099/1099_1.jpg https://www.medicinalplants.in/slokaimages/1099/1099_2.jpg https://www.medicinalplants.in/slokaimages/1099/1099_3.jpg https://www.medicinalplants.in/slokaimages/1099/1099_4.jpg
+ocr_text: नाग गकेसरमल्पोष्णं लघु तिक्तं कफापहम्| बस्तिवातामयघ्नञ्च कण्ठशीर्षरुजापहम् IRin) Nagakesara is tikta in rasa, laghu in guna, alposna in virya, alleviates kapha, cures vasti vatamaya, kantha sirsa ruja. केसरं विषविसर्परक्तर्शोवमिकुष्ठहृत् हृल्लासवमिदौर्गन्ध्यतृष्णापित्तबलासजित् | (ग.नि) Kesara cures visa, visarpa, rakta vami, kustha, hrilasa, vami, daurganahya, trsna, pitta balasa arsa , and नागपुष्पं कषायोष्णं रूक्षं लघ्वामपाचनम्| ज्वरकण्डूतृषास्वेदच्छर्दिहृल्लासनाशनम् दौर्गन्धकुष्ठवीसर्पकफपित्तविषापहम् IBpnl Nagapuspa is kashaya in rasa, ruksa, laghu in guna, usna in veerya, ama pacana, alleviates jvara , kandu, trsha, sveda, chardi and hrllasa. उष्णं, रूक्ष, नागपुष्पं कषायं तृष्णाच्छर्द्दिश्लेष्मनातप्रमाथि|| तसि॰ भे.म॰ Nagakesara is kashaya in rasa, ruksa in guna, usna in veerya, is pramathi, alleviates trsna, chardi and slesma
+
+Shloka Record 2
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+image_urls: https://www.medicinalplants.in/slokaimages/1099/1099_1.jpg https://www.medicinalplants.in/slokaimages/1099/1099_2.jpg https://www.medicinalplants.in/slokaimages/1099/1099_3.jpg https://www.medicinalplants.in/slokaimages/1099/1099_4.jpg
+ocr_text: नाग गकेसरमल्पोष्णं लघु तिक्तं कफापहम्| बस्तिवातामयघ्नञ्च कण्ठशीर्षरुजापहम् IRin) Nagakesara is tikta in rasa, laghu in guna, alposna in virya, alleviates kapha, cures vasti vatamaya, kantha sirsa ruja. केसरं विषविसर्परक्तर्शोवमिकुष्ठहृत् हृल्लासवमिदौर्गन्ध्यतृष्णापित्तबलासजित् | (ग.नि) Kesara cures visa, visarpa, rakta vami, kustha, hrilasa, vami, daurganahya, trsna, pitta balasa arsa , and नागपुष्पं कषायोष्णं रूक्षं लघ्वामपाचनम्| ज्वरकण्डूतृषास्वेदच्छर्दिहृल्लासनाशनम् दौर्गन्धकुष्ठवीसर्पकफपित्तविषापहम् IBpnl Nagapuspa is kashaya in rasa, ruksa, laghu in guna, usna in veerya, ama pacana, alleviates jvara , kandu, trsha, sveda, chardi and hrllasa. उष्णं, रूक्ष, नागपुष्पं कषायं तृष्णाच्छर्द्दिश्लेष्मनातप्रमाथि|| तसि॰ भे.म॰ Nagakesara is kashaya in rasa, ruksa in guna, usna in veerya, is pramathi, alleviates trsna, chardi and slesma
+
+Shloka Record 3
+drug_name: Punnaga
+sanskrit_name: पुन्नाग
+transliteration: punnāga
+image_urls: https://www.medicinalplants.in/slokaimages/300/300_1.jpg https://www.medicinalplants.in/slokaimages/300/300_2.jpg
+ocr_text: पुरुषाख्योरक्तवृक्षःपुन्नागोदेववल्लभः h [ Purushakhya, rakta vrksha, punnaga, devavallabha are the synonyms of punnaga. पुन्नागोमधुरःशीतःसुगन्धिःपित्तनाशकृत् [ देवप्रसादजनकोरक्तरुग्रक्तपित्तजित्| कफंपित्तंभूतबाधांनाशयेदितिकीर्तितम् पुष्पंवृष्यंवातशूलकफदोषाञ्जायत्यलम् नमेरुस्तिक्तपुन्नागादधिकश्चगुणैःस्मृतः (Nir) Punnaga is madhura in rasa, sita in veerya, sugandhi, devaprasaaajana, destroys pitta, kapha, pittabhuta baaha, alleviates rakta, rug and raktapitta, Puspa is vrshya, alleviates vata, sula and kapha dosha Nameru is tikta in rasa, and more potent than punnaga

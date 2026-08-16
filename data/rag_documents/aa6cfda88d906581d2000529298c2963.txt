@@ -1,0 +1,74 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: aa6cfda88d906581d2000529298c2963
+Botanical Name: Cinnamomum camphora (L.) PRESL
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Camphora officinarum NEES. E WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 104 Vernacular names found in 10 languages. English (2) - camphor, ho wood Hindi (1) - kapur Kannada (14) - candra, chandara, davala, dhavala, kappara, kapura, karpoora, karpoorada mara, karpura, kumuda, kumuda dhavala, paccakarpura, pachakarpura, tuhina Malayalam (10) - cutakkarpuram, ghanarasam, himamsu, himavaluka, karpooram, karppuravriksham, karppuravryksham, karpuram, sitamsu, subhramsu Marathi (2) - kapoora, kapur Sanskrit (19) - Sanskrit Comments  candra, candraprabha, chandrahba, gandhadravya, ghanasara, ghanasaraka, ghansar, ghausar, hima, himahva, himavaluka, indu, karpoor, karpura, karpurah, sasi, sitalaraja, sitasiva, tusargaur Tamil (27) - cudan, cukantama, cukantamaram, indu, intu 2#, intu 2@, kadalichi, kanasaram, kaphoor, karpooram, karpooran-cheena, karppura maram, karppuram, karpuram, karpuramaram, karuppuram, karuppuramaram, karupuram, kirasemiram, kuruvukkodi, pacchai karpoonam, pachai karpooram, pachaikarpooram, palidam, palitam, palugam, sudam Telugu (25) - candramu, candrasanguyamu, chandramu, chandrasanguyamu, cheen karpooram, gambura, gamburam, gamburamu, gamuburamu, ghanasaramu, hemavaluka, hemavyayamu, himavaluka, himavyayamu, kappooramu, kappuramu, kapuramu, karpooramu, karpuramu, nn, pacha karpooram, seethaabhramu, shandrasanguyamu, sitabhramu, sitakaramu Tibetan (2) - ga bu ra, ga bur Urdu (2) - kafoor, kafur
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963/xclkon/94e98599a3e70f6c14ef24b9bd5bb623
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963/xclkon/94e98599a3e70f6c14ef24b9bd5bb623
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963/xclkon/94e98599a3e70f6c14ef24b9bd5bb623
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963/xclkon/94e98599a3e70f6c14ef24b9bd5bb623
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963/xclkon/94e98599a3e70f6c14ef24b9bd5bb623
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963/xclkon/94e98599a3e70f6c14ef24b9bd5bb623
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa6cfda88d906581d2000529298c2963
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karpura
+sanskrit_name: कर्पूर
+transliteration: karpūra
+ref_drug_name: कर्पूर
+status: AS
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Karpura
+sanskrit_name: कर्पूर
+transliteration: karpūra
+image_urls: https://www.medicinalplants.in/slokaimages/403/403_1.jpg https://www.medicinalplants.in/slokaimages/403/403_2.jpg https://www.medicinalplants.in/slokaimages/403/403_3.jpg
+ocr_text: कर्पूरं कटु तिक्तं च मधुरं शिशिरं तृणमेदोविषदोषघ्नं चक्षुष्यं मदकारकम् | IDhn) Karpuram is katu, tikta, maahura in rasa, sisira in veerya, caksushya, inauces mada, cures trna, meda and visa विदुः | कर्पूरः शीतलो वृष्यश्चक्षुष्यो लेखने लघुः | मधुरस्तिक्तः कफपित्तविषापहः | | दाहतृष्णास्यवैरस्यमेदादौर्गन्ध्यनाशनः | कर्पूरो द्विविधो प्रोक्तॉः पक्वापकावप्रभेदतः | | पक्वात्कर्पूरतः प्राहुरपक्वं गुणवत्तरम् IBpn) Karpura is madhura, tikta in rasa, laghu in guna, sita in veerya, vrsyam, surabhi, caksushyam, lekhanam, alleviates kapha ana pitta, cures visa aaha, trsna, asya vairasya, meda and daurgandhya. It is of two typesः pakva and apakva and pakvam is effective. सुरभिः कर्पूरं शीतलं पाके चक्षुष्यं कफनाशनम् पक्वकर्पूरतः प्राहःडपक्वं गुणवत्तरम्| | राजवल्लभः | Karpuram is sitalam, paka, caksuhyam, destroys kapha. Pakvam is effective than apakvam.

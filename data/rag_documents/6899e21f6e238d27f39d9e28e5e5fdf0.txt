@@ -1,0 +1,88 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6899e21f6e238d27f39d9e28e5e5fdf0
+Botanical Name: Clerodendrum serratum (L.) MOON
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 152 Vernacular names found in 9 languages. Hindi (6) - ban bakri, banbakri, barangi, bharangi, bhurangi, gant-baharangi Kannada (13) - bhaarangi, bharangi, gantibharangi, gantu barangi, gantu bhaarangi, gantubarangi, kari thekki, kiri thaggi, kiri thaggi gida, kiritekki, kiriteku, kirrudegu, neeru seenina gida Malayalam (14) - cerutekku, cheru-tekka, cherutekku, cheruteku, chinteku, cintita, kanta-bharanni, kantabharngi, kantabharnni, kantani, kondane, napalu, tsjerou-theka, tsjeruteka Marathi (5) - barang, bhaarangi, bharangi, domb-saylo, ganthu baarangi Sanskrit (47) - Sanskrit Comments  angaravallari, angaravalli, baleya, barbara, bhandi, bhangri, bharangi, bhargaka, bhargavi, bhargi, bharngi, bhramareshta, bhrigubhava, bhriguja, bhringaja, brahmanayastika, brahmani, brahmayastika, brahmini, bramhanayashtika, bramhani, bramhi, bramhika, durva, dvidandi, dvijayastika, gardabhashaka, hanjika, kalingavalli, kasaghni, kasajita, kharasaka, kharasakah, kharashaka, mukhadhanta, padama, padma, phanji, phanjika, shakramata, svarupa, valeyashaka, vantari, varddhaka, varvara, vatari, yashti Tamil (43) - angaravalli, cacakkini, cakancam, caleyanam1, canmulikai, cheruteku, chirudekku, cikarittekku, ciru tekku, cirutekku, ciruthekku, kacakkini, kaittekku, kaittekkumaram, kandu barangi, kandubarangi, kanduparanji, kantikai, kantu paranki, kantumulam1, kantuparanki, kantuparanki1, kantuparanki@, kattuttekku, nantakari, narivalai1, nitiyavam, nitiyavamaram, nuvalam, nuvalamaram, parkkavi 1, pirapavam, pullaikamaram, pullikam, punrekku, shirutek, sirutekku, siruthekku, tiranikkam, tiranikkamaram, vaadamadakki, vatacurampokki, vatamatakki 1 Telugu (19) - baarangi, banal chettu, barangi, bharangi, bhramaramari, bommanamarri, chiriteka, chiruteka, ciruteka, ciruteku, gandu-bharangi, gantubaarangi, gantubarangi, gantubharangi, ghantubharangi, gunta barangi, neta, panja, suvvipi Tibetan (3) - bha-rgi, ga bra i rtsa ba, ga brai rtsa ba Urdu (2) - baharangi, baharangi (bharangi)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 585
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/585.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6899e21f6e238d27f39d9e28e5e5fdf0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhandi
+sanskrit_name: भण्डी
+transliteration: bhaṇḍī
+ref_drug_name: भण्डी
+status: Most probable
+discussion: This species is used by adivasis (tribals) in case of bone related disorders; The word 'Haddiyan' (bone) is used for 'Bhandi' and hence the correlation can be most probable
+reference: [5]
+
+Identity Record 2
+drug_name: Bhargaka
+sanskrit_name: भार्गक
+transliteration: bhārgaka
+ref_drug_name: भार्गक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Bharngi
+sanskrit_name: भार्ङ्गी
+transliteration: bhārṅgī
+ref_drug_name: भार्ङ्गी
+status: Accepted source
+discussion: Bharngi is correlated to this species
+reference: [2]
+
+Identity Record 4
+drug_name: Bharngi
+sanskrit_name: भार्ङ्गी
+transliteration: bhārṅgī
+ref_drug_name: भार्ङ्गी
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bharngi
+sanskrit_name: भार्ङ्गी
+transliteration: bhārṅgī
+image_urls: https://www.medicinalplants.in/slokaimages/444/444_1.jpg https://www.medicinalplants.in/slokaimages/444/444_2.jpg https://www.medicinalplants.in/slokaimages/444/444_3.jpg https://www.medicinalplants.in/slokaimages/444/444_4.jpg
+ocr_text: भार्गी स्यात् स्चरसे तिक्ता चोष्णा श्वासकफापहा गुल्मज्वरासृग्वातघ्नी यक्ष्माणं (Dhn) Bhargi svarasa is tikta rasa usna in veerya, $!2$2 kapha hara cures gulma, jvara, asrg vata yaksma and pinasa पीनसम् भार्गी तु कटुतिक्तोष्णा कासश्वासविनाशनी शोफव्रणकृमिघ्नी च दाहज्वरनिवारिणी II (Rjn ३) Bhargi is katu, tikia in rasa usha in veerya cures kasa, svasa, sopha vrana krmi and daha jvara भार्गी रूक्षा कटुस्तिक्ता रुच्योष्णा पाचनी लघुः दीपनी तुवरा गुल्मरक्तनुन्नाशयेत् ध्रुवम् |l शोथकासकफश्चकासपीनसज्वरमारुतान् (Bpn) Bhargi is katu tikta tuvara in rasas laghu ruksa in guna, rucya, usna, pacani dipani cures gulma rakta sotha, kasa, kapha, svasa, pinasa ivara and marurta पर्णमस्याः ज्वरं दाहं हिक्कां दोषत्रयं हरेत् I (Nir) Its leaves are beneficial for jvara daha, hikka vitiation Of three doshas and

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ff906fd185757728cd06b78db34d6ab8
+Botanical Name: Lupinus albus L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. English (1) - egyptian or white lupin Kannada (1) - loopin kaalu Urdu (2) - turmus, turmuz
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff906fd185757728cd06b78db34d6ab8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff906fd185757728cd06b78db34d6ab8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff906fd185757728cd06b78db34d6ab8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

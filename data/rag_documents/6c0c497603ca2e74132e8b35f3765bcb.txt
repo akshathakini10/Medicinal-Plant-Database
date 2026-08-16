@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6c0c497603ca2e74132e8b35f3765bcb
+Botanical Name: Eranthemum roseum R.BR.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Daedalacanthus roseus T. ANDERS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. Hindi (1) - gulsham Marathi (3) - dasamuli, dashmuli, ran-aboli Tamil (1) - nilamulli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0c497603ca2e74132e8b35f3765bcb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0c497603ca2e74132e8b35f3765bcb/xclkon/d9211f44915f3a0bb07ce528cabcfb7a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c0c497603ca2e74132e8b35f3765bcb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

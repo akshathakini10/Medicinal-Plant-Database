@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 290f639bc5f19896b8fe3fa7901d194e
+Botanical Name: Cassia sophera L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 104 Vernacular names found in 7 languages. Hindi (10) - alo, banar, bas-ke-kasondi, bas-ki-kasunda, baskikasondi, kasaundi, kasondi, kasunda, kasundi, rawasan Kannada (10) - aalavari, alloori gida, alvari, ekahuri, elabadige, elavarige, kaasamarda, kasamarda, kulakaasina, yela huri Malayalam (9) - ponnam-tagera, ponnam-takara, ponnamtagera, ponnamtaghara, ponnantagara, ponnantakara, ponnaviram, pontakara, pounantakara Marathi (8) - alphuli, arphuli, kaalaakaasa vindaa, kasodi, ran-tankala, ran-tikta, rantankala, ranthankala Sanskrit (6) - Sanskrit Comments  kasamarda, kasamardah, kasamardaka, kasaripu, suvarnamayahari, talapota Tamil (39) - amperuntakarai, centakarai, centakaraicceti, culal, culalavarai, culalavirai, cularai, cutalavirai, cutaravirai, kapikantacceti, kapikantavam, maikkonrai, nalal, nalal1, nalalvirai, nalamattu, nanamatu, pera-virai, peravirai, peria thagarai, peria-takanai, periya takarai, periya-takarai, periyadagarai, ponavarai, ponaverie, ponna-virai, ponnampu 2, ponnavarai, ponnavarai 2, ponnavaram 2#, ponnavaram 2@, ponnavirai, pulappu, pulipam, pulippavirai, pulippaviraicceti, sularai, vamacukkilam Telugu (22) - condakashinda, kaasamardakamu, kasamadakamu, kasamardakamu, kasamardhakamu, kommukasinta, konda kasinda, kondakashinda, kondakasinda, nitty kashinda koora, noothikashinda, nuti-kashindha, nutikasinda, paidi tangedu, paidi-tangaedu, paiditangedu, paidithangedu, peyadutangedu, pydeetanghedu, tagara, tagara-chettu, tagirise
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/290f639bc5f19896b8fe3fa7901d194e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 471
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/471.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/290f639bc5f19896b8fe3fa7901d194e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/290f639bc5f19896b8fe3fa7901d194e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/290f639bc5f19896b8fe3fa7901d194e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/290f639bc5f19896b8fe3fa7901d194e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kasamarda - jati
+sanskrit_name: कासमर्द जाति
+transliteration: kāsamarda jāti
+ref_drug_name: कासमर्द जाति
+status: AS
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

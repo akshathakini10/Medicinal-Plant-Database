@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4c0301ec9018beefcbe8e6b16f3537b5
+Botanical Name: Acalypha indica L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 168 Vernacular names found in 8 languages. English (1) - indian acalypha Hindi (7) - khokali, khokla, khokli, kholi, kuppi, kuppikhokli, kuppu Kannada (9) - chal maari, chalmari, jalamali, kuppi, kuppi gida, kuppigida, kuppunte soppu, neeli gida, thuppa keere Malayalam (5) - cupameni, kuppa-mani, kuppaman-cheti, kuppamani, kuppameni Marathi (13) - khajoti, khojoti, khokalee, khokali, khokla, khokli, kupameni, kupi, kuppi, mamjarshejari, petari, pitari, shendri Sanskrit (8) - Sanskrit Comments  aristamanjari, arittamanjarie, arittamunjari, arittamunjariye, arittamunjayrie, haritamanjari, manshinka, muktavarcca Tamil (105) - akam 1, akkiniccalam, akkiniccivam, akkinicivam, anantakacceti, anantakam, anantam 4, ankuram, antakam, antakameni, antakamenicceti, arimancari, atikamenicceti, cailameni, cailamenicceti, cakkaraputpacceti, cakkaraputpam, cakkaraputpi, cakkiraputpi, cakkiraputpi#, cakkiraputpi@, canakkimeni, canakkimenicceti, cekamurukameni, civantirevatacceti, civantirevatam, civappukkantika, civappukkantikacceti, cukatukkam, cukatukkamirantariyumilai, curupanati, inkaracceti, inkaram, intiraimeni, intiraimenicceti, kalakalakkiniyanon, kalakkiniyon, kariyariyuritton, katippankicceti, katippankikam, kattukkan 2, kolippu, kolippuntu, kolipputu, kolirpuntu, kolitameni, kolitamenicceti, koopamaynie, kumari 3, kupamani, kuppai meni, kuppai-meni, kuppaimeni, kuppaman#, kuppamani, kuppamani@, kuppaveni, kuppikkentam, kuppivaeni, mankariyan, marcalamokini, mayakanni, mayilam, mayilameni, mayilamenicceti, menakaivari, meni, meniyilaicceti, munrilaimeni, munrilaimenicceti, muraimacakki, muraimayakki, muraimayakkicceti, muvilai, naciyari, naciyarimenicceti, otuvatakki, payilikam, payilimenicceti, payiliyam, payiravi, payliyam, poonai vanangi, punai vananki, punaippakai, punaippakaicceti, punaivanankicceti, puti, tanivalipperumal, tanivalli, tanivallicceti, tekaram, teruvilalakai, teruvilalaki, tiripuramerittan, tirumenikantan, tirumeniyalaki, tirumeniyalakicceti, toluritton, valakkonnai, valapparuti, vetakkinikumaram, vicuvakappiyam, vinaivika, vinaivikacceti Telugu (20) - harita-manjari, harita-manjiri, harithamanjari, kupichettu, kupintaku, kuppaichettu, kuppante chettu, kuppi-chettu, kuppichettu, kuppinta or muripindi, kuppintaaku, kupppinta, muripinda, muripindi, murkandachettu, murkondachettu, murukonda-chettu, murupindi, puppante, puppanti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0301ec9018beefcbe8e6b16f3537b5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 39
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/39.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0301ec9018beefcbe8e6b16f3537b5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0301ec9018beefcbe8e6b16f3537b5
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0301ec9018beefcbe8e6b16f3537b5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0301ec9018beefcbe8e6b16f3537b5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

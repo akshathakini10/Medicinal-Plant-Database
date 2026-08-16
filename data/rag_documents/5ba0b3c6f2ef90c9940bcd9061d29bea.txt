@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5ba0b3c6f2ef90c9940bcd9061d29bea
+Botanical Name: Aconitum napellus L.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 8 languages. Hindi (3) - bachnag, mithavis, mithazahar Malayalam (1) - vatsanabhi Marathi (2) - bachnaag, vachnaag Sanskrit (6) - Sanskrit Comments  amrta, vatsanaba, vatsanabha, visa, visha, vistsanabhah Tamil (5) - cimainapi, circatacceti, napi, vasanavi, vashanavi Telugu (4) - athivasa, naabhi, vasanaabhi, vasanumbhi Tibetan (3) - bi sa, btsan dug, nag po Urdu (7) - bachnanak, barmalees, bas, beesh, beesh (mitha zahar,atees), bheesh, meetha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ba0b3c6f2ef90c9940bcd9061d29bea
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ba0b3c6f2ef90c9940bcd9061d29bea
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ba0b3c6f2ef90c9940bcd9061d29bea
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ba0b3c6f2ef90c9940bcd9061d29bea
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ba0b3c6f2ef90c9940bcd9061d29bea
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ba0b3c6f2ef90c9940bcd9061d29bea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

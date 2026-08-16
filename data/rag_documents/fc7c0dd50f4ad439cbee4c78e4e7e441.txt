@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fc7c0dd50f4ad439cbee4c78e4e7e441
+Botanical Name: Aquilaria khasiana HALLIER
+Family: Thymelaeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fc7c0dd50f4ad439cbee4c78e4e7e441
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fc7c0dd50f4ad439cbee4c78e4e7e441
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

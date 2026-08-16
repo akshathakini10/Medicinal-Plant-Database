@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9efab849bb23de2e080315ec05d60f78
+Botanical Name: Ceriops tagal C.B. ROBINSON
+Family: Rhizophoraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ceriops candolleana ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. Kannada (2) - chowri, kiraari Malayalam (2) - ankandal, ankantal Tamil (1) - pandikutti Telugu (3) - gadara, gatharu, gedera
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9efab849bb23de2e080315ec05d60f78
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9efab849bb23de2e080315ec05d60f78/xclkon/12e2c0ae2ddc41f90066074e2f4485f3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9efab849bb23de2e080315ec05d60f78
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 93518f240ef096d5a6df872d11cab36c
+Botanical Name: Salix caprea L.
+Family: Salicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 5 languages. English (4) - goat willow, kilmarnock willow, pussy or goat willow, pussy willow Hindi (2) - bed-mushk, bedmushk Sanskrit (6) - Sanskrit Comments  jalavetasa, vajjula, vanjula, varnara, vetasa, vidula Tibetan (1) - lcan ma Urdu (3) - arq baid mushk, bed mushk, gul baid mushk
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93518f240ef096d5a6df872d11cab36c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93518f240ef096d5a6df872d11cab36c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93518f240ef096d5a6df872d11cab36c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93518f240ef096d5a6df872d11cab36c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vetasa
+sanskrit_name: वेतस
+transliteration: vetasa
+ref_drug_name: वेतस
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Vetasa
+sanskrit_name: वेतस
+transliteration: vetasa
+ref_drug_name: वेतस
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Vetasa
+sanskrit_name: वेतस
+transliteration: vetasa
+ref_drug_name: वेतस
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Vetasa
+sanskrit_name: वेतस
+transliteration: vetasa
+ref_drug_name: वेतस
+status: Suggested source
+discussion: This species may be treated as a variety of it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

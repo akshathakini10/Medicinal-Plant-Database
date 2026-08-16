@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e22e0dc725df3b12dc3a69b30f15b9aa
+Botanical Name: Enhydra fluctuans LOUR.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Enhydra fluctuns LOUR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 2 languages. Hindi (2) - harkuch, haruch Sanskrit (16) - Sanskrit Comments  achari, bramhi, chakrangi, helanchi, hilamochika, himamocika, jalabramhi, mambi, matsyakshi, matsyangi, mochi, rochi, sasasrutih, shankhadhara, trinittaparni, vishaghni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e22e0dc725df3b12dc3a69b30f15b9aa/xclkon/62d1156ccc1a167e8f04339a4b837c6b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e22e0dc725df3b12dc3a69b30f15b9aa
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e22e0dc725df3b12dc3a69b30f15b9aa/xclkon/62d1156ccc1a167e8f04339a4b837c6b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e22e0dc725df3b12dc3a69b30f15b9aa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e22e0dc725df3b12dc3a69b30f15b9aa/xclkon/62d1156ccc1a167e8f04339a4b837c6b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Hilamocika
+sanskrit_name: हिलमोचिका
+transliteration: hilamocikā
+ref_drug_name: हिलमोचिका
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 2
+drug_name: Matsyaksaka
+sanskrit_name: मत्स्याक्षक
+transliteration: matsyākṣaka
+ref_drug_name: मत्स्याक्षक
+status: Accepted source
+discussion: Thakur Balwant Singh has identified it with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Matsyaksaka
+sanskrit_name: मत्स्याक्षक
+transliteration: matsyākṣaka
+ref_drug_name: मत्स्याक्षक
+status: Most probable
+discussion: Bhavamisra identifies it with Enhydra fluctuans which has functions similar to that of Matsyaksaka
+reference: [1]
+
+Identity Record 4
+drug_name: Sakuladani
+sanskrit_name: शकुलादनी
+transliteration: śakulādanī
+ref_drug_name: शकुलादनी
+status: Accepted source
+discussion: Caraka and Vagbhata have mentioned this among the 'Saka varga' (group of vegetables); In their commentary Cakrapani and Arundatta have considered this as 'Katuka' but 'Katuka' is not a well known Saka but instead its tuber is widely used in medicines; Katuka has been mentioned in different varga (group) in Caraka so its a different drug when equated with 'Sakuladani'; 'Sakuladani' is a vegetable and found near water and its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

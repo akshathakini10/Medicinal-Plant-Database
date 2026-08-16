@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dd714a2fc3a5a3f503726b20f90f1c28
+Botanical Name: Alpinia zerumbet BURTT & R.M. SM.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Alpinia speciosa K.SCHWM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 5 languages. English (1) - shell ginger Kannada (4) - dumaraasme, dumbaraashtaka, dumbaraasme, dumbarashtaka Marathi (2) - nag-damani, puna-champa Sanskrit (1) - Sanskrit Comments  sthulagranthi Tamil (4) - chitharaththai, cirraraddai, cirrarattai, sittarattai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28/xclkon/af4cf18cffbff17956de0e3d1171d419
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28/xclkon/af4cf18cffbff17956de0e3d1171d419
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28/xclkon/af4cf18cffbff17956de0e3d1171d419
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28/xclkon/af4cf18cffbff17956de0e3d1171d419
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd714a2fc3a5a3f503726b20f90f1c28
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0962f5fd820d78f9cb394bb693d58d3e
+Botanical Name: Fagraea ceilanica THUNB.
+Family: Loganiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Fagraea obovata WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 2 languages. Kannada (6) - ginnannu, hanchalli, hanna challe, jinnunnu, maena kalli, marakaayi soppu Malayalam (2) - modagam, valli-modagam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0962f5fd820d78f9cb394bb693d58d3e/xclkon/2e5f6bcd2373d3ab04348a7bc3671f30
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0962f5fd820d78f9cb394bb693d58d3e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0962f5fd820d78f9cb394bb693d58d3e/xclkon/2e5f6bcd2373d3ab04348a7bc3671f30
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

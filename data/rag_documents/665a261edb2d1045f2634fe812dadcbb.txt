@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 665a261edb2d1045f2634fe812dadcbb
+Botanical Name: Lamprachaenium microcephalum BENTH.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Marathi (1) - bramhadandi Sanskrit (2) - Sanskrit Comments  ajadandi, brahmadandi Urdu (1) - brahmdandi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/665a261edb2d1045f2634fe812dadcbb
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1280
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1280.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/665a261edb2d1045f2634fe812dadcbb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/665a261edb2d1045f2634fe812dadcbb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

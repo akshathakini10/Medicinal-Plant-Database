@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 609a775a822114614645cd4eea255263
+Botanical Name: Piper peepuloides ROB.
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/609a775a822114614645cd4eea255263
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/609a775a822114614645cd4eea255263
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Pippali
+sanskrit_name: पिप्पली
+transliteration: pippalī
+ref_drug_name: पिप्पली
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Pippali
+sanskrit_name: पिप्पली
+transliteration: pippalī
+image_urls: https://www.medicinalplants.in/slokaimages/1296/1296_1.jpg https://www.medicinalplants.in/slokaimages/1296/1296_2.jpg https://www.medicinalplants.in/slokaimages/1296/1296_3.jpg https://www.medicinalplants.in/slokaimages/1296/1296_4.jpg https://www.medicinalplants.in/slokaimages/1296/1296_5.jpg https://www.medicinalplants.in/slokaimages/1296/1296_6.jpg https://www.medicinalplants.in/slokaimages/1296/1296_7.jpg https://www.medicinalplants.in/slokaimages/1296/1296_8.jpg
+ocr_text: पिप्पली मागधी कृष्णा वैदेही चपला कणा उपकपल्योषणा शौण्डी कोलास्यात्तीक्ष्णतण्डूला II (Bpn) Synonyms of pippali are magadhi, krsna, vaidehi, capala, kana upakulya, usana, saundi, kola, tiksna tandula. पिप्पली कृकरा शौण्डी चपला मागधी कणा कोरङ्गी वैदेही तिक्ततण्डुला |I श्यामा दन्तफला कृष्णा कोला च मगदोद्भवा ऊषणा चोपकुल्या च स्मृत्याह्वा तीक्ष्णतण्डुला II (Rjn) Synonyms of pippali are krkara, saundi, capala, magadhi, kana, katubija, korangi, vaidehi, tiktatandula, syama dantaphala, krsna kola, magadodbhava usana, upakulya, smrtyahva, tiksna tandula कटुबीजा श्लेष्मला स्वादुशीताउर्द्रा गुर्वी स्निग्धा च पिप्पली सा शुष्का विपरीताउतः स्निग्धा वृष्या रसे कटुः II स्वादुपाकानिलश्लेष्मश्वासकासापहा सरा तामत्युपयुञ्जीत रसायनविधिं विना Il (Mdn) Ardra pippali is svadu in rasa, guru snigdha in guna, sita in veerya and increases slesma. Suska pippali has opposite properties katu in rasa, snigdha in guna, vrsya, svadu in paka, alleviates anila, slesma kasa and svasa. It should not be used in excess except in the form of rasayana vidhi. पिप्पली कटुका स्वादुर्हिमा त्रिदोषजित् तृड्ज्वरोदरजन्त्वामनाशिनी च रसायनी Il (Dhn) Pippali is Katu, Svadu in Rasa, Hima in Potency, Snigdha in Guna, Tridosha hara, cures Trt, Jvara, Udara, Jantu, Ama and is Rasayana पिप्पली ज्वरहा वृष्या स्निग्धोष्णा कटुतिक्तका दीपनी मारुतश्वासकासश्लेष्मक्षयापहा Il (Rin) Pippali is Jvara hara, Vrsya, Snigdha Usna in Potency, Katu and Tikta in Rasa, Dipani, cures Maruta, Svasa, Kasa, Slesma, Ksaya. ग्रन्थिकं पिप्पलीमूलमूषणं चटकाशिरः (Bpn) Granthika,and Catakasira are the synonyms of Pippali mula ग्रन्थिकं पिप्पलीमूलं मूलं तु चविकाशिरः कोलमूलं कटुमूलं कटूषणम् |I सर्वग्रन्थि च पत्राढ्यं विरूपं शोणसम्भवम ग्रन्थिलं चैव पर्यायाः स्याश्चतुर्दश Il (Rjn) Pippali mula is also named as Granthika Pippalimula, Mula, Cavikasira, Kolamula, Katugranthi, Katumula, Katusna, sarvagranthi, Patradhya, Virupa, Sona sambhava, Sugranthi, Granthila कटुग्रन्थि सुग्रन्थि दीपनं पिप्पलीमूलं कटूष्णं पाचनं लघु रूक्षं पित्तकरं भेदि कफवातोदरापहम |l आनाहप्लीहगुल्मघ्नं कृमिश्वासकफापहम् (Bpn) Pippali mula is Dipana, Katu in rasa, Usna in Potency, Pacana, Laghu in Guna Ruksa, Pitiakara Bhedi, Kapha Vatodara hara Anaha Pliha Gulmaghna, Krmi Svasa Kapha hara

@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 51f39eb1c38768ff7470af752fa666ef
+Botanical Name: Cassia surattensis BRUN. F.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cassia glauca LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 5 languages. Kannada (9) - adavi thangadi, adavitangedi, beta davare, bettadaavare, bettadavare, motapalvaan, motovalvana, taithey, teyitte Malayalam (4) - takara, valiyatakara, vellatakara, welliatagera Marathi (2) - motatharvad, sarpuli Tamil (33) - ammaivenicceti, ammaivini, catirai, catiraicceti, cetikkonnai, curattukkonrai, kosamatikam, kosamatikamaram, kovalai, kuloppukkonnai, kuntuppukkonrai, kutakanmi, kutakanmicceti, malaittuvitakkonnai, malaittuvitam, mancakkonnai 2, mancalkonrai 2, mancatkonnai, mancatkonnaimaram, mutimalikakkonnai, mutimalikam, panicci, paniccittakarai, perunkonnai, ponnami, ponnamikkonnai, taruvirakikam, taruvirakikamaram, thagarai, vellaittakarai, vellavirai, ventakarai#, ventakarai@ Telugu (6) - konda tangedu, kondatham tepu chettu, kondathentemu, matta tangedu, mettatangedu, mettathangedu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51f39eb1c38768ff7470af752fa666ef
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51f39eb1c38768ff7470af752fa666ef/xclkon/ca784d44e03f3442a1d6b37f92ad0984
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51f39eb1c38768ff7470af752fa666ef
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51f39eb1c38768ff7470af752fa666ef/xclkon/ca784d44e03f3442a1d6b37f92ad0984
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51f39eb1c38768ff7470af752fa666ef
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7853c4ac9655d1f0a19b408a949f969b
+Botanical Name: Heterophragma quadriloculare K.SCHUM.
+Family: Bignoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Heterophragma roxburghii DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 4 languages. Kannada (10) - adavinugge, baara nuggi, baechaadi, becadi, bechaadi, bechadi, bechadi mara, genasang, genasangu, kaligottu mara Marathi (8) - paanlag, pullung, vaaras-paanlaga, varas, waras, warras, warsi, wurus Tamil (1) - bara-kalagoru Telugu (9) - baarukolagottu, baray-kalikod, barukaligottu, bondgu, bondugu, kala-goru, kalavada, kapa-gargu, pambapena
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7853c4ac9655d1f0a19b408a949f969b/xclkon/84d8dc3f3835061fd59ec77e66b34ae6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7853c4ac9655d1f0a19b408a949f969b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7853c4ac9655d1f0a19b408a949f969b/xclkon/84d8dc3f3835061fd59ec77e66b34ae6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c6a53b220ebf0e8aad02f5f07d22efe7
+Botanical Name: Alocasia macrorhiza (L.) G.DON
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Alocasia indica (LOUR.) SPACH Arum macrorhizon L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 60 Vernacular names found in 6 languages. English (2) - cunjevoi, giant taro Hindi (3) - alu, mankanda, nankanda Kannada (9) - baalaraaksha, genasoo, kare menasangi, manaka, marasa kaage, marasanige, mundi gedde, mundigida, neeru genasu Marathi (5) - aalu, alu, kaamsaalu, kaasaalu, madi-alum Sanskrit (12) - Sanskrit Comments  alooka, brihachhada, chhatrapatra, gajakarni, hastidcarnid, hastikarnah, mahapatra, mana, manaka, manakanda, sthalapadma, vistirnaparna Tamil (29) - attikanni, attikkani, attikkanni, avantikkanni, kacakanni#, kacakarani, kacakarni, karanaippala, karanippala, karikanni#, kecakkanni2, koli#, merukan, merukan kizhangu, merukankilanku@, meruku 1, mucalam, mucali 3, piracai, piri, tantikarni, ulakkai, varatcempu, verrughang kalung, verukan kilanku, verukankilanku#, verukilai-t-tantu, veruku, viruku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/2db22231fbc4fd9d5177b5d36f7b16fb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/152d4706dfe1370ce37176961c0ba6e7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/2db22231fbc4fd9d5177b5d36f7b16fb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/152d4706dfe1370ce37176961c0ba6e7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c6a53b220ebf0e8aad02f5f07d22efe7/xclkon/2db22231fbc4fd9d5177b5d36f7b16fb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Manakanda
+sanskrit_name: मानकन्द
+transliteration: mānakanda
+image_urls: https://www.medicinalplants.in/slokaimages/27/27_1.jpg https://www.medicinalplants.in/slokaimages/27/27_2.jpg https://www.medicinalplants.in/slokaimages/27/27_3.jpg https://www.medicinalplants.in/slokaimages/27/27_4.jpg
+ocr_text: स्थूलसूरणमाणकप्रभृतयः कन्दाः ईषत्कषाया कटुका रूक्षा विष्टम्भिनो गुरवः कफातताः पित्तहराश्च|| माणकं स्वादु शीतञ्च गुरु चापि प्रकीर्तितम्I| (सुश्रुतः सु० ४६) Sthula surana is manakanda, it is isat kashaya, katu svadu in rasa, ruksa, vistambhi, guru in guna, sita in veerya and alleviates kapha and pitta माणकः शोथहृत् शीतः पित्तरक्तहरो लघुः II (Bpn) Manaka is laghu in guna, sita in veerya, alleviates pitta rakta and sotha माणकं स्वादु शीतं च गुरु चापि प्रकीर्तितम्|| (सुश्रुत, सू॰ ४६) Manaka is svadu in rasa, guru in and sita in veerya. guna माणकं स्वादु शीतं च गुरु शोथहरं कटुII Rjv) Manaka is svadu, katu in rasa, guru in guna sita in veerya and cures sotha

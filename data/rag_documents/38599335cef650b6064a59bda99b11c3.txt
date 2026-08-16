@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 38599335cef650b6064a59bda99b11c3
+Botanical Name: Piper cubeba L. F.
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cubeba officinalis RAFIN
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 129 Vernacular names found in 10 languages. English (2) - cubeb, java pepper Hindi (4) - kabab-chini, kabacini, sheetal-chini, sitalachini Kannada (13) - baala menasu, balamenasu, balmenasu, chinamunchi, cinamnnci, gandha menasu, gandha-menasu, gandhamenasu, gandhamunchi, gandhamunci, kankola, mara menasu, maramenasu Malayalam (7) - cavika, chinimulaku, cinamulagu, ciniamulaku, val-milaku, val-mulaka, valmulaku Marathi (6) - hima simire, kaapoorcheenee, kankol, mothi, pimpli, pipli Sanskrit (13) - Sanskrit Comments  cinatiksna, cinorana, kakkola, kankola, kankolaka, kankolam, kankolika, maricam, renuka, sugandhamarichatai, sugandhamarichu, sugandhamuricha, sungadha-muricha Tamil (67) - ainnilam@, alankaram2, aranukam, arenu, arenugam, arenukam, aripalugam, aripalukam, atturati, autaciyamilaku, avattam2, calani2, calini2, catavikam, catavikamilaku, catuttam, cevviyam, cikkam, cinamilaku, cinaviram, cubab chinie, cur2, curam@, curamilaku, curmilaku, elavalukam2, ilatai, ilepam, illi2, ittakam, kanacam, kanacamilaku, kanakam4, kanakamilaku, kanakamilaku#, kanakamilaku@, kankolam, katturikai, kaulakam, kaunti, kauntiriyacceti, kauntiriyam, kavinti, kirusnai3, kiruttinai3, kolakam3, kolam4, macati, maceti, malukam 2, maricam 2, maricinam@, mayenam, nalvaci, ponkam, takkolam, takkolam6, takkolamilaku, tulati, vaalmilagu, val milagu, val-milaku, valmilagu, valmilaku, valmilakukkoti, valmilgu, vanmilaku Telugu (11) - calavamiriyalu, caluvamiriyamu, chalava-miriyalu, chaluva-miriyalu, chaluvamiriyaalu, thokamiriyaalu, toka-miriyalu, tokamiriyalau, tokamiriyalu, tokamiriyamulu, tsalavamiriyalu Tibetan (1) - ka ko la Urdu (5) - kabab chini, kabab-chini, kababchini, kababchini (kankol), sital-chini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3/xclkon/556699ce5d2a571b1319cfff355cc67d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3/xclkon/556699ce5d2a571b1319cfff355cc67d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3/xclkon/556699ce5d2a571b1319cfff355cc67d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3/xclkon/556699ce5d2a571b1319cfff355cc67d
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3/xclkon/556699ce5d2a571b1319cfff355cc67d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3/xclkon/556699ce5d2a571b1319cfff355cc67d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38599335cef650b6064a59bda99b11c3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kankola
+sanskrit_name: कंकोल
+transliteration: kaṃkola
+ref_drug_name: कंकोल
+status: Market source
+discussion: This species is used as a substitute for Kankola or sometimes mixed along with it during trade
+reference: [3]
+
+Identity Record 2
+drug_name: Kankolaka
+sanskrit_name: कङ्कोलक
+transliteration: kaṅkolaka
+ref_drug_name: कङ्कोलक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kankola
+sanskrit_name: कंकोल
+transliteration: kaṃkola
+image_urls: https://www.medicinalplants.in/slokaimages/1295/1295_1.jpg https://www.medicinalplants.in/slokaimages/1295/1295_2.jpg https://www.medicinalplants.in/slokaimages/1295/1295_3.jpg
+ocr_text: कंकोलं कटुतिक्तोष्णं वक्त्रजाड्यहरं परम् दीपनं पाचनं रुच्यं कफवातामकृन्तनम् IRjn ) Kankola is katu, tikta in rasa, usna in veerya, alleviates kapha and vata, dipana, pacana, rucya , cures vaktra jadya. कंकोलं लघु तीक्ष्णोष्णं तिक्तं हृद्यं रुचिप्रदन्| आस्यहृद्रोगदौर्गन्धकफवातामयान्ध्यहृत् | (Bpnl Kankola is tikta in rasa, laghu, tiksna in guna usna in veerya, alleviates kapha and vata, hrdya, ruci prada, cures asya daurandhya, hrdroga and andhya. कंक्कोलकं लवंगं च तिक्तं कटु कफापहम् लघु तृष्णापहं वृष्यं वक्त्रदौर्गन्धयाशनम्| | (सुश्रुत) Kankolaka is tikta, katu in rasa, laghu in guna, alleviates kapha, is vrshya cures trsna and vaktra daurgandhya.

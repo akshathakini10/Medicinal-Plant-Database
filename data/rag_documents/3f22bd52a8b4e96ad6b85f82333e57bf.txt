@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3f22bd52a8b4e96ad6b85f82333e57bf
+Botanical Name: Streblus taxoides (HEYNE E ROTH) KURZ.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Phyllochlamys taxoides KOORDERS
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. Marathi (1) - kurrera Telugu (5) - barivenka, chukaali chettu, sithanika, sukaali, sukali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f22bd52a8b4e96ad6b85f82333e57bf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f22bd52a8b4e96ad6b85f82333e57bf/xclkon/90f97a794f0abd7cc472335e56f3c6bd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f22bd52a8b4e96ad6b85f82333e57bf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

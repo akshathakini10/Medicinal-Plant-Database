@@ -1,0 +1,90 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 99fb9bdc36beb315723723c5c92057a3
+Botanical Name: Terminalia arjuna (ROB.) WIGHT & ARN.
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 198 Vernacular names found in 9 languages. English (3) - arjun, kahua bark, kumbuk Hindi (17) - anjan, anjani, arjan, arjan (introduced), arjun, arjun sadado, arjun-sadado, arjuna, jamla, kahu, kahua, kaugach, khawa, koara, koha, kohera, kowa Kannada (33) - arjuna, arjuna mara, belamadi, belematti, belimatti, belimetti, bilee matthi, bilematti, bili matthi, bilimaddi, bilimatti, billimatti, bolmatti, bolumatti, hole matthi, holematthi, holematti, kakubha, kamatti, kora matthi, kudure kivi mara, kudure kivigana mara, kurubha, maddi, neer matthi, neeru matthi, nirmathi, nirmatti, so honne, thore matthi, toramatti, tormatti, vaidairya Malayalam (14) - attumaruthu, attumarutu, kulamaruthu, marutu, neermaruthu, nirmarutu, pulamatti, vellamaradu, vellamarutu, vellamathi, vellilavu, velumaruthu, velumarutu, venmarutu Marathi (14) - anjan, arjun, arjuna, arjunladada, arjunsaadada, azun, kahu, nadi-ani, sadura, sanmadat, sanmadath, savimadat, savimadath, shardul Sanskrit (38) - Sanskrit Comments  arjuna, arjunah, chitrayodhi, dhananjaya, dhanvi, dhavala, gandiri, gandivi, indradru, indradruma, indrasunu, jivaka, kakubha, kakubhah, karaviraka, karnari, kaunteya, kiriti, krishnasarathi, kukubha, nadisarja, pandava, partha, parthah, parttha, phalguna, prithaja, raktarjuna, savyasachi, shambara, shivamallaka, svetavaha, svetavahah, vairantak, vira, virataru, viravriksha, viravrksa Tamil (53) - acokam 2, acumaravaram, arccunam, arccunavirutcam, ariccanamaram, ariccunam@, arrumarutu, aruccunam, attumarudu, attumarutam, attumarutu, curapi7, curapimaram, intiran, karupam, kauntiyam, kolamaruthu, kula marutha, kula-maruthu, kulamarudu, kulamarutu2, marudam, marudha maram, marudu, marukam, maruta maram, marutai, marutam, marutamaram, maruthu, marutu, metikkavikam, metikkavikamaram, mikkuvam, muruthu, naticam2, nirmaddi, nirmarudu, nirmarutu, par marutu, pulanti, putavam, vellai maruda-maram, vellai marutam, vellai-maruthu, vellaimarudu, vellaimarutai, vellaimarutu, vellaimarutu 2, vellaimatti, vellamarda, vellamaruthu, virataru 2 Telugu (25) - eramaddi, erimaddi, erramaddi, erumaddi, kakubhama, kakubhamu, maddi, maochettu, muddy, tella maddi, tella-madoi, tellamaddee, tellamaddi, tellamadi, tellamadoo, tellamadu, thellamaddi, thellamaddi chettu, thellemaddi, thittumaddi, tittu maddi, tittumaddi, vag-maddii, yermaddi, yerramaddi Tibetan (1) - a rdzu na
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2068
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2068.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99fb9bdc36beb315723723c5c92057a3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Arjuna
+sanskrit_name: अर्जुन
+transliteration: arjuna
+ref_drug_name: अर्जुन
+status: Accepted source
+discussion: Arjuna has been correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Arjuna
+sanskrit_name: अर्जुन
+transliteration: arjuna
+ref_drug_name: अर्जुन
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Arjuna
+sanskrit_name: अर्जुन
+transliteration: arjuna
+ref_drug_name: अर्जुन
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Arjuna
+sanskrit_name: अर्जुन
+transliteration: arjuna
+ref_drug_name: अर्जुन
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Arjuna
+sanskrit_name: अर्जुन
+transliteration: arjuna
+image_urls: https://www.medicinalplants.in/slokaimages/1605/1605_1.jpg https://www.medicinalplants.in/slokaimages/1605/1605_2.jpg https://www.medicinalplants.in/slokaimages/1605/1605_3.jpg
+ocr_text: अर्जुनस्तु कषायोष्णः कफघ्नो व्रणशोधनः पित्तश्रमतृषार्त्तिघ्नो मारुतामयकोपनः II (Rjn) It is kashaya in rasa usna In veerya, vrana sodhana alleviates Kapna, Cure5 pitta, srama, trsa and is maruta amaya kopana artl, ककुभः शीतलो हृद्यः क्षतक्षयविषास्रजित् मेदोमेहव्रणान् हन्ति तुवरः कफपित्तहृत् Il (Bpn) Kakubha is tuvara in rasa, sitala in veerya, hraya, alleviates ksata Ksaya, visa asra, meda meha vrana, kapha and pitta पार्थः पथ्यः क्षते भग्ने रक्तस्तम्भनकृच्छ्रयोः (Rajavallaba) Partha is pathya in ksata, bhagna, krcchra and rakta stambhana

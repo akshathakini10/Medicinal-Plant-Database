@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1c4cc69942b6ab9ac38545b3663621f8
+Botanical Name: Glochidion ellipticum WT.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Glochidion hohenackeri BEDD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 3 languages. Kannada (7) - baanaavara, kaadu kappi, neeranjini, neerchali, nirchalli, nirjani, nirjanni Malayalam (4) - gruyan, kulucan, neerchlli, nirchalli Marathi (2) - bhoma, bhomo
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c4cc69942b6ab9ac38545b3663621f8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c4cc69942b6ab9ac38545b3663621f8/xclkon/047f7e6c4a005494979222be1fe08483
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c4cc69942b6ab9ac38545b3663621f8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

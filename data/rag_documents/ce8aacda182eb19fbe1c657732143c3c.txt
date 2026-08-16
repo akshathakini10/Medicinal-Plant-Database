@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ce8aacda182eb19fbe1c657732143c3c
+Botanical Name: Caesalpinia nuga AIT.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Caesalpinia paniculata DESF.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 4 languages. Malayalam (1) - kakamullu Marathi (1) - vakeri Tamil (3) - catalanemi, mutkonrai, pulithadiki-kodi Telugu (2) - molluteega, mulutige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce8aacda182eb19fbe1c657732143c3c/xclkon/363a9c3d6a37a7db625a1f6b4c6ca861
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce8aacda182eb19fbe1c657732143c3c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce8aacda182eb19fbe1c657732143c3c/xclkon/363a9c3d6a37a7db625a1f6b4c6ca861
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce8aacda182eb19fbe1c657732143c3c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce8aacda182eb19fbe1c657732143c3c/xclkon/363a9c3d6a37a7db625a1f6b4c6ca861
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

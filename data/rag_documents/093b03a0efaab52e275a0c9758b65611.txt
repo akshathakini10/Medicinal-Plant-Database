@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 093b03a0efaab52e275a0c9758b65611
+Botanical Name: Syzygium caryophyllatum (L.) ALSTON
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Eugenia caryophyllaea WIGHT
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 126 Vernacular names found in 8 languages. Hindi (1) - jaman Kannada (10) - devakusuma, kempukuntala, kunta naerale, kuntal, kuntalaparundu, kuntale, kuntalu, kuntuneralu, lavang, lavanga Malayalam (13) - karayampu, keskamveral, kilakkannaral, kizhakkannaral, lavangam, nara, naval, neral, njara, nyara, peinnaral, perinnjara, tikshnapushpam Marathi (2) - bhedsi, ran-lavang Sanskrit (8) - Sanskrit Comments  devakusumum, hrasvajambuh, jambu, jambuh, lavanga, lavangaha, lavangam, srisamgyam Tamil (82) - ainnilam, akkiniventiram, ancukam, avarankanai, callaki 3, cantakaputpam, cariputakam, cikakevalam, cikarakevalam, cikaram, cinni 1, ciracuvatu, cirunkaram, citalacatti, civaralam, cocam, cocamtirali, coccartokki, coracattolaki, coracattoraci 2, craumboo, cupakam, cupakaputpam, cupaputpam, cuputpam, ikki, ikti, ilavankam, ilavankamaram, ilavankappu, itankam, itavakam, kacakacopitam, kara, karampu, karuva 2, karuvay, katalati, kataliputpam, kattukkaravampu, kirambu, kirampu, lavangam, lavankalata, lavankam 1, lavankamaram, lavankappu, lavankappurikam, matam, matanam@, milappu 1, narunaruvili, pacakucumam, pacarucumam, panpakappu 1, paranki, parankicci, purani 1, takacamani, takacanti, takacuravinaci, tarumatirai, tevacumam, tirali, tiricavati, tiriputpam 1, tirukatam, titcanaputpam, totippiriyam, toyatippiriyam, urakatam, utkatam, vacanaivetikam, vacantamalar, vaciyam, vankamutallavvaiccerttal, varalakam, varalam, varulam, vayam, vecayam, vecayappu Telugu (2) - karavappu, lavangamu Urdu (8) - cloves, laung, laung kharal ki hui, laung nim kofta, qaranfil, qaranfil nim kofta, qaranftl, qarangtl
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2025
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2025.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/886f26340b203eb5fad7125a982b1a01
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/8845638f17c20b929ebf86e3e4a5201a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/14669b72cf4fb79bdf85893f80bbb346
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/886f26340b203eb5fad7125a982b1a01
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/8845638f17c20b929ebf86e3e4a5201a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/14669b72cf4fb79bdf85893f80bbb346
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/886f26340b203eb5fad7125a982b1a01
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/8845638f17c20b929ebf86e3e4a5201a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/14669b72cf4fb79bdf85893f80bbb346
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/886f26340b203eb5fad7125a982b1a01
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/8845638f17c20b929ebf86e3e4a5201a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611/xclkon/14669b72cf4fb79bdf85893f80bbb346
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093b03a0efaab52e275a0c9758b65611
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

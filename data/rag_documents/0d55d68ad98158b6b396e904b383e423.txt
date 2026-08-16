@@ -1,0 +1,89 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0d55d68ad98158b6b396e904b383e423
+Botanical Name: Grewia tenax (FORSK.) FIORI
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Grewia populifolia VAHL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 6 languages. Hindi (6) - gangaran, gangerun, gangeti, gangi, gangir, kankeran Kannada (1) - gundu kadeera Sanskrit (10) - Sanskrit Comments  catusphata, gangeru, gangeruki, katustikta, madhuramla, mahapatra, mahaphala, mahasakha, mahodaya, nagabala Tamil (1) - accu Telugu (8) - gundukadeera, gundukadira, jana, kadadari, kaladari, kaladi, kanduru, kattekolupu Tibetan (2) - na ga ba la, na-ga-ba-la
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423/xclkon/66feb0515459f30cab7f7c55edb2b2a9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423/xclkon/66feb0515459f30cab7f7c55edb2b2a9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423/xclkon/66feb0515459f30cab7f7c55edb2b2a9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d55d68ad98158b6b396e904b383e423
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gangeruki
+sanskrit_name: गाङ्गेरुकी
+transliteration: gāṅgerukī
+ref_drug_name: गाङ्गेरुकी
+status: Accepted source
+discussion: Gangeruki is correlated to this species
+reference: [3]
+
+Identity Record 2
+drug_name: Gangeruki
+sanskrit_name: गाङ्गेरुकी
+transliteration: gāṅgerukī
+ref_drug_name: गाङ्गेरुकी
+status: Accepted source
+discussion: Gangeruki has been mentioned under the 'Phala varga' (group of fruits) in both Susruta and Caraka samhita; Dalhana and Cakrapani in their commentaries have identified it with 'Nagabala'; Even in the nighantus it has been mentioned as the synonym of Nagabala; Its identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Nagabala
+sanskrit_name: नागबला
+transliteration: nāgabalā
+ref_drug_name: नागबला
+status: Accepted source
+discussion: Nagabala is correlated to this species
+reference: [2]
+
+Identity Record 4
+drug_name: Nagabala
+sanskrit_name: नागबला
+transliteration: nāgabalā
+ref_drug_name: नागबला
+status: Most probable
+discussion: This species is considered to be Nagabala in Gujarat
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nagabala
+sanskrit_name: नागबला
+transliteration: nāgabalā
+image_urls: https://www.medicinalplants.in/slokaimages/1483/1483_1.jpg https://www.medicinalplants.in/slokaimages/1483/1483_2.jpg https://www.medicinalplants.in/slokaimages/1483/1483_3.jpg
+ocr_text: गांगेरुकी मधुराम्ला कषायोष्णा गुरुस्तथा कटुस्तिक्ता च वातघ्नी व्रणपित्तविकारजित IDhn) Gangeruki is madhura, amla , kashaya, katu, tikta in rasa, guru in guna usna in veerya, alleviates vata vrana and pitta vikara मधुराम्ला नागबला कषायोष्णा गुरुस्तथा कण्डूतिकुष्ठवातघ्नी व्रणपित्तविकारजित् IRjn) Nagabala is madhura , amla, kashaya in rasa, guru in guna, usna in veerya, cures kandu, kustha, vata, vrana and pitta vikara गांगेरुकीफलं रूक्षं कषायं स्वादु वातलम्| लेखनं स्तम्भनं शीतं विबन्धाध्मानकृद् गुरु १ (ग.नि) Gangeruki phala is ruksa, kashaya, svadu in rasa, guru in guna, sita in veerya, increases vata, is lekhana, stambhana, causes vibandha ana adhmana

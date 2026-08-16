@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 622411f34a645ec84255476dbe22f1ed
+Botanical Name: Rosa damascena MILL.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 65 Vernacular names found in 9 languages. English (1) - damask rose Hindi (5) - bussorah, fasti gulab, gulab, gulab-ke-phul, sudburg Kannada (4) - gulabihuvu, panniru, roja, tarana Malayalam (3) - paninirpushpam, panniruppu, penimirpushpam Marathi (2) - gulab, gulad Sanskrit (11) - Sanskrit Comments  atimanjula, lakshapushpa, mahakumari, satapatri, shatadala, shatapatri, shatapatrika, soumyagandha, sumana, suoritta, sushita Tamil (17) - arakkuroja, ativitakikacceti, ativitakikam, civappuccirramarai, civappuroca, civappuroja, golappu, irosa, kulapi, kulapu, pannir, pannirpu, rajappu, roja, roja mottu, rojappu, rosa Telugu (7) - gulaabi poovvu, gulabi, gulabipuvvu, paneer roja, panniru, roja, rojapuvu Urdu (15) - arq gulab, arq-i-gulab, gul surkh, gul-e-surkh, gul-e-surkh (ward,gulab), gul-i surkh, gul-i-gaozaban, gul-i-surkh, gul-surkh, gulab ke taze phool, gulqand gulab, gulqand-gulab, roghan gul, ruh gulab, surkh gulab ki pankhriyan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/622411f34a645ec84255476dbe22f1ed
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/622411f34a645ec84255476dbe22f1ed
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/622411f34a645ec84255476dbe22f1ed
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/622411f34a645ec84255476dbe22f1ed
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/622411f34a645ec84255476dbe22f1ed
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/622411f34a645ec84255476dbe22f1ed
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

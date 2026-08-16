@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cae07f13d9b057708ecc3e6664b48a0b
+Botanical Name: Flemingia tuberosa DALZ.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Moghania tuberosa KTZE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Marathi (2) - birmolo, birmova
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cae07f13d9b057708ecc3e6664b48a0b/xclkon/8ead8ad2d9b1d0b98f1981853e5125cf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cae07f13d9b057708ecc3e6664b48a0b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cae07f13d9b057708ecc3e6664b48a0b/xclkon/8ead8ad2d9b1d0b98f1981853e5125cf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

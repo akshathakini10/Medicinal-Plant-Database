@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 45ffb38ce23ccbe7951e71b327938139
+Botanical Name: Chromolaena odorata (L.) R.M. KING & H. ROBINSON
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Eupatorium odoratum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. English (2) - siamweed, triffid weed Kannada (1) - kamyunist kale
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ffb38ce23ccbe7951e71b327938139/xclkon/c6a51150c9bf58d1d3a4cf47cb8017d1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ffb38ce23ccbe7951e71b327938139
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45ffb38ce23ccbe7951e71b327938139/xclkon/c6a51150c9bf58d1d3a4cf47cb8017d1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

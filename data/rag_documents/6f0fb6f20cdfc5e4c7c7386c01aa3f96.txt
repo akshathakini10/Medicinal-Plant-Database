@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6f0fb6f20cdfc5e4c7c7386c01aa3f96
+Botanical Name: Solanum erianthum D.DON
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Solanum verbascifolium AUCT NON L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 66 Vernacular names found in 7 languages. Hindi (9) - akra, asheta, ban tamakhu, ban temakhu, ban tobacco, ban tobaccoo, bantobacco, bhamaku, ulah Kannada (19) - aarimani, arimani gida, chowdangi, kaadu sunde, kadchunde, kadchundi, kadusonde, kadusunde, kallaarthi, kallarthi, kallatte, kallatthi, kallatti, paudangi, peeche gida, savdangi, savudangi, sonde, soudanga gida Malayalam (9) - airichunda, chunta, cunda, cunta, erichunta, ericunta, malanchunta, malancunta, malanjunta Marathi (1) - kutri Sanskrit (4) - Sanskrit Comments  gandira, pathi, priyamkari, vidari Tamil (18) - aanai sundaikkai, amarakkay, anaiccuntai1, anaichundai, anaisundakai, chunda, cuntai, cuntai2, cuntaikkay, karimulli, katuki, malai sundal, malaiccuntai, malaichundai, mulkathari, mullikai, sundai, sunta Telugu (6) - budama, pittu, rasagadi, rasagadi-manu, rasagadimanu, rusaghedi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f0fb6f20cdfc5e4c7c7386c01aa3f96/xclkon/bb5dffdbd9f4632ecc9e32ba38d084ba
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f0fb6f20cdfc5e4c7c7386c01aa3f96
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f0fb6f20cdfc5e4c7c7386c01aa3f96/xclkon/bb5dffdbd9f4632ecc9e32ba38d084ba
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f0fb6f20cdfc5e4c7c7386c01aa3f96
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f0fb6f20cdfc5e4c7c7386c01aa3f96/xclkon/bb5dffdbd9f4632ecc9e32ba38d084ba
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f0fb6f20cdfc5e4c7c7386c01aa3f96
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f0fb6f20cdfc5e4c7c7386c01aa3f96/xclkon/bb5dffdbd9f4632ecc9e32ba38d084ba
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

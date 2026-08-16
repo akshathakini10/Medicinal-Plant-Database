@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ba6ce0418fd6ced2f262cc685713d229
+Botanical Name: Zanthoxylum armatum DC.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Zanthoxylum alatum ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 65 Vernacular names found in 9 languages. Hindi (19) - darmar, nipalidhanya, tejhal, tejphal, tezmal, timbar, timbaru, timber, timber tirmir, timber/tirmir, timbur, timri, timroo, timur, tirmir, tirmira, trimal, tumru, tun Kannada (4) - dhiva, jimme, jimmi, tumburudu Malayalam (2) - tumpunal, tumpuni Marathi (2) - chirphal, naepaali dhane Sanskrit (23) - Sanskrit Comments  andhaka, dviha, gandhalu, mahamuni, sanuja, saurabh, saurabha, sauraja, sauravanaja, shulaghna, sphutal, sputihaphala, sugandhi, tejaswini, tejohva, tejovati, tikshnapatra, tikshnaphala, tikshnavalka, tumbaru, tumburu, tumburuh, vanaja Tamil (2) - tumpunalu, tumpuru Telugu (7) - gandhalu, konda-kasimi, kondakaasimanda, kondakaasimi, kondakasimanda, kondakasimi, kondasimi Tibetan (4) - gyer ma, ka ra bi ra, te dzo ba ti, te-dza-ni Urdu (2) - kabab-e-khandan, kababe
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2252
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2252.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229/xclkon/de237eed7c21d544ea2271d6bda89af9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba6ce0418fd6ced2f262cc685713d229
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c06eb8e633de9b197d49a0b9cc399dfb
+Botanical Name: Clausena dentata (WILLD.) ROEM
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Clausena willdenowii WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 4 languages. Kannada (7) - chidae, chidu, cidu, kaadu karabevu, kaadu karibevu, kadukarabe, kadukaribevu Malayalam (8) - kariveppila, karuvepella, korakatta, kurakol, morakkuranni, morkurangee, morkurangi, potti Tamil (17) - ana 1, anam 1, anantalai, anantalaiccetci, karikkaracceti, karikkaram, kattu kariveppilai, kattukaruveppilai, kattukkari veppilai, kattukkaruveppilai#, kattukkaruveppilai@, kattuveppilai 2, katuveppilai, petika, petikacceti, pothi, potti Telugu (2) - boyyaval, kondakarivepaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06eb8e633de9b197d49a0b9cc399dfb/xclkon/2c6ab894488078bd6bb0eaf1073a4604
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06eb8e633de9b197d49a0b9cc399dfb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06eb8e633de9b197d49a0b9cc399dfb/xclkon/2c6ab894488078bd6bb0eaf1073a4604
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06eb8e633de9b197d49a0b9cc399dfb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06eb8e633de9b197d49a0b9cc399dfb/xclkon/2c6ab894488078bd6bb0eaf1073a4604
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 040b862dae374d2ba360e581c46c60cb
+Botanical Name: Allium porrum L.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Allium ampeloprasum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. English (3) - kurrat, leek, levant garlic Marathi (1) - khorat
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/040b862dae374d2ba360e581c46c60cb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/040b862dae374d2ba360e581c46c60cb/xclkon/626a14a7de1f04503c9fbffc150c5060
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/040b862dae374d2ba360e581c46c60cb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

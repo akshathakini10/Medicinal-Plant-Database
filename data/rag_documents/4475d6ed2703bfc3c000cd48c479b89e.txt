@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4475d6ed2703bfc3c000cd48c479b89e
+Botanical Name: ylocarpus granatum KOEN.
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Carapa granatum (KOENIG) ALSTON Carapa gromatum (KOENIG) ALSTON
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 3 languages. Hindi (1) - pussur Tamil (4) - comuntiri, conmuntiri, kalikantai, kandalangay Telugu (1) - adauipucha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4475d6ed2703bfc3c000cd48c479b89e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4475d6ed2703bfc3c000cd48c479b89e/xclkon/1f0f5f93eb7f24134aff3ef6aafeb1d6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4475d6ed2703bfc3c000cd48c479b89e/xclkon/95b82864b2083287b3b0b84bb73a4f82
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4475d6ed2703bfc3c000cd48c479b89e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4475d6ed2703bfc3c000cd48c479b89e/xclkon/1f0f5f93eb7f24134aff3ef6aafeb1d6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4475d6ed2703bfc3c000cd48c479b89e/xclkon/95b82864b2083287b3b0b84bb73a4f82
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4475d6ed2703bfc3c000cd48c479b89e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

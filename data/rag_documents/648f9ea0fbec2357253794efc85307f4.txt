@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 648f9ea0fbec2357253794efc85307f4
+Botanical Name: Convallaria majalis L.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. English (5) - ladder-to-heaven, lily convalle, lily of the valley, may lily, our-ladys-tears
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/648f9ea0fbec2357253794efc85307f4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/648f9ea0fbec2357253794efc85307f4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/648f9ea0fbec2357253794efc85307f4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8518028f4be71d092f7ec6ece0df1a6c
+Botanical Name: Tragia bicolor MIQ.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  duralabha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8518028f4be71d092f7ec6ece0df1a6c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2100
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2100.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8518028f4be71d092f7ec6ece0df1a6c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

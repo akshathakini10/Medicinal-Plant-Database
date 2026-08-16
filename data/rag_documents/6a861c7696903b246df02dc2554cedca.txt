@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6a861c7696903b246df02dc2554cedca
+Botanical Name: Terminalia crenulata ROTH
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 7 languages. Hindi (1) - asan Kannada (2) - kudure kivichanar, matti Malayalam (5) - karimaruthu, kuramaruthu, mathi, thembavu, thenpavu Marathi (2) - asan, marti Sanskrit (1) - Sanskrit Comments  chagakarnah Tamil (3) - karu marutha, karu-maruthu, karumaruthu Telugu (1) - nallamadi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a861c7696903b246df02dc2554cedca
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2075
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2075.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a861c7696903b246df02dc2554cedca
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a861c7696903b246df02dc2554cedca
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

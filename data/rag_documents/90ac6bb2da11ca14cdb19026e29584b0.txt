@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 90ac6bb2da11ca14cdb19026e29584b0
+Botanical Name: Valeriana pyrolaefolia DENE
+Family: Valerianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  dhyamaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90ac6bb2da11ca14cdb19026e29584b0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2163
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2163.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/90ac6bb2da11ca14cdb19026e29584b0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhyamaka
+sanskrit_name: ध्यामक
+transliteration: dhyāmaka
+ref_drug_name: ध्यामक
+status: Accepted source
+discussion: In Caraka samhita, 'Dhyamaka' is mentioned among the fragrant drugs; With references from Susruta samhita we can know that 'Dhyamaka' is a blackish coloured fragrant drug; Cakrapani has interpreted it as 'Gandhatrna' and Dalhana as 'Kattrna', so according to them it was a grass variety but it is not; With all the above references regarding its morphology it should be considered as a plant from the 'Mamsi' family; According to the author it is identified with this species which has resemblance with 'Mamsi'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3d0e3feab4b454d5fc3c3b8213f6d55e
+Botanical Name: Plectranthus ambonicus (LOUR.) SPRENG.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Coleus ambonicus LOUR. Coleus aromaticus BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 7 languages. Hindi (7) - amroda, patharcheer, patharchur, patharcur, patherchur, pathorchur, patta ajavauin Kannada (4) - dodda pathre, dodda pathre soppu, karpoora valli, karpurahalli Malayalam (5) - iribeli, kannikkurka, kannikkurkka, panikkurkaa, panikkurkka Marathi (3) - karmelo, pan-ova, pathurchur Sanskrit (11) - Sanskrit Comments  asmabhedah, asmantaka, himsagar, karpuravalli, modayanti, parnayavani, pasanabheda, pashanabheda, pashanabhedi, silabhedha, sugandhavalakam Tamil (20) - camparavalli, cirukanpilai, cirupilai, kanpilai, karpeti, karpooravalli, karppuravalli 2, karpuravalli, karpuravallicceti, karuppuravalli, kotakacalai 2, kurpurvalli, mankaiyakkanni, muttainari, muttainaricceti, omavalli, pasana peti, ukkiram@, ukkirikacceti, ukkirikam Telugu (4) - karpoora valli, karuvaeru, sugandhavalkam, vamu aaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/701e784c3e7a430f00e71983eb2ec591
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/11eb569af097cd83ceb9364189474e22
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/701e784c3e7a430f00e71983eb2ec591
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/11eb569af097cd83ceb9364189474e22
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/701e784c3e7a430f00e71983eb2ec591
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/11eb569af097cd83ceb9364189474e22
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/701e784c3e7a430f00e71983eb2ec591
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e/xclkon/11eb569af097cd83ceb9364189474e22
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3d0e3feab4b454d5fc3c3b8213f6d55e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

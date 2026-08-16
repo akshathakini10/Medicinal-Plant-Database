@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 750eadbf0df59322815b90205cbd8f36
+Botanical Name: Antidesma acidum RETZ.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Antidesma diandrum ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 3 languages. Hindi (4) - amblu, amla, amli, sharschanti Kannada (11) - bili komme, hulimajjige kolu, kiri hulipa, kirihulive, meginakadusoppu, mruginakodu soppu, mryginakodusoppu, sanakulipa, sannagulige, sannahulipa, sannakulipa Telugu (11) - gummodi pella, gurrapujalli, manchipolaari, manchipulleri, mancipolari, pellagoomoodoo, pellagumudu, pillagumudu, polagumudu, polagunudu, pulleru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/750eadbf0df59322815b90205cbd8f36/xclkon/a96b600a6e1fc5fb024a8e7142924fd1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/750eadbf0df59322815b90205cbd8f36
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/750eadbf0df59322815b90205cbd8f36/xclkon/a96b600a6e1fc5fb024a8e7142924fd1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

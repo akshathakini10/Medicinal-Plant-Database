@@ -1,0 +1,122 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 517e75a67d453c30d1fb46f62bc5d87e
+Botanical Name: Luffa echinata ROB.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 77 Vernacular names found in 7 languages. Hindi (14) - bidali, bindaal, dutar toru, duttar-toru, ghagara-bela, ghagarabela, ghagerbel, ghusarana, jangli-tori, kakora, khaksi, kukurlata, sonaiya, vandala Kannada (4) - daevadaali, daevadangaar, daevadangari, devadangar Marathi (6) - daevadaagaree, daevadangaree, devadali, devadangari, kukadvel, kukdavel Sanskrit (38) - Sanskrit Comments  akhuvishaka, bandala, chaturangaka, dali, deodalika, deotada, devadali, devatadaka, devatadakah, devedali, garagari, ghora, ghosha, gudajarih, hini, jihnutaka, jimuta, jimutaka, jimutakah, kadamba, kantaphala, karkati, kataphala, kharasparsha, koshaphala, kukkuti, lomasapatrika, lomashapatrika, pita, saha, saramushika, tarkari, turangika, veni, vishaghni, vishaha, vratakosha, vrittakosha Tamil (12) - kocaratacitta, kukaitali2, navalokakkalimpupokki, neyppirkku, nuraippirkku, panibira, peyppirkku, tevatali, tevatalicakkoti, tevatalicam, viraittailamcutankatti, vitiputpacam Telugu (2) - paanibira, panibira Tibetan (1) - dji mu ta ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1351
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1351.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/517e75a67d453c30d1fb46f62bc5d87e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Devadali
+sanskrit_name: देवदाली
+transliteration: devadālī
+ref_drug_name: देवदाली
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Devadali
+sanskrit_name: देवदाली
+transliteration: devadālī
+ref_drug_name: देवदाली श्वेत
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Devadali - sveta
+sanskrit_name: देवदाली श्वेत
+transliteration: devadālī śveta
+ref_drug_name: देवदाली
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 4
+drug_name: Devadali - sveta
+sanskrit_name: देवदाली श्वेत
+transliteration: devadālī śveta
+ref_drug_name: देवदाली श्वेत
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Jimuta
+sanskrit_name: जीमूत
+transliteration: jīmūta
+ref_drug_name: जीमूत
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 6
+drug_name: Kosataki
+sanskrit_name: कोशातकी
+transliteration: kośātakī
+ref_drug_name: कोशातकी
+status: Suggested source 4
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Kosataki catustaya
+sanskrit_name: कोशातकी चतुष्टय
+transliteration: kośātakī catuṣṭaya
+ref_drug_name: कोशातकी
+status: Suggested source 4
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kosataki
+sanskrit_name: कोशातकी
+transliteration: kośātakī
+image_urls: https://www.medicinalplants.in/slokaimages/1043/1043_1.jpg https://www.medicinalplants.in/slokaimages/1043/1043_2.jpg https://www.medicinalplants.in/slokaimages/1043/1043_3.jpg
+ocr_text: क्ष्वेडस्तिक्तः कटुस्तीक्ष्णोडप्रगाढश्च प्रशस्यते| कुष्ठपाण्ड्वामयप्लीहशोफगुल्मगरादिषु| | (Dhnl Kosataki is katu in rasa, tiksna in guna, apragada, cures Kustha, pandu, pliha, sopha, gulma and gara visha. कोशातकी शिशिरा कटुकाडल्पकषायका पित्तवातकफघ्नी च मलाघ्मानविशोधिनी| | धाराकोषातकी स्निग्धा मधुरा कफपित्तनुत्| ईषद् वातकरी पथ्या रुचिकृद् बलवीर्यदा Il IRjnl Kosataki is katu, alpa kashaya in rasa, sisira in veerya, alleviates pitta, vata and kapha doshas, is mala adhmana visodhani. Dhara kosataki is madhura in rasa, snighda in guna, alleviates kapha and pitta, increases vata is pathya, ruci kara, and bala viryada. mildly, राजकोषातकी गरे गुल्मोदरे कासे वातश्लेष्मामये स्थिते| कफे च कण्टवक्त्रस्थ कफसञ्चयजेषु च|| तचरक.क.अ४) Raja kosataki cures gara, gulmodara, kasa, vata slesmamya, kapha in kantha, vaktra and kapha sancaya.
+
+Shloka Record 2
+drug_name: Kosataki catustaya
+sanskrit_name: कोशातकी चतुष्टय
+transliteration: kośātakī catuṣṭaya
+image_urls: https://www.medicinalplants.in/slokaimages/1043/1043_1.jpg https://www.medicinalplants.in/slokaimages/1043/1043_2.jpg https://www.medicinalplants.in/slokaimages/1043/1043_3.jpg
+ocr_text: क्ष्वेडस्तिक्तः कटुस्तीक्ष्णोडप्रगाढश्च प्रशस्यते| कुष्ठपाण्ड्वामयप्लीहशोफगुल्मगरादिषु| | (Dhnl Kosataki is katu in rasa, tiksna in guna, apragada, cures Kustha, pandu, pliha, sopha, gulma and gara visha. कोशातकी शिशिरा कटुकाडल्पकषायका पित्तवातकफघ्नी च मलाघ्मानविशोधिनी| | धाराकोषातकी स्निग्धा मधुरा कफपित्तनुत्| ईषद् वातकरी पथ्या रुचिकृद् बलवीर्यदा Il IRjnl Kosataki is katu, alpa kashaya in rasa, sisira in veerya, alleviates pitta, vata and kapha doshas, is mala adhmana visodhani. Dhara kosataki is madhura in rasa, snighda in guna, alleviates kapha and pitta, increases vata is pathya, ruci kara, and bala viryada. mildly, राजकोषातकी गरे गुल्मोदरे कासे वातश्लेष्मामये स्थिते| कफे च कण्टवक्त्रस्थ कफसञ्चयजेषु च|| तचरक.क.अ४) Raja kosataki cures gara, gulmodara, kasa, vata slesmamya, kapha in kantha, vaktra and kapha sancaya.

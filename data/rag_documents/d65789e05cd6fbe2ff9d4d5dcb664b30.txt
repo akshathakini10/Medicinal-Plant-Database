@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d65789e05cd6fbe2ff9d4d5dcb664b30
+Botanical Name: Althaea officinalis L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 6 languages. English (5) - althaea, marsh mallow, marshmallow, mortification root, sweetweed Hindi (5) - gul-i-khere, gulkhairo, khaira, khairakajhor, khitmigajhar Marathi (2) - gulkhair, khaira Sanskrit (1) - Sanskrit Comments  khatmi Tamil (4) - cimaittutti, cimaittutticceti, shemaitute, simaitutti Urdu (13) - gul-i-khitmi, guli kheri, khatme, khatmi, khero, khitmi, tukhm khaimi, tukhm khat ni, tukhm khatmi, tukhm khitmi, tukhm khubbazi, tukhm-i-khatmi, tukhm-i-khiyaria
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d65789e05cd6fbe2ff9d4d5dcb664b30
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 142
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/142.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d65789e05cd6fbe2ff9d4d5dcb664b30
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d65789e05cd6fbe2ff9d4d5dcb664b30
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d65789e05cd6fbe2ff9d4d5dcb664b30
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d65789e05cd6fbe2ff9d4d5dcb664b30
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

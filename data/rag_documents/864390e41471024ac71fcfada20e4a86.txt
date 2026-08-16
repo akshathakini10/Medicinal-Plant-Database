@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 864390e41471024ac71fcfada20e4a86
+Botanical Name: Thymus serpyllum L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Thymus linearis BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 4 languages. English (4) - creeping thyme, lemon thyme, mother-of-thyme, wild thyme Hindi (10) - ajoin, ajwain, ban ajoin, ban ajwayan, banajwain, eonajowan, ipar, jangli ajwain, jawain, pahari ajwain Sanskrit (1) - Sanskrit Comments  ajagandha Urdu (2) - hasha, satar farsi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2082
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2082.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86/xclkon/cf1e879d6e0c4478328acc26a8c81fd9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86/xclkon/cf1e879d6e0c4478328acc26a8c81fd9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86/xclkon/cf1e879d6e0c4478328acc26a8c81fd9
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86/xclkon/cf1e879d6e0c4478328acc26a8c81fd9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/864390e41471024ac71fcfada20e4a86
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ajagandha
+sanskrit_name: अजगन्धा
+transliteration: ajagandhā
+ref_drug_name: अजगन्धा
+status: Most probable
+discussion: With referance to the ancient texts it can be concluded that 'Ajagandha' is different from drugs like 'Ajamoda', 'Yavani', 'Satahva' etc and it seems to be 'Vanayavani' which is most probably identified with this species; With regard to the property of this species it has similar properties like 'Ajagandha' with an exception that it is not a purgative
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

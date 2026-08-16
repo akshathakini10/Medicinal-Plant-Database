@@ -1,0 +1,76 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: caf9a50e01a48f330e490c53febf3b0f
+Botanical Name: Caesalpinia sappan L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 118 Vernacular names found in 9 languages. English (2) - brazil wood, sappanwood Hindi (6) - bakam, bakkom, patamg, patang, patang-ki-lakri, tairi Kannada (11) - cappanga, chapenga, chappanga, patanga, patanga-chekke, patangachekke, patangada, pathangee, patranga, pattanga, sappanga Malayalam (11) - cappanam, cappannam, chappanam, chappannam, isiapangam, isiyapangam, patrangam, sappannam, tsiapangum, tsja-pangan, tsjampangam Marathi (2) - patang, pathang Sanskrit (22) - Sanskrit Comments  bharyavriksha, kashtha, kuchandana, lohitaranga, patanga, patangah, patangam, patranga, patrangah, pattanga, pattaranga, pattaranjaka, pattaranjakah, pattranya, pattura, raktaka, raktasar, ranjana, rogakashtha, ruktamukta, suranga, surangada Tamil (38) - cappan, cappankam#, cappankam@, cappanki, cappanku#, cappanku@, cayamaram, cemmaram, cemmaram1, ciyapankam, padangam, parthangi, patamgam, patankam, patankam2, patankan, patanku1, pattanki, patunga, patungam, sapangu, sappamgu, sappan, sappangu, varatanci, varattangi, vartangi, varttanki 1, varttankikkattai, vattangi, vattanki#, vattanki@, vattankkkattai, vattekku, vattekku 1, vatunghe cuttay, vetteku, vurthingi Telugu (25) - bakaanu chekka, bakamu, bakanu, bakanu-chekka, bakapu, bakarucakka, bakaruchakka, bakasu chekka, bakkapu, bakkapu-chekka, bukkamu, bukkapu, bukkapuchettu, bukkum, kaparimaddi, kapuramaddi, okaanu, okanu, okanu-katta, patanga, patanga-katta, pathanga, pathanga chakka, varattangi, vurthingi Urdu (1) - patang
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/caf9a50e01a48f330e490c53febf3b0f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kucandana
+sanskrit_name: कुचन्दन
+transliteration: kucandana
+ref_drug_name: कुचन्दन
+status: Accepted source
+discussion: Is a variety of Candana and identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Patranga
+sanskrit_name: पत्राङ्ग
+transliteration: patrāṅga
+ref_drug_name: पत्राङ्ग
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Pattanga
+sanskrit_name: पत्तङ्ग
+transliteration: pattaṅga
+ref_drug_name: पत्तङ्ग
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Patranga
+sanskrit_name: पत्राङ्ग
+transliteration: patrāṅga
+image_urls: https://www.medicinalplants.in/slokaimages/285/285_1.jpg https://www.medicinalplants.in/slokaimages/285/285_2.jpg https://www.medicinalplants.in/slokaimages/285/285_3.jpg https://www.medicinalplants.in/slokaimages/285/285_4.jpg
+ocr_text: पतङ्गरक्तसारञ्चसुरङ्गरञ्जनंतथा पट्टरञ्जकमाख्यातंपत्तुरञ्चकुचन्दनम् (Bpn) Rakta sara, suranga, ranjana, pattaranjaka, patturanca and kucandana are the synonyms of patranga पतङ्गगुणाः पत्रांगंकटुंरीक्षमालंशीतंतुगौल्यकम् वातपित्तज्वरघ्नंचविस्फोटोन्मादभूतहृत् (Rin) Patrangaka is katu in rasa, ruksa in guna, sita in veerya, gaulya, alleviates vata, pitta, jvara, visphota, unmada and bhuta. पत्राङ्गस्तिक्तकःशीतोरूक्षोम्लोमधुरः कटुः | व्रणशुद्धिकरोवर्ण्यःसुगन्धिर्वातपित्तहृत् उन्मादज्वरविस्फोटमूत्रकृच्छ्रव्रणाञ्जयेत् कफाश्मरीरक्तदोषभूतबाधानिवारणः (निघण्टुरत्नाकर) Patranga is tikta, amla, madhura, katu in rasa, ruksa in guna, sita in veerya vrana suddhikara, varnya, sugandhi alleviates vata, pitta, unmada, jvara, visphota, mutra krcchra, vrana, kapha, asmari, rakta dosha and bhuta हरिचन्दनवद्वेद्यंविशेषाद्दाहनाशनम | | (Bpn) Haricandana specifically alleviates daha

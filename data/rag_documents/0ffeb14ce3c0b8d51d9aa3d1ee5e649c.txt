@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0ffeb14ce3c0b8d51d9aa3d1ee5e649c
+Botanical Name: Pittosporum tetraspermum WT. & ARN.
+Family: Pittosporaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 3 languages. Kannada (6) - badaga kahi maavu, bili gaali chakka, kacha pattaa, kuhimavu, kuimaru, kuyimaavu Malayalam (3) - kaccappatta, kacchapatta, kachapatta Tamil (1) - kaccappatta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ffeb14ce3c0b8d51d9aa3d1ee5e649c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ffeb14ce3c0b8d51d9aa3d1ee5e649c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ffeb14ce3c0b8d51d9aa3d1ee5e649c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

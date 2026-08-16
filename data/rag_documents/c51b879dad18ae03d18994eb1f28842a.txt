@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c51b879dad18ae03d18994eb1f28842a
+Botanical Name: Grewia heterotricha MASTERS
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Grewia umbellata AUCT.NON ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 2 languages. Kannada (7) - bilisuri, kaadu jaane, kaaluvaame, kadujane, kalavame, kalluami, motadhamni Tamil (10) - atipala, cakkarapantacceti, cakkarapantam, cirututti, kalaitavam, kalaitavattutti, talini, talinittutti, tampuli, tampulitutti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c51b879dad18ae03d18994eb1f28842a/xclkon/aab5237655e6f1d0251ab6c801514bbf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c51b879dad18ae03d18994eb1f28842a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c51b879dad18ae03d18994eb1f28842a/xclkon/aab5237655e6f1d0251ab6c801514bbf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c51b879dad18ae03d18994eb1f28842a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c51b879dad18ae03d18994eb1f28842a/xclkon/aab5237655e6f1d0251ab6c801514bbf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

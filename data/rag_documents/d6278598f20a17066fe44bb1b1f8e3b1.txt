@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d6278598f20a17066fe44bb1b1f8e3b1
+Botanical Name: Ficus altissima BLUME
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 3 languages. Kannada (1) - goli Sanskrit (2) - Sanskrit Comments  corakapatra, nandivrksha Tamil (3) - kallatti, uromavirukam, uromavirukamaram
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6278598f20a17066fe44bb1b1f8e3b1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6278598f20a17066fe44bb1b1f8e3b1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d6278598f20a17066fe44bb1b1f8e3b1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Corakapatra
+sanskrit_name: चोरकपत्र
+transliteration: corakapatra
+ref_drug_name: चोरकपत्र
+status: Accepted source
+discussion: Corakapatra has been cited just once in Susruta samhita and Dalhana in his commentary has identified it with 'Laksavrksa'; Its identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Nandivrksa
+sanskrit_name: नन्दीवृक्ष
+transliteration: nandīvṛkṣa
+ref_drug_name: नन्दीवृक्ष
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

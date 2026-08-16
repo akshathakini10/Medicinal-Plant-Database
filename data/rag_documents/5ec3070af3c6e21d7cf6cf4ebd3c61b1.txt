@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5ec3070af3c6e21d7cf6cf4ebd3c61b1
+Botanical Name: Abelmoschus moschatus MEDIK.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hibiscus abelmoschus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 77 Vernacular names found in 9 languages. English (1) - ambrette Hindi (10) - bhinda, jangli bhenda, jangli-bhendi, kasturi-dana, mushk-dana, mushk-danah, mushkdana, muskadana, nagdau, nagdau bhenda Kannada (5) - kaadu kastoori, kadu-kasturi, kasthoori bende, kasturibende, kasturi bende Malayalam (6) - cattu-gasturi, kasturi-venta-vitta, kasturiventa, kattakasturi, kattu-kasturi, kattukasturi Marathi (6) - kalo-bhendo, kasthooribhenda, kasturi-bhendo, kasturibhenda, kattakasturi, muskadaana Sanskrit (8) - Sanskrit Comments  gandapura, katuka, katukahvaya, katuphalam, latakasturi, latakasturika, latakasturikam, zatakasturika Tamil (32) - acirapattirakam, cimai ventaikkay, cimaiventaikkay, cimaiventi, irattakattutti, kaattu kasturi, kalakatturi, kantukasthuri, kasturi ventai, kasturi-vendaik-kay-virai, kasturivendai, kasturivendaik-kayvirai, kasturiventai, kattu kasturi, kattu ventaikkay, kattu-k-kasturi, kattuk-kasturi, kattukkasturi, kattukkatturi, kattupparutti, kattupparutti 1, katturiventai, kattuventaikkay, latakasturikam, pettakattutti, pon umattai, pottakatturi, pottakattutti, varttilaikasthuri, vattilai-kasturi, verrilaikasturi, verrilaikkasturi Telugu (8) - karpoorabenda, karpurabenda, karpuri-benda, kasthoori benda, kasturi-benda-vittulu, kasturibenda, kasturibenda-vittulu, nelabenda Urdu (1) - mushkdana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1/xclkon/0df6612050fc9893fe521b521be38f95
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 7
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/7.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1/xclkon/0df6612050fc9893fe521b521be38f95
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1/xclkon/0df6612050fc9893fe521b521be38f95
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1/xclkon/0df6612050fc9893fe521b521be38f95
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ec3070af3c6e21d7cf6cf4ebd3c61b1/xclkon/0df6612050fc9893fe521b521be38f95
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

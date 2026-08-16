@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b4331248d7cdd376b941ad8290b3a874
+Botanical Name: Actaea racemosa -
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cimicifuga racemosa NUTT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. English (5) - black cohosh, black snakeroot, bugbane, snakeroot, squawroot
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4331248d7cdd376b941ad8290b3a874/xclkon/9b5c5ce711224ceff9e9a51f215588a7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4331248d7cdd376b941ad8290b3a874
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4331248d7cdd376b941ad8290b3a874/xclkon/9b5c5ce711224ceff9e9a51f215588a7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4331248d7cdd376b941ad8290b3a874
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b4331248d7cdd376b941ad8290b3a874/xclkon/9b5c5ce711224ceff9e9a51f215588a7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

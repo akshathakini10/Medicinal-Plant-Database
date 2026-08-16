@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0707cb3db390cfb397a5c7692e92bec1
+Botanical Name: Acronychia pedunculata (L.) MIQ.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Acronychia laurifolia BLUME
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 4 languages. Kannada (1) - bhoothaali Malayalam (8) - beenei, muttanari, muttanaru, orilatheeppettimaram, perin-panel, vidukanalei, vidukanali, vitukanali Marathi (2) - kaloapkara, kumto Tamil (3) - mutta-nari, muttanari, vidukanalei
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0707cb3db390cfb397a5c7692e92bec1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0707cb3db390cfb397a5c7692e92bec1/xclkon/b4fe03166c2c42c2b5695e663bbb7351
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0707cb3db390cfb397a5c7692e92bec1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

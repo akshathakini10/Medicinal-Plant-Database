@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1df5bfc5e0fa4fb59bcb9e6cf1c00290
+Botanical Name: Crescentia cujete VELL.
+Family: Bignoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. English (1) - calabash tree Kannada (1) - sokeburude Tamil (2) - tiruvottukkai, tiruvottukkay
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1df5bfc5e0fa4fb59bcb9e6cf1c00290
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1df5bfc5e0fa4fb59bcb9e6cf1c00290
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1df5bfc5e0fa4fb59bcb9e6cf1c00290
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

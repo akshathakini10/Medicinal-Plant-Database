@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1c0e234f323f5f9e416462df7e6d55b6
+Botanical Name: Castanea sativa MILL.
+Family: Fagaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 3 languages. English (6) - common chestnut, congo stick, european chestnut, spanish chestnut, sweet chestnut, sweet or spanish chestnut Hindi (2) - mitha khanor, poo Tamil (1) - kaskottai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c0e234f323f5f9e416462df7e6d55b6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c0e234f323f5f9e416462df7e6d55b6
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c0e234f323f5f9e416462df7e6d55b6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

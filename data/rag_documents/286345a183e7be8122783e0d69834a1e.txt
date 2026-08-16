@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 286345a183e7be8122783e0d69834a1e
+Botanical Name: Dalbergia volubilis ROB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 6 languages. Hindi (2) - bankhara, bhatia Malayalam (2) - mryti, rongdi Marathi (4) - alai, alei, aloy, manganver Sanskrit (1) - Sanskrit Comments  sirisika Tamil (4) - bandigarjana, punali, punalikkoti, punalippu Telugu (10) - baddugaruttuginga, baddugaruttuginja, bandeegurjan, bandigarjana, bandigurugindza, gamlap-tiga, gavilaputheega, gavileputige, gumidi-tiga, kotipachara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286345a183e7be8122783e0d69834a1e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286345a183e7be8122783e0d69834a1e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286345a183e7be8122783e0d69834a1e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/286345a183e7be8122783e0d69834a1e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kapotavanka
+sanskrit_name: कपोतवङ्का
+transliteration: kapotavaṅkā
+ref_drug_name: कपोतवङ्का
+status: Suggested source
+discussion: Needs to be examined to be used as the source plant or substitute
+reference: [1]
+
+Identity Record 2
+drug_name: Sirisika
+sanskrit_name: शिरीषिका
+transliteration: śirīṣikā
+ref_drug_name: शिरीषिका
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 311859be0b9c62810103d1964445c910
+Botanical Name: Excoecaria agallocha L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 110 Vernacular names found in 8 languages. English (1) - blind-your-eye(s) Hindi (2) - gangiva, tejbala Kannada (8) - haaro gida, hara, haro, harogida, kamate, kammatta, thilla, tilla Malayalam (10) - cametti, cammetti, kaduvapal, kametti, karmatti, karmmatti, katappala, katuvapala, komatti, phungali Marathi (8) - geva, hurashi, kharo uro, phungali, suran, surind, surund, uro Sanskrit (6) - Sanskrit Comments  agaru, gangwa, gaourai, geria, tilvakah, ugaru Tamil (68) - agadil, agi, akakkolli, akati, akil 1, akkolli, ambalatti, ambalavirukkam, ampalatti2, ampalavirukkam, analpali, anti, antivirutcam, atiyakuttan, atiyakuttanmaram, atkolli, atkollimaram, cavipputtillai, cikaram#, cillam1, citamparam, conkam, cuvetam1, cuvetamatiyakuttan, elumpuccankam, kalecam, kaleyam, kaleyavirutcam, kalintakitam, kalintakitavirutcam, kampetti, kanalpali, kanna#, karacatam, kokkumeni, kopitakam, kopitakamaram, kuttanam@, makatti 1, makatticceti, mukamvinkimaram, mukamvinkiviruksam, nakapani, namanaiviratti, neruppumaram, parivintu, parivintumaram, paruvi, paruvirutcam, perundillai, petaram, ponnampalam, ponnampalavirutcam, tevaputi, thilai maram, thillai, tilappakam, tilappakava, tilla-chedi, tillai, tillaivirutcam, tilvam, tiritomam, tirucati, tuti2, uttiratcam, vanattilai, varivanam Telugu (7) - chilla, cilla, tella, thella chettu, thilla, tilla, tillachettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/311859be0b9c62810103d1964445c910
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 951
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/951.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/311859be0b9c62810103d1964445c910
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/311859be0b9c62810103d1964445c910
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/311859be0b9c62810103d1964445c910
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

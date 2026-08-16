@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 72c80a5a5d4643db16ecd64e09d00f26
+Botanical Name: Lobelia nicotianaefolia ROTH. E. R. & S.
+Family: Lobeliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 62 Vernacular names found in 7 languages. Hindi (2) - nala, narasala Kannada (13) - bakathumbe, dodda kaadu, heddumbe, hoge soppu, kaada-hogesoppu, kaadu hoge soppu, kaadu thambaaku, kaatupugeri, kadahogesoppu, kandalu, kandele, katupatange, katupugeri Malayalam (2) - kattupugayila, kattupukayila Marathi (8) - boknal, daevanal, devanala, dhaval, dhavala, nala, thoradaevanala, thoradevanala Sanskrit (26) - Sanskrit Comments  bibhishana, chhidranta, devanala, dhamana, dirghavansha, kichaka, kukshirandhra, lalavansha, mahanala, mala, mriduchhada, mridupatra, mrityupushpa, nada, nalottama, narttaka, nata, nati, potagala, shunyamadhya, sthuladanda, sthulanala, suradruma, suranala, vanshapatra, vanya Tamil (7) - kattu p pukaiyilai, kattu-papillay, kattu-pugaiyilai, kattup pukaiyilai, kattuppugaiyilai, kattupugaiyilai, upperichedi Telugu (4) - aadavipogaku, adavi pogaku, adavipogaaku, adavipogaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72c80a5a5d4643db16ecd64e09d00f26
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1333
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1333.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72c80a5a5d4643db16ecd64e09d00f26
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72c80a5a5d4643db16ecd64e09d00f26
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/72c80a5a5d4643db16ecd64e09d00f26
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

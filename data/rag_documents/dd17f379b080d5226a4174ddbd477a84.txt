@@ -1,0 +1,123 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dd17f379b080d5226a4174ddbd477a84
+Botanical Name: Aerva lanata (L.) JUSS. E SCHULT.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Achyranthes lanata L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 103 Vernacular names found in 7 languages. Hindi (7) - chaya, choti-bui, gorakh-boonti, gorakhganja, gorkhabundi, kapurijadi, konda Kannada (8) - bilee sooli gida, bili hindee soppu, bili hooli, bili sooli, bilihindee soppu, bilihindi, bilihooli, hittina donne soppu Malayalam (4) - cerula, cerupula, ceruvula, scheru-bula Marathi (9) - kapoor madhura, kapoorimadhuri, kapoorphuli, kapurimadhuri, kapurmadhura, kapurphuti, kumarapindi, kumrapindi, tandlo Sanskrit (7) - Sanskrit Comments  asmabhedah, astmabayda, bhadra, goraksaganja, pasanabheda, pashanabheda, pattura Tamil (56) - acuvamanaku, antipilai, antipilaiceti, calinilappu, canunkuvukai, cerupulai, chiru peelai, cirukanpilai, cirupilai, cirupulai, cokkali, cokkali#, cokkali$, cokkalicceti, cunnampukkirai1, cuttiraciritam, kanpilai, kanpulai, karpeti, malacu, malacucceti, mukkili 2, panru, pantu#, pantukacceti, pantukam$, pantumalar, pasanapeti, pasanapeti 1, pilai, pilai 1, pincatam, pincetam, poolai, pulai 1, pulaiver, pulikacceti, pulikam, serupeelai, sirroo poolay vayr, siru-peelai, sirupaulai, sirupeelai, sirupulai, tevimulacceti, tevimulam, tunkumuturam, umika, umikacceti, umil, uninam, uninputu, unkanimuli, uratam, uttuparamuli, uyinai Telugu (12) - guanabana, kondapindi, pindi kunda, pindi kura, pindichettu, pindidonda, pindikoora, pindikumda, pindikunda, pindipoolu, thelaga pindi konda, thelaga pindikunda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84/xclkon/13e5aaee60ee998f6a31d367e0a7db3a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 65
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/65.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84/xclkon/d6956d5487fa6d22e75e8b771e6a7914
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84/xclkon/13e5aaee60ee998f6a31d367e0a7db3a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84/xclkon/d6956d5487fa6d22e75e8b771e6a7914
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84/xclkon/13e5aaee60ee998f6a31d367e0a7db3a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84/xclkon/d6956d5487fa6d22e75e8b771e6a7914
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd17f379b080d5226a4174ddbd477a84/xclkon/13e5aaee60ee998f6a31d367e0a7db3a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Goraksaganja
+sanskrit_name: गोरक्षगांजा
+transliteration: gorakṣagāṃjā
+ref_drug_name: गोरक्षगांजा
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Indivara
+sanskrit_name: इन्दीवर
+transliteration: indīvara
+ref_drug_name: इन्दीवर
+status: Controversial
+discussion: There are views regarding identity of Indivara and this may be identified as a variety of this plant
+reference: [1]
+
+Identity Record 3
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+ref_drug_name: पाषाणभेद
+status: Controversial
+discussion: Many species are correlated to this plant and one among them is Aerva lanata which is used as 'Pasanabheda' in South India
+reference: [5]
+
+Identity Record 4
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+ref_drug_name: पाषाणभेद
+status: Most probable
+discussion: This species is being used as Pasanabheda in Tamil Nadu, Andhra Pradesh and Rajasthan and have found it to be efficacious; Most of the eminent writers have considered this to be as Pasanabheda as it bears all its properties
+reference: [2]
+
+Identity Record 5
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+ref_drug_name: पाषाणभेद
+status: Substituted source
+discussion: This species is used as a substitute with regard to its functions to that of Pasanabheda
+reference: [1]
+
+Identity Record 6
+drug_name: Pattura
+sanskrit_name: पत्तूर
+transliteration: pattūra
+ref_drug_name: पत्तूर
+status: Most probable
+discussion: Aerva lanata is being used as Pasanabheda in the South but its properties are similar to Pattura so considered as a most probable candidate
+reference: [1]
+
+Identity Record 7
+drug_name: Pattura
+sanskrit_name: पत्तूर
+transliteration: pattūra
+ref_drug_name: पत्तूर
+status: Suggested source
+discussion: Thakur Balwant Singh has interpreted 'Pattura' as 'Goraksaganja' which is correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+image_urls: https://www.medicinalplants.in/slokaimages/233/233_1.jpg https://www.medicinalplants.in/slokaimages/233/233_2.jpg https://www.medicinalplants.in/slokaimages/233/233_3.jpg https://www.medicinalplants.in/slokaimages/233/233_4.jpg
+ocr_text: पाषणभेदकोश्मघ्नःशिलाभेदोश्मभेदकः सचैवोपलभेदश्चनगभिच्छैलगर्भजः Synonyms of pasanabheda are asmaghna, silabheda, asmabhedaka, palabheda, nagabhi elagarbhaja and अश्मभिद्वस्तिरुङ्मूत्रकृच्छ्रतोदाहवातनुत् शीतवीर्योगुरुःस्निग्धस्तथातीसारनाशनः न (शो.नि) Asmabhid is guru, snighda in guna, sita in veerya, alleviates vastiruk, mutra krcchra, daha, vata and atisara. अश्मभेदोहिमस्तिक्तःकषायोवस्तिशोधनः मेदंहन्तित्रिदोषार्शोगुल्मकृच्छ्राश्महृद्रुजः योनिरोगान्प्रमेहांश्चप्लीहशूलव्रणानिच It is tikta, kashaya in rasa, hima in veerya, vasti sodhana, alleviates meda tridosha, arsa, gulma, krcchra, asma, hraruja, yoni roga, prameha, pliha sula and vrana क्षुद्रापाषाणभेदश्चव्रणकृच्छ्राश्मरीहरः IRjn ) Ksudra pasanabheda alleviates vrana, krcchra and asmari.

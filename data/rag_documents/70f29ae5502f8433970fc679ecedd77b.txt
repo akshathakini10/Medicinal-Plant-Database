@@ -1,0 +1,76 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 70f29ae5502f8433970fc679ecedd77b
+Botanical Name: Averrhoa carambola L.
+Family: Oalidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 115 Vernacular names found in 9 languages. English (3) - caramba, carambola, star fruit Hindi (6) - kamarakh, kamaramga, kamaranga, kamrak, karmal, khamrak Kannada (23) - daare huli, darchuli, darehuli, darepuli, kamaraak mara, kamaraakshi, kamaraakshi hannu, kamarak, kamaraka mara, kamarakha, kamarakshi, kamarakshi mara, kamaranga, kamraak, kamrac, karamaadalu, karmaranga, kiranelli, kirinelli, kirinulli, kobari kaayi, komarakmara, komaree Malayalam (18) - carambola, catarapuli, caturappuli, chatarapali, chaturappuli, irumpanpuli, kamaranga, kamarangam, pulachi, pulichi, pulinci, pulinji, saturappuli, tamara, tamarat-tuka, tamaratonga, tamaratta, thamarathamu Marathi (6) - kamarakha, karamala, karmal, karmar, karmare, kumrak Sanskrit (16) - Sanskrit Comments  brihaddala, dantasatha, dharaphala, dharaphalah, karmar, karmara, karmaranga, karmarangah, karuka, karukah, mudgara, pitaphala, pitaphalah, rujakara, shiral, shukapriya Tamil (35) - cakatam1, cakattai, caturappuli, ci, cicakari, cicam, cikam, cukkirakam, cukkirakamaram, kacerukam, kandasagadam, kantacatakamaram, kantacatcam, kantacatkam, nattuttamarattai, pukamatitam, pukamatitamaram, pulipputtamarattai, putakecam, putakecaramaram, sagadam, sigam, sisam, tamarakam, tamarakamaram, tamarathai, tamaraththam, tamarattai, tamarattaimaram, tamarattam, tamarattankay, tamaratti, tamarttam-kay, tantacatam1, thamaratham Telugu (7) - karamanooga, karamonga, karomonga, tamaratamu, tamarta, tamarta-kaya, thamaratha Urdu (1) - kamarakha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/70f29ae5502f8433970fc679ecedd77b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dantasatha
+sanskrit_name: दन्तशठ
+transliteration: dantaśaṭha
+ref_drug_name: दन्तशठ
+status: Accepted source
+discussion: Dantasatha is dentified with this species; Mentioned in Caraka and Susruta under the amla varga (sour group) and amla phala (sour fruits); Nowadays it is popular by the name 'Karmaranga'
+reference: [5]
+
+Identity Record 2
+drug_name: Karmaranga
+sanskrit_name: कर्मरङ्ग
+transliteration: karmaraṅga
+ref_drug_name: कर्मरङ्ग
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Karmaranga
+sanskrit_name: कर्मरङ्ग
+transliteration: karmaraṅga
+ref_drug_name: कर्मरङ्ग
+status: AS
+discussion: Identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Karmaranga
+sanskrit_name: कर्मरङ्ग
+transliteration: karmaraṅga
+image_urls: https://www.medicinalplants.in/slokaimages/191/191_1.jpg https://www.medicinalplants.in/slokaimages/191/191_2.jpg https://www.medicinalplants.in/slokaimages/191/191_3.jpg
+ocr_text: कर्मारको अम्ल उष्णश्च वातहृत पित्तकारकः पक्वस्तु मधुराम्लः स्यात् बलपुष्टिरुचिप्रदः | | IRjnl Amla phala is usna in veerya, alleviates vata and increases pitta. Pakva phala is madhura, amla in rasa , bala pusti ruci prada कर्मारस्य फलं चाम्ललं ग्राह्यम्लं वातनाशनम् | उष्णं पित्तकरं चैव तत्पक्वं मधुरं मतम्| अम्लं च बलपुष्टिनां रुचेष्चैव विवर्धतम्|| INirl Amla phala is amla in rasa, grahi in guna, usna in veerya, alieviates vata and increases pitta. Pakva phala is madhura, amla in rasa, bala pusti vardhana, ruci vardhana. and कर्मरंगं हिमं ग्राहि स्वाद्वम्लं कफवातहृत् ( IBpn ) It is svadu, amia in rasa, grahi in guna, hima in veerya and alleviates kapha ana vata.

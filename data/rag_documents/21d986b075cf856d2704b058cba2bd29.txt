@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 21d986b075cf856d2704b058cba2bd29
+Botanical Name: Crataegus oxyacantha L.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Hindi (3) - bar sangli, pangyar, rheuns
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21d986b075cf856d2704b058cba2bd29
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21d986b075cf856d2704b058cba2bd29
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21d986b075cf856d2704b058cba2bd29
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

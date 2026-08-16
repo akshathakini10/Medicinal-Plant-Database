@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: acde95a3d945e1c198d36322fa971e7f
+Botanical Name: Cassia montana HEYNE E. ROTH.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. Kannada (4) - betta thangadi, malaiavarike, maleyaavarike, maleyavarike Telugu (3) - konda thanagedu, pagadathangedu, pageditangedu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acde95a3d945e1c198d36322fa971e7f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acde95a3d945e1c198d36322fa971e7f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

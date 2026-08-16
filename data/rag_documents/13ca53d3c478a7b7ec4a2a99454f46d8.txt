@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 13ca53d3c478a7b7ec4a2a99454f46d8
+Botanical Name: Flacourtia ramontchi L.
+Family: Flacourtiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 71 Vernacular names found in 6 languages. Hindi (16) - bhanber, bilangra, bilangura, bowchi, bunj, handi, kakein, kandai, kandei, kandel, kangu, kanju, kantai, katar, kukar, kundayi Kannada (15) - gajabira, gajal, gajale, gajalike, gapra, hettarimullu, hunmunki, lotpatar, muldindu, mullatari, mullutari, mulluthotti, nayibela, shamper, yettrimullu Malayalam (1) - talur-kara Sanskrit (9) - Sanskrit Comments  ghana, gopakanta, sruvavrksah, srvavrksa, svadukantaka, swadukantaka, vikankata, vikankatah, vikarigata Tamil (9) - chothakilai, cottaikkala, kaka, kattukala, kolumpu kottaikkala, kolumpuppulam, kothuvela, malukkarai, sottaikala Telugu (21) - bejjuven, bontakandregu, kaka, kanaregu, kandregu, kanragu, kanregu, kanroo, kanru, muluanam, nakkanaregu, nakkaneredu, nelli, peddakanaregu, peddakanregu, peddakanroo, peddakanru, pitamullaga, puddakanaew, puthikithada, putikatada
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13ca53d3c478a7b7ec4a2a99454f46d8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13ca53d3c478a7b7ec4a2a99454f46d8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13ca53d3c478a7b7ec4a2a99454f46d8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13ca53d3c478a7b7ec4a2a99454f46d8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vikankata
+sanskrit_name: विकङ्कत
+transliteration: vikaṅkata
+ref_drug_name: विकङ्कत
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

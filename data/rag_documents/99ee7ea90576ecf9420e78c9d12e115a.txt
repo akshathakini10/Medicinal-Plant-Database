@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 99ee7ea90576ecf9420e78c9d12e115a
+Botanical Name: Sterculia villosa ROB.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 78 Vernacular names found in 6 languages. Hindi (10) - god-gudala, godgaddala, godgudala, godudala, kardala, katira, udal, udala, udar, wadala Kannada (30) - anenar, arnainarr, balnaru, biliathaale, bilidaale, bilidaili, bilidale, bilinaaru, bilinaru, kaidaili, kaithaale, kaithali, kalsaavige, kalsoge, maashi, mashi, massi, pulikisannge, pulukusavige, sag, sagai, sage, samikai, savaya, saveya, savige, sounge, tevaru, thevaru, uppalige Malayalam (6) - cavali, chavuthi, shavoodee, vakka, vakkanar, vakku Marathi (4) - gulkhandar, kardul, sardol, saykhand Tamil (11) - anai-nar, anainar, kottai thanuku, kottaithanuku, muratthan, muruthan, otal, vakkai, vakkainar, vakku@, vakkunar Telugu (17) - gogai, gugai, kavile, kovila, kummara ponaku, kummaraponaku, kummaraponiki, kummari poliki, kummaripoliki, naaraponaku, narapoliki, naraponaku, polelli, poliki, ponaku, puliki, vakkunara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99ee7ea90576ecf9420e78c9d12e115a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99ee7ea90576ecf9420e78c9d12e115a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99ee7ea90576ecf9420e78c9d12e115a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Uddala
+sanskrit_name: उद्दाला
+transliteration: uddālā
+ref_drug_name: उद्दाला
+status: Most probable
+discussion: Uddala is identified with a different plant called Odara which is correlated with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

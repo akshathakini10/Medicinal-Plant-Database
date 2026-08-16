@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f44b0ac0cb0b9c0866aa5712899d702d
+Botanical Name: Annona squamosa L.
+Family: Annonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 93 Vernacular names found in 8 languages. English (2) - custard apple, sweetsop Hindi (8) - at, atasitaphal, sarifa, sharifa, sharilfah, shariphal, sherifa, sitaphal Kannada (21) - amrita, amritakayida, amritaphala, amrithaphala, amrutaphala, amrytakayi, amrytakayida, amrytaphala, amuchi kaayi, amucikayi, duranji, duranji hannu, duranji mara, seethaaphala, seethaphal, seethaphala, sita, sitahala, sitahannu, sitaphal, sitaphala Malayalam (13) - antacheecha, ata, atamaram, atha, atta, attaccakka, attachchakka, sirpa, sirpha, sitapalam, sitappalam, sutakanni, suthakanni Marathi (4) - at, ath, seethaphal, sitaphal Sanskrit (15) - Sanskrit Comments  agrimakhya, atripya, bahubijaka, ganda, gandagatra, gandhagatra, gutea, krishnabija, krisnabija, shubha, sitapalam, sitaphala, subha, suda, vaidehivallabha Tamil (22) - annila, atta, cintamaram, cita, citta, cittamaram, cupakalavam, cupakarajamaram, letcumi 1, letcumimaram, nilampu1, nilampuccitta, pilavai-kolli, seetha pazham, sita, sitapalam, sitappalam, sith-tha, sitha, sithapalam, tirilokeyam, tirilokeyamaram Telugu (8) - ganda gaathramu, ganda gathram, gandagatramu, seetapandu, seethapandu, seethaphalamu, sitapandu, sitaphalamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f44b0ac0cb0b9c0866aa5712899d702d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sitapatala
+sanskrit_name: सितपाटला
+transliteration: sitāpaṭalā
+ref_drug_name: सितपाटला
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

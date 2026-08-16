@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6ecdf68855a0364e6eb3661e83dccb60
+Botanical Name: Jatropha curcas L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 237 Vernacular names found in 8 languages. English (3) - physic nut, pulza, purging nut Hindi (28) - bag-berenda, bagberenda, bagbherenda, begberenda, bhernda, jabblota, jablota, jamal-ghota, jamalghota, jamnota, jangli-arandi, jangli-erandi, jangliarandi, jungli erand, pahari arand, pahari erand, paharierand, panch phuli, ratan-jhad, ratanjhad, ratanjot, ratanjyot, safe-dind, safed arand, safed-arand, safed-erandi, safedarand, safedind Kannada (36) - adalu haralu, adaluharalu, belioudalu, bettada-haralu, bettadaharalu, bettaharalu, dodda haralu, doddaharalu, dundagina gida, dundigina, dundigu, kaadu haralu, kachallu, kadaharalu, kadalambudu, kadallu, kadandla, kadi, kadubaralu, kaduharalu, karnocci, karnochchi, maraharalu, maraharlu, maranarulle, marayavudala, maraylavudala, marla, parangi haralu, parangiharalu, pharengiharalu, pharengilcala, ranniarendero, turakaharalu, turukaharalu, ucharale Malayalam (8) - caakavanakoo, kaatavanako, kammatti, katalavanakku, katamanak, katamanakku, kattavanakku, kattuavanakku Marathi (10) - erandi, jaiphal, jempel, mogaliaeranda, mogalieranda, moghli-erendi, mogli-erandi, ran-erandi, ranayerandi, ratanjot Sanskrit (21) - Sanskrit Comments  akhuparnika, chitra, dravanti, kanana-eranda, kanana-kerundum, kananaeranda, kananakerundum, kananeranda, mushikaparni, nepala, nyagrodhi, paravata-yeranda, parvata-yeranda, parvatayeranda, parvateranda, pratyakshreni, randa, shanbari, sutashreni, vrisha, vyaghrairanda Tamil (96) - acanankai, adalai, aimmuki 2, aimmukicceti, aituki, atalai, atalai 2@, atalai 3@, ayamurukki 2, caat amunak, cancayacceti, cancayam, cirevanacceti, cirevanam, cironi, cironicceti, cokanatipputu, eliamanakku, elippakam 3, elippasanam, eliyal 2, eliyalam, eliyalu, eliyamanakku, emattur, erikalai, erikalan 2, iyakatotikacceti, iyakatotikam, iyamakki, kaattamanakku, kadalamanakku, kaitta, kaittamanakkucceti, kamatatikacceti, kamatatikam, kat-amanak, katalamanakku, katalamanakku 2, katamanakku, kattamanakku, kattamanaku, kattamanatti, kattatalai, kattatalaicceti, kattinamanatti, kattukkottai, kattukkotti, kirakiratti, kocalamamuli, kuribaravuni, kurubaravuni, kuruparavuni, naali gaddi, naligadi, nalikacu 2, nalikati, nalikati 2, nalkati, nay-k-kottan pattai, nikkurotacceti, nikkurotam 2, nikkurottam, nikkurottam 2, nikumpacari, nulamanakku, nulamanakkucceti, pacuvacironi, pacuvacuroni#, pacuvacuroni@, pana, panan, pancamukaruttiri, parucci, periyatalai, periyatalaicceti, picarakanti, tiral, tiralanti, tiravaadi, tiravanticceti, tiravati, tiruvati, tummatikacceti, tummattika, tunkaitutan, tunti 1, turumavaruni, turumavarunicceti, turupavaruni, turuppavani, turuvati, upakumpam, utumparaparani, velinayakam, vellamanakku Telugu (35) - adavi amida, adavi amudam, adavi amudamu, adavi karmida, adavi-amudamu, adaviaamudamu, adaviamuda, adaviyamudamu, adiviamadam, adiviamidam, adivie amida, adivuamudam, erri amudamu, kaatiyaamudamu, katiamudam, katiyamudamu, kondaamuda, kondaamudamu, kondamudamu, naepalamu, napalam, napatain, nepalam, nepalamu, nepalem, nepalemu, papaalemu, pedda-nepalamu, peddanaepalamu, peddanepalam, peddanepalamu, peddanepalemu, pepalam, pepalamu, pepalemu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ecdf68855a0364e6eb3661e83dccb60
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dravanti - prajati
+sanskrit_name: द्रवन्ती प्रजाति
+transliteration: dravantī prajāti
+ref_drug_name: द्रवन्ती प्रजाति
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

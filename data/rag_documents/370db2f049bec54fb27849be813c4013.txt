@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 370db2f049bec54fb27849be813c4013
+Botanical Name: Abies spectabilis (D.DON) SPACH
+Family: Pinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Abies webbiana LINDL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 8 languages. Hindi (10) - kanda morinda, morinda, raga, rai, span, talis patra, talispatra, talispatri, tapis patra, tosh Kannada (1) - talispatri Malayalam (2) - taleesaptram, talisapatram Sanskrit (8) - Sanskrit Comments  dhatripatra, manduparani, sukodara, talisa, talisam, talisapatra, talisapatradya, talisapatram Tamil (2) - talisapatri, talispatri Telugu (2) - talispatri, thaalespathri Tibetan (1) - ba-lu Urdu (2) - talispatar, zarnab
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/a0959e9defa7c00fad354854b7e21f66
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 10
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/10.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/a0959e9defa7c00fad354854b7e21f66
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/a0959e9defa7c00fad354854b7e21f66
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/a0959e9defa7c00fad354854b7e21f66
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/d148c25ad7f691d99f422e93bdc70751
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/370db2f049bec54fb27849be813c4013/xclkon/a0959e9defa7c00fad354854b7e21f66
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Talisapatra
+sanskrit_name: तालीशपत्र
+transliteration: tālīśapatra
+image_urls: https://www.medicinalplants.in/slokaimages/6/6_1.jpg https://www.medicinalplants.in/slokaimages/6/6_2.jpg https://www.medicinalplants.in/slokaimages/6/6_3.jpg
+ocr_text: तालीसं श्वासकासघ्नं दीपनं श्लेष्मपित्तजित् | मुखरोगहरं हद्यं पत्रसंवृतम्| | (Dhnl Talisapatra alleviates slesma and pitta, is dipana, hraya, supatra, patra samvrta, cures svasa, kasa and mukha roga सुपत्रं तालीसपत्रं तिक्तोष्णं मधुरं कफवातहृत् कासहिक्काक्षयश्वासछर्द्दिदोषविनाशकम् IRjn| Talisa patra is tikta, madhura in rasa, usna in veerya, alleviates kapha ana vata, cures kasa, hikka, ksaya, svasa and chardi. तालीसं लघु तिक्तोष्णं श्वासकासकफानिलान् निहन्त्यरुचिगुल्मामवमिमान्द्यक्षयामयान् T IBpn) Talisa is tikta in rasa, laghu in guna, usna in veerya, alleviates kapha ana anila, cures svasa, kasa, aruci gulma, ama, vami, agnimandya, ksaya and amava.

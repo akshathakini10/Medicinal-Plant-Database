@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bd8e05dd351b9cbc25e44db67f3ca541
+Botanical Name: Cadaba trifoliata WIGHT & ARN.
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 4 languages. Kannada (1) - balaya Sanskrit (1) - Sanskrit Comments  balaya Tamil (3) - manudukkurundu, purna, viluti Telugu (11) - chekonadi, chikondi, kodikaalu, kodikallu, kodikalu, mallaguru, nallagaara, nallagara, peddachikonadi, peddacikonadi, peddasivakonita
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e05dd351b9cbc25e44db67f3ca541
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 380
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/380.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e05dd351b9cbc25e44db67f3ca541
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd8e05dd351b9cbc25e44db67f3ca541
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

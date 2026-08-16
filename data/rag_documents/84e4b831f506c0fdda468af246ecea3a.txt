@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 84e4b831f506c0fdda468af246ecea3a
+Botanical Name: Majorana hortensis MOENCH
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Origanum majorana L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 56 Vernacular names found in 9 languages. English (1) - sweet marjoram Hindi (2) - murwa, sathra Kannada (2) - davana, maruga Marathi (4) - marva, marwa, mijirikamy, sabja marve Sanskrit (22) - Sanskrit Comments  ajanmasurabhi, ajanmasurabhipatra, bahuvirya, gandhapatra, jambira, kharapatra, kulasaurabha, manjarika, marataka, maricha, maru, marubaka, maruta, marwa, phani, phanijjaka, prasthakusuma, prasthapushpa, prathapuspah, samirana, shitalaka, suravha Tamil (17) - acaikkuriyan, cutanaccu, kuvalamayam, kuvalamaycceti, malaikkuncaram 1, mancipattiri, marccoram, marrau, marroo, marru, maru 2, marukkoluntu, maruku, maruvu, marvu, takaittavacceti, takaittuvam Telugu (3) - davanamu, maruvamu, mridu maruvamu Tibetan (1) - ma ru ba ka Urdu (4) - ban-tulsi, marwa, marzanjosh, murwa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a/xclkon/073507649417c5fc48c69fe9f602e52d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a/xclkon/073507649417c5fc48c69fe9f602e52d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a/xclkon/073507649417c5fc48c69fe9f602e52d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a/xclkon/073507649417c5fc48c69fe9f602e52d
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a/xclkon/073507649417c5fc48c69fe9f602e52d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84e4b831f506c0fdda468af246ecea3a/xclkon/073507649417c5fc48c69fe9f602e52d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

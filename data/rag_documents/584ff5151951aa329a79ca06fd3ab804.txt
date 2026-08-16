@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 584ff5151951aa329a79ca06fd3ab804
+Botanical Name: Anacardium occidentale L.
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 126 Vernacular names found in 8 languages. English (5) - acajou, cardol, cashew gum, cashew-nut, coffin nail Hindi (4) - duk, hijli-badam, kaju, kaju-ki-gutli Kannada (34) - gaeru, gaeru beeja, gaeru kaayi, gaeru pappu, gaerumara, gerapoppu, gerbija, gerligai, geru, geru pappu, gerubija, gerupoppu, godambe, godambee, godambi mara, godambimara, godami, gokuda, gonkuda, gori, govamba, govambe, gove, gove gaeru, gove hannu, jidi, kempu gaeru, kempugeru, kempukerubija, mandiri pappu, tarukageru, thuruka geru, turakageru, turukageru Malayalam (22) - kapa-mava, kapamava, kappa-mavakuru, kappa-mavu, kappaimavu, kappal-cheru-kuru, kappalcher, kappalmavu, kappalsera, kappamavakum, kappamavu, karmavu, kashumavu, kasumavu, parangimavu, parankimava, parankimavu, paringimavu, patirimavu, portugimavu, portukimavu, pritikannavu Marathi (5) - bi, kaajoocha, kajoo, kaju, kajucha Sanskrit (18) - Sanskrit Comments  agnikrita, arushkara, guchhapushpa, kajutah, kajutaka, kajutakah, parvati, prithagabija, shoephahara, sophahara, sophara, srigdhahapitaphala, upapushpika, venamrah, vrittapatra, vrkkabijah, vrkkaphalah, vrttarushkarah Tamil (25) - andima, andimangottai, kaju, kallarma, kollamma, kottai munitirima, kottai-mundiri, kottaimundiri, mindiri-appazham, mindiriparuppu, mundhiri, mundiri, mundiri kottae, mundiri-kai, mundiri-kottai, mundthri, munthiri, munthri, munthri-kottei, muntiri, muntiri- p-palam, saram, sigidima, tirigai, uttumabalam Telugu (13) - jaedima-midi, jeedimaamidi, jidi mamidi, jidi-mamidi-vittu, jidimamidi, mokka mamidi, mokkamaamidi, mokkamamidi, moonthamamidivittu, munta mamidi, muntamamidi, muntamamidi-vittu, munthamaamidi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/584ff5151951aa329a79ca06fd3ab804
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/584ff5151951aa329a79ca06fd3ab804
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/584ff5151951aa329a79ca06fd3ab804
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/584ff5151951aa329a79ca06fd3ab804
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/584ff5151951aa329a79ca06fd3ab804
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

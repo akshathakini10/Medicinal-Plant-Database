@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6cf0e5b75f79d2bead02d0b2ae6c943e
+Botanical Name: Crotalaria spectabilis ROTH.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Crotalaria sericea RETZ
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 3 languages. Hindi (4) - jangli sann, jangli-sann, jhunjhunia, sani Kannada (1) - ghantaarava Sanskrit (1) - Sanskrit Comments  ghantarava
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6cf0e5b75f79d2bead02d0b2ae6c943e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6cf0e5b75f79d2bead02d0b2ae6c943e/xclkon/5e47fc8d9d2a656595e232c5e07a0be2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6cf0e5b75f79d2bead02d0b2ae6c943e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

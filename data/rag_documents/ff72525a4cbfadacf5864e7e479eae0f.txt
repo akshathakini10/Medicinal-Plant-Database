@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ff72525a4cbfadacf5864e7e479eae0f
+Botanical Name: Delonix elata (L.) GAMBLE
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Poinciana elata L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 70 Vernacular names found in 6 languages. Hindi (4) - samrsro, sandeshra, sanesro, waykaran Kannada (13) - chinnakisari, kempukenchaga, kempukencige, kempukenjiga, kesaraka, neerangi, nirangi, niranji, sankesvara, sunkasari, sunkatti, sunkesari, vatanarayana Marathi (3) - sanchaila, sankasura, sankesura Sanskrit (1) - Sanskrit Comments  siddhesvara Tamil (29) - carutakikam, carutakikamaram, cirumayirkonrai, cunakappuritam, kanuppavakam, kanuppavakamaram, mayirkkonrai 2, mayirkonrai@, mayuram 4, padenarayan, pancalai, pancati, patanarayanan, perungondrai, perunkonrai, vaaracchi, vadamudukki, vadanarayanan, varatti, vatanarayanam, vatanarayanamaram, vatanarayanan, vataracu, vatarakkacci 2, vatarakkaycci, vatarayanam 2, vatha narayanan, vathanarayanan, vatrakkacci Telugu (20) - chinnaseribiseri, chinneseribiseri, chitikesvaram, chitti-kesar, chittikeshvaramu, chittikeshwaramu, chittisunkeshvaram, cinnaseribiseri, cittikesvaram, sankesula, sinkiresi, soonceishla, sunkeshvaram, sunkesula, sunkesvaram, sunkesvaramu, sunkeswar, sunkevaramu, vaathanaarayana, vatanarayana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f/xclkon/ad067cd3c3f473208370158ae9b38ae9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 772
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/772.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f/xclkon/ad067cd3c3f473208370158ae9b38ae9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f/xclkon/ad067cd3c3f473208370158ae9b38ae9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff72525a4cbfadacf5864e7e479eae0f/xclkon/ad067cd3c3f473208370158ae9b38ae9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Siddhesvara
+sanskrit_name: सिद्धेश्वर
+transliteration: siddheśvara
+ref_drug_name: सिद्धेश्वर
+status: Controversial
+discussion: Has been mentioned in Sodala nighantu; According to Vaidya Bapalal it is 'Gulmohar' which is correlated to this species but Gulmohar is not a native of India
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ca05ad5b6726d1810b9927a421efeaad
+Botanical Name: Alstonia scholaris R.BR.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 163 Vernacular names found in 10 languages. English (1) - dita bark Hindi (10) - chatian, chatiun, chattiyan, chhatan, chhatium, saitankajhad, saittan ka jat, satiun, satni, satwin Kannada (38) - aelele haale, bantale, doddapala, doddapale, elelebale, elelehale, elelepale, haale, haale mara, hale, jantala, jantale, janthaale mara, janthalla, janthalle, janthatthi, janthra haale, jantrahale, kaadu haale, kaadu saale, kadusaale, kadusale, kodaale, kodale, kodu haale, koduhale, koduhale madale, maddaale, maddale, madi haale, mudhol, mudihale, paale, palai, pale, palembu, saptaparni, yelelebaale mara Malayalam (19) - daivapala, daivappala, elilampala, elilapala, elilapalei, erilampala, ezhilampala, ezhilapala, kodapala, kotapala, mangalapala, mangalappala, mokkanpala, mukampala, mukkampala, mukkan-pala, pala, shaitanwood, yaksippala Marathi (9) - saptaparni, sapthaparni, sathuin, sathvin, sathwin, satuin, satveen, satvin, satwin Sanskrit (48) - Sanskrit Comments  ayugmachchhada, ayugmaparna, ayukachhada, bahuparna, brihattvaka, brihatvaka, chatraparna, dalegandhi, devavriksha, gandhiparna, grahanasha, grahanashamaparna, grahashi, guchhapushpa, jivani, kshatrya, madagandha, munichhada, na, palagaruda, payasya, sapta-parna, saptacchada, saptacchadah, saptachadah, saptachhada, saptahva, saptanga, saptaparna, saptaparnah, saptaparni, sarada, shalmalipatraka, sharada, sharadipushpa, shirarujam, shuktiparna, sringiritika, suparnaka, sutipatra, vidha, vinada, vinyaka, visalatvak, visaltvak, visamacchada, vishalatvaka, vishamachhada Tamil (19) - azhilaip-palai, captaparanam, captaparani, elalaipalai, elilai-p-palai, elilai-ppalai, elilaippalai, elilappalai, ezhilai palai, ezhilai-palai, ezhilaip-palai, maranallari, mukam-palei, mukkanbalai, palai, palegaruda, palegarudu, tirunamappalai, vadirasi Telugu (17) - daevasurippi, devasurippi, edaakulapaala, edaakulaponna, edakula-ariti, edakula-pala, edakula-ponna, edakulapala, edakulaponna, edakularati, elaaramu, elaramu, konda ganneru, paalagaruda, pala-garuda, palagaruda, yedakulapala Tibetan (1) - lo ma bdun Urdu (1) - kashim (chatim)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 138
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/138.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca05ad5b6726d1810b9927a421efeaad
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Saptaparna
+sanskrit_name: सप्तपर्ण
+transliteration: saptaparṇa
+ref_drug_name: सप्तपर्ण
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Saptaparna
+sanskrit_name: सप्तपर्ण
+transliteration: saptaparṇa
+ref_drug_name: सप्तपर्ण
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

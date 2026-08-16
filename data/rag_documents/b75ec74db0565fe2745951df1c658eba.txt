@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b75ec74db0565fe2745951df1c658eba
+Botanical Name: Garcinia pictoria ROB.
+Family: Clusiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 7 languages. Hindi (1) - tamal Kannada (1) - jorigehuli-mara Malayalam (2) - kurukapuli, punarpuli Marathi (1) - revachini Sanskrit (3) - Sanskrit Comments  tamala, tapichha, tapinja Tamil (4) - irevel, mukki, mukki maram, mukki-maram Telugu (1) - revalchini-pal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b75ec74db0565fe2745951df1c658eba
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1031
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1031.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b75ec74db0565fe2745951df1c658eba
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

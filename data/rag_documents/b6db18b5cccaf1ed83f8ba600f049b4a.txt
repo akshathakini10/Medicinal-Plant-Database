@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b6db18b5cccaf1ed83f8ba600f049b4a
+Botanical Name: Setaria glauca BEAUV
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 7 languages. English (3) - cat-tail millet, pigeon grass, yellow foxtail Hindi (6) - ankutt, ban kauni, bandra, bandri, kutta, siun Kannada (1) - bilikoriekhullu Marathi (2) - barati, bhadli Sanskrit (1) - Sanskrit Comments  venupatrika Tamil (1) - koralaepullu Telugu (1) - nakkakora
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6db18b5cccaf1ed83f8ba600f049b4a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b6db18b5cccaf1ed83f8ba600f049b4a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Venupatrika
+sanskrit_name: वेणुपत्रिका
+transliteration: veṇupatrikā
+ref_drug_name: वेणुपत्रिका
+status: Controversial
+discussion: Venupatrika has not been identified hence Vamsapatra has been recommended for use which may be correlated to Setaria glauca
+reference: [1]
+
+Identity Record 2
+drug_name: Venupatrika
+sanskrit_name: वेणुपत्रिका
+transliteration: veṇupatrikā
+ref_drug_name: वेणुपत्रिका
+status: Suggested source
+discussion: Venupatrika' has been mentioned only in Susruta samhita. Dalhana has interpreted it as 'Vamsa patra'; Based on this it may be identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

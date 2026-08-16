@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f2959c0a634d9bf6dc03583e31d9c980
+Botanical Name: Helianthus annuus L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 98 Vernacular names found in 9 languages. English (1) - common sunflower Hindi (7) - hurduja, hurhuja, suraj-mukhi, surajmukhi, surij-makkhi, surij-makkhi or surij-mukkhi, surjmukhi Kannada (7) - adityabhakti, aoorya kaanthi hoo, arka pushpa, hothu thirugu hoo, surya kanthi hoovu, surya-kanti-bija, suryakanti Malayalam (3) - suryakanti, suryappu, suryya-kantam-vitta Marathi (8) - brahmoka, soorajmaka, soorya kamala, sooryaphula, surajmaka, surya-kamal, surya-phul, suryaphula Sanskrit (8) - Sanskrit Comments  adityabhakta, arkakantha, sauvarcala, suriamukhi, suryamukhi, suryavarta, suvarcala, suvarchala Tamil (49) - aditya-bhakti-chettu, arukkopalam, atavan, atittiyaparani, attikankam, curiya kanti, curiyakantacceti, curiyakantam, curiyakanti, cutu1, kanti2, kokamantukacceti, kokapantakam, kokapantukam, kolluppanitacceti, kolluppanitam, kotaikantitacceti, kotaikkantitam, muntakanayakacceti, muntakanayakam, nayirutirumpi, nayiruvananki, nerankatti, nerrankatticceti, nontakiri1, nontakiricceti, panippakaicceti, polututirumpi, polututirumpicceti, polutuvananki, putavakanti, putavakanticceti, raviputpam, shuriya-kanti-virai, suriyakanthi, suryakanthi, suryakanti, takanopalam, tanu, tanu@, tanuvankam, tinakaracceti, tinakaran, tivakaram, uroci, urocicceti, vacciravalli 1, vinmani, vinmanicceti Telugu (14) - aadithya bhakti chettu, aditya-bhakti, aditya-bhakti-chettu, adityabhaktichettu, poddatringudachettu, podduthirugudu chettu, poddutiruguduchettu, proddathringudda chettu, proddutiruguduchettu, sooryakaanthamu, surya kanthi, surya-kanti-vittulu, surya-vartamu, suryakanti Urdu (1) - azriyun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2959c0a634d9bf6dc03583e31d9c980
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Adityavalli
+sanskrit_name: आदित्यवल्ली
+transliteration: ādityavallī
+ref_drug_name: आदित्यवल्ली
+status: Controversial
+discussion: Commentators have usually identified Adityavalli with this species
+reference: [1]
+
+Identity Record 2
+drug_name: Suryavarta
+sanskrit_name: सूर्यावर्त
+transliteration: sūryāvarta
+ref_drug_name: सूर्यावर्त
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Suryavarta - bheda
+sanskrit_name: सूर्यावर्त भेद
+transliteration: sūryāvarta bheda
+ref_drug_name: सूर्यावर्त
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

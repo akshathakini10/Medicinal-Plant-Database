@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8dd3d405f85af6d57843ebe938c302cd
+Botanical Name: Arctostaphylos uva ursi SPRENG
+Family: Ericaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 1 languages. English (10) - bear s-grape, bearberry, crowberry, foxberry, hog cranberry, kinnikinni(c)k, kinnikinnick, mealberry, uva ursi, uva-ursi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dd3d405f85af6d57843ebe938c302cd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dd3d405f85af6d57843ebe938c302cd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8dd3d405f85af6d57843ebe938c302cd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 282641155449618e266d50cc146a9e35
+Botanical Name: Cucumis pseudo-colocynthi ROYLE
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cucumis pubescens WALL. Cucumis trigonus ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 76 Vernacular names found in 7 languages. Hindi (12) - bhakura, bishlambhi, bislambhi, bislambi, bislombi, gorakhakakadi, jangal indrayan, jangli-inda-rayan, jangli-indarayan, jangliindrayan, janglindrayan, sengha Kannada (1) - hal-mekki Malayalam (2) - kattuvellari, pekkummatti Marathi (6) - karit, karita, katvel, shendada, takamake, takmaki Sanskrit (26) - Sanskrit Comments  bahuphalla, chitra, chitraphala, chitravalli, cirbhatah, devi, garakshivriksha, girmi, godumba, indravaruni, indrayan, kapilakshi, katphala, kumbhasi, laghuchirbhitta, maruja, mrgakshi, mrigachirbhitta, mrigadani, mrigakshi, mrigervaru, mrigeshana, pathya, schvetapushpa, vichitra, vishala Tamil (16) - cukkankay, hatt-ttumatti, kattu tummatti, kattu-tumatti, kattut-tumatti, kattuthumatti, kattuttumatti, kattuttummattikkay, kattutummatti, kommatti, kommattikkay, pai-surai, thummittikai, tummatti, tummattikkoti, tummuti Telugu (13) - adavi budama, adavi-puch-cha, adavi-puchcha, adavipuchcha, kodi budama, kodibudama, kodibudinga, kodinella, nalla budama, nallabudama, nallabudinga, pambudinga, pulcha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/4f32fb46d335efb69d2985687c956438
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/4f32fb46d335efb69d2985687c956438
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/4f32fb46d335efb69d2985687c956438
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/282641155449618e266d50cc146a9e35/xclkon/98967d8b51a93ffa11ad42d30567fe3a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

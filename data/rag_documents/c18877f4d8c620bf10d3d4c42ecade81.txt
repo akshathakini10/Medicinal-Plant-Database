@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c18877f4d8c620bf10d3d4c42ecade81
+Botanical Name: Cynoglossum lanceolatum FORSSK.
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cynoglossum micranthum DESF.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  laksmana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18877f4d8c620bf10d3d4c42ecade81/xclkon/e8f8c42eb15d56a6fb5387999451f696
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18877f4d8c620bf10d3d4c42ecade81
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18877f4d8c620bf10d3d4c42ecade81/xclkon/e8f8c42eb15d56a6fb5387999451f696
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18877f4d8c620bf10d3d4c42ecade81
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18877f4d8c620bf10d3d4c42ecade81/xclkon/e8f8c42eb15d56a6fb5387999451f696
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Most probable
+discussion: With regard to its referances in the texts, the following things can be resolved; Its morphology wasn’t described in the Brhatrayis but there was a mention of its pumsavana karma (…….) and it being included in the 'Saka varga' (group of vegetables) which shows it was a very well known drug; Earlier medieval texts have described its leaves having a shape resembling a child on it; Later medieval texts have mentioned its stem resembling a child; Considering the above the real 'Laksmana' became conspicous and other plants were substituted in its place; Vaidya Bapalal has suggested this species as 'Laksmana' as its used in pumsavana and has similar features as mentioned in the texts
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

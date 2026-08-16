@@ -1,0 +1,107 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 202c38ee4b9c4d731da2ab5a4abd9f52
+Botanical Name: Salix tetrasperma ROB.
+Family: Salicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 102 Vernacular names found in 8 languages. Hindi (22) - badah, badhla, badla, baings, bains, baishi, bed, bend, bent, bet, beua, beuns, beuns (willow), bhainsh, bhaiush, bilsa, jalmalya, laila, pani-jama, salix (willow), sukul bet, willow Kannada (20) - baiche, baigay, baike, baise, bayge, bayike, bayikex, bayise, bayise mara, bayitha, hole bosi mara, neeranji, neeravangi, neerganji mara, neervanji, niranji, niravanji, niruvanji, nirvanji, puruse Malayalam (11) - arali, arrupala, atrupala, attupala, nirunchi, nirunci, nirunji, vanchi, vanci, vanji, vanti Marathi (12) - bach, bhak, bitasa, bithasa, bithsa, bitsa, boch, bocha, valumj, wallunj, walunj, wandra Sanskrit (7) - Sanskrit Comments  burum, jalavetas, jalavetasa, nadeya, vanira, vanjula, vetasa Tamil (22) - arruppalai, atrupalai, attuppalai, bayike, celamakitam, celamakitamaram, cuvetam, cuvetavanci, cuvetavancimaram, kanakam 1, kantam, nirnochi, niruvanchi, niruvanci, niruvanji, nirvanci, nirvanji, suvedam, tepavam, vanci 2, vancimaram, vanji Telugu (7) - etipaala, etipala, etipisinika, iroda, konda ganneru, kondaganneru, vodime Urdu (1) - burg baid sada
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1838
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1838.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/202c38ee4b9c4d731da2ab5a4abd9f52
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jalavetasa
+sanskrit_name: जलवेतस
+transliteration: jalavetasa
+ref_drug_name: जलवेतस
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Vanira
+sanskrit_name: वानीर
+transliteration: vānīra
+ref_drug_name: वानीर
+status: Accepted source
+discussion: Vanira is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Vanira
+sanskrit_name: वानीर
+transliteration: vānīra
+ref_drug_name: वञ्जुल
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+Identity Record 4
+drug_name: Vanjula
+sanskrit_name: वञ्जुल
+transliteration: vañjula
+ref_drug_name: वानीर
+status: Accepted source
+discussion: Vanira is identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Vanjula
+sanskrit_name: वञ्जुल
+transliteration: vañjula
+ref_drug_name: वञ्जुल
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+Identity Record 6
+drug_name: Vetasa
+sanskrit_name: वेतस
+transliteration: vetasa
+ref_drug_name: वेतस
+status: Accepted source
+discussion: Vetasa is correlated to this species
+reference: [2]
+
+Identity Record 7
+drug_name: Vetasa
+sanskrit_name: वेतस
+transliteration: vetasa
+ref_drug_name: वेतस
+status: Suggested source
+discussion: This species may be treated as a variety of it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

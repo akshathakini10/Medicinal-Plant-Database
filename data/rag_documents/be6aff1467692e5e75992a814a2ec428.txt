@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: be6aff1467692e5e75992a814a2ec428
+Botanical Name: Selinum vaginatum C.B. CLARKE
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Hindi (2) - bhutberi, butkesi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be6aff1467692e5e75992a814a2ec428
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be6aff1467692e5e75992a814a2ec428
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rocanatagara
+sanskrit_name: रोचनातगर
+transliteration: rocanātagara
+ref_drug_name: रोचनातगर
+status: Most probable
+discussion: The word Rocanatagara can be either yellow variety of tagara or two drugs i.e Rocana and Tagara. Yellow variety of Tagara can be correlated to this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

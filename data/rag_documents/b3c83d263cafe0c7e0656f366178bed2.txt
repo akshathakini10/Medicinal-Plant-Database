@@ -1,0 +1,101 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b3c83d263cafe0c7e0656f366178bed2
+Botanical Name: Vitex negundo L.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Vitex paniculata LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 238 Vernacular names found in 9 languages. Hindi (34) - bana, banana, banha, banna, bannah, kali-nirgundi, mewri, negad, nengar, newri, ningori, nirgandi, nirgud, nirgunda, nirgundi, nisinda, panikisambhalu, sambhal, sambhalu, samhalu, sanbhalu, sanghalu, saubhalu, sawbhalu, shawalu, shimalu, shiwali, shriwari, siwain, siwali, tarvan, veeru, veeru dhayad, wana Kannada (31) - bile-nekki, bilee lakki, bilee nekki, bilenekki, karilakki, karinekkilu, karlakki, karlekki, lakkagida, lakki, lakki gida, lakki-gida, lakkili, lakkli, leckee, lekki, lekkigidda, lokki, nakkilu, neckila, neera gundi, nekka, nekki, nekkilu, niragundi, nirgundi, nocci, nochi, nukki, shiruboli, shurnboli Malayalam (19) - bem-nosi, bemnosi, bennochi, bennochie, indrani, karunocci, nocchi, nocci, noch-chi, nochi, nuchil, pennochi, vallanochi, vella-noch-chi, vellanocci, vellanochi, velnocci, vennocci, vennochi Marathi (8) - limgud, lingur, negumd, nengar, nirguda, nirgunda, nirgundi, nirgur Sanskrit (20) - Sanskrit Comments  indrani, nilanirgundi, nilapushpa, nirgundi, nirgundika, renuka, sephalika, shephali, shvetasurasa, sindhooka, sindhuvaram, sinduka, sinduvara, sinduvarah, sinduya, sugandhika, surasa, suvaha, svetasurasa, vrikshaha Tamil (105) - aintilainocci, anincil, arttacittikam, cantiracuracam, caturappirantai, cavurecuram, centuvaracceti, centuvaram, chinduvaram, cinkirukacceti, cinkirukam, cinkorikam, cinkorikamaram, cintu, cintu1, cintukacceti, cintukam, cintukam@, cintuvaracceti, cintuvaram, cintuvari, cintuvarimaram, cirantukam, citacuracam, citaracakoli, copalikai, cumirtam1, cuntai1, curacam3, curaci, cuvetacuracam, intira curiyam, intiracuracam, intiranam, intirani1, intiranikai, itanacikam, kotaikkiricam, kunti, kurupatam, kurupatamaram, makicani, makicanicceti, malainoccimaram, mancitalikam, montika, montikanocci, nacci, nallanocci, nallanochi, natikantam2, nattunocci, nekkunti, nerkkunti, nerkunti, nilakantakacceti, nilakantikam, nilaputpam, nilaputpikai, nilaputpikaicceti, nirakulli, nirkkundi, nirkkunti, nirkkunticceti, nirkundi, nirkunti, nirnochchi, nittal, nittil, nittirakacacceti, nittirakacam, nocci, noccicceti, noccili, noch-chi, nochchi, nochhi, nochi, noochie, notchi, nuvanai1, paccalai, paccalaimaram, pampeyam, pampeyamaram, paurakam, pavurakam, peratam, purtti, putakeci, putateki, putaveci@, sinduvaaram, sinduvaram, tiriburamerittan, tiripuramerittan2, vellai nocci, vellai nochi, vellai-noch-chi, vellainocci, vellainochi, vennocci, vennocci#, vennocci@, vennochi Telugu (18) - lukki, nalla-vavili, nallavavili, sindhuvaramu, sindhuvaruma, sindu vaaramu, sinduvaramu, tell-vavili, tellavavili, vail, vamatyakku, vavili, vayala, vayi, vayila, veyala, vyala, wayala Tibetan (1) - ni rgun tha Urdu (2) - sambhalu, tukhm sambhalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2214
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2214.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2/xclkon/4a9c3b3f26861fc93c0487a31e2530cb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2/xclkon/4a9c3b3f26861fc93c0487a31e2530cb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2/xclkon/4a9c3b3f26861fc93c0487a31e2530cb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2/xclkon/4a9c3b3f26861fc93c0487a31e2530cb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2/xclkon/4a9c3b3f26861fc93c0487a31e2530cb
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3c83d263cafe0c7e0656f366178bed2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Harenu
+sanskrit_name: हरेणु
+transliteration: hareṇu
+ref_drug_name: हरेणु
+status: Substituted source
+discussion: Has been recommended to be used in its place
+reference: [1]
+
+Identity Record 2
+drug_name: Nirgundi
+sanskrit_name: निर्गुण्डी
+transliteration: nirguṇḍī
+ref_drug_name: निर्गुण्डी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Nirgundi
+sanskrit_name: निर्गुण्डी
+transliteration: nirguṇḍī
+ref_drug_name: निर्गुण्डी
+status: ?
+discussion: ?
+reference: [5]
+
+Identity Record 4
+drug_name: Nirgundi
+sanskrit_name: निर्गुण्डी
+transliteration: nirguṇḍī
+ref_drug_name: निर्गुण्डी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Sveta
+sanskrit_name: श्वेता
+transliteration: śvetā
+ref_drug_name: श्वेता
+status: Suggested source
+discussion: With regard to its properties this species may be tentatively accepted
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

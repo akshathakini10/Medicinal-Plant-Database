@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8919b637dac8e5c0dee7284b93974959
+Botanical Name: Solanum nigrum L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Solanum americanum MILL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 202 Vernacular names found in 10 languages. English (1) - black nightshade Hindi (13) - chirpoti, gurkamai, gurkkamai, kabaiya, kala-mako, kali-papotan, kamuni, mako, makoi, makoy, mukko, palpotan, uda-mako Kannada (21) - ganike, kaagehannina gida, kaaka maachae, kaaka munchee, kaake hannu, kaaki gida, kaaki hannu, kakamachi gida, kakarundi, kakmunchi, kanchi, kanka pitle, kare-ganike, kare-kanchi, karee kaachi, kari kaachi, kari kaachi gida, karikaachi gida, kempu kaachi, kempu kaachi gida, sunde kaachi Malayalam (9) - karimtakkali, karintakali, karuppu-manattakali, manatakkali, manattakali, manattakkali, manattan-kanni, nelen-tsjunda, tudavalam Marathi (9) - ghati, kaamoni, kamchi, kamoni, kangani, laghukavali, lalgooka batooli, meko, nakmachi Sanskrit (24) - Sanskrit Comments  bahuphala, bahutikta, dhvankshamachi, ghanaghana, guchhaphala, jaghenephala, kaka, kakahva, kakamachi, kakamaci, kakamata, kakini, kakmachi, kamatta, katuphala, kovidaraha, krishnakovidaraha, kushthaghni, rasayani, sarvatikta, sundari, svadupaka, vayasavha, vayasi Tamil (92) - cerunti2, ceruntika2, ceruntikacceti, cirutakkali2, icuvaranaci, irekulicacceti, irekulicam, kakaci, kakam, kakamaci, kakamaral, kakamaram#, kakamaram@, kakateri, kali3, kalika, kalikacceti, kalikam2, kaliram, kamaratam, kamatacceti, kamatam#, kanikam, kankaicarri, kannikacceti, kannikakalicceti, kannikam#, kannikam@, karceni, karmanakkali, karmanittakkali, karumanattakkali, karuppu-manattakkali, karuppumanattakkali, karuppumanittakkali#, karuppumanittakkali@, katteni, katuracatti, kutapalai, kuttattakkali, kuttikatakkali, kuttittakkali, kuvacavam, leccukacceti, manat takkali, manatakkali, manathakali, manathakkali, manattak-kali, manattakkali, mancara, mancarakkalicceti, mani thakkaali, manikkali, manithakkali, manittakkali, milagu-takkali, milagutakkali, milakutakkali, milakuttakkali, munna-takali-pullum, nacival, nakatemani, nalvarotayam, narumanattakkali2, narumanattakkalicceti, nateni, natenikacceti, natenikam, niramanapalatti, palakanaikkattal, palakanaikkattan, pillaittakkali, pokitturitacceti, pokitturittam, pucitam, sukitti, tanalarri, ukkiram, ulakamata, ulakamata2, vatatukali, vatatukalicceti, vayacam, veci, venmilakutakkali, venmilakuttakkali, vennalarri, vitaikkantam, vitaikkantam 2, yamai, yampalkantan Telugu (19) - gajjucettu, gajuchettu, kaachi, kaakamaachi, kaamanchi, kacci, kaccipandu, kachi, kakamachi, kamanchi, kamanchi-chettu, kamanci, kanchi-chettu, kanchi-pandu, kanchi-pundu, kanchipoondu, kanchipundu, kasaka, nalla-kamanchi-chettu Tibetan (2) - smon sne u dmar po, smon sneu dmar po Urdu (12) - ab makoh, inab-us-salab (makoh), kaamuni, kamuni, mako, mako khushk, makoh khushk, makoh khuskh, makoh sabz, makoh sabz ka pani, maku, makuh khushk
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1952
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1952.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959/xclkon/2d519a5a748ad20d90948163f5fae409
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959/xclkon/2d519a5a748ad20d90948163f5fae409
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959/xclkon/2d519a5a748ad20d90948163f5fae409
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959/xclkon/2d519a5a748ad20d90948163f5fae409
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959/xclkon/2d519a5a748ad20d90948163f5fae409
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959/xclkon/2d519a5a748ad20d90948163f5fae409
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8919b637dac8e5c0dee7284b93974959
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakamaci
+sanskrit_name: काकमाची
+transliteration: kākamācī
+ref_drug_name: काकमाची
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Kakamaci
+sanskrit_name: काकमाची
+transliteration: kākamācī
+ref_drug_name: काकमाची
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kakamaci
+sanskrit_name: काकमाची
+transliteration: kākamācī
+image_urls: https://www.medicinalplants.in/slokaimages/1500/1500_1.jpg https://www.medicinalplants.in/slokaimages/1500/1500_2.jpg https://www.medicinalplants.in/slokaimages/1500/1500_3.jpg https://www.medicinalplants.in/slokaimages/1500/1500_4.jpg https://www.medicinalplants.in/slokaimages/1500/1500_5.jpg
+ocr_text: हन्ति दोषत्रयं कुष्ठं वृष्या सोष्णारसायनम् काकमाची सरा स्वर्या. (वाग्भटः सू॰ ६ ७२) Kakamaci is usna in veerya, sara in guna, alleviates all the three aoshas is vrshya, rasayana and svarya, cures kustha. त्रिदोषशमनी वृष्या काकमाची रसायनी| नात्युष्णशीतवीर्या च मेदिनी कुष्ठनाशिनी| | (चरक सू॰ २७ ८५) It is natyusna, sita in veerya, alleviates all the three aoshas, is vrshya rasayani and medini, cures kustha. काकमाची त्रिदोषघ्नी, सरा स्चर्या सतिक्तका हन्ति दोषत्रयं वृष्या सोष्णा रसायनी| | (ध० Kakamaci is tikta in rasa, sara in guna, usna in veerya alleviates all the three doshas, is svarya, vrshya, and rasayani, cures kustha कुष्ठं नि॰) काकमाची त्रिदोषघ्नी स्निग्धोष्णा स्वरशुक्रदा तिक्ता रसायनी शोथकुष्ठार्शोजमेहजित्|| कटुर्नेत्रहिता हिक्काच्छर्दिहृद्रोगनाशनी I IBpn) Kakamaci is tikta, katu, in rasa, snigdha in guna, usna in veerya, alleviates all tne three doshas is svarya sukraaa, netra hita, and rasayani, cures sotha, kustha, arsa, meha, hikka, chardi and hrdroga. काकमाची कटुस्तिक्ता रसोष्णा कफनाशिनी| शोफदोषघ्नी कुष्ठकण्डूतिहारिणी | IRjn) Kakamaci is katu, tikta in rasa, usna in veerya, destroys kapha, cures sula , arsa, sopha, kustha and kanau. शूलर्शः

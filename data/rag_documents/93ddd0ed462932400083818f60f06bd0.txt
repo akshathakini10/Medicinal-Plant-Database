@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 93ddd0ed462932400083818f60f06bd0
+Botanical Name: Curcuma aromatica SALISB.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 96 Vernacular names found in 7 languages. Hindi (9) - anbe-halad, anbe-haldi, ban haldi, ban-haridra, banhaldi, banharidra, jangli haldi, jangli-haldi, janglihaldi Kannada (11) - aambe haladi, haali, kaadu arishina, kadarasina, kasthoori manjal, kasthooriarishina, kasturi arashina, kasturi arisina, kasturi-arishina, kasturiarishina, maavina kaayi shunti Malayalam (8) - anakuva, kasturi-mannal, kasturimannal, kattu-mannal, kattumanjal, kattumannal, kattumannar, manjal Marathi (6) - aambe halad, ambe-halad, ran-halad, ranahalada, sholi, vedi-halad Sanskrit (7) - Sanskrit Comments  aranyahaldikanda, aranyaharidra, sholi, sholika, vanahaladi, vanaharidra, vanarishta Tamil (50) - atai, ataivikaccolam, ataivikkaccolam, atavikaccelvam, atavikkac -colam, atavikkaccolam, avisam, ikasi, ikati, ikkuca, ikkucamancal, iksi, itci, kaccolam 1, kaccuram 1, kaleyam 2, kaleyamancal, kappumancal, kasdurimahcal, kasthurimangal, kastoori manjal, kasturi mancal, kasturi manjal, kasturi-manjal, kasturimancal, kasturimanjal, kasturinici#, kasturinici@, kat-turi-manjal, kattumanjal, kattumannal, katturi mancal, katturimancal, katuri mancal, koccimancal, kulavintam, kuttukkarantai, mirukamatam, mituraimulam, mituraiver, nallamancal, nir visham, nirakkumancal, nirvisam, pittattuvayam, talaivalipokki, turlapam, ucitam, ucitamancal, velviliyal Telugu (5) - adavipasupu, kasturi-pasupa, kasturi-pasupu, kasturipasupu, thella kathoori pasupu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93ddd0ed462932400083818f60f06bd0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vanaharidra
+sanskrit_name: वनहरिद्रा
+transliteration: vanaharidrā
+ref_drug_name: वनहरिद्रा
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

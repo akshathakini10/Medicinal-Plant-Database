@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f36de05a6f12a1e1e1befd25727e86aa
+Botanical Name: Kandelia candel (L.) DRUCE
+Family: Rhizophoraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Kandelia rheedei WIGHT & ARN. Kandelia rheedii W.&A.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 4 languages. Kannada (4) - kaanadale, kandaala, kandale, kandle Malayalam (5) - cerukantal, cherukantal, kantal, tsjerou-kandel, tsjeroukandal Tamil (5) - kandal, kantal3, pukantal, pukkandal, thuvar-kandal Telugu (3) - kandigala, thuvar-kandan, thuvarkandan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f36de05a6f12a1e1e1befd25727e86aa/xclkon/df925252dee83759891ad5df814ddae4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f36de05a6f12a1e1e1befd25727e86aa
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f36de05a6f12a1e1e1befd25727e86aa/xclkon/014140f8c5f52468ebb6a6f87fb90ef8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f36de05a6f12a1e1e1befd25727e86aa/xclkon/df925252dee83759891ad5df814ddae4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f36de05a6f12a1e1e1befd25727e86aa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f36de05a6f12a1e1e1befd25727e86aa/xclkon/014140f8c5f52468ebb6a6f87fb90ef8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f36de05a6f12a1e1e1befd25727e86aa/xclkon/df925252dee83759891ad5df814ddae4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

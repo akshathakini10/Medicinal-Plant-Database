@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 14f362a18888ace93377820471eeb27e
+Botanical Name: Dalbergia spinosa ROB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Dalbergla spinosa ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Telugu (3) - chillanki, chillanky, cillanki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14f362a18888ace93377820471eeb27e/xclkon/9d400d4c26114a07d091695e4c5f002c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14f362a18888ace93377820471eeb27e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14f362a18888ace93377820471eeb27e/xclkon/9d400d4c26114a07d091695e4c5f002c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9654c5f4b104bfb6f76cab23fb609d75
+Botanical Name: Schweinfurthia papilionacea MERRILL
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Schweinfurthia sphaerocarpa A.BR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Hindi (1) - sanipat Sanskrit (2) - Sanskrit Comments  nepalah, sanipat
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9654c5f4b104bfb6f76cab23fb609d75/xclkon/009098e5d844988453ad04debecfbfb5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 4559
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/4559.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9654c5f4b104bfb6f76cab23fb609d75
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9654c5f4b104bfb6f76cab23fb609d75/xclkon/009098e5d844988453ad04debecfbfb5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9654c5f4b104bfb6f76cab23fb609d75
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9654c5f4b104bfb6f76cab23fb609d75/xclkon/009098e5d844988453ad04debecfbfb5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

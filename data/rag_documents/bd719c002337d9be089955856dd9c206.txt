@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bd719c002337d9be089955856dd9c206
+Botanical Name: Celtis wightii PLANCH.
+Family: Ulmaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 5 languages. Kannada (5) - aduva, goorcul, gorklu, gorukallu, haduwa Malayalam (1) - manalli Marathi (1) - kajri Tamil (2) - malampunku, vakkanai Telugu (7) - kaka-mushti, kakamushti, tellakakamushti, tellakakamuste, verrimushti, verrimusthi, yerrimushti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd719c002337d9be089955856dd9c206
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd719c002337d9be089955856dd9c206
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd719c002337d9be089955856dd9c206
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 38c4118c9a40ec12d417261a86e73f95
+Botanical Name: Sapindus emarginatus VAHL.
+Family: Sapindaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 56 Vernacular names found in 7 languages. Hindi (4) - reetha, ritha, ritha or rithah, rithah Kannada (12) - andala, antaala, aralakai, aratala, kookatakayi, kudale-kaye, kukate-kayi, noorekayi, nore kaayoi, puchakotte, thogate mara, urvanjik-kaya Malayalam (4) - chavakayimaram, punnan-kotta, uruangi, urvanjik-kaya Marathi (3) - aritha, rimgi, rimthi Sanskrit (4) - Sanskrit Comments  arishta, arishtaphalam, aristam, phenila Tamil (20) - bunthikottai, kottan, manay poongung kai, manipungan maram, manipunkam, naikottai, nalkottai, ponnan-kittai, ponnankottai, poochi-kai, poongan-kottay, poongankottai, poovandie cottay, poovandikottai, pounanga, pucha, pungan-kottaei, punnangkottai, puvamkottai, puvandi Telugu (9) - kookudu chettu, kukudu, kukudu-kayalu, kungititkaya, kunkudu, kunkudu chettu, kunkudu-chettu, kunkudu-kayalu, rittachettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38c4118c9a40ec12d417261a86e73f95
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1851
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1851.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38c4118c9a40ec12d417261a86e73f95
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38c4118c9a40ec12d417261a86e73f95
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38c4118c9a40ec12d417261a86e73f95
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

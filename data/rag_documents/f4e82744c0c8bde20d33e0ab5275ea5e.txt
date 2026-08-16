@@ -1,0 +1,95 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f4e82744c0c8bde20d33e0ab5275ea5e
+Botanical Name: Uraria picta DESV.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 7 languages. Hindi (3) - dabra, pitvan, shankaraja Malayalam (1) - muvila Marathi (3) - pitvan, prisniparni, ranganja Sanskrit (19) - Sanskrit Comments  andhriparni, chitraparni, citraparni, dhavani, guha, kalasi, kalshi, krostukapucchika, krostuvinna, prishniparni, prishthiparni, prsni, prsniparni, prtakparni, prthakparni, saliparni, shringalvinna, sinhapuchchi, srgalavinna Tamil (7) - cittirappalatai, cittirappalatai#, karumavipitacceti, karumavipitam, palatai, sittirappaladai, utarakomatam Telugu (1) - kolkuponna Tibetan (2) - kr sna pa rni, pa sna par ni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2154
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2154.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4e82744c0c8bde20d33e0ab5275ea5e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asanaparni
+sanskrit_name: असनपर्णी
+transliteration: asanaparṇī
+ref_drug_name: असनपर्णी
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+Identity Record 2
+drug_name: Prsni
+sanskrit_name: पृश्नि
+transliteration: pṛśni
+ref_drug_name: पृश्नि
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Prsniparni
+sanskrit_name: पृश्निपर्णी
+transliteration: pṛśniparṇī
+ref_drug_name: पृश्निपर्णी
+status: Accepted source
+discussion: Prsniparni is correlated to this species
+reference: [2]
+
+Identity Record 4
+drug_name: Prsniparni
+sanskrit_name: पृश्निपर्णी
+transliteration: pṛśniparṇī
+ref_drug_name: पृश्निपर्णी
+status: Accepted source
+discussion: Prsniparni is correlated to this species
+reference: [2]
+
+Identity Record 5
+drug_name: Prsniparni
+sanskrit_name: पृश्निपर्णी
+transliteration: pṛśniparṇī
+ref_drug_name: पृश्निपर्णी
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Prsniparni
+sanskrit_name: पृश्निपर्णी
+transliteration: pṛśniparṇī
+image_urls: https://www.medicinalplants.in/slokaimages/1667/1667_1.jpg https://www.medicinalplants.in/slokaimages/1667/1667_2.jpg https://www.medicinalplants.in/slokaimages/1667/1667_3.jpg https://www.medicinalplants.in/slokaimages/1667/1667_4.jpg
+ocr_text: पृश्निपर्णा रसे स्वादुः लघूष्णाडस्रत्रेदोषजित् | कासश्वासप्रशमनी ज्वरतृड्दाहनाशिनी| | (Dhnl Prsniparni is madhura in rasa , laghu in guna, usna in veerya, alleviates asra dosha, pacifies kasa svasa, cures jvara, trd and daha. and पृश्निपर्णी कटुष्णाडम्ला तिक्ताडतीसारकासजित् | वातरोगज्वरोन्मादव्रणदाहविनाशिनी | | IRjnl Prsniparni is katu, amla, tikta in rasa, usna in virya, alleviates atisara, kasa, vataroga, jvara, unmade, Vrana daha and पृश्निपर्णी त्रिदोशघ्नी वृष्योष्णा मधुरा सरा हा दाहज्वरश्वासर क्तातीसारतृड्वमा IBpnl Prsniparni is madhura in rasa sara in guna, usna in veerya, alleviates all the three doshas, vrshya , cures daha, jvara, svasa, rakta atisara, tra ana vami पृश्निपर्णी संग्राहकवातहरदीपनीयवृष्याणाम् श्रेष्ठा| | (चरक) Prsniparni is sangrahi, alleviates vata, is dipaniya ana srestha vrshya.

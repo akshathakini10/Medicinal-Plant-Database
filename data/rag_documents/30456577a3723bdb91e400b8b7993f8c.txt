@@ -1,0 +1,99 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 30456577a3723bdb91e400b8b7993f8c
+Botanical Name: Trachyspermum ammi (L.) SPRAGUE
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Carum copticum BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 156 Vernacular names found in 10 languages. English (1) - ajowan Hindi (5) - ajowan, ajuan, ajwain, jawain, owa Kannada (7) - ajamoda, ajamola, ajamoola, ajvaana, oma, omu, voma Malayalam (2) - ayamodakam, homam Marathi (4) - ajwan, onva, owa, vova Sanskrit (36) - Sanskrit Comments  agnivardhini, agniverdhana, ajamoda, ajamodika, ajamojah, ajmada, ajmodum, bhukadambaka, bhumikadambaka, bhutika, bhutikah, brahmadarbha, deepyaka, dipani, dipya, dipyaka, dipyakah, hridya, javani, kharahva, kshetrayavanika, shulahantri, tikshnagandha, tivragandha, ugra, ugragandha, vatari, yamani, yamanika, yavagraja, yavajadipaniya, yavanaka, yavani, yavanika, yavasavha, yavavha Tamil (85) - acam, acamam, acamatakam, acamatam, acamotai, acamotakam 2, acamotam, acamotam 2, acatti 2, akkinicantam, amam, arampai, arampaikkani, ariyavaciyam, asamadam, attimai 1, catakuppi, cirani#, cirani@, cirati, ciraticceti, emanacacceti, emanacam, emanakam 2, erivakal 2, evakanam, evani, evankacceti, evankam 2, evankanam 2, ilacamattakam, incikaicceti, iyavani, karavi 1, kiruminacam 1, komari, komarimotam, kuros niomam, kuruvacam, mancil, mari, motakam 2, motam, navalukam, navanakam, navanakam 2, navancam@, okkam 2, omam, oman, omattuvayam 1, omum, onkan, pantukam 2, pariyacam#, pariyacam@, tattilam, ticakam, tikacam, tikaccam, tipani 1, tipini 1, tippiyacceti#, tippiyacceti@, tippiyakam, tippiyam, tippiyam 1, tirikipokki, ukkirakantai, ukkirakantam 1, ulocamattakam, ulokamattam, vani#, vani@, vitipali, womum, yamani, yavani#, yavani@, yavanikai#, yavanikai@, yavanikam, yevani, yevanicceti, yupam Telugu (5) - omaan, omami, omamu, oman, vamu Tibetan (4) - la la bud, la la phud, la la phud (p & d), la-la-phud Urdu (7) - ajowain, ajwain, ajwain desi, ajwain desi nim kofta, ajwan, ajwayin (nankhwah), nankhwah (ajwayin)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/9b3a63038f13d5cd1c8a733e36d4aca7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/f70c4cdb2d289f5036e172804d02a423
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/9b3a63038f13d5cd1c8a733e36d4aca7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/f70c4cdb2d289f5036e172804d02a423
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/9b3a63038f13d5cd1c8a733e36d4aca7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/f70c4cdb2d289f5036e172804d02a423
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/9b3a63038f13d5cd1c8a733e36d4aca7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/f70c4cdb2d289f5036e172804d02a423
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/b9563e0efa57c18349269948ab02c075
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/9b3a63038f13d5cd1c8a733e36d4aca7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c/xclkon/f70c4cdb2d289f5036e172804d02a423
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30456577a3723bdb91e400b8b7993f8c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Yavani
+sanskrit_name: यवानी
+transliteration: yavānī
+ref_drug_name: यवानी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Yavani
+sanskrit_name: यवानी
+transliteration: yavānī
+ref_drug_name: यवानी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Yavani
+sanskrit_name: यवानी
+transliteration: yavānī
+image_urls: https://www.medicinalplants.in/slokaimages/894/894_1.jpg https://www.medicinalplants.in/slokaimages/894/894_2.jpg https://www.medicinalplants.in/slokaimages/894/894_3.jpg https://www.medicinalplants.in/slokaimages/894/894_4.jpg
+ocr_text: यवानी यावनी तीव्रा तुरुष्का मदकारिणी | दीप्यः श्यामकुबेराख्यो मादनी मदकारकः | | यवानी जीवनी रूक्षा ग्राहिणी मादिनी गुरुः IMdn) Yavani is tivra , turuska, madakara and dipya Syama kuberakhyo is madini and mada kara. Yavani is guru, ruksa, jivani, grahini and madini. यवानी यवानी सदृशी गुणैः | विशेषात् पाचनी रूक्षा ग्राहिणी मादिनी गुरुः| | (Bpnl Khurasani yavani has similar properties to that of yavani and specifically pacani, ruksa, grahini, madini and guru. खुरसानी खुरासानी यवानी कटुरूक्षा च पाचका ग्राहकोष्णा मादका च गुर्वी वातकरा मता INir) Khurasani is katu in rasa, ruksa, guru in guna, usna in veerya, increases vata, pacaka, and maaakari. Brahi पुष्करमूलं हिक्काश्वासकासपार्श्वशूलहराणाम् चरक Puskaramula alleviates hikka, svasa, kasa ana parsva sula

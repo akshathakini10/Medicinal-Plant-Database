@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f07e3b8351810aafdef5ffd5c917230f
+Botanical Name: Acacia sinuata (LOUR.) MERR.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Acacia concinna (WILLD.) DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 131 Vernacular names found in 9 languages. Hindi (6) - allah, kochi, koci, ritha, satala, shikakai Kannada (25) - cige, manda seege, mandashige, mandasige, mandsige, mugali, mugli, ollesige, sage, seegay, seege, seegiballi, sheegae, shige, shige kayi, shigekayi, shiyakai, sige, sige balli, sigeballi, sigekai, sikiaro, wallasige, wolleshige, wollesige Malayalam (18) - carmalanta, carmantala, cheenikai, cheenikka, cheeyakayi, chinik, chinik-kaya, chinikkaya, chinnikayi, cikakayi, cikkakka, cinikka, cinikkaya, civikka, ciyakayi, inna, shikai, shinikkaya Marathi (7) - reetah, shikakaayi, shikakai, sikakai, sikekaayi, sikekai, sikekay Sanskrit (19) - Sanskrit Comments  amala, bahuphenarasa, bhuriphena, carmakansa, carmakasa, carmasahva, charmakasha, dipta, patraghana, phena, phenila, saptala, sara, sarmakasa, satala, svarnapushpi, vidula, vimala, vishanika Tamil (42) - ceyakkay, ceyakkaycceti, cheek-kai, cika, cikaikkai, cikaikkay, cikaikkay#, cikaikkay@, cikamaram, cikaram$, cikkai, cikkay, cinkay1, civappuvaci, civappuvacikkay, ciyakkai, ciyakkay, ciyakkay@, enneyppokki, icciyami, icciyamikkay, kantavalli, kappukkay, kappukkaycceti, nakuracikacceti, nakuracikam, nallachiyakkay, nallaciyakkay, nattucciyakkay, neyccikkupokki, seekai, sheeakai, sheekay, sheeyakay, shika, shivakai, sigaikai, sigakai, siyakayi, siyakkai, siyakkay, tuyyai Telugu (12) - cheekaya, chika-kai, chikaya, chikayi, gogu, manjisikaya, seege, seekaya, shikaya, shikayi, sikai, sikaya Tibetan (1) - sa la Urdu (1) - shikakai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/e2a9059b63c34c990b7bb8cb2b7dcfad
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 36
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/36.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/0de24ac3739781c6fac0d3d0684f2443
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/e2a9059b63c34c990b7bb8cb2b7dcfad
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/0de24ac3739781c6fac0d3d0684f2443
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/e2a9059b63c34c990b7bb8cb2b7dcfad
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/0de24ac3739781c6fac0d3d0684f2443
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/e2a9059b63c34c990b7bb8cb2b7dcfad
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/0de24ac3739781c6fac0d3d0684f2443
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/e2a9059b63c34c990b7bb8cb2b7dcfad
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/a5a87d4f4fba45600d69867dfb39d481
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/0de24ac3739781c6fac0d3d0684f2443
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f07e3b8351810aafdef5ffd5c917230f/xclkon/e2a9059b63c34c990b7bb8cb2b7dcfad
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

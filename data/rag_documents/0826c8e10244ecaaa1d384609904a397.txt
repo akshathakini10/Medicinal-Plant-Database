@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0826c8e10244ecaaa1d384609904a397
+Botanical Name: Atropa belladonna L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 5 languages. English (4) - belladonna, deadly nightshade, dwale, fair lady Hindi (8) - angurshefa, belladonna, luckmuna, luckmunee, saagngnur, sag-angur, sagangur, shafoo Sanskrit (1) - Sanskrit Comments  suci Tamil (2) - pellatona, pelletonacceti Urdu (2) - bikh luffah, poast bikh luffah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0826c8e10244ecaaa1d384609904a397
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0826c8e10244ecaaa1d384609904a397
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0826c8e10244ecaaa1d384609904a397
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0826c8e10244ecaaa1d384609904a397
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0826c8e10244ecaaa1d384609904a397
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Suci
+sanskrit_name: सूची
+transliteration: sūcī
+ref_drug_name: सूची
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

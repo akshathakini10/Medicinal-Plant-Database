@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7a5ddfa79ce48a4c186a981111f0ee93
+Botanical Name: Brassica oleracea L.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 42 Vernacular names found in 8 languages. English (7) - borecole, broccoli, brussels sprouts, coleslaw, jersey long jacks, sauerkraut, sprouting broccoli Hindi (6) - bantgopi, fulgobi, ganth gobhi, karam-sag, karamkalla, kobi Kannada (4) - cauliflower gobi, gedde kosu, hookosu, kobi-gaddi Malayalam (2) - kyabej, mottakkusu Marathi (1) - knolkhol Sanskrit (14) - Sanskrit Comments  dalamalani, dalasarini, kebuka, kechuka, keluta, kembu, kembukah, kemuka, pechuka, pichuni, polini, supatra, swadukanda, swalpavitapa Tamil (5) - gos, kos, kovippu, muttaikkocu, nulkolkilanku Telugu (3) - cauli flower, gos, kosuguddae
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a5ddfa79ce48a4c186a981111f0ee93
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Granthigobhi - prakara
+sanskrit_name: ग्रन्थिगोभी प्रकार
+transliteration: granthigobhī prakāra
+ref_drug_name: ग्रन्थिगोभी प्रकार
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 2
+drug_name: Granthiparna
+sanskrit_name: ग्रन्थिपर्ण
+transliteration: granthiparṇa
+ref_drug_name: ग्रन्थिपर्ण
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 3
+drug_name: Puspagobhi
+sanskrit_name: पुष्पगोभी
+transliteration: puṣpagobhī
+ref_drug_name: पुष्पगोभी
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

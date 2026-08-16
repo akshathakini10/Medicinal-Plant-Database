@@ -1,0 +1,107 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 694eb1f52999a025e8a35b35aa3d4935
+Botanical Name: Swertia chirayita ROB. E  (FLEMING) KARST.
+Family: Gentianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Gentiana chirayta ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 87 Vernacular names found in 9 languages. Hindi (8) - charaita, charayatah, chiraitu, chirata, chirayata, cirayata, kiryat-charayatah, nepalinim Kannada (4) - chiraayitha, kiraatha kaddi, nela baevu, nelabevu Malayalam (4) - kiriyatta, kiriyattu, nilaveppa, uttarakiriyattu Marathi (5) - charayatah, chiraayitha, chirayita, kaade kiraaith, kiraaith Sanskrit (35) - Sanskrit Comments  anaryatikta, ardhatikta, bhunimba, bhunimbaha, bhutika, chiratika, chiratikta, chirayita, haima, jvarantaka, jwaranthakah, kairaka, kandatikta, kanditiktaka, kiranta, kirata, kirata-tikta, kirataka, kirataticta, kiratatikta, kiratatiktah, kiratatiktaka, naditikta, naipala, nepalanimba, nepalanimbah, nidrari, ramasenaka, ramsena, sannipatha, sutiktaka, ta, tikta, trinanimba, viktaka Tamil (18) - anariyatittam, cirat kucci, cirattakucci, kantakam, kantam, kariyattu2, kirakati, kiratam, kiriyattu, kiriyattu2, kokanam, nattu nilavempu, nila-vembu, nilavembu, nilavempu, shayraet coochie, shirattakuchi, verkkiriyattu Telugu (5) - nelavaema, nelavemu, nila-vemu, nilavembu, nilaveru Tibetan (4) - ta go ta, ti-kta, tig ta, tig ta (p) Urdu (4) - chiraita, chiraita shirin, chiraita talkh, chirata talkh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/5443dd5a69caccd09c349d5210d50a00
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/4bb4ae644f4b8eaebd17c45a2fa3684b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/5443dd5a69caccd09c349d5210d50a00
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/4bb4ae644f4b8eaebd17c45a2fa3684b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/5443dd5a69caccd09c349d5210d50a00
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/4bb4ae644f4b8eaebd17c45a2fa3684b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/5443dd5a69caccd09c349d5210d50a00
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/4bb4ae644f4b8eaebd17c45a2fa3684b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/5443dd5a69caccd09c349d5210d50a00
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/4bb4ae644f4b8eaebd17c45a2fa3684b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/5443dd5a69caccd09c349d5210d50a00
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/4bb4ae644f4b8eaebd17c45a2fa3684b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935/xclkon/f7d394b037ec5505be0b04ad4350411b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eb1f52999a025e8a35b35aa3d4935
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kirata
+sanskrit_name: किरात
+transliteration: kirāta
+ref_drug_name: किराततिक्त
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Kiratatikta
+sanskrit_name: किराततिक्त
+transliteration: kirātatikta
+ref_drug_name: किराततिक्त
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kiratatikta
+sanskrit_name: किराततिक्त
+transliteration: kirātatikta
+image_urls: https://www.medicinalplants.in/slokaimages/1549/1549_1.jpg https://www.medicinalplants.in/slokaimages/1549/1549_2.jpg https://www.medicinalplants.in/slokaimages/1549/1549_3.jpg
+ocr_text: किरातको रसे तिक्तः सरः शीतो लघुस्तथा श्लेष्मपित्तास्रशोफादिकासतृष्णाज्वरापहः || (Dhn) Kirataka is tikta in rasa, sara and laghu in guna, sita in veerya, cures slesma, pitta asra, sopha, trsna and jvara भूनिम्बो वातलः तिक्तः कफपित्त ज्वरापहः वर्णसंरोपणः पथ्यः कुष्ठकण्डूतिशोफनुत्I | नेपालनिम्बः शीतोष्णो योगवाही लघुस्तथा तिक्तोडति कफपित्तास्रशोफतृष्णाज्वरापहःI| (Rjn) Bhunimba is tikta in rasa, increases vata, alleviates kapha and pitta, is pathya, varna samropana, cures kustha kandu sopha and jvara Nepala nimba is ati tikta in rasa, laghu in guna, sitosna in veerya, yogavahi, cures kapha, pitta, sopha, asra, trsna and ivara. किरातः सारको रूक्षः शीतलः तिक्तको लघुः सन्निपातज्वरश्वासकफपित्तास्रदाहनुत् कासशोथतृषाकुष्ठज्वरव्रणकृमिप्रणुत्I| (Bpn) Kirata is tikta in rasa, sara, ruksa, laghu, in guna, sita in veerya, cures sannipata ivara svasa, kasa, pittasra daha, kasa sotha, trsha, kustha, ivara, vrana and krmi.

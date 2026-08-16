@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 58404bfed44cb6699fa1efc8821009da
+Botanical Name: Maytenus senegalensis (LAM.) EELL.
+Family: Celastraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Gymnosporia montana (ROTH.) BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 80 Vernacular names found in 6 languages. Hindi (5) - baikai, baikal, kingani, mal-kangani, tondarsaijhad Kannada (7) - halumanike, kankada, malegu, malkanguni, tandraja, tandrasee, tandrasi Marathi (9) - baykal, bekal, bharati, bharatti, bharuli, vekal, vekar, yekal, yekkadi Sanskrit (31) - Sanskrit Comments  bahuphala, bramhapadapa, dantakashtha, gopaghanta, granthila, himaka, kantakari, kantaki, kantapada, kantapatra, kinkari, madhuparni, mriduphala, padarohina, pindara, prithubija, putakinkani, ravana, sragdaru, sruvadruma, sruvavriksha, sudhavriksha, svadukanta, vaikankata, vikankala, vikankar, vikankata, vritinkar, vyaghrapadi, yadnavriksha, yadniya Tamil (7) - danti, kalikai, kattanci, kattangi, valuluvai, valuluvai#, valuluvai@ Telugu (21) - chinni, dantansi, dantausi, dante, danthi, danti, denta, gajachinni, gajasinni, geccangi, gechangi, gechchangi, gettsangi, peddachinta, peddachintoo, peddachintu, peddacintu, peddadanta, peddadante, sinni, thanisi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/1ace11ca87d4e618491f21a8c4ebf59c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/1ace11ca87d4e618491f21a8c4ebf59c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/1ace11ca87d4e618491f21a8c4ebf59c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da/xclkon/2a03328c206c3c13d1b4eb94cab05a0c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58404bfed44cb6699fa1efc8821009da
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

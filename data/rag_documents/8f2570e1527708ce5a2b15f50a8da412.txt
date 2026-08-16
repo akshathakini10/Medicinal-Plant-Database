@@ -1,0 +1,78 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8f2570e1527708ce5a2b15f50a8da412
+Botanical Name: Trichosanthes cucumerina L.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 203 Vernacular names found in 8 languages. English (1) - snake gourd Hindi (8) - caccinda, jangli chachinda, jangli chichonda, jangli-chi-chonda, janglichachinda, janglichichonda, paraval, rambel Kannada (17) - adla balli, adla kaayi, bettada padavala, bettada-padavala, bettadapadavala, hadla kaayi, kaadaadlu balli, kaadupadavala, kahai padavala, kahi padaval, kahi padavala, kahi podla, kahipadavala, kiri padavala, kiri podla, kiripodla, sanna padava Malayalam (10) - kaippam-patolam, kaippampatolam, kaippanpatavalam, kattupatavalam, katupatolam, neipadavalam, padavalam, patavalam, patavalanna, pepatolam Marathi (14) - jangli padavala, janglipadavala, jangliparela, kaadu padavala, kadupadavala, padaaval, padual, pauli, perula, ranachapadavali, ranpadavala, ranpadavali, ranparull, tarakaankadee Sanskrit (43) - Sanskrit Comments  a, amritaphala, bijagarbha, cicindah, jvaranashana, jyotsna, kachhughni, kachhura, kadupatola, karkasacchadah, karkashachhada, karkashadala, kasabhanjanpatola, kasamaradana, katuka, katupatola, katuphala, kulaja, kulaka, kulakah, kushtari, kushthaha, lataphala, nagaphala, pancharajiphala, panduka, panduphala, panjura, patola, patolah, patolam, patri, pratika, rajapatola, rajimana, rajiphala, svadupatolah, tiktabhadraka, tiktaka, tiktottama, uttundiki, vajimana, varatikta Tamil (88) - alakaipputal, alakaipputol, amurtapalam, amurtatalakkoti, ankurattai, cikkacca, cikkaram, cikkarapputol, ciromanimatu, cirupala, cirupalapputar, cotuparipuntu, curekakkoti, curekam, icimalakkoti, icipalam, iracapalai, iracapalam, iracavarnam, itupalam, ituputal, karapputal, karapputol, kattup peipudal, kattup-pepudal, kattup-peyp-putal, kattuppeyppudal, kattuppeypputal, kattuppeypputalai, kattupputal, kattupputalankoti, katu peypputal, katutittakam, katutittam, kelucicantanam, kulaka, kulakam2, kulakapputol, kulakayam2, kulakkayakkoti, mirutapali, mituputalai, nattumatarai, nattuppeypputal, naypputal, naypputel, naypputol, pai-pudal, patailokam, patolakakkoti, patolakam, patolam1, patolanki, patolraci, pay pudal, paypudal, peai pudal, peipudal, pepadal, pepputal, perumputal, perumputarkoti, pey-pudal, peyppudal, peypputal, peypputalankoti, peypputol, peyputal, peyucitakkoti, pirottapantu, pudal, pudel, putal, putalattilakkam, putaval, takapittacamani, tilartatturuti2, tinnakkay2, tittacam, titticapputarkoti, tittikam2, utkaru, ututtiyankai, vatanali, vatarokari, venkompupputal, visaaveni, yalaranalaku Telugu (22) - adavi potla, adavi-potla, adavipolla, adavipotla, chaynd-potla, chayndpolla, chayudpottah, chedu-potla, chedupotla, chethipotala, cheti-potla, chetipotla, chyapotla, gingaaptal, lingapotla, patolamu, pitchuka potla, polla kaayi, potalamu, potla, potla kaayi, potlakaya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2121
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2121.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8f2570e1527708ce5a2b15f50a8da412
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakanasa
+sanskrit_name: काकनासा
+transliteration: kākanāsā
+ref_drug_name: काकनासा
+status: Suggested source
+discussion: On the basis of regional names this species has been suggested
+reference: [1]
+
+Identity Record 2
+drug_name: Kulaka
+sanskrit_name: कुलक
+transliteration: kulaka
+ref_drug_name: कुलक
+status: Most probable
+discussion: Kulaka is usually identified with Patola or its variety which is correated to this species
+reference: [1]
+
+Identity Record 3
+drug_name: Patola - vana
+sanskrit_name: पटोल वन
+transliteration: paṭola vana
+ref_drug_name: पटोल वन
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Uttundiki
+sanskrit_name: उत्तुण्डिकी
+transliteration: uttuṇḍikī
+ref_drug_name: उत्तुण्डिकी
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

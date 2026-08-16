@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1334cc2a4429e00ae0911dfb57dac9db
+Botanical Name: Clematis triloba HEYNE
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 32 Vernacular names found in 5 languages. Hindi (2) - churahar, moravela Kannada (5) - habbu balli, hegguru, morhari, souga valli, tikeke Marathi (5) - moravela, morbel, ranjaayi, ranjai, ranjal Sanskrit (19) - Sanskrit Comments  devashreni, devi, dhanurguna, dhanurmala, dridhasutrika, gokarni, laghukarni, laghuparnika, madhulika, madhurasa, madhushreni, madhusrava, morata, murva, piluparni, prithakaparni, snigdhaparni, snuva, tejani Urdu (1) - muhari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 576
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/576.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1334cc2a4429e00ae0911dfb57dac9db
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+ref_drug_name: मूर्वा
+status: Controversial
+discussion: Murva is a highly controversial drug; Many species are correlated to it with regard to its feature of having tough fibres and this species is one among them; This species is used as Murva in Maharashtra and Gujarat
+reference: [2]
+
+Identity Record 2
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+ref_drug_name: मूर्वा
+status: Controversial
+discussion: Murva is a highly controversial drug; This species is being used as Murva in Maharashtra and Gujarat
+reference: [2]
+
+Identity Record 3
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+ref_drug_name: मूर्वा
+status: Controversial
+discussion: Murva is a highly controversial drug; Many species are correlated to it with regard to its feature of having tough fibres and this species is one among them; This species is used as Murva in Maharashtra and Gujarat
+reference: [2]
+
+Identity Record 4
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+ref_drug_name: मूर्वा
+status: Controversial
+discussion: Murva is a highly controversial drug; This species is being used as Murva in Maharashtra and Gujarat
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.
+
+Shloka Record 2
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.

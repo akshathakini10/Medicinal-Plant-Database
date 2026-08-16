@@ -1,0 +1,88 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4cb53b81e86d019935c6dc402d6307ca
+Botanical Name: Vateria indica L.
+Family: Dipterocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Vateria malabarica BLUME
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 175 Vernacular names found in 9 languages. English (4) - dhupa fat, malabar tallow, piney varnish, white dammar Hindi (5) - kahruba, safed damar, sageddamar, sandras, saphed dammar Kannada (52) - bilagaggala, bilee daamar, bilee guggula, bili guggulu, bilidaamaru, bilidhoopa, bilidhupa, bilidupa, biliguggala, biliguggila, biliguggula, candike, chandika, chandike, dhoop, dhoopa, dhoopada kaayi, dhoopada mara, dhupa, dhupada, dhupadamara, doopa, dupa, google, guggala, guggula, gugle, gugli, haagada mara, haigina, hugadamara, illupathla, lobhana, maddi dhoopa, maddidhupa, maddidupa, manda dhoopa, mandadhupa, mandadoopa, mandadupa, mundadhup, paini, pene, pynee, raala, rala, ralada, saalu dhoopa, sajjarada mara, shandike, tandoligeda, ugulu dhoopa Malayalam (31) - baine, della-kundurukkam, kundirukam, kunthrikkappayin, kunturukam, kunturukkam, paenoe, paine, paini, painipasha, pandam, pantam, payan, payana, payani, payin, peini, perumpayani, perumpiney, piny, pyney, telli, thelli, vella-kondrikam, vella-kundurukkam, vellakkunturukkam, vellakondricum, vellakondrikam, vellapayini, vellappayin, velutta kunturukkam Marathi (5) - chandrusa, dhoop, dhup, ral, salaadeek Sanskrit (16) - Sanskrit Comments  ajakarna, ajakarnah, ajakarua, chagakarna, dhupa, kundura, mandadhupa, marichapatraka, pitaphada, salah, sarja, sarjah, sarjaka, sarjarasa, shala, svetasarja Tamil (40) - attam, attam2, callaki3, cantiraracam, catakulai, conitatcaci, cukantipalayutakam, dhup-maram, inkapitam, inkopitam, kukkil, kukkulu, kundurukkam, kungiliyam, kungulu, muruntapali 1, painimaram, painipishin, sadagulai, tantiritamaram, tevatupam2, tubam, turulakkam, vallei, vellai-daman, vellai-damar, vellai-kungiliyam, vellai-kunrikam, vellaidamar, vellaikkundurukkam, vellaikkunkiliyam, vellaikkunrikam, vellaikkuntirikkam, vellaikkunturukam, vellaikkunturukkam, vellaikundrikam, vellaikungiliyam, vellaikuntirikkam, vellaitamar, velli-kundricum Telugu (14) - dhupadammara, doopadamaru, dupa-damaru, dupada, dupadamaru, tella-damaru, telladamara, telladamaramu, telladamaru, telladamarum, telladu maramu, tellaguggilamu, thelladaamaramu, thellaguggilamu Urdu (8) - guggul, kahruba shamai, kahruba-i-shamai, kahruba-i-shamai mahlul, kahruba-i-shamai saida, kahruba-i-shamai-saida, kahruba-i-shami, kharal kia hua
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca/xclkon/0fbef8d5ef63ff1cfc1de24f1f2597ea
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2170
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2170.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca/xclkon/0fbef8d5ef63ff1cfc1de24f1f2597ea
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca/xclkon/0fbef8d5ef63ff1cfc1de24f1f2597ea
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca/xclkon/0fbef8d5ef63ff1cfc1de24f1f2597ea
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cb53b81e86d019935c6dc402d6307ca/xclkon/0fbef8d5ef63ff1cfc1de24f1f2597ea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sarja
+sanskrit_name: सर्ज
+transliteration: sarja
+ref_drug_name: सर्ज
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Sarja
+sanskrit_name: सर्ज
+transliteration: sarja
+ref_drug_name: सर्ज
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+Identity Record 3
+drug_name: Sarjarasa
+sanskrit_name: सर्जरस
+transliteration: sarjarasa
+ref_drug_name: सर्ज
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Sarjarasa
+sanskrit_name: सर्जरस
+transliteration: sarjarasa
+ref_drug_name: सर्ज
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

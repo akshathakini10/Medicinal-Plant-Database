@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a4d52d1d12e92081afc6d1ec845de8b1
+Botanical Name: Capparis spinosa L.
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 7 languages. English (1) - capers Hindi (5) - ber, bhotiayas-kabara, kabar, kabra, kiari Kannada (8) - kathari mullina gida, katthari mullina gida, maraat moggu, mullu katthari, mullukattari, mullukatthari, nibate, nippatthike Marathi (1) - kabar Sanskrit (3) - Sanskrit Comments  himsra, kakadani, kartotti Telugu (3) - kokilaakshamu, kokilakshamu, kokitha Urdu (2) - bikh kabar, kabar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4d52d1d12e92081afc6d1ec845de8b1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 436
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/436.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4d52d1d12e92081afc6d1ec845de8b1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4d52d1d12e92081afc6d1ec845de8b1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

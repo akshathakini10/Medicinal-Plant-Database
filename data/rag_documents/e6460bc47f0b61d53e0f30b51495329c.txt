@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e6460bc47f0b61d53e0f30b51495329c
+Botanical Name: Lallemantia royleana BENTH.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Dracocephalum royleanum ROYLE.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Urdu (2) - tukhm balango, tukhm-i-balanga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e6460bc47f0b61d53e0f30b51495329c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e6460bc47f0b61d53e0f30b51495329c/xclkon/1063612a0ecd2ecec9728813884b4985
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e6460bc47f0b61d53e0f30b51495329c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e6460bc47f0b61d53e0f30b51495329c/xclkon/1063612a0ecd2ecec9728813884b4985
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e6460bc47f0b61d53e0f30b51495329c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1fb5c94f12851039e66ecebe57fb40c2
+Botanical Name: Ficus tsiela ROB.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ficus amplissima SMITH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 70 Vernacular names found in 7 languages. Hindi (4) - jari, javi, pakri, pipar Kannada (15) - basuri, basurimara, bili basari, bilibasari, bilibasri, bilibasuri, billibasari, bovinamara, dodda basari, doddabasari, goli, hebbasuri, juvvi, juvvi mara, motpipri Malayalam (6) - cela, chela, cherla, koyali, tsiela, tsjela Marathi (6) - kaela, kel, pimpari, pipar, pipli, pipri Sanskrit (9) - Sanskrit Comments  candrata, grihadvaraparshve, kancenica, kaninika, parkati, plaksa, plaksah, plaksha, vatiplaksa Tamil (18) - celaikkallicci, cilaikkallicci, cilaikkalliccimaram, cirral, icciyal, ichchi, ichi, iratakam, iratam, irattiri 1, kal-ichchi, kalathi, kallicci 1, kallichi, kallitti 1, kuruval, selaikkallichi, sittal Telugu (12) - dzuvvi, gardabhaande, gardabhande, jatini, juvvi, pedda juvvi, peddadzuvvi, peddajoovee, peddajuvvi, pitta juvvi, pitta-juvvi, pittajuvvi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fb5c94f12851039e66ecebe57fb40c2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 994
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/994.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fb5c94f12851039e66ecebe57fb40c2/xclkon/1720ff70ba85fb4aa78077c68ef431b9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fb5c94f12851039e66ecebe57fb40c2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fb5c94f12851039e66ecebe57fb40c2/xclkon/1720ff70ba85fb4aa78077c68ef431b9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fb5c94f12851039e66ecebe57fb40c2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fb5c94f12851039e66ecebe57fb40c2/xclkon/1720ff70ba85fb4aa78077c68ef431b9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fb5c94f12851039e66ecebe57fb40c2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

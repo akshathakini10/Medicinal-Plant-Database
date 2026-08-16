@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 04200a938c5e6bb2df9798dc3f74dc76
+Botanical Name: Adenia hondala (GAERTN.) W.J.DE WILDE
+Family: Passifloraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Adenia palmata ENGL. Modecca palmata LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. Kannada (1) - kempu chendu hannina balli Malayalam (7) - matakku, modecca, motta-modecca, mutakku, orela-modecca, palmodecca, palmutukku Sanskrit (1) - Sanskrit Comments  vidari Telugu (3) - modika, modikha, modikka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/04200a938c5e6bb2df9798dc3f74dc76/xclkon/e36fa2d7196c57dca907fc47ab36dd83
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 57
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/57.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/04200a938c5e6bb2df9798dc3f74dc76
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/04200a938c5e6bb2df9798dc3f74dc76/xclkon/757e6b1dcae7fdf9e40368de5e677895
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/04200a938c5e6bb2df9798dc3f74dc76/xclkon/e36fa2d7196c57dca907fc47ab36dd83
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/04200a938c5e6bb2df9798dc3f74dc76
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/04200a938c5e6bb2df9798dc3f74dc76/xclkon/757e6b1dcae7fdf9e40368de5e677895
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/04200a938c5e6bb2df9798dc3f74dc76/xclkon/e36fa2d7196c57dca907fc47ab36dd83
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

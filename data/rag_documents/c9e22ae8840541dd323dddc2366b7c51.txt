@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c9e22ae8840541dd323dddc2366b7c51
+Botanical Name: Tamarix ericoides ROTTL.
+Family: Tamaricaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 5 languages. Hindi (4) - arseli, fersah, javuro, jhau Marathi (3) - jahu, khad sherni, saru Sanskrit (1) - Sanskrit Comments  jhavuka Tamil (2) - athechavuku, manna Telugu (3) - dzane, pabbasa, pempa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9e22ae8840541dd323dddc2366b7c51
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9e22ae8840541dd323dddc2366b7c51
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c9e22ae8840541dd323dddc2366b7c51
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jhavuka - prajati
+sanskrit_name: झवूक प्रजाति
+transliteration: jhavūka prajāti
+ref_drug_name: झवूक प्रजाति
+status: Accepted source
+discussion: This is a variety of T.troupii identified as Jhavuka
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

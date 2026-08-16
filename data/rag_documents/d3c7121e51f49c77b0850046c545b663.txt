@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d3c7121e51f49c77b0850046c545b663
+Botanical Name: Acacia torta (ROB) CRAIB
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Acacia caesia (L.) WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 142 Vernacular names found in 7 languages. Hindi (15) - aila, dhangar, dhanger, gul-mohwa, jangli-moha, jangli-mohva, janglimoha, janglimohva, mahua, mahula, mahwa, maul, mowa, refan, relan Kannada (23) - alippe, antarike, antitike, barasige, candemullu, chande mullu, chende mullu, chendemullu, doddippe, halippa, haltumbri, hunage, ippaya, ippe, ippe-mara, ippi, kaadu seege, kadippe, kadu-ippe-gida, kempu seege, pokka, sonedarakele, udlu Malayalam (16) - attu, attucini, attushini, enga, iluppa, inca, incha, inja, intsia, irippa, irippapu, katirippa, kattirippa, madhookam, pu, puvuna Marathi (15) - chilari, chilhar, chitar, gul-mohwa, maha, maho, mahwa, mhowra, moho, mohwa, mora, mowda, mowha, ranachaipechajhada, ranachamohachajhada Sanskrit (33) - Sanskrit Comments  ara, atavi-madhukavriksha, atavimadhuka, atavimadhukavrikshaha, dolaphala, garudapu, gudapushpa, gudapuspah, lodhrapushpa, madhava, madhhuka, madhu, madhudrumah, madhuka, madhukah, madhukavrikshaha, madhushthila, madhusphuttila, madhusrava, madhusravah, madhustilah, madhuvara, madhuvriksha, madhvaga, madhvalam, mahadruma, nikunjika, patanga, priyala, rodhrapushpa, rodhrapuspah, vanaprastha, vanaprasthah Tamil (21) - ampavakkoti, ampavam, cinkay2, elluppainei, iluppai, indu, irantikai, kat illipi, kattiluppai, kattu illuppai, kattu-iluppai, kattu-iruppai, kattuirrupai, kattuiruppai, madugam, mantarcinkay, untupatakkoti, untupatarkkoti, vellaiyintu, vellintankoti, vellintu@ Telugu (19) - adavippe-chettu, adaviyippa, eppi, ippa, ippachettu, konda korinda, konda korintha, kondakorinda, koralakorinda, korendam, korinda, korindamu, korinta, korintha, madhookamu, madhukamu, manjikorinda, peddayippa, yerra cheeki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3c7121e51f49c77b0850046c545b663
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3c7121e51f49c77b0850046c545b663/xclkon/d6710880206e5c820c7145d2f22e7b9e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3c7121e51f49c77b0850046c545b663/xclkon/247131b67d857b963fdd85cb20541b7d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3c7121e51f49c77b0850046c545b663
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3c7121e51f49c77b0850046c545b663/xclkon/d6710880206e5c820c7145d2f22e7b9e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3c7121e51f49c77b0850046c545b663/xclkon/247131b67d857b963fdd85cb20541b7d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3c7121e51f49c77b0850046c545b663
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3c7121e51f49c77b0850046c545b663/xclkon/d6710880206e5c820c7145d2f22e7b9e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3c7121e51f49c77b0850046c545b663/xclkon/247131b67d857b963fdd85cb20541b7d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3c7121e51f49c77b0850046c545b663
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

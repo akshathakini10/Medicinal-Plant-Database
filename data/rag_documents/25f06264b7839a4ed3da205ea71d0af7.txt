@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 25f06264b7839a4ed3da205ea71d0af7
+Botanical Name: Tephrosia spinosa PERS.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Galega spinosa L.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 4 languages. Kannada (2) - mullu kolingi, mullu kolinji Sanskrit (2) - Sanskrit Comments  kantapunkha, sarapunkha Tamil (10) - cekkavuri, cekkavuricceti, karcurai, karcuranceti, mookavullie vayir, mulkolingi, mutka velai, mutkavelai, mutkavelai ver, mutkay velai Telugu (3) - mulloyampalli, muluvempali, muluvempeli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f06264b7839a4ed3da205ea71d0af7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f06264b7839a4ed3da205ea71d0af7/xclkon/0bc0e2960d3440cb214af98c7745fa74
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f06264b7839a4ed3da205ea71d0af7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f06264b7839a4ed3da205ea71d0af7/xclkon/0bc0e2960d3440cb214af98c7745fa74
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25f06264b7839a4ed3da205ea71d0af7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kantakapunkha
+sanskrit_name: कण्टकपुंखा
+transliteration: kaṇṭakapuṃkhā
+ref_drug_name: कण्टकपुंखा
+status: Most probable
+discussion: In Raja nighantu, 'Kantapunkha' has been mentioned as a type of 'Sarapunkha' which is most probably identified with this species; This species is mostly found in South India
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e012c1a10701bb8d5b9dbc991bd5f1a3
+Botanical Name: Delphinium denudatum WALL. E HOOK. F. & THOMS.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Delphaenium denudatum WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 7 languages. Hindi (8) - jadvar, jadwar, judwar, main (larkspur), nirbishi, nirbisi, nirbisiw, nirvisi Kannada (1) - nirvishi Malayalam (1) - nirvasi Marathi (1) - nirvishi Sanskrit (15) - Sanskrit Comments  apavisha, avisa, avisha, nirvisa, nirvisha, nirvishi, nirvisi, visaha, visavairini, vishabhava, vishaha, vishahantri, vishalakarani, vishavairini, vivisha Tamil (1) - nirbasi Urdu (1) - jadwar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 775
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/775.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3/xclkon/4ae2f808542b17e4adacf4f25394c34b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3/xclkon/4ae2f808542b17e4adacf4f25394c34b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3/xclkon/4ae2f808542b17e4adacf4f25394c34b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e012c1a10701bb8d5b9dbc991bd5f1a3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nirvisa
+sanskrit_name: निर्विषा
+transliteration: nirviṣā
+ref_drug_name: निर्विषा
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Nirvisi
+sanskrit_name: निर्विषी
+transliteration: nirviṣī
+ref_drug_name: निर्विषी
+status: Accepted source
+discussion: Nirvisi is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1e05aa109566860aa953611f0455b6e0
+Botanical Name: Kleinia grandiflora (WALL. E DC.) RANI
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cacalia kleinia HERB. MADR. E. C.B. CLARKE Notonia grandiflora DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. Marathi (1) - wander-roti Tamil (3) - eerminakullie, irminakullie, mosakathu-thalai Telugu (3) - kundalaseviyaku, kundeluceviyaku, kundeluchevviaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e05aa109566860aa953611f0455b6e0/xclkon/cf9b77794d77da4193d97fe4bd106dc2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e05aa109566860aa953611f0455b6e0/xclkon/5b02723f1feb21df371aededf804e587
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e05aa109566860aa953611f0455b6e0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e05aa109566860aa953611f0455b6e0/xclkon/cf9b77794d77da4193d97fe4bd106dc2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e05aa109566860aa953611f0455b6e0/xclkon/5b02723f1feb21df371aededf804e587
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e05aa109566860aa953611f0455b6e0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e05aa109566860aa953611f0455b6e0/xclkon/cf9b77794d77da4193d97fe4bd106dc2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

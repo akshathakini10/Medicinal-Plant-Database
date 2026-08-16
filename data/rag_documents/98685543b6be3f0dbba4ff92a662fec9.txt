@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 98685543b6be3f0dbba4ff92a662fec9
+Botanical Name: Barleria buxifolia L.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 5 languages. Kannada (18) - chulli, culli, gandikottimullu, gandu chotte mullu, gandu kotthi mullu, gandukottimullu, ganukotte mullu, ganukottee mullu, gubbachhi mullu, gubbee mullu, gubbi mullu, kari chulli, karichulli, kariculli, kempu gorate, kempugorate, krishna chora, kuruvaka Malayalam (3) - caraschulli, karaculli, karicculli Sanskrit (1) - Sanskrit Comments  iksura Tamil (2) - kattimullu, rosmullippuntu Telugu (4) - erramullugoranta, nalla mullugoranta, peda mullugoranta, thella mullugoranta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98685543b6be3f0dbba4ff92a662fec9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98685543b6be3f0dbba4ff92a662fec9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98685543b6be3f0dbba4ff92a662fec9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7f036a59bc4cf64b728b305448c7e910
+Botanical Name: Erythroxylum monogynum ROB.
+Family: Erythroylaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Erythroxylum monogyneum ROB. Erythroxylum monogynum ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 135 Vernacular names found in 4 languages. Kannada (26) - adavigorante, adavigoranti, cambulikayi, cembulukayi, chambalike, chambalu, chembulakaayi, chembulichan, chembulukay, daevadaari, daevadaaru, devadar, devadaru, devadarum, gandhagaru, gandhagiri, gyadaari, jeemthali, jeevadaali, jeevadaane, jivadali, jivadane, kumbaalarke, kumbulukay, kuruvaaru mara, ramanchi Malayalam (5) - cem, chem, chemmana, devadaru, devataru Tamil (78) - anakam 2, arakkani 2, ayakkantam, ayakkantamaram, cakkaratapam, cakkirapuliccai, cakkiravatapam#, caralai, cem, cemmanam, cemmanatti, cemmaram 2, cemmeliccan, cempuliccan 2, chemanatti, cikanta, cinnaritaru, cirttakikakkattai, cirttakikam, citari, citaru, civataram, civatari, civataru, cumirutevataru, curanta, curarturumam, curarturumamaram, curataru, curaturumam, devadaru, intirataru, kaccalam, kaciri, kamatattaru, karakari, karakarimaram, katavulartaram, katavulatarakamaram, kattuc cantanam, kuntalmari, nattuttevatari, pattiratarukam, pitataru 2, pitatturumam, pittaru, putikastam 2, putikattam, puttelukam, puttelukamaram, sembulichan, sempulichan, shemanathi, shemmuna, taram 3, taru#, taru@, tarucam 1, tarumaram, tevakancanam, tevakastam, tevakattam, tevatamikam 2, tevataram, tevataran, tevatari, tevataru 1, tevataru 2, tevi 2, teyvattaru, tinpu, tirakalumam 2, tuvitattaru, tuvitatturu, untirataru, vanacantanam 2@, vattiravaku, vattukkolli Telugu (26) - adavigoranta, adevigerenta, adivi goranti, adivigeranta, adivigerenta, daevadaari, daevadaaru, denadari, deodari, devadani, devadari, devadaru, devadaru gadara, gaadara, gadara, gaderi, gadiri, gathara, gatiri, gatrinta, paaribhavyamu, pagadapu, pagadapuchettu, paribhadrakamu, parihhavyam, poghada
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f036a59bc4cf64b728b305448c7e910
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f036a59bc4cf64b728b305448c7e910/xclkon/571a865424e100c9fcfa9f3ea455355a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f036a59bc4cf64b728b305448c7e910/xclkon/4cd389f4517434649f427ff5b4d45da3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f036a59bc4cf64b728b305448c7e910
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f036a59bc4cf64b728b305448c7e910/xclkon/571a865424e100c9fcfa9f3ea455355a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f036a59bc4cf64b728b305448c7e910/xclkon/4cd389f4517434649f427ff5b4d45da3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f036a59bc4cf64b728b305448c7e910
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

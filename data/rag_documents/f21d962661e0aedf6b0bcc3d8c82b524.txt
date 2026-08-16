@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f21d962661e0aedf6b0bcc3d8c82b524
+Botanical Name: Viburnum cylindricum BUCH.-HAM.E D.DON
+Family: Caprifoliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Hindi (3) - kala titmaliya, lampatya, rashina Sanskrit (1) - Sanskrit Comments  tilvakabedha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f21d962661e0aedf6b0bcc3d8c82b524
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2178
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2178.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f21d962661e0aedf6b0bcc3d8c82b524
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

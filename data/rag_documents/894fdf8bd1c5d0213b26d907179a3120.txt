@@ -1,0 +1,99 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 894fdf8bd1c5d0213b26d907179a3120
+Botanical Name: Ocimum gratissimum L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 85 Vernacular names found in 8 languages. Hindi (8) - banjari, banjiri, bantulsi, malatulsi, ram tulasi, ram tulsi, ram-tulsi, ramtulsi Kannada (7) - ajagandhika, biliya kargoli, kaadu thulasi, lavanga thulasi, nimbe thulasi, nimbe tulasi, rama-tulashi Malayalam (6) - kattei-tulluva, kattu-tirtava, kattu-tuttuva, kattutrittavu, kattutryttavu, ramatulasi Marathi (7) - ajavala, maali thulasi, raamathulasi, raamthulasi, ramatulasi, ran-tulas, tanatulasu Sanskrit (20) - Sanskrit Comments  ajaka, ajeka, bilvaparni, doshakleshi, haricaya, nidralu, phaninjaka, ramatulasi, shophahari, sugandhi, sukshmapatraka, sumukha, sumukhah, suprassanaka, suvakra, tulasi, vanabarbarika, vantulasi, vishghna, vriddhatulasi Tamil (27) - acakantikam, alarutanmatu, arccakam, attuttulay, attuttulaycceti, ekapattirikai, elmich-cham-tolashi, elumiccam tulaci, elumiccantulaci@, elumicchan-thulasi, elumicham tulasi, elumichan tulasi, elumichantulasi, elumichantulsi, kantapattiram1, mataralaki, perumtulsi, perundu lachi, peruntulaci, peruntulasi, tikatturai, tiruntanam, tiruvaci, ventulaci, ventulaci 2, vitappakam, yatovarumaci Telugu (9) - nimma tulasi, nimma-tulasi, nimmathulasi, nimmatulasi, raamathulasi, rama tulasi, rama-tulasi, ramatulasi, tamathulasi Urdu (1) - tukhm faranjmushk
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/894fdf8bd1c5d0213b26d907179a3120
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/894fdf8bd1c5d0213b26d907179a3120
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/894fdf8bd1c5d0213b26d907179a3120
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/894fdf8bd1c5d0213b26d907179a3120
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/894fdf8bd1c5d0213b26d907179a3120
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/894fdf8bd1c5d0213b26d907179a3120
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bilvaparni
+sanskrit_name: बिल्वपर्णी
+transliteration: bilvaparṇī
+ref_drug_name: बिल्वपर्णी
+status: Most probable
+discussion: It may be identified with this species
+reference: [1]
+
+Identity Record 2
+drug_name: Jambira
+sanskrit_name: जम्बीर
+transliteration: jambīra
+ref_drug_name: जम्बीर
+status: Controversial
+discussion: With regard to it having the scent of lemon it is correlated to this sp.
+reference: [1]
+
+Identity Record 3
+drug_name: Jambira
+sanskrit_name: जम्बीर
+transliteration: jambīra
+ref_drug_name: जम्बीर
+status: Suggested source
+discussion: Considered as a possible source
+reference: [1]
+
+Identity Record 4
+drug_name: Jambira phala
+sanskrit_name: जम्बीरफल
+transliteration: jambīraphala
+ref_drug_name: जम्बीर
+status: Controversial
+discussion: With regard to it having the scent of lemon it is correlated to this sp.
+reference: [1]
+
+Identity Record 5
+drug_name: Jambira phala
+sanskrit_name: जम्बीरफल
+transliteration: jambīraphala
+ref_drug_name: जम्बीर
+status: Suggested source
+discussion: Considered as a possible source
+reference: [1]
+
+Identity Record 6
+drug_name: Ramatulasi
+sanskrit_name: रामतुलसी
+transliteration: rāmatulasī
+ref_drug_name: रामतुलसी
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

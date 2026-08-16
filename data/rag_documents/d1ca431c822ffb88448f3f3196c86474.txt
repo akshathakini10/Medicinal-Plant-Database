@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d1ca431c822ffb88448f3f3196c86474
+Botanical Name: Juglans regia L. var. kumaonia DC.
+Family: Juglandaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 6 languages. Hindi (2) - akhor, akhrot Kannada (1) - akrodu Malayalam (1) - akrottu Sanskrit (1) - Sanskrit Comments  aksotah Tamil (1) - akrottu Telugu (1) - akrotu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d1ca431c822ffb88448f3f3196c86474
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d1ca431c822ffb88448f3f3196c86474
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Aksota
+sanskrit_name: अक्षोट
+transliteration: akṣoṭa
+image_urls: https://www.medicinalplants.in/slokaimages/968/968_1.jpg
+ocr_text: अक्षोटो मधुरो बल्यः स्निग्धोष्णोः वातपित्तजित्| रक्तदोषप्रशमनः शीतलः कफकोपनः | | Aksota is madhura in rasa, snigdha in guna usna in veerya, balya, vatapittahara, rakta dosa prasamana sitala in guna and kapha kopana

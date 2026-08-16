@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 64a0ce241c02c8b00fc12a666daf12db
+Botanical Name: Commelina longifolia LAM.
+Family: Commelinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Commelina salcifolia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Hindi (1) - jalpipari Sanskrit (3) - Sanskrit Comments  jalapippali, jalapippalianguli, langulu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64a0ce241c02c8b00fc12a666daf12db/xclkon/7139d85b9127279a7dea30c780fc100b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64a0ce241c02c8b00fc12a666daf12db
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64a0ce241c02c8b00fc12a666daf12db/xclkon/7139d85b9127279a7dea30c780fc100b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

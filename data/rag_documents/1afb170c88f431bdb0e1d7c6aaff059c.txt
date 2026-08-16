@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1afb170c88f431bdb0e1d7c6aaff059c
+Botanical Name: Crotalaria bialata SCHR.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Crotalaria alata BUCH.-HAM. E D. DON
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Kannada (1) - budubudike kaayi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1afb170c88f431bdb0e1d7c6aaff059c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1afb170c88f431bdb0e1d7c6aaff059c/xclkon/d4c18a66514d27d9d1360e030066044d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1afb170c88f431bdb0e1d7c6aaff059c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

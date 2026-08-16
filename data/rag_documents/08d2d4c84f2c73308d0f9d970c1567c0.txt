@@ -1,0 +1,81 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 08d2d4c84f2c73308d0f9d970c1567c0
+Botanical Name: Fagonia cretica L.
+Family: Zygophyllaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Fagonia arabica L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 59 Vernacular names found in 7 languages. Hindi (4) - damahan, dhamaso, jawasio, ustarkhar Kannada (2) - mullu muddu gida, nela ingalaara Marathi (3) - dhamasa, dhumaso, dumaso Sanskrit (39) - Sanskrit Comments  ajabhakshya, ananta, ananto, atmamuli, dhanna, dhanuryasa, dhanva, dhanvayas, dhanvayasa, dhanvayasaka, dhanvayavasa, dhanvi, duhsparsa, durabhi, duralabaha, duralabha, dusparsha, gandhari, grahini, idankarya, igraha, kacchura, kashaya, kunashaka, marujauma, mriduparna, padmamukhi, prabodhani, pralhadini, rodini, samudranta, sukshmadala, suralabha, tamramula, ushtrabhakshya, ustrabhaksya, vikanta, virupa, visharada Telugu (3) - chitikara, chittigara, cittigara Tibetan (3) - ba tsher ba rnam gcig, byi tsher, byi-tsher Urdu (5) - badavard, badawand, badaward, badawarde, dhamaya(dhamasa)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0/xclkon/d155bc7a8ad776b754a94d9776585885
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 954
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/954.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0/xclkon/359663ac25d7af5aaf1cf8f46d87170d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0/xclkon/d155bc7a8ad776b754a94d9776585885
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0/xclkon/359663ac25d7af5aaf1cf8f46d87170d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0/xclkon/d155bc7a8ad776b754a94d9776585885
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0/xclkon/359663ac25d7af5aaf1cf8f46d87170d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d2d4c84f2c73308d0f9d970c1567c0/xclkon/d155bc7a8ad776b754a94d9776585885
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhanva
+sanskrit_name: धन्व
+transliteration: dhanva
+ref_drug_name: धन्व
+status: Suggested source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Dhanvayasa
+sanskrit_name: धन्वयास
+transliteration: dhanvayāsa
+ref_drug_name: धन्वयास
+status: Accepted source
+discussion: Dhanvayasa is correlated to this species
+reference: [2]
+
+Identity Record 3
+drug_name: Dhanvayasa
+sanskrit_name: धन्वयास
+transliteration: dhanvayāsa
+ref_drug_name: धन्वयास
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

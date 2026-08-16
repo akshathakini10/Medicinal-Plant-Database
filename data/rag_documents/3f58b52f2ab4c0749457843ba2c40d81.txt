@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3f58b52f2ab4c0749457843ba2c40d81
+Botanical Name: Gardenia augusta (L.) MERR
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Gardenia florida L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 7 languages. English (1) - cape jasmine Hindi (2) - gandharaj, gulchand Kannada (1) - suvarane malle Marathi (2) - nanamt, thagar Sanskrit (2) - Sanskrit Comments  gandharaj, gandharaja Tamil (3) - kantaraca, kantaracanam, karinga Telugu (1) - thota bikki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f58b52f2ab4c0749457843ba2c40d81/xclkon/429b0e8debbfe76653e8902de353a096
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f58b52f2ab4c0749457843ba2c40d81
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f58b52f2ab4c0749457843ba2c40d81/xclkon/2db38acfdb69a59b0763901b61357d34
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f58b52f2ab4c0749457843ba2c40d81/xclkon/429b0e8debbfe76653e8902de353a096
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f58b52f2ab4c0749457843ba2c40d81
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f58b52f2ab4c0749457843ba2c40d81/xclkon/2db38acfdb69a59b0763901b61357d34
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f58b52f2ab4c0749457843ba2c40d81/xclkon/429b0e8debbfe76653e8902de353a096
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f58b52f2ab4c0749457843ba2c40d81
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f58b52f2ab4c0749457843ba2c40d81/xclkon/2db38acfdb69a59b0763901b61357d34
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f58b52f2ab4c0749457843ba2c40d81/xclkon/429b0e8debbfe76653e8902de353a096
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

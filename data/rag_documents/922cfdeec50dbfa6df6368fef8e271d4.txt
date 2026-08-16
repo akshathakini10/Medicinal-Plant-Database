@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 922cfdeec50dbfa6df6368fef8e271d4
+Botanical Name: Pithecellobium dulce (ROB.) BENTH.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pithecolobium dulce BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 65 Vernacular names found in 7 languages. English (2) - madras thorn, manila tamarind Hindi (5) - jangal jalebi, jangal-jalebi, jangli jalebi, kikar, pardeshi amli Kannada (14) - cakkuli, cakli, chakkuli, chakkuli mara, chakli, keraka pulle, kerakapulle, korakaasuli, kottaam puli, madaraas mullu, manila hunase, simahunase, simehunase, simehunise Malayalam (2) - kurkkampuli, mulla Marathi (3) - hatichinch, phirangi-chinch, vilaaythichinch Tamil (32) - cikantakam, cikantakamaram, cimaiccintukam, cimaippuli, cunkatari, cunkatarimaram, cunnamanon, inka 3, kattuppuli, konappuli, koni 2, korika, korikamaram, korukka 1, korukkappuli, korukkay 1, korukkayppuli, kotukkay, kotukkay puli, naraimiri, palampuli, parankikkorukkaippuli, parankikkorukkayppuli, picamalam, taracatam, taracatamaram, tipanam, tivanam, uppukkuruti, urucikaram, vekka, vetiyuppukkatti Telugu (7) - seemachinduga, seemachinta, semachinta, simaachinduga, simachinta, simacinta, simechinta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/922cfdeec50dbfa6df6368fef8e271d4/xclkon/71f9f22ae94d3660ed62ee469c02a7a6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/922cfdeec50dbfa6df6368fef8e271d4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/922cfdeec50dbfa6df6368fef8e271d4/xclkon/71f9f22ae94d3660ed62ee469c02a7a6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/922cfdeec50dbfa6df6368fef8e271d4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/922cfdeec50dbfa6df6368fef8e271d4/xclkon/71f9f22ae94d3660ed62ee469c02a7a6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

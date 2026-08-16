@@ -1,0 +1,97 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 81a7142da6d3e9316c713044dd02140d
+Botanical Name: Stereospermum chelonoides (L.F.) DC.
+Family: Bignoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Bignonia chelonoides L.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 188 Vernacular names found in 9 languages. Hindi (11) - pad, padal, padaria, padeli, padiala, padol, pandri, paral, parur, pur, purula Kannada (49) - adri, bilee paadari, bili paadri, billa, geri, giri, girihaadari, hadari, hadri, hooday, hoody, hude, hulave, huvvulave, kalihuttu, kalladi, kallu oodi, kalludure, kalmanasingi, kaludi, kanemaanse bringi, kariguddada hoo, kariguddada kalludre, kariguddadu, karivudure, kempusnake paadiri, kenemanasingi, kulwudi, malaili, malevudure, mallali, mallalli, najudi, paadari, paatali mara, padari, padari padri patala, padiri, padri, patala, pudike, pudikekadunirudure, pudikekatniruli, pulave, purali mara, puruli, puvvulave, tagada, ulve Malayalam (19) - kacasthali, karannavu, karanyavu, karingkura, karinkara, kariyam, kuberakshi, padari, padiri, padri, padrie, pathiri, patiri, phaleruha, poopadri, poopathary, pupatiri, puppatiri, vedankorana Marathi (12) - kalagori, kalgari, kalgoripadri, kusgo, paadal, padal, padeel, padialu, pahad, parul, patala, patalo Sanskrit (28) - Sanskrit Comments  abhipriya, alivallabha, ambuvasani, ambuvasi, amova, kachasthali, kalavrinta, kalavrinti, kamaduti, karbura, kastapatala, kokila, krishnavrinta, kuberakshi, kumbhi, kumbhika, madhuduti, patala, patalai, patali, patalikrshna, phaleruha, sthali, sthiragandha, tamrapushpi, toyadhivasini, toyapushpi, vasantaduti Tamil (24) - ambu, ambuvagina, ambuvagini, appu, appu2, cencampatirimaram, kanni, paadiri, padiri, padrie vayr, patalam, patalimaram, pathari, pathiri, pathiriver, patiri, patiri 1, pattiraki, pattirakimaram, pumbaadire, pumbadiri, pumpatiri, punkali 2, pyuppadiri Telugu (43) - ambuvaasini, ambuvasini, gallugudu, goddalipukusu, isakarasi, ishakarasi, ishikarasi, ishirashi, kakkisa, kalagora, kalagoru, kalighootroo, kaligoru, kaligothu, kaligottu, kaligotu, kokess, kokkesa, kuberaakshi, kuberakshi, magavaepa, magavepa, mogavapa, mogavepa, mokagapa, mokayapa, mokkapu, mokkavepa, paadari chettu, paatala, paathali, padari, padiri, padri, patala, patali, pisul, pulakail, pulakevalamu, tagada, tedla-pala, thagu, vivi Tibetan (1) - pa-ta-la Urdu (1) - padal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1984
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1984.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/823307c7c86b0e73ed95eac3410cb780
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/823307c7c86b0e73ed95eac3410cb780
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/823307c7c86b0e73ed95eac3410cb780
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/823307c7c86b0e73ed95eac3410cb780
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/823307c7c86b0e73ed95eac3410cb780
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d/xclkon/d0cb50c09044ca93fc581652ab7273db
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81a7142da6d3e9316c713044dd02140d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Patala
+sanskrit_name: पाटला
+transliteration: pāṭalā
+ref_drug_name: पाटला
+status: Accepted source
+discussion: Patala is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Patala - sveta
+sanskrit_name: पाटला श्वेता
+transliteration: pāṭalā śvetā
+ref_drug_name: पाटला
+status: Accepted source
+discussion: Patala is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Patala
+sanskrit_name: पाटला
+transliteration: pāṭalā
+image_urls: https://www.medicinalplants.in/slokaimages/1535/1535_1.jpg https://www.medicinalplants.in/slokaimages/1535/1535_2.jpg https://www.medicinalplants.in/slokaimages/1535/1535_3.jpg https://www.medicinalplants.in/slokaimages/1535/1535_4.jpg
+ocr_text: पाटला तु रसे तिक्ता कटूष्णा कफवातजित्| शोफाध्मानवमिश्वासशमनी सन्निपातनुत् (Rjn) Patala is tikta, katu in rasa usna in veerya, alleviates kapha, ana sannipata, pacifies sopha, aahmana, vami and svasa vata पाटलानुवशतिक्ता अनुष्णा दोषत्रयापहा अरुचिश्वासशोथास्रच्छर्द्दिहिक्कातृषाहरी | | (Bpnl Patala is tikta in rasa, anusna in veerya, alleviates all the threea doshas, cures aruci , svasa, sotha, asra, chardi, hikka and trsha पुष्पं कषायं मधुरं हिमं हृद्यं कफास्रनुत् पित्तातिसारदाहघ्नं फलं हिक्कास्रपित्तहृत् | IBpn) Patala puspa is kashaya, madhura in rasa, hima in veerya, hraya, alleviates kapha, asra, pitta, atisara and daha. Phala alleviates hikka, asra and pitta विशदं हृद्यं वाकुलं पाटलानि च| | (सुश्रुत, सू ४६ २८७) Patala is suganahi, visada, hrdya vakula सुगन्धि and
+
+Shloka Record 2
+drug_name: Patala - sveta
+sanskrit_name: पाटला श्वेता
+transliteration: pāṭalā śvetā
+image_urls: https://www.medicinalplants.in/slokaimages/1535/1535_1.jpg https://www.medicinalplants.in/slokaimages/1535/1535_2.jpg https://www.medicinalplants.in/slokaimages/1535/1535_3.jpg https://www.medicinalplants.in/slokaimages/1535/1535_4.jpg
+ocr_text: पाटला तु रसे तिक्ता कटूष्णा कफवातजित्| शोफाध्मानवमिश्वासशमनी सन्निपातनुत् (Rjn) Patala is tikta, katu in rasa usna in veerya, alleviates kapha, ana sannipata, pacifies sopha, aahmana, vami and svasa vata पाटलानुवशतिक्ता अनुष्णा दोषत्रयापहा अरुचिश्वासशोथास्रच्छर्द्दिहिक्कातृषाहरी | | (Bpnl Patala is tikta in rasa, anusna in veerya, alleviates all the threea doshas, cures aruci , svasa, sotha, asra, chardi, hikka and trsha पुष्पं कषायं मधुरं हिमं हृद्यं कफास्रनुत् पित्तातिसारदाहघ्नं फलं हिक्कास्रपित्तहृत् | IBpn) Patala puspa is kashaya, madhura in rasa, hima in veerya, hraya, alleviates kapha, asra, pitta, atisara and daha. Phala alleviates hikka, asra and pitta विशदं हृद्यं वाकुलं पाटलानि च| | (सुश्रुत, सू ४६ २८७) Patala is suganahi, visada, hrdya vakula सुगन्धि and

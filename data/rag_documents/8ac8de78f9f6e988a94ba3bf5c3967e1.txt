@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8ac8de78f9f6e988a94ba3bf5c3967e1
+Botanical Name: Diospyros sylvatica ROB.
+Family: Ebenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 2 languages. Kannada (8) - akkasarali, baali sarali, beedi aele mara, bilisarali, bilisaralu, kaaka sarali, kakasarali, kakasuroli Telugu (22) - gaada, gaadaluti, gaatha, gada, gadaluti, gata, ghata, nalla gaatha, nalla kaakamushti, nallagada, nallagata, nallaghanta, nallaghantha, nallaghata, nallaghatha, nallakakamushti, pittagata, pittaghata, varrigaatha, verrigata, yerragatha, yerraghata
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ac8de78f9f6e988a94ba3bf5c3967e1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8ac8de78f9f6e988a94ba3bf5c3967e1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

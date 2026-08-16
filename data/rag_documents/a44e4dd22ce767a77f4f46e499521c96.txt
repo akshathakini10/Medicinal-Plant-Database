@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a44e4dd22ce767a77f4f46e499521c96
+Botanical Name: Allmania nodiflora (L.) R.BR. E WIGHT
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 4 languages. Kannada (2) - hasiru budde soppu, kandu budde gida Malayalam (2) - pee-coipa, pee-tardavel Tamil (6) - kamatcikkirai, kiraikkummatti, kumattikkirai, kumittikkirai, kummattikkirai, muttikkirai Telugu (1) - gurugu koora
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a44e4dd22ce767a77f4f46e499521c96
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a44e4dd22ce767a77f4f46e499521c96
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a44e4dd22ce767a77f4f46e499521c96
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

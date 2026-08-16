@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ed577b73a2d99017573f2534413246fc
+Botanical Name: Cymbopogon caesius STAPH.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. Kannada (6) - anji hullu, kaamaanchi hullu, kaasi hullu, kamanchahullu, kharadaa kaasi hullu, naati laamancha Malayalam (1) - inchi-pul Tamil (2) - kamakshi-pillu, kamati Telugu (3) - adavi nimma gaddi, kaasi gaddi, kamanchi-gaddi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed577b73a2d99017573f2534413246fc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed577b73a2d99017573f2534413246fc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+ref_drug_name: रोहिष
+status: Substituted source
+discussion: Might have been used as a substitute
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+image_urls: https://www.medicinalplants.in/slokaimages/550/550_1.jpg https://www.medicinalplants.in/slokaimages/550/550_2.jpg https://www.medicinalplants.in/slokaimages/550/550_3.jpg
+ocr_text: कत्तृणं श्वासकासघ्नं हृद्रोगशमनं परम् विसूच्यजीर्णशूलघ्नं कफपित्तास्रनाशनम् न (ज.नि) Kattrna alleviates svasa , kasa, visuci, ajirna, sula, best in pacifyng hrdroga, destroys kapha, pitta asra and कत्तृणा दशनामाढ्यं कटुतिक्तं कफापहम्| शस्त्रशल्यादिदोषघ्नं बालग्रहविनाशनम् | IRin) Kattrna is katu, tikta in rasa, dasanamdhya, alleviates kapha, sastra salyadi dosha and destroys bala Braha. रोहिषं तिक्तं कटुपाकं व्यपोहति | हृत्कण्ठव्याधिपित्तास्रशूलकासकफज्वरान् (Bpn) Rohisa is tuvara, tikta in rasa, katu in paka, alleviates hrt kantha vyadhi, pitta, asra, sula, kasa, kapha and jvara. तुवरं

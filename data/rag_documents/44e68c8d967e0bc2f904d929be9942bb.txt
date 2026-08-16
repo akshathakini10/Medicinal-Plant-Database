@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 44e68c8d967e0bc2f904d929be9942bb
+Botanical Name: Striga asiatica (L.) KUNTZE
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Striga lutea LOUR
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 7 languages. English (2) - tobacco jasmine, witch weed Kannada (2) - bili kasa, jolada baeru maari Malayalam (1) - kalu-polapen Marathi (1) - laghukurandika Sanskrit (5) - Sanskrit Comments  agnivriksha, kshetrabhusha, kshetranashini, kurandika, kuranti Tamil (22) - cirakacitam, cirakacitappuntu, cullu, cutaparpini, kancikam, kancikapputu, kevalikapputu, kevarikam, kirumimulam, kollaippalli, kollankutakam, kollankutakappuntu, kutiyottippuntu, ninritamtincan, palli-ppuntu, pallipoondu, pallippundu, pallippuntu, pallipputu, payirerippaval, payirerittapavi, visantiyancan Telugu (1) - rathi badamika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44e68c8d967e0bc2f904d929be9942bb/xclkon/7871473ff327b614b1034c6f9aadc046
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44e68c8d967e0bc2f904d929be9942bb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44e68c8d967e0bc2f904d929be9942bb/xclkon/7871473ff327b614b1034c6f9aadc046
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44e68c8d967e0bc2f904d929be9942bb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44e68c8d967e0bc2f904d929be9942bb/xclkon/7871473ff327b614b1034c6f9aadc046
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44e68c8d967e0bc2f904d929be9942bb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44e68c8d967e0bc2f904d929be9942bb/xclkon/7871473ff327b614b1034c6f9aadc046
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

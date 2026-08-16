@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6d297870cc3cc448dac4f1ba6bfd6b44
+Botanical Name: Nymphoides hydrophylla (LOUR.) KUNTZE
+Family: Menyanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Limnanthemum cristatum GRISEB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 7 languages. Hindi (4) - baank, kumudini, kumudni, lodh Kannada (1) - anthara thaavare Malayalam (1) - tsjeroea-citambel Marathi (2) - kamadi, kamali Sanskrit (3) - Sanskrit Comments  kalanusariva, kumudwuti, sitali Tamil (1) - akacavalli Telugu (3) - anthara thaamara, chiri alli, pitta kaluva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d297870cc3cc448dac4f1ba6bfd6b44
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d297870cc3cc448dac4f1ba6bfd6b44/xclkon/672297211d64f8bc9e605638b40fa630
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d297870cc3cc448dac4f1ba6bfd6b44/xclkon/f8a6e8ba9142f528d05f12227d09395d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d297870cc3cc448dac4f1ba6bfd6b44
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d297870cc3cc448dac4f1ba6bfd6b44/xclkon/672297211d64f8bc9e605638b40fa630
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d297870cc3cc448dac4f1ba6bfd6b44/xclkon/f8a6e8ba9142f528d05f12227d09395d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d297870cc3cc448dac4f1ba6bfd6b44
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d297870cc3cc448dac4f1ba6bfd6b44/xclkon/672297211d64f8bc9e605638b40fa630
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d297870cc3cc448dac4f1ba6bfd6b44/xclkon/f8a6e8ba9142f528d05f12227d09395d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d297870cc3cc448dac4f1ba6bfd6b44
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

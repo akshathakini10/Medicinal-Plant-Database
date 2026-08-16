@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5bd75f2c5058cc5c7fb5a4406fd9cac6
+Botanical Name: Nauclea orientalis (L.) L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sarcocephalus cordatus MIQ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. English (2) - kanluang, leichhardt (pine) Kannada (2) - nellane, nellani Malayalam (1) - nellani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5bd75f2c5058cc5c7fb5a4406fd9cac6/xclkon/397c5e80683c6bd8e1fc5a3e003b787d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5bd75f2c5058cc5c7fb5a4406fd9cac6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5bd75f2c5058cc5c7fb5a4406fd9cac6/xclkon/397c5e80683c6bd8e1fc5a3e003b787d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

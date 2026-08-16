@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8884cfbae84f031dee6f58c5af204081
+Botanical Name: Caesalpinia mimosoides LAM.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 4 languages. Kannada (24) - chingey, cinje, eeejimullu, ganajali, ganajile, ganajilu, ganijele, ijemullu, ijimullu, kandige, kenchige, kencige, kombe, kombe gida, komme, komme gida, nallagane, nallaganne, nallekane, nallikane, shimullu, simullu, siyije, timullu Malayalam (6) - chingamullu, cinnamullu, kal-toddavaddi, malanteri, timullu, timulu Marathi (2) - lajri, narkati Tamil (2) - pulinakkagonrai, punaikkalarci
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8884cfbae84f031dee6f58c5af204081
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8884cfbae84f031dee6f58c5af204081
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8884cfbae84f031dee6f58c5af204081
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

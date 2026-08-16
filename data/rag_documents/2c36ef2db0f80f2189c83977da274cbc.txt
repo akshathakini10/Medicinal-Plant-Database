@@ -1,0 +1,156 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2c36ef2db0f80f2189c83977da274cbc
+Botanical Name: Tribulus terrestris L.
+Family: Zygophyllaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 208 Vernacular names found in 10 languages. English (2) - caltrops, devil s thorn Hindi (12) - burragokhur, chhotagokhru, chota-gokhru, goghru, gokharu, gokhru, gokhuru, gokshri, hatechanghara, hussuk, kanti, pili-kante Kannada (14) - govina mullu, kirineglu mullu, naegalu mullu, naeggila mullu, negalu, neggila mullu, neggilu, negil-mullu, neglumullu, nerigilu, nerinjimullu, sanna neggilu, sannaneggilugida, sennanegalu Malayalam (3) - neringil, nerinnil, nerungil Marathi (8) - ghokaroo, ghokaru, gokru, kaante gokharoo, lahanagokharu, sarata, sarate, sharatte Sanskrit (43) - Sanskrit Comments  bahukantaka, bhakshataka, canadruma, chanadruma, gokanta, gokantaka, gokantakah, gokhura, gokhurha, gokshua, gokshura, gokshuru, goksura, goksurah, goksuraka, ikshugandha, iksugandhika, kanta, kantaphala, kshudragokshura, kshudrakshura, kshura, laghugokshura, laghugoksuru, palankasha, ractasuadanshtra, ri, sadanga, sadangah, shadanga, shvadanshtra, soodumstra, sthalashringataka, sthalasringataka, sudumstra, svadamstra, svadukantaka, svadunestra, traikantaka, trikantah, trikantaka, vanashringataka, vanasrangata Tamil (113) - acacaram1, acacuram1, accuram2, acuvacattiram, acuvacettiram, acuvatattiram, akkavalati, akkilu, akkini 2, akkinil, antaravaruni, antaravarunikkoti, cherunerinche, cineruncil, ciruneruncil, citiram, cucumam, cukam@, cutakakkoti, cutakam, cutam, cuvatattam, cuvatukantakam2, cuvatukantakkoti, cuvatukantam, cuvatukantam2, ikkukantai3, inki, inkucakkanan2, inkucukantan2, inkucukantan@, inkucukkantan2, inkukkantan2, inkutavakam, irattaccemi, itcukantam2, kamaraci, kamaracikkoti, kamarici, kanatanti, katutatinetti, kittiram, kokanamul, kokanamutkoti, kokantakam, kokantam, kokkurapputu, kontakakkoti, kontakam, kontam, kontam1, kotimakitam, kurukku, matipam, matipoti, matipoti#, matipoti@, mattuppoti, mukkantakam, mukkantaki, mukkantali, nal nenuncil, nallaneruncil, nalnerunci, nalneruncil, nannerincil, nanneruncikkoti, nattuvarikam, nayppanippuntu, nerenjimullu, nerinci, neringie, nerinjal, nerinji, nerunchil, nerunci, neruncil, neruncippaccai, nerunciputum, nerungil, nerunji, nerunjil, nerunjul, ororutali, pacanapeti 2, palleru, paramatarai, patalamulam 3, patalamuli 3, patamuli, peru neruncil, piruntai 2, sirunerinji, tirikalatakam, tirikantakam, tirikantaki, tirikantakkoti, tirikantam, tirikantam#, tirikantam@, tiritantam, tiruvarttaivattam, tumpu, ucaripam, ucaritam, uccitakkoti, uccitam, viruccalapam, viruccalayi, virukkalapam, yanaikkalvananki, yanaikkalvanankipputu, yanaivananki 2 Telugu (7) - chirupalleru, cinnapalleru, nirunji, palleru, pallerumullu, pannaeru mullu, sannaneggilugida Tibetan (2) - gze ma, gze-ma Urdu (4) - gokharu, gokhru khurd, gokhru khurd nim kofta, khar-e-khasak-khurd
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2114
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2114.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c36ef2db0f80f2189c83977da274cbc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Goksura
+sanskrit_name: गोक्षुर
+transliteration: gokṣura
+ref_drug_name: गोक्षुरु
+status: Accepted source
+discussion: Goksura is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Goksura
+sanskrit_name: गोक्षुर
+transliteration: gokṣura
+ref_drug_name: गोक्षुरु लघु
+status: Accepted source
+discussion: Laghu goksura is correlated to this species
+reference: [2]
+
+Identity Record 3
+drug_name: Goksura
+sanskrit_name: गोक्षुर
+transliteration: gokṣura
+ref_drug_name: गोक्षुर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Goksura
+sanskrit_name: गोक्षुर
+transliteration: gokṣura
+ref_drug_name: गोक्षुर
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 5
+drug_name: Goksuru
+sanskrit_name: गोक्षुरु
+transliteration: gokṣuru
+ref_drug_name: गोक्षुरु
+status: Accepted source
+discussion: Goksura is correlated to this species
+reference: [2]
+
+Identity Record 6
+drug_name: Goksuru
+sanskrit_name: गोक्षुरु
+transliteration: gokṣuru
+ref_drug_name: गोक्षुरु लघु
+status: Accepted source
+discussion: Laghu goksura is correlated to this species
+reference: [2]
+
+Identity Record 7
+drug_name: Goksuru
+sanskrit_name: गोक्षुरु
+transliteration: gokṣuru
+ref_drug_name: गोक्षुर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 8
+drug_name: Goksuru
+sanskrit_name: गोक्षुरु
+transliteration: gokṣuru
+ref_drug_name: गोक्षुर
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 9
+drug_name: Goksuru - laghu
+sanskrit_name: गोक्षुरु लघु
+transliteration: gokṣuru laghu
+ref_drug_name: गोक्षुरु
+status: Accepted source
+discussion: Goksura is correlated to this species
+reference: [2]
+
+Identity Record 10
+drug_name: Goksuru - laghu
+sanskrit_name: गोक्षुरु लघु
+transliteration: gokṣuru laghu
+ref_drug_name: गोक्षुरु लघु
+status: Accepted source
+discussion: Laghu goksura is correlated to this species
+reference: [2]
+
+Identity Record 11
+drug_name: Goksuru - laghu
+sanskrit_name: गोक्षुरु लघु
+transliteration: gokṣuru laghu
+ref_drug_name: गोक्षुर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 12
+drug_name: Goksuru - laghu
+sanskrit_name: गोक्षुरु लघु
+transliteration: gokṣuru laghu
+ref_drug_name: गोक्षुर
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

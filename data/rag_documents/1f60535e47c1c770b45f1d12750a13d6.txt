@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1f60535e47c1c770b45f1d12750a13d6
+Botanical Name: Solanum giganteum JACQ
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Marathi (1) - kurti Tamil (3) - paintilikakkoti, paintilikam, peyccuntai-p-palam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f60535e47c1c770b45f1d12750a13d6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f60535e47c1c770b45f1d12750a13d6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f60535e47c1c770b45f1d12750a13d6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

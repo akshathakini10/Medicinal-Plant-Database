@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5f8bfd4196998db48c75cf43cc008be3
+Botanical Name: Tabernaemontana divaricata (L.) ROEM. & SCHULT.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ervatamia coronaria (JACQ.) STAPF.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 116 Vernacular names found in 8 languages. English (2) - crepe jasmine, moon beam Hindi (9) - candni, chandni, chandui, jangli chameli, sugandabala, tagar, taggai, taggar, togar Kannada (23) - kokke, kokke kaayi gida, kokkekayida, kottu haale, kottubale, kottuhale, kottuhale hoo, kotwalle, maddarasa gida, maddarasagida, mudrasa, nandabatlu, nandi batla hoovu, nandi batlu, nandibatlu, nandibattal, nandyaa vartha, nanjaa patte, nanjaa vatla, nanjaavattu, nanjabatlu, nanjapatta, nanjavatta Malayalam (15) - belutta-amelpodi, curatapala, curutupala, gandmtagarappu, kuttampala, kuttampale, nandi-ervatum, nandiyavertam, nandyarvattam, nantiyavattam, nantyarvattam, nantyavarttam, pala, tadgara, takaram Marathi (11) - ananta, anantha, gondetagara, gondethagara, nadiavatti, namdit, sagar, tagar, tagar avattam, thagar, vadhil-namdit Sanskrit (20) - Sanskrit Comments  ashvathabheda, atukkunantiyarvattai, gajapadapa, kshayataru, kshiri, nandi, nandi vrksa, nandivraksha, nandivriksha, nandivrksah, nandyavarta, nandyavartah, niryasatagara, prarohi, sthalivriksha, tagar, tagara, taravata, vanaspati, vishnupriya Tamil (27) - adukkunandiyavattai, atukkunantiyarvattai, cuyotanan, karerduppalai, kuruduppalai, malai, nandhi, nandhiavattai, nandiavattai, nandiavattampu, nandiyaavattam, nandiyavarttam, nandiyavattam, nanthia, nanthin-vatal, nanthiyarattam, nanthiyavattam, nantipattiri, nantiya vattappu, nantiyavarttam, nantiyavattam, nundiavuttei, pattidai, pattitai, perunandiyavattam, valamburi, valampuri Telugu (9) - gandhi thagara poo, gandhitagarapu, grandhi thagarapi chettu, grandhitagarapu, nandi-vardhanamu, nandivardhana, nandivardhanamu, nandyavaraimu, toggari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/290f45645b89faa727285804b33c993e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/25bdb469b72c790fb54edb5a38a36f4c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/e09009867045bb1ec687822f24b8c89d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/290f45645b89faa727285804b33c993e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/25bdb469b72c790fb54edb5a38a36f4c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/e09009867045bb1ec687822f24b8c89d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/290f45645b89faa727285804b33c993e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/25bdb469b72c790fb54edb5a38a36f4c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/e09009867045bb1ec687822f24b8c89d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3/xclkon/5c7f553bf903a7526d122f802c99d498
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f8bfd4196998db48c75cf43cc008be3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

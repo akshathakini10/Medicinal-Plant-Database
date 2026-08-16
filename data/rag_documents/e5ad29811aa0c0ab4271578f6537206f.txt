@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e5ad29811aa0c0ab4271578f6537206f
+Botanical Name: Hedyotis auricularia L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Oldenlandia auricularia K.SCHUM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 5 languages. Kannada (2) - nela nekkare, nela-nekkare Malayalam (2) - kudal-churiki, muriguti Marathi (2) - dapoli gaimaril, ghaymari Sanskrit (1) - Sanskrit Comments  tukah Telugu (1) - nela-nekkare
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5ad29811aa0c0ab4271578f6537206f/xclkon/d9fce4b837a7c7f6d6bf612064499c3c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5ad29811aa0c0ab4271578f6537206f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5ad29811aa0c0ab4271578f6537206f/xclkon/d9fce4b837a7c7f6d6bf612064499c3c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5ad29811aa0c0ab4271578f6537206f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5ad29811aa0c0ab4271578f6537206f/xclkon/d9fce4b837a7c7f6d6bf612064499c3c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

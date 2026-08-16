@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7c7f95a4db1900e68352c84fba9ba949
+Botanical Name: Albizia chinensis (OSBECK) MERR.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Albizia marginata MERR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 7 languages. Hindi (7) - cheoli, kala siris, kanujera, ohi, siran, siri tantia, siris Kannada (12) - baage, baage sujjulu, bagana, bettabaage, bettabage, hoti-baghi, hotte baage, kalbaage, kalbage, kallu baage, kotte baage, kottepaale Malayalam (2) - ponthanvaka, pottavaka Marathi (3) - laeli, udala, udul Sanskrit (3) - Sanskrit Comments  bhandi, sairisam, sirisah Tamil (9) - cilai3, cilaivakai#, cilaivakai@, karrurincil, nirusil, pila vagei, pili-vagai, silai-vagai, turuncil Telugu (7) - bandi chinduga, chindaga, chinduga, konda-chiragu, kondachiguru, kondachiragu, nalla regi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7f95a4db1900e68352c84fba9ba949/xclkon/e559f48aebb824a83b84de8c267d4853
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7f95a4db1900e68352c84fba9ba949
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7f95a4db1900e68352c84fba9ba949/xclkon/e559f48aebb824a83b84de8c267d4853
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7f95a4db1900e68352c84fba9ba949
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7f95a4db1900e68352c84fba9ba949/xclkon/e559f48aebb824a83b84de8c267d4853
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7f95a4db1900e68352c84fba9ba949
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7f95a4db1900e68352c84fba9ba949/xclkon/e559f48aebb824a83b84de8c267d4853
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

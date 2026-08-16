@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c86b1c4ad6d4106e89e232039488998c
+Botanical Name: Rhus succedanea L.
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 50 Vernacular names found in 8 languages. English (1) - japanese tallow or wax tree Hindi (4) - arkhol, kakra-singi, kakrasingi, tantri Kannada (3) - kakada shringi, karkarakashringi, karkatakashringi Marathi (2) - kaakada shingi, kakadsingi Sanskrit (8) - Sanskrit Comments  kalinga, karkatahvaya, karkatashringi, karkatasringi, karkatasrngi, karkatasrngika, kulira, srngi Tamil (25) - cenkai, ciranki, cirinki 2, civarokam, kadukaipoo, kakkata-shingi, karakkataka cinki, karkadaga shingi, karkataka cinki, karkataka-shingi, karkatakacinki, karkatakacinku, karkatakam, karkkadagachingi, karkkataka cinki, karkkatakacinki, karkkatakacirinki, karkkatakacirinkimaram, katakacinki, kattukkay pu, kulinkam, makakosa, vakkiracam, viruntayam, vitanacam Telugu (4) - kaankadashringi, kakarashingi, kakarasryngi, karkkarasringi Tibetan (3) - bu ram sin (?), sri-ga, sri-gi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c86b1c4ad6d4106e89e232039488998c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1806
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1806.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c86b1c4ad6d4106e89e232039488998c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c86b1c4ad6d4106e89e232039488998c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c86b1c4ad6d4106e89e232039488998c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c86b1c4ad6d4106e89e232039488998c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

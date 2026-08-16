@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 29694d8ade41a4c643a021f40fb8862d
+Botanical Name: Amaranthus lividus L.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Amaranthus blitum L. var. oleracea DUTHIE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 5 languages. Hindi (2) - sadanatiya, vannatiya Kannada (1) - kempu dantu soppu Marathi (6) - bhaji, dant, maatha, pokala, tambadamaath, tandulja Sanskrit (4) - Sanskrit Comments  alpamarisha, marisha, marsa, marsah Telugu (4) - erratotakura, pedathotakura, thellatoakura, thotakura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/653c09248e576c7084919d0b4c3f2bb7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/0080a8f062f06ce4b916c41865ca29d1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/653c09248e576c7084919d0b4c3f2bb7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/0080a8f062f06ce4b916c41865ca29d1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29694d8ade41a4c643a021f40fb8862d/xclkon/653c09248e576c7084919d0b4c3f2bb7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

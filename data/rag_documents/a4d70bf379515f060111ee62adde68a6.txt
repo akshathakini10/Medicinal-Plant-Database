@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a4d70bf379515f060111ee62adde68a6
+Botanical Name: Kedrostis rostrata (ROTTL.) COGN.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Bryonia rostrata ROTTL. Kedrostis foetidissima (JACQ.) COGN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 3 languages. Kannada (1) - kunkumadunde mara Tamil (16) - appai mulam, appai-k-kilanku, appaikkoti, appaikkovvai, appakovai, appakovay kalung, appukkovai, arunkovai, cakiyankovai, karamputakkovai, karamputam, mukareyakkovai, mukareyam, panankovai, vinnarikakkoti, vinnarikam Telugu (2) - kunkuma donda, naagadonda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4d70bf379515f060111ee62adde68a6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4d70bf379515f060111ee62adde68a6/xclkon/58b9871a9014b8ae6519168d85ee720f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4d70bf379515f060111ee62adde68a6/xclkon/29c6c97da18537e7ff648e2463d78906
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4d70bf379515f060111ee62adde68a6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4d70bf379515f060111ee62adde68a6/xclkon/58b9871a9014b8ae6519168d85ee720f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4d70bf379515f060111ee62adde68a6/xclkon/29c6c97da18537e7ff648e2463d78906
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4d70bf379515f060111ee62adde68a6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

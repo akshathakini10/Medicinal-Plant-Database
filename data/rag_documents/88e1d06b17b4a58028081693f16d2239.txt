@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 88e1d06b17b4a58028081693f16d2239
+Botanical Name: Hyoscyamus niger L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 85 Vernacular names found in 9 languages. English (7) - black henbane, devil s-eye, henbane, hog bean, jupiter s bean, poison tobacco, stinking nightshade Hindi (6) - ajwaina-kurasam, bisajain, khurasani ajavayan, khurasani-ajvayan, khurassani jamani, parshik-yavani Kannada (6) - khuraa saani ajavaana, khuraasaani oma, khurasaani vaadakki, khurasani-ajavana, khurasani-vadakki, khurasani-voma Malayalam (2) - kurassani, parasikayavani Marathi (3) - khorasanivova, khuresaani, vomvaa Sanskrit (17) - Sanskrit Comments  dipya, kuberakhya, madaka, madakarini, mani, parasikava, parasikaya, parasikayavani, pareckyawani, shyama, tivra, turushka, turuska, yahvani, yavani, yavanibheda, yawani Tamil (34) - acamanaki, caniyattiraiyam, caniyattirayam, karapi, karasavai, karcavai, karukam, karukattomam, karunkurocikam, kiruminacam 2, kiruminacaniyomam, kirumiyokmam, kirumiyomam, koracaniomam, korasanie omum, kuracani, kuracani yomam, kuracani#, kuracani@, kuracaniyomam, kurasani omam, kurasani-yomam, kurashani-yomam, kurassani omam, kurassaniyomam, kurocakam, kurocani, kurocani omam, kurocaniyomam, kurocikavomam, naupattomam, omattuvayam 2, paracikavomam, tippiyam 2 Telugu (5) - kurasani-omam, kurasani-vaman, kurasaniyamani, kurashaani omam, kurinji-vaman Urdu (5) - afeeqoon, ajwain khurasani, ajwain-e-qurasani, ajwain-i-khurasani, leshgharamas
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1166
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1166.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e1d06b17b4a58028081693f16d2239
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Parasikayavani
+sanskrit_name: पारसीकयवानी
+transliteration: pārasīkayavānī
+ref_drug_name: पारसीकयवानी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Parasikayavani
+sanskrit_name: पारसीकयवानी
+transliteration: pārasīkayavānī
+ref_drug_name: पारसीकयवानी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Yavani - bheda
+sanskrit_name: यवानी भेद
+transliteration: yavānī bheda
+ref_drug_name: यवानी भेद
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Parasikayavani
+sanskrit_name: पारसीकयवानी
+transliteration: pārasīkayavānī
+image_urls: https://www.medicinalplants.in/slokaimages/893/893_1.jpg https://www.medicinalplants.in/slokaimages/893/893_2.jpg https://www.medicinalplants.in/slokaimages/893/893_3.jpg
+ocr_text: पारसीकयवानी तु यवानीसदृशी गुणः विशेषात्पाचनी रुच्या ग्राहणी मादिनी गुरुः IBpn] Parasika yavani has similar properties to that of yavani, but it is guru in vipaka, pacana, rucya, grahi and madaka. [Bpn] यवानी यावनी तीव्रा मदकारिणी | यवानी यावनी रूक्षा ग्राहिणी मादिनी कटुः IDhnij Its synonyms are yaavani yavani, tivra, turusaka and madakarini. It is katu in rasa, ruksa in guna, grahi and madakaraka. IDhni तुरुष्को पारसीकयवानी स्याच्चौहारो जन्तुनाशनः | चौहारः कटुकस्तिक्तः तीक्ष्णोष्णो दीपनो लघुः| | त्रिदोषशमनो जीर्णमकृमिशूलनुत् [Kyn] Synonyms of parasika yavani are parasika yavani, cauhara and jantu nasana It is katu and tikta in rasa, tiksna, laghu in guna, usna in virya, destroys all the three doshas, dipana, vajikarna, alleviates krimi and sula. [Kyn] वृष्यो

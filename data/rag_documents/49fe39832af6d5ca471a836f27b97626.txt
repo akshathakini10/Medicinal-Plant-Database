@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 49fe39832af6d5ca471a836f27b97626
+Botanical Name: Cleome monophylla L.
+Family: Cleomaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 4 languages. Kannada (2) - koli kaalina gida, menasina kase Malayalam (1) - tsjeru-vela Tamil (1) - ucivelai Telugu (1) - gaddi vointa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49fe39832af6d5ca471a836f27b97626
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49fe39832af6d5ca471a836f27b97626
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49fe39832af6d5ca471a836f27b97626
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

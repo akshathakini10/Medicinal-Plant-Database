@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4fe767025f92103b7ff341af5a4f760e
+Botanical Name: Rosa alba L.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 6 languages. Hindi (1) - sweet gulab Kannada (4) - bili gulaabi, gulaabi, kempu gulaabi, mullusevantige Marathi (2) - shevanthi, shevathi Sanskrit (15) - Sanskrit Comments  bahupatrika, bhringavallabha, bhringeshtha, charukesara, gandhadhya, karnika, kumari, ramtaruni, saha, sevanti, sevati, shatapatri, shivavallabha, sudala, taruni Tamil (1) - vellairoca Urdu (3) - sewti, ward (gulab), zar-e-ward
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fe767025f92103b7ff341af5a4f760e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fe767025f92103b7ff341af5a4f760e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fe767025f92103b7ff341af5a4f760e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fe767025f92103b7ff341af5a4f760e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fe767025f92103b7ff341af5a4f760e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,124 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d35bcc71906513792d99454dd5b22073
+Botanical Name: Cardiospermum halicacabum L.
+Family: Sapindaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 229 Vernacular names found in 9 languages. English (1) - balloon vine Hindi (11) - bari-chirmi, chirphuta, kakadni, kanphata, kanphote, kanphuta, kanphuti, kanputi, kapal phori, kapalphore-bel, kapalphoti Kannada (31) - agniballi, batte kaayi balli, bekkina budde gida, bekkina thoraduballi, bekkina toddina balli, bekkinatoddinaballi, budda kaarana theege, buddakakaratige, chitaki hambu, eramballi, erumballi, eruvaballi, irumballi, jothishmathi, kaadatheege, kakaralata, kanakaaya, kanakaia, kanakaiah, kangu, kangu balli, kangunge, kangunne, karkaralatha, minaju balli, minchina balli, minchuballi, mincuballi, minijuballi, urundeburu, yeruva balli Malayalam (9) - jyotishmati, katabhi, lata, palloolavum, paluruvam, ulina, ulinja, ulinna, uzhinna Marathi (6) - kaanphodi, kakumardanika, kanfuti, kanphuti, kapalaphodi, shibjal Sanskrit (23) - Sanskrit Comments  bunu-uchchhe, indravalli, jyautishmati, jyotir, jyotishmati, jyotismati, kaka-mardanika, kakadola, kakatikta, kapolavalli, karavi, karnasphota, karnaspota, lataphatki, modikkotan, nagna, paravata-padi, paravatanghi, sakralata, satakratulata, sita, tejavati, tejovati Tamil (111) - alappukkorrran, alappukku, analappirapam, ankapati, arattai, ataralappu, atinayanan, attankoti, camuttira2, camuttiratoyam1, camuttirotayam, cancivimeti, cancivimetikkoti, cempam, cevikkotiyal, ciliyakkai, ciliyakkaikkoti, ciliyanai, coliyan, cotismati, cukattam2, cukattan2#, cukattan2@, cutcumavalli, cutukatumittan2, cutukaturaiyan, erikkoti, intiravalli2, intiyavalli, irattapati, kanakappirapai, kirivattiyam, korran, korrankoti, korravan, kotikkottan, kottavan, kuppaimulikai, kuppaimulikaikkoti, lottan, lottankoti, makotaracurupi, mantalakarakam, matappalippuntu, melliyakottan, melliyakottankoti, modakhethan, moddacoatan, modikkottan, mooda cottan, mooda-cottan, mudakattan, mudakithan, mudakkaruthan, mudakkaruththaan, mudakkatran, mudakkattran, mudakkothan, mudakothan, mudakottan, mudukkottan, mudukottam, mukamottaimuli, mutakarran, mutakkarran, mutakkaruttan, mutakkaruttan 1, mutakkaruttankoti, mutakkattan, mutakkattankoti, mutakkorran, mutakkoruttan, mutakkottan, mutakkottan 1, mutakkurran 1, mutarkurran, mutkkattan, muttaittukki, muttaittukkikkoti, nakanam, nakanam@, nantai2, nimpatecam, nimpateci, nimpatecikkoti, nipalam, patantiravalli, payiravi1, periyavilai, periyayilaimudakottan, pirotta, pokkanapantukkikkoti, pokkanappicci, samuttiradoyan, samuttiram, siliyanai, tecovam, tekamataraci, tiptam, tirakamulakakkoti, tirakamulakam, tirakamulam, tiramulam, tirkkamulam2, tirukumulam, varutakakkoti, varutakam, vatanaci, vicuvakenti, visaantaravatanaci, yintiriyavallikoti Telugu (36) - allena, booddakankaraakkoo, budda boosara, budda gudichi, budda kakara, buddakaakara, buddakakara, buddakakkira, buddakankarakoo, budduva, ekkkuduthige, ekkudutige, jyothishmathige, jyotishmatitige, kaasarithige, kasaritige, kash, nalla goolesenda, nallagolisyanda, nallagolisyandu, nallagoolisienda, nallagulisinda, nallagulivinda, nellagoolisienda, nellagulisetenda, paatalithivva, patali tivva, patalitivva, thella gurivinda, ullenathige, ullenatige, upparintha, vekkuditege, vekkuduthige, vekkudutige, vullingatheega Tibetan (1) - ka ke da
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 443
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/443.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d35bcc71906513792d99454dd5b22073
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gunja - visa
+sanskrit_name: गुञ्जा विष
+transliteration: guñjā viṣa
+ref_drug_name: गुञ्जा विष
+status: Suggested source
+discussion: Needs to be examined
+reference: [1]
+
+Identity Record 2
+drug_name: Jyotismati
+sanskrit_name: ज्योतिष्मती
+transliteration: jyotiṣmatī
+ref_drug_name: ज्योतिष्मती
+status: Suggested source
+discussion: Vaidyas in Bengal correlate this species to Jyotismati
+reference: [2]
+
+Identity Record 3
+drug_name: Jyotismati
+sanskrit_name: ज्योतिष्मती
+transliteration: jyotiṣmatī
+ref_drug_name: ज्योतिष्मती
+status: Most probable
+discussion: Kavirajas of Bengal accept it to be Jivanti
+reference: [1]
+
+Identity Record 4
+drug_name: Kakadani
+sanskrit_name: काकादनी
+transliteration: kākādanī
+ref_drug_name: काकादनी
+status: Controversial
+discussion: Others have identified it with this species which needs to be studied
+reference: [1]
+
+Identity Record 5
+drug_name: Kakadola
+sanskrit_name: काकाडोल
+transliteration: kākāḍola
+ref_drug_name: काकाडोल
+status: Suggested source
+discussion: Has been mentioned in Sodala nighantu under the 'Laksmanadi varga'. Vaidya Bapalal has identified it with this species as its known as Karnasphota in Northern parts of India which in turn is correlated to this species
+reference: [5]
+
+Identity Record 6
+drug_name: Kakamardanika
+sanskrit_name: काकमर्दनिका
+transliteration: kākamardanikā
+ref_drug_name: काकमर्दनिका
+status: Accepted source
+discussion: Kakamardanika is identified with this species
+reference: [2]
+
+Identity Record 7
+drug_name: Karnasphota
+sanskrit_name: कर्णस्फोटा
+transliteration: karṇasphoṭā
+ref_drug_name: कर्णस्फोटा
+status: Accepted source
+discussion: Its not been mentioned in Brhatrayi; Has been cited in Raja nighantu; Widely known by the name 'Lataphatki'; Kaviraj of Bengal and Assam consider it to be 'Jyotismati'; This is identified with Kakadani of earlier times which is identified with this species
+reference: [5]
+
+Identity Record 8
+drug_name: Sarngesta
+sanskrit_name: शार्ङ्गेष्टा
+transliteration: śārṅgeṣṭā
+ref_drug_name: शार्ङ्गेष्टा
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Jyotismati
+sanskrit_name: ज्योतिष्मती
+transliteration: jyotiṣmatī
+image_urls: https://www.medicinalplants.in/slokaimages/365/365_1.jpg https://www.medicinalplants.in/slokaimages/365/365_2.jpg https://www.medicinalplants.in/slokaimages/365/365_3.jpg https://www.medicinalplants.in/slokaimages/365/365_4.jpg
+ocr_text: कटभी कटु तीक्ष्णोष्णा कफजिच्च विरेचनी | मेधाकरी वर्णकरी व्रण्या जठरनाशिनी| | ज्योतिष्मती सरा कफसमीरजित | अत्युष्णा वमनी तीक्ष्णा वह्निबुद्धिसमृतिप्रदा १| IDhn) Katabhi is katu in rasa, tiksna in guna, usna in veerya, alleviates kapha, is virecani, medhakari, varnakari, vranya ana jatharanasini Jyotismati is katu, tikta in rasa, sara, tiksna in guna, atyushna, alleviates kapha,is vamini, vahni buddhi smrti prada. कटुस्तिक्ता ज्योतिष्मती तिक्तरसा च रूक्षा | किञ्चित् कटु वातकफापहा च| | दाहप्रदा दीपनकृच्च मेध्या, प्रज्ञाञ्च तथा द्वित्तीया | | कटु ज्योतिष्मतीतैलं तिक्तोष्णं वात्तनाशनम्| पित्तसंतापनं मेधाप्रज्ञाबुद्धि विवर्द्वनम्| | IRjnl Jyotishmati is tikta, kincit katu in rasa, ruksa in guna, alleviates vata and kapha, is aahaprada, dipana karaka, medhya ana prajna pusnati. Its taila is katu, tikta in rasa, usna in veerya, destroys vata, pitta santapana, enhances medha, prajna and buadhi. पुष्णाति ज्योतिष्मती कटुस्तिक्ता सरा कफसमीरजित अत्युष्णा वमनी तीक्ष्णा वह्निबुद्धिस्मृत्तिप्रदा IBpn) Jyotismati is katu, tikta in rasa, sara, tiksna in guna, atyushna, alleviates kapha ana vata, is vamani, vahni buadhi smrti prada. मेध्या ज्योतिष्मती त्तीक्ष्णा व्रणविस्फो़टनाशनी I| (Rjv) Jyotismati is tiksna in guna, medhya and cures vrana and visphota

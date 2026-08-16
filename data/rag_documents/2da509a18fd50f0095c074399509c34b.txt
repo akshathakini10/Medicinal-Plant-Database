@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2da509a18fd50f0095c074399509c34b
+Botanical Name: Papaver somniferum L.
+Family: Papaveraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 131 Vernacular names found in 9 languages. English (5) - gear, maw seed, opium poppy, scag, smack Hindi (19) - afeem, afim, afin, afyun, amal, aphim, doda, kahs-khasa, kas-kas, kashkash, khash--khash-ke-khash, khash-khash, khash-khash-ka-per, khash-khash-ke-bonde, pest, post, post; khash-khash-ka-per, posts, sufeed srah Kannada (11) - abini, afeemu gida, afirm, biligasagase, biligasgase, gasagase, kasakase, kasakathi gida, khasa-khasi-gida, khasakhasi, khuskhus Malayalam (6) - afium, avin, karappu, kasakasa, kasha-kashach-chedi, kashakasha Marathi (7) - afeem, afu, aphu, khaskhas, khaskhashinche baend, khuskhus, posta Sanskrit (18) - Sanskrit Comments  aaphuka, ahifen, ahiphena, ahiphenam, aphukam, chosa, kakasha, kasabijam, khakasa, khas-khas, khasa, khaskhasa, nagaphena, phaniphena, post, postubejam, postuvrikshaha, ullasata Tamil (32) - abhini, abini, acarankam, apenam, apin, apini, apinicetti, atilam, cacavinmayirttali, casa casa, cettanti, cukkumatantulam, gasha-gasha, gasha-gasha-chedi, gasha-gasha-tol, gashagasha, iracanatikam, kacakaca, kacakacacceti, kacavanipam, kannatayacceti, kasa-kasa, kasakasa, parunkam, postaka, postaka-chedi, postakai, postakkaycceti, posthakkai, posttakkai, postukkaycceti, vellai postakay Telugu (11) - abhini, gasagasala, gasagasala-chettu, gasagasalu, gasalu, gasugasalu, kasakasa, nallamandu, nallamanthu, posta-katol, postakaya-chettu Urdu (22) - afiun, afyun, kaknar nim kofta, khashkhash, khashkhash safaid, khashkhashsufaid, khashkhassh (safaid/siyah), khaskhash, kokinar, koknar nim kofta, opium, poast khahkhash, poast khashkash, poast khashkhash, poast-i-khashkhash, post-e-khashkhash, tukhm khashkash, tukhm khashkhas safaid, tukhm khashkhash, tukhm khashkhash safaid, tukhm-i-khashkhash, tukhm-i-khaskhash safaid
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2da509a18fd50f0095c074399509c34b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2da509a18fd50f0095c074399509c34b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2da509a18fd50f0095c074399509c34b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2da509a18fd50f0095c074399509c34b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2da509a18fd50f0095c074399509c34b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2da509a18fd50f0095c074399509c34b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

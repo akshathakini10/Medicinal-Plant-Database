@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 99716c273a6973aaf2f8c64b19a9a67a
+Botanical Name: Typha australis SCHUM. & THONN.
+Family: Typhaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Typha elephantina GRAH, NON ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 7 languages. English (2) - elephant cattail, indian reed-mace Hindi (2) - mothitrina, pater Kannada (6) - apine thene, apu, dodda jambu hullu, jambu hullu, jambuhulla, jambuhullu Marathi (4) - eraka, panalavhala, rambaana, rambana Sanskrit (10) - Sanskrit Comments  eraka, gundra, gundramoola, gundramula, guntha, potagala, sari, shari, shimbi, sivi Tamil (10) - anaikkorai, anaikkoria, anaippul, campai, campankorai 1, chambu, kampankorai, kunram 1, narakalikam, narakalikappul Telugu (9) - dzammu, enigajunum, enuga jammu, enugadzammu, enugajammu, enugajamu, jammu gaddi, jammugaddi, kandra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a/xclkon/64802e2f21d5a83c893705969ef3da6b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a/xclkon/64802e2f21d5a83c893705969ef3da6b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a/xclkon/64802e2f21d5a83c893705969ef3da6b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/99716c273a6973aaf2f8c64b19a9a67a/xclkon/64802e2f21d5a83c893705969ef3da6b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Guntha
+sanskrit_name: गुण्ठ
+transliteration: guṇṭha
+ref_drug_name: गुण्ठ
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

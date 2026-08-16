@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7d71261a37d6badd7f8eb474073c634b
+Botanical Name: Salvia plebeia R.BR.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 6 languages. Hindi (3) - kamrkash, samundarsok, sathi Kannada (1) - kachora Malayalam (1) - pulam-kizhanma Sanskrit (3) - Sanskrit Comments  samudraphala, shati, vrddhadaru Tamil (5) - cimaikkarppuram, kasturimanjal, kattukancankorai, kattukkancan korai, nirvisham Telugu (2) - kachoralu, kichili-baddalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d71261a37d6badd7f8eb474073c634b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1843
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1843.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d71261a37d6badd7f8eb474073c634b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d71261a37d6badd7f8eb474073c634b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

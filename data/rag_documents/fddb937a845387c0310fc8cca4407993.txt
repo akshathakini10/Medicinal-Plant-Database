@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fddb937a845387c0310fc8cca4407993
+Botanical Name: Hedyotis puberula R.BR.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hedyotis umbellata (L.) LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 8 languages. English (2) - chay root, indian madder Hindi (1) - chirval Kannada (6) - chaaya vaeru, chaaya veru, chay-beru, cheriveru, chiri vaeru, chiri veru Malayalam (1) - chay-ver Marathi (1) - chirval Sanskrit (1) - Sanskrit Comments  rajana Tamil (24) - cayam, cayaver, ciruver, emboorel, imbooral, imbura-ver, imbural, impura, impural, impuraver, impuril, inbooral, inpura, inpuracceti, inpural, inpuraver, iramecuramver, iramecuvaraver, lnbural, mancitti, mantirusti, piramutti 2, saya, shiru-ver Telugu (5) - cherivelu, cheriveru, chiriveru, chiru veru, chiruveru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fddb937a845387c0310fc8cca4407993/xclkon/10e6227fdafbcf3a196056e9294a58ff
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1112
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1112.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fddb937a845387c0310fc8cca4407993
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fddb937a845387c0310fc8cca4407993/xclkon/248c3e7865c076ffaa5085234109487b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fddb937a845387c0310fc8cca4407993/xclkon/10e6227fdafbcf3a196056e9294a58ff
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fddb937a845387c0310fc8cca4407993
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fddb937a845387c0310fc8cca4407993/xclkon/248c3e7865c076ffaa5085234109487b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fddb937a845387c0310fc8cca4407993/xclkon/10e6227fdafbcf3a196056e9294a58ff
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fddb937a845387c0310fc8cca4407993
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fddb937a845387c0310fc8cca4407993/xclkon/248c3e7865c076ffaa5085234109487b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fddb937a845387c0310fc8cca4407993/xclkon/10e6227fdafbcf3a196056e9294a58ff
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

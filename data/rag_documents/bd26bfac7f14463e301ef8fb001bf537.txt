@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bd26bfac7f14463e301ef8fb001bf537
+Botanical Name: Gisekia pharnaceoides L.
+Family: Molluginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Giesekia pharnacoides L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 47 Vernacular names found in 6 languages. Hindi (5) - baluka-sag, balukar-sag, morang, sareli, sareli morang Kannada (5) - atthariphala, atthiri phala, esaku dhaari soppu, isakadhari soppu, isukudaarisoppu Marathi (2) - valuchi-bhaji, valuchibhaaji Sanskrit (12) - Sanskrit Comments  aileya, aluka, elavaluka, elvalu, gandhatvaka, harivaluka, kapitha, kapithatvaka, kushtagandhi, sugandhi, valu, valuka Tamil (14) - kokili, kokilikkirai, manal-kirai, manalakkirai, manali 1, manalie-kirae, manalik-kirai, manalikkirai, manalkeera, manalkirai, manarkirai, mancalviri, mancalvirikkirai, navamallikkirai Telugu (9) - balukasag, esakadantikurra, isaka dantikura, isaka-dasari-kura, isakadasarikoora, isakadasarikura, ishi rashakura, isikedanthikoora, isikedantikura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd26bfac7f14463e301ef8fb001bf537
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd26bfac7f14463e301ef8fb001bf537/xclkon/d0772551b9c2b9fced2ce7463d95cfd5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd26bfac7f14463e301ef8fb001bf537
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd26bfac7f14463e301ef8fb001bf537/xclkon/d0772551b9c2b9fced2ce7463d95cfd5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd26bfac7f14463e301ef8fb001bf537
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd26bfac7f14463e301ef8fb001bf537/xclkon/d0772551b9c2b9fced2ce7463d95cfd5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bd26bfac7f14463e301ef8fb001bf537
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

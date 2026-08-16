@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bac4a570b025a8776c915d5b0925fb45
+Botanical Name: Foeniculum vulgare GAERTN var. dulce
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bac4a570b025a8776c915d5b0925fb45
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bac4a570b025a8776c915d5b0925fb45
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Satapuspa
+sanskrit_name: शतपुष्पा
+transliteration: śatapuṣpā
+image_urls: https://www.medicinalplants.in/slokaimages/133/133_1.jpg https://www.medicinalplants.in/slokaimages/133/133_2.jpg https://www.medicinalplants.in/slokaimages/133/133_3.jpg https://www.medicinalplants.in/slokaimages/133/133_4.jpg
+ocr_text: शाताह्वा कटुका तिक्ता स्निग्धोष्ण श्लेष्मवातजित् | ज्वरनेत्रव्रणान हन्ति बस्तिकर्मणि शस्यते| | शतपुष्पादलं चोक्तं वृष्यं मधुरगुल्मजित्| वातघ्नं दीपनं स्तन्यं कफकृद् रुचिदायकम् IDhn ) Satahva is katu, tikta in rasa, snigaha in guna, usna in veerya, basti karmani sasyate, alleviates slesma, vata, jvara ana netra vrana Its aala is madhura in rasa, vrshya, dipana, stanya, ruci dayaka, increases kapha, alleviates gulma and vata. शाताह्वा कटुस्तिक्ता स्निग्धा श्लेष्मातिसारनुत् | ज्वरनेत्रव्रणघ्ना बस्तिकर्मणि शस्यते|| (Rjn) Satahva is katu, tikta in rasa, snigaha in guna, basti karmani sasyate, alleviates slesma, atisara, jvara and netra vrana शतपुष्पा पित्तकृद् दीपनी कटुः उष्णा ज्वरानिलश्लेष्मव्रणशूलाक्षिरोगहृत् (Bpn) Satapuspa is katu in rasa, laghu, tiksna in guna, usna in veerya, dipani, increases pitta , alleviates jvara, anila, slesma vrana, sula and aksi roga लघुस्तीक्ष्णा शताह्वाडनिलदाहामशूलतृट्छर्द्दिनाशिनी | | IRjvl Satahva alleviates anila, daha, sula, trt and chardi.

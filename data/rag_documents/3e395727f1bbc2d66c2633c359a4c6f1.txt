@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3e395727f1bbc2d66c2633c359a4c6f1
+Botanical Name: Daphne papyracea WILLD. E STEUD.
+Family: Thymelaeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 1 languages. Hindi (7) - bhanchoi, gandiri, kaula, niggi, satpura, setburosa, setburwa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e395727f1bbc2d66c2633c359a4c6f1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e395727f1bbc2d66c2633c359a4c6f1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e395727f1bbc2d66c2633c359a4c6f1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

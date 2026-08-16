@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0bb1c32b6a6a2631466a0bdf9fb07fb7
+Botanical Name: Acacia pennata (L.) WILLD.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Mimosa ferruginea ROTTLER
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 80 Vernacular names found in 7 languages. Hindi (8) - agali, agla, agla-bel, alay, biswal, cheela, kandiali, rigad Kannada (16) - cilatero, kaadu seege, kaadu sheege, kadshige, kadshigi, kadushige, kadusige, kadusuige, katshige, kattu shige, kattusikai, mullu seege, mullusigi, shembi, sige, vellai indu Malayalam (8) - chunga, cunna, kadacheenikai, kadchinikai, kattuchinnika, kattucinikka, mala inja, pulicha Marathi (7) - araati, romb, shemba vaela, shemberti, shembi, shembo, thembi Sanskrit (14) - Sanskrit Comments  adari, airavati, ari, ballikhadira, khadira, khadirapatrika, khadiravallari, sandanika, silikhadira, svadikhallari, tamrakantaka, udakirya, uddala, vallikhadira Tamil (20) - cinkai, cinkaimullu, indan, indu, iyak koluntu, iyakkolundu, katcikai, kattikai, kattintu, kattu indu, kattuccikai 2, kattusikai, mantarcinkai, mulluccinkai#, mulluccinkai@, mulluciyakkay, peyccirakay, shembi, sherubati, vellai indu Telugu (7) - giddu korinda, guba korintha, gubakorinda, kaarushikaay, karra cheeka, korintha, mulukorinda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7/xclkon/49d7fe57f41f23e225b6c9fe084a8461
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7/xclkon/49d7fe57f41f23e225b6c9fe084a8461
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7/xclkon/49d7fe57f41f23e225b6c9fe084a8461
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0bb1c32b6a6a2631466a0bdf9fb07fb7/xclkon/49d7fe57f41f23e225b6c9fe084a8461
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Adari
+sanskrit_name: आदारी
+transliteration: ādārī
+ref_drug_name: आदारी
+status: Most probable
+discussion: Susruta in his description has mentioned this as a vella (creeper); In Abhidanaratnamala, 'Khadiravalli' has been given as its synonym; According to the author it is this species which the adivasis refer as 'Arar' which has origined from 'Adari'. A.pennata is a creeper and has features similar to the ones described in the text and hence can be taken into consideration
+reference: [5]
+
+Identity Record 2
+drug_name: Airavati
+sanskrit_name: ऐरावती
+transliteration: airāvatī
+ref_drug_name: ऐरावती
+status: Accepted source
+discussion: In Kaideva nighantu, 'Airavata' has been mentioned as a variety of Khadira with 'Vallikhadira' and 'Khadiravalli' as its synonyms which portrays this as a creeper; 'Vallikhadira' is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Karanjika
+sanskrit_name: करञ्जिका
+transliteration: karañjikā
+ref_drug_name: करञ्जिका
+status: Controversial
+discussion: With regard to its features it may be identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Khadira - bheda
+sanskrit_name: खदिर भेद
+transliteration: khadira bheda
+ref_drug_name: खदिर भेद
+status: Most probable
+discussion: Three varieties of 'Khadira' are mentioned in various nighantus but in Raja nighantu two more varieties are mentioned as 'Tamrakantaka' and 'Ari'; 'Tamrakantaka' is considered as a type of 'Khadira' and most probably correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

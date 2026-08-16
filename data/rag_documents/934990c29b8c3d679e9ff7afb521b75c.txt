@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 934990c29b8c3d679e9ff7afb521b75c
+Botanical Name: Canavalia virosa (ROB.)  WIGHT & ARN.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. Hindi (2) - jangli-sem, kadsambol Kannada (4) - kaadavare, kaadu, kaadu avare balli, thamateballi Marathi (1) - abai Telugu (5) - adavi chemma, adavithamma, kaaranuputhige, kaaru chamma, kaaruthamma
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/934990c29b8c3d679e9ff7afb521b75c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/934990c29b8c3d679e9ff7afb521b75c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakandola
+sanskrit_name: काकाण्डोला
+transliteration: kākāṇḍolā
+ref_drug_name: काकाण्डोला
+status: Suggested source
+discussion: This species has properties which are present in this plant and so considered as a possible source
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d01cb0518d34cace44d61b5e19c38cc9
+Botanical Name: Meconopsis nepaulensis DC.
+Family: Papaveraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Meconopsis wallichii HOOK.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d01cb0518d34cace44d61b5e19c38cc9/xclkon/1a7b48be53a96cbd2e70589f2cc2406a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d01cb0518d34cace44d61b5e19c38cc9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d01cb0518d34cace44d61b5e19c38cc9/xclkon/6f60a91457db597123e970b81b42b5d5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d01cb0518d34cace44d61b5e19c38cc9/xclkon/1a7b48be53a96cbd2e70589f2cc2406a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

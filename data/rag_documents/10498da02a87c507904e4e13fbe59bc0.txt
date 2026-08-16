@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 10498da02a87c507904e4e13fbe59bc0
+Botanical Name: Combretum decandrum ROB.
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Combretum roxburghii SPR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 2 languages. Hindi (2) - punk, ruel Telugu (15) - arikota, boddu, bontatige, mandalatige, mandratiga, nallapippindatheega, nallapippindatige, peyiraimbaddi, peyiraru, peyyareyyibaddu, peyyarutheega, rampamaredu, vadalam, vedala, yadala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10498da02a87c507904e4e13fbe59bc0/xclkon/98d16c228033a406f626b4680b939c48
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10498da02a87c507904e4e13fbe59bc0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10498da02a87c507904e4e13fbe59bc0/xclkon/98d16c228033a406f626b4680b939c48
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

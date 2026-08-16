@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0fdd1a8c38423f5f2c9c57f04a884fea
+Botanical Name: Ziziphus oenoplia MILL.
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 79 Vernacular names found in 7 languages. Hindi (8) - ber, kakal-ber, kikal ber, kokal-ber, kokla ber, makai, makkay, makoh Kannada (23) - barige, challe, churimulla, churimullu, harasurali, hurasurah, hurasurali, kalaborero, kaneri, kanneri, karichurimullu, karisurimullu, paragi, pargi, pariki, parikke, purgi, sediyamullu, soorimullu, surielanda, surimullu, turimullu, uruduruli Malayalam (7) - ceriyalantaa, churi, kottavalli, thodali, tutali, tutalimullu, tutari Marathi (6) - burgi, cheenibore, kanaerballi, kanerballi, makaar, makor Sanskrit (7) - Sanskrit Comments  bahukantaka, dusparsa, karkandhuh, karkhandu, madhura, srgalabadari, srigalakoli Tamil (13) - ambulam, amburi, churaimullu, curai, kottei, paragi, pulichai, shingai, soorai, surai, surai ilantai, suraimullu, suraiyilandai Telugu (15) - banka, baraki, barigi, paragi, paraki, paramie, paranu, parighamu, pariki, parimi, parimu, paringi, parini, periki, poriki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0fdd1a8c38423f5f2c9c57f04a884fea
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0fdd1a8c38423f5f2c9c57f04a884fea
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0fdd1a8c38423f5f2c9c57f04a884fea
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0fdd1a8c38423f5f2c9c57f04a884fea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

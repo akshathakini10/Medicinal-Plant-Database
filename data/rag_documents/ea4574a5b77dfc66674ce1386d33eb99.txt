@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ea4574a5b77dfc66674ce1386d33eb99
+Botanical Name: Viola cinerea BOISS.
+Family: Violaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Hindi (1) - banafsha Sanskrit (1) - Sanskrit Comments  vanaphsa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea4574a5b77dfc66674ce1386d33eb99
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2206
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2206.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea4574a5b77dfc66674ce1386d33eb99
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

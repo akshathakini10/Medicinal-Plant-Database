@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c2c8956b2c58f59d80b279ce50f568d6
+Botanical Name: Medicago sativa L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 6 languages. English (4) - alfalfa, buffal herb, lucerne, purple medic Hindi (2) - lasunghas, rizka Kannada (7) - kudure masaale, kudure masaale soppu, kudure soppu, loosaran, loosarne soppu, vilaayithi hullu, vilayatihullu Marathi (3) - lasun-ghas, lujen, vilayatigavat Sanskrit (4) - Sanskrit Comments  asva, asvabala, asvaksura, methika Tamil (1) - kutirai macal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2c8956b2c58f59d80b279ce50f568d6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2c8956b2c58f59d80b279ce50f568d6
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2c8956b2c58f59d80b279ce50f568d6
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c2c8956b2c58f59d80b279ce50f568d6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asvabala
+sanskrit_name: अश्वबला
+transliteration: aśvabalā
+ref_drug_name: अश्वबला
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Asvabala
+sanskrit_name: अश्वबला
+transliteration: aśvabalā
+ref_drug_name: अश्वबला
+status: Controversial
+discussion: Is not identified satisfactorily. This is one of the suggested species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

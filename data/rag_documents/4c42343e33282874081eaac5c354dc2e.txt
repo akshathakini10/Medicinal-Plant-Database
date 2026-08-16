@@ -1,0 +1,97 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4c42343e33282874081eaac5c354dc2e
+Botanical Name: Acorus calamus L.
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 186 Vernacular names found in 10 languages. English (7) - calamus, flagroot, sweet cane, sweet flag, sweet grass, sweet rush, sweetroot Hindi (13) - bacc, bach, baj, bajai, barian, barin, beach, ghorbach, gora-bach, gorbacc, gorbach, safed bach, vasa Kannada (7) - athibaje, baje, baje gida, dagade, kavana, naaru baeru, vasa Malayalam (6) - vaembu, vashampa, vashanapa, vayambhu, vayambu, vayampu Marathi (1) - vekhand Sanskrit (33) - Sanskrit Comments  bacha, bhadra, bhutanashini, bodhaniya, galani, golomi, haimavati, haimdvati, ikshuparni, jalaja, jatila, kanga, kshudrapatri, mangalya, masha, rakshoghni, sadgrantha, schleshmaghni, shadagrantha, shadgrantha, shadgranthagolomi, shataparvika, smarani, tikshna, tikshnapatra, ugragandha, ugragandhaha, ugragranthi, vaca, vacha, vacha-ugra-gandhaha, vayambu, vijaya Tamil (110) - akaraveci, akkitam, arpakeci, arpakecu, ativacam, attakam, avatampati@, ayakam1, ayamavati, ayavaci, ayavari2, ayavariti2, cakatai, camanam, canakantakam, canakantam, canakappulitam, canattanam, cantankotan, cantatikam, capinakam, capinam#, capinam@, cataikantam, cataikkantam, cataikkentam1, catakantam, catakkotan, catakkotanam, catinam2, catiyattakam, cattukantam, cavukanti, cetilolam, cirakakkoni#, cirakakkoni@, cirakkoli#, cirakkoli@, cirakoni1, citakentam, civayoki, cukkulakantam, cutuvan, emavati, imavari, iraccollan, irusimulam, irutimulam, kantakapasanam, kantam6, kantamacceti, kantamam, kapatakkatti, kapatamitti, kayamalaki, kayamalakikam, kayamavati, kayimavati, kayiravati, kiravanattukkati, kulomicai, matali, mattiri, mattirikam, mokai, motai, mukkikam, mukkil, napittari, narattam2, narram, nattam, nattuvacampu, percollamaruntu, percollan, petiyaikkattumuli, petiyaikkattumulikai, peyarcollan, peyarcollatatu, pillaimaruntu, pillaivalarppan, puccikolli, pullai-valathi, rusimulam, ukkirakantai, ukkirakantam#, ukkirakantam3, ukkirakantam@, ukkirakanti1, ukkirakentai2, ukkirakentam2, ukkiram2, ukkiri, umiyal, uraippan, uromakkilanku, vaca, vacai, vacampu, vacar, vacavaci, vasamboo, vasambu, vasampu, vashambu, vekuvacamutaiyayoki, vekuvacamutaiyoki, veni, verkkattai, vicamattiri Telugu (3) - vadaja, vasa, wasa Tibetan (2) - su dag, su-dag Urdu (4) - bach, bacha, bachh, waj-e-turki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c42343e33282874081eaac5c354dc2e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 53
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/53.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c42343e33282874081eaac5c354dc2e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c42343e33282874081eaac5c354dc2e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c42343e33282874081eaac5c354dc2e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c42343e33282874081eaac5c354dc2e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c42343e33282874081eaac5c354dc2e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vaca
+sanskrit_name: वचा
+transliteration: vacā
+ref_drug_name: वचा
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Vaca
+sanskrit_name: वचा
+transliteration: vacā
+ref_drug_name: वचा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Vaca
+sanskrit_name: वचा
+transliteration: vacā
+ref_drug_name: वचा
+status: Accepted source
+discussion: Vaca is identified with this species
+reference: [2]
+
+Identity Record 4
+drug_name: Vaca
+sanskrit_name: वचा
+transliteration: vacā
+ref_drug_name: वचा
+status: Accepted source
+discussion: Vaca is identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Vaca - sveta
+sanskrit_name: वचा श्वेता
+transliteration: vacā śvetā
+ref_drug_name: वचा श्वेता
+status: ?
+discussion: ?
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vaca
+sanskrit_name: वचा
+transliteration: vacā
+image_urls: https://www.medicinalplants.in/slokaimages/38/38_1.jpg https://www.medicinalplants.in/slokaimages/38/38_2.jpg https://www.medicinalplants.in/slokaimages/38/38_3.jpg https://www.medicinalplants.in/slokaimages/38/38_4.jpg https://www.medicinalplants.in/slokaimages/38/38_5.jpg https://www.medicinalplants.in/slokaimages/38/38_6.jpg
+ocr_text: वचोग्रगन्धा षड्ग्रन्धा गोलोमी शतपर्विका च मङ्गल्या जटिलोग्रा च लोमशा Il (Bpnl Vaca is called as Ugragandha, Sadgrandha, Golomi, Sataparvika, Ksuarapatri, Mangalya, Jatilagra ana Lomasa क्षुद्रपत्री वचोग्रगन्धा गोलोमी जटिलोग्रा च लोमशा अन्या श्वेतवचा मेध्या षडग्रन्धा हैमवत्यपि Il IDhnl Vaca is called as Ugragandha, Golomi, Jatilogra, Lomasa. Sveta vaca is Medhya , Saagrantha, Haimavati. वचोग्रगन्धा गोलोमी जटिलोग्रा च लोमशा रक्षोघ्नी विजया भद्रा मङ्गल्येति दशाह्वया Il मेध्या त्वन्या षङ्गल्या दीर्घपत्रिका तीक्ष्णगन्धा हैमवती मङ्गल्या विजया च सा Il IRjn) Vaca is otherwise called as Ugraganaha, Golomi, Jatilagra, Lomasa Raksoghnam, Vijaya, Bhadra, Mangalya. Sveta vaca is called as Medhya, Sadgrandha, Dirghapatrika, Tiksna gandha, Haimavati, Mangalya, Vijaya. श्वेतवचा वामिनी कटुतिक्तोष्णा वान्तिवह्निकृत् विबन्धाध्मानशूलघ्नी शकृन्मूत्रविशोधिनी अपस्मारकफा न्मादभूतजन्त्वनिलान हरेत् IBpn ) Vaca is Ugragandha, katu, Tikta in rasa, Usna in Potency, Vanti Vahni kara, Vibandha Aahmana Sulaghna, Sakrt Mutra visodhani, cures Apasmara , Kapha, Unmada, Bhuta, Jantu, Anila. वामिनी कटुतिक्तोष्णा वातश्लेष्मरुजापहा कण्ठ्या मेध्या च क्रमीहृद्विबन्धाध्मानशलूनत् वचाद्वयं तु कटुकं रूक्षोष्णं मलमूत्रलम् दीपनं कफवातघ्नं मेध्यायुष्यं च पाचनम् चोग्रगन्धं स्याल्लघु कण्ठास्यरोगजित् IDhn ) Vaca is Vamini, KatuTikta in Rasa, Usna in Potency, Vata Slesma ruja nhara, Kanthya, Medhya, cures Krmi, Hra roga, Vibanaha, Adhmana, Sula Vaca dvaya is Katu in Rasa, Ruksa, Usna in Potency, Mala mutrala, Dipana, Kapha-Vataghna, Medhya Ayusya, Pacana, Jantughna, Ugragandha, Laghu and is Kantha Asya roga hara. जन्तुघ्नं मेध्या कफहरा चेव तिक्ता कटुवी विपाकतः उन्मादापस्मृतिहरा रक्षोघ्नी चे वचा मता IMdn) Vaca is Meahya, Kapha hara, Tikta, Katu in Rasa, ana in Vipaka, Unmada- Apasmara hara, Raksoghna.

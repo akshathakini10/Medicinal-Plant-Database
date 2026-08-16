@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: eeb0f6081ccf54f31818fe441d374ff7
+Botanical Name: Eucalyptus globulus LABILL
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 22 Vernacular names found in 6 languages. English (3) - blue gum, eucalyptus, fever tree Hindi (2) - safeda, yukeliptas Kannada (6) - karpoora thaila vriksha, neelagiri thailada mara, neelgiri mara, nilagiri mara, taila, teilada Malayalam (1) - yukkalimaram Sanskrit (5) - Sanskrit Comments  haritaparna, nilaniryasa, sugandhapatra, tailaparnah, tailaparni Tamil (5) - kapura maram, karpuramaram, karupuramaram, nilappicin, yukkalimaram
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eeb0f6081ccf54f31818fe441d374ff7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tailaparna
+sanskrit_name: तैलपर्ण
+transliteration: tailaparṇa
+ref_drug_name: तैलपर्ण
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

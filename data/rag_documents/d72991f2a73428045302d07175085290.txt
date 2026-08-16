@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d72991f2a73428045302d07175085290
+Botanical Name: Careya herbacea ROB.
+Family: Lecythidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  kumbhata
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d72991f2a73428045302d07175085290
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d72991f2a73428045302d07175085290
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kumbhata
+sanskrit_name: कुम्भाट
+transliteration: kumbhāṭa
+ref_drug_name: कुम्भाट
+status: Accepted source
+discussion: Mentioned in Paryayaratnamala; Its regional name has been mentioned as 'Kumbhadu'; It might be the smaller variety of Kumbhi which is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

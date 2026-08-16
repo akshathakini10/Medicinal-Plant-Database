@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 30714778c9b213de0658f8db10cc04d9
+Botanical Name: Uvaria narum (DUNAL) WALL E WIGHT
+Family: Annonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Unona narum DUN
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 5 languages. Kannada (12) - bugadee balli, bugadee hoo, gunavaara, karee beelu, kareeballi, kariballi, karibilu, pandel, pandil, pannil, unamini, unaminigida Malayalam (5) - kuril, narampanal, narum-panel, narumpanal, narumpanel Marathi (2) - kaalaa apakaraa, kala-apkaro Sanskrit (3) - Sanskrit Comments  gunamanijhad, nilavalli, vallisakhotah Tamil (5) - puliccan, pulikkan, pulippiccan, pulippunari, pulippunarikkoti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30714778c9b213de0658f8db10cc04d9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2160
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2160.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30714778c9b213de0658f8db10cc04d9/xclkon/55000eaababc9ee8fbf164471bb80837
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30714778c9b213de0658f8db10cc04d9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30714778c9b213de0658f8db10cc04d9/xclkon/55000eaababc9ee8fbf164471bb80837
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30714778c9b213de0658f8db10cc04d9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30714778c9b213de0658f8db10cc04d9/xclkon/55000eaababc9ee8fbf164471bb80837
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30714778c9b213de0658f8db10cc04d9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

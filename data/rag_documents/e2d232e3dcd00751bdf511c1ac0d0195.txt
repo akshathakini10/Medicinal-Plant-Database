@@ -1,0 +1,132 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e2d232e3dcd00751bdf511c1ac0d0195
+Botanical Name: Hemidesmus indicus (L.) SCHULT.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Periploca indica L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 264 Vernacular names found in 8 languages. Hindi (12) - anandmul-kapuri, anantamul, aushba, dudhli, hindi-salsa, hindisalsa, jangli-chanbeli, janglichanbelli, kalisar, magrabu, mugrabu, salsa Kannada (43) - ananthamoola, beruballi, dhoodhaavalli, dudavali, dudavalli, gaamadevaru, gleet, haalu baeru, haalu balli, halavabilu, halberu, hale baeru balli, haleberuballi, hamada baeru, hamadaberu, kanya baeru, kanyaburu, kareebatte, karibandha, karibanta, kempu gandha, kempu gandhi, kempugandhi, kempuganhi, maadaavali, magaliveru, naamada baeru, naamadaberu, naamasogadhe, namadaballi, namadaberu, nannaari baeru, nannaari beru, nannaribayibessliberu, nannariberu, sogade, sogade beru, sugandha-palada-gida, sugandhapalada, sugandhiballi, sugandhiberu, sughanda-palada-gida, sughandhi beru Malayalam (11) - kizhanna, nannari, nannari-kizhanna, narooneendee, naru-nindi, naru-ninti, narunari, narunenti, narunindi, naruninti, paravalli Marathi (12) - anantamul, anantvel, dhoodmooli, dudhasali, lahankavali, makur, upalasari, uparasaala, uparasal, uparsal, uparsaree, upersari Sanskrit (41) - Sanskrit Comments  aasphota, ananta, anantamul, anantamula, anantamulah, asphota, bhadra, bhadravalli, bhadravallika, dhavalashariva, gopa, gopakanya, gopama, gopangana, gopasuta, gopavadhu, gopavalli, gopi, gopimulam, kalanusariva, karala, kashthashariva, krishodari, krsnamuli, lata, nagajivha, pratanika, raktasariva, sanariva, sariba, saribha, sariva, sarivadvaya, sharada, shariva, sugandha, sugandhi, svetasariva, syama, utpalasariva, utpalashariva Tamil (110) - acuvapalai, akilamamuli, anantam2, ankari muli, ankarikai, ankarimuli, arakkam, arakkam2, aritinvayacci, aritinviyachi, ariyamatu, arunai2, arunianam, aruninam2, cacanikam, cacapam, caricayam, caripaci, caripai, caripam, caripam1, caripam2, cariyam, cinkapperumal2, cinkaratosi, cirarokanacani, ciru nannari, cirunannari, cukantapalaiver, cukantappalai, cukantippalai, cukantirunakam, imayavalli, intiracukantakkoti, intiracukantam, intirakantam, intirakentam, intiri, intirikakkoti, intirikam, irulopi, kacumari2, kalaputpam, kamavalli, kananucari#, kananucari@, kananucarikkoti, kananusari, kanniyam#, kannucari, kanucari, karalam, kattinavatai, kattunannari, kirivilavalli, kirttinavalacci, kirttitamikakkoti, kirusnavalli, kirusnavallikkoti, kiruttinamuli2, kiruttinavalli, kiruttitamikam, kittinavalli, kizhanna, kolumpuka, kopaku, kopakuvalli, kopavalli1, kopi, makali 1, makali-k-kilanku, makalikkilanku 1, matuli 1, mavaliparunannari 2, mavallikkilanku 1, nannaari, nannari, nari, nari1, narpputu, naru-ninti, narukkumulam2, narunanri, narunetti, naruninti, nattunannari, nattuvaliyal, nirunti2, niruntu, nunnarivayr, palini, paraicivi, paraicivicceti, pargodi, parkkoti, parkoti, patalamuli, patalamuli 2, pattiracantani, perunannari, puppalakai, saribam, sasbam, sugandhipala, suganthipala, taku, tarunanari, urkatam, vanamamuli, vattavali Telugu (33) - adavipattitige, adavippathige, adavippatitige, barrisugandhi, gadi, gadisugandhi, gedasugandhu, ghodiescucandee, muttavapulagamu, mutthavapulagamu, nalla sugandhipaala, nallasugandhipala, nannaari, paala sugandhi, pala-chukkam-deru, pala-sugandhi, palachukhanderu, palasoucandee, palasugandhi, palasugandhikeru, palasughandhi, palatsukkanderu, sarasaparilla, soogundapala, sugandapala, sugandhi, sugandhi-pala, sugandhipaala, sugandhipala, sugandipala, sungandapala, tellasugandhipala, thellasugandhipaala Tibetan (2) - thal tras dkar po, thal-tres
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1125
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1125.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195/xclkon/88f964fb06ac8318357936ef9737e815
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195/xclkon/88f964fb06ac8318357936ef9737e815
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195/xclkon/88f964fb06ac8318357936ef9737e815
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195/xclkon/88f964fb06ac8318357936ef9737e815
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195/xclkon/88f964fb06ac8318357936ef9737e815
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2d232e3dcd00751bdf511c1ac0d0195
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asphota
+sanskrit_name: आस्फोता
+transliteration: āsphotā
+ref_drug_name: आस्फोता
+status: Suggested source
+discussion: Asphota is identified as Sariva by Dalhana and the author suggests the same
+reference: [2]
+
+Identity Record 2
+drug_name: Sariva
+sanskrit_name: सारिवा
+transliteration: sārivā
+ref_drug_name: सारिवा
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Sariva
+sanskrit_name: सारिवा
+transliteration: sārivā
+ref_drug_name: सारिवा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Sariva
+sanskrit_name: सारिवा
+transliteration: sārivā
+ref_drug_name: सारिवा
+status: Accepted source
+discussion: Identified with it
+reference: [5]
+
+Identity Record 5
+drug_name: Sariva - prakara
+sanskrit_name: सारिवा प्रकार
+transliteration: sārivā prakāra
+ref_drug_name: सारिवा
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 6
+drug_name: Sariva - prakara
+sanskrit_name: सारिवा प्रकार
+transliteration: sārivā prakāra
+ref_drug_name: सारिवा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Sariva - prakara
+sanskrit_name: सारिवा प्रकार
+transliteration: sārivā prakāra
+ref_drug_name: सारिवा
+status: Accepted source
+discussion: Identified with it
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Sariva
+sanskrit_name: सारिवा
+transliteration: sārivā
+image_urls: https://www.medicinalplants.in/slokaimages/864/864_1.jpg https://www.medicinalplants.in/slokaimages/864/864_2.jpg https://www.medicinalplants.in/slokaimages/864/864_3.jpg https://www.medicinalplants.in/slokaimages/864/864_4.jpg https://www.medicinalplants.in/slokaimages/864/864_5.jpg https://www.medicinalplants.in/slokaimages/864/864_6.jpg https://www.medicinalplants.in/slokaimages/864/864_7.jpg https://www.medicinalplants.in/slokaimages/864/864_8.jpg
+ocr_text: गोपसुतोक्ता भद्रा चन्दनगोपा च शारिबा कृष्णा कृष्णलता च सुगन्धा सुगन्घिका गन्धमूला च Il गोपा गोपी चन्दना च कन्या चन्दनशारिबा कृष्णमूला दीर्घपत्री तथा चोत्पलशारिबा गोपपुत्री द्वीतीया महागोपी च गोपुरा सुगन्धिनी गोपवल्ली लतास्फोता निगद्यते Il IAa mal sutokta, bhadra, candanagopa, shariba, krsna, krsna lata, sugandha, sugandhika, gandhamula , gopa, gopi, candana, kanya, candana sariba, krsna mula, dirghapatri, utpalasariba and हopaputri are the synonyms of sariva Second variety is mahagopi, gopura, sugandhini, gopavalli ana latasphota. Gopa कृष्णा तु सारिवा श्यामा गोपी गोपवधूशर्च सा धवला शारिबा गोपी गोपकन्या च शारदी |l स्फोटा श्यामा गोपवल्ली लतास्फोता च चन्दना IBpn ) Krsna sariva, syama sariva, gopi, gopavadhu, dhavala, shariba, gopi, gopakanya, sharadi , sphota, syama, gopavalli, latasphota, candana the synonyms of sariba. are सारिबा शारिबाउनन्दा गोपी चोत्पलशारिबा भद्रवल्ली नागजिह्वा कराला भद्रवल्लका |l श्यामलता च पालिन्दी गोपिनी कृष्णशारिबा INirl Sariba, shariba, ananda, gopi, utpala sariba, bhadravalli, nagajihva, karala, bhadravallika, syamalata, palindi , gopini krsna sariba are the synonyms of sariva. and तृष्णादाहप्रशमनी रक्तपित्तहरा हिमा ज्वरघ्नी मधुरा वृष्या शारिबा पित्तकासजित् Il IMdnl Sariba is madhura in rasa, in veerya, vrshya, pacifies trsna, daha, alleviates raktapitta, jvara, pitta ana kasa hima शारिबायुगलं स्वादु स्निग्धं शुक्लकरं गुरु अग्निमान्द्यारुचिश्वासकासामविषनाशनम |l दोषत्रयास्रप्रदरज्वरातीसारनाशनम् IBpn ) Both the types of sariba are svadu in rasa, snigdha, guru in guna, sukrakara cures agnimanaya, aruci, svasa, kasa, ama, visa, dosha traya, asra vikara, pradara, jvara and atisara शारिबे द्वे तु मधुरे कफवातास्रनाशने कुष्ठकण्डूज्वरहरे मेहदुर्गन्धिनाशने II कृष्णमूली तु संग्राही शिशिरा कफवातजित् तृष्णारुचिप्रशमनी रक्तपित्तहरा स्मृता Il (Dhnl Both the types of sariba are madhura in rasa, alleviates kustha, kandu, jvara, destroys kapha, vata, asra, meha and durganaha. Krsna muli is sangrahi, sisira, alleviates kapha, vata, raktapitta, pacifies trsna and aruci. शारिबे द्वे तु मधुरे कफवातास्रनाशने कुष्ठकण्डूज्वरहरे मेहदुर्गन्धिशने Il IRjnl Both the types of sariba are madhura in rasa, destroys kapha, vata, asra, kustha, kandu, jvara, meha and aurgandha. शारिबा वातपित्तासृक्तृट्च्छर्दिज्वरनाशिनी अनन्ता ग्राहिणी रक्तपित्तप्रशमनी हिमा Il IRavl Sariba is Vata Pitta Asrk-Trt Chardi-Jvara nasini, Ananta, Grahini, Raktapitta prasamani, Hima in Potency . and
+
+Shloka Record 2
+drug_name: Sariva - prakara
+sanskrit_name: सारिवा प्रकार
+transliteration: sārivā prakāra
+image_urls: https://www.medicinalplants.in/slokaimages/864/864_1.jpg https://www.medicinalplants.in/slokaimages/864/864_2.jpg https://www.medicinalplants.in/slokaimages/864/864_3.jpg https://www.medicinalplants.in/slokaimages/864/864_4.jpg https://www.medicinalplants.in/slokaimages/864/864_5.jpg https://www.medicinalplants.in/slokaimages/864/864_6.jpg https://www.medicinalplants.in/slokaimages/864/864_7.jpg https://www.medicinalplants.in/slokaimages/864/864_8.jpg
+ocr_text: गोपसुतोक्ता भद्रा चन्दनगोपा च शारिबा कृष्णा कृष्णलता च सुगन्धा सुगन्घिका गन्धमूला च Il गोपा गोपी चन्दना च कन्या चन्दनशारिबा कृष्णमूला दीर्घपत्री तथा चोत्पलशारिबा गोपपुत्री द्वीतीया महागोपी च गोपुरा सुगन्धिनी गोपवल्ली लतास्फोता निगद्यते Il IAa mal sutokta, bhadra, candanagopa, shariba, krsna, krsna lata, sugandha, sugandhika, gandhamula , gopa, gopi, candana, kanya, candana sariba, krsna mula, dirghapatri, utpalasariba and हopaputri are the synonyms of sariva Second variety is mahagopi, gopura, sugandhini, gopavalli ana latasphota. Gopa कृष्णा तु सारिवा श्यामा गोपी गोपवधूशर्च सा धवला शारिबा गोपी गोपकन्या च शारदी |l स्फोटा श्यामा गोपवल्ली लतास्फोता च चन्दना IBpn ) Krsna sariva, syama sariva, gopi, gopavadhu, dhavala, shariba, gopi, gopakanya, sharadi , sphota, syama, gopavalli, latasphota, candana the synonyms of sariba. are सारिबा शारिबाउनन्दा गोपी चोत्पलशारिबा भद्रवल्ली नागजिह्वा कराला भद्रवल्लका |l श्यामलता च पालिन्दी गोपिनी कृष्णशारिबा INirl Sariba, shariba, ananda, gopi, utpala sariba, bhadravalli, nagajihva, karala, bhadravallika, syamalata, palindi , gopini krsna sariba are the synonyms of sariva. and तृष्णादाहप्रशमनी रक्तपित्तहरा हिमा ज्वरघ्नी मधुरा वृष्या शारिबा पित्तकासजित् Il IMdnl Sariba is madhura in rasa, in veerya, vrshya, pacifies trsna, daha, alleviates raktapitta, jvara, pitta ana kasa hima शारिबायुगलं स्वादु स्निग्धं शुक्लकरं गुरु अग्निमान्द्यारुचिश्वासकासामविषनाशनम |l दोषत्रयास्रप्रदरज्वरातीसारनाशनम् IBpn ) Both the types of sariba are svadu in rasa, snigdha, guru in guna, sukrakara cures agnimanaya, aruci, svasa, kasa, ama, visa, dosha traya, asra vikara, pradara, jvara and atisara शारिबे द्वे तु मधुरे कफवातास्रनाशने कुष्ठकण्डूज्वरहरे मेहदुर्गन्धिनाशने II कृष्णमूली तु संग्राही शिशिरा कफवातजित् तृष्णारुचिप्रशमनी रक्तपित्तहरा स्मृता Il (Dhnl Both the types of sariba are madhura in rasa, alleviates kustha, kandu, jvara, destroys kapha, vata, asra, meha and durganaha. Krsna muli is sangrahi, sisira, alleviates kapha, vata, raktapitta, pacifies trsna and aruci. शारिबे द्वे तु मधुरे कफवातास्रनाशने कुष्ठकण्डूज्वरहरे मेहदुर्गन्धिशने Il IRjnl Both the types of sariba are madhura in rasa, destroys kapha, vata, asra, kustha, kandu, jvara, meha and aurgandha. शारिबा वातपित्तासृक्तृट्च्छर्दिज्वरनाशिनी अनन्ता ग्राहिणी रक्तपित्तप्रशमनी हिमा Il IRavl Sariba is Vata Pitta Asrk-Trt Chardi-Jvara nasini, Ananta, Grahini, Raktapitta prasamani, Hima in Potency . and

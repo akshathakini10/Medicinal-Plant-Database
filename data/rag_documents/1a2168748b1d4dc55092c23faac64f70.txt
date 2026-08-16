@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1a2168748b1d4dc55092c23faac64f70
+Botanical Name: Sesbania bispinosa (JACQ.) W.F. WIGHT var. bispinosa
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sesbania aculeata PERS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 9 languages. English (1) - dhaincha Hindi (8) - brihatchakramed, daden, dadon, dhaincha, dhunchi, ikad, jayanti, vanjayanti Kannada (3) - dhaincha, mullu jeenangi, mullujinangi Malayalam (3) - kedangu, kitamu, kitannu Marathi (4) - bhuiavali, chinchani, kansevari, ranshevari Sanskrit (4) - Sanskrit Comments  itakata, itkatah, jayanti, tarkari Tamil (7) - erra-jiluga, mudchembai, mulcempai, mutalai@, mutcempai, takkai-p-puntu, uravi Telugu (3) - errajiluga, ettajenga, yerrajelooga Tibetan (1) - i dga ta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70/xclkon/777cf5a59360d4e1c3c9c21fae2bdf90
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70/xclkon/777cf5a59360d4e1c3c9c21fae2bdf90
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70/xclkon/777cf5a59360d4e1c3c9c21fae2bdf90
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1a2168748b1d4dc55092c23faac64f70
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Itkata
+sanskrit_name: इत्कट
+transliteration: itkaṭa
+ref_drug_name: इत्कट
+status: Most probable
+discussion: May be considered as its source plant in assocaiation with the drugs of the grass family and similarity of uses
+reference: [1]
+
+Identity Record 2
+drug_name: Klitaka
+sanskrit_name: क्लीतक
+transliteration: klītaka
+ref_drug_name: क्लीतक
+status: Controversial
+discussion: Plants like Madhuka and Nili are called as Klitaka and among them Nili can be considered as it has aphrodisiac property which is a striking feature of Klitaka. But its not sure whether Nili can be correlated to this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

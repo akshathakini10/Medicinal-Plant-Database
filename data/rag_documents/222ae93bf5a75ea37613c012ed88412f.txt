@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 222ae93bf5a75ea37613c012ed88412f
+Botanical Name: Ficus glabella BLUME
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ficus wightiana WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Malayalam (1) - arealu Sanskrit (2) - Sanskrit Comments  parkati, plaksha Tamil (1) - kalathi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/222ae93bf5a75ea37613c012ed88412f/xclkon/b25ed014e758d71edfc2d25cdbfcad86
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/222ae93bf5a75ea37613c012ed88412f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/222ae93bf5a75ea37613c012ed88412f/xclkon/b25ed014e758d71edfc2d25cdbfcad86
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/222ae93bf5a75ea37613c012ed88412f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/222ae93bf5a75ea37613c012ed88412f/xclkon/b25ed014e758d71edfc2d25cdbfcad86
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

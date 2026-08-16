@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 915877956d1502f108def6d7f5e7250d
+Botanical Name: Duchesnea indica (ANDR.) FOCKE
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Fragaria indica ANDR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. Hindi (5) - bhiun kaphal, bhumla, kaphlya, stawberry, strawberry
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/915877956d1502f108def6d7f5e7250d/xclkon/c76c5573efa8a8a3920673357d598a1a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/915877956d1502f108def6d7f5e7250d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/915877956d1502f108def6d7f5e7250d/xclkon/c76c5573efa8a8a3920673357d598a1a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

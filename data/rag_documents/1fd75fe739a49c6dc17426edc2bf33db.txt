@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1fd75fe739a49c6dc17426edc2bf33db
+Botanical Name: Murraya paniculata (L.) JACK.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Murraya exotica L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 76 Vernacular names found in 8 languages. English (2) - chinese box, thanaka Hindi (13) - bilgar, bisar, gandelu, gandhelu, jai, kamini, machula, marchula, marchulya, nargan, nargen, nn, pipli Kannada (20) - angaarakana gida, angaarakana mara, angara-kina, angaracana, angaraka, angarakana, angarakina, celokadiro, kaadu kari baevu, kaadu karibevu mara, kadumallige mara, kallo, karibevu, karubevan, kattukaruveppu, naagadaalada mara, naagadala, nagadale, nagatali, paandri mara Malayalam (2) - maramulla, vepu Marathi (8) - chalajuti, kounti, kunli, kunthi, kunti, marchulajuti, pandhri, utkara Sanskrit (2) - Sanskrit Comments  ekangi, muramamsi Tamil (12) - arruppancu, cimaikkonci 1, cimaikkonci 2, kadar konchi, kadarkongi, karuveppilai, katal konci, katar konci, katarkonci, kattu-karuveppilai, kattukaruveppilai, konci Telugu (17) - careypaukoo, gana renu, ganarenu, ganerenu, gollmi, karepaku, karipaku, karivepa, karivepaku, naagagolugu, naagagolunga, naga golugu, nagagolugu, nagagulunga, nara gonji, puvvu velaga, sayyur
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fd75fe739a49c6dc17426edc2bf33db
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fd75fe739a49c6dc17426edc2bf33db/xclkon/42fa738381eaa603f22b12fcc767f8a9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fd75fe739a49c6dc17426edc2bf33db
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fd75fe739a49c6dc17426edc2bf33db/xclkon/42fa738381eaa603f22b12fcc767f8a9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fd75fe739a49c6dc17426edc2bf33db
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

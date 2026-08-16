@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 98c810ae2787dceac870f83ad3b436de
+Botanical Name: Meyna laxiflora ROBYNS
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Vangueria spinosa SENSU HOOK.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 49 Vernacular names found in 6 languages. Hindi (3) - moina, muduna, muyuna Kannada (22) - acchoora mullu, accuramullu, achchurmullu, achhoora mullu, achhura mullu, achuramuulu, chegu gadde, chegu gedde, gobergally, gonda kaare, guna kaare, gundkare, gundu kaare, kaari mullu, karimullu, maggaare, maggare, mangare, mangase, mullakare, mullu kaare, swasana Marathi (8) - alu, cchircholi, chirbot, chircholi, halawni, helu, huloo, madandriksh Sanskrit (8) - Sanskrit Comments  mainphala, nagakesarah, nagapuspah, pinda, pindi, pinditaka, pindituka, pindu Tamil (1) - manakkarai Telugu (7) - cegagadda, chegagadda, segagadda, veliki, vicikilamu, vishikilamu, visikilamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de/xclkon/e5b14d150cddbfd8b162e299e25364d4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1425
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1425.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/98c810ae2787dceac870f83ad3b436de/xclkon/e5b14d150cddbfd8b162e299e25364d4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Madanaphala
+sanskrit_name: मदनफल
+transliteration: madanaphala
+ref_drug_name: मदनफल
+status: Accepted source
+discussion: The word 'Mada' in 'Madana' means something which brings drowsiness but presently 'Madanaphala' is used as an emetic; This species has a lot of resemblance with 'Madanaphala' and popularly known as 'Mainphala'; The fruits of this species are narcotic; Its identified with this species; According to the author this might be the 'Madanaphala' of the ancient times
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

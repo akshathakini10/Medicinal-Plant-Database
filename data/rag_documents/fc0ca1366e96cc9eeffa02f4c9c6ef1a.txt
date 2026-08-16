@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fc0ca1366e96cc9eeffa02f4c9c6ef1a
+Botanical Name: Amentotaxus assamica D.K.FERGUSON
+Family: Taaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fc0ca1366e96cc9eeffa02f4c9c6ef1a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fc0ca1366e96cc9eeffa02f4c9c6ef1a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

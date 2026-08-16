@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dbf96e10f6d8492d89cf84a897d4958c
+Botanical Name: Cryptolepis grandiflora WIGHT
+Family: Periplocaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Malayalam (1) - pala Marathi (2) - phiramgi, vakhandi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbf96e10f6d8492d89cf84a897d4958c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dbf96e10f6d8492d89cf84a897d4958c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

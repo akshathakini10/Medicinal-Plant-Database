@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 713f41e8a32ba266c84075c0aa8cfea8
+Botanical Name: Allium ascalonicum L.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. English (1) - scallion Hindi (2) - ek-kanda-lasun, ekakandalasum Sanskrit (2) - Sanskrit Comments  grnjana, rasona Urdu (3) - gandana, lehsun, tukhm gandana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/713f41e8a32ba266c84075c0aa8cfea8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/713f41e8a32ba266c84075c0aa8cfea8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/713f41e8a32ba266c84075c0aa8cfea8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Grnja
+sanskrit_name: गृञ्ज
+transliteration: gṛñja
+ref_drug_name: गृञ्ज
+status: Most probable
+discussion: Most probably correlated to this species
+reference: [1]
+
+Identity Record 2
+drug_name: Grnjanaka
+sanskrit_name: गृञ्जनक
+transliteration: gṛñjanaka
+ref_drug_name: गृञ्जनक
+status: Accepted source
+discussion: Grnjanaka' is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

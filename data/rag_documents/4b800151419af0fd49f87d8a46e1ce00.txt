@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4b800151419af0fd49f87d8a46e1ce00
+Botanical Name: Zingiber zerumbet ROSC. E SM.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 57 Vernacular names found in 8 languages. Hindi (5) - banadrak, mahabari-bach, mahabaribach, nar-kachur, narkachur Kannada (11) - agale shunti, agaleshunthi, agalesunthi, agalu shunti, agalusunthi, kaadu kolinjana, kaadu shuntee, kaadu shunti, kallu shunti, kallusunthi, kallusunti Malayalam (9) - kathu-inshi-kua, katinci, katouinschikua, kattinchi, kattinci, kattincikuva, kattinji, kattinjikuva, kattu-inschi-kua Marathi (3) - kaali halad, narakchora, ran-alem Sanskrit (7) - Sanskrit Comments  ahava, avanti, karpuraharidra, kolanjana, kumbhika, sthulagranthi, viranam Tamil (5) - araniyacaranai#, araniyacaranai@, cirrinci, kattinci, vanaarttirakam Telugu (5) - kaarallamu, kaarupasupu, karallamu, karupasupu, santapasupu Urdu (12) - kapur kachri, kapur-kachri, kapurkachri, narkachoor (zurumbad), narkachur, narkachur nim koafta, narkachur nim kofta, zarambad, zaranbad, zaranbad nim kofta, zarnabad, zarnabad nim kofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b800151419af0fd49f87d8a46e1ce00
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b800151419af0fd49f87d8a46e1ce00
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b800151419af0fd49f87d8a46e1ce00
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b800151419af0fd49f87d8a46e1ce00
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b800151419af0fd49f87d8a46e1ce00
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sthulagranthi
+sanskrit_name: स्थूलग्रन्थि
+transliteration: sthūlagranthi
+ref_drug_name: स्थूलग्रन्थि
+status: Suggested source
+discussion: Some of them consider this species to be as 'Sthula granthi'
+reference: [5]
+
+Identity Record 2
+drug_name: Sunthi - prakara
+sanskrit_name: शुण्ठी प्रकार
+transliteration: śuṇṭhī prakāra
+ref_drug_name: शुण्ठी प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Triputaka
+sanskrit_name: त्रिपुटक
+transliteration: tripuṭaka
+ref_drug_name: शुण्ठी प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

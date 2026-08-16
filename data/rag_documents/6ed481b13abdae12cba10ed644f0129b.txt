@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6ed481b13abdae12cba10ed644f0129b
+Botanical Name: Dodonaea viscosa (L.) JACQ.
+Family: Sapindaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 104 Vernacular names found in 8 languages. English (2) - akeake, hop-bush Hindi (15) - aliar, jangli-anar, maindhar, maindhor, mehndar, mehndi velavti, mehndu, mendru, mendu, mhendu, sanatta, sonalta, sonatta, walaytinahndi, wilayati-mehandi Kannada (27) - andara baralu, andara gida, angaaraka, angare, angari, banaduruba, bandaari, bandarah, bandare, bandargi, bandari, bandarike, bandediro, bandri, bandrike, bandriki, bandurgi, bangaru, bhandaru, bondaare, bondare, bundurgi, hangara, hangaralu, hangarike, hangaru, vullari Malayalam (6) - krali, unatharivi, unatharivie, unnataruvi, virali, vrali Marathi (10) - bandaaree, bandari, banderu, bandurgi, jakhmi, karata, latchmi, lutchmi, paorki, zakhmi Sanskrit (3) - Sanskrit Comments  aliar, rasna, sanatta Tamil (20) - cavunatitacceti, cavunatitam, inkucukantan#, naykatampu, pantarai, taivaralicceti, valari, varali, varali #, velari, vellaivirali#, vellaivirali@, vellaiviruli, vilari, vilari 1, vilari#, vilaricceti 1, virali, virali-t-tol, viralicceti Telugu (21) - bandaaru, bandam, bandara, bandara aaku chettu, bandarai, bandari, bandaru, bandedu, banderu, bandhari, bandhedu, bandheru, bandikampa, golla pulleda, gollapuleda, gollapulleda, puli-vallu, pulivavili, pulleda, pullena, purugudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ed481b13abdae12cba10ed644f0129b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rasna
+sanskrit_name: रास्ना
+transliteration: rāsnā
+ref_drug_name: रास्ना
+status: Controversial
+discussion: In various parts of India different species are assumed as Rasna and this is one of the species which is suggested as a correlation
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

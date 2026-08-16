@@ -1,0 +1,95 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 11a902a8540ab674473d82c5288adfff
+Botanical Name: Clerodendrum indicum (L.) KUNTZE
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Clerodendrum siphonanthus R.BR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 35 Vernacular names found in 7 languages. Hindi (3) - barangi, bharangi, chingari Kannada (8) - angaravalli, baaleya, bangaali bhaarangi, bhaarangi, brahmana, brahmani, shaakapadme, yashti Malayalam (1) - cerutekku Marathi (1) - bharangi Sanskrit (10) - Sanskrit Comments  bharangi, bhargi, bharngi, brahmanayashtika, brahmanyastika, brahmayashtika, brahmuni, brahmunu yushtika, phangi, phanji Tamil (6) - isangu, kavalai, kovalai, narivalai, peenaari, sangamkupi Telugu (6) - bhaarangi, bharangi, brahmi, chiriteka, chiruteka, hanjika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 581
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/581.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff/xclkon/398b7ed724bad9dda3c867a5dce0185e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff/xclkon/398b7ed724bad9dda3c867a5dce0185e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11a902a8540ab674473d82c5288adfff
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhargaka
+sanskrit_name: भार्गक
+transliteration: bhārgaka
+ref_drug_name: भार्गक
+status: Most probable
+discussion: It may have the same claim as C.serratum hence this name is used Bhargaka
+reference: [1]
+
+Identity Record 2
+drug_name: Bharngi
+sanskrit_name: भार्ङ्गी
+transliteration: bhārṅgī
+ref_drug_name: भार्ङ्गी
+status: Accepted source
+discussion: Bharngi is correlated to this species
+reference: [2]
+
+Identity Record 3
+drug_name: Bharngi
+sanskrit_name: भार्ङ्गी
+transliteration: bhārṅgī
+ref_drug_name: भार्ङ्गी
+status: Most probable
+discussion: This species is popularly known as Bharngi
+reference: [3]
+
+Identity Record 4
+drug_name: Bharngi
+sanskrit_name: भार्ङ्गी
+transliteration: bhārṅgī
+ref_drug_name: भार्ङ्गी
+status: Substituted source
+discussion: This species is used as a substitute for Bharngi
+reference: [5]
+
+Identity Record 5
+drug_name: Padmacarati
+sanskrit_name: पद्मचारटी
+transliteration: padmacāraṭī
+ref_drug_name: पद्मचारटी
+status: Accepted source
+discussion: Padmacarati has been identified with Brahmayastika which is correlated to Clerodendrum indicum
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bharngi
+sanskrit_name: भार्ङ्गी
+transliteration: bhārṅgī
+image_urls: https://www.medicinalplants.in/slokaimages/444/444_1.jpg https://www.medicinalplants.in/slokaimages/444/444_2.jpg https://www.medicinalplants.in/slokaimages/444/444_3.jpg https://www.medicinalplants.in/slokaimages/444/444_4.jpg
+ocr_text: भार्गी स्यात् स्चरसे तिक्ता चोष्णा श्वासकफापहा गुल्मज्वरासृग्वातघ्नी यक्ष्माणं (Dhn) Bhargi svarasa is tikta rasa usna in veerya, $!2$2 kapha hara cures gulma, jvara, asrg vata yaksma and pinasa पीनसम् भार्गी तु कटुतिक्तोष्णा कासश्वासविनाशनी शोफव्रणकृमिघ्नी च दाहज्वरनिवारिणी II (Rjn ३) Bhargi is katu, tikia in rasa usha in veerya cures kasa, svasa, sopha vrana krmi and daha jvara भार्गी रूक्षा कटुस्तिक्ता रुच्योष्णा पाचनी लघुः दीपनी तुवरा गुल्मरक्तनुन्नाशयेत् ध्रुवम् |l शोथकासकफश्चकासपीनसज्वरमारुतान् (Bpn) Bhargi is katu tikta tuvara in rasas laghu ruksa in guna, rucya, usna, pacani dipani cures gulma rakta sotha, kasa, kapha, svasa, pinasa ivara and marurta पर्णमस्याः ज्वरं दाहं हिक्कां दोषत्रयं हरेत् I (Nir) Its leaves are beneficial for jvara daha, hikka vitiation Of three doshas and

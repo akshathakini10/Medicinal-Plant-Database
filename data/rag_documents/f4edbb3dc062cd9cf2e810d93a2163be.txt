@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f4edbb3dc062cd9cf2e810d93a2163be
+Botanical Name: Streblus asper LOUR.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Trophis aspera RETZ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 173 Vernacular names found in 8 languages. English (1) - paper bark Hindi (10) - bajar-danti, daheya, dahia, karchanna, khorus, kurchuna, rusa, sahora, sihora, siora Kannada (23) - abore, akhor moranu, akhormoranu, mitala, mitla mara, mitle, mitli, mitli mara, mitlimara, mittala, mittelgida, mittemara, penalige, ponalige, ponnolige, poonalige mara, punja mara, punjai, punje, punji, thimli mara, timil, timli Malayalam (9) - kurunji, parakam, paravu, paruva, paruvamaram, sakhotavrksam, tinda-parua, tindapparuva, tintapparuva Marathi (9) - karera, kharaoli, kharoli, kharota, paraya, parayu, parayya, poi, sahor Sanskrit (23) - Sanskrit Comments  akshadhara, bhutavasa, bhutavriksha, dhukavasa, gavakshi, karkashachhada, kaushikyaja, kausikya, kharachhada, kshiranasha, patrollekhataruh, pishachandru, pitaphala, pitaphalaka, rukshapatra, sakata, sakhota, sakhotah, sakhotaka, shakhota, shakhotaka, shankhinivasa, sprukka Tamil (71) - cekkaippanti, cekkaippantimaram, cinacika, cinika, cinnapala, culppiray, culppiraymaram, curppiray, curppiraymaram, karacataru, karacatarumaram, kulan, kulanpala, kulavukkacimaram, kulavukkaraci, kurripila, kurripparay, kutippala, kuttappiramaram, kuttappiray, kuttipila, kuttippala2, kuttippila2, kuttippirai, kuttippiray, kuttuppala, kuttuppalatai, malaippiracimaram, malaippiracitam, morpiramaram, morpiray, nattuppiray, nontavikam, nontavikamaram, pacunakki, pacunakkilai, pacunapi, pacunay, parayam, parayan, pasuna, peerahi vayr, perukku, pira, pira 1, piraayan, piramaram, pirasu, pirasu kuttipila, piray, piraya, pirayamaram, pirayampattai, pirayan, piraymaram, prayam, pukaru, pukki, pukkika, pukkikamaram, tarvikam, tarvikamaram, tiruvulavanitam, turruttalaiyan, turutalainikki, turutalainikkimaram, turutalaivan, turutalaiyan, vittil, vittila, vittilamaram Telugu (27) - bajar danthi, bamigi, baniki, baranika, baranki, barinika, barinikacettu, bariniki, barinka, barinke, barinki, barivenka, barnik, barniki, barranki, barrinki, bumegi, cukkali, kakkabedi, kaukka baedi, paki, pakki, pukkie, sitanika, sitanike, sithanike, sukali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be/xclkon/e4edb4f1f287b573f964035966bab663
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1989
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1989.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be/xclkon/e4edb4f1f287b573f964035966bab663
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be/xclkon/e4edb4f1f287b573f964035966bab663
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4edbb3dc062cd9cf2e810d93a2163be/xclkon/e4edb4f1f287b573f964035966bab663
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sakhotaka
+sanskrit_name: शाखोटक
+transliteration: śākhoṭaka
+ref_drug_name: शाखोटक
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

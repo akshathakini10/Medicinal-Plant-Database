@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: aff7e1de006d908a726d82394d5747ca
+Botanical Name: Avena sativa L.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. English (4) - common oats, groats, oat, oats Marathi (1) - vilaaythi jaw
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aff7e1de006d908a726d82394d5747ca
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aff7e1de006d908a726d82394d5747ca
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aff7e1de006d908a726d82394d5747ca
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

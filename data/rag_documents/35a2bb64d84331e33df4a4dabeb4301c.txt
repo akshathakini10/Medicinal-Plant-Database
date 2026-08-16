@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 35a2bb64d84331e33df4a4dabeb4301c
+Botanical Name: Cipadessa baccifera (ROTH.) MIQ.
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 44 Vernacular names found in 6 languages. Hindi (1) - nalbila Kannada (19) - adasaage, adusoge, bettadabaevu, chaedu beera, cheduveera, chithunde, chittunde, hanoyi, hanumana thoppalu, hanumantatap, hanumantatoppalu, mandala kaayi, mendala kaayi, minnamunni, narachalu gida, padavali, sidigolu, sidugoli, sitthunde gida Malayalam (1) - pulippanchedi Marathi (2) - gudmai, ranabili Tamil (7) - cannatturukka vempu, cevvattai1, pulippan#, pulippan@, pulippanchedi, pullipamcheddi, savattuchedi Telugu (14) - chandbera, chanduvira, chedu bira, chedubira, chend bera, hanumantha-bira, pottu vepa, purudona, purudonda, rana beri, ranabilla, thabate, thavitegu, turaka vepa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35a2bb64d84331e33df4a4dabeb4301c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35a2bb64d84331e33df4a4dabeb4301c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35a2bb64d84331e33df4a4dabeb4301c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

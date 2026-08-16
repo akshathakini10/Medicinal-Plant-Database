@@ -1,0 +1,63 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9f4e367511a4b37c7dbb1734f71bb44a
+Botanical Name: Mollugo cerviana SER.
+Family: Molluginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pharnaceum cerviana L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 68 Vernacular names found in 7 languages. Hindi (5) - chirimorio, chiriya ro khet, jima, parpat, taph-jhad Kannada (5) - kaage purale gida, kaage purule gida, kage purale gida, parpaataka gida, parpataka Malayalam (1) - parpataka Marathi (1) - pada Sanskrit (4) - Sanskrit Comments  grishmasundara, parpata, parpataka, phanya Tamil (46) - citalacatti2, citam, citam2, citappiriyan, cukkumapattiri, cutcumapattiri, kilavankuti, kirismacuntarakam, kolanti, kottamakantakam, kucattinpati2, kuccakam2, kuccam3, narappiriyam, narpiriyam, pappatam, parinatam, parinatam#, parinatam@, parpaatakam, parpadagam, parpadagum, parpatakam, parpatakam#, parpatakam@, parpatam@, parpatatam, parppanpuntu, parppatakam, parppatakam#, parppatakam$, parppatakam@, parppatam, parppatam#, parppatam@, patakam, porpatakam, purpadagum, tiricanakki, tiriteki, tiritekikam#, tiritekikam@, titteki, venu 1, viriputu, viriputukam Telugu (6) - parpaataka, parpadagum, parpataka, parpatakamu, pichhu kaalu, verri chatarasi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a/xclkon/3e378883ddb81c0a1731c7a924c6df93
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1444
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1444.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a/xclkon/3e378883ddb81c0a1731c7a924c6df93
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a/xclkon/3e378883ddb81c0a1731c7a924c6df93
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f4e367511a4b37c7dbb1734f71bb44a/xclkon/3e378883ddb81c0a1731c7a924c6df93
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Parpata
+sanskrit_name: पर्पट
+transliteration: parpaṭa
+ref_drug_name: पर्पट
+status: Controversial
+discussion: All over the country different plants are used under this name hence remains a controversy; With regard to its character it is correlated to this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Parpata
+sanskrit_name: पर्पट
+transliteration: parpaṭa
+image_urls: https://www.medicinalplants.in/slokaimages/5/5_1.jpg https://www.medicinalplants.in/slokaimages/5/5_2.jpg https://www.medicinalplants.in/slokaimages/5/5_3.jpg
+ocr_text: पर्पटः शीत्तलस्तिक्तः पित्तश्लेष्मज्वरापहः रक्तदाहारुग्लानिमदभ्रमविनाशनः || (Dhn, Rjn) Parpata is tikta in rasa, sita in veerya, alleviates pitta, slesma, jvara, rakta, daha, rug, glani, mada and bhrama. पर्पटो हन्ति पित्तास्रभ्रमतृष्णाकफज्वरान्| संग्राही शीतलस्तिक्तो दाहनुद् वातलो लघुः|| (Bpn) Parpata is tikta in rasa, laghu in guna, sita in veerya, sangrahi, increases vata alleviates pitta, asra, bhrama, trsna, kapha, jvara and daha पर्पटो दाहज्वरजित कफशोष्णः (Rjv) Parpata is kapha sosana, alleviates pitta, daha and ivara. पित्तहृत्

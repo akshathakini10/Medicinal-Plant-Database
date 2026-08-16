@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e51a53a5f7a18b8f9399a34ec44d5228
+Botanical Name: Peristrophe paniculata (FORSK.) BRUMMITT
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Justicia bicalyculata VAHL. Peristrophe bicalyculata NEES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 7 languages. Hindi (3) - atrilal, kaknadi, kuchchi Kannada (8) - chebira gida, cheebe gida, cheebee gida, cheebeera soppu, cheebera soppu, cibi gida, eluvu sandaka, kaage kaalu baeru Malayalam (1) - katou-pulcholli Marathi (5) - ghati pitta papada, ghatipittapapada, kaanga, raan kiraayath, rankirayat Sanskrit (5) - Sanskrit Comments  kakajangha, kakatikta, nadikanta, pracivala, sulomasa Tamil (1) - cara caniram Telugu (3) - chebeera, chebira, chebura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1621
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1621.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/a21883e09a0bfd4ddf1c79cc838e5369
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/3d64e75fec6f091f6614f457c062d7b4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/a21883e09a0bfd4ddf1c79cc838e5369
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/3d64e75fec6f091f6614f457c062d7b4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/a21883e09a0bfd4ddf1c79cc838e5369
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228/xclkon/3d64e75fec6f091f6614f457c062d7b4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e51a53a5f7a18b8f9399a34ec44d5228
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

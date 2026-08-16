@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 104dcba22ce93f46f2ea040e5d70ad29
+Botanical Name: Raphanus sativus L.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 57 Vernacular names found in 10 languages. English (4) - daikon, mooli, mula or muli, radish Hindi (7) - moola, mooli, mula, muli, mulo, muro, singri Kannada (8) - bili, bili moolangi, bilimoolangi, maguni gedde, moolangi, mulangi, mullangi, mullangiyanne Malayalam (3) - kankapal, mullangi, mullanki Marathi (3) - moolaa, mulo, muri Sanskrit (5) - Sanskrit Comments  moolaka, mulaka, mulakam, muli, mulika Tamil (19) - attitantam, catakketanacceti, catakketanam, cempucattumuli5, ekkuttali, kaymullanki, mula, mulaka, mulakam, mulapam, mulinghie, mullangi, mullanki, mullanki#, nakatanti4, nattumullanki, parivarnam, tantimaruppu, vayalikkilanku Telugu (1) - mullangi Tibetan (1) - la phug Urdu (6) - mulekebija, muli, muli ka pani, muli taza mai burg, namak turub, tukhm muli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/104dcba22ce93f46f2ea040e5d70ad29
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/104dcba22ce93f46f2ea040e5d70ad29
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/104dcba22ce93f46f2ea040e5d70ad29
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/104dcba22ce93f46f2ea040e5d70ad29
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/104dcba22ce93f46f2ea040e5d70ad29
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/104dcba22ce93f46f2ea040e5d70ad29
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/104dcba22ce93f46f2ea040e5d70ad29
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Mulaka
+sanskrit_name: मूलक
+transliteration: mūlaka
+ref_drug_name: मूलक
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Mulaka
+sanskrit_name: मूलक
+transliteration: mūlaka
+ref_drug_name: मूलक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Mulaka
+sanskrit_name: मूलक
+transliteration: mūlaka
+image_urls: https://www.medicinalplants.in/slokaimages/1380/1380_1.jpg https://www.medicinalplants.in/slokaimages/1380/1380_2.jpg https://www.medicinalplants.in/slokaimages/1380/1380_3.jpg
+ocr_text: लघुमूलं स्यात् रुच्यं लघु च पाचनम् | दोषत्रयहरं स्वर्यम ज्वरकासविनाशनम् नासिकाकण्ठरोगघ्नं नयनामयनाशनम | महते तदेव रूक्षोष्णं गुरु दोषत्रयप्रदम् | स्नेहसिद्धं तदेव स्यात् दोषत्रयविनाशनम् (Bpn) Laghu mulaka is katu in rasa , laghu in guna, usna in veerza, rucya, pacana, svarya, alleviates all the three doshas, cures jvara, kasa, nasika kantha roga, nayana maya. Mahat mulaka is ruksa, in guna, usna in veerya, and increases all the three doshas. Sneha siddha alleviates all the three doshas कटुष्णं guru शुष्कं त्रिदोशमनं शोथघ्न गरजिल्लघु| तत्पुष्पं कफपित्तघ्नं तत्फलं कफवातजित्|| IRjvl Suska mulaka is laghu in guna, garajit, pacifies the three doshas and alleviates sotha. Its puspa is alleviates kapha and pitta Its phala alleviates kapha and vata. बालं दोषहरं वृद्धं त्रिदोषं मारुतापरम् स्निग्धसिद्धं विशुष्कन्तु कफवातजितं (चरक Bala mulaka is Dosha hara, Vrddha mulaka is Triaosha maruta para, Snigdha sidaha Visuskamulaka is Kapha vata hara. मूलकं

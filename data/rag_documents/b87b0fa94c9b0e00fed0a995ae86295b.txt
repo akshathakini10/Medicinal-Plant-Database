@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b87b0fa94c9b0e00fed0a995ae86295b
+Botanical Name: Potentilla nepalensis HOOK.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Hindi (2) - dora, dori grass Sanskrit (1) - Sanskrit Comments  ratanajota
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b87b0fa94c9b0e00fed0a995ae86295b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1727
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1727.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b87b0fa94c9b0e00fed0a995ae86295b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ratanjota
+sanskrit_name: रतनजोत
+transliteration: ratanajota
+ref_drug_name: रतनजोत
+status: Controversial
+discussion: Ratanjota has not been mentioned in any of the texts; This species is used as Ratanjota in Punjab
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 606000130d3e6243c252a9e6f9d63d96
+Botanical Name: Setaria verticillata (L.) P. BEAUV.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 3 languages. Hindi (2) - laptuna, latkaunya Tamil (26) - amarippul, cankari, cataippul, eliyotti, eliyotti 2, ikulotayam, ikulotayappul, kampoci, kanaippul, kankunipattiram, kattukkan 1, katukkanpul, kirusnavalikkoti, kittinavali, kutiraivaliccamai, miriyakuntal, natantaraittutarntan, nelluppullu, nompuvali 1, otti 2, ottikkuvan, ottuppul, parivali, tettankacacceti, turankapperaraci 1, vali Telugu (2) - chigirinta gaddi, chikilinta gaddi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/606000130d3e6243c252a9e6f9d63d96
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/606000130d3e6243c252a9e6f9d63d96
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/606000130d3e6243c252a9e6f9d63d96
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

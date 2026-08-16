@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f81597fb54240873cd7d14db19ec260f
+Botanical Name: Gossypium hirsutum L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 5 languages. English (5) - american upland cotton, common cotton, cotton, upland cotton, wild cotton Hindi (1) - kapas Kannada (3) - american hatthi, apland hatthi, dodda hatthi Sanskrit (1) - Sanskrit Comments  karpasa Tamil (3) - ilatan parutti, mayilanparutti, paruthi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f81597fb54240873cd7d14db19ec260f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f81597fb54240873cd7d14db19ec260f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f81597fb54240873cd7d14db19ec260f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

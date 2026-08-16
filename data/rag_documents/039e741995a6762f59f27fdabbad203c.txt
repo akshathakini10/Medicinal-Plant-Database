@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 039e741995a6762f59f27fdabbad203c
+Botanical Name: Citrus aurantium L.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 145 Vernacular names found in 9 languages. English (4) - bigarade, neroli, seville orange, sour orange Hindi (11) - amritphal, khatta, narangi, narengi, narenj, naringi, narunge, qumlanebu, sangtara, sangtra, sunthura Kannada (21) - doddile, haerali, herali kaayi, herula, ile, jambira, kahi kanchi, kahisanthra, kithale, kittalay, kittale, kittale-hannu, kitthale, kittile, nadeyi, naranga, sakkarekanci, sakkarekanji, satagadi, sathgadi, sathghur Malayalam (11) - conakanaranna, jambiram, kolanchinarakam, kolanji-narakam, kolannanarakam, madhura-naranna, madhuranaragam, madhuranarakam, madhuranaranna, narangamathira, naranna Marathi (6) - laramj, narangi, naringa, narungasala, sakulimba, suntra Sanskrit (28) - Sanskrit Comments  airavata, airavatah, aravatah, arawat, gandhadhya, gandhapatra, kirmira, kirmirtvaka, mahanarama, mukhapriya, nagar, nagarangah, nagarangaphalam, nagarunga, nagranga, nagruka, naranga, narangah, narangataila, nariyanga, sira, suranga, swadunaringa, tvagagandha, tvakasugandha, vaktravasa, varishtha, yogaranga Tamil (26) - arancu, arancupalam, collungie pullum, kamalranj, kicchili pazham, kich-chilip-pazham, kichlie pullum, kitchli, kolunci, kozhunjip-pazham, naaraththai, naraddai, narangam, naranttai, narattai, narattam, pandil, pattaviya, pattaviyamaram, pulinarattai, pulippunarattai, pulittanarattai, puttansini, sadagadi, sini, tantacatam Telugu (35) - aranji, batavinarinja, battavinarinja, beddacini, buddachinee, buddasini, chinee, cini, edapandu, gajanimma, ida, jambhiri, jambira, jambiramu, kichchili-pandu, kitchili, kittali-pandu, mallikanaarangi, naarangamu, naranga-pandu, narangamu, naranji, narija, narija-pandu, narijamu, naringa, narinja, peddaida, peddavida, peddayida, satghadi, sini, tiaaranji, tipanaringa, tiyyanaranji Urdu (3) - khattay, sharbat naranj, talkh santare ke phool
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/039e741995a6762f59f27fdabbad203c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/039e741995a6762f59f27fdabbad203c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/039e741995a6762f59f27fdabbad203c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/039e741995a6762f59f27fdabbad203c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/039e741995a6762f59f27fdabbad203c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

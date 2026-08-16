@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9827d4fecd35be4638d6089bd646c7ae
+Botanical Name: Beta vulgaris L.
+Family: Chenopodiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Beta benghalensis ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 8 languages. English (6) - beetroot, mangel-wurzel or mangold, mangold, spinach beet, sugarbeet, swiss chard Hindi (5) - chakundar, chukandar, chukander, cukkandan, palak Kannada (3) - beet root, beetrootu, rakthagadde Malayalam (3) - bittruttu, cencira, neycira Marathi (1) - bit Sanskrit (3) - Sanskrit Comments  palakya, palanki, raktagrnjana Tamil (1) - cencirai Urdu (1) - tukhm chuqandar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9827d4fecd35be4638d6089bd646c7ae
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9827d4fecd35be4638d6089bd646c7ae/xclkon/ef41081eeeb95a6beb1bdc69d0bf5c8b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9827d4fecd35be4638d6089bd646c7ae
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9827d4fecd35be4638d6089bd646c7ae/xclkon/ef41081eeeb95a6beb1bdc69d0bf5c8b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9827d4fecd35be4638d6089bd646c7ae
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9827d4fecd35be4638d6089bd646c7ae/xclkon/ef41081eeeb95a6beb1bdc69d0bf5c8b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9827d4fecd35be4638d6089bd646c7ae
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b351270dcc0cf9357d1b8bccd8265ddd
+Botanical Name: Mangifera sylvatica ROB.
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 5 languages. Malayalam (1) - kattumavu Marathi (1) - koshamba Sanskrit (3) - Sanskrit Comments  kosamra, koshagru, kousamrah Tamil (1) - kanakantam Telugu (1) - mamidi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b351270dcc0cf9357d1b8bccd8265ddd
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1380
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1380.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b351270dcc0cf9357d1b8bccd8265ddd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b351270dcc0cf9357d1b8bccd8265ddd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

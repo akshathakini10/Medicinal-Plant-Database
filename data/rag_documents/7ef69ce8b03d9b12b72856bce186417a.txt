@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7ef69ce8b03d9b12b72856bce186417a
+Botanical Name: Piper thomsoni HOOK.F.
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Piper thomsonii HOOK. F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Hindi (1) - jangli pan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ef69ce8b03d9b12b72856bce186417a/xclkon/1dcb570cc0b32745b944426ed0ac485b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ef69ce8b03d9b12b72856bce186417a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ef69ce8b03d9b12b72856bce186417a/xclkon/1dcb570cc0b32745b944426ed0ac485b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

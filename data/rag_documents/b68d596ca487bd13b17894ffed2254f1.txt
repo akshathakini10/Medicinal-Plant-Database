@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b68d596ca487bd13b17894ffed2254f1
+Botanical Name: Corylus avellana L.
+Family: Betulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. English (4) - barcelona nut, cobnut, corkscrew hazel, hazel Urdu (2) - maghz finduq, maghz funduq
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b68d596ca487bd13b17894ffed2254f1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b68d596ca487bd13b17894ffed2254f1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b68d596ca487bd13b17894ffed2254f1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

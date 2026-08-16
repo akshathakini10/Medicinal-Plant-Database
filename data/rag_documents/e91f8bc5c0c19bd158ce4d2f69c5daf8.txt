@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e91f8bc5c0c19bd158ce4d2f69c5daf8
+Botanical Name: Myrica esculenta BUCH.-HAM.
+Family: Myricaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Myrica sapida WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 7 languages. Hindi (4) - kaiphal, kaphal, kayaphul, myrica sapida Kannada (1) - kirishivani Malayalam (1) - marutamtoli Marathi (2) - kaiphal, kayaphul Sanskrit (3) - Sanskrit Comments  katphala, katphalah, mahavalkala Tamil (7) - cavviyaci, cavviyacimaram, cippirakaruppam, kaitariyam, kirusnakarppam, marudam-pattai, marutam 3 Telugu (2) - kaidanyamu, kaidaryamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e91f8bc5c0c19bd158ce4d2f69c5daf8/xclkon/b2a25666de2d3e6df82589803091e0fc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1485
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1485.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e91f8bc5c0c19bd158ce4d2f69c5daf8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e91f8bc5c0c19bd158ce4d2f69c5daf8/xclkon/b2a25666de2d3e6df82589803091e0fc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e91f8bc5c0c19bd158ce4d2f69c5daf8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e91f8bc5c0c19bd158ce4d2f69c5daf8/xclkon/b2a25666de2d3e6df82589803091e0fc
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e91f8bc5c0c19bd158ce4d2f69c5daf8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e91f8bc5c0c19bd158ce4d2f69c5daf8/xclkon/b2a25666de2d3e6df82589803091e0fc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e91f8bc5c0c19bd158ce4d2f69c5daf8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e91f8bc5c0c19bd158ce4d2f69c5daf8/xclkon/b2a25666de2d3e6df82589803091e0fc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Katphala
+sanskrit_name: कट्फल
+transliteration: kaṭphala
+ref_drug_name: कट्फल
+status: AS
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Katphala
+sanskrit_name: कट्फल
+transliteration: kaṭphala
+image_urls: https://www.medicinalplants.in/slokaimages/1148/1148_1.jpg https://www.medicinalplants.in/slokaimages/1148/1148_2.jpg https://www.medicinalplants.in/slokaimages/1148/1148_3.jpg https://www.medicinalplants.in/slokaimages/1148/1148_4.jpg https://www.medicinalplants.in/slokaimages/1148/1148_5.jpg
+ocr_text: कट्फलः कफवातघ्नो गुल्ममेहाग्निमान्द्यदजित्| रुचिष्यो ज्वर- दुर्नाम-ग्रहणी पाण्डुरोगहा | | Katphala alleviates kapha and vata, is rucya, CUrCS gulma, meha, agnimandya , jvara, durnama, grahani, and pandu roga कटफल च कषायं च कफधातुविकारजित् हृल्लास मुखरोगघ्नं कासन्श्वास ्ज्वरापहम् IDhn) Katphala kashaya in rasa, kapha dhatu vikaraghna, cures hrllasa mukha roga, kasa, svasa and jvara. कट्फलः कटूरुष्णश्च कासश्वासज्वरापहः उग्रदाहहरो रुच्यो मुखरोगशमप्रदः | | (Rjnl Katphala is katu in rasa, usna in veerya, rucya, cures kasa, svasa, jvara, ugradaha and mukharoga. कटुफलस्तुवरस्तिक्तः क टुर्वातकफज्वरान् ह श्वासप्रमेहार्शः कासकण्ठामयारुचीः न[ IBpn) Katphala is tuvara, tikta, katu in rasa, cures vata kapha jvara, svasa, prameha, arsa, kasa, kantha amaya and aruci. कफरोगध्नं श्वासकासज्वरापहम IRjvl Katphala cures kapha roga, svasa, kasa and jvara कट्फलं

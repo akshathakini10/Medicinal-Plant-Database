@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c64383762fb4815b308e2bcd960598cf
+Botanical Name: Geranium mascatense BOISS.
+Family: Geraniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Geranium ocellatum CAMB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Hindi (1) - kaphlya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c64383762fb4815b308e2bcd960598cf/xclkon/e1d4a14e5994b66cc3f3e6d70923c11d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c64383762fb4815b308e2bcd960598cf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c64383762fb4815b308e2bcd960598cf/xclkon/e1d4a14e5994b66cc3f3e6d70923c11d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

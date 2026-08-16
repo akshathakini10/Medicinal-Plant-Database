@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bc506e317ac312e5d6654450ed5c3f26
+Botanical Name: Dichrostachys cinerea WIGHT & ARN.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Desmanthus cinereus WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 147 Vernacular names found in 8 languages. Hindi (12) - ameena, goya-khair, kheri, kolai, kulais, kumali, kunlai, vartuli, virtuli, vurttuli, vurtuli, vurutuli Kannada (20) - edatari, edathari, oda thare, odatare, odavarada, odavare, odavinagida, odavinaha, vadanare, vadatare, vadavina, vaduvaarada gida, vaduvarada, voda thaare, wadu, wadu warada, wadu waradu, waduwarada, woodavaradu, yeda thuri Malayalam (2) - viravrksam, vitattal Marathi (7) - bellathoor, segumkati, sigamkaati, sigamkati, sigum-kanti, vaelathoora, warfa-taro Sanskrit (14) - Sanskrit Comments  bahuvaraka, dirghamula, krichhari, kshudhakushalasandnaka, mahakapitha, vallataru, vellantara, vellantarah, vellantaru, vilantaru, viradru, virataruh, viravriksha, virtaru Tamil (63) - anaitter, anatter, carayittiyam, catalikam, catanikamaram, cirrilai2, karini, karukavi, karukavimaram, mavilandam, mavilantam, mavilinkappalai, nakkavarimuli, nalappetimuli, piodai, plodai, potittalai, potittalaimaram, tattamaniyam, tecattam, tirkkamulam3, tirutamulam2, tirutamulo2, vadatalla, vadataram, vadathalai, valutalankay, vancimalai, varittol, varittula, vatatarai, vatataram#, vatataram@, vedatalla, vedathalam, vedittalung kolindoo, veduttalam, vekutavam, vetattala, vetuttalam, vidathalan, vidattalai, vidatter, vikuli, vikulimaram, virataru, virataru 3, viratarumaram, visappurai, vitatarai, vitatari, vitattal, vitattalai, vitattalaimaram, vitattalam, vitattali, vitattallam, vitattar, vitattari, vitatter, vitatterai, vitattericceti, vitattetotari Telugu (28) - banutula, bunthula, nalla venuturu, nallaveluturu, nallavenuturu, nela jammi, nelajammi, nellajammi, samiramu, sarathumma, saratumma, velitsroo, vellitooroo, velthru, velthuru, veltoori, velturi, velturu, veluthuru chettu, veluturu, venuthuru, venuturu, veturu, yellow, yeltoor, yeltoori, yeltu, yeltur Tibetan (1) - bi ra ta ra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 804
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/804.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26/xclkon/7cecdf399d8da41c8103c8a8cdc9cfe8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26/xclkon/7cecdf399d8da41c8103c8a8cdc9cfe8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26/xclkon/7cecdf399d8da41c8103c8a8cdc9cfe8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26/xclkon/7cecdf399d8da41c8103c8a8cdc9cfe8
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc506e317ac312e5d6654450ed5c3f26
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Viratara
+sanskrit_name: वीरतर
+transliteration: vīratara
+ref_drug_name: वीरतर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

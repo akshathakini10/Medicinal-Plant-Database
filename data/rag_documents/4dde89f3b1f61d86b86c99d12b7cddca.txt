@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4dde89f3b1f61d86b86c99d12b7cddca
+Botanical Name: Plantago lanceolata L.
+Family: Plantaginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 4 languages. English (2) - english plantain, ribwort plantain Hindi (2) - baltanga, isabgol Sanskrit (1) - Sanskrit Comments  asvagola Urdu (1) - bartang
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dde89f3b1f61d86b86c99d12b7cddca
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1695
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1695.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dde89f3b1f61d86b86c99d12b7cddca
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dde89f3b1f61d86b86c99d12b7cddca
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asvagola - prajati
+sanskrit_name: अश्वगोल प्रजाति
+transliteration: aśvagola prajāti
+ref_drug_name: अश्वगोल प्रजाति
+status: Accepted source
+discussion: Seeds of Plantago variety are mixed with Asvagola and used
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

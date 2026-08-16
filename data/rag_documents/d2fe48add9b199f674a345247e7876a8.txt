@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d2fe48add9b199f674a345247e7876a8
+Botanical Name: Glycosmis pentaphylla (RETZ.) DC
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 42 Vernacular names found in 7 languages. Hindi (2) - ban nimbu, ban-nimbu Kannada (10) - guroda, guruvade, jangama, jangamma, mankali, otamadika, otamadike, pandill, panthele, vedemadige Malayalam (3) - malampanal, panal, panel Marathi (1) - menki Sanskrit (2) - Sanskrit Comments  asvasakhotah, vanamimbuka Tamil (15) - amam, ana 2, anam, anam 2, gonji, kattu-k-konci, kattukkonci, konchi, konci, konji, konji-chedi, kula pannai, kulappannai, kulpanai, panacceti Telugu (9) - gilugu, godugu, golugu, gonji, gulunga, gunji, kondagolugu, kondagulunga, konde gilugu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2fe48add9b199f674a345247e7876a8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2fe48add9b199f674a345247e7876a8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2fe48add9b199f674a345247e7876a8
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2fe48add9b199f674a345247e7876a8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2fe48add9b199f674a345247e7876a8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

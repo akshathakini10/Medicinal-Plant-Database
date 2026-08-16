@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7621992d08641c0676e7761e5775f25f
+Botanical Name: Sida alba L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sida spinosa L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 73 Vernacular names found in 8 languages. Hindi (4) - bariara, gulsakari, kantio bal, katiobal Kannada (6) - gattigaruke, kaadu menthya, kaadumenthya, kadira, kadumenthya, kallangadale Malayalam (2) - kattu-ventiyam, kuruntotti Marathi (10) - banabaavari, gaangshi, gandedhaman, gangaavathi, gangeti, kaanteri thupakadee, kaanterithukati, kanteritukati, naagabala, tukati-khareti Sanskrit (28) - Sanskrit Comments  agandha, avishta, bala, bhadrandani, chatupala, devadanda, gangati, gangeruki, ghanta, gorakshatandula, hrisvagavedhuka, jhasha, khar-yashtika, kharagandhini, kharavallika, kharyashthika, mahabala, mahagandha, mahapatra, mahaphala, mahashakha, mahodaya, naga-bala, nagabala, pitberela, vatyayani, vishvadeva, vishvadevi Tamil (5) - arivalmanai-poondu, mayir manikkam, mayir-mamkkam, mayirmanikam, perunthuthi Telugu (16) - chinamootam, chinamuttama, chinamuttavapulagam, chinnamuttama, chinnamuttamu, chinnamuttavapulagamu, cinnamuttavapulagamu, cinnamuttemu, mayilu-manikyam, mayirumanikyam, muttavapulagamu, nagabala, ternaliabenda, thernallabenda, thirinelabenda, tirinelabenda Urdu (2) - nagbala, tukhm kharenti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7621992d08641c0676e7761e5775f25f/xclkon/5e97d527ce4dc1d2979d24bec30ac556
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nagabala
+sanskrit_name: नागबला
+transliteration: nāgabalā
+image_urls: https://www.medicinalplants.in/slokaimages/1483/1483_1.jpg https://www.medicinalplants.in/slokaimages/1483/1483_2.jpg https://www.medicinalplants.in/slokaimages/1483/1483_3.jpg
+ocr_text: गांगेरुकी मधुराम्ला कषायोष्णा गुरुस्तथा कटुस्तिक्ता च वातघ्नी व्रणपित्तविकारजित IDhn) Gangeruki is madhura, amla , kashaya, katu, tikta in rasa, guru in guna usna in veerya, alleviates vata vrana and pitta vikara मधुराम्ला नागबला कषायोष्णा गुरुस्तथा कण्डूतिकुष्ठवातघ्नी व्रणपित्तविकारजित् IRjn) Nagabala is madhura , amla, kashaya in rasa, guru in guna, usna in veerya, cures kandu, kustha, vata, vrana and pitta vikara गांगेरुकीफलं रूक्षं कषायं स्वादु वातलम्| लेखनं स्तम्भनं शीतं विबन्धाध्मानकृद् गुरु १ (ग.नि) Gangeruki phala is ruksa, kashaya, svadu in rasa, guru in guna, sita in veerya, increases vata, is lekhana, stambhana, causes vibandha ana adhmana

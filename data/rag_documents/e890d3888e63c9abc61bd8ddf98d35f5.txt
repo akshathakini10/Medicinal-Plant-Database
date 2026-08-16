@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e890d3888e63c9abc61bd8ddf98d35f5
+Botanical Name: Girardinia diversifolia (LINK) FRIES
+Family: Urticaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Girardinia heterophylla DECNE.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 9 languages. English (1) - nilgiri nettle Hindi (9) - ain, ain/bichhu buti, bhainsya kandali, bichhu buti, ghora keemesh, ghora-keemesh, jhir kandali, kaldi bichhu, kandali Kannada (7) - arike, chelu urigida, surusurike, thurike, turike, turisike, vrischika Malayalam (2) - ana-schorigenam, anaccoriyanam Marathi (1) - kasti-khatkutli Sanskrit (7) - Sanskrit Comments  laghukacchu, lomasa, romalu, santativardhini, vatavidhvamsini, vrscika, vrsciyasaka Tamil (1) - anachoriyan Telugu (2) - gaddanelli, rakasi chettu Urdu (1) - bichwa siyah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e890d3888e63c9abc61bd8ddf98d35f5/xclkon/87f3fac23f93b8a933624bff6efaefcf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e890d3888e63c9abc61bd8ddf98d35f5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e890d3888e63c9abc61bd8ddf98d35f5/xclkon/3d9efa107c140f9eaac640156afe1cbe
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e890d3888e63c9abc61bd8ddf98d35f5/xclkon/73e8d34fb25ec5898d0006a131ab183b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e890d3888e63c9abc61bd8ddf98d35f5/xclkon/87f3fac23f93b8a933624bff6efaefcf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e890d3888e63c9abc61bd8ddf98d35f5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e890d3888e63c9abc61bd8ddf98d35f5/xclkon/3d9efa107c140f9eaac640156afe1cbe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e890d3888e63c9abc61bd8ddf98d35f5/xclkon/73e8d34fb25ec5898d0006a131ab183b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e890d3888e63c9abc61bd8ddf98d35f5/xclkon/87f3fac23f93b8a933624bff6efaefcf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

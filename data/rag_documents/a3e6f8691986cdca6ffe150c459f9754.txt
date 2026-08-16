@@ -1,0 +1,138 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a3e6f8691986cdca6ffe150c459f9754
+Botanical Name: Garcinia morella (GAERTN.) DESR.
+Family: Clusiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 119 Vernacular names found in 8 languages. Hindi (3) - gotaghanba, tamal, tamel Kannada (44) - aradaala, aradala, arandaal, arandal, arasinagurge, arasinagurse, ardala, aridaala, arishina gurige, arisina gurgi, arsinagurgi, daevanahuli, devana huli, devanahuli, haralaangushta, haralam gushta, hardala, jaarige, jaarige huli, jarige, jarigehuli, jarigepuli, jarize, jirigehuli, kaanabheerunda, kaccapuli, kachampuli, kachampulli, kachhapuli, kakhote kaayi, kanabhirand, kanakakote kaayi, kanakotekayi, kankootgal, kankutagal, kankutake, kankutiga, lamal, makki, murinahuli, ponapuli, punarapuli, punarpuli, reval chinni mara Malayalam (20) - chigiri, chingiri, cigiri, cikiri, daramba, iravi, karukampulu, karukkampuli, kurukapulli, makki, pinarppuli, pinnarpuli, ponnummattu, pulincakka, pulinchakka, pulinjakka, punnangam, punnaru, valakkanna, valogam Marathi (9) - lokaskandha, mahabala, niladvaja, nilatala, raevaachineechashira, tama, tamala, tapichcha, tapinja Sanskrit (18) - Sanskrit Comments  amritadruma, hiravi, kalaskandha, kalaskandhah, kalatala, kankustha, lokaskandha, mahabala, niladvaja, nilatala, svarnaksiri, tama, tamal, tamala, tapiccha, tapichcha, tapinja, tapitha Tamil (14) - colaippuli, iravalsinni, irevalsinni, irevarcinni, korakpuli, kotu-k-kaypuli, makki, makkicceti, makkimaram, makkimukkimaram, makkimukku, revalcinni, solaippuli, trevalchinippal Telugu (8) - karukkampuli, pasupuvanne, pasupuvarne, raevalchinni, revalchinni, revalcinni, rival-chinipal, thamal Tibetan (3) - rtsad sman khrol bu (p), rtsan sman khrol bu (d), rtsi da sman khrol bu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1029
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1029.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3e6f8691986cdca6ffe150c459f9754
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kankustha
+sanskrit_name: कंकुष्ठ
+transliteration: kaṃkuṣṭha
+ref_drug_name: कंकुष्ठ
+status: Most probable
+discussion: Primitively it was considered as the resin of 'Svarnaksiri', during the medieval period as 'Usarerevanda' and nowadays it is prevelent by the resin of this species so most probably correlated to this species
+reference: [5]
+
+Identity Record 2
+drug_name: Kankustha
+sanskrit_name: कंकुष्ठ
+transliteration: kaṃkuṣṭha
+ref_drug_name: कंकुष्ठ
+status: Most probable
+discussion: most probably correlated to this
+reference: [3]
+
+Identity Record 3
+drug_name: Svarnaksiri
+sanskrit_name: स्वर्णक्षीरी
+transliteration: svarṇakṣīrī
+ref_drug_name: स्वर्णक्षीरी
+status: Most probable
+discussion: Most probably identified with this species as it posseses solidified yellow latex which is a feature of this plant
+reference: [1]
+
+Identity Record 4
+drug_name: Tamala
+sanskrit_name: तमाल
+transliteration: tamāla
+ref_drug_name: तमाल वृक्ष
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Tamala
+sanskrit_name: तमाल
+transliteration: tamāla
+ref_drug_name: तमाल
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 6
+drug_name: Tamala - vrksa
+sanskrit_name: तमाल वृक्ष
+transliteration: tamāla vṛkṣa
+ref_drug_name: तमाल वृक्ष
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Tamala - vrksa
+sanskrit_name: तमाल वृक्ष
+transliteration: tamāla vṛkṣa
+ref_drug_name: तमाल
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kankustha
+sanskrit_name: कंकुष्ठ
+transliteration: kaṃkuṣṭha
+image_urls: https://www.medicinalplants.in/slokaimages/783/783_1.jpg https://www.medicinalplants.in/slokaimages/783/783_2.jpg
+ocr_text: कंकुष्ठं रेचनं तिक्तमुष्णं वर्णविशोधनम् [ कफशोफोदरानाहगुल्माध्मानकृमिप्रणुत् IKdn) Kankushta is tikta in rasa , usna in veerya, alleviates kapha, is recana, varna visodhana, cures sopha, uaara, anaha, gulma, adhmana ana krmi. कंकुष्ठकं तिक्तकटूष्णवीर्यं विशेषतो रेचकं करोति| गुदातिगुल्मव्रणशूलहृत्परं प्रचक्षते शास्त्रविदः पुराणाः रसपकाशसुधाकर ) Kankustha is tikta, katu in rasa, usna in veerya, visesat recaka, cures guaa vyadhi, guima, vrana sulahrt and
+
+Shloka Record 2
+drug_name: Svarnaksiri
+sanskrit_name: स्वर्णक्षीरी
+transliteration: svarṇakṣīrī
+image_urls: https://www.medicinalplants.in/slokaimages/153/153_1.jpg https://www.medicinalplants.in/slokaimages/153/153_2.jpg
+ocr_text: स्वर्णक्षीरी हिमा तिक्ता कृमिपित्तकफापहा मूत्रकृच्छ्राश्मरी शोफदाहज्वरहरा परा IRjn ) Svarna ksiri is tikta in rasa, hima in veerya, alleviates pitta ana kapha cures krmi, mutrakrcchra, asmari, sopha, daha and jvara हेमाह्वा रेचनी तिक्ता भेदिन्युत्क्लेशकारिणी कृमिकण्डूविषानाहकफपित्तास्रकुष्ठनुत् IBpnl Hemahva is tikta in rasa, recani, bhedani, utkiesa karini, alleviates kapha pitta ana asra dosha, cures krmi, kandu, visha, anaha and kustha.
+
+Shloka Record 3
+drug_name: Tamala
+sanskrit_name: तमाल
+transliteration: tamāla
+image_urls: https://www.medicinalplants.in/slokaimages/786/786_1.jpg https://www.medicinalplants.in/slokaimages/786/786_2.jpg https://www.medicinalplants.in/slokaimages/786/786_3.jpg https://www.medicinalplants.in/slokaimages/786/786_4.jpg
+ocr_text: पत्रकं मधुरं किञ्चितं तीक्ष्णोष्णं पिच्छिलं लघु| निहन्ति कफवातर्शोहल्लासारुचिपीनसान्I| (Bpn) Patraka is madhura in rasa, tiksna, picchila, laghu in guna, usna in veerya, alleviates kapha and vata, cures arsa, hrllasa, aruci and pinasa पत्रकं लघु तीक्ष्णोष्णं कफवातविषापहम् बस्तिकण्डूतिदोषघ्नं मुखमस्तकशोधनम् (Rjn) Patraka is laghu, tiksna in guna, usna in veerya alleviates kapha and vata, is mukha mastaka sodhana, cures visha and basti kanduti dosha. पत्रमुष्णं लघुश्लेष्महृल्लासार्शोडनिलापहम् पीनसं चैव त्रिदोषमपि नाशयेत्I| (Mdn) Patra is laghu in guna, usna in veerya, alleviates slesma and anila, cures hrllasa, arsa, hrdroga, pinasa and destroys all the three doshas हृद्रोगं पत्रकं कफवात्तास्रहल्लासारोचकापहम्I| (शोढलः) Patraka alleviates kapha and vata, cures asra, hrllasa and arocaka
+
+Shloka Record 4
+drug_name: Tamala - vrksa
+sanskrit_name: तमाल वृक्ष
+transliteration: tamāla vṛkṣa
+image_urls: https://www.medicinalplants.in/slokaimages/786/786_1.jpg https://www.medicinalplants.in/slokaimages/786/786_2.jpg https://www.medicinalplants.in/slokaimages/786/786_3.jpg https://www.medicinalplants.in/slokaimages/786/786_4.jpg
+ocr_text: पत्रकं मधुरं किञ्चितं तीक्ष्णोष्णं पिच्छिलं लघु| निहन्ति कफवातर्शोहल्लासारुचिपीनसान्I| (Bpn) Patraka is madhura in rasa, tiksna, picchila, laghu in guna, usna in veerya, alleviates kapha and vata, cures arsa, hrllasa, aruci and pinasa पत्रकं लघु तीक्ष्णोष्णं कफवातविषापहम् बस्तिकण्डूतिदोषघ्नं मुखमस्तकशोधनम् (Rjn) Patraka is laghu, tiksna in guna, usna in veerya alleviates kapha and vata, is mukha mastaka sodhana, cures visha and basti kanduti dosha. पत्रमुष्णं लघुश्लेष्महृल्लासार्शोडनिलापहम् पीनसं चैव त्रिदोषमपि नाशयेत्I| (Mdn) Patra is laghu in guna, usna in veerya, alleviates slesma and anila, cures hrllasa, arsa, hrdroga, pinasa and destroys all the three doshas हृद्रोगं पत्रकं कफवात्तास्रहल्लासारोचकापहम्I| (शोढलः) Patraka alleviates kapha and vata, cures asra, hrllasa and arocaka

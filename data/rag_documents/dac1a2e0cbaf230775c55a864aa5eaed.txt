@@ -1,0 +1,100 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dac1a2e0cbaf230775c55a864aa5eaed
+Botanical Name: Glycyrrhiza glabra L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Glycyrrhiza radix L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 163 Vernacular names found in 10 languages. English (2) - licorice, liquorice Hindi (10) - jathi-madh, jethi-madh, jethimadh, jetimad, kubas-susa, mithilakdi, mulathee, mulathi, mulhathi, mulhatti Kannada (9) - athimadura, ati-madhura, atimadhura, ishta madhooka, jaeshta madhu, jestamaddu, jesthamadhu, yashti-madhuka, yashtimaduka Malayalam (7) - ati-madhuram, atimadhuram, erattimadhuram, iratti-madhuram, irattimadhuram, yashti-madhukam, yashtimadhukam Marathi (2) - jashtimadh, jeshtamadha Sanskrit (28) - Sanskrit Comments  jalayashti, klitaka, madhu, madhu-yashtikam, madhuka, madhukah, madhukahva, madhukam, madhusrava, madhuyashti, madhuyashtika, madhuyashtikam, madhuyasti, madhuyastika, sthalayashti, yashti-madhu, yashtika, yashtimadhu, yashtirasakrya, yashtyawa, yasti, yastika, yastimadhu, yastimadhuh, yastimadhuka, yastyahva, yastyahvam, yastyahvaya Tamil (81) - addimodrum, adhimathuram, adimaduram, aravam, athimaduram, athimathuram, athimathurappal, ati maduram, ati-maduram, atimaduram, atimaturam, atimaturamver, atinaram, atinkam, atinkucceti, atinmku, atti, atti 1, attikala, attikatakam, attimatucaram, attimaturam, attimaturi, attivellai, attiyam, attumutti, calli, cimaiyatimaturam, cira, ciraval, ecitavakam, ekitavakam, eratam, eratayam, etalakam, etalakam 1, evarukan, evarukan@, ivastimaturam, iyastimaturam, kancukam, kancukam 1, kattatimaturam, kilitakam, koli, kunriver, kuyilamoti, kuyinmoli, mannaikatti, mannaikkatti, mannaikkatticceti, mannaikkatticeti, mati 2, matikamaturam, matu, matu 2, matucosayam, matukam, matukam 1, matukam 1#, matukam 1@, matukamaliram, matukamaturam, matukamaviram, matukavalli, matuli, matulikam, matuparni, matura, maturakam, maturakam 1, maturam 1, maturaver, mulankam, nuncu, vatalam, vellaikkunri, venkunri, vitakam, yastimatukam, yatti Telugu (7) - athimaduramu, athimathuram, ati-madhuramu, atimadhuramu, atimaduramu, yashti-madhukam, yashtimadhukam Tibetan (2) - sin mnar, sin-mnar Urdu (15) - asal-us-sus, asal-us-sus muqqashar, asal-us-sus nim kofta, asl-us-soos, asl-us-sus, mithi lakdi, mulathi, mulethi, mulhatti, nim kofta mulethi, rub-ul-sus, rub-ul-sus siyah, rub-us-sus, rubb-us-soos, tub-ul-sus
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed/xclkon/75e81d33a2d2c623a0fdfbbfdee6b7b7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed/xclkon/75e81d33a2d2c623a0fdfbbfdee6b7b7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed/xclkon/75e81d33a2d2c623a0fdfbbfdee6b7b7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed/xclkon/75e81d33a2d2c623a0fdfbbfdee6b7b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed/xclkon/75e81d33a2d2c623a0fdfbbfdee6b7b7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dac1a2e0cbaf230775c55a864aa5eaed/xclkon/75e81d33a2d2c623a0fdfbbfdee6b7b7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Madhu
+sanskrit_name: मधु
+transliteration: madhu
+ref_drug_name: मधु
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Yastimadhu
+sanskrit_name: यष्टिमधु
+transliteration: yaṣṭimadhu
+ref_drug_name: यष्टिमधु
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Yastimadhu - jati
+sanskrit_name: यष्टिमधु जाति
+transliteration: yaṣṭimadhu jāti
+ref_drug_name: यष्टिमधु जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Yastimadhu - jati
+sanskrit_name: यष्टिमधु जाति
+transliteration: yaṣṭimadhu jāti
+ref_drug_name: यष्टिमधु जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Yastimadhu - jati
+sanskrit_name: यष्टिमधु जाति
+transliteration: yaṣṭimadhu jāti
+ref_drug_name: यष्टिमधु जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

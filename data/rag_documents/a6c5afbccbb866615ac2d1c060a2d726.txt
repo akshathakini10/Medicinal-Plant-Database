@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a6c5afbccbb866615ac2d1c060a2d726
+Botanical Name: Jurinea dolomiaea BOISS
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Dolomaea macrocephala DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Hindi (3) - dhoop, dhup, gagal Sanskrit (1) - Sanskrit Comments  jatukanda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c5afbccbb866615ac2d1c060a2d726/xclkon/790bae1f4e643c5fe418261c933146db
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 4195
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/4195.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c5afbccbb866615ac2d1c060a2d726/xclkon/bc4dd21ae29b07bd95126eb72446a829
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c5afbccbb866615ac2d1c060a2d726
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c5afbccbb866615ac2d1c060a2d726/xclkon/4f1b1a6b6397fc824f015886e05bb4e9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c5afbccbb866615ac2d1c060a2d726/xclkon/790bae1f4e643c5fe418261c933146db
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c5afbccbb866615ac2d1c060a2d726/xclkon/bc4dd21ae29b07bd95126eb72446a829
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c5afbccbb866615ac2d1c060a2d726
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c5afbccbb866615ac2d1c060a2d726/xclkon/4f1b1a6b6397fc824f015886e05bb4e9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6c5afbccbb866615ac2d1c060a2d726/xclkon/790bae1f4e643c5fe418261c933146db
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c4bf490a088d2e9c4f5761502461ff56
+Botanical Name: Kaempferia rotunda L.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 39 Vernacular names found in 7 languages. Hindi (2) - bhuichampa, bhuyicampa Kannada (7) - kallu kove, kalluloove, kumada gedde, kumudagadde, nela sampige, nelasampige, utpala hoovu Malayalam (5) - cennalinirkilannu, cennalinirkkilannu, cennalinirkuva, chenchineerkilang, malan-kua Marathi (4) - bhuichampa, bhuichapa, bhumy-champo, booichampa Sanskrit (9) - Sanskrit Comments  bhucampaka, bhuchampaka, bhumicampaka, bhumichampa, bhumichampaka, hallakah, hallakam, utpala, utpalam Tamil (7) - karunkuvalai, konda-kalava, nerpichan, nerppicin, pucanpakam, pumicampakam, pumicanpakam Telugu (5) - bhoochampakamu, bhucampakamu, bhuchampakamu, kondakalava, kondakaluva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4bf490a088d2e9c4f5761502461ff56
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4bf490a088d2e9c4f5761502461ff56
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4bf490a088d2e9c4f5761502461ff56
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4bf490a088d2e9c4f5761502461ff56
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

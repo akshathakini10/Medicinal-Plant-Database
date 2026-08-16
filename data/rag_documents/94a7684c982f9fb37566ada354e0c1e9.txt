@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 94a7684c982f9fb37566ada354e0c1e9
+Botanical Name: Canthium dicoccum (GAERTN.) TEIJSM. & BINN. var. dicoccum
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Canthium umbellatum WIGHT
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 6 languages. Kannada (22) - ababaln, abalu, abblu, baelaache, bilachi, ellele, gandukakkorala, gandukakkorla, gandukakorle, hanagi gaare, hatharaanike, hattaraanike, hatteranike, heddaraanike, hunnageru, kakkorla, kallurukolu, karu, korla, nalla, oppele, yellal Malayalam (4) - anakombi, irumbarappan, nannul, njanjul Marathi (3) - arsul, tupa, ursul Sanskrit (1) - Sanskrit Comments  kari Tamil (3) - alampamaram, imburuttam, nallamandharam Telugu (8) - balasu naikinna, nakkareni, nakkena, nakkini, nalla balasu, nallabalusu, naumpapala, niralli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9/xclkon/2b949f59f19caa0b5c557232806d9041
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9/xclkon/2b949f59f19caa0b5c557232806d9041
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9/xclkon/2b949f59f19caa0b5c557232806d9041
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94a7684c982f9fb37566ada354e0c1e9/xclkon/2b949f59f19caa0b5c557232806d9041
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Karira
+sanskrit_name: करीर
+transliteration: karīra
+image_urls: https://www.medicinalplants.in/slokaimages/318/318_1.jpg https://www.medicinalplants.in/slokaimages/318/318_2.jpg https://www.medicinalplants.in/slokaimages/318/318_3.jpg https://www.medicinalplants.in/slokaimages/318/318_4.jpg https://www.medicinalplants.in/slokaimages/318/318_5.jpg
+ocr_text: करीरो गुढपत्रो मरुदेशेषतिप्रसिद्धः कॅण्टकिवृक्ष इति डल्हणः करीरमाध्मानकरं कषायं कटूष्णमेतत् कफहारि भूरि| श्वासानिलारोचकसर्वशूलविच्छर्दि खर्जूवर्णदोषहारिI| IRjnl Karira, gudapatra, marudesa , atiprasiddha, kantakivrksha, halhana are the synonyms Karira is kashaya, katu in rasa, usna in veerya, alleviates kapha, adhmanakaraka , cures svasa, anila, arocaka, sarva sula, chardi, kharju ana varna dosha करीरः कटुकः तिक्तः स्वद्यष्णो भेदनः स्मृतः | दुर्नामकफवातामगरशोथव्रणप्रणुत् T IBpn) Karira is katu, tikta in rasa, usna in veerya, bheaana, alleviates kapha ana vata, cures durnama, ama, gara sotha vrana and करीरः कटुको भेदि तीक्ष्णोष्णः कफवातजित् ( मदनपालः) Karira is katu in rasa, tiksna in guna, usna in veerya, bhedi, alleviates kapha ana vata. करीरं ग्राहि फलमुष्णं रुचिप्रदम् कफपित्तकरम् किंचित्कषायं वातहृद्वरम्| | (क्षोमकुतूहलम्) Karira phala is katu, kincit kashaya in rasa, in guna, usna in veerya, ruciprada, alleviates vata increases kapha and pitta कटुकं grahi and करीराक्षिकपीलूनि तृणशून्यफलानि च | स्वादुतिक्तकटूषणानि कफवातहरणि च I| (सुश्रुतः) Karira, aksika, piluni, trnasunya phalani are the synonyms It is svadu, tikta, katu in rasa, usna in veerya, alleviates kapha and vata.

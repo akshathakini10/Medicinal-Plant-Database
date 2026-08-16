@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ecd201452a1b2725f9d85e58abdbbf8b
+Botanical Name: Cannabis sativa L.
+Family: Cannabinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cannabis indica L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 219 Vernacular names found in 10 languages. English (14) - bhang, ganja, grass, hashish, hemp, indian hemp, marihuana, marijuana, mary jane, pot, reefer, russian hemp, skunk, weed Hindi (18) - barh, bhang, bhanga, bhangala, bhangla, bohar, caras, charas, ganja, ganje-ka-per, ganjekaper, gur, kinnab, kus, phulganja, sabzi, siddhi, wild hemp Kannada (8) - bhangi, bhangi gida, bhangi-gida, bhangigida, gaanja gida, gaanjaa gida, ganja gida, kusuvu gida Malayalam (10) - cherukanchava, ginjilachilachi, kalengi-cansjava, kancabu, kancha, kanchava chedi, kanchava-cheti, kanchavachetto, sivamuli, tsjeru-cansjava Marathi (3) - bhamgi, bhang, bhangachajhada Sanskrit (57) - Sanskrit Comments  ajaya, ananda, anja, bahuvadini, banga, bhanga, bhangi, bhringi, bhrngi, bijeeah, chapala, chapola, dhurtapatri, dhurtavadhu, ganjica, ganjika, hanga, hara, harshini, hursini, indrasana, indrashana, janavallika, jaya, kamagni, madani, manohara, matkunari, matta, matulani, matuli, maya, mohini, nili, ranjika, sakasana, sankhapuspi, sankhini, saumya, shakrashana, shiva, shivapriya, siddhapatri, soma, tandrakrt, tandraruchivardhini, trailokhya-vijaya, trailokyavijaya, ujaya, unmattini, ununda, vajradruvikshaha, vajradruvrikshaha, vijaya, virapatra, vrijpatta, yogini Tamil (87) - alatam, ananta muli, anantacaram 2, anantakarpam, anantakopitam, anantam 2, anantamuli, anantamuli#, anantaymuli, ankaravalli, anuvallipputu, atuttaraimayakki, auvaimuli, bangi, bhamgi, bhang, caciyam 1, camittika, camittikacceti, camittu, canappu, catacivanmuli, cattikurunatan, cimaikkanca, cipiccam, cittapattiri, cittarunnupukaimuli, civamuli, ganca, ganja, ganja chedi, ganja-chedi, ganjah, icantirumuli, icuramuli, intiracanam, iyakatitacceti, iyakatitam, kalpam, kanca, kancacceti, kancam, kancavittu, kanja, kantattiri, karpam 2, karpamuli, katalataittan, kattittam 1, katutittakam, kirincanam 1, korakai, korakkar muli, korakkar-muli, korakkarmuli, korakkarmulikai, korkaluli, korkkarmuli, kurumuli, kuvalai, lakiri, macataiyan, madamattagam, matamattakam, moki, mullai, mutantam, mutantam 2, nanapattiri, nattukkanca, nittirakari, nittirakaricceti, pangi, panki, periyorunnunkarpam, sivamuli, tanaimayakkimuli, taraimatu, tikaipputtiram, tiriculi 1, tirkkapalavam, ulokakarpanani, vaccirataru, visamulam 2, yokakarpatti, yokamavalarttitunani, yokattaivalarkkumuli Telugu (16) - bangiaaku, bangiaku, gaanja chettu, ganja chettu, ganjachettu, ganjavi-chettu, ganjayi, ganzai, guruginja, jadaganja, kalpam chettu, kalpam-chettu, kalpamchettu, krishna thaamara, krishnathaamara, metta thaamara Tibetan (1) - myan rtsi spras Urdu (5) - bhang, burg-e-qinnab, qinnab (bhang), tukhm bhang, waraq-ul-khyal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b/xclkon/b59424de294b278d83bc700a8953f895
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b/xclkon/b59424de294b278d83bc700a8953f895
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b/xclkon/b59424de294b278d83bc700a8953f895
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b/xclkon/b59424de294b278d83bc700a8953f895
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b/xclkon/b59424de294b278d83bc700a8953f895
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b/xclkon/b59424de294b278d83bc700a8953f895
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecd201452a1b2725f9d85e58abdbbf8b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhanga
+sanskrit_name: भंगा
+transliteration: bhaṃgā
+ref_drug_name: भंगा
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Bhrngi
+sanskrit_name: भृङ्गी
+transliteration: bhṛṅgī
+ref_drug_name: भृङ्गी
+status: Accepted source
+discussion: Has been mentioned in Sodala with the title 'Bhrngi' along with different synonyms which depicts it to be 'Bhanga' which is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bhanga
+sanskrit_name: भंगा
+transliteration: bhaṃgā
+image_urls: https://www.medicinalplants.in/slokaimages/312/312_1.jpg https://www.medicinalplants.in/slokaimages/312/312_2.jpg
+ocr_text: भङगा कफहरी तिक्ता ग्राहिणी पाचनी लघुः तीक्ष्णोष्णा पित्तला मोहमदवाग्वह्निवर्धिनी Il (Bpn) Bhanga is tikta in rasa, laghu, tiksna in guna, usna in veerya, increases pitta, alleviates kapha, is grahini, pacani and induces moha, mada, vag vahni. भृङ्गी तु दीपनी रुच्या ग्राहिणी पाचनी लघुः निद्रापित्तप्रदूषणा च कामदा कफवातजित् II (Sodala) Bhangi is dipani, rucya, grahini, pacani, laghu, nidra pitta pradushana, kamada and kapha vatahara

@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 865e5405c88606a6fe54c1e481e43f6f
+Botanical Name: Guazuma ulmifolia LAM.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Guazuma tomentosa H.B. & K.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 6 languages. English (2) - bastard cedar, west indies elm Hindi (1) - rudraksha Kannada (6) - bhadraakshi, bhadraakshimara, bucha, jaenu mara, rudraksha, rudrakshi Malayalam (3) - rudraksham, uttharasham, utturasham Tamil (9) - rudrasam, tenbachai, tenkay, tenpaccai, tenpuccimaram, thenmaram, tubakki, uruttiratcam, urutttirtcamaram Telugu (6) - ootrick, rudraaksha, rudraksha, rudrkshapu, thene-chettu, udrikpatta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/865e5405c88606a6fe54c1e481e43f6f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/865e5405c88606a6fe54c1e481e43f6f/xclkon/5658aa62b64be2682b8a5f81bba38fe6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/865e5405c88606a6fe54c1e481e43f6f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/865e5405c88606a6fe54c1e481e43f6f/xclkon/5658aa62b64be2682b8a5f81bba38fe6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/865e5405c88606a6fe54c1e481e43f6f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

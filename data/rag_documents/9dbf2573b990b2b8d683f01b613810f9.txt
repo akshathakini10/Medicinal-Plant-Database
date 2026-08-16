@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9dbf2573b990b2b8d683f01b613810f9
+Botanical Name: Mahonia nepaulensis DC.
+Family: Berberidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Berberis nepalensis SPRENG.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. Hindi (2) - kasmal, kemal Kannada (1) - tarike Malayalam (2) - maranthu, marantu Tamil (3) - mullukkala, mullukkatampai, mullumurunkai 2
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dbf2573b990b2b8d683f01b613810f9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dbf2573b990b2b8d683f01b613810f9/xclkon/cb744c5649f12699f7d1435c146c6d81
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dbf2573b990b2b8d683f01b613810f9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dbf2573b990b2b8d683f01b613810f9/xclkon/cb744c5649f12699f7d1435c146c6d81
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dbf2573b990b2b8d683f01b613810f9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

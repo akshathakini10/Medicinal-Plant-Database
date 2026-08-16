@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4c0cabae31f92999e5d9d69bb5a25068
+Botanical Name: Quercus ilex L.
+Family: Fagaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. English (3) - holly oak, holm oak, ilex Hindi (1) - breh Sanskrit (1) - Sanskrit Comments  mayaphala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0cabae31f92999e5d9d69bb5a25068
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0cabae31f92999e5d9d69bb5a25068
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c0cabae31f92999e5d9d69bb5a25068
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Mayaphala
+sanskrit_name: मायाफल
+transliteration: māyāphala
+ref_drug_name: मायाफल प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Mayaphala - prajati
+sanskrit_name: मायाफल प्रजाति
+transliteration: māyāphala prajāti
+ref_drug_name: मायाफल प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Mayaphala
+sanskrit_name: मायाफल
+transliteration: māyāphala
+image_urls: https://www.medicinalplants.in/slokaimages/1373/1373_1.jpg https://www.medicinalplants.in/slokaimages/1373/1373_2.jpg https://www.medicinalplants.in/slokaimages/1373/1373_3.jpg
+ocr_text: मायाफलं वातहरं कटूष्णकम् | शैतिल्यसंकोचककेशकार्ष्ण्यदम्I| (Rjn) Mayaphala is katu in rasa, usna in veerya, alleviates vata is shaithilya, sankocaka and kesakarsnyada. मायुकं बद्धविट्कं च शीतं च शिशुभेषजम्|| (शोढलः ) Mayuka is sita in veerya, baddhavitka and sisu bhesaja. शीतलं रूक्षं कषायं लघुदीपनम्| विपाके कटुकं ग्राहि कफपित्तहरं परम्I| (शोढलनिघण्टु) Mayuka is kashaya in rasa, ruksa, laghu in guna, sita in veerya katu in paka dipana, grahi and best in alleviating kapha and pitta. मायुकं
+
+Shloka Record 2
+drug_name: Mayaphala - prajati
+sanskrit_name: मायाफल प्रजाति
+transliteration: māyāphala prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/1373/1373_1.jpg https://www.medicinalplants.in/slokaimages/1373/1373_2.jpg https://www.medicinalplants.in/slokaimages/1373/1373_3.jpg
+ocr_text: मायाफलं वातहरं कटूष्णकम् | शैतिल्यसंकोचककेशकार्ष्ण्यदम्I| (Rjn) Mayaphala is katu in rasa, usna in veerya, alleviates vata is shaithilya, sankocaka and kesakarsnyada. मायुकं बद्धविट्कं च शीतं च शिशुभेषजम्|| (शोढलः ) Mayuka is sita in veerya, baddhavitka and sisu bhesaja. शीतलं रूक्षं कषायं लघुदीपनम्| विपाके कटुकं ग्राहि कफपित्तहरं परम्I| (शोढलनिघण्टु) Mayuka is kashaya in rasa, ruksa, laghu in guna, sita in veerya katu in paka dipana, grahi and best in alleviating kapha and pitta. मायुकं

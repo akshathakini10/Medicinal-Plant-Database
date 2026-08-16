@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2f42783f900654860eeaaf874ba4b205
+Botanical Name: Holostemma ada-kodien SCHULT.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Holostemma annulare (ROB.) K.SCHUM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 73 Vernacular names found in 7 languages. Hindi (6) - charivel, chhirvel, chirvel, kanju, rajain pardesi, ranimaoi Kannada (9) - arane beelu, gearu, jeeva haale, jeeva haale balli, jeevanthi, maruligana kasa, muraligana kasa, murree jeevanige, palakeere soppu Malayalam (7) - ada-kodien, adakodien, atakkoti, atakodiyan, atakotiyan, atapatiyan, atapotiyan Marathi (11) - dudoli, dudurli, gaganthjuti, haranadodi, karab-phul, palkhevel, shidodi, shiradowdi, shirdooli, sidodi, tulatule Sanskrit (21) - Sanskrit Comments  arkapushpi, arkapuspi, duradharsha, jalakamuka, jaleruha, jivanthi, jivanti, krurakarma, kshiradodi, kshirini, ksirini, kutumbini, payasya, praharakutavi, shita, shitala, shitaparni, sirintika, sitaparni, suryavalli, vakrashalya Tamil (3) - palai-k-kirai, palaikkirai, palay Telugu (16) - bandi guruvindateega, bandiguruvinda theega, dudipaalathige, dudipala tige, dudipalatige, istarakura, paalagurgi, paalagurugu, paalajilledu, pala-gurji, pala-gurugu, palagurugu, palakura, pallagorgi, pallagurgi, peyyi baddu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/2b68c57dcb3302798b350e3802f57152
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1143
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1143.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/5cd8f2df6a0511b125d894f68cdd3ea7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/48420e9ab7301696a2d8d6296d9769df
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/2b68c57dcb3302798b350e3802f57152
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/5cd8f2df6a0511b125d894f68cdd3ea7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/48420e9ab7301696a2d8d6296d9769df
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f42783f900654860eeaaf874ba4b205/xclkon/2b68c57dcb3302798b350e3802f57152
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

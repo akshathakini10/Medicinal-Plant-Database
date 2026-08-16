@@ -1,0 +1,100 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d033dab259cf3199674520640011fbcc
+Botanical Name: Elephantopus scaber L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 76 Vernacular names found in 7 languages. Hindi (2) - adhomukha, gobhi Kannada (14) - aane gida, aane kaalu gida, aanekaalu gida, aetthina naalige gida, gojihwa, hakkarike, hastipaada, naayi naalige gida, naayi nalige gida, nelaganagalu, nelamucchala, nelamucchilu, yetthina naalige gida, yulu naalige Malayalam (3) - ana-schovadi, anaccuvati, anayatiyan Marathi (5) - gayjib, gojeebh, hasthipaad, hatipay, pathari Sanskrit (24) - Sanskrit Comments  adhomukha, anadujivha, bahuputra, barhisikha, darvi, darvika, darvipatrika, gobhi, gojee, goji, gojihba, gojihiva, gojihva, gojihwa, gojivha, gojivhika, hastipadi, hdhapushpi, kharaparni, kharapatri, kurasa, mayurasikha, satamulika, vatona Tamil (22) - ana-shovadi, anaicceviyati, anaiccivatai, anaiccuvatu, anaichovadi, anaikkalmuli, anaikkatilai, anaiyati, anaiyatippaccilai, anashavadi, anashovadi, anasvati, anattuccivan, attikkarcuvati, attikkarcuvatu, attiniccuvati, yanai-c-cuvati, yanaiccuvati, yanaikkalippuntu, yanaikkalmuli, yanaikkarcuvati, yanaikkarputu Telugu (6) - eddumalikechettu, eddunaalikechettu, enugabira, hasthikasaka, hastikasaka, hustikasaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d033dab259cf3199674520640011fbcc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 882
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/882.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d033dab259cf3199674520640011fbcc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d033dab259cf3199674520640011fbcc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d033dab259cf3199674520640011fbcc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Barhisikha
+sanskrit_name: बर्हिशिखा
+transliteration: barhiśikhā
+ref_drug_name: बर्हिशिखा
+status: Accepted source
+discussion: Its identity is still in dispute and its correlated to other sp. But this species has more weightage as its features and uses gel well along with it
+reference: [1]
+
+Identity Record 2
+drug_name: Gojihva
+sanskrit_name: गोजिह्वा
+transliteration: gojihvā
+ref_drug_name: गोजिह्वा
+status: Controversial
+discussion: In Gujarat there is a plant known as Galajibhi or Gojobhi which exactly corresponds with Gojihva; This is correlated to Elephantopus scaber; With regard to Gojihva having hirsute rough leaves this species has smooth leaves so cannot be totally considered
+reference: [2]
+
+Identity Record 3
+drug_name: Mayurasikha
+sanskrit_name: मयूरशिखा
+transliteration: mayūraśikhā
+ref_drug_name: मयूरशिखा
+status: Controversial
+discussion: With regard to the local names given to this species it was considered as Mayursikha by Balwant Singh; This needs further studies
+reference: [2]
+
+Identity Record 4
+drug_name: Mayurasikha
+sanskrit_name: मयूरशिखा
+transliteration: mayūraśikhā
+ref_drug_name: मयूरशिखा
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Mayurasikha
+sanskrit_name: मयूरशिखा
+transliteration: mayūraśikhā
+ref_drug_name: मयूरशिखा
+status: Controversial
+discussion: With regard to its morphology four species are widely known as 'Mayurasikha'; According to Thakur Balwant Singh this species is correlated to 'Mayurasikha' but it is considered to be 'Gojihva' hence needs to be analysed
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Gojihva
+sanskrit_name: गोजिह्वा
+transliteration: gojihvā
+image_urls: https://www.medicinalplants.in/slokaimages/661/661_1.jpg https://www.medicinalplants.in/slokaimages/661/661_2.jpg https://www.medicinalplants.in/slokaimages/661/661_3.jpg
+ocr_text: गोजिह्वा वातला शीता ग्राहिणी कफपित्तनुत्| बल्या प्रमेहकासास्रव्रणज्वरहरी लघुः|| कोमला तुवरा तिक्ता स्वादुपाकरसास्मृता T (Bpn) Gojihva is laghu in guna, sita in veerya, grahini, balya, vatala, kapha pitta hara, cures prameha, kasa, asra vikara, vrana and jvara Komala is tuvara, tikta in rasa, svadu in paka and rasa गोजिह्वा कटुका तिक्ता शीतला पित्तनाशिनी | व्रणसंरोपणी चैव सर्वदन्तविषर्तिजित््|| (Rjn) Gojihva is katuka, tikta in rasa, sitala in veerya, pitta nasini, vrana samropani, cures sarva danta roga and visa roga कषाया तु हिता पित्ते स्वादुपाकरसा हिमा [ लघ्वी मण्डूकपर्णी तु तद्वत् गोजिह्वका मतात (सुश्रुत सू ४६ २६४) It is kashaya in rasa, laghu in guna, hima in veerya, svadu in paka ana rasa, effective in pitta ana is similar to mandukaparni.
+
+Shloka Record 2
+drug_name: Mayurasikha
+sanskrit_name: मयूरशिखा
+transliteration: mayūraśikhā
+image_urls: https://www.medicinalplants.in/slokaimages/44/44_1.jpg https://www.medicinalplants.in/slokaimages/44/44_2.jpg
+ocr_text: नालकण्ठशिखा लघ्वी पित्तश्लेष्माति सारजित् ( IBpn) Nalakantha sikha is Laghu, Pitta slesma atisara hara. बर्हिचूडा रसे स्वादु मूत्रकृच्छ्रनाशिनी | बालग्रहादि दोषघ्नी वश्यकर्मणि शस्यते IRjn) Barhicuda is Svadu in Rasa , Mutrakrcchra nasini, Bala grahadi dosaghna, Vasya karmani sasyate

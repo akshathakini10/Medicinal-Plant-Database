@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2409dbf9eac57b9da40d96e8983326f9
+Botanical Name: Oligochaeta ramosa (ROB.) WAGEN.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Amberboa divaricata KUNTZE Amberboa ramosa (ROB.) JAFRI
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Hindi (3) - badavard, oonth-kantela, unt kantalo Marathi (1) - sakayi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2409dbf9eac57b9da40d96e8983326f9/xclkon/eff11a6182951068ea438ce71af6c39f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2409dbf9eac57b9da40d96e8983326f9/xclkon/7f0a99f603784a4da84d943105a3cc90
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2409dbf9eac57b9da40d96e8983326f9/xclkon/d890b550e539cc627f9263046c325710
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2409dbf9eac57b9da40d96e8983326f9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2409dbf9eac57b9da40d96e8983326f9/xclkon/eff11a6182951068ea438ce71af6c39f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

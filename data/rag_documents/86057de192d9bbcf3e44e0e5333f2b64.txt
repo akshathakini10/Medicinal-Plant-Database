@@ -1,0 +1,76 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 86057de192d9bbcf3e44e0e5333f2b64
+Botanical Name: Terminalia alata HEYNE E ROTH.
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Terminalia tomentosa (ROB.) WIGHT. & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 217 Vernacular names found in 9 languages. English (2) - asna, indian laurel Hindi (19) - ain, aisan, aisan sain, alsan, alson, asain, asaina, asan, asin, asna, assain, hadad, kauha, sadad, sadri, sain, saj, soj, yen Kannada (41) - aini, banappu, banapu, banavu, banipu, banpu, banupu, bhudri, bonepoe, egin, haini, hebbulive, hebbulure, hebbuluve, hebhuluve, karee matthi, kareematthi, karimaddi, karimadi, karimaruthu, karimathi, karimatthi, karimatti, kempu matthi, kudure kivigena, kudurekivigana, kudurekivigem, marthu, mathi, matthi mara, matthimara, matti, mattimara, mutty, sadada, sadra, shadlero, soheno, sohonne, torematto-madi, unapu mara Malayalam (17) - karamarada, karamardu, kari, karimardu, karimaridu, karimarutu, karrimarada, karumarudu, koremaruthu, maradu, mardu, marutu, mutty, tempavu, thambaon, thembavu, thenpavu Marathi (10) - ain, madat, madath, sadada, sadri, sadura, sah, saj, sajo, yen Sanskrit (16) - Sanskrit Comments  arjuna, asana, asanabijaka, dharaphala, jaranadruma, jivaka, kakubhah, krishnatvaka, nissaraphalaka, parthah, sajada, sanjivaka, saradru, shyamasaraka, vanajavriksha, viravrikshaka Tamil (89) - acakarnam, alakappiriyam, anaimikkuvam, anemin, aruchanam, atikayacitti, atikayacittimaram, cakattiranamakarani, camparam 2, canam, catakam, cattaikalarri, cattaikalarrimaram, ceyal, cilettumanacam, cilettumapacam, cutalaiyurti, cutalaiyurtimaram, intirataru, intiraturumam, irali 1, iratti 3, irulmarutu, kagubam, kakapari, kakaparimaram, kakupam, kalaimarutu, kalimarudu, kalimarutu, kalimati, kalimatti, kamalukam, kamalukararam, kankai, karamarudam, karappumarutamaram, karimardu, karimarudu, karimarutu, karimattai, karramarda, karu marutam, karumarudam, karumarudu, karumarutam, karumarutu, karuppakku, karuppo-mara, karuppu-maruta-maram, karuppu-marutamaram, karuppumarudu, karuppumarutam, karuppumarutu, kattumarutamaram, kattumarutu, kolimarutai, kuttappantunacani, maradum-puttay, marudam, marudu, marutam 1, marutamaram, marutu, matthi, mikkuvam, nakavetam, nalmarutu, netutti, pacikam, pacikati, pacikatimaram, parttavirutcam, pattam, pattirika, pattirikamaram, pudavam, pulatti, pulattimaram, puletti, putavacanti, putavakantimaram, putavam 1, puvatti 1, tantakastam, tuttattaicavalamakki, ututakitamaram, virutti, viruttimaram Telugu (22) - dellamadoo, ennamathe, enumaddi, enumadi, inamaddi, inna maddi, innamaddy, innumaddi, inumaddi, maddee, maddi, maddie, nalla maddi, nallamaddee, nallamaddi, nallamadu, nallamuddie, nelamadu, nellamadoo, nellamadu, nullamaddi, yernamaddi Tibetan (1) - spyi (b) zur
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2066
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2066.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86057de192d9bbcf3e44e0e5333f2b64/xclkon/5cf3224103a3f496a17796df9c4cee99
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jaranadruma
+sanskrit_name: जरणद्रुम
+transliteration: jaraṇadruma
+ref_drug_name: जरणद्रुम
+status: Accepted source
+discussion: It has been mentioned in Raja nighantu; With regard to its synonym 'Koushik' meaning its leaves are used to rear silkworms, goes well along with this species; According to the author it is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Sala - bheda
+sanskrit_name: शाल भेद
+transliteration: śāla bheda
+ref_drug_name: शाल भेद
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Arjuna
+sanskrit_name: अर्जुन
+transliteration: arjuna
+image_urls: https://www.medicinalplants.in/slokaimages/1605/1605_1.jpg https://www.medicinalplants.in/slokaimages/1605/1605_2.jpg https://www.medicinalplants.in/slokaimages/1605/1605_3.jpg
+ocr_text: अर्जुनस्तु कषायोष्णः कफघ्नो व्रणशोधनः पित्तश्रमतृषार्त्तिघ्नो मारुतामयकोपनः II (Rjn) It is kashaya in rasa usna In veerya, vrana sodhana alleviates Kapna, Cure5 pitta, srama, trsa and is maruta amaya kopana artl, ककुभः शीतलो हृद्यः क्षतक्षयविषास्रजित् मेदोमेहव्रणान् हन्ति तुवरः कफपित्तहृत् Il (Bpn) Kakubha is tuvara in rasa, sitala in veerya, hraya, alleviates ksata Ksaya, visa asra, meda meha vrana, kapha and pitta पार्थः पथ्यः क्षते भग्ने रक्तस्तम्भनकृच्छ्रयोः (Rajavallaba) Partha is pathya in ksata, bhagna, krcchra and rakta stambhana

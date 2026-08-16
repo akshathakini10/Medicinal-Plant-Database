@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: da5bde4598f3497d698f099ec563ced5
+Botanical Name: Cyamopsis tetragonoloba (L.) TAUB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cyamopsis psoralioides (LAM). DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 67 Vernacular names found in 9 languages. English (4) - cluster bean, guar, guvar, gwar Hindi (7) - ganwar, gawar, govar, gowar, guar, guwar, gwar Kannada (8) - chavli-kai, chavuli kaayi, gavaara kaayi, gori kaayi, gorikaayi, govardhana kaayi, guvarkai, javali kaayi Malayalam (2) - kottamara, kottavara Marathi (9) - bavachi, chitki, gavaara, gawar, govaai, gowar, guar, midki, tidki Sanskrit (11) - Sanskrit Comments  bakuchi, dridhabija, gaur, goraksaphalini, gorakshaphalini, gorani, guvaka, ksudrasimbi, nishandyaghni, sushaka, vakrashimbi Tamil (21) - attittekki, attittekkicceti, cetiyavarai, cinikkottavarai, ciniyavarai, cirucevikacceti, cirukottavarai, cukkumi, cukkumiyavarai, kalacakacceti, kalacakam, kancanamalitacceti, kancanamalitam, kavalikacceti, kavalikam, kothavarai, kothaveray, kottavarai, nalakuka, nalakukavavarai, nilakikkottavarai Telugu (3) - gorchikkudu, goru chikkudu, goruchikkudu Urdu (2) - hab qilqil, hab-ul-qilqil
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/3a5100714af174f7781c9f40f6babce8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/0a43f673bbd5e8d5a0105e5645ea019e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/793a77d9e17e014ee4155120ba17459b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/3a5100714af174f7781c9f40f6babce8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/0a43f673bbd5e8d5a0105e5645ea019e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/793a77d9e17e014ee4155120ba17459b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/3a5100714af174f7781c9f40f6babce8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/0a43f673bbd5e8d5a0105e5645ea019e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/793a77d9e17e014ee4155120ba17459b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/3a5100714af174f7781c9f40f6babce8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/0a43f673bbd5e8d5a0105e5645ea019e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/793a77d9e17e014ee4155120ba17459b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da5bde4598f3497d698f099ec563ced5/xclkon/3a5100714af174f7781c9f40f6babce8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

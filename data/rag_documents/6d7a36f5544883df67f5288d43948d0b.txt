@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6d7a36f5544883df67f5288d43948d0b
+Botanical Name: Carissa carandas L.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Capparis corundas -
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 186 Vernacular names found in 8 languages. English (2) - christ s thorn, karanda Hindi (16) - garinga, gotho, kantakregi, karando, karaunda, karaunta, karonda, karondi, karonti, karrona, karumcha, karunda, karwando, korada, timukha, timukhia Kannada (44) - dodda kalaa, dodda kavali, doddakavale, doddakavali, garacha, garaja, garchinakai, garji, harikalivi, heggarichige, heggaricige, heggarjige, hirikalavi, hirikavali, kalaagida, kalavige, kalivi, kalla, kamarika, kamrdepuli, karanda, karande, karande pli, karavadi, karekai, karekayi, kareki, karevati, kari, karice, kariche, karichi, karichina kaayi, karichinakayi, karicinakayi, karinda, karndepuli, kauligida, kavale, kavali, kavali gida, kawliballi, korinda, malekalaavu Malayalam (9) - kalavu, karakka, karanta, karekai, keelay, kilai, klavu, kulay, perumklavu Marathi (10) - boranda, boronda, haradundi, karanda, karandi, karaunda, karavanad, karavanda, karavandi, karwand-karanja Sanskrit (34) - Sanskrit Comments  avighna, avighnah, avinga, bahudala, bolekarambuka, dimdima, dridhakantaka, guchhi, jalipushpa, kanachuka, kantaki, karamarda, karamardaka, karamla, karamlaka, karinkara, karmoha, krishna-pakphula, krishna-phala, krishnapakaphala, krishnaphala, krisnapakaphala, kshiraphala, kshiri, ksiraphala, pakakrishna, pakaphala, panimarda, phalakrishna, supushpa, susena, vanalaya, vanekshudra, vasha Tamil (37) - aintarikam, aintarikamaram, alarukam, alarukamaram, cenkala, cirapalam, cirukala, kala, kalaaha, kalaka, kalakka, kalakkay, kalar, kalarva 2, karavintai, kila, kilakkai, kilakki, kilamaram, kilatti, kilay, kirusnapakapalam, kirusnapalai, kiruttinapakapalam, perinkalakphalam, periyakala, perukala, perumkla, perungala, perungila-maram, perungkala, perunikila, perunkala, perunkala ver, perunkila, yokatumacceti, yokatumam Telugu (34) - kalay, kali, kali-kai, kalikai, kaliva, kalive, kalivi, kalli, kallia, kalumi, kaluva, kavila, oka, okalive, pedda kalive, peddakalavi, peddakalive, peddakalivi, peddakalivipandu, peddavaaka kaaya, peddavaka, peddavakakaya, vaaka chettu, vaaklive, vaka, vakalive, vakalivi, vakalvi, vakudu, waaka, waka, wakay, wyaka, yaakudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 447
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/447.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b/xclkon/b48714422d4f2c08fc5cdf1fb8333a2a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b/xclkon/b48714422d4f2c08fc5cdf1fb8333a2a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b/xclkon/b48714422d4f2c08fc5cdf1fb8333a2a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d7a36f5544883df67f5288d43948d0b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karamarda
+sanskrit_name: करमर्द
+transliteration: karamarda
+ref_drug_name: करमर्द
+status: Accepted source
+discussion: identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

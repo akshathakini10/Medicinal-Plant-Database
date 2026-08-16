@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a56e24ee2f283f21e49514d0f4e59a21
+Botanical Name: Salvadora indica ROYLE
+Family: Salvadoraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 1 languages. Tamil (6) - karkol-maram, katampakam2, lempukam 2, nilakkatampu1, niyam, peru-kalarva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a56e24ee2f283f21e49514d0f4e59a21
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a56e24ee2f283f21e49514d0f4e59a21
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a56e24ee2f283f21e49514d0f4e59a21
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

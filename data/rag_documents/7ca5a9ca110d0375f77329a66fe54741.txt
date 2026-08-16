@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7ca5a9ca110d0375f77329a66fe54741
+Botanical Name: Daucus carota L.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Daucus carota L. var. sativa DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 99 Vernacular names found in 9 languages. English (6) - bee s nest, bird s nest, carrot, devil s plague, queen annes lace, wild carrot Hindi (5) - gagar, gajar, gajar-ke-binj, gajra, gazar Kannada (10) - gaajara gedde, gaajina gedde, gajara gedde, gajjari, gajjari gedde, garjari, kempu kyaarattu, kempu moolangi, kyaret, manjal mulangi Malayalam (2) - karattu, mannamullanki Marathi (4) - gaajar, gajar, gajara, gazara Sanskrit (31) - Sanskrit Comments  dindiramodaka, gajara, gajida, garijara, garjara, garjarah, garjaram, granthimula, grinjana, grnjana, grnjanakah, grunjana, grunjanakam, kanda, na, naranga, narangavaraneshta, narangavarnakah, pindamula, pindika, pitakanda, pitamulaka, shekhamulama, shikha-mulam, shikhakanda, shikhamulam, shikhimula, sumulaka, supita, svadumula, varttula Tamil (18) - carrot kalung, gajjara-kilangu, gajjarakkilamgu, gajjarakkilangu, kaccarakkilanku, karattu, karattukkilanku#, karattukkilanku@, karottukkilanku, kartkilanku, karttukkilangu, kattu-kizhangu, kattu-kizhangu virai, mancal mullanki, mancalmullanki, manjal-mullangi, manjalmullangi, narankam 3 Telugu (13) - gajjara-gedda, gajjaragadda, gajjaragedda, pach-cha-mullangi, pachchamullangi, pachhamoollangi, peethakanda, pita-kanda, pita-kande, pitakanda, shikha-mulamu, shikhamoolamu, shikhamulamu Urdu (10) - daqu, doqu, gajar, gajar kaddu kash ki hui, gajar ke beej, gajor, gazar (gajar), tukhm gazar, tukhm-i-gajar, wild carrot
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741/xclkon/f56b3cdb07baa0a620ab150f4e304cce
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7ca5a9ca110d0375f77329a66fe54741
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Grnjanaka
+sanskrit_name: गृञ्जनक
+transliteration: gṛñjanaka
+ref_drug_name: गृञ्जनक
+status: Accepted source
+discussion: Garjara is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

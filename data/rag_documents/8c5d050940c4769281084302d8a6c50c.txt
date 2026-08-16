@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8c5d050940c4769281084302d8a6c50c
+Botanical Name: Chamaemelum nobile (L.) ALL
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Anthemis nobilis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 3 languages. English (7) - chamomile, chamomile tea, chamomiles, common chamomile, english chamomile, roman chamomile, true chamomile Marathi (1) - babuna Tamil (10) - ai1, camanti1, cankacuttam, chamaindoo poo, cimai camandi, cimai camanti, cimai camantip pu, cimaiccamanti, kuranku1, utacamanti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c5d050940c4769281084302d8a6c50c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c5d050940c4769281084302d8a6c50c/xclkon/bb5114033c6ae11f6d0183ca4a3ddc39
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c5d050940c4769281084302d8a6c50c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c5d050940c4769281084302d8a6c50c/xclkon/bb5114033c6ae11f6d0183ca4a3ddc39
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c5d050940c4769281084302d8a6c50c
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c5d050940c4769281084302d8a6c50c/xclkon/bb5114033c6ae11f6d0183ca4a3ddc39
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c5d050940c4769281084302d8a6c50c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c5d050940c4769281084302d8a6c50c/xclkon/bb5114033c6ae11f6d0183ca4a3ddc39
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8c5d050940c4769281084302d8a6c50c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,125 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 433d10cb897d470b0e460215a7c8f2cb
+Botanical Name: Pedalium murex L.
+Family: Pedaliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 133 Vernacular names found in 7 languages. Hindi (15) - bada gokhru, bara gokhru, bara-gokhru, bara-gokhrue, baragokhru, fareed-buti, faribduti, farid-buti, faridbuti, gokhru, gokhru kanti, kadvagokhru, kanti, pila-gokhru, vilayati-gokhru Kannada (13) - aane neggilu, aane nerigilu, anenegaligida, aneneggilu, anenegilu, anianeggula, anne-galu-gida, annegalugida, dodda neeranji, dodda neggilu, doddaneggili, doddaneggilu, gonkara mullu Malayalam (12) - ana-nerinnil, ananerinnil, caca-mullu, kakka-mullu, kakkamullu, kathenerinmil, kattu-nerinjal, kattu-nerinnil, kattunerinjil, kattunerinnil, katunerinjal, nerinnil Marathi (13) - bhar-gokharu, gokhura, hatticharatte, karanothia, karonathia, karonta, motegokharu, mothe-gokharu, mothe-gokhru, mothegokharu, moto, selusaran, ubha-gokhru Sanskrit (14) - Sanskrit Comments  brhat-goksura, brhatgoksura, brhatgoksuram, brihatgokshura, gajadaunstree, ghejasoodumoostra, gokshura, gokshuru, goksurah, srngatika, sthulagoksurah, tiktagoksurah, tittagokshura, trikantakah Tamil (55) - anai neruncil, anai nerunji, anai-nerinji, anai-nerunji, anaikkalvananki, anaineruni2, anainerunji, anaivanakki2, ananeringie, ananeringlie, attavattinerunci, cataimullika, cataimullikacceti, cataimullipputu, irakavi, kakkaymul, kolvattuvikki, kutavukari, kutavukarikkoti, matikam, matikaneruncil, natavattakkoti, natavattam, nerunchil, parpati, parppati, peru-nerunji, perunerunci, peruneruncirceti, perunerunji, pilliyatti, pippali 2, pippilineruncil, pippiliyatti, tarakantikai, tenkattai, tirikatakacceti, tirikatakam2, tirikatam2, tottaputu, vanacirunkatam, vayirakanikkoti, vayirakarani, vettatiramuli, viramattali, virucalapakkoti, virucalapam, vitattakikacceti, yanai nerunci, yanai nerungil, yanaikkal, yanainerinci, yanaineruncil, yanainerunji, yanaivananki 3 Telugu (11) - enuga-palleru-mullu, enugapallaeru, enugapalleru, enugapalleru mullu, enugapallerumullu, pedda palleru, pedda-palleru, peddapaleru, peddapallaeru, yenugapalleru, yenugu-palleru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1607
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1607.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/433d10cb897d470b0e460215a7c8f2cb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Goksura
+sanskrit_name: गोक्षुर
+transliteration: gokṣura
+ref_drug_name: गोक्षुर
+status: Most probable
+discussion: This species is used as this plant has features similar to it
+reference: [1]
+
+Identity Record 2
+drug_name: Goksura - brhat
+sanskrit_name: गोक्षुर बॄहत्
+transliteration: gokṣura bṝhat
+ref_drug_name: गोक्षुरु बॄहत्
+status: Accepted source
+discussion: Big variety of Goksura is correlated to this species
+reference: [2]
+
+Identity Record 3
+drug_name: Goksura - brhat
+sanskrit_name: गोक्षुर बॄहत्
+transliteration: gokṣura bṝhat
+ref_drug_name: गोक्षुर बॄहत्
+status: Accepted source
+discussion: It is the bigger variety of Goksura which is correlated to this species
+reference: [3]
+
+Identity Record 4
+drug_name: Goksuru
+sanskrit_name: गोक्षुरु
+transliteration: gokṣuru
+ref_drug_name: गोक्षुर
+status: Most probable
+discussion: This species is used as this plant has features similar to it
+reference: [1]
+
+Identity Record 5
+drug_name: Goksuru - brhat
+sanskrit_name: गोक्षुरु बॄहत्
+transliteration: gokṣuru bṝhat
+ref_drug_name: गोक्षुरु बॄहत्
+status: Accepted source
+discussion: Big variety of Goksura is correlated to this species
+reference: [2]
+
+Identity Record 6
+drug_name: Goksuru - brhat
+sanskrit_name: गोक्षुरु बॄहत्
+transliteration: gokṣuru bṝhat
+ref_drug_name: गोक्षुर बॄहत्
+status: Accepted source
+discussion: It is the bigger variety of Goksura which is correlated to this species
+reference: [3]
+
+Identity Record 7
+drug_name: Goksuru - laghu
+sanskrit_name: गोक्षुरु लघु
+transliteration: gokṣuru laghu
+ref_drug_name: गोक्षुर
+status: Most probable
+discussion: This species is used as this plant has features similar to it
+reference: [1]
+
+Identity Record 8
+drug_name: Srngataka
+sanskrit_name: श्रृङ्गाटक
+transliteration: śrṛṅgāṭaka
+ref_drug_name: श्रृङ्गाटिक
+status: Accepted source
+discussion: With regard to its morphology and properties it is identified with this species
+reference: [5]
+
+Identity Record 9
+drug_name: Srngatika
+sanskrit_name: श्रृङ्गाटिक
+transliteration: śrṛṅgāṭika
+ref_drug_name: श्रृङ्गाटिक
+status: Accepted source
+discussion: With regard to its morphology and properties it is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

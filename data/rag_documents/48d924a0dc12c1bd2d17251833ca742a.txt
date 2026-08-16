@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 48d924a0dc12c1bd2d17251833ca742a
+Botanical Name: Polygonum nepalense MEISSN
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Polygonum alatum HAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Hindi (1) - malora Tamil (1) - kangany-machan-pillu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d924a0dc12c1bd2d17251833ca742a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d924a0dc12c1bd2d17251833ca742a/xclkon/bd340f53d0f06619da7938c6e5785917
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48d924a0dc12c1bd2d17251833ca742a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

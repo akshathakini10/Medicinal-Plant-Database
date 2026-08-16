@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a470cffda6c2c7d5c3c6bf6eedaf51a7
+Botanical Name: Desmodium laxiflorum DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 6 languages. Kannada (2) - otte, otte gida Malayalam (1) - orila Marathi (1) - jangli-ganja Sanskrit (1) - Sanskrit Comments  prsniparni Tamil (1) - atotti Telugu (3) - antintalu, antunthalu, cheppa thatla
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a470cffda6c2c7d5c3c6bf6eedaf51a7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a470cffda6c2c7d5c3c6bf6eedaf51a7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a470cffda6c2c7d5c3c6bf6eedaf51a7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

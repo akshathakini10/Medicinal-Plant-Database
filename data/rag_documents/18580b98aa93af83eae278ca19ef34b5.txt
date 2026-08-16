@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 18580b98aa93af83eae278ca19ef34b5
+Botanical Name: Nicotiana rustica L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 4 languages. English (2) - aztec tobacco, wild tobacco Hindi (1) - tambakhu Kannada (1) - naati hogesoppu Urdu (1) - tambaku sarti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/18580b98aa93af83eae278ca19ef34b5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/18580b98aa93af83eae278ca19ef34b5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/18580b98aa93af83eae278ca19ef34b5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tamraparna
+sanskrit_name: ताम्रपर्ण
+transliteration: tāmraparṇa
+ref_drug_name: ताम्रपर्ण जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Tamraparna - jati
+sanskrit_name: ताम्रपर्ण जाति
+transliteration: tāmraparṇa jāti
+ref_drug_name: ताम्रपर्ण जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

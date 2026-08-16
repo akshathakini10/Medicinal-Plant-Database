@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: db9f2a08b5f19a0aa4a5a302f37e553d
+Botanical Name: Sonneratia apetala BUCH.-HAM.
+Family: Sonneratiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. Marathi (2) - kandal, undi Tamil (1) - marama Telugu (4) - kalinga, kalingy, kyalanki, kylanki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db9f2a08b5f19a0aa4a5a302f37e553d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db9f2a08b5f19a0aa4a5a302f37e553d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 709c0f176b4cf579f0e6ce6afc3a0714
+Botanical Name: Coffea arabica L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 55 Vernacular names found in 8 languages. English (3) - arabian coffee, arabica coffee, coffee Hindi (4) - bun, caphi, kafi, pilu Kannada (12) - bannu gida, bonda, bonda-bija, bundu, bunnu, bunu, coffee gida, kaaphi, kaphi, kapi, kapi-bija, kappi Malayalam (6) - bannu, bunnu, kapi, kappi, kappi-karu, kuppu Marathi (3) - bund, kaaphe, kaphe Sanskrit (3) - Sanskrit Comments  kaphi, mlechca-phala, rajapiluh Tamil (18) - capie cottay, cilapakakkottai, cilapakam, kapi, kapi-kottai, kapikottai, kappi, kappikkottai, kappikkottaicceti, kopi 2, koppi, koppicceti, patakari, patakarikkottai, ticaipari, ticaiparikkottai, tumpavakakkottai, tumpavakam Telugu (6) - kaapivittulu, kafi, kapi, kapi-vittulu, kapivittulu, kappi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/709c0f176b4cf579f0e6ce6afc3a0714
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/709c0f176b4cf579f0e6ce6afc3a0714
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/709c0f176b4cf579f0e6ce6afc3a0714
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/709c0f176b4cf579f0e6ce6afc3a0714
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/709c0f176b4cf579f0e6ce6afc3a0714
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/709c0f176b4cf579f0e6ce6afc3a0714
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kaphi
+sanskrit_name: कपि
+transliteration: kapi
+ref_drug_name: कपि
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

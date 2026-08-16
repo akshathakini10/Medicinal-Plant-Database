@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 11906f10a5e39aa8e0128d4f9e7a93ac
+Botanical Name: Brassica napus L. var. dichotoma (ROB.) PRAIN
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Brassica campestris L. var. rapa L. Synapis dichotoma ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. English (2) - colza, oilseed rape Sanskrit (4) - Sanskrit Comments  asuri, kala-sarshapa, rakta-sarshapa, sarshapa Urdu (1) - tukhm-i-shalgham
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11906f10a5e39aa8e0128d4f9e7a93ac/xclkon/6a31165d461972c0de7795b5e05a8457
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11906f10a5e39aa8e0128d4f9e7a93ac/xclkon/d8abd760bef061b32b3ca9967c192d3f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11906f10a5e39aa8e0128d4f9e7a93ac
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11906f10a5e39aa8e0128d4f9e7a93ac/xclkon/6a31165d461972c0de7795b5e05a8457
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11906f10a5e39aa8e0128d4f9e7a93ac/xclkon/d8abd760bef061b32b3ca9967c192d3f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11906f10a5e39aa8e0128d4f9e7a93ac
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11906f10a5e39aa8e0128d4f9e7a93ac/xclkon/6a31165d461972c0de7795b5e05a8457
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

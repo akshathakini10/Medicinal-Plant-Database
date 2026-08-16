@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8d993ae0288e4bca67c57449457510ef
+Botanical Name: Cucumis melo L.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 49 Vernacular names found in 8 languages. English (2) - cantaloupe, rock melon Hindi (7) - kachri, kakkri, kakri, khadbiyo, kharbiyo, kharbuja, tar-kakkri Kannada (2) - budimekaayi, hallmekke balli Malayalam (1) - kakkarikka Marathi (3) - chibdin, kakadi, valuka Sanskrit (24) - Sanskrit Comments  bahukanda, brihatphala, chhardapanika, chirbhati, ervaru, ervaruh, gajacirbhata, hastidantaphala, hastiparni, irvaru, karkataksha, karkati, lomashakanda, lomashi, mutrala, mutraphala, pinasa, shantanu, sthula, toyaphala, trapushpa, urvaru, valungi, vyalapatra Tamil (4) - kakkarikay, kakkarikkay, mulam palam, vellarikkay Urdu (6) - maghz tukh kharbuza, maghz tukhm kharbuza, maghz-i-tukhm-i-kharbuza, tukhm kharbaza, tukhm kharbuza, tukhm kharbuza nim kofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d993ae0288e4bca67c57449457510ef
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d993ae0288e4bca67c57449457510ef
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d993ae0288e4bca67c57449457510ef
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

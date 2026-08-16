@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fd5b25419bb4598994c89112b10727ad
+Botanical Name: Cydonia oblonga MILL.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cydonia vulgaris PERS. Pyrus cydonia L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 6 languages. English (1) - quince Kannada (2) - shimedalimbe, simedalimbe Sanskrit (1) - Sanskrit Comments  amrutaphala Tamil (9) - behdana, cimai matulai, cimaimatulai, kuvincu, lukka, petana#, petana@, petanam, shimai-madalai-virai Telugu (1) - simadanimma Urdu (13) - aab-e-bihi, bahi, bedana, behdana, behidana (behl), bihdana, bihi, bihi taza, bihidana, chaqu say qashain kia hua bihi, rub bhihi, rub bihi, rub-i-bihi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad/xclkon/268406287cc9715b743897897c55e7d2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad/xclkon/a2cfca12a2d4e37ee536f19c703cb6c3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad/xclkon/268406287cc9715b743897897c55e7d2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad/xclkon/a2cfca12a2d4e37ee536f19c703cb6c3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad/xclkon/268406287cc9715b743897897c55e7d2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad/xclkon/a2cfca12a2d4e37ee536f19c703cb6c3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad/xclkon/268406287cc9715b743897897c55e7d2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad/xclkon/a2cfca12a2d4e37ee536f19c703cb6c3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd5b25419bb4598994c89112b10727ad/xclkon/268406287cc9715b743897897c55e7d2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bihi
+sanskrit_name: बिहि
+transliteration: bihi
+ref_drug_name: बिहि
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

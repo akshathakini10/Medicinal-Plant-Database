@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6ef94896fc91e9f6ac2700607106d477
+Botanical Name: Scilla hyacinthina (ROTH.) MAC BRIDE
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Erythronium indicum ROTTL. E SPRENG. Scilla indica BAKER
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 4 languages. Kannada (3) - chikka kaadu eerulli, kaadu bellulli, shivanaaru gedde Marathi (3) - bhooyikand, lahan-kal-kamdo, rankand Tamil (4) - kattu velvenkayam, narivengayam, nurri vungyum, nurri-vungyum Telugu (1) - adavitheela gadda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ef94896fc91e9f6ac2700607106d477/xclkon/083905cab8e8d1c1fcd15ce9a16af60f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ef94896fc91e9f6ac2700607106d477
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ef94896fc91e9f6ac2700607106d477/xclkon/303a1c9f6105b7c81186fd4767683e79
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ef94896fc91e9f6ac2700607106d477/xclkon/083905cab8e8d1c1fcd15ce9a16af60f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ef94896fc91e9f6ac2700607106d477
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ef94896fc91e9f6ac2700607106d477/xclkon/303a1c9f6105b7c81186fd4767683e79
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ef94896fc91e9f6ac2700607106d477/xclkon/083905cab8e8d1c1fcd15ce9a16af60f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

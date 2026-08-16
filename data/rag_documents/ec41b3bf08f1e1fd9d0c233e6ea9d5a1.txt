@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ec41b3bf08f1e1fd9d0c233e6ea9d5a1
+Botanical Name: Champereia manillana (BL.) MORR.
+Family: Opiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec41b3bf08f1e1fd9d0c233e6ea9d5a1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ec41b3bf08f1e1fd9d0c233e6ea9d5a1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

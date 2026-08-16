@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d7ebe467cfadbe18fbce75f3d47b5d94
+Botanical Name: Hibiscus aculeatus ROB.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hibiscus furcatus ROB. E DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 6 languages. Kannada (9) - bendhegida, betta bande, gumchi, gunchi, huli gauri, huli gowri, huligeri, kairpuli, kaiyara puli Malayalam (7) - naranampuli, naranampupuli, narinampoulli, paccapuli, pachaipoli, paniccakam, pariccakam Marathi (1) - vhadlo-ranbhendo Sanskrit (1) - Sanskrit Comments  sathambasthi Tamil (2) - kantagomgura, malaippuliccai Telugu (4) - bendakaya, kondagogu, kondagongoora, kondagongura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7ebe467cfadbe18fbce75f3d47b5d94/xclkon/2762afb2c8bbde98c55a69df31de482d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7ebe467cfadbe18fbce75f3d47b5d94
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7ebe467cfadbe18fbce75f3d47b5d94/xclkon/2762afb2c8bbde98c55a69df31de482d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7ebe467cfadbe18fbce75f3d47b5d94
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7ebe467cfadbe18fbce75f3d47b5d94/xclkon/2762afb2c8bbde98c55a69df31de482d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7ebe467cfadbe18fbce75f3d47b5d94
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7ebe467cfadbe18fbce75f3d47b5d94/xclkon/2762afb2c8bbde98c55a69df31de482d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

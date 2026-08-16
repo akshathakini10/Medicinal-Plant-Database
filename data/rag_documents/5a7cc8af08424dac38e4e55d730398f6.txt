@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5a7cc8af08424dac38e4e55d730398f6
+Botanical Name: Rumex hastatus DON.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 1 languages. Hindi (9) - almoru, amild, amlora, bhilmora, bhimelda, bhimilda, chulmora, malora, malori
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5a7cc8af08424dac38e4e55d730398f6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5a7cc8af08424dac38e4e55d730398f6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cukra - prajati
+sanskrit_name: चुक्र प्रजाति
+transliteration: cukra prajāti
+ref_drug_name: चुक्र प्रजाति
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

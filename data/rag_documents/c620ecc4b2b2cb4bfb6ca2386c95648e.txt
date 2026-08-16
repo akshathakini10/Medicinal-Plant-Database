@@ -1,0 +1,88 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c620ecc4b2b2cb4bfb6ca2386c95648e
+Botanical Name: Imperata cylindrica (L.) RAEUSCH.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Imperata arundinacea CYR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 7 languages. English (5) - alang-alang, cogon grass, cotton grass, lalang, thatch grass Hindi (6) - dab, dabh, kans, rasni-dab, sauraun, ulu Kannada (5) - neeru brahmi, neeru hatthi hullu, sanna dabbe hullu, sannadabbaihullu, sannadabbehullu Malayalam (4) - darbha, darbhappullu, kodi-pullu, vidulam Sanskrit (4) - Sanskrit Comments  balbajamu, barhissu, darbha, darbhah Tamil (2) - dharbai pullu, tharpaipullu Telugu (7) - balbajamu, barhissu, darbha gaddi, dharba, dharba gaddi, modavagaddi, modewa gaddi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1173
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1173.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e/xclkon/3283951d6828b361f6cc05d42faa22cb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e/xclkon/3283951d6828b361f6cc05d42faa22cb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e/xclkon/3283951d6828b361f6cc05d42faa22cb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c620ecc4b2b2cb4bfb6ca2386c95648e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Darbha
+sanskrit_name: दर्भ
+transliteration: darbha
+ref_drug_name: दर्भ
+status: Accepted source
+discussion: In Samhitas, Kusa and Darbha have been mentioned together but as two separate plants; Commencing from the period of Vagbhata, Kusa and Darbha were used as substitutes for each other; Due to this reason during later periods they were considered as one single drug; Most of the nighantus have mentioned 'Darbhadvaya' and explained them seperately but at some places they have been mentioned as synonyms of each other; Darbha is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Kusa
+sanskrit_name: कुश
+transliteration: kuśa
+ref_drug_name: कुश भेद
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Kusa - bheda
+sanskrit_name: कुश भेद
+transliteration: kuśa bheda
+ref_drug_name: कुश भेद
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kusa
+sanskrit_name: कुश
+transliteration: kuśa
+image_urls: https://www.medicinalplants.in/slokaimages/602/602_1.jpg https://www.medicinalplants.in/slokaimages/602/602_2.jpg https://www.medicinalplants.in/slokaimages/602/602_3.jpg
+ocr_text: दर्भः स्निग्धरसः स्वादुः कषायः कफपित्तहा विसर्पदाहकृच्छ्रास्कतृष्णाबस्तिविकारनम्| रक्तज्वरं तृषाश्वासकामलादाषनाशकृत् दर्भौ द्वौ च गुणैस्तुल्यौ तथापि च सिता अधिकः यदिश्वेतकुशाभावः त्वपरं योजयेद् Il (Rin) Darbha is svadu, kashaya in rasa, snigdha in guna, alleviates kapha and pitta, cures visarpa, daha, krcchra kasa, trsna, vasti vikara, rakta jvara, trsa, svasa and kamala Darbha dvau are similar in properties Sita darba is the best one and in the absence of sveta kusa this one can be used. भिषक् दर्भद्वयं त्रिदोषघ्नं मधुरं तुवरं हिमम्| मूत्रकृच्छ्राश्मरीतृष्णाबस्तिरुक्प्रदरास्रजित्|| (Bpn) Darbha dvayam is madhura, tuvara in rasa, hima in veerya, alleviates all the three doshas, cures mutrakrcchra, asmari, trsna, vasti ruk, pradara and asra दर्भयुगम्ं पवित्रं स्यान्मूत्रकृच्छ्रघ्नशीतलम् रक्तपित्तप्रशमनं केवलं पित्तनाशनम्I| (Dhn) Darbha dvayam is sita, pavitra, alleviates pitta only cures mutrakrcchra and raktapitta.
+
+Shloka Record 2
+drug_name: Kusa - bheda
+sanskrit_name: कुश भेद
+transliteration: kuśa bheda
+image_urls: https://www.medicinalplants.in/slokaimages/602/602_1.jpg https://www.medicinalplants.in/slokaimages/602/602_2.jpg https://www.medicinalplants.in/slokaimages/602/602_3.jpg
+ocr_text: दर्भः स्निग्धरसः स्वादुः कषायः कफपित्तहा विसर्पदाहकृच्छ्रास्कतृष्णाबस्तिविकारनम्| रक्तज्वरं तृषाश्वासकामलादाषनाशकृत् दर्भौ द्वौ च गुणैस्तुल्यौ तथापि च सिता अधिकः यदिश्वेतकुशाभावः त्वपरं योजयेद् Il (Rin) Darbha is svadu, kashaya in rasa, snigdha in guna, alleviates kapha and pitta, cures visarpa, daha, krcchra kasa, trsna, vasti vikara, rakta jvara, trsa, svasa and kamala Darbha dvau are similar in properties Sita darba is the best one and in the absence of sveta kusa this one can be used. भिषक् दर्भद्वयं त्रिदोषघ्नं मधुरं तुवरं हिमम्| मूत्रकृच्छ्राश्मरीतृष्णाबस्तिरुक्प्रदरास्रजित्|| (Bpn) Darbha dvayam is madhura, tuvara in rasa, hima in veerya, alleviates all the three doshas, cures mutrakrcchra, asmari, trsna, vasti ruk, pradara and asra दर्भयुगम्ं पवित्रं स्यान्मूत्रकृच्छ्रघ्नशीतलम् रक्तपित्तप्रशमनं केवलं पित्तनाशनम्I| (Dhn) Darbha dvayam is sita, pavitra, alleviates pitta only cures mutrakrcchra and raktapitta.

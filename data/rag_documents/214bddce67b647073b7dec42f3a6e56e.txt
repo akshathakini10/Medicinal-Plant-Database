@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 214bddce67b647073b7dec42f3a6e56e
+Botanical Name: Euphorbia bombaiensis SANT.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Euphorbia orbiculata H.B.K.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Hindi (1) - dudhi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/214bddce67b647073b7dec42f3a6e56e/xclkon/5cbbc61c7bfdeef392682580cdb7c56a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/214bddce67b647073b7dec42f3a6e56e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/214bddce67b647073b7dec42f3a6e56e/xclkon/5cbbc61c7bfdeef392682580cdb7c56a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

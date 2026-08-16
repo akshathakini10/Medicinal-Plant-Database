@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 13c5e57966efeeeee22ad5138e8b25a1
+Botanical Name: Jasminum multiflorum (BURM.F.) ANDR.
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Jasminum pubescens (RETZ.) WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 79 Vernacular names found in 8 languages. Hindi (10) - ban malti, banmalti, chamchi, chameli, dure, jangli-chambeli, kund phal, kunda, kundo, kundphul Kannada (14) - baasthimallige, basti mallige, bastimallige, boldu mallige, boldumallige, doddakaadu mallige, jaasthi mallige, kasthoorimallige, kasturi mallige, kasturimallige, kunda, maagi mallige, magimallige, molle Malayalam (10) - gujari, kattuchirakamulla, kattucirakamulla, katu-tsjiregam-mulla, katutsjiregammulla, kundam, kurukkuttimulla, kurukutti-mulla, kurukuttimulla, kuruna Marathi (3) - mogra, raanmogri, ran-mogri Sanskrit (23) - Sanskrit Comments  atimukta, attahasa, attapushpaka, bhringasuhrita, bhringbandhu, dalakosha, damana, kunda, kundah, madhya, mahamoda, makaranda, manodna, manohara, manorama, mughya, muktapushpa, sadapushpa, shuklapushpa, tarapushpa, vanahasa, varata, vasanta Tamil (9) - irci mallikai, kasturimallikai, kuntam 2, magarandam, makarandam, makarantam, malli, malligai, mirukamatavacai Telugu (9) - adavimalle, advi-malle, gajari, gujari, kunda, kundamu, molla, puttaditige, vira jaji Tibetan (1) - kun de
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1/xclkon/1c8c80b0c50656c1e15aba6585ef1b94
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1/xclkon/1c8c80b0c50656c1e15aba6585ef1b94
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1/xclkon/1c8c80b0c50656c1e15aba6585ef1b94
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1/xclkon/1c8c80b0c50656c1e15aba6585ef1b94
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13c5e57966efeeeee22ad5138e8b25a1/xclkon/1c8c80b0c50656c1e15aba6585ef1b94
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kunda
+sanskrit_name: कुन्द
+transliteration: kunda
+ref_drug_name: कुन्द
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Kunda - bheda
+sanskrit_name: कुन्द भेद
+transliteration: kunda bheda
+ref_drug_name: कुन्द
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

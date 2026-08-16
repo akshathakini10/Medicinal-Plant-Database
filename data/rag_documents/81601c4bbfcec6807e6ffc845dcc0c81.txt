@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 81601c4bbfcec6807e6ffc845dcc0c81
+Botanical Name: Conium maculatum L.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. English (1) - hemlock Tamil (3) - enneyccokki, enneyccokkippuntu, koniyam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81601c4bbfcec6807e6ffc845dcc0c81
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81601c4bbfcec6807e6ffc845dcc0c81
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81601c4bbfcec6807e6ffc845dcc0c81
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

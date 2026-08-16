@@ -1,0 +1,106 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b74787dcd245410c2572109ed4355418
+Botanical Name: Cocculus hirsutus (L.) DIELS
+Family: Menispermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cocculus villosus DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 145 Vernacular names found in 8 languages. Hindi (20) - bajar bel, bajar-bel, chhirenta, chireta, dier, farid-butti, faridbel, faridburti, hier, jalayamani, jaljamni, jamti-ka-patta, jamti-ke-bel, jamti-ki-bel, jamtike bel, jamtikibel, khareta-ki-bel, patalagarudi, til dhara, vev-no-velo Kannada (18) - aadama balli, adambuballi, daagadiballi, dagadi, dagadi balli, dagadiballi, dhagadi balli, doosari balli, dusare balli, dusari balli, dusariballi, kaage maari, sugadi balli, sugadiballi, sugadigida, yadaniballi, yagadi balli, yudaani balli Malayalam (1) - patalagarudakkoti Marathi (12) - diar, hunder, paathalagarudi, paravel, parvel, tan, tana, vasan-vel, vasanavela, vasanvel, vatsadani, wasan Sanskrit (24) - Sanskrit Comments  akabhida, chchilihinda, chilahinta, chilihindah, chilihinta, dirghakanda, dirghavalli, dridhakanda, dridhalata, garudi, jaliamni, mahahala, mahamula, patalagaruda, patalagarudah, patalagarudi, sauparni, somavalli, tiktanga, vanatiktika, vasanavalli, vasandi, vasantitikta, vatsadani Tamil (46) - anantavalli, calakattu, calapasani, carpatci 1, ciriya-katukkoti, cirukaikkoti, cirukattukoti, cutarcaracam, eluccikkoti, kalini 1, kalinikkoti, kaliniyam 1, kanakavacciratti, kattu-k-koti, kattuk-kodi, kattukkodi, kattukkoti, kattukodi, ketuvacakkoti, ketuvacam, kolim, koticci 1, kotippavai, kotippavaikkoti, kottukodi, malaiccurukkay, malaikkaru, mattakajakkoti, mekanatattimuli, mekanati, mekanatikkoti, nirppanti, nirppantikkoti, periya kattukkoti, perkkaci, perkkacikkoti, siru-kattukodi, ticaikkarutankoti, tucari, uppaittiricci, uppirkuruti, utiritam, utiritankoti, utitaniratti, vacipputu, val Telugu (23) - cheepurutheega, chipuru-tige, chipurutige, cipurutige, dasaritega, doosaratheege, doosaritheega, doosratiga, dusapi, dusara tiga, dusaraputiga, dusaratiga, dusaratige, dusari-tige, dusaritige, dusedithige, katla tiga, katlathige, katlatige, katle-tige, katletiga, kattle-ti, shipri Urdu (1) - faridbutti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418/xclkon/9eb155bdae8af4d6b8711abb6d2913e1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 596
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/596.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418/xclkon/9eb155bdae8af4d6b8711abb6d2913e1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418/xclkon/9eb155bdae8af4d6b8711abb6d2913e1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418/xclkon/9eb155bdae8af4d6b8711abb6d2913e1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b74787dcd245410c2572109ed4355418/xclkon/9eb155bdae8af4d6b8711abb6d2913e1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Chilahinta
+sanskrit_name: छिलहिण्ठ
+transliteration: chilahiṇṭha
+ref_drug_name: छिलहिण्ठ
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Chilahinta
+sanskrit_name: छिलहिण्ठ
+transliteration: chilahiṇṭha
+ref_drug_name: छिलहिण्ठ
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Guduci – jati
+sanskrit_name: गुडूची जाति
+transliteration: guḍūcī jāti
+ref_drug_name: वत्सादनी
+status: Most probable
+discussion: Usually considered to be a synonym of Guduci but Dalhana identifies it with another plant
+reference: [1]
+
+Identity Record 4
+drug_name: Guduci – jati
+sanskrit_name: गुडूची जाति
+transliteration: guḍūcī jāti
+ref_drug_name: वत्सादनी
+status: Most probable
+discussion: In the nighantus it is mentioned as a synonym of Guduci but in the samhitas it is mentioned as an exclusive drug; It’s a type of creeper, eaten a lot by calves; Based on the above some of them consider this as 'Vasanvel' which is correlated to this species
+reference: [5]
+
+Identity Record 5
+drug_name: Vatsadani
+sanskrit_name: वत्सादनी
+transliteration: vatsādanī
+ref_drug_name: वत्सादनी
+status: Most probable
+discussion: Usually considered to be a synonym of Guduci but Dalhana identifies it with another plant
+reference: [1]
+
+Identity Record 6
+drug_name: Vatsadani
+sanskrit_name: वत्सादनी
+transliteration: vatsādanī
+ref_drug_name: वत्सादनी
+status: Most probable
+discussion: In the nighantus it is mentioned as a synonym of Guduci but in the samhitas it is mentioned as an exclusive drug; It’s a type of creeper, eaten a lot by calves; Based on the above some of them consider this as 'Vasanvel' which is correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

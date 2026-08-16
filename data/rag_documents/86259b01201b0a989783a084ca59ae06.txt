@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 86259b01201b0a989783a084ca59ae06
+Botanical Name: Indigofera argentea BURM.F.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 5 languages. Hindi (4) - neel, neelo-bakerio, surmai-neel, surmainil Kannada (1) - karunili Sanskrit (1) - Sanskrit Comments  kalaklitaka Tamil (1) - kataveri Telugu (5) - karneeli, karunili, kondanili, nili, peddanili
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86259b01201b0a989783a084ca59ae06
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1178
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1178.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86259b01201b0a989783a084ca59ae06
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

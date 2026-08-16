@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5bf7679ac3d6d79e5b8c28bb0c860d5d
+Botanical Name: Naregamia alata WIGHT & ARN.
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 48 Vernacular names found in 8 languages. English (1) - goa ipecacuanha Hindi (2) - jatamasi, tinparni Kannada (17) - belakanji, bilekanchi, naepa naaringa, nalakanu, nela herali, nela naarangi, nela-naringa, nelaharile, nelakanchi, nelakanchi gida, nelakanci, nelanaaranga, nelanaaringi, nelanaranga, nelanaringa, nepanaringa, nepanaringu Malayalam (4) - nela-naregam, nelanarakam, nelanaregam, nilanarakam Marathi (14) - avacari, kapur-bhendi, kapurbhendi, nil-naregam, pithvel, pitmari, pitpapra, pitthamaari, pitthapapra, pittvel, pitvel, thipathi, timpani, tinpani Sanskrit (7) - Sanskrit Comments  amlavalli, brihatpatra, chhinnagrantika, drumaruha, kandabahula, kandalu, triparnika Tamil (2) - nela-naringu, nilanaragam Telugu (1) - pagapapu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5bf7679ac3d6d79e5b8c28bb0c860d5d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1501
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1501.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5bf7679ac3d6d79e5b8c28bb0c860d5d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5bf7679ac3d6d79e5b8c28bb0c860d5d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

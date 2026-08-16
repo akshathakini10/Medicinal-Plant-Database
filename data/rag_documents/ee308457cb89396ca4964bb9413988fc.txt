@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ee308457cb89396ca4964bb9413988fc
+Botanical Name: Leucas lavandulifolia J.E. SM.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Leucas indica (L.) R.BR. E VATKE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 7 languages. Hindi (4) - guma, halkusa, hulkussa, kumbha Kannada (4) - devvathumbe, hasiruthumbe, heddumbe, karjaali gida Malayalam (1) - thunba Marathi (2) - goma, kuva Sanskrit (4) - Sanskrit Comments  drona, dronapushpi, kumbhi, rudrapushpa Tamil (14) - atukkuttumpai, cevvamakacceti, cevvamakam, kacittumpai, kallellancattakki, mosappullu, peyttumpai, pokittumpai, tattika, tattikattumpai, tironaputpi, tottucam, tumpai, turonaputpi Telugu (2) - poolathumni, pulatumni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee308457cb89396ca4964bb9413988fc/xclkon/7c753e476944a6dda69ca570a3c5375c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee308457cb89396ca4964bb9413988fc/xclkon/f3692175190ffa3f1c46c6b391a9b6e3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee308457cb89396ca4964bb9413988fc
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee308457cb89396ca4964bb9413988fc/xclkon/7c753e476944a6dda69ca570a3c5375c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee308457cb89396ca4964bb9413988fc/xclkon/f3692175190ffa3f1c46c6b391a9b6e3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee308457cb89396ca4964bb9413988fc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee308457cb89396ca4964bb9413988fc/xclkon/7c753e476944a6dda69ca570a3c5375c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee308457cb89396ca4964bb9413988fc/xclkon/f3692175190ffa3f1c46c6b391a9b6e3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee308457cb89396ca4964bb9413988fc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee308457cb89396ca4964bb9413988fc/xclkon/7c753e476944a6dda69ca570a3c5375c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

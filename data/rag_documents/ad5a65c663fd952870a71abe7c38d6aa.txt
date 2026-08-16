@@ -1,0 +1,119 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ad5a65c663fd952870a71abe7c38d6aa
+Botanical Name: Datura stramonium L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Datura tatula L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 128 Vernacular names found in 8 languages. English (10) - apple-of-peru, devil s-apple, jamestown weed, jimson or jamestown weed, jimsonweed, mad apple, stinkweed, stramonium, thorn weed, thorn-apple Hindi (4) - datura, dhatura, dhaturo, kala dhatura Kannada (27) - bili unmatthi, bilidatthoora, bilidattura, biliummatti, biliyummatta, datthoori, datthoori gida, dattura, datturi, dhattura, dhustura, duttura, dutturi, kariummatti, kariyummatta, kariyummatte, madaguniki, maddu gunike, maddugunike, madgunike, madugunika, umbatta, umbe, ummata, ummathi, ummatta, unmatta Malayalam (6) - hummatoo, hummatu, matulam, ummam, ummata, ummattam Sanskrit (40) - Sanskrit Comments  devika, dhattura, dhatturah, dhurta, dhurtakrit, dhustura, dhuttura, dhutturapatra, ghantapushpa, ghantika, harava, kahalapushpa, kalama, kanaka, kanakaohaya, kantaphala, khala, kharadushana, kharjhugna, kitava, llabha, madakara, madana, madanaka, mahamohi, mahashatha, matta, matula, matulaka, mohana, purimoha, rajadhattura, savisha, shaiva, shatha, shivapriya, shivashekhara, shyama, turi, unmatta Tamil (26) - cakamuli@, cimai umattai, cimaiyumattai, citatitavikam, cokkitakacceti, cokkitakam, emanacam, emanamam, kacamatukam, kanakakuvayam, kanakariyam, kanakavayam2, karccakkinam3, katitamaru, koram2, okati, okaticceti, oomaththan, oomathu, simaiyumattai, turuturam, umaddai, umatai, umathai, umattai, vellumattai Telugu (11) - dutthuramu, dutturamu, nalla ummettha, tella vumetta, tellaoomatie, tellavummetta, thellaummetha, thellavumettha, ummeta, ummetta, ummettha Urdu (4) - dhatoora, dhatura, qunain, tukhm dhatura safaid
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa/xclkon/63a694bd8a99badc070e4a0d0436e523
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 766
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/766.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa/xclkon/63a694bd8a99badc070e4a0d0436e523
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa/xclkon/63a694bd8a99badc070e4a0d0436e523
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa/xclkon/63a694bd8a99badc070e4a0d0436e523
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa/xclkon/63a694bd8a99badc070e4a0d0436e523
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad5a65c663fd952870a71abe7c38d6aa/xclkon/63a694bd8a99badc070e4a0d0436e523
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhattura
+sanskrit_name: धत्तूर
+transliteration: dhattūra
+ref_drug_name: धत्तूर
+status: Accepted source
+discussion: This species is the black variety of Dhattura found around 8000 feet above Himalaya
+reference: [3]
+
+Identity Record 2
+drug_name: Dhattura
+sanskrit_name: धत्तूर
+transliteration: dhattūra
+ref_drug_name: धत्तूर प्रजाति
+status: Accepted source
+discussion: This species is the black variety of Dhattura found around 8000 feet above Himalaya
+reference: [3]
+
+Identity Record 3
+drug_name: Dhattura -prajati
+sanskrit_name: धत्तूर प्रजाति
+transliteration: dhattūra prajāti
+ref_drug_name: धत्तूर
+status: Accepted source
+discussion: This species is the black variety of Dhattura found around 8000 feet above Himalaya
+reference: [3]
+
+Identity Record 4
+drug_name: Dhattura -prajati
+sanskrit_name: धत्तूर प्रजाति
+transliteration: dhattūra prajāti
+ref_drug_name: धत्तूर प्रजाति
+status: Accepted source
+discussion: This species is the black variety of Dhattura found around 8000 feet above Himalaya
+reference: [3]
+
+Identity Record 5
+drug_name: Dhuttura
+sanskrit_name: धुत्तूर
+transliteration: dhuttūra
+ref_drug_name: धत्तूर
+status: Accepted source
+discussion: This species is the black variety of Dhattura found around 8000 feet above Himalaya
+reference: [3]
+
+Identity Record 6
+drug_name: Dhuttura
+sanskrit_name: धुत्तूर
+transliteration: dhuttūra
+ref_drug_name: धत्तूर प्रजाति
+status: Accepted source
+discussion: This species is the black variety of Dhattura found around 8000 feet above Himalaya
+reference: [3]
+
+Identity Record 7
+drug_name: Dhuttura - krsna
+sanskrit_name: धुत्तूर कॄष्ण
+transliteration: dhuttūra kṝṣṇa
+ref_drug_name: धुत्तूर कॄष्ण
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

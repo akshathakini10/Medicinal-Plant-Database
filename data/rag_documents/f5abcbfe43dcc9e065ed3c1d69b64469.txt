@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f5abcbfe43dcc9e065ed3c1d69b64469
+Botanical Name: Viola pilosa BI.
+Family: Violaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Viola serpens WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 3 languages. Hindi (5) - banafsha, banafshah, banaksha, banksha, giddar tamaku Kannada (1) - bili kaamakasthoori Sanskrit (2) - Sanskrit Comments  banafsha, vanaphsa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5abcbfe43dcc9e065ed3c1d69b64469/xclkon/fda38c50945036390cae6d1d250abd5d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 4076
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/4076.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5abcbfe43dcc9e065ed3c1d69b64469
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5abcbfe43dcc9e065ed3c1d69b64469/xclkon/fda38c50945036390cae6d1d250abd5d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5abcbfe43dcc9e065ed3c1d69b64469
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5abcbfe43dcc9e065ed3c1d69b64469/xclkon/fda38c50945036390cae6d1d250abd5d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

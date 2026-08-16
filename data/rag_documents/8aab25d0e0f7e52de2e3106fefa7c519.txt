@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8aab25d0e0f7e52de2e3106fefa7c519
+Botanical Name: Hamiltonia suaveolens ROB.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Spermadictyon suaveolens ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 2 languages. Hindi (15) - bari podari, guilhain padari, gulhain, gulihain padari, gullhain, hingwal, padan hinga, padan-hinga, padar, padara, padari, padariya, padarya, padera, paderi Telugu (1) - kondamuritidi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aab25d0e0f7e52de2e3106fefa7c519/xclkon/01d51a3dabce8a62b0774435ee21edef
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aab25d0e0f7e52de2e3106fefa7c519
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8aab25d0e0f7e52de2e3106fefa7c519/xclkon/01d51a3dabce8a62b0774435ee21edef
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

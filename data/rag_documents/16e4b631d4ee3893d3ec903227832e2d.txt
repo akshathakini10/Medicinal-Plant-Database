@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 16e4b631d4ee3893d3ec903227832e2d
+Botanical Name: Dysoxylum malabaricum BEDD.
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 4 languages. Kannada (10) - bilee agilu, bilee budige, bilee devadaaru, bili agilu, bili budlige, bili daevadaari, bili gandha, bilibudlige, bilibudligi, bilidevadari Malayalam (10) - akil, porapa, purippa, vallaagil, vellaagil, vellaakil, vellagil, vellakil, velleiagil, velleyagil Sanskrit (1) - Sanskrit Comments  agaru Tamil (15) - agil, cavunkatikam, cavunkatikamaram, kana-mulla, malaittevataram, purippa, tiruvam, tiruvamaram, vellagil, vellaiyagil, vellaiyakilmaram, vellakil, vellakilmaram, vennakaru, vennakil
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e4b631d4ee3893d3ec903227832e2d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 865
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/865.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e4b631d4ee3893d3ec903227832e2d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e4b631d4ee3893d3ec903227832e2d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16e4b631d4ee3893d3ec903227832e2d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

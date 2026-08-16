@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b9bebfeaceff48a4d6608e484686b38d
+Botanical Name: Capparis sepiaria L.
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 106 Vernacular names found in 6 languages. Hindi (14) - aundi, chaili, chhail, hainsa, hium gama, hium garna, hium-garna, hiun, hiun garna, jal, kanthar, kanthari, kanthor, katan Kannada (15) - baasingi, kaadu katthari, kaadukathari, kadukattari, kanthaari, kathari gida, kathiramullu, katthari gida, katthari mullu, katukatiri, musthodi, nibate, niputthige, olle uppina gida, thottilu mullu Marathi (3) - kanthar, kantharvela, kantharyel Sanskrit (26) - Sanskrit Comments  ahimsra, ahinsra, amlaphala, duhpradharsa, dupravesha, durdharsha, grdhranakhi, gridhranakhi, guchchagulmika, himsra, hinsra, jali, kakadhani, kakatinduka, kakdani, kantha, kanthari, kantharika, kanya, kapalakulika, krishnashriphalika, kruragandha, krurakarma, tikshnagandha, vakrakantaki, vayastinduka Tamil (39) - ayinciram, cekkavuricceti, cenkaddari, cenkattarip pattai, cirukattiri, curai, incurai, incuraicceti, karindu, karintu#, karintu@, karuncurai, karuncuraiver, karunjurai, kattukathiri, kattukkattari, kattukkattiri, kokilanayanam, kokkimullu, korintai, lukko, lukkocurai, maiccuri, mancuranceti, miti 2, mitiki, mitikicceti, pantaki 2, pantanki, pelikacceti, pelikam, petitayacceti, petitayam, peykkattiri, peyttiriti, sirukkattiri, surai, thoratti, turmokam Telugu (9) - nalla uppi, nallapuee, nallapuyyi, nallaupli, nallauppi, nallavuppi, nalluppi, puyyi, uppi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 435
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/435.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bebfeaceff48a4d6608e484686b38d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Himsra
+sanskrit_name: हिंस्रा
+transliteration: hiṃsrā
+ref_drug_name: हिंस्रा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Himsra
+sanskrit_name: हिंस्रा
+transliteration: hiṃsrā
+ref_drug_name: हिंस्रा
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Himsra
+sanskrit_name: हिंस्रा
+transliteration: hiṃsrā
+image_urls: https://www.medicinalplants.in/slokaimages/322/322_1.jpg
+ocr_text: कन्थारी कटुतिक्तोष्णा कफवातनिकृन्तनी शोफघ्नी दीपनी सच्या रक्तग्रन्थिरुजापहा (रा० नि॰) Himsra is katu, tikta in rasa, usna in veerya, alleviates kapha, vata, dipani in karma, cures sopha, rakta granthi and ruja

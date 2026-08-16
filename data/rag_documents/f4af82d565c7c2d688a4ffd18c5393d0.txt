@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f4af82d565c7c2d688a4ffd18c5393d0
+Botanical Name: Altingia excelsa NORONHA
+Family: Altingiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 55 Vernacular names found in 8 languages. English (1) - rasamala Hindi (1) - silaras Kannada (1) - silaras Malayalam (1) - rasamala Marathi (3) - shilaaras, shilaras, silaras Sanskrit (39) - Sanskrit Comments  ashmapushpa, chala, chanchalatailaka, dhumra, dhumravarna, java, kalka, kapichanchala, kapinama, kapisha, kapitail, karevar, kritrima, lepana, muktimukta, pavana, pindatavara, pindita, pinyaka, pishtaka, pitasara, sainhikarasa, shaja, shalakidrava, siddha, silarasa, silhaka, silhakah, silhapindaka, silhasara, sillhaka, sugandhika, tailakhya, tailparni, turashka, turuskah, vrikadhupa, yava, yavala Tamil (7) - erikacu, erikacucceti, neriyacam, neriyaci, neriyacippal, neriyurishippal, niriyacappal Telugu (2) - shilaarasamu, shilarasamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4af82d565c7c2d688a4ffd18c5393d0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 143
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/143.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4af82d565c7c2d688a4ffd18c5393d0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4af82d565c7c2d688a4ffd18c5393d0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4af82d565c7c2d688a4ffd18c5393d0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4af82d565c7c2d688a4ffd18c5393d0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Turuska
+sanskrit_name: तुरुष्क
+transliteration: turuṣka
+ref_drug_name: तुरुष्क
+status: Accepted source
+discussion: Turuska is the balsam (inferior quality) obtained from this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

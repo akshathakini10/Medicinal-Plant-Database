@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e304d978335d8cc5affab2bb2315585f
+Botanical Name: Hackelochloa granularis (L.) KUNTZE
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Manisuris granularis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 4 languages. Hindi (3) - kangani, kangni, trinpali Kannada (1) - kaadu sanna haaraka hullu Sanskrit (2) - Sanskrit Comments  palanggini, phalangini Telugu (1) - nali poonuku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e304d978335d8cc5affab2bb2315585f/xclkon/f16a06544e4ca8b6ef0611917b42b520
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e304d978335d8cc5affab2bb2315585f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e304d978335d8cc5affab2bb2315585f/xclkon/f16a06544e4ca8b6ef0611917b42b520
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e304d978335d8cc5affab2bb2315585f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e304d978335d8cc5affab2bb2315585f/xclkon/f16a06544e4ca8b6ef0611917b42b520
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: aec4d0b37a11a9c0e76d13804dbefa55
+Botanical Name: Cissus discolor BLUME
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cissus javanica DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec4d0b37a11a9c0e76d13804dbefa55
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec4d0b37a11a9c0e76d13804dbefa55/xclkon/e6ad33c1281f004e6ac5ec0e4a330fb3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aec4d0b37a11a9c0e76d13804dbefa55
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

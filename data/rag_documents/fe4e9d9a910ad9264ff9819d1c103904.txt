@@ -1,0 +1,80 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fe4e9d9a910ad9264ff9819d1c103904
+Botanical Name: Woodfordia fruticosa (L.) KURZ
+Family: Lythraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Woodfordia floribunda SALISB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 144 Vernacular names found in 9 languages. Hindi (30) - ban-mahendi, dauri, davi, dawe, dawi, dha, dhai, dhamin, dhan, dhan-phal, dhati, dhau, dhaula, dhaulu, dhaura, dhauta, dhavdi, dhawa, dhawai, dhawi, dhawin, dhawla, dhay, dhayad, dhayat, dhayati, dhewtiesantha, tavi, thawi, veeru dhayad Kannada (8) - are, are hoo, bela, daathakee kusumka, kempu kumusalu, taamra pushpi, tamrapushpi, tamrapuspi Malayalam (4) - tamrapushpi, tatire, tatiri, tatirippu Marathi (14) - daayatti, datyatti, dhaavas, dhaiphal, dhaiti, dhauri, dhavri, dhavti, dhayati, dhazatichi, phulsati, phulsatti, phusati, pulsathi Sanskrit (32) - Sanskrit Comments  agnijvala, agnivala, ani, bahupushpika, dhataki, dhatripushpika, dhatupushpi, dhatupuspa, dhauri, dhav, guchhapushpi, kumuda, kunjara, mada, madakara, madaniyahetu, madaniyahetuh, madhavasini, madyapushpa, parvati, rodhrapushpini, sanghapushpi, sidhupushpi, subhiksa, subhiksha, tamrapushpi, tamrapuspi, tivrajvala, vahnijawala, vahnijvala, vanhipushpi, vanhishikha Tamil (15) - acamantam, cirincippu, dhathari-jargi, dhattari, jargi, kaattaaththippoo, kattaddi, kattatti, kuccuputpam, malaiyatti, peyatti, pushpam, tatari, thathari, velakkai Telugu (37) - are puvvu, bala, chiranji, dhaarhupushpika, dhaathaki, dhataki, dhatupushpika, errapurvu, gaddapisinika, gaddapisinike, gaddapisiniki, gaji, gedda putika, godaari, godari, goddri, jaaji, jagi, jagu, jaji, jajiyaku, jargi, jeguru, kerani, kodara, pagadam, reyyamaanu, reyyamanu, reyyipappu, seringi, seringir, serinji, sirinji, sirinjie, tellamanu, thellamaanu, velakkai Tibetan (2) - dha-ta-ke, me tog da ta ki Urdu (2) - gul dhawa, gul ghawa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2234
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2234.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904/xclkon/14b0fcdea282a3325c9865f10daae00c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904/xclkon/14b0fcdea282a3325c9865f10daae00c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904/xclkon/14b0fcdea282a3325c9865f10daae00c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904/xclkon/14b0fcdea282a3325c9865f10daae00c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904/xclkon/14b0fcdea282a3325c9865f10daae00c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fe4e9d9a910ad9264ff9819d1c103904
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhataki
+sanskrit_name: धातकी
+transliteration: dhātakī
+ref_drug_name: धातकी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Dhataki
+sanskrit_name: धातकी
+transliteration: dhātakī
+ref_drug_name: धातकी
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dhataki
+sanskrit_name: धातकी
+transliteration: dhātakī
+image_urls: https://www.medicinalplants.in/slokaimages/1728/1728_1.jpg https://www.medicinalplants.in/slokaimages/1728/1728_2.jpg https://www.medicinalplants.in/slokaimages/1728/1728_3.jpg
+ocr_text: धातकीताम्रपुष्पीचधात्रीचधातृपुष्पिका Dhataki, Tamra puspi, Dhatri, Dhatru puspika are the synonyms धातकीकटुकाशीतामदकृत्तुवरालघुः तृष्णातिसारपित्तास्रविषक्रिमिविसर्पजित् (Bpn) Dhataki is katu, tuvara in rasa, laghu in guna, sita in veerya, induces mada, cures trsna, atisara, pitta, asra, visha, krmi and visarpa. धातकीकटुकाशीतातुवरामदकारिणी तिक्तालघ्वीचसंप्रोक्तागर्भस्थापनकारिणी | | रक्तप्रवाहिकापित्ततृडिवसर्पव्रणापहा कृम्यतीसारहननीरक्तदोषरुजापहा पुष्पमस्याःस्वादुरुक्षरक्तपित्तातिसारजित् विषनाशकरंचोक्तंमुनिभिस्तत्त्वदर्शिभिः (Nir) Dhataki is katuka, tuvara tikta in rasa, laghu in guna, sita in veerya, induces mada, is garbha sthapaka, cures rakta pravahika, pitta, trd, visarpa, Vrana, krmi, atisara, rakta dosha ruja Its puspa is svadu in rasa, ruksa in guna, cures rakta pitta, atisara and visa

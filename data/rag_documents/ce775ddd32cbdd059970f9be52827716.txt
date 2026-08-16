@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ce775ddd32cbdd059970f9be52827716
+Botanical Name: Ficus tsjakela BURM .F.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 6 languages. Hindi (1) - pilkhan Kannada (8) - basari, basuri, juvikari, kapbasuri, kappabasari, karibasari, maki, selavala Malayalam (6) - cakkila, chakkila, chuvannal, cuvannal, karal, tsjakela Sanskrit (2) - Sanskrit Comments  kapitanah, plaksah Tamil (4) - ichhi, javi, kallal, pepre Telugu (2) - jevi, juvi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce775ddd32cbdd059970f9be52827716
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 993
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/993.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce775ddd32cbdd059970f9be52827716
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

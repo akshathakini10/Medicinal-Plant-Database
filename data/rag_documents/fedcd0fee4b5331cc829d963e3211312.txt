@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fedcd0fee4b5331cc829d963e3211312
+Botanical Name: Citrullus lanatus (THUNB.) MATSUMARA & NAKAI
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Citrullus vulgaris SCHRAD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 118 Vernacular names found in 9 languages. English (1) - water melon Hindi (13) - halinda, hindwana, jamuka, karbuj, matira, matiro, samanka, tarbooj, tarbooz, tarbuz, tarbuza, terbuz, turmuz Kannada (11) - bachchangaayi, bachhangaayi, dasamekke, kaalenga hannu, kaalengu, kaalingana balli, kallangaday, kallangadi, kallangadi balli, kallangadi hannu, kallangare Malayalam (1) - mandeki-patak Marathi (5) - kalingad, kalingada, kalingin, tarbuj, tharbooj Sanskrit (31) - Sanskrit Comments  a, alpapramanaka, brihadgold, chaya-pula, chayaphula, chelana, chitra, chitraphala, chitravallika, ghrinaphala, godumba, kalinda, kalinga, krishnabijartula, kuttoowombi, latapanasa, madhuraphala, mansala, mansaphala, meta, mutrala, natamra, rajatinisha, raktabija, seta, shirnavrinta, sukhasha, sukhavasa, tarambuja, tindisa, vrittaphala Tamil (47) - anincepakkoti, anincepam, camakam, carkkaraikkommatti, carukkaraikkommatti, carukkaraikkumitti, carukkaraippucini1, cikappukkommatti, cinkiruki, cirattavikkoti, civaninankai, civaninankaikkoti, dharbusini, karukkummatti, ketavaikkoti1, kommatti1, kotimpam, kumatti1, mamicapala, maturapalam, mulam, piccai1, piccaikkay#, piccapalam#, piccapalam@, piccappalam@, picci1, pitcha, pitcha pullum, pitchaphalam, pullum, takanacani, tappuci, tarampujam, tarppucini, tarpucani, taruppucani, tecamika, tecamikakkoti, tucikakkumitti, tucikam1, tummatti1, tummutti1, vattakai, vattakku 1, vattalai 1, vattekku 2 Telugu (5) - darbooji, darbuje, eti puchha, karubooja, putcha kaaya Urdu (4) - ab tarbuz, maghz tukhm tarbuz, maghz tukhm tarbuz nim kofta, tarbuz
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/38cd0c8dcdd3237e1cd39ae5ba83d317
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/38cd0c8dcdd3237e1cd39ae5ba83d317
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/38cd0c8dcdd3237e1cd39ae5ba83d317
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/38cd0c8dcdd3237e1cd39ae5ba83d317
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/38cd0c8dcdd3237e1cd39ae5ba83d317
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/8ee01b3908df2caefad4c1ff14b5b896
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fedcd0fee4b5331cc829d963e3211312/xclkon/38cd0c8dcdd3237e1cd39ae5ba83d317
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

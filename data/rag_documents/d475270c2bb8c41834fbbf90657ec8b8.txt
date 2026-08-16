@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d475270c2bb8c41834fbbf90657ec8b8
+Botanical Name: Plectranthus barbatus ANDR.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Coleus barbatus (ANDR.) BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 3 languages. Hindi (1) - fiwain Marathi (4) - garmalu, gurmal, karmelo, mainmul Sanskrit (1) - Sanskrit Comments  gandira
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8/xclkon/c05c676dd289d947bcb8f71fe351b412
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8/xclkon/b22d750f49ffdde56d4c6af969672a91
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8/xclkon/c05c676dd289d947bcb8f71fe351b412
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8/xclkon/b22d750f49ffdde56d4c6af969672a91
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d475270c2bb8c41834fbbf90657ec8b8/xclkon/c05c676dd289d947bcb8f71fe351b412
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

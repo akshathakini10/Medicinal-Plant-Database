@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: faa5a42ce4324fa0a6df45d9138127bc
+Botanical Name: Leea asiatica (L.) RIDSDALE
+Family: Leeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Leea aspera EDGE.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. Hindi (3) - basant jari, kumali, nagashya Kannada (3) - kaadu mari drakshi, kaadu muri draakshi, kaadumari drakshi Malayalam (1) - nalagu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/faa5a42ce4324fa0a6df45d9138127bc/xclkon/8cce24729409b86be3757b1948a070cd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/faa5a42ce4324fa0a6df45d9138127bc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/faa5a42ce4324fa0a6df45d9138127bc/xclkon/8cce24729409b86be3757b1948a070cd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

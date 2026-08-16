@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c93babdb741aa570c2222c11589827a2
+Botanical Name: Momordica cochinchinensis SPR.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Muricia cochinchinensis LOUR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 25 Vernacular names found in 6 languages. Hindi (5) - bhat-karela, gangerua, gulkakra, kakrol, kathaamla Kannada (2) - kaadu kaakara, karkataka Marathi (2) - kakana, kartalen Sanskrit (12) - Sanskrit Comments  gangeruka, jalakaravalli, karka, karkaphala, karkata, karkataka, krindana, kshudradhatri, kshudramalakasandna, mrigalendaka, mrigavitsadrisha, todana Tamil (2) - adavi-kakara, palupakal Telugu (2) - adavikaakara, adavikakara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c93babdb741aa570c2222c11589827a2/xclkon/b6f92b46a8b40003b1910cb85224d613
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c93babdb741aa570c2222c11589827a2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c93babdb741aa570c2222c11589827a2/xclkon/b6f92b46a8b40003b1910cb85224d613
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c93babdb741aa570c2222c11589827a2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c93babdb741aa570c2222c11589827a2/xclkon/b6f92b46a8b40003b1910cb85224d613
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jalakaravalli
+sanskrit_name: जलकारवल्ली
+transliteration: jalakāravallī
+ref_drug_name: जलकारवल्ली
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Karkotaki
+sanskrit_name: कर्कोटकी
+transliteration: karkoṭakī
+ref_drug_name: कर्कोटकी
+status: Most probable
+discussion: Identified with both Momordica and Luffa species which are more or less similar in appearance and hence the confusion
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

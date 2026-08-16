@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3822a71c6cceea275ff880c1fca56ffc
+Botanical Name: Ochreinauclea missionis (WALL.E G.DON) RIDSDALE
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Nauclea missionis WIGHT & ARN. Sarcocephalus missionis HAVILAND REV.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. Kannada (3) - ahnao, anavu, holehalasu Malayalam (5) - arruvanci, attavanji, attu vanji, attuobanji, attuvanji Marathi (1) - phuga Tamil (3) - attu vanji, attuobanji, attuvanci 2
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3822a71c6cceea275ff880c1fca56ffc/xclkon/aee2476cd00417a341f5d90281e29c86
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3822a71c6cceea275ff880c1fca56ffc/xclkon/abbab0b41ecb90e0be9f456bf081ca7f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3822a71c6cceea275ff880c1fca56ffc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3822a71c6cceea275ff880c1fca56ffc/xclkon/aee2476cd00417a341f5d90281e29c86
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3822a71c6cceea275ff880c1fca56ffc/xclkon/abbab0b41ecb90e0be9f456bf081ca7f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3822a71c6cceea275ff880c1fca56ffc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3822a71c6cceea275ff880c1fca56ffc/xclkon/aee2476cd00417a341f5d90281e29c86
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

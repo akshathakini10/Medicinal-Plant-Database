@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ac1ae5531797f88862a32cc8b7698504
+Botanical Name: Rungia repens (L.) NEES
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Justicia repens DELESS. E NEES.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 6 languages. Hindi (2) - kharmar, kharmor Kannada (2) - kodaga saale gida, kodagasaale gida Marathi (1) - ghatipitpapada Sanskrit (2) - Sanskrit Comments  parpata, parpatha Tamil (12) - cataikkaranti, cayacutani, karuroman, kodaga saleh, kodagasalai, kodagasaleh, kotacari, kotaculi, kotacuri, kotacuri 2, kotakacalai, maram Telugu (1) - palakavelli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504/xclkon/d7c1db1c13a80880e318cfdcd13dabaf
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504/xclkon/d7c1db1c13a80880e318cfdcd13dabaf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504/xclkon/d7c1db1c13a80880e318cfdcd13dabaf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ac1ae5531797f88862a32cc8b7698504
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Parpata
+sanskrit_name: पर्पट
+transliteration: parpaṭa
+ref_drug_name: पर्पट
+status: Controversial
+discussion: Parpata is a controversial plant and different species are being used as Parpata all over the country; This species is used as Parpata in Gujarat and Saurashtra
+reference: [2]
+
+Identity Record 2
+drug_name: Parpata
+sanskrit_name: पर्पट
+transliteration: parpaṭa
+ref_drug_name: पर्पट
+status: Controversial
+discussion: Parpata' was a very useful drug but in due course of time it turned out to be controversial and its usage started diminishing; Presently many drugs are being used as 'Parpata' and this species is one among them
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Parpata
+sanskrit_name: पर्पट
+transliteration: parpaṭa
+image_urls: https://www.medicinalplants.in/slokaimages/5/5_1.jpg https://www.medicinalplants.in/slokaimages/5/5_2.jpg https://www.medicinalplants.in/slokaimages/5/5_3.jpg
+ocr_text: पर्पटः शीत्तलस्तिक्तः पित्तश्लेष्मज्वरापहः रक्तदाहारुग्लानिमदभ्रमविनाशनः || (Dhn, Rjn) Parpata is tikta in rasa, sita in veerya, alleviates pitta, slesma, jvara, rakta, daha, rug, glani, mada and bhrama. पर्पटो हन्ति पित्तास्रभ्रमतृष्णाकफज्वरान्| संग्राही शीतलस्तिक्तो दाहनुद् वातलो लघुः|| (Bpn) Parpata is tikta in rasa, laghu in guna, sita in veerya, sangrahi, increases vata alleviates pitta, asra, bhrama, trsna, kapha, jvara and daha पर्पटो दाहज्वरजित कफशोष्णः (Rjv) Parpata is kapha sosana, alleviates pitta, daha and ivara. पित्तहृत्

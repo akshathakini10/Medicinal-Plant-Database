@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 56771d0c697bbd2db87f36bbf4c46ad6
+Botanical Name: Pennisetum glaucum R.BR.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pennisetum typhoides (BURM.F.) STAPF ET HUBB. Pennisetum typhoideum (RICH)
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 3 languages. English (6) - african millet, bajri, bulrush millet, gero, indian millet, pearl or spiked millet Marathi (1) - bajri Tamil (2) - kambu, kampu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56771d0c697bbd2db87f36bbf4c46ad6/xclkon/3f8a17b7f62674b33c935a40d35e26b1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56771d0c697bbd2db87f36bbf4c46ad6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56771d0c697bbd2db87f36bbf4c46ad6/xclkon/3fb653476244a23a313bd5e0a17af57b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56771d0c697bbd2db87f36bbf4c46ad6/xclkon/3f8a17b7f62674b33c935a40d35e26b1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56771d0c697bbd2db87f36bbf4c46ad6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56771d0c697bbd2db87f36bbf4c46ad6/xclkon/3fb653476244a23a313bd5e0a17af57b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56771d0c697bbd2db87f36bbf4c46ad6/xclkon/3f8a17b7f62674b33c935a40d35e26b1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

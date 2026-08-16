@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b47a06886c3cab1c6a18e709acb4d932
+Botanical Name: Pseudarthria viscida WIGHT & ARN.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 5 languages. Kannada (2) - antu bele gida, antuparni Malayalam (2) - muvila, muvvila Sanskrit (5) - Sanskrit Comments  kalasi, prsniparni, salaparni, saliparni, sanaparni Tamil (8) - kotiottai, muvilai, muvilaippunnai, muvilaippunnaimaram, neermali, nirmalli, pitani 3, pitani# Telugu (6) - muyak, muyaku ponna, muyyaku ponna, muyyakuponna, nayaku ponna, nayakuponna
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b47a06886c3cab1c6a18e709acb4d932
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1755
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1755.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b47a06886c3cab1c6a18e709acb4d932
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b47a06886c3cab1c6a18e709acb4d932
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b47a06886c3cab1c6a18e709acb4d932
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Amsumati
+sanskrit_name: अंशुमती
+transliteration: aṃśumatī
+ref_drug_name: अंशुमती
+status: Most probable
+discussion: This species is used as Amsumati in Kerala
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

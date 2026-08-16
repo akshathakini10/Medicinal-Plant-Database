@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f1450d1476d9ff946658d43148da85a3
+Botanical Name: Dioscorea deltoidea WALL. E KUNTH
+Family: Dioscoreaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 1 languages. Hindi (15) - baniatakari, harvish, janj, jung kinch, kanis, khildri, khitha, kinch, kiris, kunj calendi, kural, kural/mithiari, kuralm mithiari, shingli-mingli, singlimingli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1450d1476d9ff946658d43148da85a3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1450d1476d9ff946658d43148da85a3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aluka - bheda
+sanskrit_name: आलुक भेद
+transliteration: āluka bheda
+ref_drug_name: आलुक भेद
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

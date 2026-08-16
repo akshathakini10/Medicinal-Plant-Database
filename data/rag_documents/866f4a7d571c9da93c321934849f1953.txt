@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 866f4a7d571c9da93c321934849f1953
+Botanical Name: Entada scandens BENTH.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Eniada scandens AUCT. NON BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 55 Vernacular names found in 8 languages. English (2) - nicker or mackay bean, sea bean Hindi (1) - barabi chian Kannada (6) - doddakampi, haleballi, halle, hallebilu, hallekayiballi, palleburu Malayalam (14) - ahakkatela, anatata, entada, kakkavalli, makkanka, paranda, paranta, parin-kakavalli, paringakakavully, paringakavalli, perimkakuvalli, perumkakkavalli, perunkakkavalli, vattavalli Marathi (3) - garambi, garbe, girambi Sanskrit (1) - Sanskrit Comments  gilla Tamil (22) - anaittellu, camuttirappuliyan#, camuttirappuliyan@, cillu, irikki, kirancakamirakkoti, kirancakamiram, nukkuki, nukkukikkoti, ottolakkoti, ottolam, perumancati, peruntellu, peyarttavakkoti, peyarttavam, sillu, tel, tellu, tellukkoti, viccali, viccalittellu, yanaittellu Telugu (6) - gila-tiga, gilatige, gillatige, peddamadupu, tandramanu, tikativva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953/xclkon/2cf7db7022bcb283f075c98329ee388e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953/xclkon/2cf7db7022bcb283f075c98329ee388e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953/xclkon/2cf7db7022bcb283f075c98329ee388e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/866f4a7d571c9da93c321934849f1953
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Prthvika
+sanskrit_name: पृथ्वीका
+transliteration: pṛthvīkā
+ref_drug_name: पृथ्वीका
+status: ST
+discussion: This species may be examined; They are used for external application
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

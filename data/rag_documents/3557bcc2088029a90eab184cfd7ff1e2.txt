@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3557bcc2088029a90eab184cfd7ff1e2
+Botanical Name: Solanum anguivi LAM.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Solanum indicum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 202 Vernacular names found in 8 languages. Hindi (22) - ban bhatta, ban tambaku, ban tobacco, ban tobaccoo, bantobacco, barhanta, barhata, barikatai, bhatakataiya, bhtkataya, bhui ringna, bhui-ringna, bhut kataia, bhutkataiya, birhatta, dolari-ringa, dolri ringna, kandiari, kattarha, kolsi, lagwal, vadikadheri Kannada (29) - badane, biligulle, bitthi gulla, chunde, gulla, habbagulla, habbugulla, hebbagulle, kaadu sonde, kachi, kaci, kadchunde, kaduchunde, kadusonde, kallante, kamanca, kamancha, kamanja, kempu gulla, kempugulla, kiriguligida, kirigulla, mullu habbu gulla, oedema, ramgulla, sonde, vanavrntaki, vayasa, vayase Malayalam (17) - cerucunda, cerucunta, ceruvalutina, cheru-chunta, cheruchunda, cheruchunta, cheruvaladana, cheruvalutina, cheruvazhutina, chunde, chunta, cunta, nilavalutina, nilavazhutina, puttiriccunta, scheru-schunda, valutina Marathi (11) - chinchardi, ddolimoola, dorli, mothi-ringani, moti ringani, mottiringanee, ran-vayangini, ranrigni, ringani, simsarti, thorlidorli Sanskrit (46) - Sanskrit Comments  akranta, alpaphala, asprasi, bahupatri, bhantaki, bhunimbah, brahati, brhati, brihati, brihatika, dovadi, hinguli, kantakari, kantakarika, kantakini, kanthalu, kanthatanu, katphala, kranta, kshudrabhanta, kshudrabhantaki, kshudravartaki, ksudrabhantaki, ksudrabrhati, kuli, lata, mahadvyaghri, mahati, mahatikranta, mahotika, paravedi, prasaha, raktapaki, rashtrika, simhi, sinhi, sinhika, sparsa, sthulabhandaki, sthulakantha, torani, vanavrintaki, vartaki, vrhati, vrihati, vyaghri Tamil (44) - celumai, chiru vazhuthalai, cinkikam, ciruvalutalai 2, ciruvalutunai 2, kandal, kantavisa, karcci, kari mulli, kari-mulli, karimulli, kerci, kulicinki, kuttuchadikkandangattarai, moolie vayr, mulkatri, mulli, mullikkattiri, mundagam, naimulli, naymulli, pappara mulli, pappara-mulli, papparamulli, pappramulli, papramuli, peratti, perumuttirikam, pettamulam, petti, piturkkattiri, puttiriccuntai, siruvaludalai, talava, tamakanti, tavanatcamaci, tittakarutti, toni, tutpiratatcani, valutunai, varattalaku 2, varttaki, vazhuthunai, vazudunai Telugu (29) - adavi uchinta, adaviyuccinta, adaviyuchinta, adivi utchinta, callamulaga, challa mulaga, challamulaga, chitti mulaga, chittimulaga, chittimulagu, cittimulaga, kaakimaachi, kaka-machi, kakamachi, kakamunci, kaki mulaga, kakimachi, kakimaci, mulla vankaaya, nalla mulaka, nallamulaga, nallamulaka, tella-mulaka, tellamoolaka, tellamulaka, thellamulaka, usthakaya, vankudu, varthaki Tibetan (4) - bri ha ti, bri-ha-ti, sim-hi, sri ha ti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/eb17c0288b708fcdb623b6f702d5042c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1938
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1938.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/eb17c0288b708fcdb623b6f702d5042c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/eb17c0288b708fcdb623b6f702d5042c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/eb17c0288b708fcdb623b6f702d5042c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/014ee9436ba3b3b4d4dfff54fddddd72
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3557bcc2088029a90eab184cfd7ff1e2/xclkon/eb17c0288b708fcdb623b6f702d5042c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Brhati
+sanskrit_name: बृहती
+transliteration: bṛhatī
+image_urls: https://www.medicinalplants.in/slokaimages/1501/1501_1.jpg https://www.medicinalplants.in/slokaimages/1501/1501_2.jpg https://www.medicinalplants.in/slokaimages/1501/1501_3.jpg https://www.medicinalplants.in/slokaimages/1501/1501_4.jpg
+ocr_text: बृहतीमहतीसिंहीप्रसहाहिंगुलीकुली| | अक्रान्ताक्षुद्रवार्ताकीरक्तापाकीलतातथा Brhati, mahati, simhipa, saha, hinguli, Kuli, akranta, ksudra vartaki, raktapaki and lata are the synonyms वृहतीकटुतिक्तोष्णावातजिज्जवरहारिणी | अरोचकामकासघ्नीश्वासहृद्रोगनाशिनीI| (Rjn) Brhati is katu, tikta in rasa, usna in veerya, alleviates vata, cures jvara, arocaka, ama, kasa, svasa and hrdroga. फलगुणाः फलानिबृहतीनांचकटुतिक्तलघुनिच [ कण्डूकुष्ठकृमिघ्नानिकफवातहराणिच | | Its phala is katu, tikta in rasa, laghu in guna, alleviates kandu, kustha, krmi, kapha, vata. क्षुद्रबृहतिका लघ्वीबृहतिकावातश्वासशूलकफापहा अग्निमांद्यंज्वरंछर्दिहृद्रुगामंचनाशयेत् Laghu brhati alleviates vata, svasa, sula, kapha, mandya, jvara, chardi, hrdroga and ama agni

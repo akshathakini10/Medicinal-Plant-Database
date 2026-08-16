@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ceec640ff97cce7e1924aa9f6e2209ae
+Botanical Name: Garcinia cambogia GAERTN. DESR.
+Family: Clusiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Garcinia gummi-gutta (L.) ROBS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 95 Vernacular names found in 7 languages. Hindi (1) - bilatti-amli Kannada (34) - aesali, aesalu huli, aradaalada mara, aradal, aradala, aradalada, aradalaupagi, arasina pulige, arasinapulige, ardala, esali, esalpuli, heela, hile, kadagolu, karkapuli, karkpuli, mandu huli, manthey huli, manthuli, manthulli, mantulli, munthe huli, muragi, ontepuli, opagi mara, otekayi, punarpuli, seeme hunise, seeme kamboge, simai hunase, upagi, upagi mara, vote kaayi Malayalam (24) - chigiri, cikiri, coddam-pulli, coddampulli, kadumpuli, kodagam, kodakapuli, kodakkapuli, kodampuli, kodappuli, kodapuli, korugan, kotakkappuli, kotappuli, kottukkappuli, kurkapullie, kurukkampuli, kutampuli, kutappuli, marappuli, penanga, pinampuli, pinar, pinaru Marathi (5) - aradal, daraambaa, darambo, dharamba, dharambe Sanskrit (1) - Sanskrit Comments  vrksamlah Tamil (23) - cakkiraviriyam, catpeti, cattapeti, cikiri, cimaikkorukkappuli, cimaikkorukkappulimaram, cimaikkorukkayppuli, ilappuli, kapavatamariyan, kattimutantam, kattimutantamaram, kodakkapuli, kodukkappuli, korukka 2, korukkaip-puli, korukkaippuli, korukkampuli, korukkay 2, kotakan, namalomalam, punampuli, takattaippokki, takattaiyatakki Telugu (7) - seemachinta, simachinta, simacinta, vaadachinta, vadachinte, vadacinte, vrksamla
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ceec640ff97cce7e1924aa9f6e2209ae/xclkon/8a85c276e18ec0b31ac2d81b08a60dd5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 4811
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/4811.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ceec640ff97cce7e1924aa9f6e2209ae
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ceec640ff97cce7e1924aa9f6e2209ae/xclkon/8a85c276e18ec0b31ac2d81b08a60dd5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ceec640ff97cce7e1924aa9f6e2209ae
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ceec640ff97cce7e1924aa9f6e2209ae/xclkon/8a85c276e18ec0b31ac2d81b08a60dd5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ceec640ff97cce7e1924aa9f6e2209ae
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ceec640ff97cce7e1924aa9f6e2209ae/xclkon/8a85c276e18ec0b31ac2d81b08a60dd5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

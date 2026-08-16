@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dc62463177e8e26330cece87dadc8810
+Botanical Name: Pistacia lentiscus L.
+Family: Pistaciaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 5 languages. English (3) - lentisco, lentisk, mastic Hindi (1) - rmimastaki Sanskrit (1) - Sanskrit Comments  rumimastagi Tamil (9) - cimairumimattaki, irumimalaittaki, poonaikan kungiliyam, punai-k-kan kunkiliyam, punaikkan kunkiliyam, roomie mustiki, rumimas taki kunkiliyam, rumimastaki, rumimastakicceti Urdu (9) - mastagi, mastagi rumi, mastagi runi, mastagi-i-rumi, mastaki, mastic, mastogi, mastogi rumi, rumi mastagi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc62463177e8e26330cece87dadc8810
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc62463177e8e26330cece87dadc8810
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc62463177e8e26330cece87dadc8810
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc62463177e8e26330cece87dadc8810
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karkasa
+sanskrit_name: कर्कश
+transliteration: karkaśa
+ref_drug_name: कर्कट
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Karkata
+sanskrit_name: कर्कट
+transliteration: karkaṭa
+ref_drug_name: कर्कट
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

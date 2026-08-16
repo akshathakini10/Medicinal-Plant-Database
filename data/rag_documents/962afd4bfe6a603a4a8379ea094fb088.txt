@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 962afd4bfe6a603a4a8379ea094fb088
+Botanical Name: Pistacia vera L.
+Family: Pistaciaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. English (1) - pistachio nut Hindi (2) - buzaganja, guli pistah Sanskrit (3) - Sanskrit Comments  abhisuka, mukulakam, nikocakam Urdu (7) - gul pista, ilak-ul-anbat, maghz pista, pista, poast bairun pista, poast pista, roghan pista
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/962afd4bfe6a603a4a8379ea094fb088
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/962afd4bfe6a603a4a8379ea094fb088
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/962afd4bfe6a603a4a8379ea094fb088
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Abhisuka
+sanskrit_name: अभिषुक
+transliteration: abhiṣuka
+ref_drug_name: अभिषुक
+status: Accepted source
+discussion: Imported
+reference: [1]
+
+Identity Record 2
+drug_name: Abhisuka
+sanskrit_name: अभिषुक
+transliteration: abhiṣuka
+ref_drug_name: अभिषुक
+status: Accepted source
+discussion: Identified with this species
+reference: [4]
+
+Identity Record 3
+drug_name: Abhisuka
+sanskrit_name: अभिषुक
+transliteration: abhiṣuka
+ref_drug_name: अभिषुक
+status: Most probable
+discussion: Abhisuka is mentioned along with fruits like 'Vatama', 'Aksoda' etc which are dry and unctuous in nature; Some of them identify 'Pista' with 'Abhisuka' and even the author agrees with it and identifies 'Abhisuka' with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

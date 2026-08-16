@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 92086bd1150c9bf98348c10418025c79
+Botanical Name: Calycopteris floribunda LAM.
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 74 Vernacular names found in 7 languages. Hindi (2) - kokaray, kokkarai Kannada (28) - aejarike, aenjarike, baaguli, baguli, baguli balli, biliyadi, enjarigekubsa, enjarigekutsa, hangarike, hanjarike kuchchu, hanjarikekuccu, hanjarikekuchu, kuchchu kuppusa, kuchhu, kukkasada balli, kumasalu, kupasa, kuppasa, kupsa, mara suthu balli, marasada balli, marasuthhu balli, marasuttu balli, marasuttuballi, marsada, marsadaballi, marsadaboli, yenjarike Malayalam (3) - pullani, pullanji, varavalli Marathi (4) - baguli, boguli, ukshi, wukshi Sanskrit (3) - Sanskrit Comments  pullani, sitapaki, susavi Tamil (6) - mannar koti, marsada boli, minnargodi, minnarkoti, pillani, therulankodi Telugu (28) - adavi jama, adivijaama, adivijama, banda puvvulu, bandeemooroodoodoo, bandimurududu, bandimurugudu, bontathige, bontha, gaddaputike, gedda puthika, geddaputhiki, kalika-tige, kalikatige, karravadala, karravedala, kattavedala, kollingatheega, muruguduthige, murugudutige, pippindatheega, pippindathige, pippindatiga, pippindatige, pottengi, tellavadala, thanduga, thellavadala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92086bd1150c9bf98348c10418025c79
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 413
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/413.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92086bd1150c9bf98348c10418025c79
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/92086bd1150c9bf98348c10418025c79
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

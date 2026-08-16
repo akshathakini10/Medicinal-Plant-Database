@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0f1cc4df1335bcbf17185d5782def827
+Botanical Name: Vanda testacea (LINDL.) REICHB.F.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Vanda parviflora LINDL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Kannada (1) - kiriraasna Telugu (1) - vajnika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f1cc4df1335bcbf17185d5782def827
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f1cc4df1335bcbf17185d5782def827/xclkon/0bc07c008110a6bfcdce2b36661ee5c1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f1cc4df1335bcbf17185d5782def827
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a42de633883ac141d7471933919f4e45
+Botanical Name: Spinifex littoreus (N.BURM.) MERR.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 4 languages. Kannada (2) - elimullu, raavanana meese Malayalam (1) - ily-mullu Tamil (11) - almarittanpul, elikkuccippul, elikkuncappul, elimullu, iravanabul, iravananmicai, iravananmovayppul, iravananpul, kulan, kulanmicaippul, ravana-meesai Telugu (4) - gutti romala gaddi, meesalu, raavanaasuruni meesaalu, ravanasurini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a42de633883ac141d7471933919f4e45
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a42de633883ac141d7471933919f4e45
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a42de633883ac141d7471933919f4e45
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

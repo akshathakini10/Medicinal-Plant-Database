@@ -1,0 +1,97 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: acbc05d9fef4a6e8501f55ec4323d5b8
+Botanical Name: Cassia absus L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 113 Vernacular names found in 9 languages. Hindi (10) - banar, bankultthi, caksu, chaaksee, chaksi, chaksu, chakut, cheaksu, chiksi, chimas Kannada (12) - adavihuli, chaksu, cheemaara, elehuri, haalu beeja, kaadu huliga, kaadu hurali, kanbelaga, kanna beeja, kannu kutukana beeja, kannu kutukina beeja, kulathanjana Malayalam (3) - karin-kolla, karinkilla, karinkolla Marathi (2) - chamada, kankuti Sanskrit (17) - Sanskrit Comments  arangakulitthika, aranyakulattha, aranyakulatthika, caksusya, chakshushya, chipita, drikaprasada, kananottha, kulani, kulattha, kulatthika, kulmasha, kumbhakarini, kurubilwaka, lochanahita, vanyakulattha, vanyakulatthah Tamil (62) - atavikanam, ayantiramakam, cannita, catacciyankam, catavu, catcuki, cimpikam 3, cintatiyam, citacamiyam, civappirotta, edikkol, idi kollu, idikkol, itikkol, itikkollucceti, itukol, kaattukollu, kacakakkollu, kacakam, kacappukkol, kanam, karkkol, karkkoli 2, karkkolini, karkkolinicceti, karkoli 2, karpurattotiyam, karum, karunganam, karunkanam, karunkol, karunkollu, karuppukkol, karuppukkollu, kattu-k-kollu, kattukko, kattukkol, kattukkollu, kattukol, katuputukollu, katuputukollucceti, kulattikai, kulattikalan, kulavilo, kummatari, kuttukkol, malapaka, mulaipalyirai, mulaippal vitai, mulaippal-virai, mulaippalavirai, mulaippalvirai, mulaippalvitai, narkantaparpamakki, peykkollu, pirottattam, tekacitti, uppitanku, uppitankucceti, vaccatakacceti, vaccatakam, vanakulali Telugu (4) - cahnupalavithulu, chanupala vittulu, chanupala-vittulu, chanupalavittulu Tibetan (2) - rgya snag nag po, rgya sran nag po (d) Urdu (1) - chaksu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 460
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/460.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/acbc05d9fef4a6e8501f55ec4323d5b8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Caksusya
+sanskrit_name: चक्षुष्या
+transliteration: cakṣuṣyā
+ref_drug_name: चक्षुष्या
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Kulattha
+sanskrit_name: कुलत्थ
+transliteration: kulattha
+ref_drug_name: कुलत्थ
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Kulatthika
+sanskrit_name: कुलत्थिका
+transliteration: kulatthikā
+ref_drug_name: कुलत्थिका
+status: Most probable
+discussion: In the Nighantus, Kulatthika has been named as Caksusya which is correlated to Cassia absus
+reference: [1]
+
+Identity Record 4
+drug_name: Prapaundarika
+sanskrit_name: प्रपौण्डरीक
+transliteration: prapauṇḍarīka
+ref_drug_name: प्रपौण्डरीक
+status: Controversial
+discussion: There are many views regarding identification of Prapaundarika; Based on its synonym 'Caksusya' it is correlated to this species
+reference: [2]
+
+Identity Record 5
+drug_name: Vanyakulattha
+sanskrit_name: वन्यकुलत्थ
+transliteration: vanyakulattha
+ref_drug_name: वन्यकुलत्थ
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kulattha
+sanskrit_name: कुलत्थ
+transliteration: kulattha
+image_urls: https://www.medicinalplants.in/slokaimages/1700/1700_1.jpg https://www.medicinalplants.in/slokaimages/1700/1700_2.jpg https://www.medicinalplants.in/slokaimages/1700/1700_3.jpg
+ocr_text: उष्णाः कषायाः पाकेडम्लाः कफशुक्रडनिलापहाः [ कुलत्थाः ग्राहिणः कासहिक्काश्वासर्शसां हिताः | | चरक Kulattha is kashaya in rasa, grahi in guna usna in veerya, amla in paka alleviates kapha sukra anila dosha, cures kasa, hikka, svasa and arsas उष्णः रसतः कायः कटुर्विपाके कफमारुतघ्नः शुक्रश्मरिगुल्मनिषूदनश्च संग्राहकः पीनसकासहारी| | आनाहमेदोगुदकीलहिक्काश्वासापहः शोणितपित्तकृच्च कफस्य हन्ता नयनामयघ्नः विशेषतो वन्यकुलत्थ उक्तः (सुश्रुतः) Kulattha is kashaya in rasa, sangrahi in guna, usna in veerya, katu in paka, alleviates kapha ana vata, cures sukra asmari, gulma, pinasa and kasa Specifically vanya kulattha cures anaha, meaa, guaa kila, hikka, svasa sonita pitta, kapha and nayanamaya. कुलत्थो कषायस्वादुरूक्षोष्णाः कुलत्थाः रक्तपित्तलाः पीनसश्वासकासार्शोहिध्मा आनाहकफानिलान्|| घ्नन्ति शुक्रश्मरीं शुक्रं शोफं तथोदरम् | ग्राहिणो लघवस्तीक्ष्णा विपाकेउम्लै विदाहिनः| | (वृद्धवाग्भटः ) It is kashaya, svaau in rasa, grahi, laghu, tiksna in guna, usna in veerya, amla in paka, rakta pittala, viaahi, cures pinasa, svasa, kasa, arsa, hidhma, anaha , kapha, anila, sukrasmari, sukra, drsti, sopha and udara, दृष्टि

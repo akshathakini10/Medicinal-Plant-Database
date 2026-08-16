@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9b3a3c45b2b20ffface56d497b07d8b0
+Botanical Name: Cordia wallichii G.DON
+Family: Cordiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cordia obliqua WILLD. var. wallichii (G.DON) CL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 52 Vernacular names found in 7 languages. Hindi (2) - bairola, buralessura Kannada (7) - chadle, challe, chandle, doddachalle, mannadaki, salle, solle mara Malayalam (4) - naruviri, periyaviri, valiyavanichhi, virimaram Marathi (2) - bhonkar, burgunda Sanskrit (21) - Sanskrit Comments  bahuvaraka, bahuwara, bhutadruma, bhutavriksha, dvijakutsita, gandhapushpa, karbudara, karbudaraka, lekhashataka, pichhila, selu, shailu, shapita, shataka, shelu, shitala, shitaphala, shleshmata, shleshmataka, uddala, uddalaka Tamil (11) - ali, naamaviri, namaviri, naruvili, palantekku, perunaruvili, sidam, veniru, vidi, viri, viriyan Telugu (5) - kichavirigi, kondavirigi, nakkera, peddabotuku, peddanakkera
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3a3c45b2b20ffface56d497b07d8b0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3a3c45b2b20ffface56d497b07d8b0/xclkon/d0b74b516c0b67b5c20bcb354d94d4b6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3a3c45b2b20ffface56d497b07d8b0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3a3c45b2b20ffface56d497b07d8b0/xclkon/d0b74b516c0b67b5c20bcb354d94d4b6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3a3c45b2b20ffface56d497b07d8b0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3a3c45b2b20ffface56d497b07d8b0/xclkon/d0b74b516c0b67b5c20bcb354d94d4b6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3a3c45b2b20ffface56d497b07d8b0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Slesmataka
+sanskrit_name: श्लेष्मातक
+transliteration: śleṣmātaka
+ref_drug_name: श्लेष्मातक
+status: Substituted source
+discussion: This species is used as its substitute
+reference: [1]
+
+Identity Record 2
+drug_name: Slesmataka - jati
+sanskrit_name: श्लेष्मातक जाति
+transliteration: śleṣmātaka jāti
+ref_drug_name: श्लेष्मातक जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Slesmataka
+sanskrit_name: श्लेष्मातक
+transliteration: śleṣmātaka
+image_urls: https://www.medicinalplants.in/slokaimages/493/493_1.jpg https://www.medicinalplants.in/slokaimages/493/493_2.jpg https://www.medicinalplants.in/slokaimages/493/493_3.jpg https://www.medicinalplants.in/slokaimages/493/493_4.jpg
+ocr_text: श्लेष्मातको हिमः स्वादिः स्याद्रुक्षः पिच्छिलः शुचिः | | (घ. नि॰) Slesmataka is svadu in rasa, ruksa, picchila in guna, hima in veerya and suci. श्लेष्मलं मधुरं शीतं श्लेष्मातकपलं गुरु (चरक॰ सू॰ २७ १५२) Slesmataka phala is madhura in rasa, guru in guna , sita in veerya, increases slesma. श्लेष्मातकः कटुहिमो मधुरः कषायः स्वादुश्च पाचवकरः कृमिशूलहारी| आमास्रदोषफलरोधबहुव्रणार्त्ति विस्फोटशान्तिकरणः कफकारकश्च| | भूकर्बुदारो मधुरः कृमिदोषविनाशनः वातप्रकोपनः किञ्चित् सशीतः स्वर्णमारकः (Rjn Slesmataka is katu, madhura, kashaya in rasa, hima in veerya, svadu in paka, increases kapha, alleviates krmi, sula, ama, asra dosha, phala rodha, bahu vrana, arti ana visphota. Bhuka budara is madhura in rasa, kincit sita in veerya, increases vata destroys krmiaosha, is svarna maraka विस्फोटव्रणविसर्पकुष्ठनुत् मधुरस्तुवरस्तिक्तः केश्यश्च कफपित्तहृत् || फलमामन्तु विष्टम्भिरक्तपित्तकफास्रजित्| | फलमामन्तु मधुरं स्निग्धं श्लेष्मलं शीतलं गुरु|| (Bpnl Bahuvara is madhura, tuvara , tikta in rasa, kesya, alleviates kapha, pitta, visphota, vrana, visarpa and kustha. Ama phala is maahura in rasa, snigdha, guru in guna, sita in virya, increases slesma, is vistambhi, alleviates raktapitta, kapha ana asra बहुवारो

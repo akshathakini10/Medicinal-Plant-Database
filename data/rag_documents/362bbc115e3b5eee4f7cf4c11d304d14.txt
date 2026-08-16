@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 362bbc115e3b5eee4f7cf4c11d304d14
+Botanical Name: Acacia ferruginea DC.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 73 Vernacular names found in 7 languages. Hindi (5) - kaigar, kalgar, kingore, safed khair, safed-khair Kannada (4) - banni, banni mara, banue, kiri banni Malayalam (3) - karivelam, thimai-velvelam, vanni Marathi (5) - dhavi-khair, pandhra khair, pandhrakhair, pandra-khair, tandara-khair Sanskrit (18) - Sanskrit Comments  arimedah, brahmashalya, dvijapriya, kadara, kantadhya, karmmuka, khadira, khadiroparna, kujakantaka, mahavriksha, memivriksha, pathidruma, shvetasara, shyamasara, somasara, somavalkala, somavriksha, somawalkah Tamil (24) - cimai-velvel, cimaivelvel, karambai, metacattuvacaram, metaccavarai, mulvel, pacunkonti, pacunkontimaram, parambai, peykkarungali, peykkarunkali, shimai-velvel, simaivellel, simavelvel, vanni, vanni 3, vannikuruttuvelan, velvel, velvel@, velvelam, velvelan 1, venvelam, yakimay, yatimay Telugu (14) - an-sandra, anachandra, anasandra, inupa tumma, tellatumma, thellathumma, val-sandra, vannesandra, vanni sundra, vannisundra, vellichandra, vellisandra, vuni, woani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/362bbc115e3b5eee4f7cf4c11d304d14
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/362bbc115e3b5eee4f7cf4c11d304d14
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/362bbc115e3b5eee4f7cf4c11d304d14
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

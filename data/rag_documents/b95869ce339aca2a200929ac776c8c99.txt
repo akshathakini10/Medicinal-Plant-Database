@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b95869ce339aca2a200929ac776c8c99
+Botanical Name: Celtis philippensis BLANCO
+Family: Ulmaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 5 languages. Kannada (8) - aduva, bilee kaaka musthi, bili kaka musthi, bilikaaka mushti, gaeru kallu, gorkallu, kallakaaka mushti, pelle Malayalam (2) - bhoothakkali, peenari Marathi (1) - kaajree Tamil (2) - elumpirutti, vakkanai Telugu (4) - kaakamushti, kovakamushti, thellakokamushti, verrimushti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b95869ce339aca2a200929ac776c8c99
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b95869ce339aca2a200929ac776c8c99
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b95869ce339aca2a200929ac776c8c99
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

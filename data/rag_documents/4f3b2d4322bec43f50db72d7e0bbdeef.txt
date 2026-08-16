@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4f3b2d4322bec43f50db72d7e0bbdeef
+Botanical Name: Artocarpus lakoocha ROB.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 91 Vernacular names found in 8 languages. English (1) - lacoocha Hindi (10) - badahara, barhai, barhal, dahu, dahua, dhao, dhau, dhava, dheu, lakuch Kannada (13) - esalpuli, esuluhuli, lakuca, lakucha, otehuli, vatehuli, vonte, watchuli, watehuli, wonta, wotihuli, wotte-huli, wottehuli Malayalam (12) - chima, chimpa, cimpa, lakucam, lakucham, pulincakka, pulinchakka, pulinjakka, theetiplavu, thittipilavu, tirrimpilavu, tittimpilavu Marathi (7) - badhar, kshudraphanas, phala, vatara, vomt, votamba, wotomba Sanskrit (16) - Sanskrit Comments  airawata, amlaka, dahu, dridhavalkala, granthimatphala, granthiphala, karshya, kashayi, kshudrapanasa, lakuca, lakucha, likuca, likucha, nikucha, shalashura, sthulaskandha Tamil (27) - airavatam 2, amalakam 2, amalapanacam, colaippakku, cuttirapanacam, ilagusam, ilakucam, irappala, kampantoritamaram, kanmaraki, kanmarakimaram, kapalavam, kapalavamaram, kavattiram, kurankuppala, lakucam, ottipila, pacalatti 1#, pacalatti 1@, paccaippala 2, palacam 1, pecalatti, solaippakku, taku, tinippalavu, tinippilavu, tirilaippalai Telugu (5) - kammaregu, lakuchamu, likuchamu, nakkaremu, nakkarenu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f3b2d4322bec43f50db72d7e0bbdeef
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f3b2d4322bec43f50db72d7e0bbdeef
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f3b2d4322bec43f50db72d7e0bbdeef
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Lakuca
+sanskrit_name: लकुच
+transliteration: lakuca
+ref_drug_name: लकुच
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Lakuca
+sanskrit_name: लकुच
+transliteration: lakuca
+ref_drug_name: लकुच
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 3
+drug_name: Lakuca
+sanskrit_name: लकुच
+transliteration: lakuca
+ref_drug_name: लकुच
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

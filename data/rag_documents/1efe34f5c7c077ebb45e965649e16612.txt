@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1efe34f5c7c077ebb45e965649e16612
+Botanical Name: Elaeagnus kologa SCHLECHT.
+Family: Elaeagnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 3 languages. Kannada (13) - ambagola, gunna mada balli, gunnaamada balli, halage balli, hejjaale balli, hittele, hittele hulige, hittirlu balli, hulige hundase beelu, kaaduhuli balli, kerehuli, kulangi, mele kollija Marathi (4) - ambgul, jeebha kaathri, nildook, nurgi Tamil (4) - kolungai, kulangi, kulanki, perunkuliri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1efe34f5c7c077ebb45e965649e16612
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1efe34f5c7c077ebb45e965649e16612
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1efe34f5c7c077ebb45e965649e16612
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

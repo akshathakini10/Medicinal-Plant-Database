@@ -1,0 +1,90 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f5ac4ac0df18faf0f3690fcbc62b47bb
+Botanical Name: Hibiscus cannabinus L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 141 Vernacular names found in 10 languages. English (5) - ambari hemp, bimlipatum jute, confederate rose, deccan hemp, kenaf Hindi (7) - ambadi, ambari, nalita, patsan, pulu, san, sun Kannada (9) - ambade, gogu, holada pundrike, holadapundrike, kasala gida, pindi soppu, pinidrikegida, pundi, vundi Malayalam (3) - kancavu, kanchavu, kanjaru Marathi (4) - ambaadi, ambada, ambadi, ambari Sanskrit (32) - Sanskrit Comments  alka, ambalika, ambashtha, ambastha, ambika, amla, amlapatraka, balika, bhenda, bhinid, bhurimalli, chhinnapatri, chitrapushpi, dridhv, gandhapatri, garnikura, karaparni, keshi, machika, macika, maryurika, mayurvidala, mukhavachika, nali, phalamla, prashthika, rajjudatri, sahasravatamulika, sana, shathamba, shreyasi, vrttabija Tamil (66) - canampu, canappuppuliccai, cetikkacuraikkirai, curi2, kacalkirai, kacaraikkirai, kaccakkirai, kaccam, kaccirakku, kacciranku, kaccorikkirai, kaccurai, kaccurakkainar, kaccurakkirai, kaccuram, kaccurukkukkirai, kachurai, kachurukkai, kacilikkirai, kacini-k-kirai, kacinikkirai, kairavali, kairavalikacceti, kairavalikam, katiyilai, kattukkayccurai, kattuppuliccai, kayccirakku#, kayccori, kayccurai, kayccurukku, kaycurai, kayiciranku, kincaka, kincakakkirai, kotikkacarai, kottikkacaraikkirai, nali, oulimanji, palungu, phalungu, piliccai, puliccai, puliccaikkirai, puliccakkirai, puliccana, puliccankirai, puliccha keerai, pulicciru kirai, puliccukkirai, pulich-chirukirai, pulichai, pulichai-keera, pulichakeerai, pulicharkirai, pulichhai, pulichi, pulimancai, pulimanci#, pulimanci@, pulimanjai, pulimanji, pulimaricai, pulivincai, valikai, valikaikkirai Telugu (13) - ghongookoora, ghongukuru, gogu, golungu, gongoora, gongura, gonkoora, gonkura, gulugu, gulungu, gulunguchettu, gungkura, pundikura Tibetan (1) - a mba sti Urdu (1) - mushkadanah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5ac4ac0df18faf0f3690fcbc62b47bb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ambastha
+sanskrit_name: अम्बष्ठा
+transliteration: ambaṣṭhā
+ref_drug_name: अम्बष्ठा
+status: Controversial
+discussion: Ambastha' has been mentioned in Caraka; With regard to its popularity there were a group of drugs mentioned under its name in Susruta samhita; Cakrapani has identified it has 'Pathabheda' where as Dalhana as 'Kakamaci'; But both of them can be ruled out as have different rasa (taste) when compared to 'Ambastha'; During the medieval period its identity was controversial and it was considered as a synonym of many drugs having amla rasa; So it was identified with this species; But there is a doubt regarding this as 'Ambastha' mentioned in Samhitas was having kasaya rasa; Needs to be studied further
+reference: [5]
+
+Identity Record 2
+drug_name: Ambastha
+sanskrit_name: अम्बष्ठा
+transliteration: ambaṣṭhā
+ref_drug_name: अम्बष्ठकी
+status: Controversial
+discussion: This drug needs to be examined as there is a confusion regarding 2 names which are synonyms of each other and are also mentioned under 2 different group of drugs in the ancient texts.
+reference: [1]
+
+Identity Record 3
+drug_name: Ambasthaki
+sanskrit_name: अम्बष्ठकी
+transliteration: ambaṣṭhakī
+ref_drug_name: अम्बष्ठा
+status: Controversial
+discussion: Ambastha' has been mentioned in Caraka; With regard to its popularity there were a group of drugs mentioned under its name in Susruta samhita; Cakrapani has identified it has 'Pathabheda' where as Dalhana as 'Kakamaci'; But both of them can be ruled out as have different rasa (taste) when compared to 'Ambastha'; During the medieval period its identity was controversial and it was considered as a synonym of many drugs having amla rasa; So it was identified with this species; But there is a doubt regarding this as 'Ambastha' mentioned in Samhitas was having kasaya rasa; Needs to be studied further
+reference: [5]
+
+Identity Record 4
+drug_name: Ambasthaki
+sanskrit_name: अम्बष्ठकी
+transliteration: ambaṣṭhakī
+ref_drug_name: अम्बष्ठकी
+status: Controversial
+discussion: This drug needs to be examined as there is a confusion regarding 2 names which are synonyms of each other and are also mentioned under 2 different group of drugs in the ancient texts.
+reference: [1]
+
+Identity Record 5
+drug_name: Bhenda
+sanskrit_name: भेण्डा
+transliteration: bheṇḍā
+ref_drug_name: भेण्डा
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

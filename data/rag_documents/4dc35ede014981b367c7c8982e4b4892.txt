@@ -1,0 +1,93 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4dc35ede014981b367c7c8982e4b4892
+Botanical Name: Ephedra gerardiana WALL.
+Family: Ephedraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Ephedra vulgaris HOOK.F. NON A.RICH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 6 languages. Hindi (9) - ain, janusar, khanda, khanta, kharna, kunawar, somlata, torgatha, tutgautha Kannada (4) - janusar, khanda, kharna, kunawar Malayalam (4) - janusar, khanda, kharna, kunawar Sanskrit (3) - Sanskrit Comments  saumya, som, soma Tamil (4) - janusar, khanda, kharna, kunawar Telugu (4) - janusar, khanda, kharan, kunawar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892/xclkon/711ae1acf251dbe4b267eaa583f6c27b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 901
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/901.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892/xclkon/711ae1acf251dbe4b267eaa583f6c27b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4dc35ede014981b367c7c8982e4b4892/xclkon/711ae1acf251dbe4b267eaa583f6c27b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Soma
+sanskrit_name: सोम
+transliteration: soma
+ref_drug_name: सोम
+status: Substituted source
+discussion: This species is used as its substitute
+reference: [5]
+
+Identity Record 2
+drug_name: Soma
+sanskrit_name: सोम
+transliteration: soma
+ref_drug_name: सोम
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Somavalli
+sanskrit_name: सोमवल्ली
+transliteration: somavallī
+ref_drug_name: सोम
+status: Substituted source
+discussion: This species is used as its substitute
+reference: [5]
+
+Identity Record 4
+drug_name: Somavalli
+sanskrit_name: सोमवल्ली
+transliteration: somavallī
+ref_drug_name: सोम
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Soma
+sanskrit_name: सोम
+transliteration: soma
+image_urls: https://www.medicinalplants.in/slokaimages/1446/1446_1.jpg
+ocr_text: सोमक्षीरी धन्वतरुर्यज्ञनेता द्विजप्रियः | | पक्षपत्रो महार्घोअन्यो नहागुल्मो मखप्रभुः | श्येनाहृतस्तस्य भेदा विंशतिश्चतुरुत्तरा| | सोमवल्ली कटुस्तिक्ता त्रिदोषघ्नी रसायनी| KKdn) Synonyms of soma are somaksiri, dhanvataru, yagnaneta, dvijapriya, paksapatra, maharga, mahagulma, makhaprabhu, syenahrt. It is katu, tikta in rasa, alleviates tridoshas rasayana in karma and
+
+Shloka Record 2
+drug_name: Somavalli
+sanskrit_name: सोमवल्ली
+transliteration: somavallī
+image_urls: https://www.medicinalplants.in/slokaimages/1446/1446_1.jpg
+ocr_text: सोमक्षीरी धन्वतरुर्यज्ञनेता द्विजप्रियः | | पक्षपत्रो महार्घोअन्यो नहागुल्मो मखप्रभुः | श्येनाहृतस्तस्य भेदा विंशतिश्चतुरुत्तरा| | सोमवल्ली कटुस्तिक्ता त्रिदोषघ्नी रसायनी| KKdn) Synonyms of soma are somaksiri, dhanvataru, yagnaneta, dvijapriya, paksapatra, maharga, mahagulma, makhaprabhu, syenahrt. It is katu, tikta in rasa, alleviates tridoshas rasayana in karma and

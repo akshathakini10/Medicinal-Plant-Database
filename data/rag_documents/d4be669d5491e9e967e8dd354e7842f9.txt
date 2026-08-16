@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d4be669d5491e9e967e8dd354e7842f9
+Botanical Name: Ziziphus mauritiana LAM.
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Ziziphus jujuba LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 263 Vernacular names found in 10 languages. English (5) - french jujube, indian jujube, jujube, neutral henna, sedra Hindi (13) - badara, baer, bara-bor, ber, beri, bor, bordi, borti, karkandhu, kath ber, kuvala, pamji-bor, pemdiber Kannada (32) - badari, bare, bari, barihannu, ber, bogare, bogari, bogori, bogri, bore, egaci, egasi, elachi, elaci, elanji, elasi, ilanji, ilantai, ilici, ilisi, jati, jelachi, karkandhu, karkhandhyalachi, yagachi, yalachi, yalachi-hannu, yalaci, yelachi, yelanji, yelchi, yellachi Malayalam (21) - badaram, badari, elanta, elantap-pazham, elantha, elenda, elentha, ilanta, ilantappalam, ilantha, kolam, lanta, lantappalam, parintoddali, parintudai, perimtoddali, perin-toddah, perintoddah, perintutali, peruntutali, yelanda Marathi (7) - baher, ber, bera, bhor, bor, bora, bori Sanskrit (39) - Sanskrit Comments  ajapriya, badara, badarah, badari, balashta, dridhabija, dviparni, ghonta, grddhanakha, gudaphala, kantaki, karkarmadhu, kola, kolah, koli, kuvala, kuvali, madhuraphala, mahadebara, nakhi, nripabadari, nripeshta, phalashayshira, prithukoli, rajabadari, rajakoli, rajavallabha, sauvira, sincitikaphala, srigalakoli, sukrapriya, sukshmapatrika, sukshmaphala, suphala, svachha, tanubija, ubhayakantaka, vadari, vatadalla Tamil (119) - adidaram, arulatotikacceti, arulatotiyam, atitarakamaram, atitaram, attiram, attiram 2, cancarikai, cancikai, cannirotayam, cannirotayamaram, cattiracamam, cimaiyilantai, cinailantai, civakam 1, cuviriyam#, cuviriyam@, cuviriyamaram, elandai, elandap-pazham, elandei vayr, iccatti, ilandai, ilandai maram, ilantai, ilantai ilai, ilantai ppalam, ilantappalam, ilantha, ilanthei, ilatai 1, inippilantai, inturu, inturukam, inturukamaram, iracatuntu, iradi, iram, irantuntu, irantuntukam, irantuntukamaram, irati 1, iratti, irisipakam, iruntunar, irutu, kamanalatti, karkkantu, katturekam, katturekamaram, kauvalam, ko, kokilam, kokkumpatari, koli, kolikam, kolikamaram, kolmuli, kondai, kontai, korkoti, korkotimaram, kotali, kottakkoti, kottakoti, kulari, kulatti, kulavali, kulavalli, kulavallimaram, kullari, kulvali, kulvali kol, kutapalai, kutapalam, kuvalam, miruttiyupalam, mulatti, muliyeru, munnatimatu, murukatantai, nalampalam, nattilantai, nilailantai, nilavilantai, padari, pallavaparuni, pallavaparunicceti, pancamiyam, patari, patarikam, patarikamaram, pulippilantai, pulippilantaicceti, ratti, ratticceti, sivagam, tammalai, tampalai, tampalam, tanupicam, tiritapicam 1, tittipilantaimaram, tittippilantai, utirumpalam, uyastavam, vaccirakantam, vadari, vakkirakantam, valarotayam, varuvaluntimuli, vataram@, vatari, vatuputpakam, vetirimaram, vettiracceti, vettiram 1, veyam, yellande Telugu (19) - badaramu, badari, badarika, ganga regi, ganga-regu-pandu, gangaregu, gangarenu, karkandhuvu, karkhanduvu, ragu, regi, regu, regu-pandu, renga, rengha, reni, renu, reyghoo, reygoo Tibetan (3) - gya-sug, ko la, rgya sug Urdu (5) - annab, baer, ber, unab, unnab
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2266
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2266.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9/xclkon/a802dbf8338be8bd2acb962b3dd37d8e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4be669d5491e9e967e8dd354e7842f9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Badara
+sanskrit_name: बदर
+transliteration: badara
+ref_drug_name: बदर
+status: Accepted source
+discussion: Its identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Badara
+sanskrit_name: बदर
+transliteration: badara
+image_urls: https://www.medicinalplants.in/slokaimages/1750/1750_1.jpg https://www.medicinalplants.in/slokaimages/1750/1750_2.jpg https://www.medicinalplants.in/slokaimages/1750/1750_3.jpg https://www.medicinalplants.in/slokaimages/1750/1750_4.jpg https://www.medicinalplants.in/slokaimages/1750/1750_5.jpg
+ocr_text: बदरं मधुरं स्निगंधं भेदनं वातपित्तजित् तच्छुष्कं कफवातघ्नं पित्ते न च विरुध्यते |Iचरक) Badara is madhura in rasa, snigdha in guna, bhedana alleviates vata and pitta Suska badara alleviates Kapha and vata but does not vitiate pitta अम्ले बदराणि पित्तश्लेष्मप्रकोपिणी १ ( चरक Badara is amla, Karkandu vitiates pitta and slesma कर्कन्धु कर्कन्धु-कोल ्बदरमामं पित्तकफापहम् पक्वं पित्तानिलहरं स्निग्धं सुमधुरं सरम् II पुरातनं तृट्शमनं श्रमघ्नं दीपनं लघु Il (सुश्रुत) Karkandhu kola and ama badara alleviate pitta and kapha Pakva phala is sumadhuram, snigdha, sara in guna, pitta anila hara. Purana badara is dipana, laghu, alleviates trt and srama राजबरः सुमधुरः शिशिरो दाहार्ति पित्तहरः वृष्यश्च वीर्यवृद्धि शोषश्रमं हरते II (Rjn) Rajabadara is madhura in rasa , sisira, vrshya, virya vardhaka, alleviates daha, arti, pitta, sosa and srama कुरुते तस्य मज्जा च मधुरो वीर्यवर्धनः श्वासकासतृषादाहन्छर्द्दिमारुपित्ताजित् (kdn) Its majja is tuvara, madhura in rasa, veerya vardhana, cures svasa, kasa, trsha daha, chardi, maruta and pitta तुवरो

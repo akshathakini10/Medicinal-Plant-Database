@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e691dcb778ab2d742e3f66e5eaed1c15
+Botanical Name: Ervatamia heyneana T.COOKE
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Tabernaemontana heyneana WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 3 languages. Kannada (14) - bili kudyalu, bilikodasalu, bilikodsalu, halmeti, madarasa, maddarasa, maddarassa, madhu rasa, madle mara, naagar kuda, naagara kuda, naakel, naangala kudaa, nagarkuda Malayalam (3) - kundalapala, kunninpala, kuruttupala Marathi (7) - kudo, naagalakudaa, naagkuda, nagil-kudo, nagkuda, naglkudo, pandrakura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e691dcb778ab2d742e3f66e5eaed1c15/xclkon/e8b10706145c5f188896826b4738d8bc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e691dcb778ab2d742e3f66e5eaed1c15
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e691dcb778ab2d742e3f66e5eaed1c15/xclkon/e8b10706145c5f188896826b4738d8bc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

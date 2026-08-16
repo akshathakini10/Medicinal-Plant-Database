@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9206a7ef87810415146fc58fb4c39184
+Botanical Name: Citrus aurantifolia (CHRISTM.) SWINGLE
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 9 languages. English (1) - lime Hindi (4) - kaghzi-nimbu, kagzinimbu, khatta, nimbu Kannada (5) - cherunaarangi, hulinimbe, ilimichai, imbe, limbe Malayalam (1) - vatukappulinarakam Marathi (1) - limbu Sanskrit (7) - Sanskrit Comments  brhatjambirah, jambira, limpaka, nagranga, nimbuka, swadunaringa, vijapura Tamil (8) - elumiccai, elumiccam palam, elumichai, elumichchan chaaru, kiccilippalam, kich chilip-pazham, narattai, palam Telugu (2) - nimma, nimma pandu Urdu (1) - leemu kaghzi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9206a7ef87810415146fc58fb4c39184
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9206a7ef87810415146fc58fb4c39184
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9206a7ef87810415146fc58fb4c39184
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9206a7ef87810415146fc58fb4c39184
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9206a7ef87810415146fc58fb4c39184
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nimbuka
+sanskrit_name: निम्बुक
+transliteration: nimbuka
+ref_drug_name: निम्बुक
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nimbuka
+sanskrit_name: निम्बुक
+transliteration: nimbuka
+image_urls: https://www.medicinalplants.in/slokaimages/417/417_1.jpg https://www.medicinalplants.in/slokaimages/417/417_2.jpg https://www.medicinalplants.in/slokaimages/417/417_4.jpg
+ocr_text: तृष्णाशूलकफोत्क्लेशच्छर्द्दिश्वासनिवारणम् वातश्लेष्मविबन्धघ्नं जम्बीरं गुरु पित्तलम् IDhn) Jambira is guru in guna, increases pitta , alleviates trsna, sula, kapha, utklesa, chardi, svasa, vata, slesma and vibandha. मधुरो मधुजम्बीरो शिशिरः कफपित्तजित्| अर्शोघ्नः तर्पणः श्रमघ्नः पुष्टिकारकः IDhn Rjn) Madhu jambira is madhura in rasa, sisira in veerya, tarpana, pusti kara, alleviates kapha , pitta, arsa and srama. निम्बूकं कृमिसमूहनाशनम्, तीक्ष्णमम्लमुदरग्रहापहम् वातपित्तकफशूलिने हितम्, कष्टनष्टरुचिरोचनं परम् त्रिदोषवह्निक्षयवातरोगनिपीडितानां विषविह्वलानाम् | मन्दानले बद्धगुदे प्रदेयं विसूचिकायां मुनयो वदन्ति| | मिष्टनिम्बूफलं स्वादु गुरु मारुतपित्तनुत्त| गररोगविषध्वंसि कफोत्क्लेशि च रक्तहृत्| | स्वल्पजम्बीरिका तद्वत् तृष्णाच्छर्द्दिनिवारिणी IBpn) Nimbuka is amla in rasa, tiksna in guna, krmi samuha nasana, udara grahapaha. vata pitta kapha sula hita, kastha nastha ruci rocana para, triaosha vahni ksaya vata roga hara, manda anila, baadha guaa, visucika hara. Its phala is svadu in rasa, guru in guna, alleviates maruta and pitta, cures Bararoga visa, dhvamsi, kaphotklesi ana rakta dosha Svalpa jambira alleviates trsna and chardi.

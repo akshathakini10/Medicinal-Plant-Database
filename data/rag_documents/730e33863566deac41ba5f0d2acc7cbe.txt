@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 730e33863566deac41ba5f0d2acc7cbe
+Botanical Name: Indigofera aspalathoides VAHL. E DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 100 Vernacular names found in 6 languages. Kannada (12) - koggae, kogge gida, marali, neela, neela malli, neelamalligida, neeli malli, nila, shiva malli, shivamalli, shivamalli-gida, sivamalli Malayalam (2) - manali, manneli Marathi (3) - shivanimba, thipoli, tiploi Sanskrit (4) - Sanskrit Comments  raktakohomba, shevaniarba, shivantil, sivanimba Tamil (78) - centalalmeni, centanalmeni, cevakanarvempu, cirocanavempu, civan muligai, civan mulikai, civan vempu, civanar vempu, civanarcevikam, civanarvempu, civanimpam, civanmuli, civanvempu, cutalaitanilnirttan, cutalaiyati, icanarvempu, iraivan, iraivanimpam, iraivanvembu, iravanimpam, irumpuli, irumpuli1, iruppukkolli, iruvanikanimpam, iruvankanimpacceti, itapavakanavempu, kalanaivenron, kalanaiyutaitton, kantari, kapalapaniyon, kapali@, kolanvaippu, kurmakkanniyan, kuttavati, malmaittunan, maluventunkopan, matalinkam, matalinkavempu, mulakaranati, muppuramali, muppuramerittan 1, muppuramerittan vempu, muppurarmerittanputu, muticakam, mutika, mutikavempucceti, mutikkam, nantirakam, nantirakavempu, nerrikkannan, nerrikkannanceti, parinti, parintivempu, ponnavarvanankumvempu, ruttiram, shiva-narvaymbu, shivanar vembu, shivanar-vembu, shivanarbembu, shivanarvembu, sivanaar vembu, sivanar veambu, sivanar vempu, sivanarvembu, takkanaikkonran, takkanaikkonranmuli, talainimpam, taykkanci, taykkancicceti, tiriculi, tirinimpam, tiripuramerittan1, tiruculai, tirukaiyattan, tirupuramerittan, tiruvancakan, uttirappuntu, viranavisakkini Telugu (1) - nela vempali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730e33863566deac41ba5f0d2acc7cbe
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730e33863566deac41ba5f0d2acc7cbe
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730e33863566deac41ba5f0d2acc7cbe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/730e33863566deac41ba5f0d2acc7cbe
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

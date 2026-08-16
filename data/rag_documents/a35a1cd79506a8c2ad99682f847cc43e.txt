@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a35a1cd79506a8c2ad99682f847cc43e
+Botanical Name: Acanthospermum hispidum DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Kannada (1) - kadle mullu Telugu (1) - palleru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a35a1cd79506a8c2ad99682f847cc43e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a35a1cd79506a8c2ad99682f847cc43e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Goksura
+sanskrit_name: गोक्षुर
+transliteration: gokṣura
+ref_drug_name: गोक्षुर
+status: Most probable
+discussion: As this species has features similar to this plant it may have been used as Goksura
+reference: [1]
+
+Identity Record 2
+drug_name: Goksuru
+sanskrit_name: गोक्षुरु
+transliteration: gokṣuru
+ref_drug_name: गोक्षुर
+status: Most probable
+discussion: As this species has features similar to this plant it may have been used as Goksura
+reference: [1]
+
+Identity Record 3
+drug_name: Goksuru - laghu
+sanskrit_name: गोक्षुरु लघु
+transliteration: gokṣuru laghu
+ref_drug_name: गोक्षुर
+status: Most probable
+discussion: As this species has features similar to this plant it may have been used as Goksura
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

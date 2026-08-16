@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 24e8338f4f31ad1b6c5398ffe8d2a525
+Botanical Name: Schizaea dichotoma (L.) SM.
+Family: Schizaeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24e8338f4f31ad1b6c5398ffe8d2a525
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24e8338f4f31ad1b6c5398ffe8d2a525
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

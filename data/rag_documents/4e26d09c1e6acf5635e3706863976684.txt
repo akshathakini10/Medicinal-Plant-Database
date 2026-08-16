@@ -1,0 +1,113 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4e26d09c1e6acf5635e3706863976684
+Botanical Name: Plumbago zeylanica L.
+Family: Plumbaginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 296 Vernacular names found in 9 languages. Hindi (13) - chatawar, chita, chitarak, chitawar, chiti, chitra, chitrak, chitraval, chitravar, lechkuro, safed-buti, seetrok, sitraval Kannada (13) - agnipaavaka, bilay-chitramula, bili chitra mool, bili chitra moola, chitraka, chitramoola, chitramula, chitramulike, citramula, citramulike, mulike, vaahini, vahni Malayalam (7) - kotuveli, schetti-codiveli, tombacodavelli, tumba-codiveli, tumpukotiveli, tumpukotuveli, vellakotuveri Marathi (6) - chithraka, chithramoola, chitraka, chitramula, dhi-chitrak, paandaraa chithra Sanskrit (64) - Sanskrit Comments  agni, agnika, agnimata, agnishikha, agnisikha, anala, analanama, barhi, bhali, brihadbhanu, chitra, chitraca, chitraka, chitrakavrikshaha, chitranga, citra, citraka, citrakah, citrakah-sveta, dahaka, dahana, daruna, dvipi, himarati, hiranyareta, hutabhuk, hutasa, hutasana, jataveda, jvalanakhya, jyoti, jyotishka, krishanu, krishnavartma, krsanu, kuta, lohitanga, nirdahana, nirdahani, pachi, palaka, pali, pathi, pathina, pavaka, saptarshi, shambara, shardula, shikhavana, shikhi, shura, shushma, shwetachitraka, sikhi, sikhin, ushana, vahni, vaishavanara, vallari, vanhi, vanhinama, vibhakara, vibhavasu, vyala Tamil (169) - adigarradi, akanati, akanaticceti, akanatitam, akkini, alal 3, alarcuti, anal#, anal@, analam, angodiveli, anincakacceti, anincakam, anincil 2, ankaracatti, ankotiveli, ari 4, arunaveli, aticanaci, atikanalacceti, atikanalam, atikanari, atikanari 2, atikari, atikarrati, atimakamuli, atinatippuntu, atipatinci, atipatinki, atipatinkicceti, atipatunkaicceti, atipatunki, cataveta, catavetai, catti, cattuvati, cerukkan, cerukkanvelicceti, chithiramulam, chithramulam, chitramulam, chittira, chittira mulam, chittiragam, chittiramulam, cilaiman, cittar muli, cittarmulam, cittarmuli, cittimulam, cittira mulam, cittirakacceti, cittirakam 2, cittirakkoti, cittiram 3, cittiramulam, cittiratam, cittramoolum, civam 2, cotikantam, cotimulam, cotimuli, cuci, cuvalini, eluna, elunacceti, eri, ilataivanni, kal, kanali 3, kanalintiran, kanalintirankoti, kanilam, kanilam#, kanilam@, kanilindiran, karikai, karimai, karimai#, karimai@, kavikkaruppi, kodivaylie, kodiveli, koduveli, kolu, komucciravalli, konunkakalam, koticci 4, kotitti, kotiveli, kotiver, kotiyatakam, kotunali, kotunavi, kotunavicceti, kotuveli, kuriyavanni, makaratacceti, makaratam, makarutam, natakkaiyarival, nekili, neruppumuli, oli 1, olikaicceti, olikam, pakappati, patinam#, patinam$, sadaveda, sittragam, takam, talal, talarkoti, tamaraki, tamarakicceti, tanalakini, tanalakinicceti, tanalarri, tanuptam, tapanakacceti, tapanakam, tapanan, taruvanavakkini, ticaina, ticainacceti, tigana, tikana, tikanati, tikanaticceti, tikku, tivipinamam, tivipinapakkoti, tivipinapam, tuvayakkini, ukkan, umilnirpperukki, utacanam, utacanan, utakavan, utalveticci, utankan, vacakam, vacankam, vaccakaram, valakaccikai, vallivanni, vanama, vanamacacceti, vanamacam, vancakacuram, vancakaram, vancira, vanciracceti, vanni, vannipiliyam, vannippiriyacceti, vannippiriyam, varalam, veli 2, vellaiccittiramulam, vellaikkotiveli, vellaikkotuveli, ven-chittira mulam, vencittiramulam, venkodiveli, venkotimulam, venkotiveli, viratattuvam Telugu (15) - agnimaata, agnimaatha, agnimata, agnimatha, chithramoolamu, chitra-mulam, chitramoolam, chitramulam, chitramulamu, citramulamu, tella-chitramulamu, tellachitramulam, tellachitramulamu, tellacitramulamu, thellachithramoolamu Tibetan (6) - kru trug tres (p), kru tug tres, tsa gran ka, tsi tra, tsi-tra, tsi-tra-ka Urdu (3) - chita lakri, chita wood, sheetraj hindi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e26d09c1e6acf5635e3706863976684
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1709
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1709.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e26d09c1e6acf5635e3706863976684
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e26d09c1e6acf5635e3706863976684
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e26d09c1e6acf5635e3706863976684
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e26d09c1e6acf5635e3706863976684
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4e26d09c1e6acf5635e3706863976684
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Citraka
+sanskrit_name: चित्रक
+transliteration: citraka
+ref_drug_name: चित्रक
+status: Accepted source
+discussion: White variety of Citraka is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Citraka
+sanskrit_name: चित्रक
+transliteration: citraka
+ref_drug_name: चित्रक
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Citraka
+sanskrit_name: चित्रक
+transliteration: citraka
+ref_drug_name: चित्रक श्वेत
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Citraka - sveta
+sanskrit_name: चित्रक श्वेत
+transliteration: citraka śveta
+ref_drug_name: चित्रक
+status: Accepted source
+discussion: White variety of Citraka is correlated to this species
+reference: [2]
+
+Identity Record 5
+drug_name: Citraka - sveta
+sanskrit_name: चित्रक श्वेत
+transliteration: citraka śveta
+ref_drug_name: चित्रक
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 6
+drug_name: Citraka - sveta
+sanskrit_name: चित्रक श्वेत
+transliteration: citraka śveta
+ref_drug_name: चित्रक श्वेत
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Citraka
+sanskrit_name: चित्रक
+transliteration: citraka
+image_urls: https://www.medicinalplants.in/slokaimages/1320/1320_1.jpg https://www.medicinalplants.in/slokaimages/1320/1320_2.jpg https://www.medicinalplants.in/slokaimages/1320/1320_3.jpg https://www.medicinalplants.in/slokaimages/1320/1320_4.jpg https://www.medicinalplants.in/slokaimages/1320/1320_5.jpg https://www.medicinalplants.in/slokaimages/1320/1320_6.jpg https://www.medicinalplants.in/slokaimages/1320/1320_7.jpg https://www.medicinalplants.in/slokaimages/1320/1320_8.jpg
+ocr_text: चित्रकोडनलनामा च पाठी व्यास्तथोषणः (Bpn) Synonyms of Citraka are Anala, Pathi, Vyastha, Usna चित्रको दहनो व्यालः पाठीनो दारुणोडग्निकः Il ज्योतिष्को वल्लरि वहिनः पालि पाठी कटुः शिखी कृष्णारुणोउनलो द्वीपी चित्रभानुश्च पावकः (Dhn) Citraka, Dahana, Vyala, Pathina, Daruna, Agni ka, Jyotishka Vallari Vahni, Pali, Pathi, Katu, Sikhi, Krsnaruna, Anala, Dvipi Citrabhanu, Pavakaare the synonyms of Citraka. कालो व्यालः तिदाप्यो मार्जारोडग्निर्दाहकः पावकश्च चित्राङ्गोडयं रक्तचित्रो महाङ्गः स्याद्रुद्राह्वश्चित्रकोउन्यो गुणाढ्यः Il (Rjn) Kala, Vyala, Kalamula, Atidapya, Marjara, Agni Dahaka Pavaka Citranga Rakia citra, Mahanga are the १1 synonyms of Rakia Citraka. Another variety of Citraka is superior in quality. कालमूलोड चित्रकोडग्निसमः पाके शोफार्शकृमिष्ठहा कफवातप्रशमनो विधिना च रसायनम् Il (Mdn) Citraka is agni samana in paka. It cures sopha, arsa krmi kustha, pacifies kapha, vata and if used appropriately as a rasayana. चित्रकोडग्निसनः पाके कटुकः कफशोफजित् वातोदरार्शोग्रहणीक्षयपाण्डुविनाशनः II (Dhn) Citraka is sama, katu in paka, cures kapha sopha, vata udara, arsa grahani ksaya and pandu. agni स्थूलकायकरो रुच्यः रक्तचित्रकः रसे नियामिको लोहे वेधकश्च रसायनः Il (Rjn) Rakia citraka is sthula kaya kara, ruchya cures kustha, is used in parada niyamana, Ioha vedhana (in processing of mercury and related procedures and as rasayana कुष्ठघ्नो चित्रकः पाचको रूक्षो लघुश्चाग्निप्रदीपनः पाक कटुग्रार्हकश्च तिक्तोष्णो रुचिदो मतः |l रसायनोडग्निसदृशः शोफकुष्ठार्शःकासहा कृमीन्चातोदरं कण्डूं यकृत् ग्रहणीं तथा |l आमं क्षयं चोदरं च नाशयेदिति कीर्त्तितः कटुत्वात्कफहा प्रोक्तस्तिक्तवात्पित्तनाशकः उष्णत्वाद्वातहा प्रोक्तो मुनिभिः तत्वदर्शिभिः (Nir) Citraka is tikta in iasie ruksa, laghu in property usna in potency katu in paka, pacaka, agni pradipana, grahaka, rucida, rasayana, agni sadrsa cures sopha, kustha, arsa kasa, krmi, vatodara, kandu yakrt vikara, grahani, ama, ksaya, udara. Due io katutva it alleviates kapha, tiktatva it alleviates pitta and due io usnatva it alleviaies vata चित्रको दीपनस्तिक्तः कटुः पाके रसे लघुः अग्निवत पाचनो रूक्षो वीर्योष्णो रोचनो जयेत |l ग्रहणीकफवातामशोफकुष्ठोदरकृमीन् कटुकत्वात् कफं हन्ति तिक्तत्वात् पित्तनाशनः |l औष्णयाद् वातं प्रशमयेत् त्रिदोषघ्नोडग्निदापनः तच्छाकं लघु संग्राहि कफपित्तविनाशनम् Il (Kdn) Citraka is tikta, katu in rasa, laghu ruksa in guna usna in veerya, katu in paka, dipana agnivat in pacana, rocana, cures grahani, kapha vaia ama, sopha, kustha, udara krmi. Due io katu rasa it is kapha hara tikia rasa it is pitta hara, usnatva it is vata hara. It is tridoshaghna, agni dipana. Its saka is laghu in property, sangrahi in karma and kapha pitta nasana
+
+Shloka Record 2
+drug_name: Citraka - sveta
+sanskrit_name: चित्रक श्वेत
+transliteration: citraka śveta
+image_urls: https://www.medicinalplants.in/slokaimages/1320/1320_1.jpg https://www.medicinalplants.in/slokaimages/1320/1320_2.jpg https://www.medicinalplants.in/slokaimages/1320/1320_3.jpg https://www.medicinalplants.in/slokaimages/1320/1320_4.jpg https://www.medicinalplants.in/slokaimages/1320/1320_5.jpg https://www.medicinalplants.in/slokaimages/1320/1320_6.jpg https://www.medicinalplants.in/slokaimages/1320/1320_7.jpg https://www.medicinalplants.in/slokaimages/1320/1320_8.jpg
+ocr_text: चित्रकोडनलनामा च पाठी व्यास्तथोषणः (Bpn) Synonyms of Citraka are Anala, Pathi, Vyastha, Usna चित्रको दहनो व्यालः पाठीनो दारुणोडग्निकः Il ज्योतिष्को वल्लरि वहिनः पालि पाठी कटुः शिखी कृष्णारुणोउनलो द्वीपी चित्रभानुश्च पावकः (Dhn) Citraka, Dahana, Vyala, Pathina, Daruna, Agni ka, Jyotishka Vallari Vahni, Pali, Pathi, Katu, Sikhi, Krsnaruna, Anala, Dvipi Citrabhanu, Pavakaare the synonyms of Citraka. कालो व्यालः तिदाप्यो मार्जारोडग्निर्दाहकः पावकश्च चित्राङ्गोडयं रक्तचित्रो महाङ्गः स्याद्रुद्राह्वश्चित्रकोउन्यो गुणाढ्यः Il (Rjn) Kala, Vyala, Kalamula, Atidapya, Marjara, Agni Dahaka Pavaka Citranga Rakia citra, Mahanga are the १1 synonyms of Rakia Citraka. Another variety of Citraka is superior in quality. कालमूलोड चित्रकोडग्निसमः पाके शोफार्शकृमिष्ठहा कफवातप्रशमनो विधिना च रसायनम् Il (Mdn) Citraka is agni samana in paka. It cures sopha, arsa krmi kustha, pacifies kapha, vata and if used appropriately as a rasayana. चित्रकोडग्निसनः पाके कटुकः कफशोफजित् वातोदरार्शोग्रहणीक्षयपाण्डुविनाशनः II (Dhn) Citraka is sama, katu in paka, cures kapha sopha, vata udara, arsa grahani ksaya and pandu. agni स्थूलकायकरो रुच्यः रक्तचित्रकः रसे नियामिको लोहे वेधकश्च रसायनः Il (Rjn) Rakia citraka is sthula kaya kara, ruchya cures kustha, is used in parada niyamana, Ioha vedhana (in processing of mercury and related procedures and as rasayana कुष्ठघ्नो चित्रकः पाचको रूक्षो लघुश्चाग्निप्रदीपनः पाक कटुग्रार्हकश्च तिक्तोष्णो रुचिदो मतः |l रसायनोडग्निसदृशः शोफकुष्ठार्शःकासहा कृमीन्चातोदरं कण्डूं यकृत् ग्रहणीं तथा |l आमं क्षयं चोदरं च नाशयेदिति कीर्त्तितः कटुत्वात्कफहा प्रोक्तस्तिक्तवात्पित्तनाशकः उष्णत्वाद्वातहा प्रोक्तो मुनिभिः तत्वदर्शिभिः (Nir) Citraka is tikta in iasie ruksa, laghu in property usna in potency katu in paka, pacaka, agni pradipana, grahaka, rucida, rasayana, agni sadrsa cures sopha, kustha, arsa kasa, krmi, vatodara, kandu yakrt vikara, grahani, ama, ksaya, udara. Due io katutva it alleviates kapha, tiktatva it alleviates pitta and due io usnatva it alleviaies vata चित्रको दीपनस्तिक्तः कटुः पाके रसे लघुः अग्निवत पाचनो रूक्षो वीर्योष्णो रोचनो जयेत |l ग्रहणीकफवातामशोफकुष्ठोदरकृमीन् कटुकत्वात् कफं हन्ति तिक्तत्वात् पित्तनाशनः |l औष्णयाद् वातं प्रशमयेत् त्रिदोषघ्नोडग्निदापनः तच्छाकं लघु संग्राहि कफपित्तविनाशनम् Il (Kdn) Citraka is tikta, katu in rasa, laghu ruksa in guna usna in veerya, katu in paka, dipana agnivat in pacana, rocana, cures grahani, kapha vaia ama, sopha, kustha, udara krmi. Due io katu rasa it is kapha hara tikia rasa it is pitta hara, usnatva it is vata hara. It is tridoshaghna, agni dipana. Its saka is laghu in property, sangrahi in karma and kapha pitta nasana

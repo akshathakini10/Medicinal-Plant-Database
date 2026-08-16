@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7a7ef09aea2a5f7610a8085a51b82082
+Botanical Name: Mussaenda frondosa L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 7 languages. Hindi (2) - bebina, bedina Kannada (10) - balethappu, belloti, belloti-gida, bellotigida, bellotti, bolletappu, ipparati, ippiriti, ipri, vellaellay Malayalam (9) - belilla, vallil, vellila, vellilai, vellilam, vellilattali, vellimaithali, vellimayittali, vellithali Marathi (1) - bhutakesi Sanskrit (5) - Sanskrit Comments  nagvalli, rajatarih, shrivatte, sribati, sriparnah Tamil (12) - matantai, vallai, vallai matantai, vella-ellay, vellai ilai, vellaiyilai, vellallay, velli ilai, velli matantai, vellilai 2, vellimatantai, velliyilaicceti Telugu (2) - nagavalli, sribati
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a7ef09aea2a5f7610a8085a51b82082
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1483
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1483.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a7ef09aea2a5f7610a8085a51b82082
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a7ef09aea2a5f7610a8085a51b82082
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a7ef09aea2a5f7610a8085a51b82082
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

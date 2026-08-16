@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e8db358324d809f1fd6fc7955cc90bb1
+Botanical Name: Sorbus aucuparia L.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pyrus aucuparia GAERTN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. English (5) - european mountain ash, mountain ash, quickbeam, rowan, rowan tree Hindi (2) - jhanwar, mohli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e8db358324d809f1fd6fc7955cc90bb1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e8db358324d809f1fd6fc7955cc90bb1/xclkon/0e0e525004e67bf46bc7ea712634d903
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e8db358324d809f1fd6fc7955cc90bb1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

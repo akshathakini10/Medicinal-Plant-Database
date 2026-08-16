@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c1b36606abc1186021b6927068574b6b
+Botanical Name: Mimosa intsia L.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 2 languages. Kannada (1) - arasthige Telugu (8) - boda chandra, kodimundusu, korinda, putakorinda, sandrathige, undra, vallikataru, ventra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b36606abc1186021b6927068574b6b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1b36606abc1186021b6927068574b6b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

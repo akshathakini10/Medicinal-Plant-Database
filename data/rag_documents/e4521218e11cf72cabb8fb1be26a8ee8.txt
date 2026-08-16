@@ -1,0 +1,101 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e4521218e11cf72cabb8fb1be26a8ee8
+Botanical Name: Ailanthus excelsa ROB.
+Family: Simaroubaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 103 Vernacular names found in 7 languages. Hindi (17) - aldua bhootjhad, aldua-bhoot-jhad, arar, arru, arua, churan, limbado, mahanimb, maharukh, maharukha, maruf, marukh, motio aduso, paba aldua, paba-aldua, papari, vilayti-neem Kannada (21) - bende, dodabevu, dodda, dodda baevu, dodda bevu, dodda hebmani, dodda mara, doddabevu, doddamani, doddamara, hebbevu, hebmani, hem, hemmara, hire, hire mara, hiremara, mahaa nimba, mateslimbiru, peethari, peetherai Malayalam (6) - mattipongilyam, peemaram, peenari, peru, perumaram, peruppi Marathi (9) - adulsa, adusa, mahaanimb, mahaaruksha, mahanimb, maharuka, mahrukh, marook, marukh Sanskrit (12) - Sanskrit Comments  aralu, araluka, araluvrksa, atarusha, dirghavrnta, katvanga, madala, mahanimba, maharakha, pisasha, putivrksah, syonaka Tamil (27) - agal, akal 1, arulavam, aruluvam, kankam, makanimpam 3, makatimpam@, makatimpamaram, naru, narumaram, periamaram, peru, perumaram, perumaruntu, perumaruttoo puttay, perumaruttu, perumuttai, perupinari, peruppai, peruppi, pi, piamaram, pimaram, pinari, pinari 3, pinnari, pulattavirutcam Telugu (11) - gauli vaepa, pedda, pedda manu, pedda vaepamnu, pedda vepa, peddamaandu, peddamaanu, peddamandu, peddamanu, peyyavaepa, peyyavepa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4521218e11cf72cabb8fb1be26a8ee8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4521218e11cf72cabb8fb1be26a8ee8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4521218e11cf72cabb8fb1be26a8ee8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4521218e11cf72cabb8fb1be26a8ee8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aralu
+sanskrit_name: अरलु
+transliteration: aralu
+ref_drug_name: अरलु
+status: Accepted source
+discussion: Aralu is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Aralu
+sanskrit_name: अरलु
+transliteration: aralu
+ref_drug_name: अरलु
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Aralu
+sanskrit_name: अरलु
+transliteration: aralu
+ref_drug_name: अरलु
+status: Accepted source
+discussion: During earlier periods, 'Aralu' and 'Syonaka' were considered as 2 different drugs but during the medieval period, nighantus considered them as a single drug; This confusion was cleared in the present times where in they are considered as 2 different drugs; Aralu is identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Aralu
+sanskrit_name: अरलु
+transliteration: aralu
+ref_drug_name: अरलु
+status: Most probable
+discussion: Aralu is identified with this species as it is popularly known as Arua in Mirzapore and has features similar to that as explained by Dalhana
+reference: [1]
+
+Identity Record 5
+drug_name: Kaidarya
+sanskrit_name: कैडर्य
+transliteration: kaiḍarya
+ref_drug_name: कैडर्य
+status: Controversial
+discussion: This has been interpreted to various plant names; Correlation to Ailanthus excelsa might be a possibility
+reference: [1]
+
+Identity Record 6
+drug_name: Mahanimba
+sanskrit_name: महानिम्ब
+transliteration: mahānimba
+ref_drug_name: महानिम्ब
+status: Controversial
+discussion: In Paryayaratnamala there is a separate description about 'Mahanimba'; In Dhanvantari nighantu it has been described as a type of 'Nimba' but in Raja nighantu there is a separate description on 'Kaidarya' in which 'Mahanimba' and 'Parvatanimba' appears as its synonym by which he tries to interpret this as Aralu which is correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Aralu
+sanskrit_name: अरलु
+transliteration: aralu
+image_urls: https://www.medicinalplants.in/slokaimages/61/61_1.jpg
+ocr_text: अरलुः कफहृद्ग्राही दीपनः कृमिकुष्ठहृत् कटुकः शीतलः तिक्तो बस्तिरोगहरः परः | (Nir) Aralu is katuka, tikta in rasa, in guna sitala in veerya, dipana alleviates kapha, krmi, kustha ana considered the best in alleviating vasti roga grahi

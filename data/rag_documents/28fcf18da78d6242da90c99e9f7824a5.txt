@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 28fcf18da78d6242da90c99e9f7824a5
+Botanical Name: Kalanchoe laciniata (L.) DC.
+Family: Crassulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 6 languages. Hindi (2) - hamsagar, zakhm hyat Kannada (3) - gandu kalinga, gandukaalinga, kalanaru Marathi (2) - aranmaram, ghaipat Sanskrit (3) - Sanskrit Comments  astibhaksha, hemasagara, parnabija Tamil (5) - kkattukkalli, malaikkalli, malakalli, mallakullie, ranakalli Telugu (1) - sima-jamudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28fcf18da78d6242da90c99e9f7824a5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1265
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1265.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28fcf18da78d6242da90c99e9f7824a5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28fcf18da78d6242da90c99e9f7824a5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Parnabija
+sanskrit_name: पर्णबीज
+transliteration: parṇabīja
+ref_drug_name: पर्णबीज जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Parnabija - jati
+sanskrit_name: पर्णबीज जाति
+transliteration: parṇabīja jāti
+ref_drug_name: पर्णबीज जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

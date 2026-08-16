@@ -1,0 +1,102 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 030b802608c0a351bd4a7f2a1c716cf0
+Botanical Name: Gentiana kurroo ROYLE.
+Family: Gentianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 9 languages. Hindi (6) - chireta, kadu, karu, kore, kutki, trayaman Kannada (2) - karadihanni, kiriyatu Malayalam (2) - kiriyat, trayamana Marathi (1) - kirayet Sanskrit (9) - Sanskrit Comments  anaryatikta, girisanuja, katuki, kiratatikta, palani, tikta, trayamana, trayanti, trayantika Tamil (3) - kampantirai, nilavempu, nilavimbu Telugu (2) - buroni, nelavemu Tibetan (2) - gya tce ba, tra-ya-nti Urdu (1) - neel kanthi (pashanbheda)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1044
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1044.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030b802608c0a351bd4a7f2a1c716cf0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Katuka
+sanskrit_name: कटुका
+transliteration: kaṭukā
+ref_drug_name: कटुका
+status: SUB
+discussion: This species is used as a substitute for Katuka
+reference: [3]
+
+Identity Record 2
+drug_name: Katuka
+sanskrit_name: कटुका
+transliteration: kaṭukā
+ref_drug_name: कटुका
+status: Controversial
+discussion: Katuka has been confused with another plant called Karu which is correlated to Gentiana kurroo; This has been identified with Tryamana
+reference: [1]
+
+Identity Record 3
+drug_name: Trayamana
+sanskrit_name: त्रायमाणा
+transliteration: trāyamāṇā
+ref_drug_name: त्रायमाणा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Trayamana
+sanskrit_name: त्रायमाणा
+transliteration: trāyamāṇā
+ref_drug_name: त्रायमाणा
+status: Accepted source
+discussion: Presently this species is accepted as Trayamana
+reference: [2]
+
+Identity Record 5
+drug_name: Trayamana
+sanskrit_name: त्रायमाणा
+transliteration: trāyamāṇā
+ref_drug_name: त्रायमाणा
+status: Suggested source
+discussion: This species is used as Trayamana nowadays
+reference: [2]
+
+Identity Record 6
+drug_name: Trayamana
+sanskrit_name: त्रायमाणा
+transliteration: trāyamāṇā
+ref_drug_name: त्रायमाणा
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Trayamana
+sanskrit_name: त्रायमाणा
+transliteration: trāyamāṇā
+image_urls: https://www.medicinalplants.in/slokaimages/796/796_1.jpg https://www.medicinalplants.in/slokaimages/796/796_2.jpg https://www.medicinalplants.in/slokaimages/796/796_3.jpg
+ocr_text: त्रायन्ती कफपित्तास्रगुल्मज्वरहरा मता उष्णा कटु कषाया च सूतिकाशूलनाशिनी | | रक्तपित्तमरुच्छर्दिविषघ्नी तिक्त्तवल्कला | IDhnl Trayamana is katu , kashaya in rasa, usna in veerya, alleviates kapha, pitta ana asra dosha cures gulma, jvara, sutika sula, raktapitta, maruta, chardi and visa. It has got tikta valkala. त्रायन्तीशीतमधुरा गुल्मज्वरकफास्रनुत् भ्रमतृष्णाक्षयग्लानिविषच्छर्दिविनाशिनी (Rjn) Trayanti is madhura in rasa, sita in veerya, alleviates kapha asra dosha, cures gulma, jvara, bhrama, trsna, ksaya, glani, visha and chardi. and त्रायन्ती तुवरा त्तिक्ता सरा पित्तकफापहा ज्वरहृद्रोगगुल्मास्राभ्रमशूलविषप्रणुत् IBpn) Trayanti is tuvara, tikta in rasa, sara in guna, alleviates pitta, kapha ana asra dosha , cures jvara , hraroga, gulma, bhrama and sula.

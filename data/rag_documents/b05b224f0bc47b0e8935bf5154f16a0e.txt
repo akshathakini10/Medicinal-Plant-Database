@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b05b224f0bc47b0e8935bf5154f16a0e
+Botanical Name: Hugonia mystax L.
+Family: Linaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 57 Vernacular names found in 6 languages. Kannada (11) - balle, kaaka beera, modira kanni gida, modirakanni, modirakannu, modirakkanni, mrema, mullankode, mullankodi, mullankole, mullu ankole Malayalam (7) - karttotti, modera-kanni, moderacanni, moderakkanni, modira-canni, modirakanni, motirakkanni Marathi (1) - padavakani Sanskrit (1) - Sanskrit Comments  kamsamarah Tamil (15) - agori, agure, akori, kakibira, kodivirai, kotivitai, modirakanni, modirakkanni, motirakanni, motirakkanni, motirakodi, penta peeda, pisangi, tivva putiki, ungaralapedmi Telugu (22) - adavigoranta, gathontha, gatrinta, gatrintha, kakibeera, kakibira, kakvire, nelupa, peesangi, penkebedali, pisangi, renangi, thivva potike, tivvapotike, tivvaputiki, udapachettu, ungarala podimi, ungaralapedmi, ungaralapidemu, vendapa, venoapa, vudupa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b05b224f0bc47b0e8935bf5154f16a0e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1149
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1149.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b05b224f0bc47b0e8935bf5154f16a0e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b05b224f0bc47b0e8935bf5154f16a0e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b05b224f0bc47b0e8935bf5154f16a0e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

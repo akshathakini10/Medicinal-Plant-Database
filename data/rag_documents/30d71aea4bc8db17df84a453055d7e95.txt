@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 30d71aea4bc8db17df84a453055d7e95
+Botanical Name: Hibiscus sabdariffa L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 86 Vernacular names found in 8 languages. English (4) - hibiscus, jamaica sorrel, red sorrel, roselle Hindi (4) - lal ambari, lal-anbari, lalambari, patwa Kannada (12) - bilee daasavaala, kempu pundi, kempu pundike, kempu pundrike, kempupundrike, plachakiri, pundee beeja, pundi soppu, pundibija, pundisoppu, seemai-pulichai-keera, vilaayithi pundi Malayalam (2) - polechi, puli-cheera Marathi (3) - laal-ambaari, lalambadi, tambdi-ambadi Sanskrit (1) - Sanskrit Comments  ambasthaki Tamil (45) - arakkani 1, arakkanicceti, cakkirappuliccaikkirai, cempuliccai 1, cempuliccaikkirai, cempuliccan 1, cimaikkacini, cimaikkacuru, cimaikkayccurai, cimaippuliccai, civappukacalkirai, civappukkacurukkirai, civappukkayccurai, civappuppuliccaikkirai, gogu, kacalkirai, kashurk-kali, narayanakkirai, pitakaru, pitataru 1, pitatarukkirai, puliccai 1, pulichai-keerai, pulikkirai, putikastakkirai, putikastam 1, seivappukaychuri, shimai-kashuruk-kirai, shivappu-kashuruk-kirai, shivappu-kashuruk-virai, simaikkasuru, sivappukkasuru, taram 2, tarucakkirai, tarucam 2, tevatamikakkirai, tevatamikam 1, tevataru 1, tirakalanturam, tirakalumakkirai, tirakalumam 1, tiralukamam, tirankalumam, vattirataru 1, vattiratarucceti Telugu (15) - erragomgura, erragomguru, erragon kaaya, erragongaka, erragonguru, erragonkaya, ettagomgura, ettagongaka, ettagonguru, pundicura, seemagogu, seemagonguru, seemegogu, shima-gomgura, shimagonguru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30d71aea4bc8db17df84a453055d7e95
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30d71aea4bc8db17df84a453055d7e95
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30d71aea4bc8db17df84a453055d7e95
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/30d71aea4bc8db17df84a453055d7e95
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

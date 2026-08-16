@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1d975df132fdd5148f54d4e7f8e9722f
+Botanical Name: Abutilon pannosum (G. FORST.) SCHLTDL.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Abutilon glaucum SW.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. Hindi (5) - kanghi-buti, kangi bunti, kharanti, kharati, pintari Marathi (2) - karandi, kasili
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1d975df132fdd5148f54d4e7f8e9722f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1d975df132fdd5148f54d4e7f8e9722f/xclkon/9bc44dbaef82549432f795d2415770c7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1d975df132fdd5148f54d4e7f8e9722f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

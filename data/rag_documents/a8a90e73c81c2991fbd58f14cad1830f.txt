@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a8a90e73c81c2991fbd58f14cad1830f
+Botanical Name: Ephedra saxatilis STAPF var. sikkimensis STAPF.
+Family: Ephedraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8a90e73c81c2991fbd58f14cad1830f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8a90e73c81c2991fbd58f14cad1830f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

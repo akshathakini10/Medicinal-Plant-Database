@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ecc51024d9b40530a8e524cafb8fdfe0
+Botanical Name: Sorghum halepense (L.) PERS.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Andropogon halepensis BROT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 4 languages. English (1) - johnson grass Hindi (5) - bajara, baru, chinna, jangli-jowar, phulna Kannada (4) - huchhu jola, impi jola, kaadu galagu hullu, kahijola Telugu (1) - gaddi janu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecc51024d9b40530a8e524cafb8fdfe0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecc51024d9b40530a8e524cafb8fdfe0/xclkon/5b3cee5f45a8b015f9daed2122a58e32
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ecc51024d9b40530a8e524cafb8fdfe0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

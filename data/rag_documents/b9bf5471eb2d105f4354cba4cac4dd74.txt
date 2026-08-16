@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b9bf5471eb2d105f4354cba4cac4dd74
+Botanical Name: Lepidium sativum L.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 69 Vernacular names found in 9 languages. English (2) - common cress, garden cress Hindi (9) - akalam, candsur, chamsuru, chandrasur, chansar, chansaur, chaunsar, halim, hurf Kannada (5) - alavibija, alli beeja, allibija, alvi, kurutige Malayalam (1) - asali Marathi (6) - ahaaleev, ahaliv, ahliv, ahliva, asaaliya, athaleeva Sanskrit (25) - Sanskrit Comments  ahaleeva, asalika, asalima, ashalika, bhadra, candrasura, candrika, chandrashura, chandrasura, chandrika, charmahantri, daraa, drighabija, jati, kalamesha, karavi, krishna, nandini, pashumehankarika, pasumehanakarika, raktabija, raktaraji, sidhaprayojana, suvasura, vasapuspi Tamil (12) - aali, aalividai, ali, ali verai, ali-virai, aliverai, alivirai, alivitai, alivittu, cantiracura, cantirakam, kokila Telugu (8) - aadithyalu, aandilee, adalavitulu, adalvitulu, adeli, aditya, adityalu, adiyalu Urdu (1) - habb-ul-rashaad (haloon)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bf5471eb2d105f4354cba4cac4dd74
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bf5471eb2d105f4354cba4cac4dd74
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bf5471eb2d105f4354cba4cac4dd74
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bf5471eb2d105f4354cba4cac4dd74
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9bf5471eb2d105f4354cba4cac4dd74
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Candrasura
+sanskrit_name: चन्द्रशूर
+transliteration: candraśūra
+ref_drug_name: चन्द्रशूर
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Candrasura
+sanskrit_name: चन्द्रशूर
+transliteration: candraśūra
+image_urls: https://www.medicinalplants.in/slokaimages/1014/1014_1.jpg https://www.medicinalplants.in/slokaimages/1014/1014_2.jpg https://www.medicinalplants.in/slokaimages/1014/1014_3.jpg https://www.medicinalplants.in/slokaimages/1014/1014_4.jpg
+ocr_text: दरकृष्णो वाताशूलगुल्मघ्नः स्तन्यपुष्टिकृत् | बल्या वाजीकरः पानात लेपाच्छोणितशूलनुत्|| ( सोढलः) It cures vata sula, gulma promotes stanya pusti, vajikara, taken internally or by external application cures sonita sula balya दरकृष्णो वाताशूलगुल्मघ्नः स्तन्यपुष्टिकृत् बल्यो वाजीकरः पानात् लेपाच्छोणितशूलनुत्| (सोढलः It cures vata sula, gulma, promotes stanya pusti, vajikara, taken internally or by external application cures sonita sula balya, अभिघातरुजं हन्ति सदुग्धोदरकृष्णकः त्वग्दोषान्चातरोगाँश्च नेत्ररोगान्सशोणितान | | आहालिंबं मतं चोष्णं तिक्तं त्वग्दोषनाशनम वातं गुल्मं नाशयति एवं प्रोक्तं चिकित्सकैः || (Nir) Its dugdha Iwith milk it is?) cures abhighataruja, udara, tvag dosha, vata roga, netra roga, vitiation of sonita, is tikta in rasa, usna in veerya, cures tvag dosha and vata gulma चन्द्रशूरश्च कालाउजाजी यवानिका एतच्चतुष्टयं युक्तं चतुर्बीजमिति स्मृतम्|| Methika, Canara sura, Kala ajaji, Yavanika are the four Jatakas. मेथिका

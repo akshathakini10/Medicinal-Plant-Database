@@ -1,0 +1,142 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5ff9145d6e604e401343c4d074dd47fc
+Botanical Name: Physalis minima L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Physalis indica LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 66 Vernacular names found in 9 languages. English (1) - sun berry Hindi (9) - bandapariya, bandhapariya, chirphoti, chirpoti, cirpoti, papotan, patari, pipat, tulatipati Kannada (8) - bandula, bondoola gida, bondula-gida, bonula gida, guddehannu, guppate gida, guppatte gida, sannabuddi Malayalam (3) - notinotta, nottanotiyan, ottampuli Marathi (7) - chirboti, chirputi, dhanmori, kapparphodi, lahanpopti, phopeti, tanmori Sanskrit (14) - Sanskrit Comments  avaguttha, chirapotha, chirapotika, cirapotha, kakatikta, kuntali, mrdukuncika, parpataki, parpoti, parpotika, sarngasta, sarngesta, tankari, vayasi Tamil (14) - ciru takkali, cirutakkali1, itayakali, manathakkali, nattuttakkali, pillaittakkali, puritayacceti, puritayam, siruthakkali, sodakku thakkaali, sodakku thakkali, takkali, thakkali, tottakkali Telugu (8) - budama, budamakaya, budda, budda gachi, buddha bhushada, kupante, kupanti, kuppante Tibetan (2) - swa ra na, swa ra nga (p)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1654
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1654.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc/xclkon/1cd020d07bbbcaa762290284f6268c16
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc/xclkon/1cd020d07bbbcaa762290284f6268c16
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc/xclkon/1cd020d07bbbcaa762290284f6268c16
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc/xclkon/1cd020d07bbbcaa762290284f6268c16
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5ff9145d6e604e401343c4d074dd47fc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Avaguttha
+sanskrit_name: अवगुत्थ
+transliteration: avaguttha
+ref_drug_name: अवगुत्थ
+status: Accepted source
+discussion: Avaguttha has been mentioned only in Susruta samhita under the 'Saka varga' (group of vegetables); Dalhana has interpreted it with 'Kakadani'; With regard to its referances we can conclude that it is a plant similar to 'Kakatikta' and 'Kakamaci'; It is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Cirapota
+sanskrit_name: चिरपोटा
+transliteration: cirapoṭā
+ref_drug_name: चिरपोटा
+status: Accepted source
+discussion: Cirapota' has been cited in Madanapala nighantu; It is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Kakadani
+sanskrit_name: काकादनी
+transliteration: kākādanī
+ref_drug_name: काकादनी
+status: Controversial
+discussion: Others have identified it with this species which needs to be studied
+reference: [1]
+
+Identity Record 4
+drug_name: Padma
+sanskrit_name: पद्म
+transliteration: padma
+ref_drug_name: पद्म
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Parpataki
+sanskrit_name: पर्पटकी
+transliteration: parpaṭakī
+ref_drug_name: पर्पटकी फल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 6
+drug_name: Parpataki phala
+sanskrit_name: पर्पटकी फल
+transliteration: parpaṭakī phala
+ref_drug_name: पर्पटकी फल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Parpoti
+sanskrit_name: पर्पोटी
+transliteration: parpoṭī
+ref_drug_name: पर्पोटी
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 8
+drug_name: Sarngesta
+sanskrit_name: शार्ङ्गेष्टा
+transliteration: śārṅgeṣṭā
+ref_drug_name: शार्ङ्गेष्टा
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+Identity Record 9
+drug_name: Tankari
+sanskrit_name: टङ्कारी
+transliteration: ṭaṅkārī
+ref_drug_name: टङ्कारी
+status: Accepted source
+discussion: It is considered to be 'Cirapotika' which is popularly known as 'Tankari' in Maharashtra and identified with this species
+reference: [5]
+
+Identity Record 10
+drug_name: Vayasi
+sanskrit_name: वायसी
+transliteration: vāyasī
+ref_drug_name: वायसी
+status: Accepted source
+discussion: Vayasi' has been cited in the Brhatrayis; Cakrapani has interpreted it as 'Kakamaci'; Dalhana at one place has interpreted it as 'Kakatikta' and at another place as 'Kakamaci'; In one formulation 'Vayasi' and 'Kakamaci' are mentioned seperately so it can be confirmed that they are 2 different drugs; 'Vayasi' is identified as 'Kakatikta' and correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

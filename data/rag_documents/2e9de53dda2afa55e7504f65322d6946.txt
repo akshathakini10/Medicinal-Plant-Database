@@ -1,0 +1,90 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2e9de53dda2afa55e7504f65322d6946
+Botanical Name: Gossypium barbadense L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 39 Vernacular names found in 8 languages. English (2) - peru cotton, sea island cotton Hindi (2) - kapas, kapas-ka-per Kannada (7) - eejipt daeshada hatthi, jade hatthi, kari beejada hatthi, kariatti, karihatthi, karihatti, vilayatihatti Malayalam (2) - cemparutti, chemparutti Marathi (1) - devakaa poosa Sanskrit (5) - Sanskrit Comments  karpasa, karpasa-vrikshaha, karpasaha, maghani, purvam Tamil (13) - anankamata, arattam, arattam1, cemparutti, cimaipparutti, ilakkai, mayiliyam, mayiliyam 1, seemaiparuthi, sembanju, sembarutti, simaipparutti, yavam@ Telugu (7) - errapatthi, errapatti, ettappatti, paidipatthi, paidipatti, pamidipatthi, pamidipatti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e9de53dda2afa55e7504f65322d6946
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karpasa
+sanskrit_name: कार्पास
+transliteration: kārpāsa
+ref_drug_name: कार्पास प्रजाति
+status: AS
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Karpasa - prajati
+sanskrit_name: कार्पास प्रजाति
+transliteration: kārpāsa prajāti
+ref_drug_name: कार्पास प्रजाति
+status: AS
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Karpasi
+sanskrit_name: कार्पासी
+transliteration: kārpāsī
+ref_drug_name: कार्पास प्रजाति
+status: AS
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Karpasa
+sanskrit_name: कार्पास
+transliteration: kārpāsa
+image_urls: https://www.medicinalplants.in/slokaimages/819/819_1.jpg https://www.medicinalplants.in/slokaimages/819/819_2.jpg https://www.medicinalplants.in/slokaimages/819/819_3.jpg https://www.medicinalplants.in/slokaimages/819/819_4.jpg
+ocr_text: कार्पासी मधुरा शीता स्तन्या पित्तकफापहा तृष्णादाहश्रमभ्रान्तिमूच्छर्हिद्वलकारिणां /] भारद्वाजी हिमा रुच्या व्रणशस्त्रक्षतापहा I| (Rjn) Karpasa is madhura in rasa, sita in veerya, alleviates pitta and kapha, is stanya, balya, cures trsna, daha, srama, bhranti and murccha Bhardvaji is hima in veerya, rucya, vrana sastra ksata hara कर्पासकी लघुः कोष्णा मधुरा वातनाशनी | तृष्णादाहरतिश्रान्तिभ्रान्तिमूर्च्छप्रणाशनी| | तत्पलाशं समीरघ्नं रक्तकृन्मूत्रवर्धनम् तत्कर्णपीडकानादपूयास्रावविनाशनम्| तद्वीजं स्तन्यदं वृष्यं स्निग्धं कफकरं गुरुI| (Bpn) It is madhura in rasa, laghu in guna, kosna in veerya, destroys vata, cures trsna, daha, arti, sranti, bhranti and murccha. Its palasa alleviates vata, is rakta kara, mutravardhana and cures karna pidaka, karna nada and karna puyasrava Its bija is guru, snigdha in guna, stanyada, vrshya and increases kapha. कार्पासफलमत्युष्मं कषायं मधुरं गुरु| वातश्लेष्महरं रुच्यं विशेषेणास्थिवर्जितम्| | (क्षेमकुतूहलम् Karpasa phala is kashaya, madhura in rasa, guru in guna, atyusna, rucya, alleviates vataslesma, specifically asthi varjita तत्पलाशं समीरघ्नं रक्तकृन्मूत्रवर्धनम् तत्कर्णपिडिकानादपूयास्रावविनाशनम् तद्वीजं श्लेष्मसं वृष्यं स्निग्धं स्तन्यविवर्द्धनम्I| (kdn) Its palasa alleviates vata, is rakta kara, mutra vardhaka, and cures karna pidika, nada puyasra Its bija is snigdha in guna, vrshya, increases kapha, and is stanya vivardhana.
+
+Shloka Record 2
+drug_name: Karpasa - prajati
+sanskrit_name: कार्पास प्रजाति
+transliteration: kārpāsa prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/819/819_1.jpg https://www.medicinalplants.in/slokaimages/819/819_2.jpg https://www.medicinalplants.in/slokaimages/819/819_3.jpg https://www.medicinalplants.in/slokaimages/819/819_4.jpg
+ocr_text: कार्पासी मधुरा शीता स्तन्या पित्तकफापहा तृष्णादाहश्रमभ्रान्तिमूच्छर्हिद्वलकारिणां /] भारद्वाजी हिमा रुच्या व्रणशस्त्रक्षतापहा I| (Rjn) Karpasa is madhura in rasa, sita in veerya, alleviates pitta and kapha, is stanya, balya, cures trsna, daha, srama, bhranti and murccha Bhardvaji is hima in veerya, rucya, vrana sastra ksata hara कर्पासकी लघुः कोष्णा मधुरा वातनाशनी | तृष्णादाहरतिश्रान्तिभ्रान्तिमूर्च्छप्रणाशनी| | तत्पलाशं समीरघ्नं रक्तकृन्मूत्रवर्धनम् तत्कर्णपीडकानादपूयास्रावविनाशनम्| तद्वीजं स्तन्यदं वृष्यं स्निग्धं कफकरं गुरुI| (Bpn) It is madhura in rasa, laghu in guna, kosna in veerya, destroys vata, cures trsna, daha, arti, sranti, bhranti and murccha. Its palasa alleviates vata, is rakta kara, mutravardhana and cures karna pidaka, karna nada and karna puyasrava Its bija is guru, snigdha in guna, stanyada, vrshya and increases kapha. कार्पासफलमत्युष्मं कषायं मधुरं गुरु| वातश्लेष्महरं रुच्यं विशेषेणास्थिवर्जितम्| | (क्षेमकुतूहलम् Karpasa phala is kashaya, madhura in rasa, guru in guna, atyusna, rucya, alleviates vataslesma, specifically asthi varjita तत्पलाशं समीरघ्नं रक्तकृन्मूत्रवर्धनम् तत्कर्णपिडिकानादपूयास्रावविनाशनम् तद्वीजं श्लेष्मसं वृष्यं स्निग्धं स्तन्यविवर्द्धनम्I| (kdn) Its palasa alleviates vata, is rakta kara, mutra vardhaka, and cures karna pidika, nada puyasra Its bija is snigdha in guna, vrshya, increases kapha, and is stanya vivardhana.
+
+Shloka Record 3
+drug_name: Karpasi
+sanskrit_name: कार्पासी
+transliteration: kārpāsī
+image_urls: https://www.medicinalplants.in/slokaimages/819/819_1.jpg https://www.medicinalplants.in/slokaimages/819/819_2.jpg https://www.medicinalplants.in/slokaimages/819/819_3.jpg https://www.medicinalplants.in/slokaimages/819/819_4.jpg
+ocr_text: कार्पासी मधुरा शीता स्तन्या पित्तकफापहा तृष्णादाहश्रमभ्रान्तिमूच्छर्हिद्वलकारिणां /] भारद्वाजी हिमा रुच्या व्रणशस्त्रक्षतापहा I| (Rjn) Karpasa is madhura in rasa, sita in veerya, alleviates pitta and kapha, is stanya, balya, cures trsna, daha, srama, bhranti and murccha Bhardvaji is hima in veerya, rucya, vrana sastra ksata hara कर्पासकी लघुः कोष्णा मधुरा वातनाशनी | तृष्णादाहरतिश्रान्तिभ्रान्तिमूर्च्छप्रणाशनी| | तत्पलाशं समीरघ्नं रक्तकृन्मूत्रवर्धनम् तत्कर्णपीडकानादपूयास्रावविनाशनम्| तद्वीजं स्तन्यदं वृष्यं स्निग्धं कफकरं गुरुI| (Bpn) It is madhura in rasa, laghu in guna, kosna in veerya, destroys vata, cures trsna, daha, arti, sranti, bhranti and murccha. Its palasa alleviates vata, is rakta kara, mutravardhana and cures karna pidaka, karna nada and karna puyasrava Its bija is guru, snigdha in guna, stanyada, vrshya and increases kapha. कार्पासफलमत्युष्मं कषायं मधुरं गुरु| वातश्लेष्महरं रुच्यं विशेषेणास्थिवर्जितम्| | (क्षेमकुतूहलम् Karpasa phala is kashaya, madhura in rasa, guru in guna, atyusna, rucya, alleviates vataslesma, specifically asthi varjita तत्पलाशं समीरघ्नं रक्तकृन्मूत्रवर्धनम् तत्कर्णपिडिकानादपूयास्रावविनाशनम् तद्वीजं श्लेष्मसं वृष्यं स्निग्धं स्तन्यविवर्द्धनम्I| (kdn) Its palasa alleviates vata, is rakta kara, mutra vardhaka, and cures karna pidika, nada puyasra Its bija is snigdha in guna, vrshya, increases kapha, and is stanya vivardhana.

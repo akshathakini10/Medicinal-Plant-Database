@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bf33ca545fef2200beb4c2bfe628f76f
+Botanical Name: Dipteracanthus patulus (JACQ.) NEES
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ruellia patula JACQ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 29 Vernacular names found in 2 languages. Malayalam (1) - upu-dali Tamil (28) - cilantanceti, cilantinayakam 2, cukkulam#, cukkulam@, cuntuilicceti, cuntumam, cuntuyili, grandhi nayakam, icaimuti 2, kakapicam, kakapikanayacceti, kattunayakacceti, kattunayakam, kiranti, kiranti nayakam, kirantinayakan, kirantinayan, kirantippuntu, nayakam, nittinaviral, nittinaviralkurittan, punkiranti, punkiranticceti, putakilam, putakilanceti, turuputpam, vaikkirantitacceti, vaikkirantitam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf33ca545fef2200beb4c2bfe628f76f/xclkon/f3b9a882ea431e0ed2c23fbfc54774a1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf33ca545fef2200beb4c2bfe628f76f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf33ca545fef2200beb4c2bfe628f76f/xclkon/f3b9a882ea431e0ed2c23fbfc54774a1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf33ca545fef2200beb4c2bfe628f76f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf33ca545fef2200beb4c2bfe628f76f/xclkon/f3b9a882ea431e0ed2c23fbfc54774a1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

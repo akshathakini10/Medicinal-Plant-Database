@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c0d32c5cffffddb6b014c6da94d3cecd
+Botanical Name: Neolitsea scrobiculata (MEISSNER) GAMBLE
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 3 languages. Kannada (1) - beluri Tamil (7) - canpakam, canpakappalai, cenpakappalai, pancattai, vekana, visamulakam, visamulakappalai Telugu (3) - aakupathrikamu, bodeda, buroyida
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0d32c5cffffddb6b014c6da94d3cecd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0d32c5cffffddb6b014c6da94d3cecd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0d32c5cffffddb6b014c6da94d3cecd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 381cef2ef3f0adfdd22eb31d60c0c0bf
+Botanical Name: Malaxis muscifera (LINDLEY) KUNTZE
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Dienia muscifera LINDL. Microstylis muscifera RIDL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 7 languages. Hindi (1) - rsabhak Kannada (1) - rsabaka Malayalam (1) - itavakam Sanskrit (1) - Sanskrit Comments  rsabhakah Tamil (2) - itavagam, rsabakam Telugu (1) - rsabaka Tibetan (2) - dzi ba ka (d & p), ji ba ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/381cef2ef3f0adfdd22eb31d60c0c0bf/xclkon/d20379e910c1971c50474e26b2b1b357
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1369
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1369.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/381cef2ef3f0adfdd22eb31d60c0c0bf/xclkon/8ee4f524609bfcec30a3375fa369e26d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/381cef2ef3f0adfdd22eb31d60c0c0bf
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/381cef2ef3f0adfdd22eb31d60c0c0bf/xclkon/d20379e910c1971c50474e26b2b1b357
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/381cef2ef3f0adfdd22eb31d60c0c0bf/xclkon/8ee4f524609bfcec30a3375fa369e26d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/381cef2ef3f0adfdd22eb31d60c0c0bf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/381cef2ef3f0adfdd22eb31d60c0c0bf/xclkon/d20379e910c1971c50474e26b2b1b357
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/381cef2ef3f0adfdd22eb31d60c0c0bf/xclkon/8ee4f524609bfcec30a3375fa369e26d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/381cef2ef3f0adfdd22eb31d60c0c0bf
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/381cef2ef3f0adfdd22eb31d60c0c0bf/xclkon/d20379e910c1971c50474e26b2b1b357
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

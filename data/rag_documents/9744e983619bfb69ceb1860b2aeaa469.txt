@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9744e983619bfb69ceb1860b2aeaa469
+Botanical Name: Erythrina variegata L. var. orientalis MERR.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 40 Vernacular names found in 6 languages. Hindi (3) - dhobi-palas, jangli-sem, palas Kannada (11) - bili vaarjipae, haalivaana, haaravaana, haaru vaana, hongara, hongarike, kempu vaari jaapa, mandaara, mullu murige, murige, muruku Malayalam (1) - murikku Marathi (5) - mandar, paangaara, pangara, pangaru, phandra Sanskrit (4) - Sanskrit Comments  paribhadra, paribhadrah, parijata, raktapuspa Telugu (16) - baadida chettu, baadidapu chettu, baadis chettu, baadisa, baaditha, baaditi, baanditha chettu, baarjapu chettu, badida, baridamu, mahaameda, muchikatta, paaribhadrakamu, paaribhvyamu, parijatamu, rohinamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9744e983619bfb69ceb1860b2aeaa469
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9744e983619bfb69ceb1860b2aeaa469
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Paribhadra
+sanskrit_name: पारिभद्र
+transliteration: pāribhadra
+image_urls: https://www.medicinalplants.in/slokaimages/686/686_1.jpg https://www.medicinalplants.in/slokaimages/686/686_2.jpg https://www.medicinalplants.in/slokaimages/686/686_3.jpg
+ocr_text: पारिभद्रः कटूष्णः स्यात्कफवानिकृन्तनः आरोचकहरः पथ्यो दीपनश्चापि कीर्त्तितः Il IRjn) Paribhadra is katu in rasa, usna in veerya, pathya, dipana, increases kapha, causes vanti, alleviates arocaka पीरिभद्रोडनिलश्लेष्मशोथमेदःकुमिप्रणुत् च तत्पत्रं पित्तरोगघ्नं कर्णव्याधिविनाशनम्| | (Bpnl Paribhadra alleviates anila , slesma, sotha meda and krmi Its patra alleviates pitta roga, cures karna vyadhi. पुष्पं पित्तरुजं हन्ति कर्णव्याधिं विनाशयेत्| INir) Paribhadra puspa alleviates pitta ruja and karna vyadhi.
+
+Shloka Record 2
+drug_name: Parijata
+sanskrit_name: पारिजात
+transliteration: pārijāta
+image_urls: https://www.medicinalplants.in/slokaimages/1171/1171_1.jpg
+ocr_text: रसः प्रोजक्तपत्रस्य ज्वरघ्नो तिक्तकः स्मृतः पर्णखण्डसमायुक्ता त्वचा कासविनाशिनी| | Patra rasa is tikta , parnakhanda samayukta, alleviates jvara ana tvaca alleviates kasa

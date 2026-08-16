@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 36438209a04b19077c68b7b82266ebb4
+Botanical Name: Croton bonplandianum BAILL.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Croton sparsiflorus MORONG.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 5 languages. English (2) - dog chilli, wild chilli Hindi (1) - kala-bhangra Kannada (1) - nela bedi soppu Tamil (3) - attupuntu, reilpoondu, siru-kattamanakku Telugu (10) - bhoothalabhairi, bhoothankusamu, erri mirapa, gabbaku chettu, gali vana, galivana chettu, galivana mokka, konda mirapa tuppa, kukka mirapa, pichhi mirapa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36438209a04b19077c68b7b82266ebb4/xclkon/58ad977d2dac06f072fe367efa9988e5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36438209a04b19077c68b7b82266ebb4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36438209a04b19077c68b7b82266ebb4/xclkon/58ad977d2dac06f072fe367efa9988e5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36438209a04b19077c68b7b82266ebb4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36438209a04b19077c68b7b82266ebb4/xclkon/58ad977d2dac06f072fe367efa9988e5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

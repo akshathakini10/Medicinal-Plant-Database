@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dd191b2256841c0623f45a5a76465bc3
+Botanical Name: Paederia foetida L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 71 Vernacular names found in 7 languages. Hindi (11) - bakuchi, gandha-prasarini, gandhali, gundali, gundhabhaduli, khip, prasaran, prasarani, so-maraji, somaraji, somraj Kannada (5) - gabbu balli, gonthemogaru, hesaraane, hesarane, kutumbhare Malayalam (2) - lepcha, talanili Marathi (8) - chandbaela, chandbeli, chandvela, hiranbael, hiranvel, hiranwel, prasaarani, prasarani Sanskrit (36) - Sanskrit Comments  aprasarini, bala, balya, bhadrabala, bhadraparni, candravalli, caruparni, chandraparni, chandravalli, charuparni, gandhabhadra, gandhali, gandhapatra, gandholi, gandhputigandha, gandhya, katambhara, prabala, prabhadra, prasara, prasarani, prasarini, prasarinijati, pratanika, pratanini, rajabala, rajaparni, sara, sarana, sarani, saruparni, sharana, sharani, somraji, suprarasa, suprasara Tamil (4) - cankai-p-pinari, muthiar koonthal, penarisangai, pichulati-elai Telugu (5) - gombheyamagaruchettu, gonthe mogaru chettu, sabiralachettu, saviraela chettu, savirela
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd191b2256841c0623f45a5a76465bc3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1580
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1580.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd191b2256841c0623f45a5a76465bc3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gandhaprasarini
+sanskrit_name: गन्धप्रसारणी
+transliteration: gandhaprasāraṇī
+ref_drug_name: गन्धप्रसारणी
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Gandhaprasarini
+sanskrit_name: गन्धप्रसारणी
+transliteration: gandhaprasāraṇī
+ref_drug_name: गन्धप्रसारणी
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Prasarani
+sanskrit_name: प्रसारणी
+transliteration: prasāraṇī
+ref_drug_name: प्रसारणी
+status: Accepted source
+discussion: At present this species is correlated to Prasarani
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

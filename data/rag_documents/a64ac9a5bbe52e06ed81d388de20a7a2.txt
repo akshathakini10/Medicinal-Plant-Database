@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a64ac9a5bbe52e06ed81d388de20a7a2
+Botanical Name: Euphorbia acaulis ROB.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Euphorbia fusiformis BUCHY.-HAM. E D.DON
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Sanskrit (2) - Sanskrit Comments  adhoguda, mulakaparni Tamil (1) - ilai kalli Telugu (1) - barresepu gadda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64ac9a5bbe52e06ed81d388de20a7a2/xclkon/a4efacf7b791ae93afc3a700476f29f2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64ac9a5bbe52e06ed81d388de20a7a2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64ac9a5bbe52e06ed81d388de20a7a2/xclkon/a4efacf7b791ae93afc3a700476f29f2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64ac9a5bbe52e06ed81d388de20a7a2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a64ac9a5bbe52e06ed81d388de20a7a2/xclkon/a4efacf7b791ae93afc3a700476f29f2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Adhoguda
+sanskrit_name: अधोगुडा
+transliteration: adhoguḍā
+ref_drug_name: अधोगुडा
+status: Accepted source
+discussion: In the texts it has been mentioned among the purgative drugs; Has been cited just once in Caraka samhita; Guda is a synonym of Snuhi so the literal meaning of Adhoguda is 'Snuhi that grows underground'; It is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Adhoguda
+sanskrit_name: अधोगुडा
+transliteration: adhoguḍā
+ref_drug_name: अधोगुडा
+status: Most probable
+discussion: May be a variety of snuhi
+reference: [1]
+
+Identity Record 3
+drug_name: Mulakaparni
+sanskrit_name: मूलकपर्णी
+transliteration: mūlakaparṇī
+ref_drug_name: मूलकपर्णी
+status: Most probable
+discussion: With regard to its morphology, Mulakaparni may be a synonym of 'Adhoguda' which is correlated to this species; Properties of Mulakaparni mentioned by Caraka are similar to 'Adhoguda' so its most probably correlated to this species
+reference: [5]
+
+Identity Record 4
+drug_name: Vanamuli
+sanskrit_name: वनमूली
+transliteration: vanamūlī
+ref_drug_name: वनमूली
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

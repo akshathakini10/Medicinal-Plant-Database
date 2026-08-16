@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0e62f67e0fab7513ab15b0017217636f
+Botanical Name: Symphorema polyandrum WT.
+Family: Symphoremataceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e62f67e0fab7513ab15b0017217636f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e62f67e0fab7513ab15b0017217636f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Girikarni
+sanskrit_name: गिरिकर्णी
+transliteration: girikarṇī
+ref_drug_name: गिरिकर्णी
+status: Controversial
+discussion: May be identified with this species with regard to the popular name given by Dalhana which has features equivalent to it
+reference: [1]
+
+Identity Record 2
+drug_name: Girikarnika
+sanskrit_name: गिरिकर्णिका
+transliteration: girikarṇikā
+ref_drug_name: गिरिकर्णिका
+status: Most probable
+discussion: May be accepted as this species with regard to its medicinal value and features
+reference: [1]
+
+Identity Record 3
+drug_name: Harenu
+sanskrit_name: हरेणु
+transliteration: hareṇu
+ref_drug_name: हरेणु
+status: Suggested source
+discussion: Has been considered as its fruits resemble Harenu in size and shape and it has similar actions when compared to this plant.
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

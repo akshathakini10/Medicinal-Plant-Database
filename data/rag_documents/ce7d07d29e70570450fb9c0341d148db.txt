@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ce7d07d29e70570450fb9c0341d148db
+Botanical Name: Chrysopogon aciculatus TRIN.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 6 languages. Hindi (2) - lampa, surwala Kannada (6) - chorapushpi, ganji garike hullu, hangaare, heggara hakkarinike, keshini, shankini Malayalam (1) - kudira-pullu Sanskrit (3) - Sanskrit Comments  chorapushpi, keshini, shunkhini Tamil (2) - amaraputpi, kampuputpi Telugu (3) - katle chettu, katle gaddi, shankapushpi chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce7d07d29e70570450fb9c0341d148db
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce7d07d29e70570450fb9c0341d148db
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce7d07d29e70570450fb9c0341d148db
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce7d07d29e70570450fb9c0341d148db
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

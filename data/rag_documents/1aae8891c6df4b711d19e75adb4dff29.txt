@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1aae8891c6df4b711d19e75adb4dff29
+Botanical Name: Picrasma quassioides BENNET
+Family: Simaroubaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Picarasma guassioides -
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 3 languages. Hindi (8) - baringi, bharangi, charangi, kakra, karui, kashshing, kuth, tithai Sanskrit (7) - Sanskrit Comments  asranasini, bharangi, charangi, kadavi, nimbi, sarpajihva, vatapaha Urdu (1) - karwiya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1656
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1656.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29/xclkon/138b8c462a28ef31bc8213d6b69440be
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29/xclkon/138b8c462a28ef31bc8213d6b69440be
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1aae8891c6df4b711d19e75adb4dff29
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhargaka
+sanskrit_name: भार्गक
+transliteration: bhārgaka
+ref_drug_name: भार्गक
+status: Substituted source
+discussion: With referance to its properties the stem bark of this species is used as a substitute
+reference: [1]
+
+Identity Record 2
+drug_name: Bharngi
+sanskrit_name: भार्ङ्गी
+transliteration: bhārṅgī
+ref_drug_name: भार्ङ्गी
+status: Accepted source
+discussion: In Bengal this species is popular in the name of Bharangi
+reference: [5]
+
+Identity Record 3
+drug_name: Nimbi
+sanskrit_name: निम्बी
+transliteration: nimbī
+ref_drug_name: निम्बी
+status: Most probable
+discussion: With regard to its synonyms its most probably correlated to this species and popular by the name 'Kadvi' or 'Nimatota'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bharngi
+sanskrit_name: भार्ङ्गी
+transliteration: bhārṅgī
+image_urls: https://www.medicinalplants.in/slokaimages/444/444_1.jpg https://www.medicinalplants.in/slokaimages/444/444_2.jpg https://www.medicinalplants.in/slokaimages/444/444_3.jpg https://www.medicinalplants.in/slokaimages/444/444_4.jpg
+ocr_text: भार्गी स्यात् स्चरसे तिक्ता चोष्णा श्वासकफापहा गुल्मज्वरासृग्वातघ्नी यक्ष्माणं (Dhn) Bhargi svarasa is tikta rasa usna in veerya, $!2$2 kapha hara cures gulma, jvara, asrg vata yaksma and pinasa पीनसम् भार्गी तु कटुतिक्तोष्णा कासश्वासविनाशनी शोफव्रणकृमिघ्नी च दाहज्वरनिवारिणी II (Rjn ३) Bhargi is katu, tikia in rasa usha in veerya cures kasa, svasa, sopha vrana krmi and daha jvara भार्गी रूक्षा कटुस्तिक्ता रुच्योष्णा पाचनी लघुः दीपनी तुवरा गुल्मरक्तनुन्नाशयेत् ध्रुवम् |l शोथकासकफश्चकासपीनसज्वरमारुतान् (Bpn) Bhargi is katu tikta tuvara in rasas laghu ruksa in guna, rucya, usna, pacani dipani cures gulma rakta sotha, kasa, kapha, svasa, pinasa ivara and marurta पर्णमस्याः ज्वरं दाहं हिक्कां दोषत्रयं हरेत् I (Nir) Its leaves are beneficial for jvara daha, hikka vitiation Of three doshas and

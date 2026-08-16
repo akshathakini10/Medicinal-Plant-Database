@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1e7ae219dfd4436de3c87ebde273ffae
+Botanical Name: Diospyros ebenum KOENIG
+Family: Ebenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 91 Vernacular names found in 8 languages. English (1) - ceylon ebony Hindi (2) - abnus, ebans Kannada (17) - abanasi, bale, bale mara, balemara, bhaale mara, dhumbi, dumbi, eboni mara, ebonis, kara, kare, kare kunchara, kari, kari mara, karri, mallaali, mallali Malayalam (7) - ebony, kari, karimaram, karu, mishatumpi, mushtimbi, vayasi Marathi (6) - abnus, karmar, tai, tendu, thai, thendu Tamil (44) - a, acca 1, accacini, accamaram, acha tumbi, akaimam, akaimamaram, avu 1, ay, caciya, caciyam, calaki, calam 2, cali 1, cenkarunkali, culli 2, in 2, kaccini, kakatali, karumkali, karunkali, karuntali, karuttali, karuttalimaram, katuppatati, katuppatatimaram, kolumpukakatali, korri, maiyali, maiyalimaram, mara 4, may2, maykai, pallapaimaram, pannamacalam, parampai, parampaimaram, tailapanitam, tanavana 2, tirkkacalam 2, tukki, tumaram, tumbi, tumpi 1 Telugu (13) - karimara, malluti, nallati, nallavaaludu, nallavaludu, nallootee, nalluti, nallutti, nullavaludu, thumiki, tuki, tumiki, tumki Urdu (1) - burada abnus
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e7ae219dfd4436de3c87ebde273ffae
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e7ae219dfd4436de3c87ebde273ffae
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e7ae219dfd4436de3c87ebde273ffae
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e7ae219dfd4436de3c87ebde273ffae
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

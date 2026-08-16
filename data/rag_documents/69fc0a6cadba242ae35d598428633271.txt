@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 69fc0a6cadba242ae35d598428633271
+Botanical Name: Phyllanthus virgatus G.FORSTER
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Phyllanthus simplex RETZ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 5 languages. Hindi (1) - bhiuavate Kannada (1) - kaadu nelli Malayalam (1) - niruri Marathi (2) - bhuiavali, motibhuiavali Telugu (2) - uchchi usirika, uchhiyusirka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69fc0a6cadba242ae35d598428633271
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69fc0a6cadba242ae35d598428633271/xclkon/22c7705440498b67159c2af26f638b40
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69fc0a6cadba242ae35d598428633271
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

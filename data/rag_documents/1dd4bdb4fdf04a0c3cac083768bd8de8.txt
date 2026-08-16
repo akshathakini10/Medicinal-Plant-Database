@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1dd4bdb4fdf04a0c3cac083768bd8de8
+Botanical Name: Aconitum bisma (HAM.) RAPAICS
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Aconitum palmatum D.DON
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Sanskrit (3) - Sanskrit Comments  ativisa, bikhma, prativisa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 45
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/45.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd4bdb4fdf04a0c3cac083768bd8de8/xclkon/6f37388d3ce6a637065ac4063cbd2fa0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Ativisa
+sanskrit_name: अतिविषा
+transliteration: ativiṣā
+image_urls: https://www.medicinalplants.in/slokaimages/37/37_1.jpg https://www.medicinalplants.in/slokaimages/37/37_2.jpg https://www.medicinalplants.in/slokaimages/37/37_3.jpg
+ocr_text: विषा सोष्णा कटुस्तिक्ता पाचनी दीपनी हरेत् | कफपित्तातिसारामविषकासवमिकृमीन् II (Bpn, kyn)) Visa is Katu, tikta in rasa usna in veerya, pacani, dipani cures kapha pitta, atisara, ama, visa, kasa, vami and krmi. कटुष्णातिविषा तिक्ता कफपित्तज्वरापहा आमातिसारकासघ्नी विषच्छर्दिविनाशिनी || (Rjn) Ativisa is katu, tikta in rasa alleviates kapha, pitta, ivara ama atisara, kasa, visa and chardi अतिविषा दीपनीयपाचनीयसंग्राहकसर्वदोषहरणाम्| (Ch) Ativisha is dipaniya, pacaniya, sangrahaka ana sarvadoshahara

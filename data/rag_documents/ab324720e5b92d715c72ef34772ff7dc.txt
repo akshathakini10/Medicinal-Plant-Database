@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ab324720e5b92d715c72ef34772ff7dc
+Botanical Name: Tephrosia villosa PERS.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 5 languages. Hindi (1) - ruvali biyani Kannada (2) - kaadu thogari, nuguvempali Sanskrit (1) - Sanskrit Comments  sarapunkha Tamil (2) - punaikkaivetlai, vayakkavalai Telugu (2) - nugu vempali, nuguvempali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab324720e5b92d715c72ef34772ff7dc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab324720e5b92d715c72ef34772ff7dc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ab324720e5b92d715c72ef34772ff7dc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

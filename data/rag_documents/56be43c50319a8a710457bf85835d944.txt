@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 56be43c50319a8a710457bf85835d944
+Botanical Name: Mentha arvensis L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Mentha crispa GARSAULT
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 45 Vernacular names found in 9 languages. English (2) - field mint, japanese mint Hindi (5) - ban pudina, paudina, podina, pudina, pudinah Kannada (4) - chetamargugu, chetni-marugu, chetnimaragu, chetnimaruga Malayalam (3) - putina, puttina, puttityana Marathi (1) - pudina Sanskrit (2) - Sanskrit Comments  pudina, putiha Tamil (15) - iyeccakkirai, iyeccirkirai, kumarakamuli, potina, potina#, potina@, pudina, pudinah, puthina, putina, putina@, putiyana, putiyanmuli, putiyanputina, yechakkirai Telugu (4) - igaenglikoora, igaenglikura, pudina, pudinah Urdu (9) - ab-i-podina, arq nana, nana (pudina), podina, podina khushk, podina khusk, podina taza, pudina, pudinah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944/xclkon/024346dd9df50a6fd92433b0d37317c3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944/xclkon/024346dd9df50a6fd92433b0d37317c3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944/xclkon/024346dd9df50a6fd92433b0d37317c3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944/xclkon/024346dd9df50a6fd92433b0d37317c3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56be43c50319a8a710457bf85835d944/xclkon/024346dd9df50a6fd92433b0d37317c3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Putiha - prajati
+sanskrit_name: पूतिहा प्रजाति
+transliteration: pūtihā prajāti
+ref_drug_name: पूतिहा प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,108 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 41cf9dd964d4c6534572145645ac9589
+Botanical Name: Trichosanthes dioica ROB.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 47 Vernacular names found in 8 languages. Hindi (4) - palval, palwal, parvar, parwal Kannada (1) - kahi-padavala Malayalam (2) - kattu-potolam, patolam Marathi (3) - kadu-padvala, palwal, parwar Sanskrit (19) - Sanskrit Comments  bijagarbha, karkasa, karkasacchada, kulaka, meki, pallava, parvagi, parvara, patola, patolah, patolam, patoli, piluparnika, putulika, rajanama, rajapatola, rajiphala, supathya, vrittabija Tamil (12) - amirtapalai 2, kacamarttakam, karkkacatalam, kocatakam, kombu-pudalai, kombuppudalai, kompupputal, kuttakantam, musu musukai, peypputalai, peyu-padal, putalai Telugu (5) - adavi-patola, kambupotala, kommu potla, kommu-potla, kommupotla Tibetan (1) - pa-to-la
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41cf9dd964d4c6534572145645ac9589
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41cf9dd964d4c6534572145645ac9589
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41cf9dd964d4c6534572145645ac9589
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41cf9dd964d4c6534572145645ac9589
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41cf9dd964d4c6534572145645ac9589
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/41cf9dd964d4c6534572145645ac9589
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kulaka
+sanskrit_name: कुलक
+transliteration: kulaka
+ref_drug_name: कुलक
+status: Most probable
+discussion: Kulaka is usually identified with Patola or its variety which is correated to this species
+reference: [1]
+
+Identity Record 2
+drug_name: Patola
+sanskrit_name: पटोल
+transliteration: paṭola
+ref_drug_name: पटोल
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Patola
+sanskrit_name: पटोल
+transliteration: paṭola
+ref_drug_name: पटोल
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 4
+drug_name: Patola
+sanskrit_name: पटोल
+transliteration: paṭola
+ref_drug_name: पटोलशाक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Patola - saka
+sanskrit_name: पटोलशाक
+transliteration: paṭolaśāka
+ref_drug_name: पटोल
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 6
+drug_name: Patola - saka
+sanskrit_name: पटोलशाक
+transliteration: paṭolaśāka
+ref_drug_name: पटोल
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 7
+drug_name: Patola - saka
+sanskrit_name: पटोलशाक
+transliteration: paṭolaśāka
+ref_drug_name: पटोलशाक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

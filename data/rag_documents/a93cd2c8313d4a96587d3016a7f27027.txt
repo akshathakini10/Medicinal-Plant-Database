@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a93cd2c8313d4a96587d3016a7f27027
+Botanical Name: Angelica archangelica L.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Archangelica officinalis HOFFM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. English (3) - angelica, garden angelica, root of the holy ghost Sanskrit (2) - Sanskrit Comments  canda, coraka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a93cd2c8313d4a96587d3016a7f27027/xclkon/0d534dc9b5562a43a7c553525b68e915
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a93cd2c8313d4a96587d3016a7f27027
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a93cd2c8313d4a96587d3016a7f27027/xclkon/0d534dc9b5562a43a7c553525b68e915
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a93cd2c8313d4a96587d3016a7f27027
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a93cd2c8313d4a96587d3016a7f27027/xclkon/0d534dc9b5562a43a7c553525b68e915
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Canda
+sanskrit_name: चण्डा
+transliteration: caṇḍā
+ref_drug_name: चण्डा
+status: Accepted source
+discussion: Canda' is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Canda
+sanskrit_name: चण्डा
+transliteration: caṇḍā
+ref_drug_name: चण्डा
+status: Controversial
+discussion: Identity is still not ascertained and may possibly be correlated to this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

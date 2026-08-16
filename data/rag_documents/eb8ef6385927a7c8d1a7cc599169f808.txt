@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: eb8ef6385927a7c8d1a7cc599169f808
+Botanical Name: Plantago major L.
+Family: Plantaginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Plantago erosa WALL. IN ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 6 languages. English (2) - common plantain, hoary plantain Hindi (4) - lahuriya, lahyrya, luhuriya, luhurya Kannada (1) - sira potla gida Sanskrit (1) - Sanskrit Comments  asvagola Tamil (2) - ishappukol, ishappukol vitai Urdu (1) - bartang
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/4416155e980fcf2ff34c6edfe852e5ba
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1696
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1696.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/3c65be4c06ccd73210c7eaa1901591de
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/4416155e980fcf2ff34c6edfe852e5ba
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/3c65be4c06ccd73210c7eaa1901591de
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/4416155e980fcf2ff34c6edfe852e5ba
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/3c65be4c06ccd73210c7eaa1901591de
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/4416155e980fcf2ff34c6edfe852e5ba
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/3c65be4c06ccd73210c7eaa1901591de
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/4416155e980fcf2ff34c6edfe852e5ba
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/3c65be4c06ccd73210c7eaa1901591de
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eb8ef6385927a7c8d1a7cc599169f808/xclkon/4416155e980fcf2ff34c6edfe852e5ba
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asvagola - prajati
+sanskrit_name: अश्वगोल प्रजाति
+transliteration: aśvagola prajāti
+ref_drug_name: अश्वगोल प्रजाति
+status: Accepted source
+discussion: Seeds of Plantago variety are mixed with Asvagola and used
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

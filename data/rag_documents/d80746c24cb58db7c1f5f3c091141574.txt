@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d80746c24cb58db7c1f5f3c091141574
+Botanical Name: Acacia nilotica (L.) WILLD. E DEL. subsp. indica (BENTH.) BRENAN
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Acacia arabica SENSU BAKER var. vediana COOKE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 120 Vernacular names found in 9 languages. English (2) - babul bark, sant pods Hindi (13) - babool, babul, babur, bambul, banvalia, banwal, bawal, boliya, bolliye, desi-babul, kali-kikar, kikar, suliyo Kannada (13) - barboora, barbura, bobbi, bobbuli, bochhuli, bubbula, gobbali, gobli, karagi, kari gobbali, kari jaali, karibaela, karijali Malayalam (2) - karivelam, karuvelam Marathi (8) - babhal, babhool, babhul, babool, babul, kala-babli, vedibabool, vedibabul Sanskrit (40) - Sanskrit Comments  abha, ajabaksha, arimada, babbula, babbulah, babbulaka, babula, babura, barbara, barbura, barburah, bavari, burbura, daphantaka, dirghakantaka, drdharuha, dridhabija, dridharuha, goshringa, kala- barbura-vrikshaha, kantalu, kaphantaka, kashaya, kashtaki, kinkirata, kristnahcadira, m, malaphala, panktibija, pitaka, pitapushpa, sukshmapatra, svarnapushpa, tikshnakantaka, vabboola, vabbula, varvara, vavvola, yugalaksha, yugmakanta Tamil (27) - akuti, carapari, kalakkantam, kariram, kariram 2, karnamotam, karumaka, karuvai, karuvel, karuvelam, karuvelam picin, karuvelamaram, karuvelan, kirusnappiracotikkuru, kurruvelam, maiyutai, metocam, metokikamaram, metokitam, metori, nattukkaruvel, timurukalparuvukkulkuru, tiritapicam 2, ukkiratitam, ukkiratitamaram, vagai, vavulam Telugu (5) - barbooramu, nalla tumma, nallathumma, thumma chettu, yugalaakshamu Urdu (10) - aqaqia (kikar,babul,mughilan), babool, keekar, keekar (mughilan), kikar, kikar gond, mughilan, samar, shok-e-arabia, shok-e-misaria
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d80746c24cb58db7c1f5f3c091141574
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 28
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/28.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d80746c24cb58db7c1f5f3c091141574/xclkon/75868cb52a01950ad1463b41b68b337a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d80746c24cb58db7c1f5f3c091141574
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d80746c24cb58db7c1f5f3c091141574/xclkon/75868cb52a01950ad1463b41b68b337a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d80746c24cb58db7c1f5f3c091141574
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d80746c24cb58db7c1f5f3c091141574/xclkon/75868cb52a01950ad1463b41b68b337a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d80746c24cb58db7c1f5f3c091141574
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Babbula
+sanskrit_name: बब्बूल
+transliteration: babbūla
+image_urls: https://www.medicinalplants.in/slokaimages/20/20_1.jpg https://www.medicinalplants.in/slokaimages/20/20_2.jpg https://www.medicinalplants.in/slokaimages/20/20_3.jpg https://www.medicinalplants.in/slokaimages/20/20_4.jpg https://www.medicinalplants.in/slokaimages/20/20_5.jpg https://www.medicinalplants.in/slokaimages/20/20_6.jpg
+ocr_text: बब्बूलः किङ्किरातः स्यात्किङ्किराटः सपीतकः स एव कथितस्तज्ज्ञैराभाष्ट्पदामोदिनी बब्बुलः कफनुद् ग्राही कुष्ठक्रिमिव्षापहः IBPNIJ The synonyms for babbula are kinkiratha kinkirata sapitaka and abhasatpadmodini. It is kaphakara and alleviates kusta krimi and visa IBPNJ grahi, कण्टकी सूक्ष्मपत्रश्च कषायकः बब्बूलस्तु कषायोष्णः कफकासामयापहः आमरक्ततिसारघ्नः पित्तदाहार्त्तिनाशनः [KYIJ बब्बूलस्य फलं रूजं विशदं स्तम्भनं गुरु|l बब्बूलस्य फलं रूक्षं विशदं स्तम्भनं गुरु Babbula is kasaya in rasa,usna in viryas kaphapitta hara, alleviates kasa amatisara raktatisara,pitta and daha Its phala is ruksa, visada guru and sthambana in guna [KYNJ पीतपुष्पः मालाफलोथबब्बूलोयुग्मकण्टोदृठारुहः कण्टकीसूक्ष्मपत्रश्चपीतपुष्पःकषायकः [Sgn] Its synonyms are malaphala, babbula yugmakanta drdaruha, kantakl, suksmapatra, pitapuspa and kasayaka. ISgn] बर्बुरस्तुकषायोष्णःकफकासामयापहः आमरक्तातिसारघ्नः पित्तदाहार्शनाशनः IRjn] Babbula is kasaya in rasa usna in virya kaphakara alleviates kasa raktatisara pitta daha and arsa IRjn] बब्बुलस्तिक्तमघुरःस्निग्धः शीतोष्णतूवरः आमरक्ताति साराणांनाशनोग्राहकोमतः कफंकासंचपित्तंचदाहंरक्तातिसारकम्| वातंप्रमेहंशमयेत्पर्णन्तुग्रहकंमतम् रुच्यंकटूष्णकासघ्नं वातपुंस्त्वकफार्शनुत्| IN.RJ Babbula is tikta and madhura in rasa, sitousna in vira, snigdha guna sangrahi alleviates amatisara raktatisara, kapha, kasa, pittas daha, vata and prameha lts patra is katu In rasa usna virya sangrahi rucya alleviates kasa vata pumsatva kapha and arsa. [N.RJ बब्बूलस्यतुनिर्य्यासेग्राहीपित्तानिलापहः रक्तातिसारपित्तास्रमेहप्रदरनाशनः भग्नसन्धानरःशीतःशोणितस्रुतिवारण्ः /[A.S] Resin of babbula is sita in virya. sangrahi pittavata nasaka alleviates raktatisara raktapitta prameha and pracara helps in bhagnasandhana [A.SJ
+
+Shloka Record 2
+drug_name: Babbula - jati
+sanskrit_name: बब्बूल जाति
+transliteration: babbūla jāti
+image_urls: https://www.medicinalplants.in/slokaimages/20/20_1.jpg https://www.medicinalplants.in/slokaimages/20/20_2.jpg https://www.medicinalplants.in/slokaimages/20/20_3.jpg https://www.medicinalplants.in/slokaimages/20/20_4.jpg https://www.medicinalplants.in/slokaimages/20/20_5.jpg https://www.medicinalplants.in/slokaimages/20/20_6.jpg
+ocr_text: बब्बूलः किङ्किरातः स्यात्किङ्किराटः सपीतकः स एव कथितस्तज्ज्ञैराभाष्ट्पदामोदिनी बब्बुलः कफनुद् ग्राही कुष्ठक्रिमिव्षापहः IBPNIJ The synonyms for babbula are kinkiratha kinkirata sapitaka and abhasatpadmodini. It is kaphakara and alleviates kusta krimi and visa IBPNJ grahi, कण्टकी सूक्ष्मपत्रश्च कषायकः बब्बूलस्तु कषायोष्णः कफकासामयापहः आमरक्ततिसारघ्नः पित्तदाहार्त्तिनाशनः [KYIJ बब्बूलस्य फलं रूजं विशदं स्तम्भनं गुरु|l बब्बूलस्य फलं रूक्षं विशदं स्तम्भनं गुरु Babbula is kasaya in rasa,usna in viryas kaphapitta hara, alleviates kasa amatisara raktatisara,pitta and daha Its phala is ruksa, visada guru and sthambana in guna [KYNJ पीतपुष्पः मालाफलोथबब्बूलोयुग्मकण्टोदृठारुहः कण्टकीसूक्ष्मपत्रश्चपीतपुष्पःकषायकः [Sgn] Its synonyms are malaphala, babbula yugmakanta drdaruha, kantakl, suksmapatra, pitapuspa and kasayaka. ISgn] बर्बुरस्तुकषायोष्णःकफकासामयापहः आमरक्तातिसारघ्नः पित्तदाहार्शनाशनः IRjn] Babbula is kasaya in rasa usna in virya kaphakara alleviates kasa raktatisara pitta daha and arsa IRjn] बब्बुलस्तिक्तमघुरःस्निग्धः शीतोष्णतूवरः आमरक्ताति साराणांनाशनोग्राहकोमतः कफंकासंचपित्तंचदाहंरक्तातिसारकम्| वातंप्रमेहंशमयेत्पर्णन्तुग्रहकंमतम् रुच्यंकटूष्णकासघ्नं वातपुंस्त्वकफार्शनुत्| IN.RJ Babbula is tikta and madhura in rasa, sitousna in vira, snigdha guna sangrahi alleviates amatisara raktatisara, kapha, kasa, pittas daha, vata and prameha lts patra is katu In rasa usna virya sangrahi rucya alleviates kasa vata pumsatva kapha and arsa. [N.RJ बब्बूलस्यतुनिर्य्यासेग्राहीपित्तानिलापहः रक्तातिसारपित्तास्रमेहप्रदरनाशनः भग्नसन्धानरःशीतःशोणितस्रुतिवारण्ः /[A.S] Resin of babbula is sita in virya. sangrahi pittavata nasaka alleviates raktatisara raktapitta prameha and pracara helps in bhagnasandhana [A.SJ

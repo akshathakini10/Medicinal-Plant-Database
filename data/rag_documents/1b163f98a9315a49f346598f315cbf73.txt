@@ -1,0 +1,107 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1b163f98a9315a49f346598f315cbf73
+Botanical Name: Catunaregum spinosa (THUNB.) TIRVENGADUM
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Gardenia dumetorum RETZ. Gardenia floribunda ROB. Randia dumetorum LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 188 Vernacular names found in 9 languages. Hindi (19) - arar, karhar, madan, main, main phal, maindal, maindel/madana, maindul, mainfal, mainhuri, mainphal, manneal, men-phal, mendol, mendula, mynphal, paidithagara, pindithagara, rara Kannada (42) - are maradala, aremadalu, aremapala, bangaare, bona gaare, kaare, kaareykaayi, kaari kaayi, kaarigida, kaarikaremullu, kaatmangari, kara, kare, karekayi, kari, karigidda, karikaredkadu, karikaremullu, karrai, katmangari, keraga, madanaphala, maggaare, maggare, managaare, mangara, mangare, mangarebongare, mangari, mangari-kai, mangarikaayi, mangase, meenaakaare, meenakaare, meggare, mendlero, migara, minakare, minkare, moggara, moggare, pindeethagare Malayalam (12) - kara, karacculli, karalik-kaya, karalikkaya, kare, katou-naregam, kattakare, kattunaranna, maggare, malankara, manga-kai, mangakayi Marathi (15) - gaelphal, galay, gehela, gel, gela, gelaphal, gelaphala, ger, gera, ghela, madan, mainhpur, mindhal, monigeli, peralu Sanskrit (42) - Sanskrit Comments  ananta, bastishodhana, chardana, chharddana, dharaphala, gala, galla, ghantala, granthiphala, ka, kaitarya, kantaki, kantha, karaha, karahata, karahataichuka, karahatakah, madana, madanah, madanaka, madanapala, madanaphala, marubaka, maruvaka, muchukunda, phala, phalam, pindi, pindinata, pinditaka, pinditakah, puspaka, ramachhardanaka, ratha, salyaka, salyakah, shalya, shalyaka, tagara, tirvengadum, visapuspaka, vishapushpaka Tamil (34) - attadikarai, kadudam, kalagam, karadam, karai, karudam, madkarai, madu-karei, madukarei, madukkarai, malankarai, marakalam, marakarai, marakkarai, maratam, marivalam, marukarai, marukarai chedi, marukarung kai, marukkaarai, marukkaarai kai, marukkalam, marukkalan-kay, marukkalankarai, marukkalankay, marukkallan-kai, marukkarai, marukkarai palam, maruvakam, matukkarai, mutukkarai, poongarai, pungarai, pungarei Telugu (21) - chinnamanga, chnna manga, cinnamanga, madanamu, manda, mandaa, mande-kayalu, manga, manga chettu, manga-kayalu, mangaara, mangai, mangara, mangha, mangu, maranga, mranga, mranga-kayalu, munga, sinnamanga, thagara-padika Tibetan (2) - po son cha, po-son-cha Urdu (1) - mainphal (jauz-ul-qai)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/19b94efc73bdd6d54891f0ab7c7732ab
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 477
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/477.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/aec392636c2fd7ad0165cb4605e9af16
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/f91d81b7dee32666b96ec439edf0956b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/404aea5d5b647a8d54188a803af47cb4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/19b94efc73bdd6d54891f0ab7c7732ab
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/aec392636c2fd7ad0165cb4605e9af16
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/f91d81b7dee32666b96ec439edf0956b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/404aea5d5b647a8d54188a803af47cb4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/19b94efc73bdd6d54891f0ab7c7732ab
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/aec392636c2fd7ad0165cb4605e9af16
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/f91d81b7dee32666b96ec439edf0956b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/404aea5d5b647a8d54188a803af47cb4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/19b94efc73bdd6d54891f0ab7c7732ab
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/aec392636c2fd7ad0165cb4605e9af16
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/f91d81b7dee32666b96ec439edf0956b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/404aea5d5b647a8d54188a803af47cb4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/19b94efc73bdd6d54891f0ab7c7732ab
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/aec392636c2fd7ad0165cb4605e9af16
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/f91d81b7dee32666b96ec439edf0956b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/b78a1f9a78a09759c0265d85a325ab67
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/404aea5d5b647a8d54188a803af47cb4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/e2dd8c6529e2eebb9b6fd7ba82cf3773
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b163f98a9315a49f346598f315cbf73/xclkon/19b94efc73bdd6d54891f0ab7c7732ab
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

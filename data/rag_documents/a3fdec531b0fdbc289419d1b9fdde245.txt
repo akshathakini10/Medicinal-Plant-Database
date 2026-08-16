@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a3fdec531b0fdbc289419d1b9fdde245
+Botanical Name: Drypetes zeylanica (MUELL.-ARG.) HURUSAWA
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Putranjiva zeylanica MUELL.-ARG.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  putranjivaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3fdec531b0fdbc289419d1b9fdde245/xclkon/1d495346a5b4e637aab48b36d3df3942
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3fdec531b0fdbc289419d1b9fdde245
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3fdec531b0fdbc289419d1b9fdde245/xclkon/1d495346a5b4e637aab48b36d3df3942
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3fdec531b0fdbc289419d1b9fdde245
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a3fdec531b0fdbc289419d1b9fdde245/xclkon/1d495346a5b4e637aab48b36d3df3942
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Putrajivaka
+sanskrit_name: पुत्रजीवक
+transliteration: putrajīvaka
+image_urls: https://www.medicinalplants.in/slokaimages/645/645_1.jpg https://www.medicinalplants.in/slokaimages/645/645_2.jpg https://www.medicinalplants.in/slokaimages/645/645_3.jpg
+ocr_text: पुत्रजीवःपवित्रश्चगर्भदःसुतजीवकः. पुत्रजीवोपत्यजीवःसिद्धिदोपत्यजीवकः Pavitra, garbada, sutajivaka, pathyajiva ana pathyajivaka are the synonyms of putrjiva. पुत्रजीवोगुरुर्वृष्योगर्भदः श्लेष्मवातकृत् सृष्टमूत्रमलोरूक्षोहिमःस्वादुःकटुःपटुः | | (Bpn) Putra jiva is svaau, katu, patu in rasa, guru, ruksa in guna, hima in veerya, vrshya, garbhada, srstamutramala, increases slesma and vata पुत्रजीवोहिमोवृष्यःश्लेष्मदोगर्भजीवदः| चक्षुष्यःपित्तशमनोदाहतृष्णानिवारणः || KRjnl Putrajiva is hima in veerya, vrshya, increases slesma, is garbhajivada, cakshushya, pacifies pitta, alleviates daha ana trshna

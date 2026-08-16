@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 660961673f8c6ebaad7e9fa0e1674c42
+Botanical Name: Neptunia oleracea LOUR.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Neptunia prostrata (LAM.) BAILL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 8 languages. English (1) - water neptunia Hindi (3) - laj-alu, lajalu, lajjalu Kannada (1) - nidrayam Malayalam (4) - nirtottavati, niti-todda-vaddi, nittitoddavaddi, nittitottavati Marathi (1) - lajri Sanskrit (1) - Sanskrit Comments  alambusa Tamil (5) - cuntaikkirai, sadai, sundaikkirai, sundaykiray, suntaikkirai Telugu (3) - nidrayam, nirutalavapu, nirutalvapu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42/xclkon/cfb181cf651ab08f3c37584fde289fa9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42/xclkon/cfb181cf651ab08f3c37584fde289fa9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42/xclkon/cfb181cf651ab08f3c37584fde289fa9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/660961673f8c6ebaad7e9fa0e1674c42/xclkon/cfb181cf651ab08f3c37584fde289fa9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Samanga
+sanskrit_name: समङ्गा
+transliteration: samaṅgā
+ref_drug_name: समङ्गा
+status: Suggested source
+discussion: Different names given to this plant by different commentators are given to this species, hence it's suggested to be considered
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

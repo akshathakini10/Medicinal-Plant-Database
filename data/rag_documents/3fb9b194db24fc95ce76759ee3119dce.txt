@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3fb9b194db24fc95ce76759ee3119dce
+Botanical Name: Pimpinella anisum L.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 46 Vernacular names found in 9 languages. English (5) - anise, aniseed, pastis, raki, sweet cumin Hindi (3) - saonf, saurif, sonf Kannada (5) - dodda-jirage, kaadu sompu, laknosompu, sapu, sompu Malayalam (1) - perin-chirakam Marathi (3) - badishep, ervados, somp Sanskrit (9) - Sanskrit Comments  karavee, madhurimisi, prthvika, satahva, setapushpa, shatapushpa, shatava, shetapushpa, shetpushpa Tamil (8) - compu, perun-shiragam, peruncirakam, perunjchirakam, samboo, shombu, sohikeerai, sombu Telugu (8) - gaddi sopu, kupi chettu, kuppi, kuppi sompu, kuppi sopu, pedda-jilakara, sompu, sopu Urdu (4) - anisoon, anisum, anisun, soanf
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fb9b194db24fc95ce76759ee3119dce
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fb9b194db24fc95ce76759ee3119dce
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fb9b194db24fc95ce76759ee3119dce
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fb9b194db24fc95ce76759ee3119dce
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3fb9b194db24fc95ce76759ee3119dce
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

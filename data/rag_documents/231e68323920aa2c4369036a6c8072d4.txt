@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 231e68323920aa2c4369036a6c8072d4
+Botanical Name: Desmodium triflorum DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hedysarum triflorum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 29 Vernacular names found in 8 languages. English (1) - matty desmodium Hindi (2) - kudaliya, motha Kannada (5) - kaadu menthe, kaadu pullam purache, kaadu pullam purasi, kaadu pullampurasi, nelaparande Malayalam (2) - munta-mandu, nilamparanta Marathi (5) - chipti, jangli methi, ran-methi, ranmethi, ranmeti Sanskrit (2) - Sanskrit Comments  hamsapadi, tripadi Tamil (6) - chirupulladi, ciru pullati, cirupullati, siru-pullady, sirupulladi, sirupullati Telugu (6) - moohoodoo, moordoo, munta mandu, muntamandu, munthamandu, munuddamoddu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/231e68323920aa2c4369036a6c8072d4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 798
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/798.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/231e68323920aa2c4369036a6c8072d4/xclkon/4adfe040f84fc949136ebecbd6507944
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/231e68323920aa2c4369036a6c8072d4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/231e68323920aa2c4369036a6c8072d4/xclkon/4adfe040f84fc949136ebecbd6507944
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/231e68323920aa2c4369036a6c8072d4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/231e68323920aa2c4369036a6c8072d4/xclkon/4adfe040f84fc949136ebecbd6507944
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/231e68323920aa2c4369036a6c8072d4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 33855cd601b11401aaded096b953fd00
+Botanical Name: Achillea millefolium LEDEB.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 5 languages. English (6) - bloodwort, milfoil, sanguinary, stanchgrass, thousand-leaf, yarrow Hindi (3) - bhut kesi, gandrain, puthkanda Marathi (1) - rojmaari Tamil (1) - accilliya Urdu (4) - baranjasif, brinjasuf, buiranjasif, tukhm gandana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/33855cd601b11401aaded096b953fd00
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/33855cd601b11401aaded096b953fd00
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/33855cd601b11401aaded096b953fd00
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/33855cd601b11401aaded096b953fd00
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

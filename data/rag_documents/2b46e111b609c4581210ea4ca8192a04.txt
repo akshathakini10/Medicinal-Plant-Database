@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2b46e111b609c4581210ea4ca8192a04
+Botanical Name: Bunium persicum (BOISS.) FEDT.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Carum bulbocastanum AUCT. NON KOCH:C.B.CLARKE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 5 languages. Hindi (5) - kala-zirah, kalajirah, shiajira, siah-zirah, siyajira Kannada (1) - shime jeerige Sanskrit (5) - Sanskrit Comments  jiraka, kalajira, karavi, kasmirajiraka, krsnajiraka Tamil (11) - cimaiccirakam, kavarcirakam, kevalika, pilappu shiragam, pilappuccirakam, pilappucirakam, pilavucirakam, piriyacirakam, piriyakam 1@, shemaishiragam, shimayi-shombu Telugu (2) - seema jeelahara, simajilakara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 5998
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/5998.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04/xclkon/0c83b5ffb3f024de6d5aabc862a8287b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04/xclkon/0c83b5ffb3f024de6d5aabc862a8287b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04/xclkon/0c83b5ffb3f024de6d5aabc862a8287b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04/xclkon/0c83b5ffb3f024de6d5aabc862a8287b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b46e111b609c4581210ea4ca8192a04
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

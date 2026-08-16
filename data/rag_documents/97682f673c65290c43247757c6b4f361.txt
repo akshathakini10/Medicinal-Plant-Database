@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 97682f673c65290c43247757c6b4f361
+Botanical Name: Sinapis alba L.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Brassica alba (L.) RABENH
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 82 Vernacular names found in 8 languages. English (4) - kedlock, white mustard, yellow mustard, yellow or white mustard Hindi (2) - safed rai, sufedrai Malayalam (1) - vella-kadugu Marathi (1) - mohori-pandri Sanskrit (6) - Sanskrit Comments  gaurasarsapa, shvetasarshapa, siddhartha, siddharthah, svetasarisha, svetasarsapah Tamil (66) - akantanal, apali, avaya, ayali2, ayami, ayccuri, ayccurikam, cacanam, cacinakkatuku, cacinam, cannacalai, cannacalaikkatuku, cannacalakkatuku, cannacalam, carucapam, carucapi@, caruvisam, cataikkentam2, cimaikkatuku, cinakkatam, cittacatanakkatuku, cittacatanam, cittari, cittarikkatuku, cittarttam, iraccitapalam, kadugu, kanti2, katippai, katippakai2, kattapati, kattimpam, katukumani, katumpai, katuppai, katutailam, katutitta#, katutitta@, katutittati, kauram2, kaurikam, kevu, kurkevu, kurkovu, kutanacani, kutanacini, kuttampokki2, mayirmanikkam, nattacevi, putanacan 2, putanacanam 2, recanakkina, talnattam, titcanakam, titcanakkatuku, titcanam6, vatai, vellai-katuku, vellaikkatuku, vellaiyutam, vellaiyutitam, ven-kadugu, venkadugu, venkali@, venkalikkatuku, venkatuku Telugu (1) - avalu Urdu (1) - tukhm halun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97682f673c65290c43247757c6b4f361
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97682f673c65290c43247757c6b4f361/xclkon/46615f440c651ca05d8abb4227995a52
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97682f673c65290c43247757c6b4f361
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97682f673c65290c43247757c6b4f361/xclkon/46615f440c651ca05d8abb4227995a52
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97682f673c65290c43247757c6b4f361
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97682f673c65290c43247757c6b4f361/xclkon/46615f440c651ca05d8abb4227995a52
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97682f673c65290c43247757c6b4f361
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97682f673c65290c43247757c6b4f361/xclkon/46615f440c651ca05d8abb4227995a52
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97682f673c65290c43247757c6b4f361
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: db24e0e78aef3a7e6e0d10c4f97f5779
+Botanical Name: Portulaca quadrifida L.
+Family: Portulacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Portulaca guadrifida L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 84 Vernacular names found in 7 languages. Hindi (9) - baralunia, chaunlayi, chota luniya, chotaluniya, khatechawal, lonia, lonika, loniya, nunisak Kannada (10) - bachhale soppu, goni soppu, gonisoppu, haali dajjili, haalu bachhale, haalu bachhali, hali bachchele, halibachcheli, lonika, sanna goni Malayalam (1) - nelatsjira Marathi (5) - bhumy gol, bhuyigola, kathe chanval, kathechanval, ranghol Sanskrit (8) - Sanskrit Comments  kshudragholika, laghughonika, laghulonika, loni, lonika, loonia, oopadykee, upadyki Tamil (37) - antaratecarikkoti, antarattecari, cirupacalai, cokkali2#, cokkali2@, ilaippacalai, ilaippacali, kotippacalai1, mantotayakkaratimuli, maraimuli 1, mukkili 1, mukkuli, nilicam, otunkani, otunkanikkirai, pacalai, pacalai1, pacarai1, pasalai, pasalai keerai, pasarai, pasarai keerai, passalaikkirai, passelie keeray, passelikkirai, passraikeeray, pavanatamatu, payviri, payvirikkoti, pikan, sinnaparpukkirai, sinnaparupukkirai, siruppassaraikkirai, soin-pappu-kirai, taraippacali, uram, vacalai Telugu (14) - goddupaavili koora, goddupavili, kura, pavili, payalaaku, payalaku, peddapaavili, peddapavili, sannapappu, sannapayal aaku, saunapailkoora, saunapappu, saunapavili, sunapailkura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779/xclkon/ff4f5d619664f2d9c887ccd2312856be
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779/xclkon/ff4f5d619664f2d9c887ccd2312856be
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779/xclkon/ff4f5d619664f2d9c887ccd2312856be
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779/xclkon/ff4f5d619664f2d9c887ccd2312856be
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db24e0e78aef3a7e6e0d10c4f97f5779
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Lonika
+sanskrit_name: लोणिका
+transliteration: loṇikā
+ref_drug_name: लोणिका
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Lonika
+sanskrit_name: लोणिका
+transliteration: loṇikā
+ref_drug_name: लोणिका
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

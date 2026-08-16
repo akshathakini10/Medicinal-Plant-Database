@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fd3a4bc302dda5bcdde6b2cd0b99e31a
+Botanical Name: Commiphora opobalsamum (L.) ENGL.
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Amyris gileadensis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. English (2) - mecca balsam, mecca myrrh Urdu (1) - mur makki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd3a4bc302dda5bcdde6b2cd0b99e31a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd3a4bc302dda5bcdde6b2cd0b99e31a/xclkon/efc4703f44c2ed33bc149acb9f25d2d6
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd3a4bc302dda5bcdde6b2cd0b99e31a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd3a4bc302dda5bcdde6b2cd0b99e31a/xclkon/efc4703f44c2ed33bc149acb9f25d2d6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd3a4bc302dda5bcdde6b2cd0b99e31a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

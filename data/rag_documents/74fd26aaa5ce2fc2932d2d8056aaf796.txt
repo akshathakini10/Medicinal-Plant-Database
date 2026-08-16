@@ -1,0 +1,134 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 74fd26aaa5ce2fc2932d2d8056aaf796
+Botanical Name: Andrographis paniculata (BURM.F.)WALLICH E NEES.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Justicia paniculata (VAHL) CL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 116 Vernacular names found in 8 languages. English (1) - kariyat Hindi (10) - chara-yetah, charayetaah, charayetah, chiraita, kalamegh, kalmegh, kalpanath, kiryat, maha-tita, mahatita Kannada (12) - hasi kiriyaatha, kaala megha, kreata, nela baevu, nela beru, nela bevu, nela-bevinagida, nelabaevinagida, nelabaevu, nelabevinagida, oora kiriyaathu, vaayu hullu Malayalam (8) - cara-caniram, kiriyat, kiriyatta, kiriyattu, nalaveppu, nila-veppa, nilavaepu, nilaveppu Marathi (5) - kirayatem, olenkiraayath, olenkirayat, paale kiraayath, vhadlem Sanskrit (10) - Sanskrit Comments  bhunimba, bhunimbah, bhunimbaha, kairata, kalamegha, kirata, kiratatikta, kiratatiktah, mahatikta, yavatikta Tamil (65) - accani 1, anarivempucceti, anariyam, anariyatittam#, anariyatittam@, ceyapunimpam, cilesmati, ciratkucci, copakkini, intirekai, kaipparacan, kaippuvempu, kairatacceti, kairatam#, kariyattu1, katcima, kattinuna, kattinunacceti, katunimpam, kavutakam, kiriat, kiriyattu1, kokanam2, kolakkirutam, kolakkirutamaram, kommattimarikacceti, kommattimarikam, koritalai, korittal, korittalai, korittalaivempu, korrikalai, korukkacci2, kottilai, kottilaimaram, kurakivempu, kuramacanam, marukkatitam, marukkatitavempu, mutacancam, narciritu, nelavemu, nila vembu, nila-vembu, nilavembu, nilavempu, nittacam, puminayakacceti, puminayakam, puminayakan, puminimpacceti, puminimpam, punimpam, punimpar, puriyar, putikam 3, puyari 1, shirat-kuchchi, shiratkuch-chi, shiratkuchi, talainimpaki, talainimpakicceti, taruluruti, vempatikacceti, vempatikam Telugu (5) - karivaemu, nela vemu, nelavaemu, nelavemu, velavemu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796/xclkon/7b68014f02d652a7415d5c4bc45694fe
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 181
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/181.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796/xclkon/7b68014f02d652a7415d5c4bc45694fe
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796/xclkon/7b68014f02d652a7415d5c4bc45694fe
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796/xclkon/7b68014f02d652a7415d5c4bc45694fe
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796/xclkon/7b68014f02d652a7415d5c4bc45694fe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74fd26aaa5ce2fc2932d2d8056aaf796/xclkon/7b68014f02d652a7415d5c4bc45694fe
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhunimba
+sanskrit_name: भूनिम्ब
+transliteration: bhūnimba
+ref_drug_name: भूनिम्ब
+status: Accepted source
+discussion: Bhunimba is correlated to this species
+reference: [3]
+
+Identity Record 2
+drug_name: Bhunimba
+sanskrit_name: भूनिम्ब
+transliteration: bhūnimba
+ref_drug_name: भूनिम्ब
+status: Most probable
+discussion: This species is popularly known as Bhunimba. It is used in place of Kiratatikta and also been identified as Yavatikta so there is a difference of opinion regarding it to be a synonym of Kiratatikta.
+reference: [1]
+
+Identity Record 3
+drug_name: Kirata
+sanskrit_name: किरात
+transliteration: kirāta
+ref_drug_name: किरात
+status: Suggested source
+discussion: This species is used as a substitution in the drug market
+reference: [1]
+
+Identity Record 4
+drug_name: Kiratatikta
+sanskrit_name: किराततिक्त
+transliteration: kirātatikta
+ref_drug_name: किरात
+status: Suggested source
+discussion: This species is used as a substitution in the drug market
+reference: [1]
+
+Identity Record 5
+drug_name: Yavatikta
+sanskrit_name: यवतिक्ता
+transliteration: yavatiktā
+ref_drug_name: यवतिक्ता
+status: Accepted source
+discussion: Yavatikta is correlated to this species acoording to the author
+reference: [2]
+
+Identity Record 6
+drug_name: Yavatikta
+sanskrit_name: यवतिक्ता
+transliteration: yavatiktā
+ref_drug_name: यवतिक्ता
+status: Accepted source
+discussion: At present Yavatikta is considered to be Kalamegh which is correlated to this species
+reference: [1]
+
+Identity Record 7
+drug_name: Yavatikta
+sanskrit_name: यवतिक्ता
+transliteration: yavatiktā
+ref_drug_name: यवतिक्ता
+status: Most probable
+discussion: Yavatikta' has been mentioned once in Caraka samhita as a synonym of 'Sankhini' where as Susruta samhita has mentioned Yavatikta taila (oil); Dalhana in his commentary has stated that it grows in the field of yava and it has 7-8 bitter tasting leaves, so the above statement that it is a synonym of 'Sankhini' is false; Nowadays it is taken as 'Kalamegha' which is identified with Andrographis paniculata; But according to the description given by Dalhana it is identified with either Erythraea roxburghii or Canscora decussata
+reference: [5]
+
+Identity Record 8
+drug_name: Yavatikta
+sanskrit_name: यवतिक्ता
+transliteration: yavatiktā
+ref_drug_name: यवतिक्ता
+status: Substituted source
+discussion: During later periods this species was accepted as its alternative source
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kiratatikta
+sanskrit_name: किराततिक्त
+transliteration: kirātatikta
+image_urls: https://www.medicinalplants.in/slokaimages/1549/1549_1.jpg https://www.medicinalplants.in/slokaimages/1549/1549_2.jpg https://www.medicinalplants.in/slokaimages/1549/1549_3.jpg
+ocr_text: किरातको रसे तिक्तः सरः शीतो लघुस्तथा श्लेष्मपित्तास्रशोफादिकासतृष्णाज्वरापहः || (Dhn) Kirataka is tikta in rasa, sara and laghu in guna, sita in veerya, cures slesma, pitta asra, sopha, trsna and jvara भूनिम्बो वातलः तिक्तः कफपित्त ज्वरापहः वर्णसंरोपणः पथ्यः कुष्ठकण्डूतिशोफनुत्I | नेपालनिम्बः शीतोष्णो योगवाही लघुस्तथा तिक्तोडति कफपित्तास्रशोफतृष्णाज्वरापहःI| (Rjn) Bhunimba is tikta in rasa, increases vata, alleviates kapha and pitta, is pathya, varna samropana, cures kustha kandu sopha and jvara Nepala nimba is ati tikta in rasa, laghu in guna, sitosna in veerya, yogavahi, cures kapha, pitta, sopha, asra, trsna and ivara. किरातः सारको रूक्षः शीतलः तिक्तको लघुः सन्निपातज्वरश्वासकफपित्तास्रदाहनुत् कासशोथतृषाकुष्ठज्वरव्रणकृमिप्रणुत्I| (Bpn) Kirata is tikta in rasa, sara, ruksa, laghu, in guna, sita in veerya, cures sannipata ivara svasa, kasa, pittasra daha, kasa sotha, trsha, kustha, ivara, vrana and krmi.

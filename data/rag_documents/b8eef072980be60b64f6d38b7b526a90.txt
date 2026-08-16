@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b8eef072980be60b64f6d38b7b526a90
+Botanical Name: Gardenia latifolia AITON
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 59 Vernacular names found in 6 languages. Hindi (3) - paphar, papra, papura Kannada (13) - adavi bikke, adavi bikki, adavibikke, bikke, kaalkambi, kalgaare, kalkambi, kambgemara, kambi, kambi mara, kambimaena, moddi kambi, moddikambli Marathi (4) - dikemaali, ghogar, gogavli, papura Sanskrit (1) - Sanskrit Comments  parpataki Tamil (11) - capattirakam, kambil, kambili, kampaimaram, kattumaraikala, kottumarikalan, kumbai, kumbay, kumpai 2, periya kumpai, perunkampalimaram Telugu (27) - aakubikki, adavi bikki, adavibikki, bikki, caringua, iribiki, kaakiti chettu, kaaringuva, kaka, kakeda, kakiti, karinguva, kokkita, konda manga, kondabikki, kondakakkitha, kondakokkita, kondamanga, kurukiti, pedda bikki, peddabikki, peddakaaringuva, peddakaringa, peddakaringuva, peddamanga, ratikokkita, tharipi chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b8eef072980be60b64f6d38b7b526a90
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b8eef072980be60b64f6d38b7b526a90
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b8eef072980be60b64f6d38b7b526a90
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Parpataki
+sanskrit_name: पर्पटकी
+transliteration: parpaṭakī
+ref_drug_name: पर्पटकी
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Parpataki phala
+sanskrit_name: पर्पटकी फल
+transliteration: parpaṭakī phala
+ref_drug_name: पर्पटकी
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

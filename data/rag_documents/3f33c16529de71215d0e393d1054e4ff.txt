@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3f33c16529de71215d0e393d1054e4ff
+Botanical Name: Protium serratum (COLEBR) ENGLER
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Bursera serrata COLEBR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 1 languages. Telugu (8) - busi, chitreka, chitrika, cittirekka, errabusi, karakabusi, munutikaraka, yerrabusi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f33c16529de71215d0e393d1054e4ff
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f33c16529de71215d0e393d1054e4ff/xclkon/79a23d9aae0f3096d099efee137e4147
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f33c16529de71215d0e393d1054e4ff
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

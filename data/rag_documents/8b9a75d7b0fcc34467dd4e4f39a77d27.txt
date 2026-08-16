@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8b9a75d7b0fcc34467dd4e4f39a77d27
+Botanical Name: Indigofera linnaei ALI
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Indigofera ennaephylla L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 64 Vernacular names found in 7 languages. Hindi (3) - bekario, jhunjhni, pandar-phali Kannada (4) - channe gida, kanneggilu, kenneggilu, kennegilu Malayalam (2) - cheru-pullate, cherupullate Marathi (1) - bhuigalle Sanskrit (1) - Sanskrit Comments  vasuka Tamil (47) - accumaram, adambedi, atampeti, ayavikaracceti, ayavikaram, cavvatukkuttaniyam, cemponnerunci, cempunerincil, cennerincil, cenneruncil, centupikakkoti, centupikam, ceppu neruncil, ceppu-neruncil, ceppunerunci, ceyyaccam, cheppoo neringie, cheppu nerungil, cheppu nerunji, cheppu nerunjil, cheppuneringie, cheppunerinjil, cheppunerunji, cikappunerincil2, cilapeci, cilapeti, cirunerunci, civappunerincil, cuvarccalam, iruttiro, kampaci, kampacikkoti, kampam, kappiri, metakkitai, mulapattiram, pacanapeti, pacanapeti 1, pacanapetikkoti, palampeci, palappeci, papanapeci, patalamulam 1, pirapalicapam, seruppunerinji, vel, vel@ Telugu (6) - chala pachi, chalapachi, cheragadam, cherragaddamu, cherragaddhamu, yerrapalleru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b9a75d7b0fcc34467dd4e4f39a77d27
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b9a75d7b0fcc34467dd4e4f39a77d27/xclkon/22fed5fd87d3cf929e922d5fb65fdb41
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b9a75d7b0fcc34467dd4e4f39a77d27
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b9a75d7b0fcc34467dd4e4f39a77d27/xclkon/22fed5fd87d3cf929e922d5fb65fdb41
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b9a75d7b0fcc34467dd4e4f39a77d27
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b9a75d7b0fcc34467dd4e4f39a77d27/xclkon/22fed5fd87d3cf929e922d5fb65fdb41
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b9a75d7b0fcc34467dd4e4f39a77d27
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

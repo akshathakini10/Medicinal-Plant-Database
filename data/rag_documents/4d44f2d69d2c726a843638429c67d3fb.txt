@@ -1,0 +1,96 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4d44f2d69d2c726a843638429c67d3fb
+Botanical Name: Barleria strigosa WILLD.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 45 Vernacular names found in 5 languages. Malayalam (3) - karimkurunni, nilakkurinni, nilakurinni Sanskrit (30) - Sanskrit Comments  artagala, bala, bana, dasi, dasikurantaka, dasikurantakah, kakubha, kantartagala, kurabaka, kurantaka, kuravaka, mahasaha, nilajhinti, nilakurantaka, nilakusuma, nilapushpi, nilasaireyaka, rujakara, saha, sahaacara, sahacara, sahacarah, sahachara, sainduka, saireya, saireyaka, sairiyaka, sairyaka, shairiyaka, vana Tamil (8) - mancatcemmulli 2, nilambaram, nilamparam, nili, siruneeli, taci, tacikai, tacikaimaram Telugu (3) - neela gorinta, neelaamabaram, nilambaramu Tibetan (1) - sa ha ra tsa rnam gcig
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 291
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/291.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d44f2d69d2c726a843638429c67d3fb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Saireyaka
+sanskrit_name: सैरेयक
+transliteration: saireyaka
+ref_drug_name: सैरेयक नील
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Saireyaka - nila
+sanskrit_name: सैरेयक नील
+transliteration: saireyaka nīla
+ref_drug_name: सैरेयक नील
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Saireyaka - pita
+sanskrit_name: सैरेयक पीता
+transliteration: saireyaka pītā
+ref_drug_name: सैरेयक नील
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Saireyaka - svetarakta
+sanskrit_name: सैरेयक श्वेतरक्ता
+transliteration: saireyaka śvetaraktā
+ref_drug_name: सैरेयक नील
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Sairiyaka
+sanskrit_name: सैरीयक
+transliteration: sairīyaka
+ref_drug_name: सैरेयक नील
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 6
+drug_name: Sairiyaka - sveta
+sanskrit_name: सैरीयक श्वेता
+transliteration: sairīyaka śvetā
+ref_drug_name: सैरेयक नील
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

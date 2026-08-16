@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: de94495a4d43cb4d8c640f4bcd1b7a1b
+Botanical Name: Asparagus sarmentosus L.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 7 languages. Hindi (3) - satavari, shakakul, shaqaqul Kannada (4) - halarru-makkal, jayibem, majjige-gadde, satmuli Malayalam (2) - shatavali, shatavari-kizhanna Marathi (1) - satavari-mull Sanskrit (3) - Sanskrit Comments  sahasravirya, satavari, wari Tamil (14) - cimaiccataveri, cimaittannir vittankilanku, kilavari, pappa kilangu, sadavari, shimai shadavari, tanner-vittang-kalung, tanni-muttan-kizhangu, tannir vittan, tannir-vittan-kizhangu, tannirvittankizhangu, thannirvithan kalangu, thannirvittan kalangu, utaka mulam Telugu (4) - challa-gaddalu, philli-taga, pilli-pichara, sadavari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de94495a4d43cb4d8c640f4bcd1b7a1b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de94495a4d43cb4d8c640f4bcd1b7a1b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de94495a4d43cb4d8c640f4bcd1b7a1b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/de94495a4d43cb4d8c640f4bcd1b7a1b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Satavari
+sanskrit_name: शतावरी
+transliteration: śatāvarī
+ref_drug_name: शतावरी
+status: Accepted source
+discussion: Two varieties of Satavari are mentioned where in the big variety is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Satavari
+sanskrit_name: शतावरी
+transliteration: śatāvarī
+ref_drug_name: शतावरी
+status: Suggested source 5
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Satavari
+sanskrit_name: शतावरी
+transliteration: śatāvarī
+image_urls: https://www.medicinalplants.in/slokaimages/185/185_1.jpg https://www.medicinalplants.in/slokaimages/185/185_3.jpg https://www.medicinalplants.in/slokaimages/185/185_4.jpg https://www.medicinalplants.in/slokaimages/185/185_5.jpg https://www.medicinalplants.in/slokaimages/185/185_6.jpg https://www.medicinalplants.in/slokaimages/185/185_7.jpg https://www.medicinalplants.in/slokaimages/185/185_8.jpg
+ocr_text: Sukrala , Stanya kari, Balya, Vata Pitta Asra Sopha hara. Mahasatavari is Medhya , Hraya, Vrshya, Rasayani, Sita in Virya, cures Arsa, Grahani ana Nayana amaya. Bpn) नारायणी द्वीपिशत्र्दीपिका धरकण्टका अभिरुस्तुंग्नी केशी पीवरी द्वीपपीवरी II सहस्रवीर्या मधुरा फणिजिह्वोर्ध्वकण्टका ऋष्यप्रोक्ता सूक्ष्मपत्रा महापुरुषदन्तिका (Kdn) Narayani, dvipisatru , dvipika , dharakantaka, abhiru, tungini, kesi, pivari, avipapivari, sahasravirya, madhura, phanijihva, urahvakantaka, suksma patra, mahapurusha dantika are the synonyms for satavaril शतावरी गुरुः शीता तिक्ता स्वाद्वी रसायनी मेधाग्निपुष्टिदा स्निग्धा नेत्र्या गुल्मातिसारजित् शुक्लस्तन्यकरी बल्या वातपित्तास्रशोफजित् महाशतावरी मेध्या हृद्या वृष्या रसायनी Il शीतवार्या निहन्त्यर्शोग्रहणीनयनामयान् IBpn) Satavari is tikta, svadu in rasa, guru, snigdha in guna, sita in veerya, rasayani, medha agni pustiaa, netrya, sukrala, stanya kari, balya, alleviates gulma , atisara, vata, pitta, asra and sopha. Mahasatavari is sita in veerya, meahya, hraya, vrshya, rasayani, cures arsa, grahani navana amaya. and वातपित्तहरी वृष्या शतावरी महती चैव हृद्या च मेधाग्निबलवर्द्धिनी Il ग्रहण्यर्शोविकारघ्नी वृष्या शीता रसायनी कफपित्तहरास्तिक्तास्तस्या एवाङ्कुरा स्मृताः Il (Su S Su ४६) Satavari is svadu, tikta in rasa, vrshya, alleviates vata and pitta. Mahati variety is sita in veerya, hrdya, vrshya, rasayani, medha agni bala vardhini, alleviates grahani and arsa Its ankura is tikta in rasa, alleviates kapha and pitta. स्वादुतिक्ता वातपित्तहरा वृष्या बल्या शीता रसायनी स्वादुः शतावरी तैलघृतयोगेशु पूजिता IMdn) Satavari is svadu in rasa, sita in veerya, vrshya, balya, rasayani, alleviates vata and pitta, is more effective when usea with taila and ghrta. along शतावरी हिमा तिक्ता रसे स्वादुः क्षयास्रजित् वातपित्तहरा वृष्या रसायनवरा स्मृता Il सहस्रवीर्या मेध्या तु हृद्या वृष्या रसायनी शीतवीर्या निहन्त्यर्शेग्रहणीनयनामयान् Il तदङ्कुरास्त्रिदोषघ्नो लघुरर्शःक्षयापहः IDhnl Satavari is tikta, svadu in rasa, hima in veerya, alleviates vata ana pitta, cures ksaya, asra, is vrshya, rasa vara, medhya, hrdya, vrshya, rasayani, and cures arsa, grahani, nayana amaya. Its ankura is laghu in guna, alleviates tridosha, arsa and Yana ksaya. शतावर्यौ हिमे वृष्ये मधुरे पित्तजित्परे कफवातहरे तिक्ते महाश्रेष्ठे रसायने शतावरीद्वयं वृष्यं मधुरं पित्तजिद्धिमम् महती कफवातघ्नी तिक्ता श्रेष्ठा रसायने कफपित्तहरास्तिक्तास्तस्या एवाङ्कुरा स्मृता IRjn) Satavirya is madhura in rasa, hima in veerya, vrshya, mahasresta rasayana, pitta hara param, kapha vata hara. Both the types maahura in rasa, vrshya, alleviates pitta Mahati is tikta in rasa, srestha rasayana, alleviates kapha ana vata. Its ankura is tikta in rasa, alleviates kapha and pitta and are शतावरी हिमा तिक्ता स्वाद्वी गुर्वी रसायनी सुस्निग्धा शुक्लला बल्या स्तन्यमेधाग्निपुष्टिदा |l चक्षुष्या वातपित्तास्रगुल्मातीसारशोफजित् महाशतावरी हृद्या मेधग्निबलशुक्लदा ग्रहण्यर्शोडक्षिरोगघ्नी शीतवीर्या रसायनी तदङ्करो लघुस्तिक्तो हृद्यस्त्रिदोषनुत् निहन्ति वातपित्तास्रग्रहणीगुदजक्षयान् Il IKdnl Satavari is tikta, svadu in rasa, guru in guna, hima in veerya, rasayani, susnigaha , sukrala, balya, stanya medha agni pustida, caksushya, alleviates vata, pitta asra, gulma, atisara and sopha. Maha satavari is hrdya, medha agni bala sukrada, cures grahani, arsa, aksi roga is rasayani Its ankura is tikta in rasa, laghu in guna, vrshya, hraya, alleviates tridosha , cures vata, pitta, asra, grahani nad guaaja वृष्यो and ksaya

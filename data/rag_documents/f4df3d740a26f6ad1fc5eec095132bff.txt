@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f4df3d740a26f6ad1fc5eec095132bff
+Botanical Name: Bombax ceiba L.
+Family: Bombacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Bombax malabaricum DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 279 Vernacular names found in 10 languages. English (3) - indian silk cotton tree, silk cotton tree, simul Hindi (26) - deokapas, heembal, hemlo, huttian, kanti-senbal, kantisembal, nurma, pagun, ragat-semal, ragat-senbal, ragatsemal, ragatsembal, rakta-semul, salamali, salmali, sanwal, sanwar, sanwar seemal, semal, semul, semur, shimal, shimbal, simal, simbal, somr Kannada (53) - aala, agigaai, ala, alada, apoorani, apurani, booral, boorga, booruga, boorugada-mara, bura, buraga, buragada, burga, burgao, burla, buruga, burugada, burugudu, camblero, dhoodi, dhudi, doodile, dudi, elava, elavu, erana, hathi, hatthi, hatti, ilavu, kempu booraga, kempuburaga, kempuburga, kempuburuga, kempuburugada, mara hatthi, mullala, mullalada, mullelava, mullelavu, mullu booruga, mullu-buraga-mara, mulluburaga, picphele, pishphele, poola, pula, salmali, sauri, tuti, voorda, yelevalada mara Malayalam (24) - elavam, elavu, ilavam, ilavu, illavu, moca, mocha, moul-elavou, moulelavou, mul-lilava, mullilavam, mullilavu, mullilavupichila, mullulavamarum, picchila, poola, pula, pula-maram, pulamaram, purani, samparuthi, semul, unnamurikku, unnamuriku Marathi (15) - kanta-sair, kanterisamar, kantesavar, samar, saur, savar, savara, savari, sayar, semal, shevari, simlo, tamari, tambdi-savaru, vhadli-savar Sanskrit (53) - Sanskrit Comments  apurani, bahuvirya, chirayu, chirjivi, dirghadruma, dirghapadapa, dirghayu, duraroha, kadala, kalpavriksha, kantakadhya, kantakadruma, kantakari, kantakashtha, kukkutavandaka, kukkutti, mahavriksha, manadruma, moca, mocah, mocahva, mocaki, mocarasa, mocha, mochani, nirgandhapushpi, nissara, panchaparni, panchparni, picchila, pichhala, pnachaparni, purani, raktapushpa, raktapuspa, raktashalmali, raktotpala, ramyapushpa, saladrumah, salmala, salmali, salmili, shalmali, shalmalini, shimulu, simbali, sthirayu, sthirayuh, sthulaphala, tulavriksha, tulini, tuliphala, yamadruma Tamil (72) - acikai, agigi, akikai, apurani, calika, calikapparutti, callaki2, calmali, canamali, canmalam, canmali, canmali@, caumali, cempancu, cittamuka, cittamukapparutti, cittan, curapu2, elavamaram, elevam, ilavam, ilavam3, ilavu, ilavu2, irattaputam, kannikaram, kantakaram, karuppilavu, katimuli, kongu, konku2, kutacanmali2, malaielavam, mali-elavam, maratti mokku, mocaiyilavam, mocam 2, mul ilavam, mul-iivam, mul-ilava-maram, mul-ilavam, mul-ilave, mul-ilavu, mulilavan, mulilavu, mullilavamaram, mullilavu, mulveluccikam, mulveluccikamaram, nakuli2, pattu, peyilavamaram, peyilavu, pongar, ponkar mocam, pula, pulai, pulavaipparutti, purami, purani, sallagi, samani, sanmali, selavagu, tolaya, tulam3, urocanam, varikkaricamaram, varunturu#, varunturu@, vitaram, yamatturumam Telugu (28) - baraga, baruga, booragha, boorgha, buraga, burga, burgha, buroh, buruga, burugu, buruyu, dasanipu, konda buruga, kondabooruga, kondaburaga, mudlaboorugachettu, mundla-buraga-chettu, mundlabooruga, mundlaburaga, patti, pinnabooruga, pinnaburaga, pinnaburuga, poor, saalmali, salmali, shalmali, wuraga Tibetan (1) - sin sa lma la Urdu (4) - gond simbhal, mocharas, mochras, musli simbhal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 339
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/339.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/bdc46eef65b7fa11273e8bec165e65e8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/bdc46eef65b7fa11273e8bec165e65e8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/bdc46eef65b7fa11273e8bec165e65e8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/bdc46eef65b7fa11273e8bec165e65e8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/bdc46eef65b7fa11273e8bec165e65e8
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4df3d740a26f6ad1fc5eec095132bff/xclkon/3cb86cbdb9510e8b57bb03383599897d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

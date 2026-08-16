@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 52b53edb16f78a4b7aaa3df4cc70893e
+Botanical Name: Moschosma polystachyum BENTH.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ocimum polystachyon L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Tamil (3) - canakki kirai, canakki-p-puntu, citevippuntu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52b53edb16f78a4b7aaa3df4cc70893e/xclkon/ce4d0d91509d2fbb1b878d495fce11ef
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52b53edb16f78a4b7aaa3df4cc70893e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52b53edb16f78a4b7aaa3df4cc70893e/xclkon/ce4d0d91509d2fbb1b878d495fce11ef
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52b53edb16f78a4b7aaa3df4cc70893e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52b53edb16f78a4b7aaa3df4cc70893e/xclkon/ce4d0d91509d2fbb1b878d495fce11ef
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

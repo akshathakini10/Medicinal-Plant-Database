@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 93223a8a195ffeb9942a56f67c871d4d
+Botanical Name: Elaeocarpus serratus L.
+Family: Elaeocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 44 Vernacular names found in 5 languages. English (1) - ceylon olive Kannada (14) - athakunge, beejada mara, bigada, changa balli, guddada rambe, guddada renji, guddarenje, haanillatada, hanalthadil, henalthade, hennalathade, kyasatthe, perinkara, rahubija Malayalam (12) - avil, kaarmavu, kara, karamavu, nallakara, perin-kara, perinkara, perunkara, rudraksham, valiakarai, valiyakara, valyakara Sanskrit (3) - Sanskrit Comments  aravata, chiribilva, ciribilvah Tamil (14) - karai, karamaram, kattukkarai, olang-karai, olankarai, pikki, rudraksham, ulan karei, ulangarai, ulangkarei, ulankarai, uruttiracham, uruttiratcam, uttraccham
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/93223a8a195ffeb9942a56f67c871d4d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Eravat
+sanskrit_name: ऐरावत
+transliteration: airāvata
+ref_drug_name: ऐरावत
+status: Accepted source
+discussion: Is a type of Rudraksa and identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

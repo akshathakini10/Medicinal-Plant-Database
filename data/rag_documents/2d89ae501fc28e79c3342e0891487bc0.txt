@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2d89ae501fc28e79c3342e0891487bc0
+Botanical Name: Jasminum angustifolium VAHL
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 155 Vernacular names found in 7 languages. Hindi (4) - ban-mallica, ban-mallika, banmallika, mwari Kannada (10) - adavi mallige, adavimallige, doddakadumallige, edroli, eruvanthige, kaadu iravanthige, kaadu mallige, kadu-mallige, kadumallige, vanamallige Malayalam (12) - kattu-malika, kattumallika, kattumulla, kattupiccakam, kattupiccakamulla, kattupichakam, kattupichakamulla, katu-pitsjegam-mulla, katupitsjigammulla, mullapu, piccakam, vanamallika Marathi (1) - kusara Sanskrit (11) - Sanskrit Comments  asphota, kanamallika, kanana-mallika, kananamullika, malati, priya, supooja, supuja, vanamalli, vanamallika, vanamalti Tamil (101) - adachalam, adigal, arpotam 2, atacalam, atikal, atikarakkoti, atikaram, caat mallica vayr, canikatam, cankatam, chattu-mallika, chiru malli, cirramalli, cirrumallikai, citakanci, citakancicceti, cittamalli, curanacini, irattapintakkoti, irattapintam, iru, kaattumalli, kamallikai, kanakam 3, kanamalli, kanamallicceti, kanamauval, kanamavval, kanamullai, kanmauval, kanmelaval, kanmukal, karacuram, kattu-malligai, kattumalligai, kattumallikai, kattumullai, kattumullaikkoti, katu-mallige, kava, kava#, kava@, kavalai, kavali, kavanai, keccaciracceti, keccaciram, kecham, kenika, kokalivalai, kokuntacceti, kokuntam, kullimallikai 2, kuruvilaangkodi, makaravalai, maladi, malaimulli, malli 2, manval, marugu, maruku, mauvari, mauvarikkoti, motanikacceti, motanikam, motayanti, motayanticceti, mucumallikai, mullai, munal, muttumullai, muttumullaicceti, nutavacceti, nutavam, otikam, pirakuti, puccikam, punalmallikai, punamalli, purusana, rucci, ruccimallikaikkoti, shirumalli, tacam, tapaciyam, taracukkoti, tautikamullai, tautikamullaicceti, ulampecacceti, ulampecam, vanamalli, vanamallikai, vanamallikai 2, vanamauval, vauvutam, yumam, yuti, yutika, yutikai, yutikakkoti, yutikam Telugu (16) - adavi malli, adavi-malle, adaviemallie, adavimalle, adavimalli, adivimalle, adivimalli, chirimalle, chirumalle, cirumalle, garuda malle, garudamalle, linga malli, lingamalle, sirimalle, srimalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d89ae501fc28e79c3342e0891487bc0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d89ae501fc28e79c3342e0891487bc0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d89ae501fc28e79c3342e0891487bc0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d89ae501fc28e79c3342e0891487bc0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c76fd076adaa777fb9a70f1164ade1b7
+Botanical Name: Symplocos cochinchinensis S.MOORE
+Family: Symplocaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 5 languages. Kannada (7) - balaloddi, boothagani, budigane, changa, loddi, lodhra, lodra Malayalam (3) - paccotti, pachotti, patsjotti Sanskrit (1) - Sanskrit Comments  lodhrah Tamil (3) - kambli, kambli-vetti, kampilivetti Telugu (2) - budigane, thellalodduga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76fd076adaa777fb9a70f1164ade1b7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76fd076adaa777fb9a70f1164ade1b7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76fd076adaa777fb9a70f1164ade1b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c76fd076adaa777fb9a70f1164ade1b7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

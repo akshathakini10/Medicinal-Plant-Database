@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d986d433a29a370fd246988ccee8afed
+Botanical Name: Zanthoxylum nitidum (ROB.) DC.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Zanthoxylum hamiltonianum WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 5 languages. Hindi (6) - kamala, kambila, kampillalya, raini, rohini, sinduri Kannada (12) - chandrahittu, daasara mara, damara, kesarimara, korangu, kumkumada mara, kunkuma, ponnakam, punna, purushathunge, suvarnakesari, yetthunaalige mara Marathi (7) - honne, kamala, kapilo, kesari, kunkume, shendri, suvarna-kesari Tamil (8) - kamala, kanapotta, kapila podi, kapita, kapli, manjanatthi, ruhin, thavattai Telugu (8) - adavi, chandiramu, gandhamu, hanumanthuni-bottu, kumkuma-chettu, nagarakta, sindhuramu, vasantha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d986d433a29a370fd246988ccee8afed
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d986d433a29a370fd246988ccee8afed/xclkon/7d7dbe8af7950e3497f1280bd9bb3e3a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d986d433a29a370fd246988ccee8afed
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

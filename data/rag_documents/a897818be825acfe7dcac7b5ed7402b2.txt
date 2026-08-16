@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a897818be825acfe7dcac7b5ed7402b2
+Botanical Name: Pogostemon heyneanus BENTH.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 5 languages. English (1) - indian patchouli Kannada (1) - daeva kanisha Marathi (2) - paach paath, pat Sanskrit (1) - Sanskrit Comments  paci Tamil (7) - kadirpachai, kannokkikyacceti, kannokkiyam, katirppaccai, katirppaccaicceti, parutippaccai, parutippaccaicceti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a897818be825acfe7dcac7b5ed7402b2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1716
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1716.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a897818be825acfe7dcac7b5ed7402b2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a897818be825acfe7dcac7b5ed7402b2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a897818be825acfe7dcac7b5ed7402b2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Paci
+sanskrit_name: पाची
+transliteration: pācī
+ref_drug_name: पाची
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

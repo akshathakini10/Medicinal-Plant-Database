@@ -1,0 +1,89 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5c592c064b9567277c71857fa99918e3
+Botanical Name: Pinus roxburghii SARG.
+Family: Pinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Pinus longifolia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 94 Vernacular names found in 10 languages. English (2) - chir, chir pine Hindi (18) - chil, chir, chir-ka-per, chir-ki-gond, chirgond, chll, cid, cil, dhupasarala, gandah-borajah, kolain, kulain, salla, sanobar-ki-gond, saral, saral-ka-per, saral-ki-gond, sarala Kannada (6) - barhi, daevadaaru, iailaparni, sarala, saraladevadaru, tailaparni Malayalam (6) - caralam, charalam, pitadaru, putikashtam, saralam, srivasam Marathi (1) - saraladeodara Sanskrit (20) - Sanskrit Comments  bhadradaru, dhupavrikshaka, kshira, manojna, marichapatraka, namera, pitadaru, pitadru, putikashtha, sarala, saraladrava, saralah, siddhadaru, snigdhadaru, snigdhadarusanjnaka, srivasa, srivasakah, srivestaka, sryahvapitadru, surabhidaruka Tamil (30) - carala tevataru, caraladevadaru, caraladevataru, caralaittevataru, caralaittevatarumaram, caralam@, caralatevataram, caralatevatari, caralatevataru, cikarimatiyam, cikarimatiyamaram, cimaittevatari, cimaittevataru, curatturumam, curul tevataru, curultevataru, kaurimati, kaurimatimaram, porrevatari, porrevatarimaram, shimai-deva-dari, shirsal, shurul-devadari, simaidevadari, suruldevadari, tuvitattaru@, tuvitatturu, vatarakkacci 1, vataratci, vatarayanam 1 Telugu (4) - daevadaaru chettu, devadari-chettu, devadaru, sarala Tibetan (3) - kau ndzo tsa (p), ko ndzo tsa, than sin Urdu (4) - behroza khushk, habb-e-sanobar, ilak-ul-butm, sanobar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1663
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1663.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3/xclkon/8dd249de9bd0e593c326f7af795248a8
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c592c064b9567277c71857fa99918e3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sarala
+sanskrit_name: सरल
+transliteration: sarala
+ref_drug_name: सरल
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Sarala
+sanskrit_name: सरल
+transliteration: sarala
+ref_drug_name: सरल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Srivestaka
+sanskrit_name: श्रीवेष्टक
+transliteration: śrīveṣṭaka
+ref_drug_name: श्रीवेष्टक
+status: Accepted source
+discussion: Is the resinous exudation obtained from this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Sarala
+sanskrit_name: सरल
+transliteration: sarala
+image_urls: https://www.medicinalplants.in/slokaimages/1287/1287_1.jpg https://www.medicinalplants.in/slokaimages/1287/1287_2.jpg https://www.medicinalplants.in/slokaimages/1287/1287_3.jpg https://www.medicinalplants.in/slokaimages/1287/1287_4.jpg https://www.medicinalplants.in/slokaimages/1287/1287_5.jpg
+ocr_text: सरलःपूतिकाष्ठञ्चमनोज्ञोधुपवृक्षकः Synonyms of sarala are putikastha, manojna and dhupavrkshaka. सरलोमधुरस्तिक्तःकटुपाकरसोलघुः स्निग्धोष्णःकर्णकण्ठाक्षिरोगरक्षोहरःस्मृतः| | कफानिलस्वेददाहकासमूर्छाव्रणापहः | | (Bpn) Sarala is madhura, tikta in rasa, laghu, snigdha in guna usna in veeryza, katu in paka, alleviates karna kantha aksi roga, kapha, anila, sveaa, aaha, kasa, murccha and vrana सरलःकटुतिक्तोष्णःकफवातविनाशनः त्वक्दोषशोफकण्डूतिव्रणघ्नःकोष्ठशुद्धिदः IRjn ) Sarala is katu, tikta in rasa, usna in veerya, aestroys kapha and vata kostha sudahikara, alleviates tvag dosha, sopha, kandu and vrana. सरलःकटुतिक्तोष्णोरूक्षःश्लेष्मानिलापहः भूतदोषापहोरक्तोलिप्तोङ्गेषुसुकांतिदः | | (क्वचित्) sarala is katu, tikta in rasa, usna in virya, ruksa, slesma anila hara, bhuta dosha hara, raktopaliptangaeshu sukantida. सरलोमधुरस्तिक्तोरसेपाकेकटुर्लघुः | स्निग्धश्चोष्णःकर्णनेत्रकण्ठरोगविनाशनः| | कफंवातञ्चयूकाञ्चकासंस्वेदंव्रणंतथा रक्षोबाधामलक्ष्मींचनाशयेदितिकीर्त्तितः (Rjn) sarala is madhura, tikta in rasa, katu in paka and in rasa, laghu, snigdha, usna in virya, karna netra kantha roga vinasana, kapha vata yukta kasa sveaa vrana hara, raksobaaha, lakshmi nasana

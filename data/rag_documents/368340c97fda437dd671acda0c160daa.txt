@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 368340c97fda437dd671acda0c160daa
+Botanical Name: Persea macrantha (NEES) KOST.
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Machilus macrantha NEES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 38 Vernacular names found in 5 languages. Kannada (22) - chittu thandri, chittutandri, cittutantre, gulamaavu, gulimaavu, gulimavu, gulmao, gulmas, gulmavu, kaadu lavanga, kadal vanchi, kooramada, koorma, kroma, krome, krooramaavu, kruramavu, kuremavu, kurma, neeru kukku, nirkukku, seeme maavu Malayalam (7) - anakkuru, aneikuru, iruli, kolamavu, kulamavu, ooravu, uravu Marathi (1) - gulaamba Tamil (6) - anaikkuru, iruli, kolamavu, kolarmavu, kollamavu, kruramavu Telugu (2) - naara, nara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368340c97fda437dd671acda0c160daa
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368340c97fda437dd671acda0c160daa/xclkon/e6ca0b765ca3e6a3191ca62194dca17f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368340c97fda437dd671acda0c160daa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368340c97fda437dd671acda0c160daa/xclkon/e6ca0b765ca3e6a3191ca62194dca17f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/368340c97fda437dd671acda0c160daa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

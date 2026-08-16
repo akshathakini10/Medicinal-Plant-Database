@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cbd7b60cfa86f558434aa5eeb6d63886
+Botanical Name: Impatiens balsamina L.
+Family: Balsaminaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 9 languages. English (1) - garden balsam Hindi (8) - gul-mehndi, gul-mendi, gulmehndi, gulmendi, manjrya, mehndi, phyaktuli, timadia Kannada (7) - basavana paadadagida, basavanapaada, gowri hoo gida, gowri hoovina gida, gowri hoovu, karna kundala, karnakundala Malayalam (1) - tilo-onapu Marathi (2) - chirdo, terada Sanskrit (1) - Sanskrit Comments  tairini Tamil (11) - aivartenkittumpai, aivartyenki, kacit-tumpai, kacittumpai, kopurattumpai, kulin, tucapattiri, uropantikai, uropantikaicceti, utakatacceti, utakatam Telugu (4) - chilaka mukka puvvu, kaasithummi, kasi tummi, mudda gorinta Urdu (1) - gulemendi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cbd7b60cfa86f558434aa5eeb6d63886
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cbd7b60cfa86f558434aa5eeb6d63886
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cbd7b60cfa86f558434aa5eeb6d63886
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cbd7b60cfa86f558434aa5eeb6d63886
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cbd7b60cfa86f558434aa5eeb6d63886
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tairini
+sanskrit_name: तैरिणी
+transliteration: tairiṇī
+ref_drug_name: तैरिणी
+status: Accepted source
+discussion: Identified with this species; It might be the plant 'Terad' from Maharashtra
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

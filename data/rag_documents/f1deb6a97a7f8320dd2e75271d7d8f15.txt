@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f1deb6a97a7f8320dd2e75271d7d8f15
+Botanical Name: Strychnos nux-vomica L.
+Family: Loganiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 342 Vernacular names found in 10 languages. English (1) - nux-vomica Hindi (7) - bailewa, chibbinge, jahar, kajra, kucchla, kuchla, nirmal Kannada (55) - hemmushti, hemmusti, hemushti, ittangi, itte mara, itti, ittinji, kaagara, kaajavaara, kaanaraka, kaanjara, kaanjira, kaasana mara, kaasara, kaasaraka, kaasarakaayi, kaasarkaayi, kaiyar, kajavara, kangira, kanjira, kasakana, kasan, kasana, kasara, kasaragaddi, kasaraka, kasarakai, kasarakana, kasarakava, kasarakayi, kasarka, kasarkana, kasarkanamara, kasarkina, kasera, kasrakana, kasura, kataka, kayeru, khasca, koradu, kujarra, manjinakoradu, mushti, mushti-bija, najinakoradu, nanjina, nanjina koradu, nanjinakoradina, nanjinakoradu, nunjunda, visha mushti, yetti, yettica Malayalam (10) - camram, cariram, kanhiram, kanjera, kanjiram, kanni-rak-karu, kannirakkuru, kanniram, kariram, tettamperahmaram Marathi (8) - jharkhatchura, jharkhathchura, kaajraa, kajra, kajro, kar, kara, kuchala Sanskrit (42) - Sanskrit Comments  akutaka, chipita, cutaka, dirghapatra, garadruma, kachchira, kakanda, kakapilu, kakapiluka, kakasphurja, kakatinduka, kaktindu, kalshti, karaskara, karaskarah, kimpaka, krishnabana, kucala, kucila, kulaka, kupaka, kupilu, kupiluh, kutaka, markatatindu, markatatinduka, mushti, payahprasadi, ramyaphala, vartula, veshamoostibeejun, visamusti, visamustih, visamustika, visataru, visatindu, visatinduka, vishadruma, vishatinduka, vishmushti, vishtindu, vishvabhishajam Tamil (192) - akku, amaram, amati, amatikam, amatikamaram, appayattutarakam, appu, appuri, appurimaram, arkkapittacamani, atti 4, caripputtekkimaram, cariputikam, cariputte, cariputtekki, cariputtel, carirattai#, carirattai@, carirattaimaram, cariyam, cattapariyavacam, cillam, cirkkirumi, citti 1, cittikkurimaram, corimaram, cuvacakam, etti, etti vittu, ettik-kottai, ettikkattai, ettikkottai, ettimaram, ettivittu, intu 1, irucikam, irucikamaram, kacotti, kagodi, kaitai, kaittakotaram, kaittakotaramaram, kakarukam 1, kakatintukam, kakoti#, kakoti@, kalacikam, kalacikamram, kalakam 2, kalakutam, kalam, kali, kanam, kanavitulo, kancika, kancikai 1, kancirai, kanciram, kanciramaram, kancirankalam, kancurai#, kancurai@, kancuraittol, kanjaram, kanjeerai, kanjiga, kanjirai, kanjiram, kantacuram, karalam, karanam, karumacakamaram, katukkala, katukkalamaram, katumacakam, katumaram 1, kecamamutti#, kecamamutti@, keshamamutti, kimpakam, kirusnapanam, kiruttinabanam, kiruttinapanam, kisnapanam, kittinapanam, kittipanam, kittivan, kodaram, kokkutam, kokkutamaram, kontaki, kontakimaram, kontakulam, kontakuntam, kopakuntam, kopakuntamaram, kopatintam, koratam, koratamaram, kota, kotaram 1, kucatataccan, kulavintu, kupaciya, kupaciyamaram, kupacupa, kurankam, kuyapicakam, kuyapicakamaram, kuyyapicakam, mamuti, mancatkanicci, mancatkaniccimaram, manruti, matakam, matukam 3$, maturakam 3, maturam 2, mavakam 2, murimuri, muriyaval, nacari, naccumaram, nakamutti, nancumutantam, nancumutantamaram, naukacarai, naukacaraimaram, nilapuspam, nilaputpam 2, nilaputpamaram, nilaputpikai 2, nukku, palapataiyati, petarikalam, petaritalam, peyttuvarpokkimaram, peyttuyarpokki, picacupokki, picacupokkimaram, piccam, piccu, piccumaram, pitaricanam, pocakam, porkancirai, potakam, potakamaram, puntitam, putakanaiyati, putakecar, putakeci 1, putattika, putattikamaram, putavirotimaram, puttan, putten, puttincari, puttiracari@, puttiracarimaram, puttiram, puttitam, puttitamaram, puttuvani, puttuvanimaram, rtti, tevankanimaram, tevarottati, tintu, tomalati, vacimaratti, vainakamali, vainakamalimaram, vainakamutti, vainakamuttimaram, vanamulutali, vantulo, vaucetikam, vicamutti, vicamuttimaram, vipattam, visamaram, visamitti, visamutti, vitamaram, vitamittimaram, vitamutti, vituttam, yetti, yetti-kottai, yettie cottay, yettikkottai Telugu (17) - mooshtiganga, moostee, moostighenza, mucidi, musadi, mushadi, mushidi, mushidi chettu, mushini, mushti, mushti-vittulu, mushtivittulu, musidi, musini chettu, musti, musty, vishamushti Tibetan (3) - ba sa mu sta, ka-ka-nda, ko byi Urdu (7) - azaraqi (kuchla), burada kuchla mudabbir, burada kuchla muddabar, hab-ul-gharab, kuchla, kuchla muddabir, mitha tilia mudabbar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1995
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1995.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1deb6a97a7f8320dd2e75271d7d8f15
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

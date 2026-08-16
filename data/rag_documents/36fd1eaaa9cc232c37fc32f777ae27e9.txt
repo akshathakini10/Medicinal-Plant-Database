@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 36fd1eaaa9cc232c37fc32f777ae27e9
+Botanical Name: Musa paradisiaca L.
+Family: Musaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 225 Vernacular names found in 10 languages. English (1) - apple banana Hindi (3) - kela, kell, mouz Kannada (31) - baale, baale hannu, bale, bale-hannu, balehannu, bare, budibaale, chandrabaale, elakkibaale, elebaale, elebale, gulurbaale, haavubaale, havubalai, havubale, hombaale, jenubaale, kadali, kallubale, kandu, kathabalai, kattebale, kattubaale, kattubale, madarangabaale, mavuju, paccabale, pachabalai, pachabale, rambhe, yelebale Malayalam (17) - bala, bata, ettakkaya, ettavala, kadalam, kadalivala, kalvazha, karinkadali, kashthila, kodali, ksetrakadali, kunnan, piccha, vala, vannan, vazha, vvala Marathi (4) - kadali, kaela, kela, sonakaela Sanskrit (3) - Sanskrit Comments  kadala, kadali, rambha Tamil (118) - acaram#, acokam 3, aconam#, aconam@, ampanam@, ampanamaram, ankisam, ankitam@, ankucam@, ankuram, araimarai, aramanapam, arampaimaram, araparuttam, arecikam, arilatikam, arotakam, arpakatam, arparuttam, attivisanika, carataru, cukantitam, cukantitamaram, cukarakam, cukumaram, cuntaraman, irampa, irattapittanacani, kadali, kadali valai, katalakam, katalam, katali#, kattila1, kattilai, kattilam, kavar, kavariya, kavariyamaram, kavarkali, kavavucil, konran, kuccatantikam, latan, mamputai, manakkolam, mancitalai, mancitalaimaram, marapala, marupuka, miruttiyupalai 2, mocai 2, mocakam#, mocakam$, mocakam@, mocakamaram, mocam 3, mocatam 2, moccam, mokam 3, mondan vazai, montan valai, nakarautati, nantam2, nattam2, nattukkatali2, nattuvalaimaram, nicaram2, nimpiyam, nirampiyamaram2, nirampiyaputpam, ocaimaram, piccai3, piracu, putpaki, putpakimaram, putpam2, tampuraki, tampurakimaram, tampuravallam, tanattaypata, tantuvika, tantuvikkiriyai, tarpayarpatentam, tataccatai, tataccataimaram, tatam, tatam#, tatapattiri, tatipattirimaram, tayaikkolli3, tayaikkonran3, taykkolli2, tenni, tevakanni2, tiranapati, tirkkapanni, tirkkaparni, tirkkapattirakam2, tirkkapattiram1, tirunacarai, tirunacaraimaram, uruttampai, vaazhai, valei, valei pullum, vallakai, vallakaimaram, vallam, vanalatcumi, varapucai, vayatani, vazhai, vazhai thandu, vicai, virai 4@, viruccika 2, vizhaip-pazham Telugu (46) - amrithapany, ananthi, ananti, anathi, anati, anthi, anti, arathi, arati, aratikaya, aratthi, aratti, aretti, ariti, ariti chettu, batila, bontaarati, bontarati, bontayarati, bontharanthi, chakrakaeli, desavala chakrakaeli, errachakrakaeli, errarati, kadalamu, kadali, kamaretti, karpoora chakravkaeli, komarettie, kommanati, kommanatti, kommarati, kommaratti, kommu ariti, kommuariti, naatabam, nalla-ariti, nallarati, paccarati, pachharati, rambha, sugandhaalu, tatacchadamu, tatachhadamu, thatachhadamu, theneyarathi Tibetan (1) - chu sin Urdu (1) - kela (mouz)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36fd1eaaa9cc232c37fc32f777ae27e9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kadali
+sanskrit_name: कदली
+transliteration: kadalī
+ref_drug_name: कदली
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Kadali
+sanskrit_name: कदली
+transliteration: kadalī
+ref_drug_name: कदली
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kadali
+sanskrit_name: कदली
+transliteration: kadalī
+image_urls: https://www.medicinalplants.in/slokaimages/1143/1143_1.jpg
+ocr_text: मोचफलं स्वादु शीतं विषिटम्भिकफनुद् गुरु स्िज्धं पित्तास्रतृड्दाहक्षतक्षयसरजित्| पक्वं स्वादु हिमं पाके स्वादुवृष्यं च बृंहणभ् क्षुत् तृष्णानेत्कगदहृत् मोहघ्नं रुचिमांसकृत्| | Moca phala is svadu in rasa. vistambhi guru, snigdha in guna, sita in veerya, alleviates kapha, cures pitta, asra, trd, daha, ksata and ksaya Pakva phala is svadu in rasa, hima in veerya, svadu in paka, vrshya, brmhana, ruci mamsa karaka, alleviates ksut, trsna, gada and moha

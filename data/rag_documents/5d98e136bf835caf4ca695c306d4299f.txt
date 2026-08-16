@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5d98e136bf835caf4ca695c306d4299f
+Botanical Name: Cascabela thevetia (L.) LIPPOLD
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Thevetia neriifolia JUSS. E. STEUDEL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 120 Vernacular names found in 9 languages. English (2) - lucky bean or nut, yellow oleander Hindi (7) - peeli kaner, pila-ganer, pila-kaner, pilakger, pili kaner, pili-kaner, pnila-kaher Kannada (7) - gowri hoo, gowri pushpa, hirehabbe, hirehalla, kaadu kaasi kanigalu, kaasi kanigala mara, kadakaasi kanigalu Malayalam (3) - kanaviram, paccayarali, pachchai-alari Marathi (6) - biti, halduvi, pivala-kanher, pivalakanher, pivalakanhera, sherani Sanskrit (34) - Sanskrit Comments  ashvaghna, ashvaha, ashvamaraka, ashvanashaka, ashvantaka, ashvarodhaka, chandata, divyapushpa, gauripushpa, hapusha, haripriya, hayaghna, hayamaraka, hayari, karavira, karavirabheda, karavirah, kunda, nakharavha, pitakaravira, prachanda, pratihasa, rangari, shankudra, shatakumbha, shatakunda, shitakumbha, shvetapushpa, shvetapushpaka, sidhapushpa, sthalakumida, turangari, vira, viraka Tamil (50) - cempon, cemponmaram, cimaialari, cimaiyalari1, cuttavacikam, cuttavacikamaram, ilinkavalari, kaciyarali, kappatakam, kappatakamaran, malaimancarali, malaimancaralimaram, malaiyarali, malaiyarali@, malaiyaralimaram, mancal alari, mancalalari#, mancalarali@, mancalaralimaram, mancatcentaralimaram, mancatkuvali, manjal alari, nelicam, nelicamaram, paccai alari, paccaiyalari, pach-chai-alavi, pachaarali, pachchai-alari, paimponnarali, paimponnaralimaram, payiravikiyarali, payiraviti, ponnalari#, ponnarali, porikkacakam, tankalari, tankarali1, tankarali@, tankaralimaram#, tankaralimaram@, thiruvachipu, tiru vach-chippu, tiruvacci, tiruvaccippu, tiruvatci, tittiravam, tittiravamaram, ucimilirai, ucimiliraicceti Telugu (10) - ganneru, paccaganneru, pacha-ganneru, pachaganneru, pachcha-ganneru, pachhaganneru, pasupugottalaganneru, patsaganaru, pattsaganneru, suvarna Tibetan (1) - ka ra bi ra dmar po
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/f555ec23be2a626c6e279cccb93d0a68
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/f555ec23be2a626c6e279cccb93d0a68
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/f555ec23be2a626c6e279cccb93d0a68
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/f555ec23be2a626c6e279cccb93d0a68
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/f555ec23be2a626c6e279cccb93d0a68
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/b7ed09bfd52a6f46b3806c201d93e242
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d98e136bf835caf4ca695c306d4299f/xclkon/f555ec23be2a626c6e279cccb93d0a68
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

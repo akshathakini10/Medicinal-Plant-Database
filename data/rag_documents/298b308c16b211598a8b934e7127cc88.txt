@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 298b308c16b211598a8b934e7127cc88
+Botanical Name: Salvadora oleoides DECNE
+Family: Salvadoraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 4 languages. Hindi (7) - bahapilu, chhotapilu, jal, jhal, khara-jal, kharo jhal, pilu Marathi (4) - godpilu, khakan, kharkanela, pilu Sanskrit (14) - Sanskrit Comments  dhani, gudaphala, kallabhavallabha, karavallabha, laghupilu, mahapilu, pilu, piluka, shakhi, shitasaha, shyama, sramsi, sransi, virechanaphala Tamil (3) - kalawa, karkol, ughaiputtai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/298b308c16b211598a8b934e7127cc88
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1839
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1839.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/298b308c16b211598a8b934e7127cc88
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/298b308c16b211598a8b934e7127cc88
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/298b308c16b211598a8b934e7127cc88
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Pilu
+sanskrit_name: पीलु
+transliteration: pīlu
+ref_drug_name: पीलु
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Pilu
+sanskrit_name: पीलु
+transliteration: pīlu
+ref_drug_name: पीलु
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Pilu
+sanskrit_name: पीलु
+transliteration: pīlu
+image_urls: https://www.medicinalplants.in/slokaimages/1430/1430_1.jpg https://www.medicinalplants.in/slokaimages/1430/1430_2.jpg https://www.medicinalplants.in/slokaimages/1430/1430_3.jpg https://www.medicinalplants.in/slokaimages/1430/1430_4.jpg https://www.medicinalplants.in/slokaimages/1430/1430_5.jpg
+ocr_text: रक्तपित्तहरः पीलुः फलं स्वादु विपाकि च| अर्शोघ्नं बस्तिशमनं सस्नेहं कफवातजित् | | पीलुजं च रसं स्वादु गुल्मार्शोघ्नं तु तीक्ष्णकम् IDhnl Pilu phala is svadu in paka, sasneha, vasti samana, alleviates raktapitta, arsa, kapha and vata Pilu is svaau in rasa , tiksna in guna, alleviates हulma and arsa. अंकाह्वः कटुकः पीलुः कषायो मधुराम्लकः सरः स्वादुश्च गुल्मार्शःशमने दीपनः परः| | मधुरस्तु महापीलुः वृष्यो विषविनाशनः | पित्तप्रशमने रुच्य आमघ्नो दीपनीयकः I IRjnl Pilu is katu, kashaya, madhura, amla in rasa, sara in guna, svadu in paka dipana param, pacifies guima and arsa Maha pilu is madhura in rasa, vrshya, rucya, dipaniya, pacifies pitta, alleviates visa and ama. पीलु श्लेष्मसमीरघ्नं पित्तलं भेदि गुल्मनुत् स्वादु तिक्तं च यत् पीलु तन्नात्युष्णं त्रिदोषहृत्| IBpn) Pilu is svadu, tikta in rasa, not atyushna, alleviates slesma and samira, increases pitta , bhedi , alleviates gulma and tridosha. तिक्तं पित्तकरं तेषां सर च तीक्ष्णोष्णं कटुकं पीलु सस्नेहं कफवातजित्| | (सुश्रुत) Pilu is tikta, katu in rasa, sara, tiksna in guna, usna in veerya, katu paka, sasneha, increases pitta, alleviates kapha and vata कटुविपाकि पीलु. .दोषघ्नं गरहीरि च| | चरक It alleviates dosha and gara

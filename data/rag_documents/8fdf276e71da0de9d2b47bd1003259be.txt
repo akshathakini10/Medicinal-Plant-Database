@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8fdf276e71da0de9d2b47bd1003259be
+Botanical Name: Commiphora wightii (A.) BHANDARI
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Balsamodendron mukul HOOK. E STOCKS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 101 Vernacular names found in 10 languages. English (1) - guggul Hindi (5) - gogil, gugal, guggul, mukul, ranghanturb Kannada (6) - antu guggula, guggala, guggula, guggulu, kaushika, mahishakshi guggula Malayalam (2) - gulgulu, mahisaksagulgulu Marathi (4) - gugal, guggala, gulag, mukul Sanskrit (47) - Sanskrit Comments  ahavabhishtha, bhutahara, bolah, devadhupa, deveshta, dhurta, divya, durga, guggula, guggulu, gugguluh, gulra, guluh, jatala, jatayu, kalaniriyasa, kalaniryasa, kaushika, kausikah, kou-shikaha, koushikaha, kumbha, kumbhi, kumbholu, kumbholukhalaka, kumuda, kunti, lekkatah, mahisaksah, mahishaksha, mahishakshaka, marudishta, nishadhaka, palangkashara, palankasa, palankasha, pavandvishta, purah, puta, rakshoha, sarvasaha, shambhava, shiva, uddipta, ulukhalaka, usha, vayughna Tamil (22) - attiram 3, cutcam, erumaikan kungiliyam, gukkal, gukkulu, inkukam, iracakantam, kaucikatari 2, kukkil, kukkulu 1, kunkiliyam 2, mahisaksi, maicatci, maiccatitam, maisakukkilam, maisatchi kungiliyam, maisatchikungiliyam, maishakshi, mysakhi-guggil, mysakhi-guggul, tevakantam, tuttakomam Telugu (6) - gugul, gukkulu, mahisaksh, mahishaksha, maisakshi, maishakshi Tibetan (2) - gu gul, gu-gu-la Urdu (6) - guggul, gugul, moql-e-arzaq, muqhil, muqil, muqul
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 625
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/625.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/7a8aadecf0206ff5a6da660954aa65c9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/7a8aadecf0206ff5a6da660954aa65c9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/7a8aadecf0206ff5a6da660954aa65c9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/7a8aadecf0206ff5a6da660954aa65c9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be/xclkon/2849f8d9923be4d8c111b8b26de96f7c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fdf276e71da0de9d2b47bd1003259be
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

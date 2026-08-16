@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fafc502b1c8908fa9c00e1e91da76370
+Botanical Name: Styrax officinalis L.
+Family: Styracaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. English (2) - storax, styrax Sanskrit (1) - Sanskrit Comments  turuska
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fafc502b1c8908fa9c00e1e91da76370
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fafc502b1c8908fa9c00e1e91da76370
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Turuska
+sanskrit_name: तुरुष्क
+transliteration: turuṣka
+ref_drug_name: तुरुष्क
+status: Accepted source
+discussion: Turuska' has been cited only at a single place in Caraka samhita; It has been used in different disease conditions as mentioned in Susruta samhita and Astanga sangraha; 'Turuska' is the gum resin of this identified species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

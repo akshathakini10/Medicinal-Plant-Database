@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cd30c7824407b5b2e6b5a148bc973708
+Botanical Name: Arnebia benthamii (WALL. E G.DON) JOHNSTON
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Macrotomia benthamii DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  gojihva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd30c7824407b5b2e6b5a148bc973708/xclkon/5af4fbd840250035a30a7b6b7faf11bc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 225
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/225.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd30c7824407b5b2e6b5a148bc973708
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd30c7824407b5b2e6b5a148bc973708/xclkon/5af4fbd840250035a30a7b6b7faf11bc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd30c7824407b5b2e6b5a148bc973708
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd30c7824407b5b2e6b5a148bc973708/xclkon/5af4fbd840250035a30a7b6b7faf11bc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Gojihva
+sanskrit_name: गोजिह्वा
+transliteration: gojihvā
+image_urls: https://www.medicinalplants.in/slokaimages/661/661_1.jpg https://www.medicinalplants.in/slokaimages/661/661_2.jpg https://www.medicinalplants.in/slokaimages/661/661_3.jpg
+ocr_text: गोजिह्वा वातला शीता ग्राहिणी कफपित्तनुत्| बल्या प्रमेहकासास्रव्रणज्वरहरी लघुः|| कोमला तुवरा तिक्ता स्वादुपाकरसास्मृता T (Bpn) Gojihva is laghu in guna, sita in veerya, grahini, balya, vatala, kapha pitta hara, cures prameha, kasa, asra vikara, vrana and jvara Komala is tuvara, tikta in rasa, svadu in paka and rasa गोजिह्वा कटुका तिक्ता शीतला पित्तनाशिनी | व्रणसंरोपणी चैव सर्वदन्तविषर्तिजित््|| (Rjn) Gojihva is katuka, tikta in rasa, sitala in veerya, pitta nasini, vrana samropani, cures sarva danta roga and visa roga कषाया तु हिता पित्ते स्वादुपाकरसा हिमा [ लघ्वी मण्डूकपर्णी तु तद्वत् गोजिह्वका मतात (सुश्रुत सू ४६ २६४) It is kashaya in rasa, laghu in guna, hima in veerya, svadu in paka ana rasa, effective in pitta ana is similar to mandukaparni.

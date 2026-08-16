@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: be71e62bf02d88c81ae5ce1101fa92f6
+Botanical Name: Cleome gynandra L.
+Family: Cleomaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cleome pentaphylla L. Gynandropsis gynandra BRIQUET
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 168 Vernacular names found in 9 languages. English (1) - cat whiskers Hindi (14) - arkahuli, churota, hulhul, hurhur, hurhur-ka-per, jakhiya, karaila, karalia, lalhulhul, parhar, safed bagro, safed hulhul, safed-bagra, safedhulhul Kannada (10) - ajagandha, kiloni, kirikaala, maamballi gida, naarumbele, shirikaala, shrikala, sooryavarta, thiloni gida, tilani Malayalam (7) - cara-veela, kara-vela, karavela, karvela, tai-vela, taivela, vela Marathi (13) - dhavi-tiloni, hulhul, kalvana, kanphodi, mabli, mhoti tilavana, motithiavan, motitilavan, pandari-tilvan, pandharithilavan, pandharitilavan, thilavana, tilavana Sanskrit (30) - Sanskrit Comments  ajagandha, ajigandha, arkapushpi, arkapushpika, avigandha, barbaragandha, barbaraka, bastagandha, bodhayika, brahmi, bramhagrabha, caravella, carvella, choraka, hulhul, kabari, karnasphota, karnaspota, kharapushpa, pasugandha, putigandha, putimayurika, sugandhika, surjavarta, suryavarta, svetahulahula, tilaparni, tungi, ugragandha, varvar Tamil (85) - acakanta, acakantacceti, acakantam, acakantar, acakanti, acanrika, apiramimuli, arkkaputpikam, arttacantirakam, ayirapatam, camukavalai, camukavalaicceti, camulavam, camuppavam, carati1, caruvalai, caruvelai, caruvelaicceti, carvalai, cattai, cattiravacceti, cattiravan, cippatimuli, cippativelacicceti, curacapirutam, curacu, curucavarttam, kadugu, kananvelai, kanavelai, kanavelaicceti, katuvu, kavalai#, kavalai@, kavalaicceti, kavelai, kavilai@, kavilaicceti, kavilay, kaykantitam, kayvelai, kayvelaicceti, kenta1, kiruttinatantulam2, kotimatalatti, mankali, mankali#, mantu, nai-velai, naivela, naivelai, nal velai, nallavelai, nalvelai, narivalai2, naykkatuku1, nayvelai, palaiyamvivitam, pantumai, parpari, parparicceti, pasanapantini 1, piranalvelai, porramaram, puncari, puncaricceti, tai1, taivela, taivelai, taivlai, taiy, tamanorupani, taruvali, tayirvelai, thaivelai, tilapanni, tilapannicceti, uluvacakenti, uluvacakenticceti, vacukantikkay, vaivinta, vaylee, velai, velai@, venmai 1 Telugu (7) - thella vamita, thivezhai, vaaminta, vaminta, velai, velakura, yetakoora Tibetan (1) - a-dza-ga-ndha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 578
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/578.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/def5b877931261a4b3011609f8873a43
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/def5b877931261a4b3011609f8873a43
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/def5b877931261a4b3011609f8873a43
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/def5b877931261a4b3011609f8873a43
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/037d5a51f00073cebf73cf5af61a91ed
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e62bf02d88c81ae5ce1101fa92f6/xclkon/f821de3649c8eea1bb9d14596b384b8c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2131b89761949cb629cb1515252370cc
+Botanical Name: Vitis vinifera L.
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 205 Vernacular names found in 10 languages. English (6) - currant, grape, grape vine, muscatel, raisin, sultana Hindi (5) - angoor, angur, dak, dakh, drakh Kannada (12) - angoora, angura, dhrakshi, draakshi, draksa, draksha, drakshe, drakshi, drakshi balli, drakshi-hannu, dveepa draakshi, kisimis Malayalam (13) - dhrakshai, gostani, madhurasam, mantirinnavalli, mridvika, mrydvika, muntiri, muntirika, muntirinna, muntirinnap-pazham, pach-cha-muntrinnap-pazham, saruphala, svadvi Marathi (4) - dakshache-jhad, draaksha, draksha, kakanj Sanskrit (30) - Sanskrit Comments  amrtaphala, amrutaphala, caruphala, charuphala, dakha, draksa, draksha, gostani, guchhaphala, harahura, kakali, kapisa, kasmari, krishna, la, laghu-draksha, madhurasa, mrdvika, mridirka, mridvika, phatotama, priyala, rasa, rasala, soma, svadi, svadvi, swaduphala, tapasapriya, yakshmaghni Tamil (101) - aravaram, attica, atticakkoti, camparavalli, carupalam, cimutai#, cimutai@, cimutaikkoti, cuvatavi, dhrakshai, diraksha-pazham, dividatsi-pullum, dividatsipalavuttil, draksha, gostanidraksha, inippukkotimuntirikai, inippumuntiri, iratakirusta, irattapittakkani, kacamuntirikai, kacumari1, karamarttikai@, karamarttikaikkoti, kavin, kirusnai1, kirusnappiriyam, kiruttinai1, kodi-mundirip-pazham, kodimoondrie pullum, kodimundirigai, kotimunti2, kotimuntiri, kotimuntirikai, kottai tiratcai, kottani, kottani@, kottanigai, kottiram2, kottiramuntiri, kottiri1, kottirikai, kottirikai1, kotumuntiri, kuccapalam1, kulattiya, maduram, madurasam, matucancai, matucancam, maturacam, maturacam 1, maturacavalli, maturam 2, matuyoni, miruntikam 1, miruttikam@, mukkica, mullutiratcai, mundirigai, muntiri, muntirikai, muntirikkoti, murukkipatanatci, nattukkotimuntirikai, nemiyankani, palottamai, piriyalu, rovini, simudai, tamamatikam, tapacappiriyai1, taracca, taraccam, taravakkoti, taravam, tatcam, tatkam, thiratchai, thrakshi, tirakkam, tiraksai, tirappakanam, tiratcai, tiratcam, tiratci, tirikai1, tirkkapalai1, tittippukkotimuntiri, tittippumuntiri, tittippumuntirikkoti, tivaratci, tivatatci, tivirtiratcai, tivitatci, tivitiratcam, tivitiratcam1, tivutiratcai, uttarapati, vakinimuntiri, valli 2, vanappiriyam Telugu (16) - dhraksha, draaksha, draaksha chettu, draakshapandu, dracha, draksa, draksha, draksha-pandu, draksha-pondu, go sthani draaksha, gostanidraksha, gostini-pandu, kismisu, kisumini, kisumisu, kisumisu chettu Tibetan (5) - rgun bru, rgun brum, rgun brum (d), rgun brun (d), rgun-brum Urdu (13) - aab-e-angur, angoor, angur, angur-e-khushk, kishmish, mawaiz munaqa, mawaiz munaqqa, maweez (munaqqa), monaqqa, munaqqa, rub angur tursh, rub ghura, rub-i-ghura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2131b89761949cb629cb1515252370cc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Draksa
+sanskrit_name: द्राक्षा
+transliteration: drākṣā
+ref_drug_name: द्राक्षा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Draksa
+sanskrit_name: द्राक्षा
+transliteration: drākṣā
+ref_drug_name: द्राक्षा
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Draksa
+sanskrit_name: द्राक्षा
+transliteration: drākṣā
+image_urls: https://www.medicinalplants.in/slokaimages/1718/1718_1.jpg https://www.medicinalplants.in/slokaimages/1718/1718_2.jpg https://www.medicinalplants.in/slokaimages/1718/1718_3.jpg https://www.medicinalplants.in/slokaimages/1718/1718_4.jpg https://www.medicinalplants.in/slokaimages/1718/1718_5.jpg https://www.medicinalplants.in/slokaimages/1718/1718_6.jpg https://www.medicinalplants.in/slokaimages/1718/1718_7.jpg https://www.medicinalplants.in/slokaimages/1718/1718_8.jpg
+ocr_text: द्राक्षा मधुफलसंज्ञा चारुफला कांक्षमालिका कृष्णा काश्मीरी च रसाला तापसदयिता प्रियाला स्यात |l स्वादुफला मधुयोनिः स्वादुपाकरसा गोस्तनिका फलमुख्या गदिता कपितेति चौत्तरापथिका II (Aa ma) Synonyms of Draksa are Madhu phala Caru phala, Kanksamalika Krsna, Kasmiri Rasala, Tapasadayita, priyala, Mravika Madhuyoni, Svadu pakarasa Gostanika, Phalamukhya, Kapita, Utiarapathika. मृद्वीका द्राक्षा स्वादुफला प्रोक्ता तथा मधुरसापि च | हारहूरा च गोस्तनी चापि कीर्त्तिता Il (Bpn) Draksa, Svadu phala Madhu rasa, Mrdvika, |arahura, Gostani are the synonyms of Draksa मृद्वीका द्राक्षा चारुफला कृष्ण प्रियाला तापसप्रिया गुच्छफला रसाला च ज्ञेयाडमृतफला च सा |l अन्या कपिलद्राक्षा गोस्तनी च कपिलफला अमृतरसा दीर्घफला मधुफला च |l हरिता च हारहूरा सुफला मृद्वी हिमोत्तरपथिका हैमवती शतवीर्या काश्मीरो गजराजमहिगणिता |l अन्या सा काकलीद्राक्षा जम्बुका च फलोत्तमा लघुद्राक्षा निर्बीजा सुवृता रुचिकारिणि Il (Rjn) Draksa, Caru Phala, Krsna, Priyala, Tapasapriya, Gucchaphala Rasala Amrtaphala are the synonyms of Draksa Another variety is Kapila draksha Mrdvika Gostani, Kapila phala Amria rasa Dirgha phala, Madhu valli, Madhu phala, Madhuli Harita Harahura, Suphala Mrdvi, Himottarapathika, Haimavati Satavirya Kasmira Gajarajamahiganitha Another variety is Kakali draksha Jambuka, Phalottama, Laghu draksa, Nirbija, Suvrtta Ruci karini. मृद्वीका मधुवल्ली मधूली = द्राक्षा फलोत्तमा वृष्या चक्षुष्या सृष्टमूत्रविट् स्वादुपाकरसा स्निग्धा सकषाया हिमा गुरुः निहन्त्यनिलपित्तासृक्तिक्तास्यत्वमदात्ययान् तृष्णाकासज्वरश्वासस्वरभेदक्षतक्षयान् Il (Mdn) Draksa is svadu, kashaya in rasa snigdha, guru in guna hima in veerya, svadu in paka, phala uttama, vrsya, caksushya, sresta mutra vit, cures anila, pitta asrk, tikia asya madatyaya trsna, kasa, jvara, svasa, svarabheda, ksata and ksaya. द्राक्षा हृद्यरसा स्वर्या मधुरा स्निग्धशीतला रक्तपित्तज्वरश्वासतृष्णादाहक्षयापहा |l मधुरा स्निग्धा शीता वृष्यानुलोमनी रक्तानिलश्वासकासभ्रमस्तृष्णाज्वरापहा Il (Dhn) Draksa is madhura in rasa, hrdya rasa, snigdha in guna, sitala in veerya, svarya, cures rakta pitta jvara svasa, trsna daha, ksaya. Mrdvika is madhura in iasie snigdha in property sita in potency vrsya anulomani, cures rakta, anila, svasa, kasa bhrama trsna Jvara. मृद्वीका द्राक्षा फलोत्तमा वृष्या चक्षुष्या सृष्टमूत्रविट् स्वादुपाकरसा स्निग्धा सकषाया हिमा गुरुः निह न्त्यनिलपित्तासृक्तिक्तास्यत्वमदात्ययान् तृष्णाकासज्वरश्वासस्वरभेदक्षतक्षयान् |l आमा द्राक्षा सरा साम्ला पित्तश्लेष्मप्रकोपनी (Sdn) Draksa is phala uttama, svadu, kasaya in rasa, snighda, guru in guna, hima in veerya, svadu in paka vrsya caksushya, srsia mutra vit, cures anila, pitta asra tikia asya madatyaya, trsna kasa, jvara, svasa svarabheda ksaia, kshaya. Ama draksa is amla in rasa, sara in guna, induces vitiation of pitta slesma. द्राक्षा तु मधुरा स्निग्धा वृष्या शीतानुलोमनी बल्या वृष्या क्षतक्षीणतृषावातस्रपित्तजित् Il (Rav) Draksa is madhura, snigdha in property, sita in potency, vrsya, anulomana, balya, vrsya cures ksata, ksina, trsa vata asra, pitta तृष्णादाहज्वरश्वासरक्तपित्तक्षतक्षयान् वातपित्तमुदावर्त्तं स्वरभेदं मदात्ययम् |l तिक्तास्यतामास्यशोष कासं चाशु व्यपोहति बृंहणी वृष्या मधुरा स्निग्धशीतला II (C.S.Su २७) Draksa alleviates trsna, daha, jvara, svasa raktapitta, ksata kshaya, vatapitta udavarta, svarabheda, madatyaya tikia asya sosa, kasa. Mrdvika is madhura in tasie, snigdha in property sitala in potency, brmhani and vrsya मृद्वीका

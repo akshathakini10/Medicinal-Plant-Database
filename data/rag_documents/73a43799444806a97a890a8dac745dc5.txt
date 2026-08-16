@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 73a43799444806a97a890a8dac745dc5
+Botanical Name: Saccharum arundinaceum RETZ.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 91 Vernacular names found in 8 languages. Hindi (3) - ramsar, sar kanda, sara Kannada (12) - abbe, baragu, kadukabba, lekhani, lekhini hullu, lekhinihullu, munigida, munja, munji, nala, rellu, sara Malayalam (9) - ama, ampottal, mekhalappullu, mekhalapullu, munja, munnappullu, sarappullu, sharappullu, ssarappullu Marathi (3) - kerpa, munj, sar Sanskrit (7) - Sanskrit Comments  darbhah, gundra, munja, munjah, sara, sarah, tejanaka Tamil (33) - acuvavalam, acuvavaram, adava, caivam2, cakastiyateva, carukkaraivaruni, elhudugirananal, eludu, elutukirananal, elutunanal, girananai, icikam, ilatikkarumpu, iramakkarumpu, kattukkarumpu, kunram2, munci 2, munji, munsi, naccuvi, nanal, nanarkarumpu, papakam, paykkarimpu, perattiri, peyitacuvalika, peykkarumpu, picacakkarumpu, picacam, pikarumbu, pirayokavacam, pullakantankarumpu, pullintal Telugu (21) - adaviceruku, adavicheruku, brahma mekhalamu, bramhamekhalamu, gundra, kondakanamu, kondakanumu, mujamu, mungamu, munja gaddi, munjagaddi, munjamu, munjugaddi, nadamu, palagaddi, polagaddi, ponika, ponuga, ponugu, poonika, saramu Tibetan (3) - dam bu sbom po (d), gron bu sbom bo, gron bu sbom po (p)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/73a43799444806a97a890a8dac745dc5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Iksu – jati- iksubalika
+sanskrit_name: इक्षु जाति- बालिका
+transliteration: ikṣu jāti bālikā
+ref_drug_name: इक्षु जाति- बालिका
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

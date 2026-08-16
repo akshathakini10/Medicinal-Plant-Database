@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 597837c6befc5ae1f5705ce5b026227d
+Botanical Name: Ochna obtusata DC.
+Family: Ochnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ochna jabotapita L. Ochna squarrosa L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 75 Vernacular names found in 6 languages. Hindi (2) - kanaka-champa, khambar Kannada (13) - kanaka champaka, moodali, moodha, muda, mudah, mudali, mudamara, naarole, narole, raama thana, ramatanacampaka, ramatanachampaka, ramdanchampa Marathi (1) - kanak-champo Sanskrit (2) - Sanskrit Comments  kanakachampa, kanakchampa Tamil (34) - caci2, canakentam, carvirutcam, cenkotu, cenkotucceti, cerunti, ceruntika1, chilanti, cilanti, cilanti1, curakamalikam, curakkamalikam, curamakam, curamali, curamalikam, curamati, icaimutti, ilekitam, kalkuruvi, maylirakucatti, motcakatti, musakari, mutimelmuti, padalakkonai, paliya, panjaram, pitacampakam, pitacampakamaram, pitacanpakam, porcampanki, shengodu, sherundi, shilandi, vacikaramam Telugu (23) - eerrajammi, eerrajuvvi, erra jammi, erra juvvi, erradzuvvi, errajammi, erranjuvvi, jammi, kukkamogi, kukkamovi, ondoyimali, paalagurivi, sunari, sunaru, sunooru, sunuru, tammi, tammichetta, thammichettu, yerrajammi, yerrajeevi, yerrajuvi, yerrajuvvi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/597837c6befc5ae1f5705ce5b026227d/xclkon/a5c5c698f8a5bacfb1283d81b7a66706
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/597837c6befc5ae1f5705ce5b026227d/xclkon/51e379f28a34fda1e3d3b81d2d38b51a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/597837c6befc5ae1f5705ce5b026227d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/597837c6befc5ae1f5705ce5b026227d/xclkon/a5c5c698f8a5bacfb1283d81b7a66706
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/597837c6befc5ae1f5705ce5b026227d/xclkon/51e379f28a34fda1e3d3b81d2d38b51a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/597837c6befc5ae1f5705ce5b026227d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/597837c6befc5ae1f5705ce5b026227d/xclkon/a5c5c698f8a5bacfb1283d81b7a66706
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/597837c6befc5ae1f5705ce5b026227d/xclkon/51e379f28a34fda1e3d3b81d2d38b51a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/597837c6befc5ae1f5705ce5b026227d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/597837c6befc5ae1f5705ce5b026227d/xclkon/a5c5c698f8a5bacfb1283d81b7a66706
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

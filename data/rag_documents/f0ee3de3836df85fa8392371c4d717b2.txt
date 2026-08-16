@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f0ee3de3836df85fa8392371c4d717b2
+Botanical Name: Corypha umbraculifera L.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 108 Vernacular names found in 8 languages. English (2) - talipot, talipot palm Hindi (2) - bhajar-battu, bhajarbettu Kannada (16) - baini, beesanige mara, bine, indu, kare thaale, kode thaale, kodemara, panoli, panolida, shreetali, shritale, shritale-mara, shritali, sritale, sritali, tali Malayalam (9) - codda-pana, coddapana, kodapana, kotap-pana, kutapana, kutappana, sitalam, talipana, talippana Marathi (6) - bajarbattu, bajarbatu, karetel, satryecho-mad, tali, thaali Sanskrit (8) - Sanskrit Comments  alpayushi, karalika, katakali, katkali, pakti, sritala, sritalam, tali Tamil (55) - cannacakkayam, carayintali, cirapalam, ciritali, citalam, cokkappanai, cokkappanaimaram, corkappanai, intali, kamatenu1, kanattali, kirikaivirutcam, kiritapam, kiritapamaram, kirutali, kodai-panei, kolumpuppanai, kontappanai, kottaip-panai, kottaippanai, kudaippanai, kuntarkamuku, kutaippanai, makacittiracayanam, mirutupalam, olaiccakkaram, paccaippoyvellaiyavan, perunkarrati, perunkarrattaimaram, piramatakam, pukam 1, shedalam, sidalam, talam1, talapattiram#, talapattiram@, talappam, talappam#, talappam@, talappamaram, talapparrumaram, talappattumaram, talappukkuntal, talappukkuntalmaram, taliccu, talip-panai, talipanai, talippanai, talurappanai, tar, tevanativirutcan, tiranaputpi, tivviyavirutcam, varankanai, varitali Telugu (10) - dridhatalamu, dridhathalamu, drydhadala, drydhatalamu, shreetalamu, shreethaalamu, shritalam, shritalamu, sidalum, sritalamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0ee3de3836df85fa8392371c4d717b2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0ee3de3836df85fa8392371c4d717b2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0ee3de3836df85fa8392371c4d717b2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0ee3de3836df85fa8392371c4d717b2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

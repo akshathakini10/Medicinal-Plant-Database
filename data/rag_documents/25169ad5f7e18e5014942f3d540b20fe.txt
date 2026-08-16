@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 25169ad5f7e18e5014942f3d540b20fe
+Botanical Name: Swertia ciliata (G.DON) BURTT.
+Family: Gentianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Hindi (1) - safed chirotu Sanskrit (1) - Sanskrit Comments  kiratatikta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25169ad5f7e18e5014942f3d540b20fe
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/25169ad5f7e18e5014942f3d540b20fe
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kiratatikta - jati
+sanskrit_name: किराततिक्त जाति
+transliteration: kirātatikta jāti
+ref_drug_name: किराततिक्त जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

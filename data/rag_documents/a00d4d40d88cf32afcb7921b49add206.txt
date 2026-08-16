@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a00d4d40d88cf32afcb7921b49add206
+Botanical Name: Derris scandens (ROB.) BENTH.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 59 Vernacular names found in 6 languages. Hindi (1) - gonj Kannada (4) - hallebilu, handi balli, handiballi, krimi naashaka Malayalam (5) - muyalvalli, noel-valli, noelvalli, nulalvalli, pannivalli Marathi (1) - salori Tamil (20) - anaikellikodi, avaikallikodi, carapunku 1, kancani 2, kancanippunku, konirkoti, kotippunku, kottuppunkan, kuperatci 2, muyalvalli, puliyankoti, punali, punalikkoti, takil, tekil, tekil@, thirudankodi, tirani, titani, vaccirapicakam Telugu (28) - chelatalibadu, cherataleebadu, cherathalibadu, chiratalaboddutheega, chiratalabodi, chiratalli-baddu, chiratalliboddu, chirathalabodduthige, chirathalabodi, chirukathige, ciratalaboddutige, cirukatige, golavinda, mainaputige, mottasiralli, mottasirli, nalathige, nalla tige, nallachirathalathiva, nallaciratalativva, nallatige, nullathumma, sakal-tiga, shirishi-baddu, sili baddu, surli, suruli, wratalabaddu-tige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a00d4d40d88cf32afcb7921b49add206
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a00d4d40d88cf32afcb7921b49add206
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a00d4d40d88cf32afcb7921b49add206
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

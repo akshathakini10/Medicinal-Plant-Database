@@ -1,0 +1,86 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 38ac72734be9d4e7aae2448ad9d8b407
+Botanical Name: Trichodesma indicum R.BR.
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 119 Vernacular names found in 7 languages. Hindi (6) - andhahuli, andhahuli chotta-kulpha, chhotakulpha, hetamundiya, ondhaphuli, tatmundiya Kannada (6) - adho mukhi, adhomukhi, athomukhi, kathe thumbe soppu, kattetumbesoppu, katthe thumbe soppu Malayalam (1) - kilukkamtumpa Marathi (8) - chhotaphulya, gaavoja, jimgi, jindhi, lahana-kalpa, lahanakalpa, laharzingi-na-kalpa, pathari Sanskrit (14) - Sanskrit Comments  adhahpuspi, adhapushpi, adhomukha, andhaka, andhapushpi, andhapuspi, avakpushpi, avakpuspi, darvika, dhenujivha, gandhapushpika, golomi, romalu, surasa Tamil (79) - alukaimatu, alukaimatucceti, aramai, aramaicceti, arampai, aronikkapali, atomuki, atumpai, atumpaicceti, cattiram, celaiyutaittal, cinkimataluval, cutapasanankatti, ekinattumpai, enkanecani, irattamantali, kacittumpai, kalakkottarici, kalhudaitumbai, kalitumpai, kallutai-t-tumpai, kallutaitumpai, kalutai-t-tumpai, kalutaittumpai, kalutumpai, kamaparani, karaikanumatu, karrintu, karrintucceti, karumamirtam, karuncivari, karuncivaricceti, kashuthai tumbai, katakkotti, kattalaikkoti, kautumpai, kavil thumbai, kavil tumpai, kaviltumpai, kavizhtumbai, kavutikakkanti, kavutumpai, kevutumpai, kiluttaitumpai, kisanam, kontaittumpai, kontatumpai, kumpayoni, kumpayonicceti, makulampal, malaittumpai, manotayananatti, mesa, palarkkutavi, pallicceti, panakatavikakkoti, pankataci, pankatavikakkoti, pankatavikam, patumarkkam, patumarkkiyacceti, patumarkkiyam, putikeca, tumpakacceti, tumpakam 3, tuntimuli, turonakicceti, turonam, unrukalceti, unrukarceti, utiraccurukki, vakuntacceti, vakuntam, vayakantacceti, vayakantakam, vayakuntam, vimamanti, virani, yarampai Telugu (5) - gurragutti, guvva gutti, guvvagutthi, guvvagutti, nelanakshathra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38ac72734be9d4e7aae2448ad9d8b407
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38ac72734be9d4e7aae2448ad9d8b407
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38ac72734be9d4e7aae2448ad9d8b407
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38ac72734be9d4e7aae2448ad9d8b407
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Adhahpuspi
+sanskrit_name: अधःपुष्पी
+transliteration: adhaḥpuṣpī
+ref_drug_name: अधःपुष्पी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Andhaka
+sanskrit_name: अन्धक
+transliteration: andhaka
+ref_drug_name: अन्धक
+status: Accepted source
+discussion: Andhaka' has been mentioned under the Laksmanadi varga in Sodala nighantu; Later on it has been interpreted as 'Andhahuli' which is considered as 'Adhapuspi'; It is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Avakpuspi
+sanskrit_name: अवाक्पुष्पी
+transliteration: avākpuṣpī
+ref_drug_name: अवाक्पुष्पी
+status: Most probable
+discussion: Avakpuspi may be considered as a synonym of Adha puspi which is Tricodesma indicum
+reference: [1]
+
+Identity Record 4
+drug_name: Goja
+sanskrit_name: गोजा
+transliteration: gojā
+ref_drug_name: गोजी
+status: Substituted source
+discussion: Used as a substitute with regard to its features
+reference: [1]
+
+Identity Record 5
+drug_name: Goji
+sanskrit_name: गोजी
+transliteration: gojī
+ref_drug_name: गोजी
+status: Substituted source
+discussion: Used as a substitute with regard to its features
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2674c17f481b2a9a1f9f1cf7ef66b8e7
+Botanical Name: Ocimum kilimandscharicum GUERKE
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 6 languages. Hindi (2) - kapurtulsi, karpur-tulsi Kannada (1) - karupuratulasi Malayalam (1) - karppurattulasi Sanskrit (1) - Sanskrit Comments  karpuratulasi Tamil (1) - karupuratulasi Telugu (1) - karpuratulasi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2674c17f481b2a9a1f9f1cf7ef66b8e7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2674c17f481b2a9a1f9f1cf7ef66b8e7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karahata
+sanskrit_name: करहाट
+transliteration: karahāṭa
+ref_drug_name: करहाट
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

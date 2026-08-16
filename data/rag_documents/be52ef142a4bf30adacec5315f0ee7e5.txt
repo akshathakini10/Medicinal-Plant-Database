@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: be52ef142a4bf30adacec5315f0ee7e5
+Botanical Name: Catharanthus pusillus (MURR.) G. DON
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lochnera pusilla K.SCHUM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 22 Vernacular names found in 6 languages. Kannada (1) - bili kaasi kanigalu Malayalam (2) - cupa-vela, kapavila Marathi (2) - ran-kel, tiloni Sanskrit (4) - Sanskrit Comments  sadampuspa, sanghaphuli, sangkhaphuli, sangkhi Tamil (5) - chetthai, kapa-vila, milakayc cakkalatti, paalaich, sangkhaphuli Telugu (8) - billa ganneru, erri mirapa, gaddipoolu, gulvidi, kanupoolaku, sukbanda, sukka bommi, yerri mirapa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/dd28ffa9cd2fa726ca00cd64face70bd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/2fb77aaa77c6facc42f98e6ae93e1b87
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/dd28ffa9cd2fa726ca00cd64face70bd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/2fb77aaa77c6facc42f98e6ae93e1b87
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/dd28ffa9cd2fa726ca00cd64face70bd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/7b01c268d6be73ea6b355eb0cb9ecd6a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/2fb77aaa77c6facc42f98e6ae93e1b87
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be52ef142a4bf30adacec5315f0ee7e5/xclkon/dd28ffa9cd2fa726ca00cd64face70bd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

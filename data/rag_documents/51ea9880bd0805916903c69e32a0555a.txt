@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 51ea9880bd0805916903c69e32a0555a
+Botanical Name: Helicanthes elastica (DESR.) DANSER
+Family: Loranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Dendrophthoe elastica (DESR.) DANSER Loranthus elasticus DESR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 2 languages. Sanskrit (2) - Sanskrit Comments  bandaka, vrksadani Tamil (9) - andagan, antakan cikari, kuruvichai, marattuvottu, mavi-witthil, pulluri, pulluruvi, sigari, sigariyandam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ea9880bd0805916903c69e32a0555a/xclkon/6f388937960bd3e61d5b601e57ed5363
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 4679
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/4679.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ea9880bd0805916903c69e32a0555a/xclkon/829ac24b77d930d7cd49a802efc05e9d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ea9880bd0805916903c69e32a0555a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ea9880bd0805916903c69e32a0555a/xclkon/6f388937960bd3e61d5b601e57ed5363
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ea9880bd0805916903c69e32a0555a/xclkon/829ac24b77d930d7cd49a802efc05e9d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ea9880bd0805916903c69e32a0555a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51ea9880bd0805916903c69e32a0555a/xclkon/6f388937960bd3e61d5b601e57ed5363
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

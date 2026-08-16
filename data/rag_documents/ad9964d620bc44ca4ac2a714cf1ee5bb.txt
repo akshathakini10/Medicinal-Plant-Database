@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ad9964d620bc44ca4ac2a714cf1ee5bb
+Botanical Name: Boletus crocatus BATSCH.
+Family: Hymenomycetes
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad9964d620bc44ca4ac2a714cf1ee5bb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad9964d620bc44ca4ac2a714cf1ee5bb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

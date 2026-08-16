@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ed9109449efba2ca8f987543b4b694c1
+Botanical Name: Lagerstroemia microcarpa W.
+Family: Lythraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lagerstroemia lanceolata WALL. E. WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 80 Vernacular names found in 5 languages. Kannada (32) - arale, aunnate, bandarah, belaunnate, belimathi, bellaunutte, bellaymutty, belmatthi, belmatti, bendeka, bendeku, bentek, benteku, bilandri, bilandu, bilinandi, bilinandi mara, bilindu, billi-nandi, billinandi, bolandur, kava, kule, nandi, nandi mara, nuncey, nunchy, nundi, tarmoti, tavaunnate, ulthi, ventaku Malayalam (12) - benteak, bentek, cennali, senjal, venda, vendan, vengalam, ventek, ventekku, venteku, venthekku, vivella Marathi (4) - bondara, naanaa, nane, naram Tamil (26) - attipairavi, chennangi, chennanji, cirkkolakam, cirkkolakamaram, kaccaikkattai, kannonkam, kannonkamaram, nanti5, vayarkovi, vayarkovimaram, vellaittekku, velvila, venkatali, venkatalittekku, venkutakku, ventan#, ventan@, ventekku, ventekku$, ventekku@, ventekkumaram, venthekku, venveyila, venveyilai, vevala Telugu (6) - cennangi, chennangi, ven-teku, ventaku, ventekku, venthekku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed9109449efba2ca8f987543b4b694c1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed9109449efba2ca8f987543b4b694c1/xclkon/ff4b410f364c969b6f05592dc5f09bac
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed9109449efba2ca8f987543b4b694c1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed9109449efba2ca8f987543b4b694c1/xclkon/ff4b410f364c969b6f05592dc5f09bac
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed9109449efba2ca8f987543b4b694c1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

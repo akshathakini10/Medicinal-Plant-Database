@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a040b2231cd26cfe63dbb71ad38b0d8e
+Botanical Name: Canarium vulgare LEENH.
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Canarium commune L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 3 languages. Kannada (5) - jaava badaami, kaggali beeja, kaggali mara, sambrani, shambrani Marathi (1) - jangli baadaam Tamil (3) - cimaivatumai, cinappicinmaram, karaiccenkari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a040b2231cd26cfe63dbb71ad38b0d8e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a040b2231cd26cfe63dbb71ad38b0d8e/xclkon/1a4a6d786467a9a674e9668a36e78a3f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a040b2231cd26cfe63dbb71ad38b0d8e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a040b2231cd26cfe63dbb71ad38b0d8e/xclkon/1a4a6d786467a9a674e9668a36e78a3f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a040b2231cd26cfe63dbb71ad38b0d8e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

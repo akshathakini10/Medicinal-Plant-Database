@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 043d2158b1783720e6473daad512c87d
+Botanical Name: Smilax lanceifolia ROB.
+Family: Smilacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Hindi (2) - hindi-chob-chini, hindichobchini Sanskrit (1) - Sanskrit Comments  copacini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/043d2158b1783720e6473daad512c87d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1932
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1932.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/043d2158b1783720e6473daad512c87d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Copacini - prajati
+sanskrit_name: चोपचीनी प्रजाति
+transliteration: copacīnī prajāti
+ref_drug_name: चोपचीनी प्रजाति
+status: Substituted source
+discussion: This species is used as a substitutein India
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

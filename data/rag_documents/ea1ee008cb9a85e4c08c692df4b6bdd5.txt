@@ -1,0 +1,101 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ea1ee008cb9a85e4c08c692df4b6bdd5
+Botanical Name: Amomum aromaticum ROB.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 5 languages. English (1) - bengal cardamom Hindi (4) - morang-ilachi, morang-ilayechi, morangilachi, murang-ilayechi Kannada (1) - kaage aelakki Marathi (1) - veldode Sanskrit (3) - Sanskrit Comments  brhadela, ela, ghrtachi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea1ee008cb9a85e4c08c692df4b6bdd5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 158
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/158.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea1ee008cb9a85e4c08c692df4b6bdd5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Brhadela - prajati
+sanskrit_name: बृहदेला प्रजाति
+transliteration: bṛhadelā prajāti
+ref_drug_name: बृहदेला प्रजाति
+status: Accepted source
+discussion: Is a variety if Amomum and known popularly as ‘Bengal cardamom’Found in Bengal and Assam
+reference: [3]
+
+Identity Record 2
+drug_name: Ela - brhat
+sanskrit_name: एला बृहत्
+transliteration: elā bṛhat
+ref_drug_name: एला बृहत्
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Ela - brhat
+sanskrit_name: एला बृहत्
+transliteration: elā bṛhat
+ref_drug_name: एला स्थूल
+status: Accepted source
+discussion: This is the big variety of ela which is identified with this species
+reference: [2]
+
+Identity Record 4
+drug_name: Ela - sthula
+sanskrit_name: एला स्थूल
+transliteration: elā sthūla
+ref_drug_name: एला बृहत्
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Ela - sthula
+sanskrit_name: एला स्थूल
+transliteration: elā sthūla
+ref_drug_name: एला स्थूल
+status: Accepted source
+discussion: This is the big variety of ela which is identified with this species
+reference: [2]
+
+Identity Record 6
+drug_name: Ela - sthula prakara
+sanskrit_name: एला स्थूल प्रकार
+transliteration: elā sthūla prakāra
+ref_drug_name: एला बृहत्
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Ela - sthula prakara
+sanskrit_name: एला स्थूल प्रकार
+transliteration: elā sthūla prakāra
+ref_drug_name: एला स्थूल
+status: Accepted source
+discussion: This is the big variety of ela which is identified with this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

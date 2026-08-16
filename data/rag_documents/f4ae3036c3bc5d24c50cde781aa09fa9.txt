@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f4ae3036c3bc5d24c50cde781aa09fa9
+Botanical Name: Ophiorrhiza mungos L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 121 Vernacular names found in 8 languages. Hindi (2) - sarahati, sarhati Kannada (11) - bili garuda paathaala, garuda paathaala, garuda patala, garudapatala, mungasee gida, mungasi gida, mungusee gida, paathaala garuda, patala garuda, patalagaruda, patalagarude Malayalam (2) - avilpori, avilpuri Marathi (2) - mungusavela, nagvelli Sanskrit (21) - Sanskrit Comments  bhiyangakshi, chhatrika, gandali, gandhanakuli, garudaputa, nadikalapaka, nagasugandha, nakuleshtha, nakuli, nava, patalabhedi, patalagaruda, patalbhedi, rasna, sarpakshi, sarpaksi, sarpalocana, sarpari, sugandha, surasa, suvaha Tamil (74) - aravakkiriti, aravakkiritippuntu, cadachi, caka, cakar, cakati, cannakarai, cannakaram pattai, caramankam, carpanayakacceti, carpanayakam, carparaci, carpatci 2, cataicci 3, cataiccipuntu, cataippuntu, cayalavam, cemperikam, cemperikamuli, citakentika, cittika, cittikappuntu, cornakam, cornakappuntu, cukali, iracakiri, iracakirippuntu, karuncataicci, keerip-pundu, keerippundu, kiri 3, kiri-p-puntu, kiri-purandan, kiric ceti, kiricceti, kirippundu, kirippuntu, kirippurandan, kirippurantan, kiripputu, kiripurandan, kiripurantan, kuttukkal 1, matavaniram, nakarutappuntu, nakarutapputu, nakavalli 2, nakulapputu, nakuli 2, nakulipputu, naranki, pampukkolli, pampukolli, pampukollippuntu, patalakarati, patalakarutan, pattirai 2, perunkirippuntu, perunkiripputu, pilukam, pitam 2, pucakam, pucakapputu, sadaichi, tirkkapi, tirkkapipputu, tiruvilai, tiruvilaipputu, tutayi, tutayippuntu, vatacani, vatacanipputu, vipanam, vipanapputu Telugu (8) - sarpaakshi chettu, sarpaari chettu, sarpakshi, sarpakshi-chettu, sarpashi-chettu, sarpasicettu, sarpshe chettu, surpashechettu Tibetan (1) - sa rba ksi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4ae3036c3bc5d24c50cde781aa09fa9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4ae3036c3bc5d24c50cde781aa09fa9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4ae3036c3bc5d24c50cde781aa09fa9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4ae3036c3bc5d24c50cde781aa09fa9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4ae3036c3bc5d24c50cde781aa09fa9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sarpaksi
+sanskrit_name: सर्पाक्षी
+transliteration: sarpākṣī
+ref_drug_name: सर्पाक्षी
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

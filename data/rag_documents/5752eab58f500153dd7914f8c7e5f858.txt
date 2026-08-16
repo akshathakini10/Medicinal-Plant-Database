@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5752eab58f500153dd7914f8c7e5f858
+Botanical Name: Olea europea L.
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 5 languages. English (5) - indian olive, oleaster, olive, pyrene oil, virgin oil Kannada (2) - julipe, julpai Tamil (7) - alivceti, caitun#, caitun@, cimaikkalikacceti, cimaikkalikam, olivai, olivu Telugu (1) - jaitun Urdu (1) - zaitun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5752eab58f500153dd7914f8c7e5f858
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5752eab58f500153dd7914f8c7e5f858
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5752eab58f500153dd7914f8c7e5f858
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5752eab58f500153dd7914f8c7e5f858
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

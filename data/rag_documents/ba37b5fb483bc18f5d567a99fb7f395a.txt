@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ba37b5fb483bc18f5d567a99fb7f395a
+Botanical Name: Peganum harmala L.
+Family: Zygophyllaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 31 Vernacular names found in 8 languages. English (2) - harmal, turkey red Hindi (7) - gandhiyo, harmal, hurmal, isband, isbandlahouri, kaladana, lahourihurmul Kannada (2) - seeme goranti, simegoranti Marathi (1) - harmala Sanskrit (2) - Sanskrit Comments  haramala, soma Tamil (7) - cimai alavanam, cimaialavanam, cimaimarutonri, cimaiyalavanam, shimai-azha-vanai-virai, simaiyalavinai, simaiyaravandi Telugu (6) - seemagoranta, seemagoronti, shima-goranti-vittulu, shimagorantivittulu, simagoranta, simagoronti Urdu (4) - aspand, ispand, ispand soakhtani, tukhm kunch hi maing
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba37b5fb483bc18f5d567a99fb7f395a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1608
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1608.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba37b5fb483bc18f5d567a99fb7f395a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba37b5fb483bc18f5d567a99fb7f395a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba37b5fb483bc18f5d567a99fb7f395a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba37b5fb483bc18f5d567a99fb7f395a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

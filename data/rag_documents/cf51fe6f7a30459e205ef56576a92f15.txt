@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cf51fe6f7a30459e205ef56576a92f15
+Botanical Name: Jasminum malabaricum WIGHT
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. Kannada (4) - beelukusur, chadaralaka, kaadu jaajimallige, kaadu malle Marathi (2) - kusar, ranjai Sanskrit (1) - Sanskrit Comments  mudgara Tamil (1) - mullai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf51fe6f7a30459e205ef56576a92f15
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf51fe6f7a30459e205ef56576a92f15
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf51fe6f7a30459e205ef56576a92f15
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Mudgara
+sanskrit_name: मुद्गर
+transliteration: mudgara
+ref_drug_name: मुद्गर
+status: Accepted source
+discussion: It has been cited in Raja nighantu and identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

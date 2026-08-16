@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 13abc384d83346dcb2ce617d255f4e77
+Botanical Name: Aisandra butyracea (ROB.) BAEHNI
+Family: Sapotaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Bassia butyracea ROB. Diploknema butyraceae (ROB.) H.J. LAMK Madhuca butyracea (ROB.) MACBR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Hindi (3) - phalwara, phulvara, phulwa Sanskrit (2) - Sanskrit Comments  madhuka, madhukapuspi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/3ff4adb60ccba96c944ebff4d146d791
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/93ddff5118ffbc8156b218abe13f28ee
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/4ad30bc7e3461225abd2e292020b0954
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/3ff4adb60ccba96c944ebff4d146d791
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/93ddff5118ffbc8156b218abe13f28ee
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/4ad30bc7e3461225abd2e292020b0954
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/13abc384d83346dcb2ce617d255f4e77/xclkon/3ff4adb60ccba96c944ebff4d146d791
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,143 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 479d2a25bb4439110c4f488df1dcb80d
+Botanical Name: Emblica officinalis GAERTN.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Phyllanthus emblica L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 289 Vernacular names found in 10 languages. English (3) - ambal, amioki, emblic Hindi (23) - aamla, amalaci, amalak, ambala, amla, amlika, amvala, anola, anuli, anvula, anvurah, anwala, anwerd, anwiya, aola, aonla, aonta, aoula, auna, aungra, aunra, awala, daula Kannada (21) - aamalaka, aamalakee, amalaka, ambla, betta nelli, bettada nelli, bettada nelli kaayi, cattu, chattu, chattu daadi kaayi, dadi, dhanya, dhatri, dodda nelli, nelli, nelli chattu, nellikai, nellka, nilika, perunelli, sudhe Malayalam (9) - amalakam, nelli, nellikai, nellikka, nellikkaya, nellimaram, nilica, nilicamaram, nilika Marathi (11) - aamlee, anvala, aonli, aouli, arola, avala, avalkati, avil, avla, awla, bhuiawali Sanskrit (41) - Sanskrit Comments  adiphala, akara, amala, amalaka, amalakah, amalakam, amalaki, amamalakam, amlika, amraphala, amraphalam, amrita, amritaphala, amruthaphala, amulki, bahuphali, dhatri, dhatri-phala, dhatrika, dhatriphala, dhatriphalam, jatiphala, kamu, karshaphala, kayastha, pancharasa, parvakeeta, rochani, shadarasa, shanta, shiva, shriphala, shriphali, sriphalam, tishya, tisya, triphala, umrita, vayastha, vrishya, vrittaphala Tamil (127) - alakam1, alakam@, alikam, amalagam, amalai, amalakam, amalakam1, amalakamalam, amalaki, amalakki, amalam2, amarikam, amirtai4, amirtapalai1, amirtapalam@, ampal, ampal1, ampalkamaram, amukam2, amutai2, amuttam1, anantai@, andakaram, antakaram, antakaramaram, antakolam#, antakolam@, antakoram, antor, atikoram, attakolam, attakoram, avutanci, cilata, cinkitakam, cinkitakamaram, ciripalam1, cirottam2, citupalam, civai, civam1, indul, intul, intulam, intulapam, intuli a, intuli x, intuli1, iratai1, kaiyirkani, kanakam1, kantamulakam, kantattiri, kantumalalam, kapi2, kapitattiri, kapitattirimaram, kattunelli, kayastam2, kokkam, konkal, konkam, korankam, korankamikam, korankamikamaram, kotam2, kotimukakkini, kotimukakkinimaram, makanti, makantika, makantikam, malainelli, mamalakam, mamalakkay, mankantikamaram, mintu, miruntikam 2, miruntikamaram, miruntu, mirutupala, mirutupala#, mirutupala@, mirutupalamaram, mitintu#, mitintu@, mituntumaram, nelli, nelli mulli, nelli-kay, nellie kai, nellie poo, nellikai, nellikkaai, nellikkai, nellikkay, pancatcaravaruni, parainatavanci, parainatavancimaram, peru nelli, perunelli, tamalaikkay, tantiri, tattari, tattili, tattinimaram, tattiri, tattirimaram, tattiripalai, tattiripalam, tecomantaram1, tecomantiram, tecomaram1, tiriciyam2, tiriciyapalam, tiripalati, toppi, toppi#, toppi@, toppunelli, totti@, tottiki, tottikimaram, tuppunelli, tuttarikam, vanamalakam, yankoram, yantikoram Telugu (33) - aamalakamu, aamalaki, amalakamu, amalaki, asereki, assereki, nelli, nelli kaaya, oosree, pedda usiri, pedda usirika, peddavusirika, pullayusirika, putla yusirika, triphalam, triphalamu, u, usari, usarika, userakee, useri, userikai, usiri, usirika, usirikaaya, usirikai, usirikaya, usiriki, usiuka, usri, usrikayi, vusirika, vusirikaya Tibetan (3) - sk yu ru ra, skyu ru ra, skyu-ru-ra Urdu (18) - aamla, amal khushk, amal khusk, amala khushk, amla, amla khushk, amla khusk, amla sabz, amlay taza aur farba, aonla, baobarang, guthli, guthli nikala hua, guthli nikalal hua, khushbu amla, murraba-i-amla, tirphala, triphala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d/xclkon/72e7afb752fb06cccaeb56d9c6c2fd76
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 892
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/892.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d/xclkon/72e7afb752fb06cccaeb56d9c6c2fd76
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d/xclkon/72e7afb752fb06cccaeb56d9c6c2fd76
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d/xclkon/72e7afb752fb06cccaeb56d9c6c2fd76
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d/xclkon/72e7afb752fb06cccaeb56d9c6c2fd76
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/479d2a25bb4439110c4f488df1dcb80d/xclkon/72e7afb752fb06cccaeb56d9c6c2fd76
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Amala
+sanskrit_name: अमल
+transliteration: amla
+ref_drug_name: अमल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Amala
+sanskrit_name: अमल
+transliteration: amla
+ref_drug_name: आमलक
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 3
+drug_name: Amala
+sanskrit_name: अमल
+transliteration: amla
+ref_drug_name: आमलकी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 4
+drug_name: Amalaka
+sanskrit_name: आमलक
+transliteration: āmalaka
+ref_drug_name: अमल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Amalaka
+sanskrit_name: आमलक
+transliteration: āmalaka
+ref_drug_name: आमलक
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 6
+drug_name: Amalaka
+sanskrit_name: आमलक
+transliteration: āmalaka
+ref_drug_name: आमलकी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 7
+drug_name: Amalaki
+sanskrit_name: आमलकी
+transliteration: āmalakī
+ref_drug_name: अमल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 8
+drug_name: Amalaki
+sanskrit_name: आमलकी
+transliteration: āmalakī
+ref_drug_name: आमलक
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 9
+drug_name: Amalaki
+sanskrit_name: आमलकी
+transliteration: āmalakī
+ref_drug_name: आमलकी
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Amalaki
+sanskrit_name: आमलकी
+transliteration: āmalakī
+image_urls: https://www.medicinalplants.in/slokaimages/671/671_1.jpg https://www.medicinalplants.in/slokaimages/671/671_2.jpg https://www.medicinalplants.in/slokaimages/671/671_3.jpg https://www.medicinalplants.in/slokaimages/671/671_4.jpg https://www.medicinalplants.in/slokaimages/671/671_5.jpg https://www.medicinalplants.in/slokaimages/671/671_6.jpg https://www.medicinalplants.in/slokaimages/671/671_7.jpg https://www.medicinalplants.in/slokaimages/671/671_8.jpg
+ocr_text: वयस्थामलकी वृष्या जातीफलरसं शिवम् धात्रीफलं श्रीफलं च तथामृतफलं स्मृतम् त्रिष्वामलकमाख्यातं धात्री तिष्यफलामृता (Bpn) Amalaki is other wise called vayastha, vrsya jatiphalarasam, sivam, dhatriphalam, sriphalam, amrtaphalam, trisvamalaka, dhatri, tisyaphalamta. वयःस्थाडडमलकं वृष्यं जातीफलरसं शिवम् धात्रीपलं श्रीफलं च तथाडमृतफलं स्मृतम् (Dhn) Vayastha, Amalakam, Vrsyam, Jatiphalarasam, Sivam, Dhatriphalam, Sriphalam, Amrta phalam - these are the other names for Amalaki. आमलकी वयःस्था च श्रीफला धात्रिका तथा अमृता च शिवा शान्ता शीताउमृतफला तथा Il जातीफला च धात्रेयी ज्ञेया धात्रीफला तथा वृष्या वृत्तफला चैव रोचनी शरभूह्वया I(Rjn) Amalaki is otherwise called Vayastha, Sriphala Dhatrika, Aimrta Siva, Santa, Sita, Amrta phala, Jati phala, Dhatreyi Dhatri phala, Vrtta Rocani, Sarabhuhvaya. Vrsya, phala, कफपित्तहरं वृष्यं अम्लमामलकं तथा भेदनं मधुरं पाके रुच्यं वीर्ये हिमं मृदु Il (Mdn) Amalaki is amla in rasa, mrdu in guna, hima in veerya, madhura in paka, bhedana in karma, vrsya, rucya alleviates kapha and pitta हरीतकीसमं धात्रीफलं विशेषतः रक्तपित्तप्रमेहघ्नं परं वृष्यं रसायनम् |l वातं तदाम्लत्वात्पित्तं कफं रूक्षकषायत्वात्फलं धात्र्यास्त्रिदोषजित |l यस्य यस्य फलस्येह वीयं भवति यादृशम् तस्य तस्यैव वीर्येण मज्जानमापि निर्दिशेत् II (Bpn) Dlatriphala is similar to haritaki phala but specifically it is used in raktapitta prameha. It is param vrsya rasayana, vata hara due to amnla rasa, hara due to madhua zasa and sita veerya, reduces kapha because it is ruksa in guna, kashaya in rasa. Its phala is tridoshajit. Its majja also has virya similar to the virya of the phala. किन्तु माधुर्यशैत्यतः pitta कषायं कटुतिक्ताम्लं स्वादु चामलकं हिमम् सर त्रिदोषहृद् वृष्यं ज्वरघ्नं च रसायनम् हन्ति वातं तदम्लत्वात्पितं माधुर्यशैत्यतः कफं रूक्षकषायत्वात्फलं धात्र्यास्त्रिदोशजित Il (Dhn) Amalaki is katu, tikta, amla, madhura in rasa, hima in veerya, sara in guna, vrsya jvaraghna rasayana karma, tridosha hara vata hara due to amla rasa, does not increase beca1se it is sita in veerya, kapha hara due to ruksa guna and kashaya rasa. Its fruit is tridosha hara i१ pitta आमलकं कषायाम्लं मधुरं शिशिरं लघु दाहपित्तवमीमेहशोफघ्नं च रसायनम कटुमधुरकषायं किञ्चिदम्लं कफध्नं रुचिकरमतशीतं हन्ति पित्तास्रतापम श्रमवमनविबम्धाध्मानविष्टंभदोष प्रशमनममृताभं चामलक्याः फलं स्यात् Il (Rjn) Amalaki is kashaya, amla, madhura in taste, sita in potency, laghu in property , daha pitta vami-eha sopha hara, rasayana. Its phala is katu, madhura, kashaya, kincit amla in taste, kapha hara a11c1 kara, ati sita in potency pacifies pitta- asra- tapam- srama vammana- vibandha- adhmana- vistambha- dosha. It is amrtabha (like nectar). अम्लं समधुरं तिक्तं कषायं कटुकं सरम् सर्वदोषध्नं वृष्यमामलकी फलम् हा वातं तदम्लत्वात्पित्तं माधुर्यशैत्यतः कफं रूक्षकषायत्वात्फलेभ्योउभ्यधिकं च तत् Il (Su.S Su ४६) Amalaki phala is amla madhura tikta kashaya katuka in taste sara in property caksushya. sarva doshaghna and vrsya. It is vata hara since it is amla in rasa pitta hara since it is madhura in taste and sita in potency kapha hara since it is ruksha in property kashaya in taste चक्षुष्यं

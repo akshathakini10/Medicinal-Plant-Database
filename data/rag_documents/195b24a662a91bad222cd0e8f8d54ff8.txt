@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 195b24a662a91bad222cd0e8f8d54ff8
+Botanical Name: Ochlandra travancorica GAMBLE
+Family: Bambusaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 3 languages. Kannada (4) - hodake, hode, ootai, wote Malayalam (12) - eatha, eetha, ircca, ita, itam, kareeta, karircca, oda, ota, ve, vei, velam Tamil (5) - ita, itakalli, odai, otai 2, vennanku 2
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/195b24a662a91bad222cd0e8f8d54ff8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/195b24a662a91bad222cd0e8f8d54ff8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/195b24a662a91bad222cd0e8f8d54ff8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

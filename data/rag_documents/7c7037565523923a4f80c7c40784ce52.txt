@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7c7037565523923a4f80c7c40784ce52
+Botanical Name: Pentapetes phoenicea L.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 52 Vernacular names found in 7 languages. Hindi (4) - dopahari, dopahariya, dopohoria, gejulia Kannada (2) - banduray, bandure Malayalam (2) - naga-pou, uccamalari Marathi (6) - banduja, dupari, gupaari, tambdi dupari, tambdi-dupani, tambridupari Sanskrit (23) - Sanskrit Comments  arka-vallabha, arkavallabha, arkavallabhah, bandhujiva, bandhujivaka, bandhuka, bandhukah, bandhula, bandhura, bandujivaka, bandukamu, haripriya, jvaraghna, madhyadina, madhyanika, oshthapushpa, pushparakta, rakta, raktaka, raktapushpa, ryabhakta, sharatapushpa, supushpa Tamil (8) - camuttirateviputtiri, conakappu, nagappu, nagapu, nakappu, pantukam, pantukam#, uccittilakam Telugu (7) - bandhu, bandhu jeevamu, bandhukamu, jeevakamu, makina chettu, makinacettu, mankena
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7037565523923a4f80c7c40784ce52
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7037565523923a4f80c7c40784ce52
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7037565523923a4f80c7c40784ce52
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c7037565523923a4f80c7c40784ce52
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bandhuka
+sanskrit_name: बन्धूक
+transliteration: bandhūka
+ref_drug_name: बन्धूक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

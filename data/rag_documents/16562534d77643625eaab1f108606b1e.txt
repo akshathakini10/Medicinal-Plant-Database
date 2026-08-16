@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 16562534d77643625eaab1f108606b1e
+Botanical Name: Ocimum americanum L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ocimum canum SIMS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 139 Vernacular names found in 8 languages. English (2) - hoary basil, lemon basil Hindi (12) - ban-tulsi, bapchi, bapji, jangli tulsi, kala tulsi, kali-tulsi, mamri, nakad bapchi, nakad-bapchi, rantulsi, tusli, vantulsi Kannada (8) - hola thulasi, naayi thulasi, naayi tulasi, naithulasi, nauitulasi, nayitulasi, raama thulasi, ramatulasi Malayalam (5) - katturamattulasi, katturamatulasi, kattuthulasi, kattutrttavu, kattutulasi Marathi (2) - raana thulasi, ran-tulas Sanskrit (17) - Sanskrit Comments  ajaka, aranyatulasi, arjaka, gambhira, gandhapanirjjaka, gramya, jambira, kathinjara, kshudraparna, kshudratulasi, kuthera, mukharjaka, svetasurasa, svetatulasi, thiksnamanu, ugragandha, vanabarbarika Tamil (86) - acalcatimuli, acokatitacceti, campirattitcanakentam, caracacumukam, cenkolikacceti, cenkolikam, centivannan, centivannanceti, cirukancankorai2, civanmalai, civatulaci2, cukantacuracaracam, cumukam, ganjamkorai, gunjamkorai, intimalakacceti, intimalakam, kalikanca, kancam3, kancankorai, kancankorai3, kanjagkorai, kanjankorai, karaiviliyal, katirnecamaruvam, kattulay, kattulaycceti, kattuttulaci, katuvay, katuvaycceti, kirunti, kukka-tulasi, kulavel, kulaverkorai, kurai, kurutanacani, malatitam, mancari, mancari@, mayilainati, mayilainatittulaci, mukkatpiran, mukkatpiranceti, naaithulasi, nai tulasi, nai-thulasi, naithulasi, naitulasi, nayitulasi, nayttulaci, nilakatakam, nirancanatimuli, niraninton, niranintonceti, niya, niyacceti, pakalicceti, pakli, palinkiam, panicca, paniccaka, paniccakkorai, parakam2, parakamam2, permalli, peyttulaci, putpakam 1, talaicculalmuli, tanamutirkorai, tanamutirkorai#, tanamutirkorai@, tanamuttumatar, ticanam, tiralakkorai, tiralkorai, tiratkorai, titcanam2, tittanam, tuyappirantaputpakam, vakuntakam, vakuntikai, vakuntikaikkorai, vakuntikam, vikkanaramali, vitpanattinpu, yaranimulli Telugu (7) - kaukkatulasi, kukka tulassi, kukkathulasi, kukkatulasi, kupatulasi, kuppatulasi, thulasi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e/xclkon/1152f23669492f409b87465af0b2c877
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1533
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1533.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e/xclkon/1152f23669492f409b87465af0b2c877
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e/xclkon/1152f23669492f409b87465af0b2c877
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e/xclkon/1152f23669492f409b87465af0b2c877
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/16562534d77643625eaab1f108606b1e/xclkon/1152f23669492f409b87465af0b2c877
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tulasi - sveta
+sanskrit_name: तुलसी श्वेता
+transliteration: tulasī śvetā
+ref_drug_name: तुलसी श्वेता
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

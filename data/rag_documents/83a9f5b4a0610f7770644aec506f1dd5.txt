@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 83a9f5b4a0610f7770644aec506f1dd5
+Botanical Name: Desmodium velutinum (WILLD.) DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Desmodium latifolium DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 62 Vernacular names found in 6 languages. Hindi (4) - jagru, jajru, lagavang, lippa-pank Kannada (2) - murival, muriyal Malayalam (1) - orila Sanskrit (1) - Sanskrit Comments  prsniparni Tamil (44) - akilametaki, amcapatayilai, ankacupati, ankitapati, ankucapati, ankucavati, annerincan, anreintanpuntu, anrerintan, chithamalli, cimantarikacceti, cimantarikam, cimanturi, cimmatu, cimpatai#, cimpatai@, cimpattai#, cimpattai@, cinturi, cipamatu, civamatu1, civamatukacceti, civamatukam, cumari, kantapalaci1, katamari, kirutamantatu, kitamari#, kitamari@, kittamari, kucattinpati1, kuccapati, kuccapaticceti, kuccattinpati, kupaiyam, kupayam, muvilaippullati, narippullati, narippullaticceti, poraiyilatini, pullu#, tiripati@, tiripatitacceti, tirutattapati Telugu (10) - adiviyanthinta, adiviyantinta, cimanduri, civa madu, gaaba, gaba, magalinga, mahaalinga, tellanelapariki, thellanelapariki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83a9f5b4a0610f7770644aec506f1dd5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83a9f5b4a0610f7770644aec506f1dd5/xclkon/6e800dff5629f869b17c819201c10dfe
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83a9f5b4a0610f7770644aec506f1dd5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83a9f5b4a0610f7770644aec506f1dd5/xclkon/6e800dff5629f869b17c819201c10dfe
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/83a9f5b4a0610f7770644aec506f1dd5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

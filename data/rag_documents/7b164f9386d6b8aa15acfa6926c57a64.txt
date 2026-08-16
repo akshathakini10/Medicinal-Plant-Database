@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7b164f9386d6b8aa15acfa6926c57a64
+Botanical Name: Mukia maderaspatana (L.) M.ROEMER
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cucumis madraspatanus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 76 Vernacular names found in 7 languages. Hindi (7) - aganaki, agumaki, ankh phutani bel, ankh-phutni-ki-bel, aunkharo, bilari, gulya kakri Kannada (4) - kaadu paavate balli, mani thonde, mani tonde, manidonde Malayalam (3) - mucca-pin, mukkalpiram, mukkappiram Marathi (3) - chiraati, chirati, ringana vaela Sanskrit (6) - Sanskrit Comments  ahilaykhan, gopalakarkati, krtarandhrah, musimusikkayi, sankhini, trikosaki Tamil (47) - arivalukam2, ayavakantam, ayil, ayileyam, cempucattumuli4, cetimelpatari, cukkai, cunaikkoti#, cunaikkoti@, cunaimelati, curecuvari, irankumatirai, irattanirappalam, irukurankin kai, irukurankinkai, irukuranku, kattumucukkai, kolankulam, kottiri2, kottirikai2, kuranku3, kurankuka, kurankukakkoti, kurankumucu, maluram 2, mamuli, mayankuruti, mocukkai, mocumocukkai, mucukkai, mucumucukai, mucumucukkai, mucumucukkai ver, musimusikkayi, musu musukai, musu-musukkai, musumusukkai, nariyutai, paccainilaikkoti, paccainirakkoti, parankotiyalmuli, pattara@, pattarakkoti, pira 2, pittanacani#, valanattakam, valukam Telugu (6) - budama dosa, kutarubudama, kuturu budam, potti budamu, pottibudamu, putribudinga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64/xclkon/28569c851f29543eb5943f8b24aeaeae
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1474
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1474.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64/xclkon/716cd405d94967fc683a81a60aff4650
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64/xclkon/6f06ecf95ab32edaf419e62154749d93
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64/xclkon/28569c851f29543eb5943f8b24aeaeae
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64/xclkon/716cd405d94967fc683a81a60aff4650
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64/xclkon/6f06ecf95ab32edaf419e62154749d93
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64/xclkon/28569c851f29543eb5943f8b24aeaeae
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64/xclkon/716cd405d94967fc683a81a60aff4650
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64/xclkon/6f06ecf95ab32edaf419e62154749d93
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b164f9386d6b8aa15acfa6926c57a64/xclkon/28569c851f29543eb5943f8b24aeaeae
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

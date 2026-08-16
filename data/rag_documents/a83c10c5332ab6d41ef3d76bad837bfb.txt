@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a83c10c5332ab6d41ef3d76bad837bfb
+Botanical Name: Roscoea procera WALL.
+Family: Scitaminaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. Tibetan (5) - bud tshad do (d & p), pud tshar do, ram ne ba sen po, ram ne ba sen po (p), ram ne ba ser po (p)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a83c10c5332ab6d41ef3d76bad837bfb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a83c10c5332ab6d41ef3d76bad837bfb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakoli
+sanskrit_name: काकोली
+transliteration: kākolī
+ref_drug_name: काकोली
+status: Substituted source
+discussion: This plant has not been identified and the roots of this species are being as its substitute
+reference: [1]
+
+Identity Record 2
+drug_name: Kakolidvaya
+sanskrit_name: काकोलीद्वय
+transliteration: kākolīdvaya
+ref_drug_name: काकोली
+status: Substituted source
+discussion: This plant has not been identified and the roots of this species are being as its substitute
+reference: [1]
+
+Identity Record 3
+drug_name: Ksirakakoli
+sanskrit_name: क्षीरकाकोली
+transliteration: kṣīrakākolī
+ref_drug_name: क्षीरकाकोली
+status: Controversial
+discussion: Tuberous roots of this species are being used as Ksirakakoli
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

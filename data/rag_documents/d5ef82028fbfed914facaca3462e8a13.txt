@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d5ef82028fbfed914facaca3462e8a13
+Botanical Name: Alangium begonifolium MARM.
+Family: Alangiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Sanskrit (2) - Sanskrit Comments  aksikiphala, aksipidaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5ef82028fbfed914facaca3462e8a13
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5ef82028fbfed914facaca3462e8a13
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aksikiphala
+sanskrit_name: आक्षिकीफल
+transliteration: ākṣikīphala
+ref_drug_name: आक्षिकीफल
+status: Suggested source
+discussion: Based on popular names this species is suggested, which has to be examined
+reference: [1]
+
+Identity Record 2
+drug_name: Aksikiphala
+sanskrit_name: आक्षिकीफल
+transliteration: ākṣikīphala
+ref_drug_name: आक्षिकीफल
+status: Suggested source
+discussion: Based on popular names this species is suggested, which has to be examined
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

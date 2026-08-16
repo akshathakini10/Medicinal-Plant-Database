@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d4622c8ee73edba07cc93b3d4f6e18d9
+Botanical Name: Hedyotis biflora (L.) LAMK
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Oldenlandia biflora LINN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Hindi (1) - daman-papra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4622c8ee73edba07cc93b3d4f6e18d9/xclkon/111b2614041f046ac925b4dc066c037c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4622c8ee73edba07cc93b3d4f6e18d9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4622c8ee73edba07cc93b3d4f6e18d9/xclkon/111b2614041f046ac925b4dc066c037c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Parpata
+sanskrit_name: पर्पट
+transliteration: parpaṭa
+image_urls: https://www.medicinalplants.in/slokaimages/5/5_1.jpg https://www.medicinalplants.in/slokaimages/5/5_2.jpg https://www.medicinalplants.in/slokaimages/5/5_3.jpg
+ocr_text: पर्पटः शीत्तलस्तिक्तः पित्तश्लेष्मज्वरापहः रक्तदाहारुग्लानिमदभ्रमविनाशनः || (Dhn, Rjn) Parpata is tikta in rasa, sita in veerya, alleviates pitta, slesma, jvara, rakta, daha, rug, glani, mada and bhrama. पर्पटो हन्ति पित्तास्रभ्रमतृष्णाकफज्वरान्| संग्राही शीतलस्तिक्तो दाहनुद् वातलो लघुः|| (Bpn) Parpata is tikta in rasa, laghu in guna, sita in veerya, sangrahi, increases vata alleviates pitta, asra, bhrama, trsna, kapha, jvara and daha पर्पटो दाहज्वरजित कफशोष्णः (Rjv) Parpata is kapha sosana, alleviates pitta, daha and ivara. पित्तहृत्

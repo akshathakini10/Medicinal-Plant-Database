@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 52bffa110beee75c92ccb1744d96145e
+Botanical Name: Alhagi pseudalhagi (BIEB.) DESV.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Alhagi camelorum FISCH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 95 Vernacular names found in 9 languages. Hindi (9) - jasava, javansa, javasa, jawasa, junwasa, juwasa, oant-jhari, yavasa, yavasajawasa Kannada (9) - balli duraba, balli duruba, balli thurachi, ballidurubi, ballituruche, dhurlava, durlava, jayasi, toreyingalu Malayalam (3) - kappattumba, kappattumpa, kotittuva Marathi (7) - belikamuli, javaas, jawas, kantechumbaka, kas, yavas, yawas Sanskrit (38) - Sanskrit Comments  adhikantaka, ananta, bahukantaka, balapatra, dhanva, dhanvayasa, dhanvayasah, dhanvayasaka, dhanvayavasa, dhirghamula, dirghamula, duhsparsa, duralabha, duramula, durlabha, dusparsha, gandhari, girikarnika, girikarnika- yavasa, kachhura, kantakaluka, kantaki, kshudrengudi, marudbhava, rodanika, samudranta, tamramuli, tikshnakantaka, triparnika, vanadarbha, vasanta, vishaghna, vivarnaka, yas, yasa, yavasa, yavasah, yavasaka Tamil (6) - thurinjibin, thurnjbin, tulgonri, turalapam, turalappai, turancipin Telugu (5) - girikarnika, pilaregati, tell-giniyachettu, tellaginiya, thella giniya chettu Tibetan (4) - bi dza ra ba, bi tsher ba (p), byi tsher ma (d), dug-nun Urdu (14) - athariyun, bikh jawansa, farakiyun, javasa, jawansa, jawasa, mana, manna, ratan jaute, turanjabeen, turanjabin, turanjabin-i-khurasani, turanjabni, turanjebin
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4f29e1cf411fc38ad2564ed70e0f94d1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 107
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/107.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4d3fb45063f05be383f4e65997e0c154
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/c5d0c6a984338a2af196fc4b79f06960
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4f29e1cf411fc38ad2564ed70e0f94d1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4d3fb45063f05be383f4e65997e0c154
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/c5d0c6a984338a2af196fc4b79f06960
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4f29e1cf411fc38ad2564ed70e0f94d1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4d3fb45063f05be383f4e65997e0c154
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/c5d0c6a984338a2af196fc4b79f06960
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4f29e1cf411fc38ad2564ed70e0f94d1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4d3fb45063f05be383f4e65997e0c154
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/c5d0c6a984338a2af196fc4b79f06960
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4f29e1cf411fc38ad2564ed70e0f94d1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4d3fb45063f05be383f4e65997e0c154
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/c5d0c6a984338a2af196fc4b79f06960
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/52bffa110beee75c92ccb1744d96145e/xclkon/4f29e1cf411fc38ad2564ed70e0f94d1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

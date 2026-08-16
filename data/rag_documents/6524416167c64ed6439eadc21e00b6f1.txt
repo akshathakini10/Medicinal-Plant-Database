@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6524416167c64ed6439eadc21e00b6f1
+Botanical Name: Styrax benzoin DRYAND
+Family: Styracaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 29 Vernacular names found in 7 languages. Hindi (1) - luban Kannada (4) - kavade lobaanu, lobaana, sambrani, samrani Malayalam (6) - daivadhupa, kalanusaraycam, kapisam, sailam, sambrani, samprani Sanskrit (1) - Sanskrit Comments  lohabana Tamil (12) - campirani, kuntalinkam, malacca sambranie, malakacca mpirani, malakkacampirani, marakkavikam, palinkuc campiranni, parcampirani, penkumaincan, saambiraani, shambirani, tupam Telugu (4) - sambramanie, sambrani, silhakamu, silhamu Urdu (1) - luban
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6524416167c64ed6439eadc21e00b6f1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6524416167c64ed6439eadc21e00b6f1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6524416167c64ed6439eadc21e00b6f1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6524416167c64ed6439eadc21e00b6f1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6524416167c64ed6439eadc21e00b6f1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

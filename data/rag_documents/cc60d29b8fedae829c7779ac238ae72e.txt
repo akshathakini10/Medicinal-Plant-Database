@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cc60d29b8fedae829c7779ac238ae72e
+Botanical Name: Gironniera cuspidata (BL.) PLANCH.
+Family: Ulmaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Gironniera reticulata THW.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 2 languages. Kannada (7) - babbuchekke, gabbucakke, gabbuchekke, naraka-bhutali, narakabhutali, narukebhutale, nyal Tamil (1) - koditani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc60d29b8fedae829c7779ac238ae72e/xclkon/6e01c21a05632d404f4e652b6ce0866c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc60d29b8fedae829c7779ac238ae72e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cc60d29b8fedae829c7779ac238ae72e/xclkon/6e01c21a05632d404f4e652b6ce0866c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

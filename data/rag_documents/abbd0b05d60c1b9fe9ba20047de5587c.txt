@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: abbd0b05d60c1b9fe9ba20047de5587c
+Botanical Name: Crocus sativus L.
+Family: Iridaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 141 Vernacular names found in 10 languages. English (2) - saffron, saffron cress Hindi (4) - kesar, saphran, zaffran, zafran Kannada (4) - kaesari, kumkuma kaesari, kunkuma-kesara, kunkumakesari Malayalam (4) - kesaram, kunkumam, kunkumappu, kunkumappuvu Marathi (2) - kaesar, kesara Sanskrit (63) - Sanskrit Comments  agnishekhara, agnishikha, aruna, asra, asrika, bahlikabc,, balhika, bhavarakta, chandana, charu, dhira, dipaka, gaura, ghasra, ghusriam, ghusrna, ghusruna, harichandana, jaguda, kaisara, kaleyaka, kanta, kashmara, kashmiraja, kashmirajanma, kasmira, kasmiraja, kasmirajanma, kesara, kesaram, keshara, khala, ksataja, kumkuma, kumkumam, kunkuma, kunkumam, kusrunam, kusumatmaka, lohita, mangal, mangalya, pishuna, pitaka, pitana, raja, rakta, raktachandana, raktasanjna, ruchira, rudhira, sankoca, sankocha, sankochapishuna, saubhara, saurab, shonita, shonitavhaya, valhika, vara, varabalhika, varenya, vira Tamil (50) - akkinicekaram, avakam, avam, cankocapicunam, catikecam, catimaracam, centurukkam, cukkilapputta, irattam, irattancapittam, kacimiram, kasmiram, kecaram, kecaravaram 1, kecari 1, kecarippu, khoongoomapoo, kirucan, kucumpam, kungu mappoo, kungumappoo, kungumapu, kunkumam, kunkumappu, malam, marali 2, maralukam, maravam 2, maravatam, mavacciram, mavananki, nalal 1, nalalpu, nalarpu#, nalarpu@, naravam 1, naravucaram, palapaliriti, piriyakam, pumalekinam, putpika, turukkam, turumam 2, ulokitacantanam, ulukalam 3, vallapetam, vanita, vanmikam, vareniyam, vatankura Telugu (5) - kunkuma-puvva, kunkumamu, kunkumapave, kunkumapuvve, kunkumma-purru Tibetan (3) - gur gum, gur-gum, kha che Urdu (4) - jafranekar, safran, zafran, zafran sayida
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbd0b05d60c1b9fe9ba20047de5587c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kunkuma
+sanskrit_name: कुङ्कुम
+transliteration: kuṅkuma
+ref_drug_name: कुङ्कुम
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Kunkuma
+sanskrit_name: कुङ्कुम
+transliteration: kuṅkuma
+ref_drug_name: कुङ्कुम
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

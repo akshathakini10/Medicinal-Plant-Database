@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 093bdb85f667e9fdae847a0fc65ae71d
+Botanical Name: Acacia chundra (ROB. E ROTTLER) WILLD.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 5 languages. Kannada (6) - cachu, kacu, kaggli, kempu jaali, kempu kaggali, kempu khairada jaali Marathi (1) - laal khaira Sanskrit (1) - Sanskrit Comments  khadira Tamil (3) - karangali, karungali, karunkali Telugu (4) - chandra, nalla chandra, sandra, sundra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093bdb85f667e9fdae847a0fc65ae71d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 21
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/21.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/093bdb85f667e9fdae847a0fc65ae71d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

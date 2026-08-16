@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dd1b1600cfdfa3e3949a254c79db28a8
+Botanical Name: Nilgirianthus ciliatus (NEES) BREMEK.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Strobilanthes ciliatus NEES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 4 languages. Hindi (2) - kara, karvi Malayalam (3) - karimkurunni, kurunni, vellakkurunni Sanskrit (2) - Sanskrit Comments  sahacarah, sairyakah Tamil (4) - kurinji, kurunji, sinnagurinji, sinnakkurunji
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd1b1600cfdfa3e3949a254c79db28a8/xclkon/77fb661cb557006e9b47bcc626bef0a4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1515
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1515.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd1b1600cfdfa3e3949a254c79db28a8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd1b1600cfdfa3e3949a254c79db28a8/xclkon/77fb661cb557006e9b47bcc626bef0a4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd1b1600cfdfa3e3949a254c79db28a8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd1b1600cfdfa3e3949a254c79db28a8/xclkon/77fb661cb557006e9b47bcc626bef0a4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

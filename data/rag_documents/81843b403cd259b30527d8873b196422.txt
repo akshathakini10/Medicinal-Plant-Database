@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 81843b403cd259b30527d8873b196422
+Botanical Name: Paeonia emodi WALL. E. ROYLE
+Family: Paeoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 3 languages. Hindi (5) - chandayra, chandra, chandrain, ud-salap, udsalap Sanskrit (1) - Sanskrit Comments  chandra Urdu (4) - ood salib, ood salib nim kofta, ood-i-salib, udasaliba
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81843b403cd259b30527d8873b196422
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1581
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1581.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81843b403cd259b30527d8873b196422
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81843b403cd259b30527d8873b196422
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

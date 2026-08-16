@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f5a02171b12181f41bf96341feb86bd6
+Botanical Name: Harpullia arborea (BLANCO) RADLK
+Family: Sapindaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. Kannada (2) - bidisaale, bidsale Malayalam (1) - chittilamadakku Tamil (4) - cirrilaimatukku, neikottei, neykkottai, neykkottan1
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5a02171b12181f41bf96341feb86bd6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5a02171b12181f41bf96341feb86bd6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5a02171b12181f41bf96341feb86bd6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

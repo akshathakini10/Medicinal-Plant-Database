@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 40424f0d8c3dec9d73d615955b47e52c
+Botanical Name: Smithia conferta J.E. SMITH
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Smithia geminiflora ROTH
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 4 languages. Malayalam (2) - elakanni, thiruthali Marathi (1) - naichibha Sanskrit (1) - Sanskrit Comments  lakshmana Tamil (1) - elakanni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/40424f0d8c3dec9d73d615955b47e52c/xclkon/b7eaf1c5597ec96e2804b730980a8161
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/40424f0d8c3dec9d73d615955b47e52c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/40424f0d8c3dec9d73d615955b47e52c/xclkon/b7eaf1c5597ec96e2804b730980a8161
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/40424f0d8c3dec9d73d615955b47e52c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/40424f0d8c3dec9d73d615955b47e52c/xclkon/b7eaf1c5597ec96e2804b730980a8161
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

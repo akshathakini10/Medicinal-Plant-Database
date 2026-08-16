@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0c6d41ee47e9112c0055bce40df26968
+Botanical Name: Vitis lanata ROB.
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. Hindi (3) - kashand, puliana, puraini Tamil (2) - cirunaralai, naralai Telugu (2) - maratatige, marattatige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6d41ee47e9112c0055bce40df26968
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6d41ee47e9112c0055bce40df26968
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0c6d41ee47e9112c0055bce40df26968
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

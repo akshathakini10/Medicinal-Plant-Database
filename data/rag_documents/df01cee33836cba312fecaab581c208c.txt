@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: df01cee33836cba312fecaab581c208c
+Botanical Name: Euonymus tingens WALL.
+Family: Celastraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 3 languages. Hindi (7) - barmeli, bhambeli, kala chindwara, kalachindwara, kumkum, kunghu, kunkuma Marathi (1) - kunku Sanskrit (2) - Sanskrit Comments  bhillotaka, sinduri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df01cee33836cba312fecaab581c208c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 925
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/925.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df01cee33836cba312fecaab581c208c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhillota
+sanskrit_name: भिल्लोट
+transliteration: bhilloṭa
+ref_drug_name: भिल्लोट
+status: Suggested source 1
+discussion: On the basis of its description it is correlated to this species
+reference: [1]
+
+Identity Record 2
+drug_name: Bhillotaka
+sanskrit_name: भिल्लोटक
+transliteration: bhilloṭaka
+ref_drug_name: भिल्लोटक
+status: Accepted source
+discussion: Bhillotaka has been mentioned only in Susruta samhita; Susruta has mentioned this as a drug which was used in day to day activities hence it was a well known drug during those days; Dalhana mentions it as a tree that grows in the Himalaya region and its fruits resembling 'Kakubha'; Thakur Balwant Singh identifies it with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Kunkuma
+sanskrit_name: कुङ्कुम
+transliteration: kuṅkuma
+ref_drug_name: कुङ्कुम
+status: Substituted source
+discussion: With regard to its uses this can serve as a substitute
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

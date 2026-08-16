@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6719a93f4930cc2f6af845cadd41fdbf
+Botanical Name: Clerodendrum inerme (L.) GAERTN.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Volkameria inermis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 189 Vernacular names found in 7 languages. Hindi (7) - batraj, binjoam, chhoti-ari, lanjai, sang-kuppi, sangan-kuppi, vilayati mendhi Kannada (16) - batha raaja, holemadarangi, itteru, karithekku, kundali, kundali gida, naayi tekkake, naayi thekkile, naitakkilay, naitakkile, nayitakkali, thakkalika, vishama dhaari, vishama dhari, vishamadhaari, vishamadhari Malayalam (5) - niir-notsjiil, nirnocci, nirnotijil, nirnotsjil, shangam-kuppi Marathi (3) - sangam, sirit-mari, vanajai Sanskrit (8) - Sanskrit Comments  kshudragnimantha, ksudragnimantha, kundali, nir-notsjil, samudrayuthika, shangam-kuppi, vanajai, vanayuthika Tamil (122) - acankamuli, aciriticankam, alalampu, amettiyanari, ancali, ancali 1, cankam kuppi, cankamuli, cankankuppi, cankankuppi#, cankaputpikam, cankaraputpam, cankini, cankinicceti, carpaccu, carparacciyam1, carpparacciyam, carpparaci, carpparaci1, carpparacicceti, carpparatci, carupparacci, carupparacciyacceti, carupparacciyam, catpitakkani, catucanki, cirikaciyam, cirinkaciyam, coraputpacceti, coraputpam, coraputpam#, coraputpam@, coraputpi, cuvacakkini, cuvacakkini1, icanku, icanku1, irangu, itampuri, iyanku, kampuputpikam, kecini, kentakattailomakki, kentakattaittailamakki1, kol, kol1, kucumam, kucumo, kumpaccinitacceti, kumpaccinitam, kuncarakicacceti, kuncarakitacceti, kuncarakitam, kuntali, kuntali1, kuntati, kuntaticceti, kuppi, kurottai, kuyapaciyaccanku, kuyapaciyam, miccenkan, multapalam, mutai, mutai#, mutai@, mutaikkali, mutaikkalicceti, muttapalam, muttapalam 1, navikaccanku, navikaccankucceti, nirnocci, nirnocci1, nirnochi, pampukkanni, peechangu, peenaari, peenarichangu, piccenkan, piccuvila, piccuvilatti, pikkalatti, pikkalatticceti, pikkilatti, pina-shengam-kuppi, pinacenkamkuppi, pinari, pinari 1, pinaricankankuppi, pinariccankankuppi, pinariccanku, pinariccanku@, pinariccankucceti, pinarichanganguppu, pinasangam-koppi, pincal, pincal#, pincal@, pinchil, pitankai nari, pumalecanam, pumalekinam, pumalekkinam, pumalekkinam 1, pumankicceti, sangam, sangangkuppi, sanganguppi, shangam cooppy, shengan-kuppi, takkolam, takkolam1, tinpu, tinpucceti, tirkkanatacceti, tirkkanatam, tirkkapattiri, tirklanatacceti, uttanarippuntu, uttiyavanavaci, vellaiccankankuppi Telugu (28) - erru pucha, erup-pichha, erupicheha, erupittsa, erupucca, erupuchha, etipisangi, etipisinika, nallaoopi, nallauppi, nellavuppi, nilla vuppi, nillavuppi, pesung, pisangi, pishinika, pisingi, pisiniggha, pisinika, takkolapu-chettu, takolapu, thakkolakamu, thakkolamu, thakkolapu chettu, uti, uti-chettu, utichettu, yeti pisinika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6719a93f4930cc2f6af845cadd41fdbf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6719a93f4930cc2f6af845cadd41fdbf/xclkon/649c0c67cb3382de3cc6e0bb178ed577
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6719a93f4930cc2f6af845cadd41fdbf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6719a93f4930cc2f6af845cadd41fdbf/xclkon/649c0c67cb3382de3cc6e0bb178ed577
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6719a93f4930cc2f6af845cadd41fdbf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6719a93f4930cc2f6af845cadd41fdbf/xclkon/649c0c67cb3382de3cc6e0bb178ed577
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6719a93f4930cc2f6af845cadd41fdbf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

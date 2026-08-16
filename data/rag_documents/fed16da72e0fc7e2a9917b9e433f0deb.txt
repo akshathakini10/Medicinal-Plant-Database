@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fed16da72e0fc7e2a9917b9e433f0deb
+Botanical Name: Secamone emetica R.BR.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 2 languages. Kannada (1) - siranigehambu Tamil (32) - ankaravali, ankaravallan2, ankaravalli4, antattankam, cakatam2, camalukam, camalukicceti, camalukitam, caraccika, carccikacceti, carcciru, cattiyam, cayakacceti, cayakam, kaluvakatacceti, kaluvakatam, karip-palai, kolippacakkoti, kolippacam, kontam2, kurampai, kuravaki, kuravakicceti, naipaalai, nattuvariyal, onkari2, otukayccavonkari, parunkurunci1, perunkurinci 2, tattava, tiruvaratitacan, tottaviraltarittan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fed16da72e0fc7e2a9917b9e433f0deb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fed16da72e0fc7e2a9917b9e433f0deb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fed16da72e0fc7e2a9917b9e433f0deb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

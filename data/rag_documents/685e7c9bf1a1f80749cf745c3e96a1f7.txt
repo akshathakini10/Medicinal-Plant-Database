@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 685e7c9bf1a1f80749cf745c3e96a1f7
+Botanical Name: Graptophyllum pictum (L.) GRIFF.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Graptophyllum hortense NEES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 3 languages. Malayalam (4) - cata, chata, tsjude, tsjude-maram Marathi (3) - dishtichem-pan, kalo-adaso, parvati-pan Tamil (1) - vattilai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685e7c9bf1a1f80749cf745c3e96a1f7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685e7c9bf1a1f80749cf745c3e96a1f7/xclkon/37e85710c572682abd222adbb623d9e6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685e7c9bf1a1f80749cf745c3e96a1f7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685e7c9bf1a1f80749cf745c3e96a1f7/xclkon/37e85710c572682abd222adbb623d9e6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/685e7c9bf1a1f80749cf745c3e96a1f7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,118 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d9d4015c990cc5f8b85ce17dc9245952
+Botanical Name: Amomum subulatum ROB.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 100 Vernacular names found in 9 languages. Hindi (4) - badi ilayaci, bari ilachi, bari ilayaci, bari-elachi Kannada (6) - dodda aelakki, dodda yaalakki, dodda yelakki, dodda-yalakki, doddayalakki, doddayelaki Malayalam (5) - candrabala, chandrabala, perelam, peri-elav, periya-elattari Marathi (3) - moteveldode, moto-eldori, thorveldoda Sanskrit (34) - Sanskrit Comments  aindri, bahula, bala, balavati, bhadra, bhadraila, brhadaela, brhadela, brihadaela, brihat-upa-kunchika, brihat-upakun-chika, divyagandha, ela, garbhasambhava, ghritachi, ghrtachi, goputa, harenuka, indrani, kanta, kanyakumari, kayastha, ksudraila, mahila, maleya, nishkuti, prithvi, sambhava, sthulaela, sthulaila, surabhitvaka, tadaphala, tridivodbhava, triputa Tamil (34) - arivalukam1, arugasani, arukacani, arukecani, cantirikai2, cukanticaparanam, curppitakam, ela, elavalukai#, elavalukai@, elavalukam1, iravati, iravatikacceti, iravatikam, kattelam, kattu elam, kattu-yelak-kay, kumari, kuntikacceti, kuntikam, maccakuttam, malaiyelam, malukam 1, mayileyam, perelam, periya elam, periyaelakkay, periyaelam, periyayelakay, periyayelam, sandirigai, tivviyakantam, verppelakacceti, verppelakam Telugu (4) - adavi-ellakkay, pedda-elakkay, peddayelaki, thengu yalakkulu Tibetan (1) - pa tra e la Urdu (9) - bari elaichi, elaichi badi, heel kalan, ilacihi kalan, ilaichi kalan, ilaichi kalan kofta, ilaichi kalan nim kofta, ilayachikallan, poast ilaichi sokhta-kalan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 159
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/159.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9d4015c990cc5f8b85ce17dc9245952
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Brhadela
+sanskrit_name: बृहदेला
+transliteration: bṛhadelā
+ref_drug_name: बृहदेला
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Ela - brhat
+sanskrit_name: एला बृहत्
+transliteration: elā bṛhat
+ref_drug_name: एला बृहत्
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Ela - brhat
+sanskrit_name: एला बृहत्
+transliteration: elā bṛhat
+ref_drug_name: एला स्थूल प्रकार
+status: Accepted source
+discussion: Is another variety of sthula ela (big) which is identified with this species
+reference: [2]
+
+Identity Record 4
+drug_name: Ela - sthula
+sanskrit_name: एला स्थूल
+transliteration: elā sthūla
+ref_drug_name: एला बृहत्
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Ela - sthula
+sanskrit_name: एला स्थूल
+transliteration: elā sthūla
+ref_drug_name: एला स्थूल प्रकार
+status: Accepted source
+discussion: Is another variety of sthula ela (big) which is identified with this species
+reference: [2]
+
+Identity Record 6
+drug_name: Ela - sthula prakara
+sanskrit_name: एला स्थूल प्रकार
+transliteration: elā sthūla prakāra
+ref_drug_name: एला बृहत्
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Ela - sthula prakara
+sanskrit_name: एला स्थूल प्रकार
+transliteration: elā sthūla prakāra
+ref_drug_name: एला स्थूल प्रकार
+status: Accepted source
+discussion: Is another variety of sthula ela (big) which is identified with this species
+reference: [2]
+
+Identity Record 8
+drug_name: Harenuka
+sanskrit_name: हरेणुका
+transliteration: hareṇukā
+ref_drug_name: हरेणुका
+status: Accepted source
+discussion: In Susruta samhita it is mentioned under the pippalyadi and eladi varga along with 'Ela'; Vagbhata has not mentioned 'Harenuka' but cites' Elayugma'. Agurvadi taila mentioned in Caraka has 'Harenuka' and 'Ela' as the ingredient where in Vagbhata has mentioned them as 'Eladvaya'; All the above point that 'Harenuka' is a type of 'Ela' and hence correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

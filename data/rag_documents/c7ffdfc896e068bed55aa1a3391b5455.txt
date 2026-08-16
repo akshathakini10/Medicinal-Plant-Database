@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c7ffdfc896e068bed55aa1a3391b5455
+Botanical Name: Cyperus scariosus R.BR.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 8 languages. Hindi (1) - nagarmotha Kannada (2) - konnarigadda, nagarmusthe Malayalam (1) - korakizhanna Marathi (1) - lawala Sanskrit (13) - Sanskrit Comments  chakranksha, charukesara, chudalapindamusta, kachharuha, kalapini, nadeyi, nagar-mustaka, nagarmusta, nagarotha, payoda, shishira, uchchta, vrishadhmankshi Tamil (2) - koraikkilangu, nakamuttakkacu Telugu (4) - kolathungamste, kolatungamuste, thungagaddaaveru, tungagaddalaveru Urdu (10) - nagar motha, nagaramotha, nagarmontha, nagarmotha, nagarmotha sadkofi, sa d kofi, sad kofi, sad kofi nim kofta, sad koft, sadkofi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ffdfc896e068bed55aa1a3391b5455
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ffdfc896e068bed55aa1a3391b5455
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ffdfc896e068bed55aa1a3391b5455
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ffdfc896e068bed55aa1a3391b5455
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ffdfc896e068bed55aa1a3391b5455
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhadramusta
+sanskrit_name: भद्रमुस्त
+transliteration: bhadramusta
+ref_drug_name: भद्रमुस्त
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Musta
+sanskrit_name: मुस्त
+transliteration: musta
+ref_drug_name: मुस्त
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

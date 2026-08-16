@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0252fbcd8865b80ee15058c00323bfd8
+Botanical Name: Morus nigra L.
+Family: Urticaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 4 languages. English (2) - black mulberry, common mulberry Hindi (1) - shahtut Tamil (3) - kampali ppucciceti, mucukkattai, mucurkkacaicceti Urdu (3) - baokhamba, rub tut siyah, toot siyah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0252fbcd8865b80ee15058c00323bfd8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0252fbcd8865b80ee15058c00323bfd8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0252fbcd8865b80ee15058c00323bfd8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tuda - prajati
+sanskrit_name: तूद प्रजाति
+transliteration: tūda prajāti
+ref_drug_name: तूद प्रजाति
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4262e42319a69d18a8b9cf00bfce2fdb
+Botanical Name: Seseli diffusum (ROB. E. SM.) SAMT
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Seseli indicum WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. Kannada (1) - kirimanji ajwan Marathi (2) - kirmanji-ajwan, kirminjiajwan Sanskrit (2) - Sanskrit Comments  vanayamam, vanayamani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4262e42319a69d18a8b9cf00bfce2fdb
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1903
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1903.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4262e42319a69d18a8b9cf00bfce2fdb/xclkon/12a16cff740b6b6b89066e97b325467e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4262e42319a69d18a8b9cf00bfce2fdb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4262e42319a69d18a8b9cf00bfce2fdb/xclkon/12a16cff740b6b6b89066e97b325467e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4262e42319a69d18a8b9cf00bfce2fdb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

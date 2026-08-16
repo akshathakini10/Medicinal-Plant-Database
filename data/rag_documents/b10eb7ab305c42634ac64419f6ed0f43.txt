@@ -1,0 +1,81 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b10eb7ab305c42634ac64419f6ed0f43
+Botanical Name: Punica granatum L.
+Family: Punicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 272 Vernacular names found in 10 languages. English (3) - balustine flowers, grenadine, pomegranate Hindi (21) - amar, anar, anar-ka-per, anar-ke-per, auar, dalimo, dalimu, dalmiya, daram, daran, darim, darimu, daroo, daru, dhalim, dharimb, dharu, doran, gulnar-ka-per, nirgal, ringal Kannada (16) - daadima, daalimbe, daalimbe mara, dadima, dadimbe, dalimabay, dalimba, dalimbare, dalimbe, dalimbe-gida, dalimbuhannu, dhalimbe, huli daalimbe mara, hulidalimbe, hushidalimbe, husidalimbe Malayalam (13) - dadimam, dadiman, madala, matalam, matalam-cheti, matalanarakam, pumatalam, raktabijam, talimadalam, talimatalam, urumampalam, urumampazham, uruyampalam Marathi (3) - daalimb, dalimb, dalimba Sanskrit (37) - Sanskrit Comments  bijapura, dadima, dadima-phalam, dadimah, dadimam, dadimaphalam, dadimasara, dadimavrikshaha, dadimba, dalika, dantabijaka, darimba, ija, karaka, kuchaphala, kuttima, lohitapushpaka, lohitapuspaka, madhubija, milapatra, milapatraka, mukhavallabha, nagarata, parvarut, phalamla, phalashadava, pindapushpa, pindira, raktabija, raktapushpa, shukadana, shukavallabha, sunila, suphala, svadvamla, valkaphala, vrittaphala Tamil (127) - arocakanacani, arulmaram, arumaram, atalai2, catimataki, catipancu, cerukkam, cikappumatalai, civappuccantanikacceti, civappuccantanikam, civappumatalai, cukacanam1, cukatanam1, cukavallam, cukkilestam, ekamuli, inippu matalai, inippumatalai, inippumatulai, irattapittapicakam, irattavicam, irattavitacceti, irucakam, irucukam, kalkapalam, kalumal madalai, karkapalacceti, karkapalam, kavaiyal, kovarttanam, kucapalam1, kucapalamaram, kukarumulimpam, kurucattam, kuttinam, maathulai, madalai, madalai-ch-chedi, madalai-p-pazham, madalam, madalangkai, madalum vayr, madhalai, madhulam, madhulami, madulai, madulam, madulungam, magilam palam, malaki, manimatari, manipicam, manipicamaram, manivicam, maniviciramam, maniviciramaram, maralam#, maralam@, maralamaram, marayam, matalaimacaki, matalaimacakimaram, matalam#, matalampu, matalunkam, mathalai, mathulai, matulai, matulainkam, matulam, matulankam, matulankam@, matulankamaram, matulunkam@, matulunkamaram, matuvicam, nallamatulai, narumatulam#, narumatulam@, nattumatalai, palacatavam, palacatavamaram, palacavatam, palapuracceti, palapurakam, palapurakamaram, picapuram, picapuram@, pintirakacceti, pintirakam, pintiram, piraputam, pu-madalai, pulimadalai, pulippumatulai, pumadalai, rumman, tacanapicam, tadimadalai, tadimam, talimpamayati, tantapicakam, tantapicam, tantapijakam, tatimakkani, tatimam2, tatimatulai, tittippumatulaimaram, tittippuppalai, tucakamatulai, tucakatitam, tucakatitamaram, tuccam, tuccam#, tusagam, urucakam1, urumamapalam, uruntanirpputpi, utirapantam, varaimatalacci, varaiyutakam, vinnarakam, vinnarakamaram, vintapurakam, viraiyotakam, virotam, viruttapalam 1 Telugu (24) - daadimamu, daadimba, daalimba chettu, daalimma, daanimma, dadima, dadima-chetu, dadimamu, dadimba, dadimma, dalimba, dalimba-chettu, dalimma, dalunimma, danima, danimma, danimma-chettu, karakamu, pulladaanimma, pulladanimma, puvvudaanimma, puvvudanimma, thiyyadaanimma, tiyyadanimma Tibetan (4) - bal-poi-seu, se bru, se u bru, seu bru Urdu (24) - aab-e-amar, amardana, anar, anar dana, anar dona, anar shirin, anardana, anaspal, goolnar, gul amar, gul anar, gul-i-anar, gulnar, gulnar (gulnar farsi), hab-i-qilqil, naspal, poast anar, rub amar shirin, rub anar, rub anar shirin, rub anar tursh, rub-i-anar shirin, sharbat anarshirin, tub-i-anar shirin
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1771
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1771.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b10eb7ab305c42634ac64419f6ed0f43
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dadima
+sanskrit_name: दाडिम
+transliteration: dāḍima
+ref_drug_name: दाडिम
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Dadima
+sanskrit_name: दाडिम
+transliteration: dāḍima
+ref_drug_name: दाडिम
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Dadima
+sanskrit_name: दाडिम
+transliteration: dāḍima
+ref_drug_name: दाडिम
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dadima
+sanskrit_name: दाडिम
+transliteration: dāḍima
+image_urls: https://www.medicinalplants.in/slokaimages/1368/1368_1.jpg https://www.medicinalplants.in/slokaimages/1368/1368_2.jpg https://www.medicinalplants.in/slokaimages/1368/1368_3.jpg https://www.medicinalplants.in/slokaimages/1368/1368_4.jpg https://www.medicinalplants.in/slokaimages/1368/1368_5.jpg https://www.medicinalplants.in/slokaimages/1368/1368_6.jpg https://www.medicinalplants.in/slokaimages/1368/1368_7.jpg https://www.medicinalplants.in/slokaimages/1368/1368_8.jpg
+ocr_text: दाडिममाहुः खरकं मधुराम्लफलं च रक्तकुसुमं च | शतवल्लभं शुकेष्टं सपारदं बीजपूरकं चेति Il (Aa ma) Synonyms of Dadima are Kharaka, Madhura amla phala, Rakiakusuma, Satavallabha, Sukesta, Saparada, Bijapuraka दाडिमः करको दन्तबीजो लोहितपुष्पकः (Bpn) Dadima Karaka, Dantabija, Lohitapuspaka are the synonyms of Dadima दाडिमो डाडिमीसारः कुट्टिमः फलषाडवः |l करको रक्तबीजश्च सुफलो दन्तबीजकः मधुबीजः कुचफलो रोचनः शूकवल्लभः |I मणिबीजस्तथा वल्कफलो वृत्तफलश्च सः सुनीलो नीलपत्रश्च ज्ञेया सप्तदशाह्वयः Il (Rjn) Dadimisara, Kuttima, Phalasadava, Karaka, Raktabija, Suphala, Dantabijaka, Madhubija, Kucaphala, Rocana, Sukavallabha Manibija, Valkaphala, Vrttaphala, Sunila, Nilapatra Saptadasahvaya are the १७ synonyms of Dadima उद्रिक्तापित्तान जयति स्वादु दाडिमम् | पित्ताविरोधी नात्युष्णमम्लं वातकफापहम् |l सर्वं हृद्यं लघु स्निगधं ग्राही रोचनदीपनम् (Mdn) It is pitia avirodhi does vitiate pitia) , laghu snigdha in guna natyusna (slightly usna) in potency, amla in taste, decreases vata kapha, is hrdya, grahi, rocana and dipana in karma त्रिदोषान् not तत्फलं त्रिविधं स्वादु स्वाद्वम्लं केवलाम्लकम् तत्तु स्वादु त्रिदोषघ्नं तृड्दाहज्वरनाशनम् हृत्कण्ठमुखरोगघ्नं तर्पनं शुक्ललं लघु कषायानुरसं ग्राहि स्निग्धं मेधाबलावहम् |l स्वाद्वम्लं दीपनं रुच्यं किञ्चित् पित्तकरं लघु अम्लं तु पित्तजनकमावातकफापहम् Il (Bpn) Dadima phala is of three types: svadu, svadu amlam, kevala amla Svadu phala is kashaya in anurasa, laghu, snigdha in property, alleviates tridosha, trt daha jvara hrt-kantha mukha roga, is iarpana, sukrala, grahi, medha bala vaha Svadu amla phala is dipana, rucya, slightly increases pitta and laghu in guna Amla phala increases pitta cures vitiation of ama vata and kapha स्निग्धोष्णं दाडिमं हृद्यं कफपित्ताविरोधि च द्विविधं तच्च विज्ञेयं मधुरं चाम्लमेव च Il (Dhn) Dadima is snigdha in property, usna in potency hrdya, not vitiating kapha and pitta. It is of two types madhura and amla. अम्लं कषायमधुरं वातघ्नं ग्राहि दीपनम् | स्निग्धोष्णं दाडिमं हृद्यं कफपित्ताविरोधि च Il रूक्षाम्लं दाडिमं यत्तु तत् पित्तानिलकोपनम् मधुरं पित्तनुत् तेषां तद्धि दाडिममुत्तम् II (C.S.Su २७) Amla Kashya- Madhura Dadima is Vataghna grahi Dipana Snigdha Usna Dadima is Hrdya, Kapha Pitta Virodhi. Ruksa Amla Dadima is Pitta Anila Kopana. Madhura Dadima is Pitta hara and this Dadima is the best. पुटपाकेन विपचेत् सुपक्वं दाडिमीफलम् तद्रसो मधुसंयुक्तः सर्वातीसारनाशनः Il (S.S) Dadima phala subjected io Putapaka and used along with Madhu is Sarva atisara nasana.

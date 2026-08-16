@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ae00c08dc6dc53386a453b9b5ef0c790
+Botanical Name: Juniperus polycarpos C. KOCH.
+Family: Cupressaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Juniperus macropoda BOISS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. Hindi (6) - bhutal, dhup, guggal, shupa, shupe, shur Sanskrit (1) - Sanskrit Comments  hapusa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae00c08dc6dc53386a453b9b5ef0c790
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 6177
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/6177.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae00c08dc6dc53386a453b9b5ef0c790/xclkon/1965a0dd561a72a71bce72ee6841f907
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae00c08dc6dc53386a453b9b5ef0c790
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae00c08dc6dc53386a453b9b5ef0c790/xclkon/1965a0dd561a72a71bce72ee6841f907
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae00c08dc6dc53386a453b9b5ef0c790
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Hapusa
+sanskrit_name: हपुषा
+transliteration: hapuṣā
+image_urls: https://www.medicinalplants.in/slokaimages/970/970_1.jpg https://www.medicinalplants.in/slokaimages/970/970_2.jpg
+ocr_text: हपुषा कटुतिक्तोष्णा गुरुर्वातबलासजित् प्रदरोदरविट्बन्धशूलगुल्मर्शसां हितः T IRjn) Hapusa is katu, tikta in rasa, usna in virya, guru which alleviates vata cures pradara, vit bandha, sula, gulma and arsa. हपुषा तुवरा तिक्ता कटूष्णा दीपनी गुरुः ग्रहणीशूलगुल्मार्शो वातपित्तोदरापहा I[ IKdnl Hapusa is tikta, katu in rasa, tuvara Buru in virya, dipani, cures grahani, sula , gulma, arsa, vata pittodara. usna

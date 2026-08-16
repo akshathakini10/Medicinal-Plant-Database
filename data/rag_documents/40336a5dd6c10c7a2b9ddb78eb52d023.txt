@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 40336a5dd6c10c7a2b9ddb78eb52d023
+Botanical Name: Polygonatum cirrhifolium ROYLE
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 6 languages. Hindi (3) - mahameda, meda, medha Kannada (1) - medha Malayalam (1) - meda Sanskrit (2) - Sanskrit Comments  mahameda, meda Tamil (1) - meda Telugu (1) - meda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/40336a5dd6c10c7a2b9ddb78eb52d023
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1720
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1720.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/40336a5dd6c10c7a2b9ddb78eb52d023
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

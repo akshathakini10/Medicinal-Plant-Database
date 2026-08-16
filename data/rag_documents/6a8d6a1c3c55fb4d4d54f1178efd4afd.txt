@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6a8d6a1c3c55fb4d4d54f1178efd4afd
+Botanical Name: Atropa acuminata ROYLE E LINDL.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Hindi (2) - jharka, shafoo Urdu (1) - rub luffah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a8d6a1c3c55fb4d4d54f1178efd4afd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a8d6a1c3c55fb4d4d54f1178efd4afd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a8d6a1c3c55fb4d4d54f1178efd4afd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

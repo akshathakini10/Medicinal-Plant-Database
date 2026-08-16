@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: af650223ecff6a58df1d56a9bfe83fca
+Botanical Name: Urena sinuata L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Urena simiata L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 6 languages. Hindi (2) - kunjuya, lotloti Malayalam (3) - uram, uren, urumi Marathi (2) - lichi, ramkopasi Sanskrit (1) - Sanskrit Comments  bala Tamil (5) - ottatti, ottatti 2, ottuttutti, ottuttutti 2, piliya-mankena Telugu (5) - nallabenda, padanikada, paliamankena, piliyamankana, piliyamankena
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af650223ecff6a58df1d56a9bfe83fca
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af650223ecff6a58df1d56a9bfe83fca/xclkon/9427ab843ad0933f22125dc31aa2f54f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af650223ecff6a58df1d56a9bfe83fca
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af650223ecff6a58df1d56a9bfe83fca/xclkon/9427ab843ad0933f22125dc31aa2f54f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af650223ecff6a58df1d56a9bfe83fca
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af650223ecff6a58df1d56a9bfe83fca/xclkon/9427ab843ad0933f22125dc31aa2f54f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af650223ecff6a58df1d56a9bfe83fca
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

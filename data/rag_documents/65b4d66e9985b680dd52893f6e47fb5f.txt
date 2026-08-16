@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 65b4d66e9985b680dd52893f6e47fb5f
+Botanical Name: Hardwickia binata ROB.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 60 Vernacular names found in 6 languages. Kannada (22) - aacha, acca, acha, altina, alviro, anjan, asana, asanagurgi, asina, kaaraacha, kamara, kamaru, kamla, kammar, kammara, kamra, karachi, karachu, karachya, karaci, karmara, yenne Malayalam (7) - accha, genne, kolla, matayen, samprani, shurali, uram Marathi (3) - anjan, jiran, kattudugi Sanskrit (1) - Sanskrit Comments  anjana Tamil (10) - aaccha, acca 3, acha, karacha, kattutuku, kolavu, malaiathi, mataiyancampirani, ura, yalam 3 Telugu (17) - anjan, epe, kamara, karachu, naarayepe, naarepe, naiyepi, naraepe, narayepe, narayepi, narepe, narepu, naryepa, naryepi, yapa, yepi, yeppi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65b4d66e9985b680dd52893f6e47fb5f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1102
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1102.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65b4d66e9985b680dd52893f6e47fb5f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/65b4d66e9985b680dd52893f6e47fb5f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Anjanavrksa
+sanskrit_name: अञ्जनवृक्ष
+transliteration: añjanavṛkṣa
+ref_drug_name: अञ्जनवृक्ष
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

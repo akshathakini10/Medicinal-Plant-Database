@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9bc92c3119ea0723a250f849c17205c1
+Botanical Name: Ipomoea eriocarpa R. BR.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Ipomoea hispida ROEM. & SCH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 6 languages. Hindi (3) - boota, ghiabato, rota belari Kannada (2) - mulli balli, mullu balli Marathi (1) - puiti-ligi Sanskrit (2) - Sanskrit Comments  nakhari, sitavalli Tamil (1) - pulichevidu Telugu (3) - purititeega, puritithige, purititige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc92c3119ea0723a250f849c17205c1/xclkon/a38f053eb05a07db76fe57cb0ad2930c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc92c3119ea0723a250f849c17205c1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc92c3119ea0723a250f849c17205c1/xclkon/a38f053eb05a07db76fe57cb0ad2930c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sitavalli
+sanskrit_name: शीतवल्ली
+transliteration: śītavallī
+ref_drug_name: शीतवल्ली
+status: Most probable
+discussion: It has been mentioned under the 'Agurvadya' drugs in Caraka samhita; Cakrapani has intepreted it as 'Vrksakalambuka'; This can be equated with 'Kalambuka' which is a climber that grows on trees; Most probably it is correlated with this species with regard to its features
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

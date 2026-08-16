@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9adbf18a4ccfab843085149dff116ec3
+Botanical Name: Syzygium jambos (L.) ALSTON
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Eugenia jambos L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 89 Vernacular names found in 9 languages. English (2) - jambu, rose apple Hindi (5) - gulab-jamun, gulabjaman, gulabjamun, jamun, sn jambu Kannada (20) - dodda seeme nerale, jaamba, jama, jamba, jambaneradi, jambooneralu, jambu, jambu nerale, jambunerale, jambuneralu, jambunerolu, malle-nerale, mallenerale, nerale sevu, pannaeralu, panneer hannu, pannerale, pannerali, pennerale, punnerl Malayalam (10) - campa, champa, jama, jambavam, jambu, malacca-schambu, malaccaschambu, malakkacampa, malakkachamp, malaykkacampa Marathi (1) - jamb Sanskrit (16) - Sanskrit Comments  brihatphala, campeyah, jambu, jambula, jamburaja, kokileshta, mahajambu, mahanila, mahapatra, mahaphala, nanda, phalendra, rajajambu, shukapriya, surabhipatra, svarnamata Tamil (25) - campai, campu2, campunakai2, campunaval2, camputam, curapikocam, curapikocamaram, cutarica, cutarikamaram, iracacampu1, jampunaval, kutappurikam, kutappurikamaram, makacampu, narinaval3, narinavval3, naval, pannerali, perunaval, perunavval, perunavvalmaram, poti, purimokam 1, sambunagai, sambunaval Telugu (8) - ala-neredu, gulabjama, jambunaeredu, jambuneredu, jamuneredu, pannerale, peddanaeredu, peddaneredu Urdu (2) - aab jamun, sirka jamun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3/xclkon/d329cb507395ddc35a34f08fc7fc08bb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3/xclkon/d329cb507395ddc35a34f08fc7fc08bb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3/xclkon/d329cb507395ddc35a34f08fc7fc08bb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3/xclkon/d329cb507395ddc35a34f08fc7fc08bb
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3/xclkon/d329cb507395ddc35a34f08fc7fc08bb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9adbf18a4ccfab843085149dff116ec3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jambu
+sanskrit_name: जम्बू
+transliteration: jambū
+ref_drug_name: जम्बू
+status: Suggested source
+discussion: This species is nonnative to India and found in Burma
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Jambu
+sanskrit_name: जम्बू
+transliteration: jambū
+image_urls: https://www.medicinalplants.in/slokaimages/1565/1565_1.jpg https://www.medicinalplants.in/slokaimages/1565/1565_2.jpg https://www.medicinalplants.in/slokaimages/1565/1565_3.jpg https://www.medicinalplants.in/slokaimages/1565/1565_4.jpg https://www.medicinalplants.in/slokaimages/1565/1565_5.jpg
+ocr_text: जाम्बवं कफपित्तघ्नं ग्राहि वातकरं परम् |l च.सू २७ २३४ Jambu is grahi, alleviates kapha, pitta and increases vata अत्यर्थ वातलं ग्राहि जाम्बवं कफपित्तजित् | (सुश्रुत सू ४६ २६५) It is grahi, highly increases vata ana alleviates kapha and pitta जाम्बवं वातलं ग्राहि स्वाद्वम्लं कफवातजित् हृत्कण्ठघर्षणं चान्यत् कषायं क्षुद्रजाम्बवम् Il KDhnl Jambava is svadu, amla in rasa, grahi in guna, increases vata, kapha vata jit and hrt kantha gharshana. The other variety of jambu is ksuara jambu which is kasaya in rasa जम्बूः संग्राहिणी रूक्षा कफपित्तास्रदाहजित्| राजजम्बूफलं स्वादु विष्टम्भि गुरु रोचनम्|| (Bpnl Jambu is ruksa, sangrahi in guna, alleviates kapha and pitta, cures asra aaha. Raja jambu phala is svadu in rasa, guru in guna vistambhi and rocana and तन्मज्जा ग्राही विशेषान्मधुमेहहा Il INirl Its majja is tuvara, grahi, and specifically used to cure madhu meha. तुवरो

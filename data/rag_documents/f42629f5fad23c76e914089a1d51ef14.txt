@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f42629f5fad23c76e914089a1d51ef14
+Botanical Name: Clinogyne dichotoma SALISB.
+Family: Marantaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Phrymium dichotoma ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 2 languages. Sanskrit (10) - Sanskrit Comments  bhudra, bhudra-bula, bhudrouduni, ghata, godunika, kulianini, pati, shurakasthika, sitalapa-trika, vulahwa Telugu (1) - palagunda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f42629f5fad23c76e914089a1d51ef14/xclkon/feabb1216518cccba28a11d8430b5c1d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f42629f5fad23c76e914089a1d51ef14
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f42629f5fad23c76e914089a1d51ef14/xclkon/feabb1216518cccba28a11d8430b5c1d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f42629f5fad23c76e914089a1d51ef14
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f42629f5fad23c76e914089a1d51ef14/xclkon/feabb1216518cccba28a11d8430b5c1d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

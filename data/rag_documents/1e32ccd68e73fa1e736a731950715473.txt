@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1e32ccd68e73fa1e736a731950715473
+Botanical Name: Ammannia auriculata WILLD.
+Family: Lythraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ammannia senegalensis LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e32ccd68e73fa1e736a731950715473/xclkon/1b3a2232c137090330fbe6b1998c756a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e32ccd68e73fa1e736a731950715473
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1e32ccd68e73fa1e736a731950715473/xclkon/1b3a2232c137090330fbe6b1998c756a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

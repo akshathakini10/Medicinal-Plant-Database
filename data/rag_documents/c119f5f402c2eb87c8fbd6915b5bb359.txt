@@ -1,0 +1,141 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c119f5f402c2eb87c8fbd6915b5bb359
+Botanical Name: Vigna unguiculata (L.) WALP. subsp. cylindrica (L.) ESELT.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Dolichos catiang L. Dolichos catjang L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 126 Vernacular names found in 9 languages. English (5) - asparagus bean, chowlee, cowpea, gubgub, yawa Hindi (15) - bora, chola, chowli, kulath, kulathi, lobia, lobiya, lota, raish, rausa, rawas, rianish, santa, soonth, souta Kannada (20) - ala-sandi, alasabde, alasande, alasandi, alasandige, alasundi, alsandi, chelaavare, halasande, hurali, hurali jurli, huruli kaayi, kaalu, kaaraamani, kadagani, kursana pairu, kursandi, kursanpayaro, tadagunni, tadagunny Malayalam (5) - alasendi, kottappayar, paeru, payar, vellappayar Marathi (6) - alasunda, chaoli, chavali, chavli, kulith, kulthi Sanskrit (26) - Sanskrit Comments  alasandra, alasandrah, capala, cavala, chapala, chavala, dirghabija, dirghashimbi, dvijasapta, kshudhabhijanaka, kulartha, kulatha, mahamasa, mahamasah, mahamasha, marutkara, nilamasha, nishpava, nripamasha, nripochita, rajamasah, rajamasha, rishpava, sitamasha, sukumara, varvata Tamil (35) - caramunnipayira, caramunny-pyre, ceviriyam, civapputtattaippayiru, ilatai 4, iyavakam#, iyavakam@, kaanam, kaattu ulundu, kantampayaru, karamani, karamanikkay, karamanippayaru, karmani 2, karmanikkoti, kattuppayarrankoti, kollu, kulam, kulappayaru, merkolaki, panavi, panavikkoti, parunkara, parunkaramani, payarrankanni, payarrankannippayaru, payarrankay, payarrankaykkoti, payarrankoti, perunkaramani, peruntattaippayaru, tattaippayarrinkoti, tattankay, tattankaykkoti, thattapayir Telugu (12) - alasandalu, alu-sundi, alusendi, alusundi, boberlu, bobra, duntapesalu, duntu-pesulu, duntuppesalu, kaaraamanulu, vulavalu, wulavalli Tibetan (2) - ra dza sa ste (d), ra dza sa ta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/2f08d8864ba5a56d0b6800fe10f44f99
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/af3da932dd763a152c0da0a4012efbf5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/80ba9690065f8ffe89178a3ad4892b25
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/50731f2f1d9d6935d7eef0174520313e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/ebcc565688815a5cbd3111892818c030
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/63857ea9aa15297666f11131e06c8337
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/2f08d8864ba5a56d0b6800fe10f44f99
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/af3da932dd763a152c0da0a4012efbf5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/80ba9690065f8ffe89178a3ad4892b25
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/50731f2f1d9d6935d7eef0174520313e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/ebcc565688815a5cbd3111892818c030
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/63857ea9aa15297666f11131e06c8337
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/2f08d8864ba5a56d0b6800fe10f44f99
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/af3da932dd763a152c0da0a4012efbf5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/80ba9690065f8ffe89178a3ad4892b25
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/50731f2f1d9d6935d7eef0174520313e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/ebcc565688815a5cbd3111892818c030
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/63857ea9aa15297666f11131e06c8337
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/2f08d8864ba5a56d0b6800fe10f44f99
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/af3da932dd763a152c0da0a4012efbf5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/80ba9690065f8ffe89178a3ad4892b25
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/50731f2f1d9d6935d7eef0174520313e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/ebcc565688815a5cbd3111892818c030
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/63857ea9aa15297666f11131e06c8337
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/2f08d8864ba5a56d0b6800fe10f44f99
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/af3da932dd763a152c0da0a4012efbf5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/80ba9690065f8ffe89178a3ad4892b25
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/50731f2f1d9d6935d7eef0174520313e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/ebcc565688815a5cbd3111892818c030
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/63857ea9aa15297666f11131e06c8337
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c119f5f402c2eb87c8fbd6915b5bb359/xclkon/2f08d8864ba5a56d0b6800fe10f44f99
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rajamasa
+sanskrit_name: राजमाष
+transliteration: rājamāṣa
+ref_drug_name: राजमाष
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Rajamasa
+sanskrit_name: राजमाष
+transliteration: rājamāṣa
+ref_drug_name: राजमाष
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 3
+drug_name: Rajamasa - prajati
+sanskrit_name: राजमाष प्रजाति
+transliteration: rājamāṣa prajāti
+ref_drug_name: राजमाष
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 4
+drug_name: Rajamasa - prajati
+sanskrit_name: राजमाष प्रजाति
+transliteration: rājamāṣa prajāti
+ref_drug_name: राजमाष
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

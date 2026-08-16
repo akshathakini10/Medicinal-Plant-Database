@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 10c009ddee3335e9c1322070d94244f8
+Botanical Name: Trichosanthes tricuspidata LOUR.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Trichosanthes bracteata (LAM.) VOIGT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 103 Vernacular names found in 7 languages. Hindi (10) - ankh phootaniyo veldi, ankh-phootaniyo-veldi, ilaru, indrayan, lal indrayan, lal-indravan, lal-indrayan, lalindrayan, mahakal, makal Kannada (14) - avagoode kaayi, avagude, avagude-hannu, avagudehannu, haavumekke, hiri haavumekke, kaage mandala, kaage mari gida, kaage thonde balli, kaagemari balli, kaakimandali, kakemandali, kavade balli, kavandalu Malayalam (3) - kakatonti, kakkattonti, kattuvellari Marathi (5) - kaundal, kavandala, kkaundala, koundal, mukal Sanskrit (9) - Sanskrit Comments  dhvamksanasa, dindisa, indravaruni, kakanasa, mahakal, mahakala, patola, tindisah, visala Tamil (46) - aconam, aconti, ankorattai, attumaratcai, calliyam, cavari, cavarikkoti, cavarilottiram, cavuri, cavurikkoti 2, cavurikkottu 2, cavurippalam, cavurippazam, cinnavi, cinnavicceti, cirukurattai, coruttei, ghowree, kakkalai, kakkalaikkoti, kararkurattai, korattai, korattaikkoti, kurattai, makakalam, metakacakkoti, metakam, miriyarkuntal 2, miriyarukuntal 2, narayananpputu, nentarappul, netiya, netiyakkoti, panankorai, pepoodel, peypputal, pinacakkurattai, sauvarai, savari, shavari-pazham, shavaripalam, shavaripazlam, tarunacepikakkoti, tarunacepikam, vakacati, vikacati Telugu (16) - aabuda, aabuvva, abuba, abuva, aguba, avaduta, avaguda, avagudapandu, avuduta, avvadootha, avvagooda, avvagoodapandu, avvaguda, donda, kaaidonda, kakidonda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2125
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2125.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d42862165a7158239f78e1702c7d9509
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d42862165a7158239f78e1702c7d9509
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d42862165a7158239f78e1702c7d9509
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d20b123488676803b3a199344d789db9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/d42862165a7158239f78e1702c7d9509
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8/xclkon/9f91fec85fa27e205b8b73f3d416ea6b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10c009ddee3335e9c1322070d94244f8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Indravaruni
+sanskrit_name: इन्द्रवारुणी
+transliteration: indravāruṇī
+image_urls: https://www.medicinalplants.in/slokaimages/414/414_1.jpg https://www.medicinalplants.in/slokaimages/414/414_2.jpg https://www.medicinalplants.in/slokaimages/414/414_3.jpg
+ocr_text: इन्द्रवारुणिकाडत्युष्णा रेचनी कटुका तथा | कृमिश्लेष्मव्रणान् हन्ति सर्वोदराण्यपि| | इन्द्रवारुद्वयं तिक्तं कटु पाके विर्योष्णं कामलापित्तकफश्लीपदनाशनम I KDhni Indravarunika is katuka atyusna, recani, and cures krmi, slesma vrana and sarodara Indravaru dvaya is tikta and katu in rasa laghu in guna usna in veerya, katu in paka, alleviates pitta and kapha, cures kamala and slipada रसे लघु | इन्द्रवारुणिका तिक्ता कटुः शीता च रेचनी | गुल्मपित्तोदरश्लेष्मककृमिकुष्ठज्वरापहा महेन्द्रवारुणी ज्ञेया पूर्वोक्तगुणभागिनी | रसे वीर्यो विपाके च किंचिदेषा गुणाधिका|| (jn) Indravarunika is tikta, katu in rasa, sita in veerya is recani, cures gulma, pittodara slesma, krmi, kustha and jvara. Mahendra varuni similar properties to the above. more potent with respect to rasa, virya and vipaka गवाद्रनीद्वयं तिक्तं पाके कटु सरं लघु [ वीर्योष्णं कामलापित्तकफप्लीहोदरापहम् कासश्वासापहं कुष्ठगुल्मग्रन्थिव्रणप्रणुत् प्रमेहमूढगर्भामगंडामयविषापहम् [ T (Bpn) Gavadranidvayam is tikta in rasa sara,laghu in guna usna in virya katu in paka, alleviates pitta and kapha,cures pliha, udara,prameha, muda garbha, gandamaya and visha

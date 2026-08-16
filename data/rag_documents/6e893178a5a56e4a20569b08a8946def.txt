@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6e893178a5a56e4a20569b08a8946def
+Botanical Name: Melaleuca leucadendron L.
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Melaleuca cajaputi ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 4 languages. English (1) - cajuput oil Kannada (1) - kaaj pute aenne mara Marathi (3) - cajuputa, kaajputi, kaayaakuti Tamil (4) - kaiya pputai, kaiyappudai, kaiyapputai, kayyapooti tayilam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e893178a5a56e4a20569b08a8946def
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e893178a5a56e4a20569b08a8946def/xclkon/a534140bf141c128d9437bec650fa930
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e893178a5a56e4a20569b08a8946def
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e893178a5a56e4a20569b08a8946def/xclkon/a534140bf141c128d9437bec650fa930
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e893178a5a56e4a20569b08a8946def
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

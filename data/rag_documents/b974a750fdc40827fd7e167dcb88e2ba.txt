@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b974a750fdc40827fd7e167dcb88e2ba
+Botanical Name: Gloriosa superba L.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 248 Vernacular names found in 10 languages. English (3) - climbing lily, flame lily, glory lily Hindi (18) - bachnag, carrihari, kalhar, kaligari, kalihari, kalihari sans.n. langalie, kariari, karihari, karkari, karlari, kathari, kulhari, lakya, lalukhri, langali, langli, langlya, languli Kannada (41) - aghni shikhe, aginsikhe, agni sikhe, agnisikhe, akka thangi balli, akkatangaballi, balipaapu, balipapu, bennebidiru, chavathi hoo, chowthi hoo, gowri gadde, huliyuguru, indrana gedde, jokumaarana balli, kandi kannina gadde, karadekannu, karadi kannina gedde, karadikanninagadde, kenchan daapu, kenkannadapu, koli kutumana gedde, kolikuttuma, kolikutuma, kolikutumana balli, kolikutumana gedde, naagaleekana gedde, naangalika, naangulika, nangulika, onapoo, onapu, shishira rakthaballi, shivaraktiballi, shivashakthi, shivashakti, sivaraktaballi, sivaraktiballi, sivasaktiballi, totil, wanahavu Malayalam (11) - kandal, kantal, kithonni, macttoennui, malattamara, manthori-kizhangu, melloni, mendoni, mentonni, mettonni, ventoni Marathi (13) - bach-nag, bachnag, indai, kala-lavi, kalalaavi, kallavi, karianag, khadyanag, nagakaria, nagarika, nagkaria, vagh-batasko, vaghahyo-davlyo arti Sanskrit (45) - Sanskrit Comments  agnijvala, agnimukhi, agnisikha, agnisikkha, ahijihoa, amrita, ananta, dipta, ga pushpasaurabha, garbhagatini, garbhanut, garbhapatani, garbhapatini, garbhhaghhatini, hali, halini, haripriya, hiranyapuspi, indrapushpika, indrapuspi, kalihari, kalikari, kalikarika, kanakapuspi, kandali, langala, langalahvaya, langalaka, langalakhya, langalaki, langali, langalika, langaliki, languli, nakta, rbhanuta, shakrapushpi, sikkhajihoa, sukrapushpika, svarnapushpa, vanhivaktra, visalya, vishalya, vranahrita, vudyutajvala Tamil (78) - akkinichilam, alalavayiram, anantai 4, anaravam, anaravan, anarvan, ancanala 2, centonri, cevakanar kilanku, cevakanputu, chevaganar-kizhangu, cikappukkantal, civacaktivalli, civanarkilanku, civappukkantal, ilangali, ilankali, intuputpikam, iradi, irati 2, iratiputam, irumbu, irumpu, irumputu, itankali k kilanku, kaanthal kizhangu, kai 2, kairam, kalaippaik-kizhangu, kalapai-k-kilanku, kalapai-kilang, kalappai kizhangu, kalappai-k-kilanku, kalappaikizhangu, kalappaikkilangu, kalappaikkilanku, kalappaikkilankucceti, kalappakilangu, kalappankizhangu kaanthal, kalippaikizhangu, kandal, kannovu, kannovuppuntu, kannuvelli, kantakkilanku, kantal, kantavacikaram, kantavacikarappu, karltigaikkilangu, karthigai kilang, kartikkai-kizhangu, karttikai, karttikai-k-kilanku, karttikaik-kizhangu, karttikaippu, kodai, kotai, kurincippu, kurutikkantal, milankali 1, milankili, nabhikkodi, nalavitatatcani, napikkoti, navikkilanku, naviyam, nayani, nerivitam, parai, parparai, tiptam, tonri, totti, turrukkatu, vellai-nabhi, ven thondri, venton rikkilanku, ventonri 2 Telugu (35) - adavi nabhi, adavi-nabhi, adaviabhi, adavinaabhi, adavinabhhi, adavinabhi, adavinabi, agni sikha, agni-shikha, agnishikha, agnisikha, agnisikhha, deyyapu mokka, deyyapu poola chettu, ganjeri, kalaga puvvu, kalapagadda, kalapangadda, kalappa-gadda, kandiakoti aaku, kannu nopi mokka, laangali, langali, nabhi, posalapoligodi gadda, pothi, poththinabhi, potti dumpa, potti nabhi, potti-dumpa, pottidumpa, pottinaabhhi, pottinabhi, pottudumpa, vasa naabhi Tibetan (2) - la nga la (p), la nga li Urdu (2) - kanol, kulhar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1052
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1052.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b974a750fdc40827fd7e167dcb88e2ba
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Langalaka
+sanskrit_name: लाङ्गलक
+transliteration: lāṅgalaka
+ref_drug_name: लाङ्गलक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Langali
+sanskrit_name: लाङ्गली
+transliteration: lāṅgalī
+ref_drug_name: लाङ्गली
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Visalya
+sanskrit_name: विशल्य
+transliteration: viśalya
+ref_drug_name: विशल्य
+status: Accepted source
+discussion: Many synonyms were given to it and one among them was Agnisikhavriksa which is also a synonym of Langali; Langali is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Langali
+sanskrit_name: लाङ्गली
+transliteration: lāṅgalī
+image_urls: https://www.medicinalplants.in/slokaimages/803/803_1.jpg https://www.medicinalplants.in/slokaimages/803/803_2.jpg https://www.medicinalplants.in/slokaimages/803/803_3.jpg
+ocr_text: लाङ्गली कटुरुष्णा च कफवातविनाशिनी | तिक्ता सरा श्वयथुगर्भशल्यव्रणापहा न( IDhnl Langali is katu, tikta in rasa, sara in guna, usna in veerya, destroys kapha ana vata, cures svayathu, garbha salya ana vrana. कलिहारी कटूष्णा च कफवातनिकृन्तनी | गर्भन्तः शल्यनिष्कासकारिणी सारिणी परा| | (ग.नि) Kaliahari is katu in rasa, usna in veerya, alleviates kapha and vata garbhanta, salya niskasakarini (removes substances , sarini para. foriegn कलिहारी सरा कुष्ठशोफर्शोव्रणशूलजित् सक्षारा श्लेष्मजित् लघ्वी पित्तला गर्भपातिनी ( IBpn) Kalihari is sara in guna, cures kustha, sopha, arsa, vrana and sula. Its Ksara is laghu Buna, alleviates slesma, increases pitta ana garbhapatani.

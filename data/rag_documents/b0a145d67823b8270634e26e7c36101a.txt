@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b0a145d67823b8270634e26e7c36101a
+Botanical Name: Sebastiana chamaelea MUELL.-ARG.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 3 languages. Kannada (2) - bhoomiaerendi, nelaharalu Marathi (1) - bhumy-eramd Tamil (12) - eli-amanaku, kuruvika, kuruvikacceti, nilakkonti, nirppanai, nirppanaicceti, pullamanakku, toraiyacceti, toraiyam, unnamakatakkoti, unnamakatam, valiyamanakku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b0a145d67823b8270634e26e7c36101a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b0a145d67823b8270634e26e7c36101a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b0a145d67823b8270634e26e7c36101a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

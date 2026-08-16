@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 28342ccb2220a6664e346dc80c25efc4
+Botanical Name: Areca catechu L.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 200 Vernacular names found in 10 languages. English (4) - areca nut, betel palm, betelnut, pinang Hindi (4) - supari, supiari, suppari, supyari Kannada (24) - adake, adaki, adike, adike kaayi, adike mara, betta, bettadake, bettadike, bette, chautaki, chikaniyadike, chikke, cikaniyadike, cikke, gotadike, kangu, kaungu, khapura, khhapura, kowngu, puga, pugiphala, tambula, thaamboolagotu Malayalam (28) - adaka, adakai, adakka, atakka, ataykkamaram, atekka, atekkai, caunga, cavooghoo, chempalukka, cuanga, ghhonta, ghonta, kalunnu, kamugu, kamuka, kamuku, kamunnu, kavungu, kavunnu, kazhangu, kazhunnu, khhapuram, kramukam, pakavakka, pakka, pakku, pugam Marathi (7) - madi, pophal, pophala, pophali, pung, supaaree, supari Sanskrit (32) - Sanskrit Comments  a, akota, akotaja, chhataphala, chikkana, dirghapadapa, dridhavalkala, ghonta, gopadala, gubak, guvaka, kabukah, kapitana, karamattam, khapura, khipura, kramuka, kramukah, kramukam, kuvara, phalam, pooga, puga, puga-phalam, pugah, pugi, rajatala, suranjana, tambula, tantusara, udvegam, valkataru Tamil (65) - akotam, ataikkay, cakuntam#, cakuntam@, cakuntikai, cakuntikaimaram, cattamarkkam, ciram 2, curancanam, inippilapatitam, inippilatitamaram, iracatalam, kaiccikam, kaiccikamaram, kalacattiram, kalaymaram, kamugu, kamuku, kandi, kanti, kapuram#, kapuram@, katti, kiramamuki 1, kiramamukimaram, kiramugam, kiramukam, kiramukam#, kiramukam@, kirantimukam, kirumukam, kontai 2, kottai paakku, kottai pakku, kottai-pakku, kugagam, kukacamaram, kukakam, kuntal 2, kuvakam, maturapakam, maturapakamaram, nattukkamuku, paak, pakku, pakkumaram, pakkuppanai, paku-kotai, palacankiyam, palacinikiyamam, piramataru, piramatarucam, pirumaniyam, pugam, pukaram 1, putakam, talattiram, tampulavatanimaram, tantucaram, tantucaramaram, tarpati, taru, tiritavalkam, tuvarkkay, tuvarkkaymaram Telugu (18) - chikinamu, chikini, gautupoka, kazhangu, khapuramu, kolapoka, kramukamu, oppulu, oppuvakkulu, pakavakka, pogamu, poka, poka chettu, poka-vakka, prakka, pugamu, vakka, vakkalu Tibetan (6) - gla gor zo sa, go yu, kra ma ka (p), kra mra sa, sla bor se sa (d), zu (m) khan Urdu (12) - chalia jalai hui, chalia purani jalai hai, chalia sokhta, chhalia, chhalia kohna sokhta, chikni chhalia, fufal (chalia), gond supari, gul supari, katha, supari, supari chikni pisi hui
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/28342ccb2220a6664e346dc80c25efc4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Puga
+sanskrit_name: पूग
+transliteration: pūga
+ref_drug_name: पूग
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Puga
+sanskrit_name: पूग
+transliteration: pūga
+ref_drug_name: पूग
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Puga
+sanskrit_name: पूग
+transliteration: pūga
+image_urls: https://www.medicinalplants.in/slokaimages/152/152_1.jpg https://www.medicinalplants.in/slokaimages/152/152_2.jpg
+ocr_text: आमं पूगं कषायं मुखमलशमनं कण्ठशूद्धि विधत्ते | रक्तमश्लेष्मयघ्नं रुचकरमुदितं पाचनं रेचनं स्यात्| तत्पूर्णेनायुतञ्चेत् झटिति वितनुते पाणडुवातं च शोषम् IRjn ) Ama puga is kasaya in rasa, rucikara, pacana recana, mukhamala samana, kantha suadhi kara, alleviates rakta ana slesma, causes pandu and sosa if taken in excess पूगं गुरु हिमं रूक्षं कषायं कफपित्तजित् मोहनं दीपनं रुच्यम्डडस्यवैरस्यनाशनम्| आर्द्रं तत गुर्वभिष्यन्दि वहिदृष्टिहरं समृतम् स्विन्नं दोषत्रयच्छेदि तदुत्तमम् IBpn | Puga is kashaya in rasa, guru, ruksa in guna, hima in veerya, is mohana dipana, rucya, alleviates kapha, pitta and asyavairasya. Ardra puga is guru in guna, abhisyandi, svinna, vahni drsti hara, dosha traya chedi, drdha madhya is considered the best. दृढमध्यं

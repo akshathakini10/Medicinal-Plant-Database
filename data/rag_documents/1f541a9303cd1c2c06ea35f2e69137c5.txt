@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1f541a9303cd1c2c06ea35f2e69137c5
+Botanical Name: Cleome felina L. F.
+Family: Cleomaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Polanisia felina DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 4 languages. Kannada (1) - adavi saasive Sanskrit (1) - Sanskrit Comments  swarnakshira Tamil (3) - cuvarnaciri, taivelai, thai velai Telugu (1) - erra vointa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f541a9303cd1c2c06ea35f2e69137c5/xclkon/74742c130b454186fa15653c7b921e91
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 577
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/577.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f541a9303cd1c2c06ea35f2e69137c5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f541a9303cd1c2c06ea35f2e69137c5/xclkon/74742c130b454186fa15653c7b921e91
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f541a9303cd1c2c06ea35f2e69137c5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f541a9303cd1c2c06ea35f2e69137c5/xclkon/74742c130b454186fa15653c7b921e91
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f541a9303cd1c2c06ea35f2e69137c5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1f541a9303cd1c2c06ea35f2e69137c5/xclkon/74742c130b454186fa15653c7b921e91
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 23560b9b67ca343bcdf864e2d6f372fa
+Botanical Name: Gnetum edule (WILLD.) BL.
+Family: Gnetaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Gnetum scandens ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. Kannada (3) - navuru-katte, navurukatte, nourukatte Malayalam (2) - nowukatte, ula Tamil (1) - anapendu Telugu (7) - apajuttili, apzutsulu, kaloi, kalol, loluga tige, luliti, lulludi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/23560b9b67ca343bcdf864e2d6f372fa
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/23560b9b67ca343bcdf864e2d6f372fa/xclkon/b46e4d37cde975ae3e656adcf5ff94af
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/23560b9b67ca343bcdf864e2d6f372fa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

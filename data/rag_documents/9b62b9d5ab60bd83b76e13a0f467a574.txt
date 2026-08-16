@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9b62b9d5ab60bd83b76e13a0f467a574
+Botanical Name: Euphorbia trigona HAW.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 4 languages. Kannada (1) - mandagalli Sanskrit (8) - Sanskrit Comments  nanda, nisrnsapatra, snuhi, snuk, sudha, tidharasehundabheda, vajra, vajravrksa Tamil (8) - kalli6, kattimantu, mandangalli, mantankalli, mantankalli@, muntukalli#, muntukalli@, palkalli Telugu (7) - cattimandoo, cattimandu, kathimandu, kattimandu, kundigi, mudumula-jemudu, mudumulajemudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b62b9d5ab60bd83b76e13a0f467a574
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b62b9d5ab60bd83b76e13a0f467a574
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b62b9d5ab60bd83b76e13a0f467a574
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Snuhi
+sanskrit_name: स्नुही
+transliteration: snuhī
+ref_drug_name: स्नुही
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+Identity Record 2
+drug_name: Snuhi - jati
+sanskrit_name: स्नुही जाति
+transliteration: snuhī jāti
+ref_drug_name: स्नुही
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Snuhi
+sanskrit_name: स्नुही
+transliteration: snuhī
+image_urls: https://www.medicinalplants.in/slokaimages/707/707_1.jpg https://www.medicinalplants.in/slokaimages/707/707_2.jpg https://www.medicinalplants.in/slokaimages/707/707_3.jpg
+ocr_text: सेहुण्डको रसे तिक्तो गुरूष्णः कफवातजित् दुष्टव्रणाश्मरीं हन्ति तथा वातविशोधनः | | स्नुहीक्षीरं विषाडडमगुल्मोदरहरं परम् स्नुही रस्षु तिक्ता च गुरूष्णा कफवातजित् IDhn) Sehunaaka is tikta in rasa, guru in guna usna in veerya , vata sodhana alleviates kapha, vata, dusta vrana and asmari. Snuhiksira alleviates visha, ama, gulma and udara Snuhi rasa is tikta in rasa, guru in guna, usna in veerya, alleviates kapha vata and स्नुहिरुष्णा ष्ठवातप्रमेहनुत् क्षीरं वातविषाउडध्मानगुल्मोदरहरं परम् स्नुहिरन्या त्रिधारा स्यात् तिस्रो धारास्तु यत्र सा| पूर्वोक्तगुणवत्येषा विशेषाद् रसाद्धिदा IRjn Snuhi is usna in veerya , alleviates pitta, daha, kustha, vata and prameha Ksira alleviates vata, visha, aahmana, gulma and uaara Snuhi anya is triahara which hastri dhara ana is similar to the above but is rasa adhika. पित्तदाकु स्नुक्पयः तीक्ष्णविरेचनानाम् (चरकसंहिताया दृढबलः) Snuk payaha is tiksna virecana.
+
+Shloka Record 2
+drug_name: Snuhi - jati
+sanskrit_name: स्नुही जाति
+transliteration: snuhī jāti
+image_urls: https://www.medicinalplants.in/slokaimages/707/707_1.jpg https://www.medicinalplants.in/slokaimages/707/707_2.jpg https://www.medicinalplants.in/slokaimages/707/707_3.jpg
+ocr_text: सेहुण्डको रसे तिक्तो गुरूष्णः कफवातजित् दुष्टव्रणाश्मरीं हन्ति तथा वातविशोधनः | | स्नुहीक्षीरं विषाडडमगुल्मोदरहरं परम् स्नुही रस्षु तिक्ता च गुरूष्णा कफवातजित् IDhn) Sehunaaka is tikta in rasa, guru in guna usna in veerya , vata sodhana alleviates kapha, vata, dusta vrana and asmari. Snuhiksira alleviates visha, ama, gulma and udara Snuhi rasa is tikta in rasa, guru in guna, usna in veerya, alleviates kapha vata and स्नुहिरुष्णा ष्ठवातप्रमेहनुत् क्षीरं वातविषाउडध्मानगुल्मोदरहरं परम् स्नुहिरन्या त्रिधारा स्यात् तिस्रो धारास्तु यत्र सा| पूर्वोक्तगुणवत्येषा विशेषाद् रसाद्धिदा IRjn Snuhi is usna in veerya , alleviates pitta, daha, kustha, vata and prameha Ksira alleviates vata, visha, aahmana, gulma and uaara Snuhi anya is triahara which hastri dhara ana is similar to the above but is rasa adhika. पित्तदाकु स्नुक्पयः तीक्ष्णविरेचनानाम् (चरकसंहिताया दृढबलः) Snuk payaha is tiksna virecana.

@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ff51869d5308f41a86003fb8c05d7e05
+Botanical Name: Saussurea auriculata (DC.) SCH.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Aplotaxis auriculata DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 6 languages. Hindi (5) - kust, kut, nurya, pokharmul, thimra Kannada (2) - koshta, kosuta Malayalam (1) - seppudday Sanskrit (2) - Sanskrit Comments  kustham, puskaramulam Tamil (6) - chagalkoshtam, goshtam, gostan, jathikoshtam, koshtam, kottam Telugu (3) - chengulva, kostu, kustam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff51869d5308f41a86003fb8c05d7e05
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1867
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1867.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff51869d5308f41a86003fb8c05d7e05/xclkon/fea2f43b082d496122dd7971ef4bd6e4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff51869d5308f41a86003fb8c05d7e05
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff51869d5308f41a86003fb8c05d7e05/xclkon/fea2f43b082d496122dd7971ef4bd6e4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff51869d5308f41a86003fb8c05d7e05
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

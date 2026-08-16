@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 482ec2e8fa12c967dd3f7f2df646a992
+Botanical Name: Justicia procumbens L.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Rostellularia procumbens (L.) NEES.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 72 Vernacular names found in 7 languages. Hindi (2) - kagner, makhania ghas Kannada (3) - huchhu nelabaevu, nela bevu, nucchu nelabevu Malayalam (1) - tsjeru-tardavel Marathi (2) - ghati-pittapapada, ghatipithpapra Sanskrit (5) - Sanskrit Comments  kavacanamaka, pansuparyaya, parpata, renu, varatikta Tamil (58) - ampalakkotakam, aracalai, aram 3, cailakotacalai, cailakotakam, calai 2, calaippuntu, cataikarantippuntu, cataiyotti, cicul, ciculakacalai, ciculakam, citalakacalai, citalakam 2, citalam 3, citanacalai, citanam, cornam, cornam 2, cornapputu, kamalakam, kanteru, kanterucalai, kanterukam, kanterukappuntu, kentakacalai, kentakam, kentan, kentanam, kentancalai, kodagasalai, kotacalai, kotaculi, kotacuri 1, kotakacalai, kukkuram, kuncantatikacceti, kuncantatikam, kuracalai, kuram, kurampakam, kuranam 2, maram, marayam, mutimelalaki, nalilaippairavi, nalilaippairavikkoti, nerei-poottie, neri pooti, niraiputti#, niraiputti@, ottippul, ottotti, rananayakacceti, rananayakam, tacaiyottiyilai, tauttiyacalai, vittupinnam Telugu (1) - naaga pootta chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992/xclkon/14be3b932e6d0823cb6b0e447d01fd36
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992/xclkon/14be3b932e6d0823cb6b0e447d01fd36
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992/xclkon/14be3b932e6d0823cb6b0e447d01fd36
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/482ec2e8fa12c967dd3f7f2df646a992/xclkon/14be3b932e6d0823cb6b0e447d01fd36
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Parpata
+sanskrit_name: पर्पट
+transliteration: parpaṭa
+ref_drug_name: पर्पट
+status: Controversial
+discussion: Parpata was a very useful drug but in due course of time it turned out to be controversial and its usage started diminishing; Presently many drugs are being used as Parpata and this species is one among them
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Parpata
+sanskrit_name: पर्पट
+transliteration: parpaṭa
+image_urls: https://www.medicinalplants.in/slokaimages/5/5_1.jpg https://www.medicinalplants.in/slokaimages/5/5_2.jpg https://www.medicinalplants.in/slokaimages/5/5_3.jpg
+ocr_text: पर्पटः शीत्तलस्तिक्तः पित्तश्लेष्मज्वरापहः रक्तदाहारुग्लानिमदभ्रमविनाशनः || (Dhn, Rjn) Parpata is tikta in rasa, sita in veerya, alleviates pitta, slesma, jvara, rakta, daha, rug, glani, mada and bhrama. पर्पटो हन्ति पित्तास्रभ्रमतृष्णाकफज्वरान्| संग्राही शीतलस्तिक्तो दाहनुद् वातलो लघुः|| (Bpn) Parpata is tikta in rasa, laghu in guna, sita in veerya, sangrahi, increases vata alleviates pitta, asra, bhrama, trsna, kapha, jvara and daha पर्पटो दाहज्वरजित कफशोष्णः (Rjv) Parpata is kapha sosana, alleviates pitta, daha and ivara. पित्तहृत्

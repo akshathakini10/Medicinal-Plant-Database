@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 423f3725c7db83c8cf32efc33e407ee4
+Botanical Name: Argyreia malabarica CHOISY
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 4 languages. Kannada (4) - kudure balli, maasoota, mosuti, musute Malayalam (3) - kattukalangu, kattukelengu, kattukilannu Sanskrit (1) - Sanskrit Comments  vrddhadaruka Tamil (15) - akayappuritakkoti, akayappuritam, cirumucuttai, katalatakkam, katalatakki, katalatakkikkoti, katalkalakki, katalkalakkicceti, katarkalakki, paymoostey, perumucuttai, peyccinki, peyccinkikkoti, peymucuttai, peymusti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/423f3725c7db83c8cf32efc33e407ee4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/423f3725c7db83c8cf32efc33e407ee4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/423f3725c7db83c8cf32efc33e407ee4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vrddhadaruka - prajati
+sanskrit_name: वृध्ददारुक प्रजाति
+transliteration: vṛdhdadāruka prajāti
+ref_drug_name: वृध्ददारुक प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

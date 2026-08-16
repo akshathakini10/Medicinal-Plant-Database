@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a276680d3a3256fe4802cf672c6075a2
+Botanical Name: Strychnos minor DENNST.
+Family: Loganiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. English (1) - snake wood Malayalam (1) - scheru-katu-valli-kaniram Sanskrit (1) - Sanskrit Comments  tindukia
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a276680d3a3256fe4802cf672c6075a2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1993
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1993.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a276680d3a3256fe4802cf672c6075a2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a276680d3a3256fe4802cf672c6075a2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

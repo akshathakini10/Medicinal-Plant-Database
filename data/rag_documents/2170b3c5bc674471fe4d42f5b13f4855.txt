@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2170b3c5bc674471fe4d42f5b13f4855
+Botanical Name: Plumbago auriculata LAM.
+Family: Plumbaginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Plumbago capensis THUNB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 4 languages. Kannada (5) - neeli chithramoola, neeli chitra moola, nila-citramula, nilachitramula, nilacitramula Sanskrit (5) - Sanskrit Comments  chitraka, krishtnachitraka, nilacitraka, nilagnishikha, nilashikha Tamil (14) - alakalavitaniram, karun-kodi-ver, karunkodiveli, karunkotiveli, karuppu-c-cittira mulam, karuppu-chittira-mulam, kodiveli, nilaccittiramulam, nilagodiveli, nilakkotiveli#, nilakkotiveli@, nilakkotuveli, nilanirakkotiveli, nilaveli Telugu (4) - nalla chithra moolamu, nalla chitrmulamu, nallachitramulam, nallacitramulamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855/xclkon/92eadf0b2b53171a8757322853dfbeb1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855/xclkon/92eadf0b2b53171a8757322853dfbeb1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2170b3c5bc674471fe4d42f5b13f4855/xclkon/92eadf0b2b53171a8757322853dfbeb1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Citraka - prakara
+sanskrit_name: चित्रक प्रकार
+transliteration: citraka prakāra
+ref_drug_name: चित्रक प्रकार
+status: Market source
+discussion: This species is correlated to the blue variety of Citraka. Its originally from South Africa
+reference: [3]
+
+Identity Record 2
+drug_name: Citraka - rakta
+sanskrit_name: चित्रक रक्त
+transliteration: citraka rakta
+ref_drug_name: चित्रक प्रकार
+status: Market source
+discussion: This species is correlated to the blue variety of Citraka. Its originally from South Africa
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

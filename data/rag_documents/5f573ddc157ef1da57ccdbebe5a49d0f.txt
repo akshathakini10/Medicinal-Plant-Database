@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5f573ddc157ef1da57ccdbebe5a49d0f
+Botanical Name: Citrus grandis (L.) OSBECK
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Citrus decumana L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 106 Vernacular names found in 10 languages. English (6) - narinjin, pampelmousse, pomelo, pompelmous, pummelo, shaddock Hindi (9) - batavi nimbu, batavinebu, batavinembu, bijaura, chakot, chakotra, chakutra, mahanibu, sadaphal Kannada (31) - ameel baide, amilbaid, amlabhedi, arilabhedi, cakkota, cakkotara, cakkotu, cakkulli, cakora, cakotara, cakotra, chakkota, chakkothara hannu, chakkothi, chakkotti, chakkulli, chakora, chakotha hannu, chakothra, chakotra, chakotre, chakuli, chakurra, doddile, kahi chakkotha, pampari, sakkota, sakkotti, sakotra, sakotra hannu, sakotti Malayalam (4) - bambilinarakam, bambitinarakam, kamblinaragam, pamparamasam Marathi (8) - goda mahalunga, hid, mahanimboo, panis, papnas, papnasa, papnassa, toromjin Sanskrit (2) - Sanskrit Comments  madhukarkati, parvata ? Tamil (32) - aruttiramacu, aruttiramacuppalam, bombalinas, inippelumiccai, inippunarattai, kotinarattai2, macupalam, maturacampiram, metukku, nittakavam, nittakavamaram, paimacu, paimacuppalam, pambalimasu, pampalimacu, pampilimacu, pappali2, pappalimacu, perunarattai, pmpalienaram, pombalimas, pommacu, pommalimacu, purutatikam, purutatikappalam, puttayippalam, tenrotam, tentirimiccai, tentirimiccaimaram, tiirivatikam, tirivatikamaram, tittippuelumiccai Telugu (12) - chakkothera, edapandu, gajanimma, palla pumpara panasa, pampalamasam, pampampanasa, pampamparasa, pampara, pamparamasam, pampilmos, pomparapanasa, pullapamparapanasa Tibetan (1) - ma-tu Urdu (1) - chakutrah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/27406e23f13ffcfd8ced6d5137697ab1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/27406e23f13ffcfd8ced6d5137697ab1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/27406e23f13ffcfd8ced6d5137697ab1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/27406e23f13ffcfd8ced6d5137697ab1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/27406e23f13ffcfd8ced6d5137697ab1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5f573ddc157ef1da57ccdbebe5a49d0f/xclkon/582cbedbf7c2787de1cd8959ec4040ad
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

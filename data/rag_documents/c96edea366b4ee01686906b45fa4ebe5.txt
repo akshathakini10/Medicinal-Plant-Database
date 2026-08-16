@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c96edea366b4ee01686906b45fa4ebe5
+Botanical Name: Coriandrum sativum L.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 165 Vernacular names found in 10 languages. English (2) - coriander, dhani Hindi (6) - dhania, dhaniya, dhaniyam, dhanya, kotmir, kottmir Kannada (14) - dhaniya, dhanya, dhanya beeja, haveeja, havija, kotambari, kotambri-beeja, kothambari, kothambri, kothimari, kothimbri, kothumbari, kottamari-bija, kotthumbari soppu Malayalam (6) - kotta-malli, kottam-palari, kottamalli, kottampala, kottampalari, malli Marathi (7) - dhane, dhanya, khotbir, khotmir, kothimbir, kothmir, kotmir Sanskrit (33) - Sanskrit Comments  ababika, allaka, cchatra, chhatra, dhana, dhanaka, dhaneyaka, dhanika, dhanikataila, dhaniyaka, dhanna, dhanya, dhanyabija, dhanyaka, dhanyakam, dhennika, hridyagandha, janapriya, kunati, kustumbari, kustumbaru, kustumbura, kustumburi, nisara, shakayogya, sugandhi, sukshmapatra, titumkam, titunnakam, tumbaru, vedhaka, veshana, vitunnaka Tamil (63) - arainili, aritaravanci, avarika, cottamillie, cukkumapattiram 2, cuvacakkini, irutayakantam, kacukati, kacukatimalli, karuncenkai, koddumalli, kotamalli, kothamalli, koththamalli, koththumalli, kothumalli, kottamalli, kottamallicceti, kottumalli, kulirmati, malli 4, muti, natamatirai, navu, takkaniyam, tanakacceti, tanakam#, tanakam$, tanakam@, tanakamalli, tanakam~, tanattaniyam, tanica, tanika, tanikai, tanikakki, tanikam#, tanikam@, tanikamalli, tanittalikam, taniya, taniyakam#, taniyam, taniyan, teni 2, tenikai, tenukam, thania, titcanakalkam, titcanapalai 2, titcanapattiram 2, tumpuru, tuvicam, uraiyiculi, uri#, uri@, urini, urinicceti, urularici, uttamapari, uttampari, vacantiram, vacantiramalli Telugu (8) - daniyalu, danyaalu, danyalu, dhaniyaalu, dhanyalu, kothamiri, kothimiri, kotimiri Tibetan (1) - u su Urdu (25) - danya kushk bariyan, dhania, dhaniya, dhanya, dhanya khushk, dhanya khushk bariyan, dhanya khusk, dhanyay ka maghz bhoona hua, hara dhanya, kishm
+iz khushk, kishmeez khusk, kishmiz khushk, kishmiz khusk, kishneex khusk, kishneez khushk, kishneez khusk, kishniz, kishniz khushk, kishniz khushk nim kofta, kishniz khusk, kishniz sabz, kothmir, kouthmir, magh-i-kishniz biryan, maghz kishniz nim kofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c96edea366b4ee01686906b45fa4ebe5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhaanya
+sanskrit_name: धान्य
+transliteration: dhānya
+ref_drug_name: धान्य
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Dhanyaka
+sanskrit_name: धान्यक
+transliteration: dhānyaka
+ref_drug_name: धान्यक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Dhanyaka
+sanskrit_name: धान्यक
+transliteration: dhānyaka
+ref_drug_name: धान्यक
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dhanyaka
+sanskrit_name: धान्यक
+transliteration: dhānyaka
+image_urls: https://www.medicinalplants.in/slokaimages/68/68_1.jpg https://www.medicinalplants.in/slokaimages/68/68_2.jpg https://www.medicinalplants.in/slokaimages/68/68_3.jpg https://www.medicinalplants.in/slokaimages/68/68_4.jpg https://www.medicinalplants.in/slokaimages/68/68_5.jpg https://www.medicinalplants.in/slokaimages/68/68_6.jpg
+ocr_text: धान्यकं मधुरं शीतं कषायं पित्तनाशनम् ज्वरकासतृषाच्छर्दिकफहारि च दीपनम् II (Rjn) Dhanyakam is madhura, kashaya in rasa, sita in paka, pitta nasana cures jvara, kasa, irsa, chardi, kapha and is dipana रोचनं दीपनं वातज फदौर्जध्यbाशbोम् | (C.S.Su २७) Dhanyaka is rocana, pacana, alleviates vata, kapha and daurgandhya. भक्ष्यव्यञ्जनभोज्येषु विविधेष्ववचारिता आर्द्र कुस्तुम्बरी कुर्यात् स्वादु सौगन्ध्यहृद्यताम् Il (Su.S Su ४६) Fresh dhanyaka used for processing various food items and condiments brings deliciousness, good aroma and agreeableness आर्द्रका मूत्रला नच पित्तकृत् भोज्यव्यञ्जनभक्ष्येषु प्रयोजिता || आर्द्रा कुस्तुम्बरी स्वर्या स्वादु सौगन्ध्यहृद्यताम् सा शुष्का मधुरा पाके स्निग्धा तृड्दाहजाशिनी Il (Mdn) Ardra Dhanyaka is Katu, Tikta in Taste, Usna in Potency Mutrala Pitta karaka, when used in the preparation of different types of food and condiments it is Svarya, Svadu, Saugandhya hrdyatama Suska is Madhura in Paka, Snigdha, TrtDaha nasini. कटुतिक्तोष्ण विचित्रेषु धान्यकं स्निग्धमवृष्यं मूत्रलं लघु | तिक्तं कटूष्णवीर्यं च दीपनं पाचनं स्मृतम् Il ज्वरघ्नं रोचनं ग्राहि स्वादुपाकि त्रिदोषनुत् तृष्णादाहवमिश्वासकासामार्शः कृमिप्रणुत् |l तद्गुणं स्वादु विशेषात्पित्तनाशिं तत् (Bpn) Dhanyaka is Tuvara in Taste Snigdha, Avrsya, Mutrala, Laghu in Property Tikta Katu in Taste Usna in Potency Dipana Pacana, Jvaraghna, Rocana, Grahi, Svadu in Paka, Tridosha hara, cures Daha, Svasa Vami, Kasa Ama Arsa, Krmi. Ardra is Svadu, Visesat Pitta nasaka. तुवरं आर्द्रन्तु Trsna आर्द्रा कुस्तुम्बरुः स्वादुसौगन्धहृद्यताम् सा शुष्का मधुरा पाके स्निग्धा तृड्दाहनाशिनी Il धान्यकं कासतृट्छर्दिज्वरहृच्चक्षुषो हितम् कषायतिक्तमधुरं हृद्यं दीपनपाचनम् Il (Dhn) Ardra Kustumburu is Svadu, Saugandhya, Hrdya. Suska is Madhura in Paka, Snighda, Trt Daha hara. Dhanyaka is Kasa Trt- Chardi Jvara Hrt Cakshu Hita is Kashaya, Tikta Madhura in taste Hrdya and Dipana and Pacana कुर्यात्

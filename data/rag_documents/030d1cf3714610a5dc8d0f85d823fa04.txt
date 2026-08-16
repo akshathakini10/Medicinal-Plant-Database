@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 030d1cf3714610a5dc8d0f85d823fa04
+Botanical Name: Memecylon umbellatum BURM. F.
+Family: Melastomataceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 68 Vernacular names found in 8 languages. English (1) - korakaha Hindi (1) - nirasa Kannada (31) - aalamar mara, aale maara, adachaare, adachare, alamaru, alle, alle mara, alli, arachara, arachate, archeti, gandukepala, halachaare, harachaari, harchari, huli soppu, huli soppu mara, lakhonde, limbakoli, limbatholi, limboli, mudimara, mundi mara, naemaara, naimaru, neymaru, nibidalle, udaballi, udatalli, udidalle, wollekodi Malayalam (8) - anakkayavu, kalayam, kanjavu, kannavu, kasavu, kayavu, knaila, netunjetti Marathi (8) - anjan, anjanee, anjani, anjun, kalo-kudo, kurpa, limba, sarani Sanskrit (1) - Sanskrit Comments  anjani Tamil (12) - alli, anjani, kasa, kasai, kasan, kaya, kayala, kayam, perungaya, pungali, puvai, sirugasa Telugu (6) - alli, kukka alli, manchiyalli, manjiyalli, midalli, peddalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030d1cf3714610a5dc8d0f85d823fa04
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030d1cf3714610a5dc8d0f85d823fa04
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/030d1cf3714610a5dc8d0f85d823fa04
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

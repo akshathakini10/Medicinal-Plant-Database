@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a13f107077606e81674b0f52923b191e
+Botanical Name: Paracalyx scariosa (ROB.) ALI
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cylista scariosa ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 4 languages. Kannada (2) - kadanare, kadlenare Marathi (3) - ran-ghevada, ran-ghevdo, ranghevada Sanskrit (1) - Sanskrit Comments  nadinishpava Telugu (3) - karu, karuchikkudu, karucikkudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a13f107077606e81674b0f52923b191e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a13f107077606e81674b0f52923b191e/xclkon/e99a85bdc11c9a87a62f7359a07a48a6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a13f107077606e81674b0f52923b191e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a13f107077606e81674b0f52923b191e/xclkon/e99a85bdc11c9a87a62f7359a07a48a6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a13f107077606e81674b0f52923b191e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

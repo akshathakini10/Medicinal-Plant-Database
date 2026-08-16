@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4cc30ee3dcab7e307da03a9d7af24cef
+Botanical Name: Ocimum basilicum L. subsp. minimum DAMERT
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  maruvaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cc30ee3dcab7e307da03a9d7af24cef
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4cc30ee3dcab7e307da03a9d7af24cef
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+image_urls: https://www.medicinalplants.in/slokaimages/233/233_1.jpg https://www.medicinalplants.in/slokaimages/233/233_2.jpg https://www.medicinalplants.in/slokaimages/233/233_3.jpg https://www.medicinalplants.in/slokaimages/233/233_4.jpg
+ocr_text: पाषणभेदकोश्मघ्नःशिलाभेदोश्मभेदकः सचैवोपलभेदश्चनगभिच्छैलगर्भजः Synonyms of pasanabheda are asmaghna, silabheda, asmabhedaka, palabheda, nagabhi elagarbhaja and अश्मभिद्वस्तिरुङ्मूत्रकृच्छ्रतोदाहवातनुत् शीतवीर्योगुरुःस्निग्धस्तथातीसारनाशनः न (शो.नि) Asmabhid is guru, snighda in guna, sita in veerya, alleviates vastiruk, mutra krcchra, daha, vata and atisara. अश्मभेदोहिमस्तिक्तःकषायोवस्तिशोधनः मेदंहन्तित्रिदोषार्शोगुल्मकृच्छ्राश्महृद्रुजः योनिरोगान्प्रमेहांश्चप्लीहशूलव्रणानिच It is tikta, kashaya in rasa, hima in veerya, vasti sodhana, alleviates meda tridosha, arsa, gulma, krcchra, asma, hraruja, yoni roga, prameha, pliha sula and vrana क्षुद्रापाषाणभेदश्चव्रणकृच्छ्राश्मरीहरः IRjn ) Ksudra pasanabheda alleviates vrana, krcchra and asmari.

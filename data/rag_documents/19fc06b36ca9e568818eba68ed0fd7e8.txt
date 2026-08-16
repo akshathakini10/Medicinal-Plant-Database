@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 19fc06b36ca9e568818eba68ed0fd7e8
+Botanical Name: Cosmostigma racemosa WT.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 4 languages. Kannada (3) - ghara hoovinagida, ghara hoovu gida, gharahuvvu Malayalam (2) - vattuvalli, wattou-valli Marathi (8) - bail-dhodki, maroy, marvel, marvivel, qharphuli, shendori, shendvel, sut-kamti Tamil (4) - karuthhankanni, perum kahamugan kodi, perum kamukan koti, perumkamukankoti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19fc06b36ca9e568818eba68ed0fd7e8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19fc06b36ca9e568818eba68ed0fd7e8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19fc06b36ca9e568818eba68ed0fd7e8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

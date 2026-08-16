@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bf7163ea7caa26db04597f038c2e5165
+Botanical Name: Indigofera oblongifolia FORSK.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Indigofera paucifolia DELILE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 6 languages. Hindi (3) - goilia, jhil, khuaro Kannada (4) - chimmata, jangli neeli, kaadu neeli, koggae Marathi (1) - murkut Sanskrit (3) - Sanskrit Comments  dilla, nilini, zhila Tamil (11) - kottakkuccimitti, kuttakkucimitti, kuttukkal 2, kuttukkar cammatti, kuttukkar-chammathi, kuttukkaracammatti, kuttukkaran cammatti, kuttukkarcammatti, kuttukkarchammathi, titcakatitam, titcanakkatitacceti Telugu (1) - kondavempali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165/xclkon/6cf463ea8fb713acb209b4ebace7915d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165/xclkon/6cf463ea8fb713acb209b4ebace7915d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165/xclkon/6cf463ea8fb713acb209b4ebace7915d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bf7163ea7caa26db04597f038c2e5165/xclkon/6cf463ea8fb713acb209b4ebace7915d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dilla
+sanskrit_name: डिल्ल
+transliteration: ḍilla
+ref_drug_name: डिल्ल
+status: Accepted source
+discussion: Has been mentioned in Sodala nighantu; Its identified with this species and popularly known as 'Jhilla' in Gujarat
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

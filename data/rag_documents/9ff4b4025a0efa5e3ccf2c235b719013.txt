@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9ff4b4025a0efa5e3ccf2c235b719013
+Botanical Name: Alcea rosea L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Althaea rosea (L.) CAV.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. English (1) - hollyhock Kannada (2) - dodda bindige gida, kempu seeme thutthi Marathi (1) - gulkhair
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ff4b4025a0efa5e3ccf2c235b719013/xclkon/774b71390dfcf8508731e0a2f0bdd040
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ff4b4025a0efa5e3ccf2c235b719013
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ff4b4025a0efa5e3ccf2c235b719013/xclkon/774b71390dfcf8508731e0a2f0bdd040
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

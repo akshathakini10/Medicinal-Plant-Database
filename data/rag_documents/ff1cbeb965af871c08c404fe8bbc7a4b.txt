@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ff1cbeb965af871c08c404fe8bbc7a4b
+Botanical Name: Acacia jacquemontii BENTH.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 7 languages. Hindi (7) - banvalio, bhu-banvali, bu banvali, moha, mohua, mohva, ratio banwal Kannada (8) - huli, ippe, ippe-gida, ippi, mavaro, sanna-ippe, sannaippe, sannayippe Malayalam (1) - irippa Marathi (3) - ippichajhada, mohachajhada, mohwa Sanskrit (2) - Sanskrit Comments  madhuka-vrikshaha, madooka Tamil (12) - illupai, iluppai, iruppai, kuligam, kulisam, madugam, maduragam, mavagam, nattiluppai, nattu iluppai, seyilam, tittinam Telugu (10) - illuppai, ippa, ippa-chettu, ippe-chettu, ippi, nattu-iluppai, pinnaippa, pinnayippa, sannayippa, uriyippa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff1cbeb965af871c08c404fe8bbc7a4b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff1cbeb965af871c08c404fe8bbc7a4b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff1cbeb965af871c08c404fe8bbc7a4b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

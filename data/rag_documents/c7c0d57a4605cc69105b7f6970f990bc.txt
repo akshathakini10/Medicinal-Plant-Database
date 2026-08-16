@@ -1,0 +1,89 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c7c0d57a4605cc69105b7f6970f990bc
+Botanical Name: Schrebera swietenioides ROB.
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 90 Vernacular names found in 8 languages. Hindi (4) - banpalas, moka, mokha, mokhdi Kannada (20) - balla, bula, bulaa, bulaa gante, dathabiro, ganta, gante, kalgante, kalgonte, maavlanga, maggaarthi mara, maggante, maggarti, makaarthi, makarti, mogalimara, mogalinga balli, mogalingamara, muggante, nagganti Malayalam (3) - maggamaram, malamplasu, muskkakavrksam Marathi (3) - moka, mokadi, nakti Sanskrit (16) - Sanskrit Comments  ghantapatali, golidha, kastapatola, ksarasrestha, ksarasresthah, kuberaksa, mahakapittha, moksaka, mokshaka, mushka, mushkaka, muskaka, muskakah, patali, svetamoksaka, svetamuskaka Tamil (8) - kattupparutticceti, magalingam, makalinkam, mmakalinkam, mogalinga, mogalinga-maram, mogalingam, pasarai Telugu (34) - balla, bullakaaya, bullakaya, maakodi, maalinga maram, magalinga, makkam, makkamokob, mogalinga, mokalapu, mokapu, mokayapa, moke, mokka, mokkalapa, mokkalappa, mokkalinga, mokkam, mokkampa, mokkamu, mokkanu, mokkapa, mokkapu, mokkavepa, mokpb, mucaadi, muccadi, mukkadi, mukkidi, mukodi, neruvodi, thondamukkidi, tondamukkidi, tondamukkudi Tibetan (2) - mu ksa ca, mu-ska-ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1873
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1873.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7c0d57a4605cc69105b7f6970f990bc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Moksaka
+sanskrit_name: मोक्षक
+transliteration: mokṣaka
+ref_drug_name: मोक्षक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Moksaka - sveta
+sanskrit_name: मोक्षक श्वेता
+transliteration: mokṣaka śvetā
+ref_drug_name: मोक्षक श्वेता
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Moksaka - sveta
+sanskrit_name: मोक्षक श्वेता
+transliteration: mokṣaka śvetā
+ref_drug_name: मोक्षक श्वेता
+status: Accepted source
+discussion: White variety of Moksaka is correlated to this species
+reference: [2]
+
+Identity Record 4
+drug_name: Muskaka - krsna
+sanskrit_name: मुष्कक कृष्णा
+transliteration: muṣkaka kṛṣṇā
+ref_drug_name: मुष्कक कृष्णा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Svetamuskaka
+sanskrit_name: श्वेतमुष्कक
+transliteration: śvetamuṣkaka
+ref_drug_name: श्वेतमुष्कक
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

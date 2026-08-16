@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 60aa5a20678b023bddf7256afff01cd8
+Botanical Name: Atylosia goensis DALZ.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Atylosia barbata (BENTH.) BAKER
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 4 languages. Kannada (2) - kaadu thogari, maasha parni Malayalam (1) - kattulunnu Sanskrit (2) - Sanskrit Comments  masaparni, mashaparni Tamil (1) - peruvidukol
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/60aa5a20678b023bddf7256afff01cd8
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 262
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/262.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/60aa5a20678b023bddf7256afff01cd8/xclkon/7736ca10d57004b6e3dc007faaf707c4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/60aa5a20678b023bddf7256afff01cd8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/60aa5a20678b023bddf7256afff01cd8/xclkon/7736ca10d57004b6e3dc007faaf707c4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/60aa5a20678b023bddf7256afff01cd8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

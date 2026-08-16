@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c8a37987cdcbc9dbae0e797c04080c5e
+Botanical Name: Leonotis nepetaefolia R.BR.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 6 languages. Hindi (4) - bara guma, hejurchei, lal guma, robla Kannada (10) - deepa shoole, devvadumbe, ganu thumbe, goa gadde, goa gedde, kaadu hunne gida, kaadu thumbe, kaaduthumbe, mara thumbe, ranabheri Marathi (3) - deepamaal, dipmal, moothe koola Sanskrit (4) - Sanskrit Comments  granthi, granthika, granthiparna, granthiparni Tamil (1) - ranaperi Telugu (12) - baeri, beri, hanumantabira, hanumantha-beera, hanumanthabeera, magabura, mulagolimedi, mullu golimidi, mulugolimidi, rana chettu, ranabhaeri, ranabheri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8a37987cdcbc9dbae0e797c04080c5e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8a37987cdcbc9dbae0e797c04080c5e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8a37987cdcbc9dbae0e797c04080c5e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

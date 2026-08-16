@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 21c383f0ffa8ce276ebe3d459807b7e9
+Botanical Name: Ludwigia hyssopifolia (DON) ECELL
+Family: Onagraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Fissendocarpa linifolia (VAHL) BENNET
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Malayalam (1) - vasalaccira
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21c383f0ffa8ce276ebe3d459807b7e9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21c383f0ffa8ce276ebe3d459807b7e9/xclkon/bc3d8ff8389a4dc5c2ef16d6a5350b2c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21c383f0ffa8ce276ebe3d459807b7e9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

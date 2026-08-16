@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9dde595bfcbd7c3e739b883e58805cfb
+Botanical Name: Psammogeton canescens (DC.) VATKE
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Psammogeton biternatum EDGEW.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dde595bfcbd7c3e739b883e58805cfb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dde595bfcbd7c3e739b883e58805cfb/xclkon/2df1e718f0d9a7906e67986dd3f2ac7a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9dde595bfcbd7c3e739b883e58805cfb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

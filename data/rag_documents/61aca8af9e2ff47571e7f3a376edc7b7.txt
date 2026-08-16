@@ -1,0 +1,76 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 61aca8af9e2ff47571e7f3a376edc7b7
+Botanical Name: Clerodendrum infortunatum L.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 71 Vernacular names found in 6 languages. Hindi (5) - bhant, bhat, ghato, motia, thunera Kannada (9) - basavanapada, bawanapada, garike, ibbane, ittai, ittevu, parale, pareke, parele Malayalam (9) - peragu, perugu, peruku, peruvelam, peruvellam, piraku, vattaperivalam, vattaperuvellam, vattapperu Sanskrit (21) - Sanskrit Comments  barhibarha, barhichuda, bhandi, bhandira, bhantaka, bhanti, granthiparna, harita, kiravarnaka, kukkura, mayurachuda, shirnaroma, shirnaromaka, shukabarha, shukachhada, shukapuchhaka, sthauneyaka, sthouneyam, vikacha, vikirnaroma, vikirnasanjna Tamil (8) - carasvatiyilai, karukanni, karukkankanni, karukkanni@, perugilai, perukilai, pumanca, vellaikkanni Telugu (19) - basavanapadu, baswanapadu, bockada, bogada, bokkada, bokkudu, chirmabusi, cinnabusi, gurrapugatteaku, gurrapukattiyaku, gurrapukkattiyaku, guruja, mandukabrahmi, mandukabrahmmi, mangalagiddi, papa, pidugudu, sarasvatiaku, sarasvatiyaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61aca8af9e2ff47571e7f3a376edc7b7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61aca8af9e2ff47571e7f3a376edc7b7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61aca8af9e2ff47571e7f3a376edc7b7
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61aca8af9e2ff47571e7f3a376edc7b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61aca8af9e2ff47571e7f3a376edc7b7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhandi
+sanskrit_name: भण्डी
+transliteration: bhaṇḍī
+ref_drug_name: भण्डी
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Bhandira
+sanskrit_name: भण्डीर
+transliteration: bhaṇḍīra
+ref_drug_name: भण्डीर
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 3
+drug_name: Bhargaka
+sanskrit_name: भार्गक
+transliteration: bhārgaka
+ref_drug_name: भार्गक
+status: Substituted source
+discussion: This species is sometimes used as Bharngi
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bhandira
+sanskrit_name: भण्डीर
+transliteration: bhaṇḍīra
+image_urls: Not available
+ocr_text: Not available

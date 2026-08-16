@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1bdbfb935d0f6c2a9cbf61797fecf17d
+Botanical Name: Smilax perfoliata LOUR.
+Family: Smilacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Smilax prolifera ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Kannada (1) - neeru betta balli Telugu (1) - pirangi chekka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdbfb935d0f6c2a9cbf61797fecf17d/xclkon/35176d7ddb823dd73f38b70c047e102f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdbfb935d0f6c2a9cbf61797fecf17d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1bdbfb935d0f6c2a9cbf61797fecf17d/xclkon/35176d7ddb823dd73f38b70c047e102f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

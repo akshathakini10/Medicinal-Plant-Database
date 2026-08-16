@@ -1,0 +1,72 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 125f618790fe26adac71053fc6318dbc
+Botanical Name: Artemisia maritima L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Artemisia brevifolia WALL. E DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 4 languages. Hindi (6) - ajavayana, buer, chhamriya, chhuari, kirmala, seski Kannada (1) - jatara kriminaashini Marathi (3) - kirmaaniova, kirmaniova, surabandi Sanskrit (14) - Sanskrit Comments  cauhara, chauhara, chhara, gadadhar, gandha, jantunashana, khurapushpika, kitamari, kitamariyavani, parasi, parasikayavani, yavani, yavanibheda, yavaniya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 236
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/236.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc/xclkon/d448dc3988d7a40ea632d7431f182e34
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc/xclkon/d448dc3988d7a40ea632d7431f182e34
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc/xclkon/d448dc3988d7a40ea632d7431f182e34
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125f618790fe26adac71053fc6318dbc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cauhara
+sanskrit_name: चौहार
+transliteration: cauhāra
+ref_drug_name: चौहार
+status: Accepted source
+discussion: Cauhara is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Yavani - bheda
+sanskrit_name: यवानी भेद
+transliteration: yavānī bheda
+ref_drug_name: यवानी भेद
+status: Accepted source
+discussion: Yavani bheda' is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Cauhara
+sanskrit_name: चौहार
+transliteration: cauhāra
+image_urls: https://www.medicinalplants.in/slokaimages/167/167_1.jpg
+ocr_text: यावनी रूक्षा ग्राहिणी मादिनी कटुः II (Dhn) It is katu in rasa, ruksa in gunas grahini and madini in karma. किरमाणी यवानी तु तिक्तोष्णा कटु तीक्ष्णा अग्निदीप्तकरा वृष्या लघ्वी चैव प्रकीर्त्तिता | | त्रिदोषाजीर्णकृ्मिनुत् शूलस्यामस्य नाशिनी| गुणास्त्वन्ये यवानी इव कीर्त्तिताः II (Nir) Kiramani yavani is tikta katu in rasa usna in veeryas tiksna in gunas agni diptakari, vrshya laghus CLIIeS tridosha ajirna krmi ama sula and rest of the properties are similar to yavani. विशेषात्तु

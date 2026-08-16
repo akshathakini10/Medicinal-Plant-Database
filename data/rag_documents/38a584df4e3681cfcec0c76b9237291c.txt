@@ -1,0 +1,133 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 38a584df4e3681cfcec0c76b9237291c
+Botanical Name: Helicteres isora L.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Helicteres isora L. var. tomentosa
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 206 Vernacular names found in 9 languages. English (1) - kaivum fibre Hindi (17) - aat, aat hateri, amli, bhendu, hateri, jonkaphal, kapasi, maraphali, marodphali, marophali, maror phal, maror phali, maror phalli, maror-phali, marori, marorphali, marosi Kannada (66) - aavarthini, aedamuri, aedamuri kaayi, avathaarini, bhoorhakaralu, bhootakaralu, bhootha karulu, bhutakaralu, bhutakarulu, buntakarolu, chachalu, chuchuja, chuchula, chuchulu, cuculu, cunculla, edamuri, edamurige, kaada kalnaaru, kaadukalnaaru, kaayuri, kadakalnar, kadakalnaru, kadukalnaru, kaire, kaiyoli, kaiyolinarr, kaiyuri, kaiyurige, kaiyyi uri, karroori gida, karurimara, karuviri, kauri, kauviri, kavargi, kavari, kempu kavari, kempukauri, kempukavari, kempukaveri, kolinaaru, kolinar, konri, kowri, kywalla, maradaddi shingi, marodu phala, miridi, moldaphaliro, mrudashringi, murige, murreekonri, murudi, murugikayi, murugina, muruginakaayi, naarukolu, nakheela, narkol, narkolu, narukolu, thunshulla, vadampiree, yadamuri, yedamuri Malayalam (20) - ishvaramuli, ishvaramulla, ishvaramuri, isora-murri, isoramurree, isoramurri, itampirivalampiri, kaiva, kaivalanara, kaiyuna, karuveri, kaval, kayyuna, kiwallanara, kiyuna, kolnaru, mori, valambiri, valampiri, valumbari Marathi (10) - kevani, kewan, kivan, maedasingi, marodphali, muradasinge, muradshenga, muradsing, murudsheng, tanini Sanskrit (13) - Sanskrit Comments  avaratani, avartani, avartaphala, avartiphala, avarttani, avatarini, avurtunnie, awartaki, awartani, mrgasrngi, mrigashinga, mrigashringa, murva Tamil (24) - cattikatci, edampuri, iracarcapalam, kaiva, karuvai, kasavu, lampam, panippalli, paniyam, pirapicam, pirimurukku, pirivuppani, tirukupalai, vadampiri, valambiri, valamburi, valampiri, valampuri, valampuri-kay, valampurikai, valampurikkay, valumberi, valumbirikai, vattachi Telugu (52) - aadasamanthi, aadasyamali, adacamanti, adasamanti, adashyamali, adasyamali, adavi-camanti, adavichamanthi, adivichamanthi, cadala, camanti, camati, chamantai, chamanti, goobatada, gubadadda, gubadarra, gubathada, gubathadda, gubbadara, gugatadda, guonardada, guvalada, itah, kaavanchi, kavanchi, kavanci, malikaaya, nulitada, nulitadu, nulithada, nulithi, nuliti, nulu kaaya, peddacamanti, peddasamanthi, peddasamanti, peddashamala, sadala, samanthi, shyaamali, suamala, syamali, tada, thada, uttraci, uttrasi, valambiri, valambirikaya, valambricaca, valumbari, vuttraci Urdu (3) - marodphalli, maror phali, marorphali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c/xclkon/e16a62c046c22af7c915a5a56e55e637
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1116
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1116.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c/xclkon/e16a62c046c22af7c915a5a56e55e637
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c/xclkon/e16a62c046c22af7c915a5a56e55e637
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c/xclkon/e16a62c046c22af7c915a5a56e55e637
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/38a584df4e3681cfcec0c76b9237291c/xclkon/e16a62c046c22af7c915a5a56e55e637
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Avartaki
+sanskrit_name: आवर्तकी
+transliteration: āvartakī
+ref_drug_name: आवर्तकी
+status: Accepted source
+discussion: Avartaki is correlated to this species
+reference: [3]
+
+Identity Record 2
+drug_name: Avartaki
+sanskrit_name: आवर्तकी
+transliteration: āvartakī
+ref_drug_name: आवर्तकी
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Avartani - prakara
+sanskrit_name: आवर्तनी प्रकार
+transliteration: āvartanī prakāra
+ref_drug_name: आवर्तनी प्रकार
+status: Most probable
+discussion: Is found in South India
+reference: [3]
+
+Identity Record 4
+drug_name: Avartani - prakara
+sanskrit_name: आवर्तनी प्रकार
+transliteration: āvartanī prakāra
+ref_drug_name: आवर्तनी प्रकार
+status: Most probable
+discussion: Is found mostly in Western part and Central India
+reference: [3]
+
+Identity Record 5
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+ref_drug_name: मूर्वा
+status: Controversial
+discussion: Murva is a highly controversial drug; Murva means a plant which has tough fibres and there are many such plants with this feature; This species is one among them and used as Murva in Punjab
+reference: [2]
+
+Identity Record 6
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+ref_drug_name: मूर्वा
+status: Substituted source
+discussion: Used as a substitute for Murva
+reference: [1]
+
+Identity Record 7
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+ref_drug_name: मूर्वा
+status: Controversial
+discussion: Murva is a highly controversial drug; Murva means a plant which has tough fibres and there are many such plants with this feature; This species is one among them and used as Murva in Punjab
+reference: [2]
+
+Identity Record 8
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+ref_drug_name: मूर्वा
+status: Substituted source
+discussion: Used as a substitute for Murva
+reference: [1]
+
+Identity Record 9
+drug_name: Visanika
+sanskrit_name: विषाणिका
+transliteration: viṣāṇikā
+ref_drug_name: विषाणिका
+status: Not Identified
+discussion: Does not stand any chance to be its source as it has astringent roots which is not a property of this plant
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

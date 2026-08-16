@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 77d6053885759c490059e0248696deed
+Botanical Name: Stylocoryne lucens GAMBLE
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Malayalam (1) - pavetta Sanskrit (1) - Sanskrit Comments  paphanah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/77d6053885759c490059e0248696deed
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1997
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1997.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/77d6053885759c490059e0248696deed
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

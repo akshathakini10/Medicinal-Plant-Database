@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 69ff5c71b0fec27cd7fb65a62e495cdd
+Botanical Name: Heritiera littoralis AITON
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 4 languages. Malayalam (3) - mukuram, nagam, nakam Marathi (1) - sundri Tamil (4) - chomuntri, comuntiri, kannadi-yilai, kannady ilai Telugu (2) - adavibaadamu, adivibadamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69ff5c71b0fec27cd7fb65a62e495cdd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69ff5c71b0fec27cd7fb65a62e495cdd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69ff5c71b0fec27cd7fb65a62e495cdd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

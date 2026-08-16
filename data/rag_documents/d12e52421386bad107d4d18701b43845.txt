@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d12e52421386bad107d4d18701b43845
+Botanical Name: Sesamum prostratum RETZ.
+Family: Pedaliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 3 languages. Sanskrit (1) - Sanskrit Comments  tila Tamil (9) - araniyatilakam, arpakantacceti, arpakantam, karumpuracevitam, karuvirukanam, kattel, kattellu, peyellu, talatakam Telugu (1) - kaaru nuvvulu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d12e52421386bad107d4d18701b43845
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d12e52421386bad107d4d18701b43845
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d12e52421386bad107d4d18701b43845
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tila - prakara
+sanskrit_name: तिल प्रकार
+transliteration: tila prakāra
+ref_drug_name: तिल प्रकार
+status: Accepted source
+discussion: White variety of tila is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

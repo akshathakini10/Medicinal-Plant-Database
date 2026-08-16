@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3e3cee347ddc36c059a4a0c9e1b83002
+Botanical Name: Tecoma stans JUSS.
+Family: Bignoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Stenolobium stans SEE.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 4 languages. Hindi (2) - ganer, trumpet flower Kannada (8) - gante hoo, haladee hoo, kangeli, kelara hoo, kolave hoo, koraane chellara, korane, koranekelar Tamil (12) - cornappatti, cunacci, naga chambagam, nagasambagam, nakacanpakam, nakacenpakam, nakakam, ponnarali 2, sannapatti, sorndpatti, swarna-patti, tankarali2 Telugu (6) - paccagotla, pachaganneru, pachagotla, patcha ganneru, suvarna ganneru, swarna ganneru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e3cee347ddc36c059a4a0c9e1b83002
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e3cee347ddc36c059a4a0c9e1b83002/xclkon/17daba258c915fd3d99444ce9be746b5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e3cee347ddc36c059a4a0c9e1b83002
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e3cee347ddc36c059a4a0c9e1b83002/xclkon/17daba258c915fd3d99444ce9be746b5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e3cee347ddc36c059a4a0c9e1b83002
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

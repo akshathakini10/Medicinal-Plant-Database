@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fc55482f7295983770ae1092e0d9adff
+Botanical Name: Thamnolia vermicularis (SWARTZ) ACH.
+Family: Thamnoliaceae(Lichen)
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fc55482f7295983770ae1092e0d9adff
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fc55482f7295983770ae1092e0d9adff
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

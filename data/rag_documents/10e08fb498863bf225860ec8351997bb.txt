@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 10e08fb498863bf225860ec8351997bb
+Botanical Name: Phaseolus vulgaris L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 32 Vernacular names found in 6 languages. English (16) - baked beans, borlotti bean, canellini bean, dwarf bean, flageolet bean, french bean, frijoles, haricot bean, kidney bean, navy bean, nunas bean, pea-bean, pinto bean, snap bean, string bean, wax bean Hindi (6) - chhemi, frash bean, french bean, loba, lobha, rajmah Kannada (3) - hurali kaayi, hurali kayi, huruli kaayi Marathi (3) - chavli, fejamv, shravan ghevda Tamil (2) - cimaiyavarai, vayalavarai Urdu (2) - tukhm baqila, tukhm baqla muqqashar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10e08fb498863bf225860ec8351997bb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10e08fb498863bf225860ec8351997bb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10e08fb498863bf225860ec8351997bb
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10e08fb498863bf225860ec8351997bb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10e08fb498863bf225860ec8351997bb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rajamasa
+sanskrit_name: राजमाष
+transliteration: rājamāṣa
+ref_drug_name: राजमाष
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Rajamasa - prajati
+sanskrit_name: राजमाष प्रजाति
+transliteration: rājamāṣa prajāti
+ref_drug_name: राजमाष
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

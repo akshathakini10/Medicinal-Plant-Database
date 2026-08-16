@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2f2ad14ae94ece76f05a931850e180e5
+Botanical Name: Arundo donax L.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 8 languages. English (2) - reed, spanish cane Hindi (12) - baranal, baru, doka, nal, naldura, nar, nara, narasal, narhal, narr, rajal, tinta Kannada (8) - baalada kaddi, bilee laalada kaddi, hulagilu hullu, hulugalagu, hulugila-hullu, hulugilu, hulugilu hullu, laalada kaddi Malayalam (1) - ama Marathi (1) - nal Sanskrit (5) - Sanskrit Comments  dhamana, nala, potagala, sarah, sunyamadhya Tamil (6) - caravanam, koraikkuccu, korukachi, korukkai, kuruvi-p-pul, velam Telugu (6) - adavikikasa-gaddi, adavikikkasagadi, kaki veduru, paatuveduru, patu veduru, peepalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 248
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/248.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f2ad14ae94ece76f05a931850e180e5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nala
+sanskrit_name: नल
+transliteration: nala
+ref_drug_name: नल
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nala
+sanskrit_name: नल
+transliteration: nala
+image_urls: https://www.medicinalplants.in/slokaimages/1268/1268_1.jpg https://www.medicinalplants.in/slokaimages/1268/1268_2.jpg https://www.medicinalplants.in/slokaimages/1268/1268_3.jpg
+ocr_text: नलः शीतः कषायश्च पित्तमूत्रविनाशनः IDhn) Nala is kashaya in rasa, sita in veerya, pitta mutra vinasana. देवनालो अतिमधुरोवृष्य ईषत् कषायकः नलः स्यादधिको वीर्ये शस्यते रसकर्मणि| | IRjnl Devanala is atimadhura, isat kashaya in rasa and vrshya. Nala possesses adhika virya and is in rasa karma Iprocessing of mercur/l . Bood नलस्तु मधुरस्तिक्तः कषायः कफरक्तजित्| उष्णा हृद्बस्तियोन्योर्त्तिदाहपित्तविसर्पनुत् 2 ( IBpn) Nala is madhura, tikta , kashaya in rasa usna in veerya, alleviates kapha ana rakta dosha, cures hrd vasti yoni arti, daha, pitta ana visarpa.

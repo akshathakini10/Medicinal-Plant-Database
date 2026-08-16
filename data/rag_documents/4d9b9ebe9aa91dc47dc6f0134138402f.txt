@@ -1,0 +1,87 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4d9b9ebe9aa91dc47dc6f0134138402f
+Botanical Name: Schleichera oleosa (LOUR.) OKEN
+Family: Sapindaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Schleichera trijuga WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 119 Vernacular names found in 8 languages. English (4) - ceylon oak, kosumba, kussum oil, macassar oil Hindi (3) - kausum, kosumb, kusum Kannada (30) - akota, cakate, candala, chagadai, chagade, chagate, chagati, chakata, chakate, chakota, chendaala, chendala, hakuta, hulimaaya, hulimaya, hulimiro, hulunaai, jagadi, jendalacekota, kaakuta, kakuta, kendaale, kendala, paparti, sagade, sagadi, sagdi, shargadi, shargadle, thagada Malayalam (15) - cana, chana, cottilai, nidhavanji, nityavanci, pooatti, pooum, poovam, poovanam, poovatti, poovum, punam, puvam, puvatti, shothali Marathi (6) - kasimb, kohan, kosam, kosimb, kshimb, kusumb Sanskrit (7) - Sanskrit Comments  ghanaskanda, kosamra, ksudramra, laksavrksa, laksavrksah, mukulakah, raktamrah Tamil (19) - arakku, calakkam, cottilai, kancivaticcan, kolama, konci 3, kumpatiri, kutiraimacali, mirukakkottai, nittiyavanci, pu, pulacci, puliccai 2, pumaram, pumarata, puvam, puvatti, puvatti 2, puvattipuvam Telugu (35) - bacha, boosi, botanga, busi, cagadeposuku, kodalipulusu, maavithavitiki, maayirothanga, madakapulusu, madakapusu, mavidavitiki, mavitavitiki, may, mayiratanga, mayirotanga, paarparthi, paparti, posuku, pularari, pulasari, pulisari, pullakaaya, pullakaya, pulsaram, pulsaramrajoti, pulsarani, pulusuramarajati, puska, pusku, pusuku putiki, roatanga, roatangha, saagadeposuku, sagadepusku, sagadipusuku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f/xclkon/32fa759e14e0f113570a2d98d1d57a00
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1872
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1872.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f/xclkon/8cae4550b8d9cc4ffe4c6a83f881800d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f/xclkon/32fa759e14e0f113570a2d98d1d57a00
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f/xclkon/8cae4550b8d9cc4ffe4c6a83f881800d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f/xclkon/32fa759e14e0f113570a2d98d1d57a00
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f/xclkon/8cae4550b8d9cc4ffe4c6a83f881800d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d9b9ebe9aa91dc47dc6f0134138402f/xclkon/32fa759e14e0f113570a2d98d1d57a00
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kosamra
+sanskrit_name: कोशाम्र
+transliteration: kośāmra
+ref_drug_name: कोशाम्र
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Kosamra
+sanskrit_name: कोशाम्र
+transliteration: kośāmra
+ref_drug_name: कोशाम्र
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 3
+drug_name: Kuvala
+sanskrit_name: कुवल
+transliteration: kuvala
+ref_drug_name: कुवल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kosamra
+sanskrit_name: कोशाम्र
+transliteration: kośāmra
+image_urls: https://www.medicinalplants.in/slokaimages/1067/1067_1.jpg https://www.medicinalplants.in/slokaimages/1067/1067_2.jpg https://www.medicinalplants.in/slokaimages/1067/1067_3.jpg
+ocr_text: कोशाम्रश्चघनस्कन्धोवनाम्रोजन्तुपादपः क्षुद्रोम्रश्चेतिरक्ताम्रोलाक्षावृक्षःसुरक्तकः | | Synonyms of Kosamra are ghanaskanaa, vanamra, jantu padapa, ksudra amra, raktamra laksha vrksa and suraktaka कोशाम्रकुष्ठशोथास्रपित्तव्रणकफापहः It alleviates kapha and cures kustha, sotha, asra, pitta and vrana अपक्वफलगुणाः तत्फलंग्राहिवातघ्नमम्लोष्णंगुरुपित्तलम्| Its phala is amla in rasa, usna in veerya, guru, grahi in guna, alleviates vata and increases pitta.

@@ -1,0 +1,73 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2d9df697729c4405b00ae2e52a4c99c4
+Botanical Name: Tinospora crispa (L.) HOOK.F. & THOMS.
+Family: Menispermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d9df697729c4405b00ae2e52a4c99c4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d9df697729c4405b00ae2e52a4c99c4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Guduci – jati
+sanskrit_name: गुडूची जाति
+transliteration: guḍūcī jāti
+ref_drug_name: वत्सादनी
+status: Accepted source
+discussion: This species is correlated to a variety of Guduci which is known as ‘Padmaguduci or Kandaguduci’. Leaves appear big and triangular in shape
+reference: [3]
+
+Identity Record 2
+drug_name: Guduci – jati
+sanskrit_name: गुडूची जाति
+transliteration: guḍūcī jāti
+ref_drug_name: गुडूची जाति
+status: Accepted source
+discussion: This species is correlated to a variety of Guduci which is known as ‘Padmaguduci or Kandaguduci’. Leaves appear big and triangular in shape
+reference: [3]
+
+Identity Record 3
+drug_name: Vatsadani
+sanskrit_name: वत्सादनी
+transliteration: vatsādanī
+ref_drug_name: वत्सादनी
+status: Accepted source
+discussion: This species is correlated to a variety of Guduci which is known as ‘Padmaguduci or Kandaguduci’. Leaves appear big and triangular in shape
+reference: [3]
+
+Identity Record 4
+drug_name: Vatsadani
+sanskrit_name: वत्सादनी
+transliteration: vatsādanī
+ref_drug_name: गुडूची जाति
+status: Accepted source
+discussion: This species is correlated to a variety of Guduci which is known as ‘Padmaguduci or Kandaguduci’. Leaves appear big and triangular in shape
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

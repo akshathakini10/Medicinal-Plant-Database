@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2602af81de50a2fdc4ab2e2cb15bd81b
+Botanical Name: Mussaenda glabra VAHL.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Mussaenda glabrata VAHL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 22 Vernacular names found in 6 languages. Hindi (1) - bedina Kannada (5) - bellotti, billoothi, hasthygidda, ipparati, pathri Malayalam (2) - vellila, vellimayittali Marathi (10) - bhurtkasi, bhutkes, churtkasi, karab-phul, kirabli, lavasat, sarvadi, sarwadh, sherwod, shivardole Sanskrit (2) - Sanskrit Comments  nagavalli, shrivati Tamil (2) - vellaiyilai, vellimadandai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2602af81de50a2fdc4ab2e2cb15bd81b/xclkon/4c904ed6d782e11b31e5920279f3ece3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2602af81de50a2fdc4ab2e2cb15bd81b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2602af81de50a2fdc4ab2e2cb15bd81b/xclkon/4c904ed6d782e11b31e5920279f3ece3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2602af81de50a2fdc4ab2e2cb15bd81b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2602af81de50a2fdc4ab2e2cb15bd81b/xclkon/4c904ed6d782e11b31e5920279f3ece3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

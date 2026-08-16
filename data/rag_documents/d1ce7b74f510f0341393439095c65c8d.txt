@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d1ce7b74f510f0341393439095c65c8d
+Botanical Name: Avicennia tomentosa JACQ.
+Family: Avicenniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d1ce7b74f510f0341393439095c65c8d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d1ce7b74f510f0341393439095c65c8d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bana
+sanskrit_name: बाण
+transliteration: bāṇa
+ref_drug_name: बाण
+status: Most probable
+discussion: With referance to its features its most likely correlated to this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

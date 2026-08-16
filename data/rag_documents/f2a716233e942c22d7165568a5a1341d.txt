@@ -1,0 +1,103 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f2a716233e942c22d7165568a5a1341d
+Botanical Name: Hygrophila schulli (HAM.) M.R. & S.M. ALMEIDA
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Asteracantha longifolia (L.) NEES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 206 Vernacular names found in 9 languages. Hindi (13) - gokhula-kanta, gokhulakanta, gokshura, kailaya, kamtakaliya, kantakalia, kolsekajhar, kulakhara, oont-katela, tal-makhane-ka-per, tal-makhare-ka-per, talmakhana, talmakhana-ka-pair Kannada (28) - gokantaka, golimidi, goramidi, gorimidi, gorividi, gulimidi, kalavankabija, koikilakshi, kokilaaksha, kolachuli, kolagolike, kolagulike, kolamulli, kolase, kolavalike, kolavanke, kolikannina gida, kolikukkana gida, kovemulludai, mullankole, mullina gida, neer gobli gida, neerugobli, neerugolavalike, neerumulli, neeruppi gida, niruppi, palankasha Malayalam (8) - bahel-schulli, bahel-sohulli, bahelshulli, culli, vaualcculli, vayal-chulli, vayalchulli, vayalculli Marathi (9) - kalaso, kolasundaa, kolshinda, kolsundara, kolsunndo, talimakhana, thaalimakhaana, unt-katara, vikhara Sanskrit (43) - Sanskrit Comments  a, atichhatra, bhikshu, chhatraka, culli, ikshrakshurak, ikshugandha, ikshugandhaha, ikshura, ikshurah, ikshuraka, ikshuvalika, iksura, iksurah, iksuraka, iksurakaksuraka, iksurlaghanti, kakekshu, kandekshu, kantaka, kokilaksa, kokilaksah, kokilaksaka, kokilaksh, kokilaksha, kokilakshi, kokilanayana, kolistha, kshura, kshuraka, kulahaka, pichhila, pikekshana, shrigali, shrinkhali, shuklapushpa, shuraka, trikshura, vajra, vajrakantaka, vajrasthi, vayalkulli, virataru Tamil (86) - acamam, accakam, al, atticam, attitti, calakantakam, calakantaki2, camaracam2, cantatoru, canti2, cantoru, carakatti, cattinakacceti, cattinakam, cavupacciyam, cemmarocitamullicceti, cemmarokatam, cencatcu, cirakalakantam, ikkiri1, ikkukantai2, ikkuram, ikucucceti, ikucukku, inkucakkantan1, inkuci, inkucicceti, inkucukantan1, inkukkantan1, itaccukkulampu, kakantam, kanatturumam, kantal2, kantali#, kantalicceti, karuncurai1@, kirutacikacceti, kirutacikam, koki1, kokilam2, kokilanayanam, kokilapatcam, kokilatcacceti, kokilatcam, mulli, nakaiyal2, neer moollie vayr, neer mulli, neermulli, neermulliver, neremulli, nikkam, nirkkantaki, nirkkumpicceti, nirkkuppi, nirmalli, nirmuli, nirmulli, nirppuntu, nirumalli, nitakam, nitakari, nitakaricceti, nittam@, niyamam, pennakacceti, pennakam, ponkilikacceti, ponkilikam, porippuntu, tatakam1, tirikatakam1, tirikatam1, tulakacceti, tulakam1, tulam1#, tulam1@, turacatamulam, turakatamulacceti, turakatamulam, turukkattavam, tuttam3, vakkiranki, vaucika, vaucikamulli, veruka Telugu (15) - gobbi, gubbi chettu, kokilaksamu, kokilakshi, korimidi, mullagobbi, neerguviveru, neerugobbi, neerugubbi, neery golimidi, nirguvi-veru, nirugobbi, niruguviveru, niti gobbi, niti malli Tibetan (2) - ko ki la ksa ka, ksu-ra Urdu (2) - tal makhana, talmakhana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/bc7fe16422873c7a10bc549b62dd50a1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1158
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1158.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/2f97aaca14f9d5848de212cc29e8b545
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/d9f79ca6177ecbd49615df6165825577
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/bc7fe16422873c7a10bc549b62dd50a1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/2f97aaca14f9d5848de212cc29e8b545
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/d9f79ca6177ecbd49615df6165825577
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/bc7fe16422873c7a10bc549b62dd50a1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/2f97aaca14f9d5848de212cc29e8b545
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/d9f79ca6177ecbd49615df6165825577
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/bc7fe16422873c7a10bc549b62dd50a1
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/2f97aaca14f9d5848de212cc29e8b545
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/d9f79ca6177ecbd49615df6165825577
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/bc7fe16422873c7a10bc549b62dd50a1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/2f97aaca14f9d5848de212cc29e8b545
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/d9f79ca6177ecbd49615df6165825577
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/bc7fe16422873c7a10bc549b62dd50a1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/da8288e06b3db16072344685f795b14d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/2f97aaca14f9d5848de212cc29e8b545
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/d9f79ca6177ecbd49615df6165825577
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2a716233e942c22d7165568a5a1341d/xclkon/bc7fe16422873c7a10bc549b62dd50a1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kokilaksa
+sanskrit_name: कोकिलाक्ष
+transliteration: kokilākṣa
+image_urls: https://www.medicinalplants.in/slokaimages/888/888_1.jpg https://www.medicinalplants.in/slokaimages/888/888_2.jpg https://www.medicinalplants.in/slokaimages/888/888_3.jpg https://www.medicinalplants.in/slokaimages/888/888_4.jpg https://www.medicinalplants.in/slokaimages/888/888_5.jpg https://www.medicinalplants.in/slokaimages/888/888_6.jpg https://www.medicinalplants.in/slokaimages/888/888_7.jpg https://www.medicinalplants.in/slokaimages/888/888_8.jpg
+ocr_text: कण्टकी दीर्घपत्रश्च पल्वलेषु प्ररोहति IShi ni) Kantaki, Dirghapatra, Palvaleshu are the synonyms of Kokilaksa नादेयी चेक्षुरः पुण्ड्रः कण्टकी कोकिलाक्षकः प्रोक्तः कोकिलपर्यायैरक्षिपर्यायपूर्वकैः Il IAa mal Nadeyi , Iksura, Pundra, Kantaki, Kokilaksaka, Kokila are the synonyms of Kokilaksa. कोकिलाक्षस्तु काकेक्षुरिक्षुरः क्षुरिका क्षुरः कण्डेक्षुरप्युक्ता इक्षुगन्धेक्षुबालिका |l (Bpnl Kokilaksa is called as kakeksura, iksura, ksurika, ksura, bhiksu, kandeksu, iksugandha and balika. भिक्षुः कोकिलाक्षः शृङ्गाली च शृङ्खला रणकास्तथा शृङ्गालघण्टी वज्रास्थिशृङ्खला वज्रकण्टकः |I इक्षुरः क्षुरको वज्रः शृङ्खलिका पिकेक्षण पिच्छिला चेक्षुगन्धा ज्ञेया भुवनसम्मिता Il IRjn) Kokilaksa is also called as srungali, srunkhala, ranaka, srungalaghanti, vajrasthi, srunkhala, vajrakantaka, iksura, ksuraka, vajra, srunkhalika, pikekshana, picchila, iksuganaha and bhuvana. क्षुरकः शीतलो वृष्यः स्वाद्वम्लः पिच्छिलस्तथा तिक्तो वातामशोफाश्मतृष्णादृष्ट्यनिलास्रजित् Il (Bpnl Ksuraka is tikta, svadu, amla in rasa , sita in veerya, picchila in guna, vrsya , alleviates vata, cures ama, sopha, asma, trsna, drsti vikara, anila and asra vikara कोकिलाक्षस्तु मधुरः शीतः पित्तातिसारनुत् वृष्यः कफहरो बल्यो रुच्यः सन्तर्पणः परः Il IRjnl Kokilaksa is madhura in rasa, sita in veerya, balya, rucya, vrsya, alleviates pitta and kapha cures atisara and santarpana क्षुरकः शीतलो वृष्यः मधुरः पिच्छिलो हिमः स्निग्धः पित्तामशोफाश्मतृष्णादृष्ट्यनिलास्रजित् Il (Dravil Ksuraka is Sita in Potency , Vrsya, Madhura in rasa, Picchila in Property , Hima in Potency , Snighaa, cures Pitta, Sopha, Asma, trsna, Drsti vikara, Anila nad Asra vikara कोकिलाक्षो हिमस्तिक्तः स्वाद्वम्लः स्निग्धपिच्छिलः वृष्यो वातामवाताश्मतृष्णादृष्टिखुडास्रजित् इक्षुरस्य दलं स्वादु तिक्तं शोफविषापहम् शूलपाण्डूदरानाहवातमूत्रविबन्धनुत् IKdn ) Kokilaksa is Hima in Potency, Tikta, Svaau, Amla in Rasa, Snigdha, Picchila in Property , Vrsya, cures Vata, Ama vata, Asma, Trsna, Drsti roga, Khuda, Asra vikara. Iksu rasa dala is Svadu, Tikta in Rasa , Sopha- Visha hara, cures Sula, Pandu, Uaara, Anaha, Mutra vibandha

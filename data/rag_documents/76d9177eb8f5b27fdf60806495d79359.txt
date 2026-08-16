@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 76d9177eb8f5b27fdf60806495d79359
+Botanical Name: Rosmarinus officinalis L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. English (2) - old man, rosemary
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/76d9177eb8f5b27fdf60806495d79359
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/76d9177eb8f5b27fdf60806495d79359
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/76d9177eb8f5b27fdf60806495d79359
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

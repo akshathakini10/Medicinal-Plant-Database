@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6c5ebaad6f440fde3229bae3cca136fa
+Botanical Name: Piper mullesua D.DON
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Piper bachystachyum WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 6 languages. Hindi (2) - cab, pahari pipar Kannada (1) - cavya Malayalam (3) - kattukurumulaku, kattumulaku, kurumulaka Sanskrit (4) - Sanskrit Comments  cavika, cavya, cavyah, gajapippali Tamil (1) - kattumilagu Telugu (2) - caikama, sevasu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c5ebaad6f440fde3229bae3cca136fa
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1676
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1676.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c5ebaad6f440fde3229bae3cca136fa/xclkon/bf8b2ac331f790342f127a5decfae5f9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c5ebaad6f440fde3229bae3cca136fa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

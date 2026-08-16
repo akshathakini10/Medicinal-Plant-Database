@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fdadf3062b6c634020640691804669a3
+Botanical Name: Fucus vesiculosus L.
+Family: Fucaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. English (5) - bladder fucus, bladderwrack, kelpware, rockweed, seawrack
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fdadf3062b6c634020640691804669a3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fdadf3062b6c634020640691804669a3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fdadf3062b6c634020640691804669a3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

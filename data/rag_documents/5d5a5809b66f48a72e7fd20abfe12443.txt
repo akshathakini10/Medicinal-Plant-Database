@@ -1,0 +1,103 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5d5a5809b66f48a72e7fd20abfe12443
+Botanical Name: Leptadenia reticulata (RETZ.) WIGHT & ARN.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Gymnema aurantiaca WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 50 Vernacular names found in 8 languages. Hindi (4) - dori, jhumka, jumka, meethi dodi Kannada (4) - bugudi hoovina gedde, hirandhodi, palateege balli, palatheege balli Malayalam (3) - atakodiyan, atapatiyan, curinil Marathi (10) - bhuidodi, dodi, khaandodkee, kharkhari, kher kodi, khirkhodi, raidodi, ray-dori, shinguti, shiradodee Sanskrit (13) - Sanskrit Comments  arkapushpi, caksusya, jivaniya, jivanti, madhusrava, mangalyanama, mangalyanamadheya, meda, sakasresta, sakasrestha, srngati, svarnajivanti, tittajivanti Tamil (6) - paalai keerai, palai-k-koti, palaikkirai, palaikkodi, palaikkoti, palakudai Telugu (9) - guttipaala, kalasa, mukku thummudu, mukkuthummudu, mukkutummudu, nn, paalathige, pala teega, palatige Tibetan (1) - dzi ba ni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1305
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1305.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443/xclkon/30f5e46c3bd3910eb3c4e2e67f33ce5f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443/xclkon/30f5e46c3bd3910eb3c4e2e67f33ce5f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443/xclkon/30f5e46c3bd3910eb3c4e2e67f33ce5f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443/xclkon/30f5e46c3bd3910eb3c4e2e67f33ce5f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5a5809b66f48a72e7fd20abfe12443
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jivanti
+sanskrit_name: जीवन्ती
+transliteration: jīvantī
+ref_drug_name: जीवन्ती
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Jivanti
+sanskrit_name: जीवन्ती
+transliteration: jīvantī
+ref_drug_name: जीवन्ती
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Jivanti
+sanskrit_name: जीवन्ती
+transliteration: jīvantī
+ref_drug_name: जीवन्ती
+status: Accepted source
+discussion: Silhaka has not been mentioned in the Brhatrayis;
+reference: [3]
+
+Identity Record 4
+drug_name: Jivanti
+sanskrit_name: जीवन्ती
+transliteration: jīvantī
+ref_drug_name: जीवन्ती
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 5
+drug_name: Jivanti
+sanskrit_name: जीवन्ती
+transliteration: jīvantī
+ref_drug_name: जीवन्ती
+status: Accepted source
+discussion: In Caraka, Jivanti has been mentioned under the 'Jivaniya mahaaksaaya' and 'Madhuraskanda'; In Susruta it has been cited in the 'Kakolyadi gana'; This shows that it was a very important drug; Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Jivanti
+sanskrit_name: जीवन्ती
+transliteration: jīvantī
+image_urls: https://www.medicinalplants.in/slokaimages/878/878_1.jpg https://www.medicinalplants.in/slokaimages/878/878_2.jpg https://www.medicinalplants.in/slokaimages/878/878_3.jpg https://www.medicinalplants.in/slokaimages/878/878_4.jpg https://www.medicinalplants.in/slokaimages/878/878_5.jpg https://www.medicinalplants.in/slokaimages/878/878_6.jpg https://www.medicinalplants.in/slokaimages/878/878_7.jpg https://www.medicinalplants.in/slokaimages/878/878_8.jpg
+ocr_text: चक्षुष्या सर्वदोषघ्नी जीवन्ती मधुरा हिमा IC.S., Su.S, A.Hr. ) Jivanti is madhura in rasa, hima in veerya, caksushya ana alleviates all the three doshas जीवन्ती मधुरा शीता ग्राहिणी लघुः चक्षुष्या सर्वदोषघ्नी बल्या५५युष्या रसायनी Il जीवन्तीफलमत्यर्थमधुरं बृंहणं गुरु IKdn ) Jivanti is Madhura in Rasa , Sita in Potency , Susnigdha in Property, Grahini, Laghu in Property, Caksushya, Sarvadoshaghnai, Balya, Ayushya Rasayani. Jivanti phala is Atyartha Madhura, Brmhana and Guru. सुस्निग्धां जीवन्त्यन्या पुत्रभदा प्रियङ्करी मधुरा जीवपुष्ठा च बृहज्जीवा यशस्करी II एवमव रसवीर्यबलान्विता भूतविद्रावणी ज्ञेया वेगाद्रसनियामिका Il IRjnl Another variety of Jivanti is namead as Brhat jivanti, Putrabhaara, Priyangkari, Madhura, Jivaprstha, Brhatjiva, Yasaskari Brhat jivanti is more potent than the other variety in Rasa,Virya ana Bala. It is Bhuta vidravana and in Vega it is Rasa niyamana karaka बृहत्पूर्वा बृहत्पूर्वा जीवन्ती बहुधा ख्याता प्रथमा शाकपुष्पिका द्वितीया खरखोटोति, शृङ्गरोटिका तिक्तजीवन्ती, पञ्चमी चार्कपुष्पिका बृहज्जीवन्तिका षष्ठी सर्वा तूलफला च सा Il जीवन्यां जीवनी जीवा प्राणदा जीववर्धनी मङ्गलयनामधेया य शाकश्रेष्ठा यशस्करी Il INi.sl Jivanti is of many varieties First one is called Sakapuspika second is Kharakhota, Third is Srungarotika, fourth is Tikta jivanti, fifth is Arka puspika, sixth is Brhat jivantika, where all are similar to Tula phala. Jivanti is also called as Jivanya, Jivani, Jiva, Pranada, Jivavardhani, Mangalya , Namadheya, Sakasrestha, Yasaskari. तृतीया चतुर्थी जीवन्ती स्याज्जीवनी जीवनीया जीवा जीव्या जीवदा जीवदात्री | शाकज्यष्ठा जीवभद्रा च भद्रा मङ्गल्या च यशस्या | जीवपृष्ठा च काञ्चिका शशिम्बिका सुपिङ्गलेति जीवन्ती ज्ञेया चाष्टादशाभिधा Il IRjnl Jivanti is otherwise called as Jivani, Jivaniya, Jiva, Jivya, Jivaaa, Jivadatri, Sakajyestha, Jivabhadra, Bhadra, Mangalya, Ksudrajiva, Yasasya , Srungadi , Jivaprstha, Kancika, Sasasimbika , Supingaleti, Jivanti. क्षुद्रजीवा शृङ्गाडी जीवन्ती जीवनी जीवा कुल्या भद्रा मधुस्रवा मधुश्वासा जीवपृष्ठा शाकश्रेष्ठा यशस्करी Il नामधेया जीवभद्रा पुत्रभद्रा जीवनीया देपृष्ठा मङ्गल्या शृङ्गरीटिका Il IKdn) Jivanti is otherwise called Jivani, Jiva, Kulya, Bhadra, Madhisrava, Madhusvasa , Jivaprstha, Sakasrestha, Yasakari, Namadheya, Jivabhadra, Putrabhaara, Skhankari, Jivaniya, Devaprstha, Mangalya, Srungaritika. सुखंकरी जीवन्ती शीतला स्वादुः स्निग्धा दोषत्रायापहा रसायनी बलकरी चक्षुष्या ग्राहिणी लघुः Il (Bpn) Jivanti is Sitala in Potency , Svaau in Taste , Snigaha in Property, Dosha traya hara, Rasayani, Balakari, Caksushya, Grahini ana Laghu in Property. चक्षुष्या सर्वदोषघ्नी जीवन्ती मधुरा हिमा शाकानां प्रवरान्यूना द्वितीया किञ्चिदेव तुIl (Dhn) Jivanti is madhura in rasa, hima in veerya, caksushya, sarvadoshaghna. It is the best among sakas

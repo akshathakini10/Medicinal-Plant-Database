@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 954301cfe3c3ae5053c92c7c9dd203cb
+Botanical Name: Cymbidium aloifolium (L.) SW.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cymbidium aloifolium (L.) SW. Cymbidium pendulum (ROB.) SW.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Malayalam (1) - kansjiram-maravara Marathi (1) - sonu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/954301cfe3c3ae5053c92c7c9dd203cb/xclkon/53f129232418d41c7392568c8db7b433
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/954301cfe3c3ae5053c92c7c9dd203cb/xclkon/a5d7bfc6539bfc33e2d9b0f1fc567c72
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/954301cfe3c3ae5053c92c7c9dd203cb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/954301cfe3c3ae5053c92c7c9dd203cb/xclkon/53f129232418d41c7392568c8db7b433
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

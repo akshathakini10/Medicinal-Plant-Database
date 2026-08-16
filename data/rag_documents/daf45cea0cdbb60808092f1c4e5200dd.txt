@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: daf45cea0cdbb60808092f1c4e5200dd
+Botanical Name: Hydrastis canandensis POIR.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 1 languages. English (9) - eyeroot, golden seal, goldenseal, ground raspberry, indian dye, turmeric root, yellow indian paint, yellow puccoon, yellowroot
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/daf45cea0cdbb60808092f1c4e5200dd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/daf45cea0cdbb60808092f1c4e5200dd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

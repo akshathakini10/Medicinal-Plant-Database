@@ -1,0 +1,80 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 34446040e9133df970adbe916df9ce16
+Botanical Name: Sida cordifolia L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 153 Vernacular names found in 8 languages. Hindi (9) - bal, balu, barial, bariar, kharenti, khareti, kharinta, kungyi, sahaderi Kannada (16) - bala, benne garaga, benne garuga, bheda, chikana, chittaralu, chittuharalu, cittuharalu, hethuthi, hetthtthi, hetthutti, hettuti-gida, hettutti, hirethutti, kisangi, vishagumbala Malayalam (5) - katturam, katturan, katu-uren, kuruntotti, velluram Marathi (6) - bala, chikana, china, khiranthi, khiranti, tupkaria Sanskrit (49) - Sanskrit Comments  badiyalaka, bala, baladhya, balini, batyalaka, beejband, bhadra, bhadrabala, bhadraudani, bhadrodani, bhadroga, bhumibala, bijband, brela, jayanti, kalyanini, kanaka, kathorayashtika, kharakakashtika, kharayashtika, kharayastika, krura, motapati, nagabala, nilaya, odanavha, odani, odanika, phanijivaka, prahasa, prasarini, rajabala, raktatandula, samanga, samansha, shitapaki, suvarna, svetberela, udani, vataghni, vatayahva, vatyabhidhana, vatyalaka, vatyali, vatyalika, vatyapushpi, vatyapuspi, vatyayani, vilala Tamil (45) - arivalmanaip puntu, arivalmanaippundu, arivalmukam, arivalmukkan, arivalmukku, arivalmukkucceti, arivalmukkuppaccilai, arivanmanaippuntu, arivanmukkan, arivanmukkukkirai, arputavati, cincirani, cirra muttiver, cirramutti, curutti, kayappuntu, kucci, kuperikai, kurunthotti, malaikkuruntali#, malaikkuruntali@, malaikkuruntolli, malaitanki, mayir-manikham, mayirccikaippuntu, mayirmanikkam, milirai, miliraicceti, nila thuthi, nilattutti, nilatutti, niratevi, pacucenki, pancenki, paniyar-tutti, pankampalai 1, tacapacam, tanki 1, tirikuraca, uromi, uromipputu, vattattiruppi 1, verpenti, virai, viri 1 Telugu (21) - anthisa, antisa, chiribenda, chiru benda, chirubenda, chitimutti, cirubenda, muttava, muttavapulagamu, mutthava, mutthavapulagamu, muttuva, suvarnam, suvarnamu, tella antisa, tellaantisa, tellagorra, tellantisa, thellagorra chettu, thellantisa, tutturabenda Tibetan (2) - ba la, ba-la
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34446040e9133df970adbe916df9ce16
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1915
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1915.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34446040e9133df970adbe916df9ce16
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34446040e9133df970adbe916df9ce16
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34446040e9133df970adbe916df9ce16
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34446040e9133df970adbe916df9ce16
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bala
+sanskrit_name: बला
+transliteration: balā
+ref_drug_name: बला
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Bala
+sanskrit_name: बला
+transliteration: balā
+ref_drug_name: बला
+status: Accepted source
+discussion: Bala is correlated to this species
+reference: [2]
+
+Identity Record 3
+drug_name: Bala
+sanskrit_name: बला
+transliteration: balā
+ref_drug_name: बला
+status: Accepted source
+discussion: IIdentified with this species
+reference: [3]
+
+Identity Record 4
+drug_name: Bala
+sanskrit_name: बला
+transliteration: balā
+ref_drug_name: बला
+status: Accepted source
+discussion: Bala' is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4beb91b607e30da1acbab0ed8686ff4c
+Botanical Name: Ipomoea quamoclit L.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Quamoclit pinnata BOJER
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 48 Vernacular names found in 8 languages. English (1) - cupid flower Hindi (3) - ishak pechak, kamalata, kamlata Kannada (11) - handara hoo, handara hoovu, kaama lathe, kaama mallige, kaamalathe, kaasirathna, kamalate, kempu mallige, kempu molle, kempu-mallige, kempumallige Malayalam (6) - churiakranti, suriyakanti, suryakanti, suryyakanti, tsjuria-cranti, tsjuriacranti Marathi (8) - amchivel, ganeshvel, samjuv, seethanchekais, sitache-kems, sitache-kes, sitachekesa, vishnukrant Sanskrit (2) - Sanskrit Comments  kamalata, tarulata Tamil (9) - kaci ratnam, kasi ratnam, kasi-ratnam, kasiratnam, kembumalligai, mayilmannikkam, mayir-manikkam, mayirmanikkam, vishnu-krant Telugu (8) - kaasirathnamu, kasiratnamu, ksiratnam, suriyarathnamu, suriyaratnamu, suryaratnalu, suryaratnam, suryaratnamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4beb91b607e30da1acbab0ed8686ff4c/xclkon/252279587f8947ebc81eb10f5f3c175c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4beb91b607e30da1acbab0ed8686ff4c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4beb91b607e30da1acbab0ed8686ff4c/xclkon/b1e0e2761431435e97e21435461dbc23
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4beb91b607e30da1acbab0ed8686ff4c/xclkon/252279587f8947ebc81eb10f5f3c175c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4beb91b607e30da1acbab0ed8686ff4c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4beb91b607e30da1acbab0ed8686ff4c/xclkon/b1e0e2761431435e97e21435461dbc23
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4beb91b607e30da1acbab0ed8686ff4c/xclkon/252279587f8947ebc81eb10f5f3c175c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4beb91b607e30da1acbab0ed8686ff4c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4beb91b607e30da1acbab0ed8686ff4c/xclkon/b1e0e2761431435e97e21435461dbc23
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4beb91b607e30da1acbab0ed8686ff4c/xclkon/252279587f8947ebc81eb10f5f3c175c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

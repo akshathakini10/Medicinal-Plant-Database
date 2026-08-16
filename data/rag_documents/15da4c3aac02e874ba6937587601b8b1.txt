@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 15da4c3aac02e874ba6937587601b8b1
+Botanical Name: Phoenix pusilla GAERTN.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 35 Vernacular names found in 6 languages. Hindi (2) - palavat, palawat Kannada (10) - eechakeya, eechalu, henthaale, hulleechala, hullichala, ichai, ichalu, indu, kiri eechalu, sannayichalu Malayalam (3) - chittintal, cittintal, inta Sanskrit (1) - Sanskrit Comments  parusakah Tamil (13) - cittintu, icham, ichu, inchu, indu, inju, ithi, kalangu, kurinji, sagi, siruintu, siruyinju, sittinju Telugu (6) - chiruta-ita, chitti-ita, chittiyita, churuta ita, cinna eachala, eechakoyya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15da4c3aac02e874ba6937587601b8b1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1633
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1633.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15da4c3aac02e874ba6937587601b8b1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15da4c3aac02e874ba6937587601b8b1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

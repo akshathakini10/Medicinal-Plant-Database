@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0441a54b109ef1b05afd9ff9d48d8b0d
+Botanical Name: Memecylon malabaricum (CLARKE) COGN.
+Family: Melastomataceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Memecylon amplexicaule ROB. var. malabarica CLARKE IN HOOK.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 4 languages. Kannada (14) - bandee kaayi, bandikya, bandikyaa, dodda nekkare, gandu kusumaale, gandukaepala, gandukepala, jadekodi, jodukodi, lokundi, mundi, nemar, neymaru, wolekodi Malayalam (5) - kannavu, kanyavu, kasavu, kashavu, kayavu Marathi (1) - limbatholi Tamil (10) - kaya, kaya1, malamthetti, ollikkoti, perungaca, perunkaca, perunkaya, puvai, puvaicceti, vacci
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0441a54b109ef1b05afd9ff9d48d8b0d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0441a54b109ef1b05afd9ff9d48d8b0d/xclkon/a32ab5880d4ccde928e36b674244e512
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0441a54b109ef1b05afd9ff9d48d8b0d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0441a54b109ef1b05afd9ff9d48d8b0d/xclkon/a32ab5880d4ccde928e36b674244e512
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0441a54b109ef1b05afd9ff9d48d8b0d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

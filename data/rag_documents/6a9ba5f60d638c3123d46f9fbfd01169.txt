@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6a9ba5f60d638c3123d46f9fbfd01169
+Botanical Name: Grewia optiva DRUMMOND
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Grewia oppositifolia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 2 languages. Hindi (9) - beul, beulang, bhimal, bhiunal, bihul, biul, dhaman, dhaman/beul, dhamman Sanskrit (2) - Sanskrit Comments  dhanvanah, todana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169/xclkon/dce9abe9b197c255fff761da032b7cc9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169/xclkon/dce9abe9b197c255fff761da032b7cc9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a9ba5f60d638c3123d46f9fbfd01169
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhanvana
+sanskrit_name: धन्वन
+transliteration: dhanvana
+ref_drug_name: धन्वन
+status: Suggested source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Todana
+sanskrit_name: तोदन
+transliteration: todana
+ref_drug_name: तोदन
+status: Most probable
+discussion: Todana has been mentioned under the 'Phala varga' (group of fruits) alongside 'Dhanvana'; In Kaideva nighantu its mentioned as a synonym of 'Mrgalindika'; Vagbhata has not given any explanation on Todana but just about 'Mrgalindika which shows a possibility that it might be 'Mrgalindika'; If it is considered as 'Dhanvana' then it might be correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dhanvana
+sanskrit_name: धन्वन
+transliteration: dhanvana
+image_urls: https://www.medicinalplants.in/slokaimages/822/822_1.jpg https://www.medicinalplants.in/slokaimages/822/822_2.jpg
+ocr_text: धन्वनःपिच्छिलत्वक्चधनुर्वृक्षोमहत Synonyms Of Dhanvana are Picchila, Tvak Dhanurvrksha mahat धन्चनस्तुवरोवृष्योमधुरःकटुमोतक बल्योरूक्षोलघुश्चैवधातुवृद्धिकरोमतः किंचिदुष्णश्चसंप्रोक्तोव्रणरोपणकारकः कफवातहरोदाहशोषकण्ठरूजापहः रक्तरुक्पित्तकासघ्नःपीनस्यविनाशकः फलंचास्यस्वादुशीतंतुवरंकफवातहम् Dhanvana is tuvara, madhura, katu in rasa, laghu, ruksa in guna, slightly usna in veerya, vrshya, balya, promotes dhatu vrddhi vrana ropana, alleviates kapha, vata, cures daha, sosa, kantha ruja, rakta, ruk, pitta, kasa, pinasa Its phala is svadu, tuvara in rasa, sita in veerya, alleviates kapha, vata

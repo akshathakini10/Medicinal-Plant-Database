@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 363a23da55fcf7e5d55a3a65c97a28b0
+Botanical Name: Eugenia hemispherica WIGHT
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 3 languages. Kannada (6) - bananerale, bannerale, makkenerale, makkinerale, mattanerale, nayineralu Malayalam (5) - payanaval, vellanaral, velleinyaral, vennaral, vennyara Tamil (13) - amatikanavval, amatikanavvalmaram, cunnakam, cunnakavirutcam, iracacampu2, kolumpunaval, kottainakam2, titcanakantakam2, titcanakantam2, titcanakkantamaram, vellai naval, vellainaval, vennavval
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/363a23da55fcf7e5d55a3a65c97a28b0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/363a23da55fcf7e5d55a3a65c97a28b0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/363a23da55fcf7e5d55a3a65c97a28b0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

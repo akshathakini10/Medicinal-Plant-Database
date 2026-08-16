@@ -1,0 +1,98 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 87ff7185526f449e897125584c3d7fe5
+Botanical Name: Lawsonia inermis L.
+Family: Lythraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Lawsonia alba LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 182 Vernacular names found in 10 languages. English (1) - henna Hindi (7) - hena, henna, mahendi, mehandi, mehanti, mehndi, mhindi Kannada (15) - goranta, gorante, goranthu, goranti, goranti bannada gida, gorantlu, honnu balli, koranti, korate, madaranga, madarangi, madirengi, madurangi, madurengi, mardaani soppu Malayalam (16) - mail-anschi, mailanchi, mailanci, mailanji, mailanschi, manjathi, marutonni, mauilanchi, mayilanchi, mayilanci, mayilanji, pontalasi, pontaletsche, poyitalace, poytalacci, puttalacci Marathi (6) - mehandi, mehndi, mendhi, mendi, padchi-methi, panwar Sanskrit (24) - Sanskrit Comments  dvivranta, kokadanta, kuravaka, madanaka, madayanti, madayantika, medhini, medika, mendhi, mendhika, mendi, mendika, nakharanjaka, nakharanjani, ragagarbha, ragangi, raktagarba, ranjaka, sahashara, sakachara, sakachera, sugandhapushpa, timira, yavaneshta Tamil (74) - aivanam, aivanam#, aivani, aivanimaram, aiyavani, alakuvannatti, alavan, alavanam, azhavanam, cairiyakam1, cakacari1, cakacarikam, cakacarimaram, cakaci, caranam2, carvatamuli, cempi#, cempi@, cemputam, henna, korandam, korantam3, kotiyavisatti, kotuvisatti, kurandagam, kurantakam, kurantam, kuravakam, kurinci2, kurinji, mailenanti, mali, malikai 2, maratani, marithondi, maroodanie, marudondri, marudonri, marutani, marutani@, marutenai, maruthani, maruthanri, maruthondri, maruthonri, marutoni, marutonimaram, marutonri, marutonti, mayilainanti, menti 1, mentikai 1, mettavisatti, niliyam, niliyamaram, pavalakkurinci 2, pidai, ponninpuvalamarudondri, ponnirppuvalamarutonri, ponvannakkurinci, ruttirakopam, ruttirakoppamaram, tanri, tanri@, toni, tonimaram, tonri1, tonrimaram, uruttirakopam, uyarvannatti, vakuntaki, vakuntakimaram, valaiyamali, vanakkanni Telugu (25) - gaumba, goeranta, goounta, gorandla, goranta, goranti, gorata, gorinta, gorintaaku, gorintaku, gorintha, gounta, guvanta, kommi, krommi, kuravakam, kuravakamu, kuravamu, maida, maidaaku, paccapeddagoranta, pachapeddagoranta, pachchapeddagoranta, pachhapeddagoranta, peddapattsagoranta Tibetan (1) - ma du ya nta Urdu (13) - burg hena, burg hena khushk, burg henna saida, burg nim, burge hena, burrg henna, hina, mehendi, mehndi, mehndi ke pattey, mehndi ke sabz pattay, menhdi, tukhm panwar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/d7f7b3d4ccc4ef36c9d7ca4362a93788
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/a0f858b2149eab23619c1cefd0625178
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/d7f7b3d4ccc4ef36c9d7ca4362a93788
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/a0f858b2149eab23619c1cefd0625178
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/d7f7b3d4ccc4ef36c9d7ca4362a93788
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/a0f858b2149eab23619c1cefd0625178
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/d7f7b3d4ccc4ef36c9d7ca4362a93788
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/a0f858b2149eab23619c1cefd0625178
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/d7f7b3d4ccc4ef36c9d7ca4362a93788
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/a0f858b2149eab23619c1cefd0625178
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ff7185526f449e897125584c3d7fe5/xclkon/d7f7b3d4ccc4ef36c9d7ca4362a93788
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Harenu
+sanskrit_name: हरेणु
+transliteration: hareṇu
+ref_drug_name: हरेणु
+status: Substituted source
+discussion: Has been recommended to be used in its place
+reference: [1]
+
+Identity Record 2
+drug_name: Madanaka
+sanskrit_name: मदनक
+transliteration: madanaka
+ref_drug_name: मदनक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Madayantika
+sanskrit_name: मदयन्तिका
+transliteration: madayantikā
+ref_drug_name: मदयन्तिका
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Madayantika
+sanskrit_name: मदयन्तिका
+transliteration: madayantikā
+image_urls: https://www.medicinalplants.in/slokaimages/1005/1005_1.jpg
+ocr_text: रक्तरंगा दाहहन्त्री श्लेष्मकुष्ठहा बीजमस्याः ग्रहकन्तु शोषं च प्रकीर्त्तितम्|| भूतग्रहाणां दोषं तु ज्वरं चैवं विनाशयेत् II (Nir) Raktaranga is dahahantri, vanti kara, slesma kustha hara. Its bija is $0$a prakirtita, and cures bhuta, graha, jvara. वान्तिकृत् grahi

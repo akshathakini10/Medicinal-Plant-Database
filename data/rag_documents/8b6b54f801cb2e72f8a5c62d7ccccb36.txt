@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8b6b54f801cb2e72f8a5c62d7ccccb36
+Botanical Name: Jasminum officinale L.
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 68 Vernacular names found in 7 languages. English (2) - common jasmine, white jasmine Hindi (13) - bammalti, ban chameli, banmalti, chamba, chambali, chambeli, chameli, champa, dhur malti, jai, malti, sansaoni, white jasmine Kannada (12) - aane jaaji, aane mallige, aanejaajimallige, aanemallige, ajjige, ajjuge, jaaji, jaajihoo, jaajihoovu, jaajimallige, sanna jaaji mallige, sannajajimallige Marathi (7) - chambelee, chamelee, jaayi, jai, jayli, motiya, ran mogri Sanskrit (28) - Sanskrit Comments  adhi, ambashtha, bahugandha, balapushpi, balapushpika, bhringananda, cetika, charumoda, gajavhaya, ganika, gunajvala, harini, hrdyagandha, jati, maguni, malati, mallika, modani, prahasanti, punyagandha, saumanasyayani, shankhayuthika, shikhandi, shikhandini, sugandhika, sumana, vasanti, yuthika Telugu (5) - chameli, jaaji, maalathi, malli, sanna jaji Urdu (1) - roghan chambeli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6b54f801cb2e72f8a5c62d7ccccb36
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6b54f801cb2e72f8a5c62d7ccccb36
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6b54f801cb2e72f8a5c62d7ccccb36
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6b54f801cb2e72f8a5c62d7ccccb36
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6b54f801cb2e72f8a5c62d7ccccb36
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jati
+sanskrit_name: जाती
+transliteration: jātī
+ref_drug_name: जाती
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Jati
+sanskrit_name: जाती
+transliteration: jātī
+image_urls: https://www.medicinalplants.in/slokaimages/99/99_1.jpg https://www.medicinalplants.in/slokaimages/99/99_2.jpg https://www.medicinalplants.in/slokaimages/99/99_3.jpg
+ocr_text: जातियुगं (जातिः स्वर्णजातिश्च) तिक्तमुष्णं तुवरं लघु दोषजित् शिरोडक्षिमुखदन्तार्तिविषकुष्ठानिलास्रजित् Il (Bpn) Jati yuga (ati and svarna jati) are tikta, tuvara in rasa laghu in guna, usna in veerya, alleviates doshas, cures visa, kustha and pain in siras aksi, mukha and danta चमेली तुवरा तिक्ता व्रणकुष्ठविषास्रजित् शिरोषक्षिमूखदन्तार्तिहरा त्वग्दोषनाशिनी (Nir) Cameli is tuvara, tikta in rasa CUreS vrana, kustha, asr8 vikara, siro- aksi- mukha- danta roga and tvag dosha चक्षुष्य तस्यास्तत्पुष्पं कफपित्तजित् मधोज्ञं च सर्वश्रेष्ठतमं मतम्I| (Dhn) Jati is caksushya; Its puspa alleviates kapha and pitta, is sasugandhi, manojna and sarvasresta tama. मुकुलं ससुर्जाीधे

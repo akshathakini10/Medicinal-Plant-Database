@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a905997fc102dd84d4c0b602b510cc29
+Botanical Name: Rhizophora mucronata LAM.
+Family: Rhizophoraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Rhizophora mangle ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 7 languages. English (1) - boriti poles Hindi (1) - bhora Kannada (6) - kaandla, kandale, kandlaa, kandle, nija kaandla, olle kaandla Malayalam (6) - panaccikantal, panachikandal, panicchakandal, peecandel, pikantal, venkantal Marathi (3) - kamdlam, kamdli, kandal Tamil (7) - coripunnai, kandal, kantal, kattuppunnai, peykkandal, peykkantal#, peykkantal@ Telugu (9) - adavi ponna, adaviponna, kandia, kandla, manciponna, manjiponna, ponna, upoo-ponna, uppu ponna
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a905997fc102dd84d4c0b602b510cc29
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a905997fc102dd84d4c0b602b510cc29/xclkon/b47dc4bf118a37b0681320b5e03b7153
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a905997fc102dd84d4c0b602b510cc29
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a905997fc102dd84d4c0b602b510cc29/xclkon/b47dc4bf118a37b0681320b5e03b7153
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a905997fc102dd84d4c0b602b510cc29
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6873a2b39059560da7ca97489d8906a8
+Botanical Name: Citrus sinensis (L.) OSBECK
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 6 languages. English (2) - blood orange, sweet orange Hindi (3) - malta, mosambi, musambi Kannada (2) - kamal hanuu, moosambi Sanskrit (1) - Sanskrit Comments  nagaranga Tamil (8) - carukkaraikkolumiccai, carukkarainarattai, cattukkuti, kotinarattai1, pantil 1, pattaviyam1, sathukudi, tittippunarattai Telugu (1) - battavi narinja
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6873a2b39059560da7ca97489d8906a8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6873a2b39059560da7ca97489d8906a8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6873a2b39059560da7ca97489d8906a8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6873a2b39059560da7ca97489d8906a8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Naranga - prakara
+sanskrit_name: नारङ्ग प्रकार
+transliteration: nāraṅga prakāra
+ref_drug_name: नारङ्ग प्रकार
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

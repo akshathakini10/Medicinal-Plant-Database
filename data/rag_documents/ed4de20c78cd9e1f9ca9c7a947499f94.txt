@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ed4de20c78cd9e1f9ca9c7a947499f94
+Botanical Name: Calamus rotang L.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 90 Vernacular names found in 7 languages. Hindi (3) - bemt, bet, vetasa Kannada (14) - bedisu, bethasu, betta, bettha, betthada balli, dodda bettha, habbe, hebbe, hejje, naagabettha, naagara bettha, nagabetta, suralbetta, vaanira Malayalam (7) - choorai, chooral, chural, cural, nirvanni, punampu, purampu Marathi (1) - vaeth Sanskrit (22) - Sanskrit Comments  abhrapushpa, dirghapatraka, dirghavalli, gandhapusha, kalana, latavamsa, manjarinamra, nichula, ratha, rathabhra, shita, sushena, vanira, vanjula, vetagra, vetasa, vetasah, vetasi, vetra, vetrah, vetus, vidula Tamil (22) - arini, catikkilanku, churei, churel, cural, curalkilanku, mellisuppirambu, nirvanji, perambu, pirambu, pirampu, pirappan, pisin, prappankilanku, sadi, sothu perambu, sural, suvedagandam, suvedam, tevattirattal, vaniram, vettiram Telugu (21) - betham, bethama, bethamu, bettam, bettamu, betthama, betthamu, betthapu chettu, neeruprabha, niruprabba, paemu bethamu, pemu, pepa, prabba, prabbali, prabbili, prabha, prabili, sannabethamu, sannabettamu, vaethasamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed4de20c78cd9e1f9ca9c7a947499f94
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 397
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/397.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed4de20c78cd9e1f9ca9c7a947499f94
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed4de20c78cd9e1f9ca9c7a947499f94
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed4de20c78cd9e1f9ca9c7a947499f94
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed4de20c78cd9e1f9ca9c7a947499f94
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

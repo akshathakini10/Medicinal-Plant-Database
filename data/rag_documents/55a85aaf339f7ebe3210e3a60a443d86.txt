@@ -1,0 +1,74 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 55a85aaf339f7ebe3210e3a60a443d86
+Botanical Name: Randia uliginosa DC.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+eromphis uliginosa (RETZ.) MAHESH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 89 Vernacular names found in 7 languages. Hindi (13) - andho-arundo, bharani, katul, katulul, panar, paniah, penaura, pendalu, pendua, pindalu, pindar, pindara, pindora Kannada (11) - banbugri, doddakare, garudakare, kare, karudukari, ollekare, pandri, pannadri, pendhari, pendri, wollekarai Malayalam (7) - kara, karei, karu, malankara, ponnekare, punankara, vallikara Marathi (14) - cindra, kalaphendra, kare, pandhari, pemdari, pendari, pendhara, pendrey, pendru, penebra, phetra, pindra, telphetru, tupkela Sanskrit (6) - Sanskrit Comments  devatamalla, gangati, pindalu, pindaluka, pindara, pinditaka Tamil (18) - kalikarai, karai, karai2, karaiver, kottukarai1, makkarai, perukarai, perungarai, perunkarai, uttamati, uttamatikkarai, vagata, vagatta, valakkarai, valikkarai, vargarai, varikkarai, wagatta Telugu (20) - adavi manga, adavimanga, adivimanga, devatamalle, goanka, guaku, guhyaku, kondamanga, kuka-elka, nallaika, nallaika-boliki, nallakakasi, nallakakisha, nallakokkesa, nallakokkita, nallamanga, nellakakisha, peddamranga, peddamrangu, vallakakisha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86/xclkon/5a4084b23260e8e93f6d5448b37b7006
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86/xclkon/5a4084b23260e8e93f6d5448b37b7006
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86/xclkon/5a4084b23260e8e93f6d5448b37b7006
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a85aaf339f7ebe3210e3a60a443d86/xclkon/5a4084b23260e8e93f6d5448b37b7006
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Pindara
+sanskrit_name: पिण्डार
+transliteration: piṇḍāra
+ref_drug_name: पिण्डार
+status: Accepted source
+discussion: It has been cited in Madanapala nighantu and identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Pinditaka
+sanskrit_name: पिण्डीतक
+transliteration: piṇḍītaka
+ref_drug_name: पिण्डीतक
+status: Most probable
+discussion: Most probably correlated to this species
+reference: [1]
+
+Identity Record 3
+drug_name: Pinditaka
+sanskrit_name: पिण्डीतक
+transliteration: piṇḍītaka
+ref_drug_name: पिण्डीतक
+status: Suggested source
+discussion: According to some 'Pinditaka' is interpreted as 'Pindara' which may be identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

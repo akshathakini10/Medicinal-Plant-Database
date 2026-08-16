@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a61c4667b27a6dbf90ca265e3eacc97e
+Botanical Name: Nothapodytes nimmoniana (GRAH.) MABB.
+Family: Icacinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Mappia foetida MIERS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 3 languages. Hindi (1) - phuga Kannada (10) - anavu, durnaathada mara, durvaasane mara, haelu, hedare, hel, helu, kodasa, penari, pennare Malayalam (4) - chorla, corilai, pilipiccha, pillippiccu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61c4667b27a6dbf90ca265e3eacc97e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61c4667b27a6dbf90ca265e3eacc97e/xclkon/c1d369ed6dfe1e63284794f21020b2e1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a61c4667b27a6dbf90ca265e3eacc97e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,181 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a2f427bdd69c3196852735873010d367
+Botanical Name: Cinnamomum tamala NEES & EBERM.
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 123 Vernacular names found in 9 languages. Hindi (20) - barahmi, dalchini, dalchunu, darchini, khikhelu, kikoa, kirkiria, silkanti, sinkami, tajkalam, tajkalmi, tajpat, talispatar, talispatri, tamal pattar, tej patra, tejpat, tejpatt, tezpat, tomal pattar Kannada (6) - dalchini, lavangadapatti, lavangapathri, lavangapatri, lavangapatte, patraka Malayalam (2) - ilavannam, paccila Marathi (6) - daalchinitiki, dalchinitiki, ranachadal, sambharapana, tamalapatra, tejpat Sanskrit (41) - Sanskrit Comments  ankusha, chhadana, coca, dala, dalavhaya, gandhajata, gomeda, gopana, ishtagandha, kalaskandah, lasha, nagakesaram, nalika, naluka, pakranjana, patra, patraka, patrakhya, patram, roma, romasha, shitarasa, sukumaraka, suranirgandha, surasa, tamal, tamala, tamalaka, tamalapatra, tamalapatram, tapasa, tapiccha, tejapatra, tespatra, tvak, tvakapatra, tvakpatra, twak, vasa, vasanavhaya, vastra Tamil (42) - alametam, alametamaram, alati2, cattulavam, cirunakappu, cummokam, cummokappattai, cuvetam4, elavangapattiri, ilavankappattaimaram, ilavankappattiri, ilinku, kattumurunkai3, kumarakam, kuvilam1, lavangapathri, lavangappattri, maluram 1, mavili, mavilimaram, mavilinkai, mavilinkam@, mikuttiyal 1, mitira, mitirappattai, mottulavankappattai, nirumaliyam, nirvila1, periyailavankappattai, periyalavankap pattai, perulavankappattai, talicapattiri, talisha-pattiri, talishappattiri, tamalapattiri, tamalapattiri#, tamalapattiri@, tipani1, tipini2, tuvakkupattiri, ulimiti, vilvam# Telugu (3) - talisha-patri, tallishapatri, thaallishapathri Tibetan (1) - dri zim boi lo ma and ga ndha Urdu (2) - sazaj hindi, zarnab (telispattar)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 542
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/542.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2f427bdd69c3196852735873010d367
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Coca
+sanskrit_name: चोच
+transliteration: coca
+ref_drug_name: चोच
+status: Most probable
+discussion: It has been identified with Tvak or Dalcini and correlated to this species
+reference: [1]
+
+Identity Record 2
+drug_name: Nalika
+sanskrit_name: नलिका
+transliteration: nalikā
+ref_drug_name: नलिका
+status: ?
+discussion: ?
+reference: [2]
+
+Identity Record 3
+drug_name: Patra
+sanskrit_name: पत्र
+transliteration: patra
+ref_drug_name: पत्र
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Tamala
+sanskrit_name: तमाल
+transliteration: tamāla
+ref_drug_name: तमाल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Tamala - vrksa
+sanskrit_name: तमाल वृक्ष
+transliteration: tamāla vṛkṣa
+ref_drug_name: तमाल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 6
+drug_name: Tvak
+sanskrit_name: त्वक्
+transliteration: tvak
+ref_drug_name: त्वक्
+status: ?
+discussion: ?
+reference: [2]
+
+Identity Record 7
+drug_name: Tvak
+sanskrit_name: त्वक्
+transliteration: tvak
+ref_drug_name: त्वक्
+status: Accepted source
+discussion: Tvak is identified with this species
+reference: [2]
+
+Identity Record 8
+drug_name: Tvak
+sanskrit_name: त्वक्
+transliteration: tvak
+ref_drug_name: त्वक् प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 9
+drug_name: Tvak - prakara
+sanskrit_name: त्वक् प्रकार
+transliteration: tvak prakāra
+ref_drug_name: त्वक्
+status: ?
+discussion: ?
+reference: [2]
+
+Identity Record 10
+drug_name: Tvak - prakara
+sanskrit_name: त्वक् प्रकार
+transliteration: tvak prakāra
+ref_drug_name: त्वक्
+status: Accepted source
+discussion: Tvak is identified with this species
+reference: [2]
+
+Identity Record 11
+drug_name: Tvak - prakara
+sanskrit_name: त्वक् प्रकार
+transliteration: tvak prakāra
+ref_drug_name: त्वक् प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 12
+drug_name: Varanga
+sanskrit_name: वराङ्ग
+transliteration: varāṅga
+ref_drug_name: वराङ्ग
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tamala
+sanskrit_name: तमाल
+transliteration: tamāla
+image_urls: https://www.medicinalplants.in/slokaimages/786/786_1.jpg https://www.medicinalplants.in/slokaimages/786/786_2.jpg https://www.medicinalplants.in/slokaimages/786/786_3.jpg https://www.medicinalplants.in/slokaimages/786/786_4.jpg
+ocr_text: पत्रकं मधुरं किञ्चितं तीक्ष्णोष्णं पिच्छिलं लघु| निहन्ति कफवातर्शोहल्लासारुचिपीनसान्I| (Bpn) Patraka is madhura in rasa, tiksna, picchila, laghu in guna, usna in veerya, alleviates kapha and vata, cures arsa, hrllasa, aruci and pinasa पत्रकं लघु तीक्ष्णोष्णं कफवातविषापहम् बस्तिकण्डूतिदोषघ्नं मुखमस्तकशोधनम् (Rjn) Patraka is laghu, tiksna in guna, usna in veerya alleviates kapha and vata, is mukha mastaka sodhana, cures visha and basti kanduti dosha. पत्रमुष्णं लघुश्लेष्महृल्लासार्शोडनिलापहम् पीनसं चैव त्रिदोषमपि नाशयेत्I| (Mdn) Patra is laghu in guna, usna in veerya, alleviates slesma and anila, cures hrllasa, arsa, hrdroga, pinasa and destroys all the three doshas हृद्रोगं पत्रकं कफवात्तास्रहल्लासारोचकापहम्I| (शोढलः) Patraka alleviates kapha and vata, cures asra, hrllasa and arocaka
+
+Shloka Record 2
+drug_name: Tamala - vrksa
+sanskrit_name: तमाल वृक्ष
+transliteration: tamāla vṛkṣa
+image_urls: https://www.medicinalplants.in/slokaimages/786/786_1.jpg https://www.medicinalplants.in/slokaimages/786/786_2.jpg https://www.medicinalplants.in/slokaimages/786/786_3.jpg https://www.medicinalplants.in/slokaimages/786/786_4.jpg
+ocr_text: पत्रकं मधुरं किञ्चितं तीक्ष्णोष्णं पिच्छिलं लघु| निहन्ति कफवातर्शोहल्लासारुचिपीनसान्I| (Bpn) Patraka is madhura in rasa, tiksna, picchila, laghu in guna, usna in veerya, alleviates kapha and vata, cures arsa, hrllasa, aruci and pinasa पत्रकं लघु तीक्ष्णोष्णं कफवातविषापहम् बस्तिकण्डूतिदोषघ्नं मुखमस्तकशोधनम् (Rjn) Patraka is laghu, tiksna in guna, usna in veerya alleviates kapha and vata, is mukha mastaka sodhana, cures visha and basti kanduti dosha. पत्रमुष्णं लघुश्लेष्महृल्लासार्शोडनिलापहम् पीनसं चैव त्रिदोषमपि नाशयेत्I| (Mdn) Patra is laghu in guna, usna in veerya, alleviates slesma and anila, cures hrllasa, arsa, hrdroga, pinasa and destroys all the three doshas हृद्रोगं पत्रकं कफवात्तास्रहल्लासारोचकापहम्I| (शोढलः) Patraka alleviates kapha and vata, cures asra, hrllasa and arocaka
+
+Shloka Record 3
+drug_name: Tvak
+sanskrit_name: त्वक्
+transliteration: tvak
+image_urls: https://www.medicinalplants.in/slokaimages/409/409_1.jpg https://www.medicinalplants.in/slokaimages/409/409_2.jpg https://www.medicinalplants.in/slokaimages/409/409_3.jpg https://www.medicinalplants.in/slokaimages/409/409_5.jpg
+ocr_text: उक्तादारुसितास्वाद्वीतिक्ताचानिलपित्तहृत् सुरभिःशुक्रलावण्यामुखशोषवृषापहा I| (Bpn) Darusita is svadvi, tikta in rasa, alleviates anila, pitta, is surabhi sukrala, varnya, cures mukhasosa and vrsha त्वचंतुकटुकंशीतंकफकासविनाशनम् | शुक्रामशनंचैवकण्ठशूद्धिकरंलघुI| ( राजनिघण्टु) Tvaca is katu in rasa, laghu in guna, sita in veerya, destroys kapha, kasa, is sukra amasana and kantha sudchhikara त्वचंलघूष्णंकटुकंस्वादुतिक्तंचरूक्षकम् पित्तलंकफवातघ्नंकण्डवामरुचिनाशनम | | हृद्वस्तिरोगवातार्शःकृमिपीनसशुक्रहृत्| (Bpn) Tvaca is katu, svadu, tikta in rasa, laghu, ruksa in guna, usna in veerya, increases pitta, alleviates kapha, vata, cures kandu, ama, aruci, hrd vasti roga, vata, arsa, krmi and pinasa and is sukrahara. त्वचतैलगुणाः वाह्निमान्द्यानिलहरमाध्मानाक्षेपनाशनम वान्त्युत्क्लेशप्रशमनंसंग्राहिदशनार्तिहृत्| E त्वचंतैलंरजःस्रावितोयेक्षिप्तंनिमज्जति (आं.सं) Taila alleviates vahni mandya and anila, destroys adhmana, aksepa, pacifies vanti, utkesa, is sangrahi, dasana arti hara, induces raja srava and does not sink when put in water
+
+Shloka Record 4
+drug_name: Tvak - prakara
+sanskrit_name: त्वक् प्रकार
+transliteration: tvak prakāra
+image_urls: https://www.medicinalplants.in/slokaimages/409/409_1.jpg https://www.medicinalplants.in/slokaimages/409/409_2.jpg https://www.medicinalplants.in/slokaimages/409/409_3.jpg https://www.medicinalplants.in/slokaimages/409/409_5.jpg
+ocr_text: उक्तादारुसितास्वाद्वीतिक्ताचानिलपित्तहृत् सुरभिःशुक्रलावण्यामुखशोषवृषापहा I| (Bpn) Darusita is svadvi, tikta in rasa, alleviates anila, pitta, is surabhi sukrala, varnya, cures mukhasosa and vrsha त्वचंतुकटुकंशीतंकफकासविनाशनम् | शुक्रामशनंचैवकण्ठशूद्धिकरंलघुI| ( राजनिघण्टु) Tvaca is katu in rasa, laghu in guna, sita in veerya, destroys kapha, kasa, is sukra amasana and kantha sudchhikara त्वचंलघूष्णंकटुकंस्वादुतिक्तंचरूक्षकम् पित्तलंकफवातघ्नंकण्डवामरुचिनाशनम | | हृद्वस्तिरोगवातार्शःकृमिपीनसशुक्रहृत्| (Bpn) Tvaca is katu, svadu, tikta in rasa, laghu, ruksa in guna, usna in veerya, increases pitta, alleviates kapha, vata, cures kandu, ama, aruci, hrd vasti roga, vata, arsa, krmi and pinasa and is sukrahara. त्वचतैलगुणाः वाह्निमान्द्यानिलहरमाध्मानाक्षेपनाशनम वान्त्युत्क्लेशप्रशमनंसंग्राहिदशनार्तिहृत्| E त्वचंतैलंरजःस्रावितोयेक्षिप्तंनिमज्जति (आं.सं) Taila alleviates vahni mandya and anila, destroys adhmana, aksepa, pacifies vanti, utkesa, is sangrahi, dasana arti hara, induces raja srava and does not sink when put in water

@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8fed9b52bb4c1275b5366616ad17b2f6
+Botanical Name: Rhinacanthus nasuta (L.) KURZ.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Justicia nasuta L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 108 Vernacular names found in 7 languages. Hindi (7) - joi-pani, juipani, juyipani, palak-johi, palak-juhi, palakjuhi, palikjuhia Kannada (8) - dodda patika, dodda pettika gida, doddapatike, naaga mallige, naga-mallige, nagamallige, nagamulli, negamuli Malayalam (12) - nagamallich-cheta, nagamulla, peelcolue, pul-colli, pulcolli, pulukkolli, purukolli, pushpa-kedal, pushpakedal, pushpaketal, puzhuk-kolli, puzhukkolli Marathi (3) - dadmari, gajakarni, kaboothar-ka-baand Sanskrit (4) - Sanskrit Comments  juthikapurni, yuthikaparni, yuthikapurni, yuthiparni Tamil (64) - anicanacam, aniccai#, aniccai@, anicci, anichai, ara, atimotam, caliparani, caranacakam#, caranacikam, caranacikamaram, carpikamikam, carpikamikamaram, catturunuvam, culli1, curana, curanam, curanamanankam, curonitam, kakanacattuvam, kaligai, kalikai#, kalikai@, kalikaicceti, kayattenukacceti, kayattenukam, kuruntai, kutacakari, malli 1, naagamalli, naga malli, naga-mali, naga-malli, nagamalli, nagamalli nagamalligai, nagamalligai, nakamalli, nakamullai, nakamutti1, nakapala, nakapalai, naravam3, naravika, niyacati, palaccavam, palvati, piramatalayacceti, piramatalayam, pulukkolli 1, tevam1, tevamaram1, tevappiranki, ukavalli, ukavallicceti, uragamalli, urakakanni, urakam, urakamalli#, urakamalli@, urakannicceti, vainakamalli, visamallika, visamallikacceti, vitamallikai Telugu (10) - naaga mulli, naagamalle, naegamooli, nagamalle, nagamalli, nagamallige, nagamulli, nargamollay, nargamolle, negamuli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6/xclkon/5f9cf83edc86176d10979fd69403b211
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6/xclkon/c6bf82b06449132bb7dc1861913ec505
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6/xclkon/5f9cf83edc86176d10979fd69403b211
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6/xclkon/c6bf82b06449132bb7dc1861913ec505
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6/xclkon/5f9cf83edc86176d10979fd69403b211
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6/xclkon/c6bf82b06449132bb7dc1861913ec505
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fed9b52bb4c1275b5366616ad17b2f6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Yuthiparni
+sanskrit_name: यूथिपर्णी
+transliteration: yūthiparṇī
+ref_drug_name: यूथिपर्णी
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

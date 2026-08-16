@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6fbc2de5b1514d4dd8191d02f72678af
+Botanical Name: Citrus reticulata BLANCO
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 10 languages. English (5) - clementine, mandarin orange, satsuma, satsuma orange, tangerine Hindi (2) - naramgi, santara Kannada (5) - kanchi kaayi, kiththale, kodagina kithaale, naagapuri kitthale, naarangi Malayalam (1) - madhuranaranna Marathi (3) - naarangi, nowrangi, santhara Sanskrit (4) - Sanskrit Comments  aravata, naranga, narangah, svadunarangah Tamil (2) - kamalappalam, narangam Telugu (1) - naarinja Tibetan (1) - skyur rtsi chun na Urdu (2) - gul-e-bahar (bahar naranj), sangtara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbc2de5b1514d4dd8191d02f72678af
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbc2de5b1514d4dd8191d02f72678af
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbc2de5b1514d4dd8191d02f72678af
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6fbc2de5b1514d4dd8191d02f72678af
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Naranga
+sanskrit_name: नारङ्ग
+transliteration: nāraṅga
+ref_drug_name: नारङ्ग
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Naranga
+sanskrit_name: नारङ्ग
+transliteration: nāraṅga
+ref_drug_name: नारङ्ग
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

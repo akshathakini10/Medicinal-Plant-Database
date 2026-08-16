@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9aacb504af9f247f5e0d91d23027211c
+Botanical Name: Pogostemon cablin (BLANCO) BENTH.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pogostemon patchouli PELLET.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. English (2) - patchouli, patchouly Sanskrit (1) - Sanskrit Comments  paci Tamil (1) - katir paccai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aacb504af9f247f5e0d91d23027211c/xclkon/9d54d6d3bec522606d6e154302631dee
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aacb504af9f247f5e0d91d23027211c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aacb504af9f247f5e0d91d23027211c/xclkon/9d54d6d3bec522606d6e154302631dee
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aacb504af9f247f5e0d91d23027211c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aacb504af9f247f5e0d91d23027211c/xclkon/9d54d6d3bec522606d6e154302631dee
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Paci
+sanskrit_name: पाची
+transliteration: pācī
+ref_drug_name: पाची
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

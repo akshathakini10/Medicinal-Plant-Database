@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 181fb5e912912dcca6a911b7318b2faf
+Botanical Name: Viburnum nervosum D.DON
+Family: Caprifoliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 2 languages. Hindi (9) - talanaj, talanj, taliani, talkha, thalin, tileen, tilenal, tillen, tirnoi Sanskrit (1) - Sanskrit Comments  tilvaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/181fb5e912912dcca6a911b7318b2faf
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2180
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2180.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/181fb5e912912dcca6a911b7318b2faf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tilvaka
+sanskrit_name: तिल्वक
+transliteration: tilvaka
+ref_drug_name: तिल्वक
+status: Most probable
+discussion: With regard to its popular country names like Tilena and Thelka in the Garhwal Himalayas this species is the most probable consideration
+reference: [1]
+
+Identity Record 2
+drug_name: Tilvaka
+sanskrit_name: तिल्वक
+transliteration: tilvaka
+ref_drug_name: तिल्वक
+status: Suggested source
+discussion: With regard to its properties this species is tentatively accepted as Tilvaka
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

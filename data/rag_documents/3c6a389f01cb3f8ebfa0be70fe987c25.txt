@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3c6a389f01cb3f8ebfa0be70fe987c25
+Botanical Name: Melia dubia HIERN, NON CAV.
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Melia composita WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 7 languages. Hindi (1) - kadukhajur Kannada (25) - arenelli, baevu, betta baevu, betta bevu, bettabevu, bevu, heb-bevu, hebbaevu, hebbevu, kaadu baevu, kaaduvevu, kaatbaage, kadubevu, kaduge, kakibevu, katbevu, kayibevu, korijelli, korijilli, thurakabemu, thurakabevana, turakabemu, turkabevu, turukabemu, turukabevu Malayalam (4) - kattuveppu, malaveppu, malavepu, maleivembu Marathi (7) - kadu-khajur, kariaput, karo, khaali khajoor, limbaara, nimbaara, nimbara Sanskrit (4) - Sanskrit Comments  arangaka, kaidarya, mahanimba, nimbarakah Tamil (9) - malai vembu, malai vempu, malaivembu, malaivempu, malay vembu, mallay-vembu, masaveppu, rurukkuveppu, turukkuvembu Telugu (4) - munnatikaaraka, munnatikaraka, munnuthi-karaka, munnuthikaraka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25/xclkon/2053988d906a6e8680160aecd49c0c8d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c6a389f01cb3f8ebfa0be70fe987c25
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

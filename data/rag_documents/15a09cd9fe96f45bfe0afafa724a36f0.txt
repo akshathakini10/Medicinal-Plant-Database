@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 15a09cd9fe96f45bfe0afafa724a36f0
+Botanical Name: Gordonia obtusa WALL.
+Family: Theaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 3 languages. Kannada (5) - malaraga, mallanga, naagathe, nagatte, nagetta Malayalam (4) - alangi, atangi, kattukarana, ola Tamil (5) - atangi, miyilai, nagatte, ola, thorilla
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15a09cd9fe96f45bfe0afafa724a36f0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15a09cd9fe96f45bfe0afafa724a36f0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15a09cd9fe96f45bfe0afafa724a36f0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

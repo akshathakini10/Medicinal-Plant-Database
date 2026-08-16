@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a7674c0d9206ae9cc4f3ad22f3cd792e
+Botanical Name: Artabotrys hexapetalus (L.F.) BHANDARI
+Family: Annonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Artabotrys odoratissimus R.BR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 48 Vernacular names found in 7 languages. Hindi (3) - harichampa, madanmast, madmanti Kannada (13) - kandaala sampige, kandalisampage, kantalisampige, kanthaala sampige, madana kaamaeshvari, madana masthi hoo, mandanamanjari hoo, manoranjana balli, manoranjanballi, manoranjani, manoranjani hoo balli, manoranjini hoovu, naaga champaka Malayalam (4) - madanakameshvari, madanakamesvari, madanakameswari, manoranjitam Marathi (2) - hiravaachaapa, hirvachampa Sanskrit (4) - Sanskrit Comments  harachampaka, madanah, nilachampaka, phalasampenga Tamil (12) - akkurotam, antakam, kanankay, kulakayam, kunarancitam, makaticam, mano-ranjitam, manorancitam, manoranjidam, manoranjitham, matanakamappu 2, tiga sampangi Telugu (10) - manoranjidamu, manoranjitam, manoranjithamu, muddasampenga, phala-sampenga, phalasampanga, sakalaphala-sampenga, sakalaphalasampanga, sampenga, thiga sampangi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7674c0d9206ae9cc4f3ad22f3cd792e/xclkon/1a2545db3b70bd46466120e3cef16acd
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 227
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/227.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7674c0d9206ae9cc4f3ad22f3cd792e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7674c0d9206ae9cc4f3ad22f3cd792e/xclkon/1a2545db3b70bd46466120e3cef16acd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7674c0d9206ae9cc4f3ad22f3cd792e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7674c0d9206ae9cc4f3ad22f3cd792e/xclkon/1a2545db3b70bd46466120e3cef16acd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7674c0d9206ae9cc4f3ad22f3cd792e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7674c0d9206ae9cc4f3ad22f3cd792e/xclkon/1a2545db3b70bd46466120e3cef16acd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

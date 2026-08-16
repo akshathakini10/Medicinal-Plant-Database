@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e5031ad7fc68a2f9c8ddc6015d852f54
+Botanical Name: Viburnum foetidum WALL.
+Family: Caprifoliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. Hindi (1) - guia Marathi (1) - narvel Sanskrit (1) - Sanskrit Comments  shirporna-jaya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5031ad7fc68a2f9c8ddc6015d852f54
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2179
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2179.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e5031ad7fc68a2f9c8ddc6015d852f54
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

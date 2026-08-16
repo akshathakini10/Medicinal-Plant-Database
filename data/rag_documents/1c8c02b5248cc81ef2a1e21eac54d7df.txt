@@ -1,0 +1,89 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1c8c02b5248cc81ef2a1e21eac54d7df
+Botanical Name: Cyperus rotundus L.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 194 Vernacular names found in 10 languages. English (4) - coco grass, common nutsedge, nutgrass, purple nutsedge Hindi (12) - bara-nagar-motha, doongia, doongla, khal, korehi-jhar, moth, motha, mothee, mothi, motho, mutha, nagarmotha Kannada (21) - abda hullu, abdahallu, abdahullu, bhadra hullu, bhadra mushti, chandra hullu, gaekina gedde, gaeku, gonarda, gopura, jaekina gedde, jalad, jeykina gadde, konnaari baeru, konnaari gedde, konnari gedde, koranari gedde, koranari-gadde, tangahullu, thunge hullu, tungegadde Malayalam (3) - karimuttan, kora-kizanna, muttanna Marathi (6) - barik motha, barik-moth, bimbal, bimbol, lavola, motha Sanskrit (36) - Sanskrit Comments  a, abda, abhrabheda, ambhodhara, ambuda, arnoda, bhadrakshi, bhadramusta, bhadramuste, gangera, gangeya, ghana, granthi, gundra, hima, jalada, jaladah, kachhola, kakshottha, kasheru, krodeshtha, kuru, kurubilva, kurvinda, kutannata, megha, mesa, musta, mustaka, payoda, rajkaseruka, valya, varahi, varida, varivaha, vindakhya Tamil (92) - accam, araikkali, araikkalippul, avittam, ayali, ayil, ayirpul, campankorai 2, cankam 2, catatatikam, celakam, celam, celatam, celekam, cevakam 2, cevvetakam, erumainkkuppul, eruvai 2, eruvaippul, kaivarttam, kancukam 2, kankeyam, karkkoli 2, karkoli 3, karkoli@, karkolippul, karuvukatitam, karuvukatitappul, kerukam, kolavunavu, kontankilanku, kora, korai, korai kilangu, korai kizhangu, korai-k-kilanku, korai-kizanghu, koraikkilanku, koraikkizhangu, koraippul, koraippurkilanku, korankilanku, korutan, kotakilanku, kotani, kotanikkilanku, kulamaccam, kunram 2, kupaiyatitam, kupaiyatitappul, kuruvintakan, kuruvintakkilanku, kutiraivavikam, kutiraivavikappul, masta, muthakasu, muttakkacu, muttati 2, nanal, netila, paiyam, panritonripputu, panritontuputu, panrittonri, panrittonti, panrittontipputu, pathalamulam, perunkolikam, perunkolitam, talaikkorai, tattaikkoraikkilanku, tiraiyappul, tiratkorai, tirkkakantam, tulam, tulam 2, tunga-gaddai, tunkamuttu#, tunkamuttukkilanku, tunkumustu, ural, vacanaippulkilanku, vacciracalakkilanku, vacciracalam, vacciracelatam, vaccirakentam, vacciratilatam, varaki, vicciral#, vicciram, viccirappul, visakkani Telugu (15) - bhadra-tunga-muste, bhadramuste, bharamuste, gandala, kaivartakamuste, kaivarthaka muste, mustakamu, shakatunga, shakha-tunga-veru, shakhatungaveru, thungamustha, tunga-muste, tunga-musthalu, tungamuste, tungamusti Tibetan (2) - gla sgan, gla-gan Urdu (3) - habu-ul-zillam, nagarmotha, sad kufi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 742
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/742.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1c8c02b5248cc81ef2a1e21eac54d7df
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Musta
+sanskrit_name: मुस्त
+transliteration: musta
+ref_drug_name: मुस्त
+status: Accepted source
+discussion: Musta is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Musta
+sanskrit_name: मुस्त
+transliteration: musta
+ref_drug_name: मुस्त
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Musta
+sanskrit_name: मुस्त
+transliteration: musta
+ref_drug_name: मुस्त
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Mustaka
+sanskrit_name: मुस्तक
+transliteration: mustaka
+ref_drug_name: मुस्तक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Mustaka
+sanskrit_name: मुस्तक
+transliteration: mustaka
+ref_drug_name: मुस्तक
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

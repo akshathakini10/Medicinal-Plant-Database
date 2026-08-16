@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 75e50965f72b959d7ec639440106183d
+Botanical Name: Vitis indica W. & ARN.
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. Kannada (3) - narale, narande, sambaraballi Malayalam (2) - chemparavalli, schembravalli Tamil (5) - cukampal1, kiravakakkoti, kiravakam, perunaralai, perunarivenkayam 1 Telugu (2) - sambaravalli, shambravalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75e50965f72b959d7ec639440106183d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75e50965f72b959d7ec639440106183d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/75e50965f72b959d7ec639440106183d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

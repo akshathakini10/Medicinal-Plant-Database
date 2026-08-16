@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9d4a57aa46ee9c6905a0a3477c1c67b8
+Botanical Name: Chrozophora plicata A.JUSS.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Chrozophora prostrata DALZ .
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 5 languages. Hindi (4) - shadevi, shahdevi, sonballi, subali Sanskrit (2) - Sanskrit Comments  suryavarta, suryavarti Tamil (10) - alincakikkoti, alinciki, nacitavakakkoti, nacitavarakam, nn, patukakkoti, patukam, penceruppati, perunceruppatai, perunceruppati Telugu (2) - guruguchettu, lingamiriyam Urdu (2) - neel kanthi, nilkanthi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d4a57aa46ee9c6905a0a3477c1c67b8/xclkon/9deb014d82c27fc2cb44a593b74ae232
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 521
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/521.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d4a57aa46ee9c6905a0a3477c1c67b8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d4a57aa46ee9c6905a0a3477c1c67b8/xclkon/024087060659a64b3bfdfaa24de295b4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d4a57aa46ee9c6905a0a3477c1c67b8/xclkon/9deb014d82c27fc2cb44a593b74ae232
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d4a57aa46ee9c6905a0a3477c1c67b8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d4a57aa46ee9c6905a0a3477c1c67b8/xclkon/024087060659a64b3bfdfaa24de295b4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d4a57aa46ee9c6905a0a3477c1c67b8/xclkon/9deb014d82c27fc2cb44a593b74ae232
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d4a57aa46ee9c6905a0a3477c1c67b8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d4a57aa46ee9c6905a0a3477c1c67b8/xclkon/024087060659a64b3bfdfaa24de295b4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9d4a57aa46ee9c6905a0a3477c1c67b8/xclkon/9deb014d82c27fc2cb44a593b74ae232
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 68d8e18e3d38533f90e80c159a6dc8f5
+Botanical Name: Lagerstroemia speciosa (L.) PERS.
+Family: Lythraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lagerstroemia flos-reginae RETZ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 83 Vernacular names found in 8 languages. English (3) - pride-of-india, pyinma, queens flower Hindi (2) - arjuna, jarul Kannada (23) - calla, challa, challaholedasal, challe, chella, chello, hole daasavaala, holedacalla, holedachalla, holedasal, holehalasu, holematti, maruva, maruvacala, maruvachala, maruvachalla, maruvajati, nirbende, nirbendeka, nirventeak, nirventika, varibendeka, varibentik Malayalam (26) - adamboe, adambu, atambu, atampa, atampu, cemmarutu, chemmaruta, katalpu, manimarathu, manimaruthu, manimarutu, neerbenteku, nirbenteak, nirmarutha, nirmaruthu, nirmarutu, nirumarutu, niruvendeku, niruventekku, nirventekku, nirventeku, poomaruthu, pulaventik, puvalventekku, shemmarutha, shemmaruthu Marathi (8) - bondara, dara, mota-bon, mota-bondara, motabondara, sotulari, taman, tamana Sanskrit (3) - Sanskrit Comments  arjuna, jarula, kramuka Tamil (15) - culli 1, kadali, kadalimugai, kadalippuva, karaca, karacam, kodali, mancarokani, naravam 1, pantuvisakkari, pittacamani, poo-maruthu, pumarudu, punkanai, varni Telugu (3) - chennangi, varagogu, waragogu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1278
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1278.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5/xclkon/6781ba7d29cc29fae0a91e340419e751
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5/xclkon/6781ba7d29cc29fae0a91e340419e751
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5/xclkon/6781ba7d29cc29fae0a91e340419e751
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68d8e18e3d38533f90e80c159a6dc8f5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kramuka
+sanskrit_name: क्रमुक
+transliteration: kramuka
+ref_drug_name: क्रमुक
+status: Not available
+discussion: Not available
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

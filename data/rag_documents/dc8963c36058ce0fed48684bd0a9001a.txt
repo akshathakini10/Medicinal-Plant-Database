@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dc8963c36058ce0fed48684bd0a9001a
+Botanical Name: Asystasia dalzelliana SANTAPAU
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Asystasia violacea DALZ. E  CL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc8963c36058ce0fed48684bd0a9001a/xclkon/b0480250e119e7d88989ce6694159fdc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc8963c36058ce0fed48684bd0a9001a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc8963c36058ce0fed48684bd0a9001a/xclkon/b0480250e119e7d88989ce6694159fdc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

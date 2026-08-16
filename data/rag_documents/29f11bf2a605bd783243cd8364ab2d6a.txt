@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 29f11bf2a605bd783243cd8364ab2d6a
+Botanical Name: Cerbera manghas L.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cerbera odollam GAERTN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 42 Vernacular names found in 6 languages. Hindi (3) - dabur, pilikirbir, sukanu Kannada (10) - cande, chande, chende, chende hoo, chende mara, chinde mara, honde, honde mara, monde, tende Malayalam (12) - cattankaya, chattankaya, chatthankai, odalam, odallam, odallum, otalam, otavalam, othalam, pona, ponna, utalam Marathi (2) - kharo-uro, sukanu Sanskrit (2) - Sanskrit Comments  auddalakah, svanamarah Tamil (13) - caat aralie, kadalma, kadama, kadamoth, katalma, katarali, kattalari 1, kattarali, kattuma, kodalma, kottuma, udalai, utalai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29f11bf2a605bd783243cd8364ab2d6a/xclkon/5c6d94cf855e0b36b9158b6f86a416d2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29f11bf2a605bd783243cd8364ab2d6a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29f11bf2a605bd783243cd8364ab2d6a/xclkon/5c6d94cf855e0b36b9158b6f86a416d2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29f11bf2a605bd783243cd8364ab2d6a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29f11bf2a605bd783243cd8364ab2d6a/xclkon/5c6d94cf855e0b36b9158b6f86a416d2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29f11bf2a605bd783243cd8364ab2d6a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29f11bf2a605bd783243cd8364ab2d6a/xclkon/5c6d94cf855e0b36b9158b6f86a416d2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

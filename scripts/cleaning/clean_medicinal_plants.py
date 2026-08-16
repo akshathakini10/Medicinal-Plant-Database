@@ -44,13 +44,46 @@ def clean_family(df):
 
     return df
 
-#Clean Systems
+# Clean Systems
 def clean_systems(df):
-    """Convert systems into a list."""
+    """Extract valid medicinal systems from the scraped Systems column."""
 
-    df["systems"] = df["Systems"].apply(
-        lambda x: [item.strip() for item in x.split(",")] if x else []
-    )
+    valid_systems = [
+        "Ayurveda",
+        "Siddha",
+        "Unani",
+        "Homeopathy",
+        "Folk",
+        "Sowa-Rigpa"
+    ]
+
+    def extract_systems(value):
+        if not value:
+            return []
+
+        value = str(value)
+
+        found = []
+
+        # Split by comma and inspect each part
+        parts = value.split(",")
+
+        for part in parts:
+            part = part.strip()
+
+            # Remove everything after website/footer contamination
+            # Example:
+            # "Folk About Us | Contact Us | Team ..."
+            # becomes "Folk"
+            for system in valid_systems:
+                if part.lower().startswith(system.lower()):
+                    if system not in found:
+                        found.append(system)
+                    break
+
+        return found
+
+    df["systems"] = df["Systems"].apply(extract_systems)
 
     return df
 

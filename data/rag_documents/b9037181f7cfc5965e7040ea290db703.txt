@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b9037181f7cfc5965e7040ea290db703
+Botanical Name: Ipomoea staphylina R,BR.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 1 languages. Tamil (9) - pinnarkoti, unan @, unan#, unankoti#, unankoti@, unnakanankoti, unnakankoti#, unnakankoti@, unnayanankoti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9037181f7cfc5965e7040ea290db703
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9037181f7cfc5965e7040ea290db703
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9037181f7cfc5965e7040ea290db703
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

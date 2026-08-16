@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5e4a3681190bedfbe8ea9dbbb44d1283
+Botanical Name: Actaea spicata L.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. English (3) - baneberry, black cohosh, herb christopher Hindi (1) - mamira Kannada (1) - vishaphala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4a3681190bedfbe8ea9dbbb44d1283
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4a3681190bedfbe8ea9dbbb44d1283
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e4a3681190bedfbe8ea9dbbb44d1283
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

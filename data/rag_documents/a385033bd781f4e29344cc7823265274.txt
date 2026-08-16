@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a385033bd781f4e29344cc7823265274
+Botanical Name: Alpinia officinarum HANCE
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Hindi (1) - khulinjan Sanskrit (1) - Sanskrit Comments  malayavaca Tamil (2) - chittarathai, cirrarattai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a385033bd781f4e29344cc7823265274
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a385033bd781f4e29344cc7823265274
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a385033bd781f4e29344cc7823265274
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a385033bd781f4e29344cc7823265274
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Malayavaca
+sanskrit_name: मलयवचा
+transliteration: malayavacā
+ref_drug_name: मलयवचा
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

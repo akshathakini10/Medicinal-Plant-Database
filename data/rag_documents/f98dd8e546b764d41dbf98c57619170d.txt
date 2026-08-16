@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f98dd8e546b764d41dbf98c57619170d
+Botanical Name: Crinum viviparum (LAM.) HEMADRI
+Family: Amaryllidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Crinum defixum KER.-GAWL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 5 languages. Kannada (2) - kaadu eerulli, manjina naaru Malayalam (1) - belutta-pola-taly Sanskrit (1) - Sanskrit Comments  kandali Tamil (2) - visha moongil, vishamungil Telugu (3) - kaesarachaettu, kaja gadda, kesarchettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d/xclkon/a876ff5e63a1fc44fed06ce5229cab7a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d/xclkon/a876ff5e63a1fc44fed06ce5229cab7a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d/xclkon/a876ff5e63a1fc44fed06ce5229cab7a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f98dd8e546b764d41dbf98c57619170d/xclkon/a876ff5e63a1fc44fed06ce5229cab7a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,72 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 96f20205aea37f5df8b167fbe9761d22
+Botanical Name: Toddalia asiatica (L.) LAM.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Scolopia aculeata SM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 133 Vernacular names found in 8 languages. English (1) - lopez root Hindi (9) - chingatti, dahan, jangli-kali-mirch, jangli-kalimirc, jangli-kalimirch, janglikalimirch, kanc, kanchan, kanj Kannada (30) - dodda kaadu menasu, ilishingi, kaadamenasu, kaadu haaku kaare, kaadu kaake kaare, kaadu menasina gida, kada-hakukare, kadakare, kaduhakukare, kadukare, kadumaraju, kadumenasu, kaypele, kepula, maachi mullu, maacimullu, maashi mullu, machige, macimullu, magiche, mashimullu, mullu maachige, mullu mashi, mullu-mastige, mullumaacige, mullumacige, mullumashige, mullumasige, musimullu, pargiballi Malayalam (18) - anomochi, kaka-toddali, kakatoddali, kakka-totalli, kakkatoddali, kakkattutali, kakkattuttali, kar, kara, karamullu, kattukarimilaku, kattukarimulaku, kattukurimulaku, mulaka-tani, mulakutali, mulakutanni, totali, tutali Marathi (9) - borimti, junglikaalimirchi, junglikalimirchi, leemari, limbadi, limri, manger, menger, ranmirvel Sanskrit (5) - Sanskrit Comments  dahana, kancana, kancanah, kanchana, tiksnaksah Tamil (30) - cankitam, cantikantam, cantiramulikai, cimaikkiccilikkilanku, kaccolam 2, kaccoram, kaccuram 2, kaiccolam, kaiccoram, kandvi, kantapalaci, karppuraver, kattu milaku, kattumilagu, kattumilaku, kentimulam, kiccili 2, kiccilik karanai, kichilikaranai, milagaranai, milagucharanai, milakaranai, milakarani, milakaranti, milaku, milakukaranai, milkaranai, molakarunnay, mulakaranai, mullukkaranai Telugu (31) - condacashinda, errakasinda, konda kasinda, konda mirapa, konda-kashinda, konda-kasinda-chettu, kondakaasinda, kondakashinda, kondakasinda, kondakasinds, kondamirapu, kondamirepu, merapugandra, minepagandra, mirapa kandra, mirapa-kandra, mirapagandra, mirapakaandra, mirapakanda, mirapakandra, mirapakondra, mulla korinda, mullakorinda, mullamorinda, mullukorinda, vanakaasinda, vanakasinda, varagogu, varakasintha, varra gokiri, varrakashimi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2092
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2092.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22/xclkon/00738361461027d96f8f4feab7a13664
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22/xclkon/40a881478e2ce829a5e5a8b362abfdd0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22/xclkon/00738361461027d96f8f4feab7a13664
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22/xclkon/40a881478e2ce829a5e5a8b362abfdd0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22/xclkon/00738361461027d96f8f4feab7a13664
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22/xclkon/40a881478e2ce829a5e5a8b362abfdd0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96f20205aea37f5df8b167fbe9761d22
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karanja-kanta
+sanskrit_name: करञ्ज कण्ठ
+transliteration: karañja kaṇṭha
+ref_drug_name: करञ्ज कण्ठ
+status: Most probable
+discussion: As this species has features similar to this plant it may have been correlated
+reference: [1]
+
+Identity Record 2
+drug_name: Sauvarnitvak
+sanskrit_name: सौवर्णीत्वक्
+transliteration: sauvarṇītvak
+ref_drug_name: सौवर्णीत्वक्
+status: Most probable
+discussion: Most probably identified with this species with regard to its root bark which is yellow in colour
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a57a6b33ecc826baa2dd4a18c7566cc4
+Botanical Name: Canarium strictum ROB.
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Canarium resiniferum BRUCE E KING
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 90 Vernacular names found in 7 languages. Hindi (4) - kala dammar, kala-damar, kala-dammar, kaladammar Kannada (23) - haale maddu, haalu maddi, halemaddu, halmaddi, haralu maddi, harlmuddy, jaali banke, karedupa, karee dhoopa, kari dhoopa, karridhupa, manda dhoopa, manda-dhup, mandadhoop, mandadhup, mandadhupa, mandadupa, munddoopa, pandu, raala dhoopa, raladupa, raldhup, raldhupada Malayalam (22) - canari-telli mara, karunkungiliam, karuthakungiliam, karuttukungiliam, karuttukunkiliyam, kundrikam, kungiliam, kungiliyam, kunthirikkapayin, kunturukkapayam, kunturukkappayan, panda, pantam, pantham, telli, thally, thelli, thellippayin, thelly, viraga, viraka, virapu Marathi (6) - brev, damar, dhoop, dhup, kaaladaamar, raldhup Sanskrit (2) - Sanskrit Comments  mandadhupa, raladhupa Tamil (30) - attam, attam 4, inkulicamaram, itarcam, kakanemi, kakanemimaram, kariyapolam, karukunkiliyam, karungkungiliyam, karungundurukkam, karunkiliyam, karunkungiliam, karunkungiliyam, karunkunkiliyam, karunkuntirikkam, karuppu kungiliam, karuppu-damar, karuppudamar, karuppuk kunkiliyam, karuppukkungiliyam, karuppukkunkiliyam, karupputamar, karupudamar, kundurukkam, kungiliam, kunturukkam, kunturukkan, tanpukai, tanpukaimaram, tupam 2 Telugu (3) - nalla-rojan, nallarojanamu, nallarojen
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a57a6b33ecc826baa2dd4a18c7566cc4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 418
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/418.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a57a6b33ecc826baa2dd4a18c7566cc4/xclkon/e73a711d2a046cd4265ed6735d42d017
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a57a6b33ecc826baa2dd4a18c7566cc4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a57a6b33ecc826baa2dd4a18c7566cc4/xclkon/e73a711d2a046cd4265ed6735d42d017
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a57a6b33ecc826baa2dd4a18c7566cc4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a57a6b33ecc826baa2dd4a18c7566cc4/xclkon/e73a711d2a046cd4265ed6735d42d017
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a57a6b33ecc826baa2dd4a18c7566cc4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

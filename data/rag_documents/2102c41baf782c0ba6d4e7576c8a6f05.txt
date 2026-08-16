@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2102c41baf782c0ba6d4e7576c8a6f05
+Botanical Name: Diospyros exsculpta BUCH.-HAM.
+Family: Ebenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Diospyros tomentosa ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 40 Vernacular names found in 6 languages. Hindi (3) - kinu, tendu, tumal Kannada (9) - banda-damara, bandadamra, kimburini, thoosra, thumari, thumri, timburani, tindura, tumari Sanskrit (5) - Sanskrit Comments  kakatinduka, kakinduka, tinduka, tinduki, virala Tamil (10) - chilta-tumiki, kakatintu, kulakam1, thumbai, tintikam, tintukam1, tintukanka1, tintukim2, tumpai, tumpi Telugu (12) - chitta thumiki, chittatumiki, cittatumiki, manchithumiki, mancitumiki, pasaraghata, pasarugata, pesaraghata, tuki, tumiki, tumma, tunki Tibetan (1) - tim tu ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2102c41baf782c0ba6d4e7576c8a6f05/xclkon/cc728dfa4dceec727a9d6a0784ccef4a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tinduka
+sanskrit_name: तिन्दुक
+transliteration: tinduka
+image_urls: https://www.medicinalplants.in/slokaimages/625/625_1.jpg https://www.medicinalplants.in/slokaimages/625/625_2.jpg https://www.medicinalplants.in/slokaimages/625/625_3.jpg https://www.medicinalplants.in/slokaimages/625/625_4.jpg
+ocr_text: स्यादामं तिन्दुकं ग्राहि वातलं शीतलं लघु | पक्वं पित्तप्रमेहास्रश्लेष्मघ्नं मधुरं गुरु|| (Bpnl Tinduka ama phala is grahi, laghu in guna, sita in virya and alleviates vata Pakva phala is madhura in rasa, guru in guna, alleviates pitta, asra and slesma, cures prameha. तिन्दुकस्तु कषायः स्यात् संग्राही वातकृत् परः पक्वस्तु मधुरः स्निग्धो श्लेष्मलो गुरुः Il KRjnl Tinduka is kashaya in rasa, sangrahi and increases vata. Pakva phala is madhura in rasa , snigaha, guru in guna, durjara and slesmala दुर्जरः तुन्दुकं कफपित्तघ्नं कषायं मधुरं लघु| | चरक सू॰ २७ Tinduka is kashaya, madhura in rasa, laghu in guna, alleviates kapha ana pitta तिन्दुकम् अनन्नद्रव्यरुचिकराणां श्रेष्ठम् चरक सू॰ २६ Tinduka is srestha anna dravya ruci kara.

@@ -1,0 +1,88 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6e400ba7639ad39d4c014b5371b3fa8e
+Botanical Name: Barringtonia acutangula (L.) GAERTN.
+Family: Baringtoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 135 Vernacular names found in 9 languages. Hindi (11) - hijagal, hijjal, hijjul, ijal, ingar, jujar, neora, panniari, samandar-phal, samudraphal, samundarphal Kannada (19) - dhaathri phala, dhatri phala, ganigalu, ganigaluthora, ganigilatora, gannerale, hole kauvva, hole kovva, hole kowa mara, holekauva, kempu ganagala, mavinkubia, neeru ganigalu, neeru halasina mara, neeru kanagilu, nirdaddal, niruganigilu, niruganigily, samudrakai Malayalam (23) - arrupera, athambu, attampu, attapera, attaperzha, attupela, attupelu, attupera, attupezhu, cariyasamskaravadi, ceriyasamstaravati, cheriyasamstaravati, cheryasamstravadi, isjeriasamstravadi, neerpezhu, nirpelu, nirperzha, nirppera, samudraphalam, seriyasamstaravati, sjeriasamstravadi, tsjeria-samstravadi, tsjeriasamstravadi Marathi (14) - dattephal, dhatriphal, goye-mcha-sadaphal, imgli, ingli, jugli, newar, niwar, pivar, piwar, samudraphala, sathaphala, sathphal, tiwar Sanskrit (18) - Sanskrit Comments  abdhiphala, ambudhiphala, ambuja, dhatriphal, dhatriphala, hijjala, ijjala, nichula, nicula, niculah, nishula, samudraphala, samudraphalah, shosha, sindhuphala, udadhiphala, vidula, yaha Tamil (31) - adampa, adampai, amamikkatampu, amantalati, aram, camuttirappalai, cenkatampu, kadambu, kadapam, kadappai, kadappay, kaddapay, kanatti, katami, katappaimaram1, katappam, mara 1, maraam 1, maram 1, maravam, niba, nipam1@, perukatampai, perungaduppai, perunkatampai, perunkatampu, ratami, samuthirapalai, samutrapullam, samuttirappalam, sengadambu Telugu (17) - ganappu, kadamu, kadanic, kadapa, kademba, kadimu, kadmi, kanagi, kanapa, kanapa chettu, kanigi, kanigi chettu, kurpa, neerkaniki, nir-kanapa, nir-kanki, tarepu Tibetan (1) - chu lcan Urdu (1) - samandarphal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 292
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/292.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6e400ba7639ad39d4c014b5371b3fa8e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Hijjala
+sanskrit_name: हिज्जल
+transliteration: hijjala
+ref_drug_name: हिज्जल
+status: Accepted source
+discussion: Hijjala is correlated to this species
+reference: [3]
+
+Identity Record 2
+drug_name: Hijjala
+sanskrit_name: हिज्जल
+transliteration: hijjala
+ref_drug_name: हिज्जल
+status: Accepted source
+discussion: Hijjala and Samudraphala are considered as synonyms of one another which is correlated to this species; Rajanighantu have mentioned them as two different drugs;
+reference: [5]
+
+Identity Record 3
+drug_name: Nicula
+sanskrit_name: निचुल
+transliteration: nicula
+ref_drug_name: निचुल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Vidula
+sanskrit_name: विदुल
+transliteration: vidula
+ref_drug_name: विदुल
+status: Accepted source
+discussion: According to Caraka and Susruta it is an emrtic drug; Even Vagbhata has given similar views; This confirms it is a drug used for vomitting; Cakrapani has accepted Hijjala as Vidula. It is correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Hijjala
+sanskrit_name: हिज्जल
+transliteration: hijjala
+image_urls: https://www.medicinalplants.in/slokaimages/214/214_1.jpg https://www.medicinalplants.in/slokaimages/214/214_2.jpg https://www.medicinalplants.in/slokaimages/214/214_3.jpg https://www.medicinalplants.in/slokaimages/214/214_4.jpg
+ocr_text: फलं समुद्रस्य कटूष्णकरि वातापहं भूतनिरोधकारि | त्रिदोषदावानल दोषहारि कफामयभ्रांति विरोधकारि|| हिज्जलः कटुरुष्णश्च पवित्रोभूतनाशनः वातामयहरोनानाग्रहसंचार दोषजित्|| IRjnl Samudra phala is katu in rasa usna in veerya, alleviates vata, bhutanirodhakari, tridosha hara, kaphamaya-bhranti virodhakari. Hijjala is katu in rasa, usna in veerya, alleviates vata, is pavitra, bhuta nasana and nanagrahasancara dosha jit. निचुलानि च| पक्वाशयगते दोषे विरेकार्थं प्रयोजयेत् | च.सू २ It is used to produce virecana in pakvashaya dosha gata हिज्जलः कफवातघ्नो रेचनो वामकस्था | | (सुश्रुत सू॰३९) Hijjala alleviates kapha and vata is recaka and vamaka जलवेतसवद्धेद्यो हिज्जलोडयं (Bpn) Its properties are similar to that of Jalavetasa. It is specifically used as visanasaka. विषापुहः

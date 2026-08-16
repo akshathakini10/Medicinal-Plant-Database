@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ca16a5e61696888560f9308282848d6b
+Botanical Name: Caralluma edulis BENTH.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Boucerosia aucheriana DECNE.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 2 languages. Hindi (1) - pimpa Sanskrit (8) - Sanskrit Comments  dugdha, dugdhapashana, dugdhika, kshirakshava, kshiri, kshirini, uttamphalini, yugmaphalottama
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca16a5e61696888560f9308282848d6b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 442
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/442.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca16a5e61696888560f9308282848d6b/xclkon/15f541a4386ac0e013acbc178c8325c5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca16a5e61696888560f9308282848d6b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca16a5e61696888560f9308282848d6b/xclkon/15f541a4386ac0e013acbc178c8325c5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ca16a5e61696888560f9308282848d6b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

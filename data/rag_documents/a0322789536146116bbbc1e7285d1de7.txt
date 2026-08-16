@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a0322789536146116bbbc1e7285d1de7
+Botanical Name: Sapium insigne TRIMEN
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 42 Vernacular names found in 7 languages. Hindi (11) - balodhar, baloje, chhina, khina, khindra, khinna, khinni/khirni, khirni, khirun, lendwa, lienda Kannada (12) - kanapadai, kanapade, kanappade, kannu pade, kannupade, kurda, kurudanandi, kurudu mara, kurudunandaga, naanaka, nanaka, nanaka mara Malayalam (3) - garpashola, kalmaram, karuppucculai Marathi (6) - dudla, huraa, hure, ura, ure, uro Sanskrit (1) - Sanskrit Comments  mukulaka Tamil (2) - karuppu-chulai, sakkarakkalli Telugu (7) - daeva sarupi, devasuroopi, garbhasula, garghasula, garpashola, garpashula, garvhasula
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0322789536146116bbbc1e7285d1de7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0322789536146116bbbc1e7285d1de7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Mukulaka
+sanskrit_name: मुकूलक
+transliteration: mukūlaka
+ref_drug_name: मुकूलक
+status: ?
+discussion: ?
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

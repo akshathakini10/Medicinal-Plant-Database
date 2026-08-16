@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 855cacf1cd7c24c69d828c7fd975a7c0
+Botanical Name: Casearia elliptica WILLD.
+Family: Flacourtiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Casearia tomentosa ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 67 Vernacular names found in 7 languages. Hindi (8) - chilata, chilla, chillak, goela, gotlu, mojal, monja, pimpla Kannada (11) - bili ubbina, chillaka, hanchey, hanice, haniche, hanise, hillangi, hlingi, kadiche, konje, modagi Malayalam (7) - anakkarana, anavananni, anavinga, annakara, tsjerou-kanneli, vaparkonne, vappunnakannan Marathi (11) - bedsi, bogara, chilla, kal-karai, karei, lainja, lenga, lenjo, massei, modgi, modi Sanskrit (1) - Sanskrit Comments  kampillaka Tamil (5) - kadichai, kakoli 2, katiccai, kottukkovai, kutti 1 Telugu (24) - chalakasavara, chilaka duddi, chilaka dudduga, chilakaya, gamgudu, gidugam, gidugudu, gidugum, gilagudu, gilugudu, girugudu, gurugudu, kaalamisvari, kaalmaesara, kaami mosara, kalamesara, kalamisvari, kamimesara, kanmesaram, men, pisiki, vasanga, veska, wasa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0/xclkon/cd7ca48b2a823acbff062b3ae76fd0b2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0/xclkon/cd7ca48b2a823acbff062b3ae76fd0b2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0/xclkon/cd7ca48b2a823acbff062b3ae76fd0b2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/855cacf1cd7c24c69d828c7fd975a7c0/xclkon/cd7ca48b2a823acbff062b3ae76fd0b2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Hapusa
+sanskrit_name: हपुषा
+transliteration: hapuṣā
+image_urls: https://www.medicinalplants.in/slokaimages/970/970_1.jpg https://www.medicinalplants.in/slokaimages/970/970_2.jpg
+ocr_text: हपुषा कटुतिक्तोष्णा गुरुर्वातबलासजित् प्रदरोदरविट्बन्धशूलगुल्मर्शसां हितः T IRjn) Hapusa is katu, tikta in rasa, usna in virya, guru which alleviates vata cures pradara, vit bandha, sula, gulma and arsa. हपुषा तुवरा तिक्ता कटूष्णा दीपनी गुरुः ग्रहणीशूलगुल्मार्शो वातपित्तोदरापहा I[ IKdnl Hapusa is tikta, katu in rasa, tuvara Buru in virya, dipani, cures grahani, sula , gulma, arsa, vata pittodara. usna
+
+Shloka Record 2
+drug_name: Kampillaka
+sanskrit_name: कम्पिल्लक
+transliteration: kampillaka
+image_urls: https://www.medicinalplants.in/slokaimages/1060/1060_1.jpg https://www.medicinalplants.in/slokaimages/1060/1060_2.jpg https://www.medicinalplants.in/slokaimages/1060/1060_3.jpg https://www.medicinalplants.in/slokaimages/1060/1060_4.jpg
+ocr_text: कम्पिल्लःकर्कशश्चन्द्रोरक्ताङ्गोरोचनोउपिच [ Kampilla is called as karkasa, candra, raktanga and gorocana कम्पिल्लकोविरेचीस्यात्कटूष्णोव्रणनाशनः कफकासार्तिहारीचकृमिहरोलघुः (राजनिघण्टु) Kampillaka is katu in rasa, laghu in guna , usna in veerya, virecaka, cures vrana, kapha, kasa, arti ana krmi. कम्पिल्लःकफपित्तास्रकृमिगुल्मोदरव्रणान्| हन्तिरेचीकटूष्णंचमेहाविषाश्मनुत् | | Kampilla is katu in rasa, usna in veerya, alleviates kapha and pitta, recaka, cures asra, krmi, gulma, udara, Vrana, meha, visha ana ahsma. काम्पेल्लकः सरश्चाग्निदीपकःकटुकःस्मृतः व्रणस्यरोपणश्चोष्णोलघुर्भेदीकफापहः व्रणगुल्मोदराध्मानकासपित्तप्रमेहहा [ आनाहञ्चविषञ्चैवमूत्राशमरीरुजापहः कृमिंचरक्तदोषञ्चनाशयेदितिकीर्तितः तच्छाकंशीतलंतिक्तंवातलंग्राहिदीपनम् Kampillaka is katu in rasa, laghu, sara in guna usna in veerya, alleviates Kkapha ana rakta dosha, agni dipaka vrana ropana, bhedi, cures vrana, gulma, udara, ashmana, kasa, pitta prameha, anaha, visha, mutra asma ruja krmi Its saka is tikta in rasa, grahi in guna, sita in veerya, dipana and increases vata. and

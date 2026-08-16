@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4a95ee5f0d3c47d38cec801fd9f3b723
+Botanical Name: Dalbergia sissoides GRAHAM E. WIGHT & ARN.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 29 Vernacular names found in 5 languages. Kannada (9) - beete, bide, bilagada, bite, bolu beete, chelabeetti, hasiruganneru, kare muthala, karemuthala Malayalam (13) - chelaveeti, eeruputu, eeti, eetti, iruputu, itti, paromaleiveatti, puramalavitti, veeti, veetti, veleetti, vellitti, vitti Sanskrit (2) - Sanskrit Comments  kusimsapa, shimshipa Tamil (3) - etti, thothagatti, vel-itti Telugu (2) - paccayirugudu, pachayirugudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4a95ee5f0d3c47d38cec801fd9f3b723
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 755
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/755.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4a95ee5f0d3c47d38cec801fd9f3b723
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4a95ee5f0d3c47d38cec801fd9f3b723
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kusimsipa
+sanskrit_name: कुशिंशपा
+transliteration: kuśiṃśapā
+ref_drug_name: कुशिंशपा
+status: Most probable
+discussion: Kusimsipa' has been mentioned in 'Nighantusesha' as a type of 'Simsapa'; There is a mention of it even in Kaideva nighantu; It may be correlated to this species as the colour of the pithwood is slightly lighter when compared to Simsapa
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,111 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: edc66f84c9453b06304c7525a493c644
+Botanical Name: Citrus medica L. var. medica
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Citrus acida PERS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 9 languages. English (1) - citron Hindi (1) - nimbu Kannada (6) - cherunaranga, limbay, mahaphala, mapala, mauling, rucaka Malayalam (12) - cherunarakam, cholangam, dantahashkam, dantasanam, ddantasatham, eroomitcheenaracum, erumicchinarakam, gilam, madalanarakam, matalanarakam, narakam, rucakam Marathi (1) - limbu Sanskrit (2) - Sanskrit Comments  madhukarkatika, madhukukutika Tamil (4) - elumiccai, elumiccampalam, elumichchei, elumichhai Telugu (2) - lungamu, nimmapandu Urdu (1) - limunshirin
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 567
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/567.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644/xclkon/10dd4cdb1fd01c87482ef59281daca5e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644/xclkon/10dd4cdb1fd01c87482ef59281daca5e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644/xclkon/10dd4cdb1fd01c87482ef59281daca5e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/edc66f84c9453b06304c7525a493c644
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bijapura
+sanskrit_name: बीजपूर
+transliteration: bījapūra
+ref_drug_name: बीजपूरक
+status: Accepted source
+discussion: Bijapuraka is identified with this species
+reference: [2]
+
+Identity Record 2
+drug_name: Bijapura
+sanskrit_name: बीजपूर
+transliteration: bījapūra
+ref_drug_name: बीजपूर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Bijapura
+sanskrit_name: बीजपूर
+transliteration: bījapūra
+ref_drug_name: बीजपूर
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 4
+drug_name: Bijapuraka
+sanskrit_name: बीजपूरक
+transliteration: bījapūraka
+ref_drug_name: बीजपूरक
+status: Accepted source
+discussion: Bijapuraka is identified with this species
+reference: [2]
+
+Identity Record 5
+drug_name: Bijapuraka
+sanskrit_name: बीजपूरक
+transliteration: bījapūraka
+ref_drug_name: बीजपूर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 6
+drug_name: Bijapuraka
+sanskrit_name: बीजपूरक
+transliteration: bījapūraka
+ref_drug_name: बीजपूर
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 7
+drug_name: Matulunga
+sanskrit_name: मातुलुङ्ग
+transliteration: mātuluṅga
+ref_drug_name: मातुलुङ्ग
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

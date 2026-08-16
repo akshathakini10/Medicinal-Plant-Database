@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f1eaa4296cc16c448d8039c9cc138d25
+Botanical Name: Kalanchoe pinnata (LAM.) PERS.
+Family: Crassulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Bryophyllum calicynum SALISB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 8 languages. English (1) - air plant Hindi (4) - bish khapru, jakh me jayat, zakhm-e-hayat, zakhmhaiyat Kannada (7) - gandukaaling, gandukalinga, kaadu basale, kaadubasale, lonnahadakana gida, lonnahadakanagida, naayipatha Malayalam (5) - elamarunga, elamarunna, ilamulacci, ilayinmeltai, murikuti Marathi (3) - ayapanum, panphue, phomthi-panam Sanskrit (4) - Sanskrit Comments  asthibhaksha, parnabija, parnabijah, pasanabheda Tamil (7) - iranakkalli, irankalli, malaikalli, malaikkalli, runakalli, runakkalli, viranakkalli Telugu (5) - gallara paku, kondel cheru, ranapala, seemajaamulu, simajamudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/5ed1307213896a8fc03c2698e7fb79be
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/e32c19691334fb0592d3701053ffad90
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/5ed1307213896a8fc03c2698e7fb79be
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/e32c19691334fb0592d3701053ffad90
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/5ed1307213896a8fc03c2698e7fb79be
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25/xclkon/e32c19691334fb0592d3701053ffad90
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1eaa4296cc16c448d8039c9cc138d25
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+image_urls: https://www.medicinalplants.in/slokaimages/233/233_1.jpg https://www.medicinalplants.in/slokaimages/233/233_2.jpg https://www.medicinalplants.in/slokaimages/233/233_3.jpg https://www.medicinalplants.in/slokaimages/233/233_4.jpg
+ocr_text: पाषणभेदकोश्मघ्नःशिलाभेदोश्मभेदकः सचैवोपलभेदश्चनगभिच्छैलगर्भजः Synonyms of pasanabheda are asmaghna, silabheda, asmabhedaka, palabheda, nagabhi elagarbhaja and अश्मभिद्वस्तिरुङ्मूत्रकृच्छ्रतोदाहवातनुत् शीतवीर्योगुरुःस्निग्धस्तथातीसारनाशनः न (शो.नि) Asmabhid is guru, snighda in guna, sita in veerya, alleviates vastiruk, mutra krcchra, daha, vata and atisara. अश्मभेदोहिमस्तिक्तःकषायोवस्तिशोधनः मेदंहन्तित्रिदोषार्शोगुल्मकृच्छ्राश्महृद्रुजः योनिरोगान्प्रमेहांश्चप्लीहशूलव्रणानिच It is tikta, kashaya in rasa, hima in veerya, vasti sodhana, alleviates meda tridosha, arsa, gulma, krcchra, asma, hraruja, yoni roga, prameha, pliha sula and vrana क्षुद्रापाषाणभेदश्चव्रणकृच्छ्राश्मरीहरः IRjn ) Ksudra pasanabheda alleviates vrana, krcchra and asmari.

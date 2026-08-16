@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8a9e325d61eca34db33b71f426c6ba9c
+Botanical Name: Tricalysia sphaerocarpa (HOOK.F.) GAMBLE
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Diplospora sphaerocarpa HOOK.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Kannada (1) - kaadukafibija Marathi (1) - ran-coffee
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a9e325d61eca34db33b71f426c6ba9c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a9e325d61eca34db33b71f426c6ba9c/xclkon/cc65566c6cf169d271b8e071ea58ad6d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8a9e325d61eca34db33b71f426c6ba9c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

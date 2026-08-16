@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 794a591ee1b2b0fd3ad8f6edc1bd8641
+Botanical Name: Lantana indica ROB.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 4 languages. Hindi (1) - panjphulli Kannada (9) - joli, kaadujoli, kadujola, kadujoli, naatha poo, natahu, natapu, parele, sulle Malayalam (2) - arippu, konninimullu Tamil (21) - arippu, calakiyacceti, calakiyam, catilakiyam, catilakiyappuntu, cittateciyam, kattuccolam 2, konkinimullu, kutampai, kutta k kutampai, kuttan kutampai, kuttankutampai, kutumpai, makatampu, makkatampu, mukkuttippucceti, nativari, nativaricceti, unni 2, unni ceti, varakanpuntu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/794a591ee1b2b0fd3ad8f6edc1bd8641
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/794a591ee1b2b0fd3ad8f6edc1bd8641
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/794a591ee1b2b0fd3ad8f6edc1bd8641
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

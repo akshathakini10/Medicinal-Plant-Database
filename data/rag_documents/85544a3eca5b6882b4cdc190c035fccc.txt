@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 85544a3eca5b6882b4cdc190c035fccc
+Botanical Name: Doronicum hookeri C.B.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. Urdu (5) - adarunaj-i-aqrabi, darunaj aqrabi, darunaj-aqrabi nim kofta, darunaj-i-aqrabi, darunaj-i-aqrabi nim kofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85544a3eca5b6882b4cdc190c035fccc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85544a3eca5b6882b4cdc190c035fccc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85544a3eca5b6882b4cdc190c035fccc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

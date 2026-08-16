@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1fc709f3f078a26d31f04664416d448a
+Botanical Name: Hymenodictyon obovatum WALL.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 3 languages. Kannada (4) - bogimara, gandale, gandele, hire mara Marathi (3) - kadwa-sirid, kurvi, sirid Tamil (6) - ilaimergay, ilaimerkay1, kattumatulai, malaittanakku, yellamalakkai, yellamalla
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fc709f3f078a26d31f04664416d448a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fc709f3f078a26d31f04664416d448a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fc709f3f078a26d31f04664416d448a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

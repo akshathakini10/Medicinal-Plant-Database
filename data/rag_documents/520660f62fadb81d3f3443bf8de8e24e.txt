@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 520660f62fadb81d3f3443bf8de8e24e
+Botanical Name: Borreria articularis (L.F.) WILLIAMS
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Spermacoce articularis L.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 4 languages. Hindi (2) - agio, guthari Malayalam (1) - tartaval Sanskrit (1) - Sanskrit Comments  tukah Tamil (1) - nattai-c-curi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/520660f62fadb81d3f3443bf8de8e24e/xclkon/dd235a497bd5425e7df599326341550d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 4536
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/4536.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/520660f62fadb81d3f3443bf8de8e24e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/520660f62fadb81d3f3443bf8de8e24e/xclkon/dd235a497bd5425e7df599326341550d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/520660f62fadb81d3f3443bf8de8e24e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/520660f62fadb81d3f3443bf8de8e24e/xclkon/dd235a497bd5425e7df599326341550d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

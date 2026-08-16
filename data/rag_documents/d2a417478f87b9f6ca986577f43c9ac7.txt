@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d2a417478f87b9f6ca986577f43c9ac7
+Botanical Name: Panicum miliaceum L.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 46 Vernacular names found in 8 languages. English (4) - common millet, french millet, prosomillet, russian millet Hindi (5) - cheena, chena, chin, china, chinna Kannada (10) - anu hullu, bahu dhaanya, baragu, bargu, bili baragu, bilibaragu, karay baragu, kari baragu, karibaragu, save Malayalam (1) - kuren-pullu Marathi (7) - barag, raal, sava, varay, varayi, vari, varik Sanskrit (11) - Sanskrit Comments  anu, china, chini, cinaka, cini, kakakangu, kuri, rad, vara, varaka, vrihibheda Tamil (5) - chami, katakanai, manivarakucamai, saamai, varagu Telugu (3) - barigalu, varagalu, worga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2a417478f87b9f6ca986577f43c9ac7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2a417478f87b9f6ca986577f43c9ac7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2a417478f87b9f6ca986577f43c9ac7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2a417478f87b9f6ca986577f43c9ac7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2a417478f87b9f6ca986577f43c9ac7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cina
+sanskrit_name: चीन
+transliteration: cīna
+ref_drug_name: चीनाक
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 2
+drug_name: Cinaka
+sanskrit_name: चीनाक
+transliteration: cīnāka
+ref_drug_name: चीनाक
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

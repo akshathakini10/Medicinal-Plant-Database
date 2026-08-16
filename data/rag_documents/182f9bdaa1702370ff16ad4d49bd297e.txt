@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 182f9bdaa1702370ff16ad4d49bd297e
+Botanical Name: ylopia parvifolia HOOK.F. & THOMS.
+Family: Annonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 3 languages. Kannada (1) - ulli Malayalam (5) - kallupottan, kalpottan, saanthu, santhu, santu Tamil (4) - chidda-vintai, kalpootta, kalpottan, karporuttal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/182f9bdaa1702370ff16ad4d49bd297e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/182f9bdaa1702370ff16ad4d49bd297e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/182f9bdaa1702370ff16ad4d49bd297e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

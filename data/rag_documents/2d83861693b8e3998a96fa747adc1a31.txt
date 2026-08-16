@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2d83861693b8e3998a96fa747adc1a31
+Botanical Name: Anisomeles malabarica R.BR. E SIMS
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Nepeta malabarica L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 105 Vernacular names found in 7 languages. Hindi (2) - codhara, gopoli Kannada (10) - gandu beerana gida, gandu karee thumbe, gandu karee thumbe gida, gandu kari thumbe, gandubeerana gida, kareebanta, karithumbe, karithumbi, karitumbe, moga beeru soppu Malayalam (10) - karimtumpa, karintumba, karintumpa, karitumpa, pemarutti, perumtumba, peruntumba, peruntumpa, peyi-meratti, peymeratti Marathi (7) - chodhara, chowdhaari, kaaka thumba, kak-tumbo, pandaachodhara, sundara, sundraphul Sanskrit (14) - Sanskrit Comments  alamoola, bootankooshum, brahmani, butan-kusham, butan-kushum, devaputri, mahadrona, mahadronah, marunmala, oshthaphala, pisuna, sprkka, vaikuntha, vaikunthah Tamil (48) - catumpai, chadumbai, cukatika, cukatikamiratticceti, erumaipinari, erumuttaippinari1, iratai-pey-marutti, irattai pey maruti, irattai peymarutti, irattai-p-peymiratti, irattaippeymarutti, irattaippeymiratti, irattaippiramattai, karintoomba, karuntumpai, miratti, navittantai1, nettaippeymarutti, nettaippiramattai, nettappiramattai, nettay pemayrutie, paeyemaruti, pai verutti, paicacam, palampaci, pemayrutie, perunthumbai, peruntumpai, pey marutti, pey varutti paicacam, pey-marutti, peya-verutti, peyameratti, peyimarutti, peymarutti, peymiratti 1, peyppalamiratti 1, peyppalamiratticceti, peyvarutti, peyverutti, peyverutticceti, putankucam, rattai peimarutti, sadumbai, vattappeymarutti, vedhuppadaki, vetuppatakki, vetuppatakki 1 Telugu (14) - china-rana-bheri, chinna ranabheri, chinna-ranabheri, chinnaranabheri, maabheri, mabheri, maga beera, magabeera chettu, magabira, magabri, moga bheri, moga-bira, mogabheri, mogbeeraku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d83861693b8e3998a96fa747adc1a31/xclkon/886d3d84ce7c7f51a4683a83a15ed63f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 190
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/190.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d83861693b8e3998a96fa747adc1a31
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d83861693b8e3998a96fa747adc1a31/xclkon/886d3d84ce7c7f51a4683a83a15ed63f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d83861693b8e3998a96fa747adc1a31
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d83861693b8e3998a96fa747adc1a31/xclkon/886d3d84ce7c7f51a4683a83a15ed63f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d83861693b8e3998a96fa747adc1a31
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d83861693b8e3998a96fa747adc1a31/xclkon/886d3d84ce7c7f51a4683a83a15ed63f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

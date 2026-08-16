@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 97f639ee183ac2a68331dc3b34623c1a
+Botanical Name: Echinochloa frumentacea LINK
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Panicum frumentaceum ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 25 Vernacular names found in 8 languages. English (3) - barnyard grass or millet, billion dollar grass, jungle rice Hindi (4) - banti, kangni, kangui, samak Kannada (3) - kaadu haaraka hullu, kungo-gida, navaneakki Malayalam (1) - tina Marathi (2) - janglisama, samul Sanskrit (4) - Sanskrit Comments  shyamaka, syamak, syamaka, syamakah Tamil (7) - avippiriyam, camai, kudiravalli pulllu, kutirai vali, kutiraikkottivali, rail pullu, tinnai Telugu (1) - korralu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a/xclkon/16b2d35dcb2f03afa8a9d73fdfce447a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a/xclkon/16b2d35dcb2f03afa8a9d73fdfce447a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a/xclkon/16b2d35dcb2f03afa8a9d73fdfce447a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97f639ee183ac2a68331dc3b34623c1a/xclkon/16b2d35dcb2f03afa8a9d73fdfce447a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Syamaka
+sanskrit_name: श्यामाक
+transliteration: śyāmāka
+ref_drug_name: श्यामाक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Syamaka
+sanskrit_name: श्यामाक
+transliteration: śyāmāka
+ref_drug_name: श्यामाक
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

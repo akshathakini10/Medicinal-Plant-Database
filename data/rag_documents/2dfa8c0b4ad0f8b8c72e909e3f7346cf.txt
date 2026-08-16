@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2dfa8c0b4ad0f8b8c72e909e3f7346cf
+Botanical Name: Polygonum pulchrum BL.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Polygonum tomentosum WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Tamil (2) - katavaikkiriyacceti, katavaikkiriyam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dfa8c0b4ad0f8b8c72e909e3f7346cf/xclkon/a6e8f048778a30fa388adb2765ef03ed
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dfa8c0b4ad0f8b8c72e909e3f7346cf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dfa8c0b4ad0f8b8c72e909e3f7346cf/xclkon/a6e8f048778a30fa388adb2765ef03ed
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dfa8c0b4ad0f8b8c72e909e3f7346cf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dfa8c0b4ad0f8b8c72e909e3f7346cf/xclkon/a6e8f048778a30fa388adb2765ef03ed
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

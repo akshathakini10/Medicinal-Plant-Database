@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ce8f554e95e82bc275cb5942d4d5f68c
+Botanical Name: Quercus robur PALL.
+Family: Fagaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. English (4) - american-red oak, english oak, french oak, polish or slavonian oak Tamil (2) - macakkay, mayakkay 1
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce8f554e95e82bc275cb5942d4d5f68c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce8f554e95e82bc275cb5942d4d5f68c
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ce8f554e95e82bc275cb5942d4d5f68c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

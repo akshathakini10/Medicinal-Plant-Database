@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: abbda6e04a10582b0ba11abb757a3bea
+Botanical Name: Ziziphus napeca WILLD.
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Sanskrit (1) - Sanskrit Comments  kakoli Tamil (2) - maturaci, uruttirankapicam Telugu (1) - teumani-chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbda6e04a10582b0ba11abb757a3bea
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbda6e04a10582b0ba11abb757a3bea
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/abbda6e04a10582b0ba11abb757a3bea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

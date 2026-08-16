@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 81b79f221ea5888e43e6b08e60e53dc9
+Botanical Name: Ziziphus sativa GAERTN.
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ziziphus vulgaris LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 3 languages. Hindi (2) - kandiari, titm-ber Sanskrit (9) - Sanskrit Comments  badari, karkandhu, kola, ndhuh, rajabadara, rajakola, sauvira, soubira, souvirabadaram Urdu (2) - unnab, unnab nim kofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81b79f221ea5888e43e6b08e60e53dc9/xclkon/380acd64aa8f665fab0b9fd13f478d9e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 4517
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/4517.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81b79f221ea5888e43e6b08e60e53dc9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81b79f221ea5888e43e6b08e60e53dc9/xclkon/380acd64aa8f665fab0b9fd13f478d9e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81b79f221ea5888e43e6b08e60e53dc9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81b79f221ea5888e43e6b08e60e53dc9/xclkon/380acd64aa8f665fab0b9fd13f478d9e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81b79f221ea5888e43e6b08e60e53dc9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/81b79f221ea5888e43e6b08e60e53dc9/xclkon/380acd64aa8f665fab0b9fd13f478d9e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

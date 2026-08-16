@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 12854bb51b1ea12aeab511d4cd045127
+Botanical Name: Dendrocnide sinuata (BL.) CHEW
+Family: Urticaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Laportea crenulata GANDICH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 2 languages. Malayalam (10) - anaccooriyanam, anachorian, anachoriya, anachoriyanam, anaichoriya, anaschorigenam, anayeviratti, elampilavu, moricha, prandam Tamil (5) - anaichorian, otta-pilava, ottapila, perunkanchori, perunkancori
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12854bb51b1ea12aeab511d4cd045127/xclkon/4240bf89c185b787333791bbeed71412
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12854bb51b1ea12aeab511d4cd045127
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12854bb51b1ea12aeab511d4cd045127/xclkon/4240bf89c185b787333791bbeed71412
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12854bb51b1ea12aeab511d4cd045127
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12854bb51b1ea12aeab511d4cd045127/xclkon/4240bf89c185b787333791bbeed71412
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12854bb51b1ea12aeab511d4cd045127
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12854bb51b1ea12aeab511d4cd045127/xclkon/4240bf89c185b787333791bbeed71412
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6d41ae8af1894f85189fe615b8ec4def
+Botanical Name: Ipomoea alba L.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Calonyction bona-nox BOJER
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 58 Vernacular names found in 7 languages. English (1) - moonflower Hindi (2) - dudhia-kalmi, dudhiakalmi Kannada (7) - candrakanti, chandra kaanthi, chandra pushpa, chandrakaanthi, chandrakanti, gula chaandani, kaadu katthi kaayi Malayalam (4) - mandavalli, munda-valli, mundavalli, muntavalli Sanskrit (10) - Sanskrit Comments  chandrakanti, mandavalli, netramila, pathmapu-todami, patmapu, patratanduli, tanduli, tiktamla, visarpini, yavatikta Tamil (29) - ampuli, cantirakanti, ellinataki, ellinatakicceti, kairalam1, kairavi1, kairavicceti, kankurkirai, kankurkiraicceti, kanti1, kuccirakitacceti, kuccirakitam, kulirkanti, kulirkanticceti, manicakacceti, nagamughatei, nagamukkori, naganamukkorai, nakamukkorri, navalarkkantam, nicamani, nicamanicceti, nikanayacceti, nikanayam, taricavacceti, taricavam, tuvicapati, tuvicapaticceti, vellatampu Telugu (5) - naagaramukkatte, nagaramukkatte, pandithivankaaya, panditivankaya, panditivankayya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def/xclkon/71e604538dc1c08d03405de24b5bb868
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def/xclkon/081b3e8d1ba2ee4078db0d19bc536c3a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def/xclkon/708a87b5ccc59aa50947c6300d614a39
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def/xclkon/71e604538dc1c08d03405de24b5bb868
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def/xclkon/081b3e8d1ba2ee4078db0d19bc536c3a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def/xclkon/708a87b5ccc59aa50947c6300d614a39
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def/xclkon/71e604538dc1c08d03405de24b5bb868
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def/xclkon/081b3e8d1ba2ee4078db0d19bc536c3a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def/xclkon/708a87b5ccc59aa50947c6300d614a39
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d41ae8af1894f85189fe615b8ec4def/xclkon/71e604538dc1c08d03405de24b5bb868
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,73 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1865b973f959e7341296ddc186ea8dfd
+Botanical Name: Cyperus esculentus L.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 25 Vernacular names found in 6 languages. English (5) - chufa nut, earth almond, rush or zulu nut, tiger nut, zulu nut Hindi (3) - chichada, cicada, cicoda Kannada (4) - musthe, nela baadaami hullu, nela badami hullu, nelabaadami hullu Malayalam (2) - kalimuttanna, muttanna Sanskrit (8) - Sanskrit Comments  bhadramusta, kaseruka, kshudramusta, musta, nagaramustakah, sugandhi, sukanda, sukareshta Urdu (3) - hab-ul-zillam, hub-ul-zalam, hub-ul-zillam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 738
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/738.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1865b973f959e7341296ddc186ea8dfd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kaseruka
+sanskrit_name: कसेरुक
+transliteration: kaseruka
+ref_drug_name: कसेरुक
+status: Most probable
+discussion: May be Kaseruka
+reference: [1]
+
+Identity Record 2
+drug_name: Krauncadana
+sanskrit_name: क्रौञ्चादन
+transliteration: krauñcādana
+ref_drug_name: क्रौञ्चादन
+status: Most probable
+discussion: May be identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Nagaramustaka
+sanskrit_name: नागरमुस्तक
+transliteration: nāgaramustaka
+ref_drug_name: नागरमुस्तक
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kaseruka
+sanskrit_name: कसेरुक
+transliteration: kaseruka
+image_urls: https://www.medicinalplants.in/slokaimages/1461/1461_1.jpg https://www.medicinalplants.in/slokaimages/1461/1461_2.jpg https://www.medicinalplants.in/slokaimages/1461/1461_3.jpg
+ocr_text: कसेरुकद्वयं शीतं मधुरं तुवरं गुरु| पित्तशोणित दाहघ्नं नयनामयनाशनम्| | ग्रीहि शुक्रामयश्लेष्मरुचिस्तन्यकरं परम् IBpn ) Kaseruka dvaya is madhura, tuvara in rasa, guru, in Buna, sita in veerya, alleviates pitta and sonita cures daha, nayanamaya, is sukramaya slesma aruci stanya kara param Brahi कासेरुकः कषायोडल्पमधुरोडतिखरस्तथ | रक्तपित्तप्रशमनः शीतो दाहश्रमापहः Il IRjnl Kaseruka is kashaya, alpa madhuram in rasa, atikhara, raktapitta prasamana, sita, alleviates aaha ana srama गुरूविष्टभिशीतो च श्रृंगाटककसेरुको I (सुश्रुत, सू ४६, ३०४) Srngataka kaseruka is guru , vistambhi and sita

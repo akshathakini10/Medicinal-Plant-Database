@@ -1,0 +1,110 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 36028586e0b75e3ae8f04a7d5ba70f81
+Botanical Name: Saccharum officinarum L.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 263 Vernacular names found in 10 languages. English (2) - sugar cane, uba cane Hindi (16) - eekh, ekh, ganna, hantho, hanttha, ikh, kumad, naishakar, paunda, pundia, pundiya, rikhu, santtha, uk, ukh, ukhas Kannada (32) - abbe, baragu, ikshu, ikshu kaanda, ikshudada, ikshudanda, iksu, ingolu, kabbu, kantaara, kantara, kantaraka, karimbu, karmbu, khabbu, khabu, lekhini hullu, madhura, mara kabbu, marakabbu, mashura kaanda, munigida, munji, nala, pattapatli kabbu, pundra, rasadali, rasala, rasathaale, rastale, tanigarbu, trynaraja Malayalam (12) - darbhekshu, darbheshu, ikshu, kantarakam, karimba, karimbu, karimpu, karinpa, madhutrinam, madhutrynam, vellakarimpu, vellakkarimpu Marathi (7) - aos, kabbo, oomsa, sheradi, us, usa, uus Sanskrit (52) - Sanskrit Comments  adhipatra, asipatra, bahurasa, bahurasah, bhurirasa, dirgacchada, dirghachhada, gandidi, gandiri, guda, gudada, gudadaru, gudakashtha, gudamula, gudatrina, gura, ikshu, ikshuhu, ikshura, iksu, iksuh, kanguruku, kantara, kantaraka, karkotaka, khadgapatraka, koshakara, madhutrina, madhutrna, madhuyashti, maharasa, matsyandi, morata, mrityupushpa, paundraka, payodhara, poundrakeksu, pundra, pundraka, pundrakah, rasala, rasalah, rasalu, rusala, sarkara, sastra, soma, sukumasaka, trinadhiya, vansha, vipularasa, vrishya Tamil (98) - acipattirakam, acipattiram, acipattiri, akipattiram, akkaram, alai 2, angarigai, ankalakai, ankarikai, anniyam, aracal, asibattiragam, carkkarai, carukkaraikkatikam, cini, connaciram, cornacirakam#, cornacirakam$, cornam, cornam 1, icciyoni, ikatu, ikkavam, ikkiragan, ikku, ikkucamattattai, ir, iracalam 1, iracikam 1, iram, irukkippalai, kalai, kalunti, kamai, kan 2, kanai, kanku 3, kannal, karimpu, karkacam, karkantu, karkkotakam, karumbu, karumpu, karumpu vellam, karunairavi, karuppancaru, karuppuvil, kavancam, kocakaram, konavirutcam, madudirunam, matirunam, matitiranam, matiyikka, maturacam 2, maturakam 4, matutirumanam, matutirunam, matuttirunam, mikku, miruttiputpam, miruttiruvattam, miruttiyaputpam, miruttiyuppiracunam, miruttiyuppiracuttam, miruttiyupuspam, miruttiyuputpam, nattu carukkarai, oritcu, palcanti, paruvayoni, pavuntirkam, payotaram, punarpucam, pundaram, sakkara, tamool nulla vellum, tumpi 2, ukkirakantam 2, ukkirakentai, ukkirakentam, vekuntam, vekuracam, vekuracattattai, vel, velai, velam 1, veli 1, velirukaiccilai, vellum, venkuntu, ventu, venukicam, vey, vilai, vipularacam, vipularacan Telugu (42) - arukanpulakranuga, arukanupula-kranuga, arukanupulakranuga, arukanupulakranugu, ceraku, cerakubhedamu, ceruku, cheraaku, cheraakubhedamu, cheraku, cheraku-gada, cherakubhedamu, cherukabodi, cherukoobodi, cheruku, cherukubhedam, ikshupu, incu, inju, kaantaaramu, kantaramu, kanupula-cheruku, kanupulaceraku, kanupulacheraku, kanupulacheruku, laavucheruku, lavuceraku, lavucheraku, lavucheruku, pottikanupucheruku, pottikanupuciruku, pottikanupulacheruku, rasaalamu, tellaceraku, tellacheruku, thellacheraaku, thiyyamranu, thunta, tiyyamranu, tunta, vamsakamu, vamsukanu Tibetan (1) - bu ram sin Urdu (1) - gana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36028586e0b75e3ae8f04a7d5ba70f81
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Iksu
+sanskrit_name: इक्षु
+transliteration: ikṣu
+ref_drug_name: इक्षु
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Iksu
+sanskrit_name: इक्षु
+transliteration: ikṣu
+ref_drug_name: इक्षु
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Iksu – jati- paundraka
+sanskrit_name: इक्षु जाति- पौण्ड्रक
+transliteration: ikṣu jāti pauṇḍraka
+ref_drug_name: इक्षु जाति- पौण्ड्रक
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 4
+drug_name: Iksuvalika
+sanskrit_name: इक्षुवालिका
+transliteration: ikṣuvālikā
+ref_drug_name: इक्षु
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Iksuvalika
+sanskrit_name: इक्षुवालिका
+transliteration: ikṣuvālikā
+ref_drug_name: इक्षु
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 6
+drug_name: Paundraka
+sanskrit_name: पौड्रक
+transliteration: pauḍraka
+ref_drug_name: पौड्रक प्रजाति
+status: Accepted source
+discussion: It is a variety of 'Iksu' and identified with this species
+reference: [5]
+
+Identity Record 7
+drug_name: Paundraka - prajati
+sanskrit_name: पौड्रक प्रजाति
+transliteration: pauḍraka prajāti
+ref_drug_name: पौड्रक प्रजाति
+status: Accepted source
+discussion: It is a variety of 'Iksu' and identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

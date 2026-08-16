@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5304901e99172d6c1416fe787ef6a29a
+Botanical Name: Ochna gamblei KING(SONARI)
+Family: Ochnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 3 languages. Kannada (2) - palagurivi, palegoravi Tamil (2) - calanti, cerunti1 Telugu (2) - kakamo, palagurivi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5304901e99172d6c1416fe787ef6a29a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5304901e99172d6c1416fe787ef6a29a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5304901e99172d6c1416fe787ef6a29a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

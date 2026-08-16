@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3ceeeec14102b5ea72e990a3834fb283
+Botanical Name: Digera muricata (L.) MART.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Digera arvensis FORSK.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 6 languages. Hindi (7) - gangatiya, khanjru, latmahuria, leshua, lesua, lisava, lolaru Kannada (4) - chenchali soppu, gorajapalya, goraji palya, kankali soppu Marathi (2) - getna, gitana Sanskrit (6) - Sanskrit Comments  aranya, aranyavastuka, kunanjara, kuranjara, kutinjar, manjarika Tamil (18) - kecani, kecanikkirai, kiraittoyili, kutiraiccali, kutiraiccalikkirai, thoyyakeerai, toiyyakkirai, toyil, toyilikkirai, toyya, toyyakkirai, toyyil, toyyili, tuyilaikkirai, tuyili, tuyilikkirai, ventoyili, ventoyilikkirai Telugu (6) - chanchali, chanchalikoora, chenchalikoora, chenchalikura, chencheli-kura, kura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ceeeec14102b5ea72e990a3834fb283
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ceeeec14102b5ea72e990a3834fb283/xclkon/6e58b16794bae308e2cba2b4754def89
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ceeeec14102b5ea72e990a3834fb283
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ceeeec14102b5ea72e990a3834fb283/xclkon/6e58b16794bae308e2cba2b4754def89
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ceeeec14102b5ea72e990a3834fb283
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kathinjara
+sanskrit_name: कठिञ्जर
+transliteration: kaṭhiñjara
+ref_drug_name: कठिञ्जर
+status: Suggested source
+discussion: Suggest to take Digera muricata for Kathinjara
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7b5b4b74c20e46d56aef0272bf1db80f
+Botanical Name: Cycas circinalis L.
+Family: Cycadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 105 Vernacular names found in 8 languages. English (1) - sago-palm Hindi (4) - jangil, jangli-madan-must-ka-phul, jungli-madan-mast ka phul, madanmastka-phullchal Kannada (13) - esalu, goddeechalu, goddu eechalu, godduichalu, godduyicalu, icala, ichal, isala, mandeechalu, mundicalu, mundichalu, mundisalu, yechala Malayalam (23) - eenthakay, entha, ichal, indalapanai, inta, intalappana, intha, intimpoti, intinpana, intu, kalanga, kalarei, kalla, kallangam, kallari, rinbadam, todda-panna, toddapana, toddapanna, tutappana, urampu, uranbu, uranpu Marathi (4) - amdesa mota, cycas, malabari-supari, panum Sanskrit (1) - Sanskrit Comments  hintalah Tamil (43) - cannincai, cavvu, cimaiyiccan, cimaiyincu, civi, intapanai, kama, kama-maram, kamam1, kamamaram, kamappu, kattumano rancitam, kattumanorancitam, kayapperincu, kodi icham, kodiicham, kotiyiccan, kotiyicu, madana-kamampu, madana-kameshurappu, madanagama, madanakama, madanakamappu, madanakamapu, matana kamappu, matana-kamcsvara-p-pu, matanakamam 1, matanakamappu, matanakamappu 1, matanakameccuram, matanakameccuramaram, matanakamecuram 1, matanakamecurappu, matanakamecuvaram#, matanakamiyappu, matanamastu, matanappu, matanapputu, savala, show arisee, tatappanai, urai, velakkailati Telugu (16) - dzavvubiyyamu, kamakshi, madana kamakshi, madana mastu, madanakamakshi, mandanemastu, pairiyita, perita, periyita, peruvita, rana guvva, ranaguvva, tanaguva kamakshi, varaguna, varugudu, waragudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b5b4b74c20e46d56aef0272bf1db80f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 715
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/715.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b5b4b74c20e46d56aef0272bf1db80f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b5b4b74c20e46d56aef0272bf1db80f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b5b4b74c20e46d56aef0272bf1db80f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

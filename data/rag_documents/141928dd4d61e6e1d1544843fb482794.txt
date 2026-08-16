@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 141928dd4d61e6e1d1544843fb482794
+Botanical Name: Selinum candollei DC.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Selinum tenuifolium WALL. E DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Hindi (2) - bhutkeshi, moor Sanskrit (1) - Sanskrit Comments  mura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/141928dd4d61e6e1d1544843fb482794/xclkon/ecd10a28a930f36cb01f655b0829a3b7
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1886
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1886.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/141928dd4d61e6e1d1544843fb482794
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/141928dd4d61e6e1d1544843fb482794/xclkon/ecd10a28a930f36cb01f655b0829a3b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/141928dd4d61e6e1d1544843fb482794
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/141928dd4d61e6e1d1544843fb482794/xclkon/ecd10a28a930f36cb01f655b0829a3b7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

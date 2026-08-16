@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b28a05b96e5b2067e569b9c2aa1a2cc7
+Botanical Name: Centaurea behen L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 1 languages. Urdu (4) - behman safaid, behman safaid mim kofia, behman safaid nim kofta, behman safaid nimkofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b28a05b96e5b2067e569b9c2aa1a2cc7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b28a05b96e5b2067e569b9c2aa1a2cc7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b28a05b96e5b2067e569b9c2aa1a2cc7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

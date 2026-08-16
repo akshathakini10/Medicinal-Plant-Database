@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5efa7dabb28c6bb9efde88794a524361
+Botanical Name: Scutia myrtina (N.BURM.) KURZ
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Scutia indica BRONG..
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 44 Vernacular names found in 5 languages. Kannada (8) - badasulli, badisulle, kuradi, kurudi, kurudi hannina gida, kurudi hannu, odee sulli, ollesulli Malayalam (3) - kal-vetadagou, tutali, vetadagou Marathi (1) - chimat Tamil (27) - apacakacceti, apacakam, conkuvai1, cukkumapatiri, cutcumapatiri, intu2, kaltapari, kannimayakki, karkantu, karuttenakacceti, karuttenakam, kataparicceti, kilakavakacceti, kilakavakam, kintati, kokkimullu, kokkumullu, pacacu, pulitotakki 1, pulittatukki 1, pulittotariver, thoratti, totali1, totari, turami2, tuvadi, tuvati Telugu (5) - gaddagoru, gariki, thoduvinda, todinda, toduvinda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5efa7dabb28c6bb9efde88794a524361
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5efa7dabb28c6bb9efde88794a524361/xclkon/658d61d24a098e30f96fb052da120d2b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5efa7dabb28c6bb9efde88794a524361
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5efa7dabb28c6bb9efde88794a524361/xclkon/658d61d24a098e30f96fb052da120d2b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5efa7dabb28c6bb9efde88794a524361
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

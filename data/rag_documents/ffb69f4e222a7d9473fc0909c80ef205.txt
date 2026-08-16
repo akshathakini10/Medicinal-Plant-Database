@@ -1,0 +1,125 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ffb69f4e222a7d9473fc0909c80ef205
+Botanical Name: Cinnamomum wightii C.F.W.MEISSN
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 5 languages. Kannada (14) - adavilavanga, cuddoolavanga, cuddulavanga, dalacinni, dalchini, eluke, ijin, kaadu daalchini, kaadulavanga, kadudalacini, kadudalchini, kadudalcini, kadulavanga, katkaruva Malayalam (5) - ilavangam, katcarua, katkaruva, katoukarua, kattukaruva Sanskrit (1) - Sanskrit Comments  tejpatra Tamil (3) - cempala, naagakesharam, vettadu Telugu (10) - adavilavanagapatta, adavilavangapatta, akupatrikamu, paccaku, pachaaku, pachchaku, pattsaku, talisapatri, talishapatri, thaalisapathri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffb69f4e222a7d9473fc0909c80ef205
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 543
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/543.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffb69f4e222a7d9473fc0909c80ef205
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffb69f4e222a7d9473fc0909c80ef205
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+ref_drug_name: नागकेशर
+status: ?
+discussion: ?
+reference: [2]
+
+Identity Record 2
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+ref_drug_name: नागकेशर
+status: Market source
+discussion: Unripe fruits of this species is sold in the markets as Nagakesara
+reference: [2]
+
+Identity Record 3
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+ref_drug_name: नागकेशरम्
+status: Adulterated source
+discussion: Unripe fruits of this species is used as an adulterant for Nagakesara
+reference: [2]
+
+Identity Record 4
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+ref_drug_name: नागकेशरम्
+status: Market source
+discussion: Unripe fruits of this species is sold in the markets as Nagakesara
+reference: [2]
+
+Identity Record 5
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+ref_drug_name: नागकेशर
+status: ?
+discussion: ?
+reference: [2]
+
+Identity Record 6
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+ref_drug_name: नागकेशर
+status: Market source
+discussion: Unripe fruits of this species is sold in the markets as Nagakesara
+reference: [2]
+
+Identity Record 7
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+ref_drug_name: नागकेशरम्
+status: Adulterated source
+discussion: Unripe fruits of this species is used as an adulterant for Nagakesara
+reference: [2]
+
+Identity Record 8
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+ref_drug_name: नागकेशरम्
+status: Market source
+discussion: Unripe fruits of this species is sold in the markets as Nagakesara
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+image_urls: https://www.medicinalplants.in/slokaimages/1099/1099_1.jpg https://www.medicinalplants.in/slokaimages/1099/1099_2.jpg https://www.medicinalplants.in/slokaimages/1099/1099_3.jpg https://www.medicinalplants.in/slokaimages/1099/1099_4.jpg
+ocr_text: नाग गकेसरमल्पोष्णं लघु तिक्तं कफापहम्| बस्तिवातामयघ्नञ्च कण्ठशीर्षरुजापहम् IRin) Nagakesara is tikta in rasa, laghu in guna, alposna in virya, alleviates kapha, cures vasti vatamaya, kantha sirsa ruja. केसरं विषविसर्परक्तर्शोवमिकुष्ठहृत् हृल्लासवमिदौर्गन्ध्यतृष्णापित्तबलासजित् | (ग.नि) Kesara cures visa, visarpa, rakta vami, kustha, hrilasa, vami, daurganahya, trsna, pitta balasa arsa , and नागपुष्पं कषायोष्णं रूक्षं लघ्वामपाचनम्| ज्वरकण्डूतृषास्वेदच्छर्दिहृल्लासनाशनम् दौर्गन्धकुष्ठवीसर्पकफपित्तविषापहम् IBpnl Nagapuspa is kashaya in rasa, ruksa, laghu in guna, usna in veerya, ama pacana, alleviates jvara , kandu, trsha, sveda, chardi and hrllasa. उष्णं, रूक्ष, नागपुष्पं कषायं तृष्णाच्छर्द्दिश्लेष्मनातप्रमाथि|| तसि॰ भे.म॰ Nagakesara is kashaya in rasa, ruksa in guna, usna in veerya, is pramathi, alleviates trsna, chardi and slesma
+
+Shloka Record 2
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+image_urls: https://www.medicinalplants.in/slokaimages/1099/1099_1.jpg https://www.medicinalplants.in/slokaimages/1099/1099_2.jpg https://www.medicinalplants.in/slokaimages/1099/1099_3.jpg https://www.medicinalplants.in/slokaimages/1099/1099_4.jpg
+ocr_text: नाग गकेसरमल्पोष्णं लघु तिक्तं कफापहम्| बस्तिवातामयघ्नञ्च कण्ठशीर्षरुजापहम् IRin) Nagakesara is tikta in rasa, laghu in guna, alposna in virya, alleviates kapha, cures vasti vatamaya, kantha sirsa ruja. केसरं विषविसर्परक्तर्शोवमिकुष्ठहृत् हृल्लासवमिदौर्गन्ध्यतृष्णापित्तबलासजित् | (ग.नि) Kesara cures visa, visarpa, rakta vami, kustha, hrilasa, vami, daurganahya, trsna, pitta balasa arsa , and नागपुष्पं कषायोष्णं रूक्षं लघ्वामपाचनम्| ज्वरकण्डूतृषास्वेदच्छर्दिहृल्लासनाशनम् दौर्गन्धकुष्ठवीसर्पकफपित्तविषापहम् IBpnl Nagapuspa is kashaya in rasa, ruksa, laghu in guna, usna in veerya, ama pacana, alleviates jvara , kandu, trsha, sveda, chardi and hrllasa. उष्णं, रूक्ष, नागपुष्पं कषायं तृष्णाच्छर्द्दिश्लेष्मनातप्रमाथि|| तसि॰ भे.म॰ Nagakesara is kashaya in rasa, ruksa in guna, usna in veerya, is pramathi, alleviates trsna, chardi and slesma

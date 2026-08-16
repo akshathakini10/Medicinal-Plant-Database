@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2ff75f5e20a8394b5638a00e923d5e75
+Botanical Name: Dactylorhiza hatagirea (DON.)  SOO
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Orchis latifolia L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 7 languages. Hindi (6) - salam, salam misri, salam panja, salampanja, salap, salib mistri Kannada (1) - salamisri Malayalam (1) - salamisri Sanskrit (3) - Sanskrit Comments  mujjataka, munyatakah, salampamisri Tamil (1) - salamisri Telugu (1) - salamisri Urdu (3) - ood saleeb (ood gharqi), salab misri (khusyat-us-salab), salabmisri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ff75f5e20a8394b5638a00e923d5e75/xclkon/c94472dcaad102a13bdaa425e81c51fb
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 3511
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/3511.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ff75f5e20a8394b5638a00e923d5e75
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ff75f5e20a8394b5638a00e923d5e75/xclkon/c94472dcaad102a13bdaa425e81c51fb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ff75f5e20a8394b5638a00e923d5e75
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ff75f5e20a8394b5638a00e923d5e75/xclkon/c94472dcaad102a13bdaa425e81c51fb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ff75f5e20a8394b5638a00e923d5e75
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ff75f5e20a8394b5638a00e923d5e75/xclkon/c94472dcaad102a13bdaa425e81c51fb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

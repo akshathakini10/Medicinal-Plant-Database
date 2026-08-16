@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 31cb8f51eb070b06fc9e54a00102bc2b
+Botanical Name: Lactuca serriola L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lactuca scariola L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 6 languages. English (5) - compass plant, horse thistle, prickly lettuce, wild lettuce, wild opium Kannada (2) - mullu lettuse, mullu salaasi Marathi (3) - bnakahoo, kaahu, saaleet Sanskrit (1) - Sanskrit Comments  kakubha Telugu (1) - kavu Urdu (3) - tukhm kahu, tukhm kehu, tukhm-i-kahu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31cb8f51eb070b06fc9e54a00102bc2b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31cb8f51eb070b06fc9e54a00102bc2b/xclkon/b5021c27e3b735c1bb8d74a839d4990c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31cb8f51eb070b06fc9e54a00102bc2b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31cb8f51eb070b06fc9e54a00102bc2b/xclkon/b5021c27e3b735c1bb8d74a839d4990c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31cb8f51eb070b06fc9e54a00102bc2b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31cb8f51eb070b06fc9e54a00102bc2b/xclkon/b5021c27e3b735c1bb8d74a839d4990c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/31cb8f51eb070b06fc9e54a00102bc2b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

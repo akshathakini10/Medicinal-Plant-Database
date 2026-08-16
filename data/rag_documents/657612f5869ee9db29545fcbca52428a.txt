@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 657612f5869ee9db29545fcbca52428a
+Botanical Name: Lilium polyphyllum DON.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 6 languages. Hindi (2) - kalihari, ksirakakoli Kannada (1) - ksirakakoli Malayalam (1) - ksirakakoli Sanskrit (2) - Sanskrit Comments  kakoli, ksirakakoli Tamil (1) - ksirakakoli Telugu (1) - ksirakakoli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/657612f5869ee9db29545fcbca52428a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1316
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1316.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/657612f5869ee9db29545fcbca52428a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

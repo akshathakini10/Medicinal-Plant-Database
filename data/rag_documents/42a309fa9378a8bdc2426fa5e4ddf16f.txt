@@ -1,0 +1,130 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 42a309fa9378a8bdc2426fa5e4ddf16f
+Botanical Name: Luffa cylindrica (L.) M.J. ROEM.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Luffa aegyptiaca MILL. E. HOOK.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 89 Vernacular names found in 9 languages. English (2) - loofah, vegetable sponge Hindi (11) - dhodka, dhodka ghiya turai, ghia-torai, ghia-tori, ghiatarui, ghiatarul, ghiaturai, ghiya tori, khiya tori, nenua, purula Kannada (7) - araheere, bolaheere, thipri kaayi, thuppada heere, thuppeere kayi, tiprikayi, tuppahire Malayalam (7) - cattu-picinna, kattupiccil, kattupiram, perumpiram, piccinna, puttalpiram, puttilpiram Marathi (6) - ghadaghosali, ghosaalen, ghosali, marti-gomasali, paarose, paroshi Sanskrit (28) - Sanskrit Comments  aibhi, brihatkoshataki, dhamargava, dhamargavah, dhamargawah, dirgha-patola, dirghapatolika, enua, ghiyatarvi, ghoshaka, hastighosha, hastikoshataki, hastiparna, kosaphala, kosataki, kosathaphala, kothaphalah, mahajalini, mahakosataki, mahakoshataki, mahaphala, mahapushpa, raja-koshataki, rajakausataki, rajakosataki, rajakoshataki, sapitaka, sodhani Tamil (19) - guttibira, meluku pirk, melukupirkku, melukuppeyppirkku, mozhukupirkankai, mulukkupperakkai, nuraippirkku, parpirkku, pichukku, pikku, pirkku, pontukapirkku, tirkkapatolikam, vattuka, vattuvakkoti, vatukikakkoti, vatukikam, virutukacakkoti, virutukacam Telugu (8) - gutti beera, guttibira, nethi beera, neti beera, netibira, netibirakaya, nunebira, nunibeera Tibetan (1) - ra dza ko sa ta ki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/d28b78907024a493e092dd6b95889287
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/778e472c354c2b6c27bdbc24e2692eed
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/d28b78907024a493e092dd6b95889287
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/778e472c354c2b6c27bdbc24e2692eed
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/d28b78907024a493e092dd6b95889287
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/778e472c354c2b6c27bdbc24e2692eed
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/d28b78907024a493e092dd6b95889287
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/778e472c354c2b6c27bdbc24e2692eed
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/d28b78907024a493e092dd6b95889287
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/778e472c354c2b6c27bdbc24e2692eed
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42a309fa9378a8bdc2426fa5e4ddf16f/xclkon/d28b78907024a493e092dd6b95889287
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhamargava
+sanskrit_name: धामार्गव
+transliteration: dhāmārgava
+ref_drug_name: धामार्गव
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Dhamargava
+sanskrit_name: धामार्गव
+transliteration: dhāmārgava
+ref_drug_name: धामार्गव
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Kosataki
+sanskrit_name: कोशातकी
+transliteration: kośātakī
+ref_drug_name: कोशातकी
+status: Suggested source 3
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Kosataki catustaya
+sanskrit_name: कोशातकी चतुष्टय
+transliteration: kośātakī catuṣṭaya
+ref_drug_name: कोशातकी
+status: Suggested source 3
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Mahakosataki
+sanskrit_name: महाकोशातकी
+transliteration: mahākośātakī
+ref_drug_name: महाकोशातकी
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dhamargava
+sanskrit_name: धामार्गव
+transliteration: dhāmārgava
+image_urls: https://www.medicinalplants.in/slokaimages/1044/1044_1.jpg https://www.medicinalplants.in/slokaimages/1044/1044_2.jpg https://www.medicinalplants.in/slokaimages/1044/1044_3.jpg https://www.medicinalplants.in/slokaimages/1044/1044_4.jpg
+ocr_text: क्ष्वेडस्तिकः कटुस्तीक्ष्णोडप्रगाढश्च प्रशस्यते कुष्ठपाण्ड्वामयप्लीहशोफगुल्मगरादिषुII (Dhn) Ksveda is tikta, katu in rasa, tiksna in guna, apragadha cures kustha, pandu, pliha, sopha, gulma and gara visa. जोशातकी तु शिशिरा कटुकाउल्पकषायका पित्तवातकफघ्नी च मलाघ्मानविशोधिनी | धाराकोषातकी स्निग्धा मधुरा कफपित्तनुत् ईषद् वातकरी पथ्या रुचिकृद् बलवीर्यदा (Rin) Kosataki is katuka, alpa kashayaka in rasa, sisira, alleviates pitta, vata, kapha, is mala adhmana visodhani Dhara kosataki is madhura in rasa, snigdha in guna alleviates kapha, pitta, slightly increases vata, is pathya, promotes ruci, bala and veerya. राजकोषातकी गरे गुल्मोदरे कासे वातश्लेष्मामये स्थिते| कफे च कण्टक्वस्थे कफसञ्चयजेषु चIl (चरक.क.अ.४) Raja kosataki cures gara, gulma, udara, kasa, diseases of vata slesma, kapha aggravated in kantha and kapha accumulated conditions कोषातकी कफार्शोघ्नी पक्वामाशयशोधिनी|| (Rjv) Kosataki cures kapha arsa and helps in evacuation of waste from pakvamasaya.
+
+Shloka Record 2
+drug_name: Kosataki
+sanskrit_name: कोशातकी
+transliteration: kośātakī
+image_urls: https://www.medicinalplants.in/slokaimages/1043/1043_1.jpg https://www.medicinalplants.in/slokaimages/1043/1043_2.jpg https://www.medicinalplants.in/slokaimages/1043/1043_3.jpg
+ocr_text: क्ष्वेडस्तिक्तः कटुस्तीक्ष्णोडप्रगाढश्च प्रशस्यते| कुष्ठपाण्ड्वामयप्लीहशोफगुल्मगरादिषु| | (Dhnl Kosataki is katu in rasa, tiksna in guna, apragada, cures Kustha, pandu, pliha, sopha, gulma and gara visha. कोशातकी शिशिरा कटुकाडल्पकषायका पित्तवातकफघ्नी च मलाघ्मानविशोधिनी| | धाराकोषातकी स्निग्धा मधुरा कफपित्तनुत्| ईषद् वातकरी पथ्या रुचिकृद् बलवीर्यदा Il IRjnl Kosataki is katu, alpa kashaya in rasa, sisira in veerya, alleviates pitta, vata and kapha doshas, is mala adhmana visodhani. Dhara kosataki is madhura in rasa, snighda in guna, alleviates kapha and pitta, increases vata is pathya, ruci kara, and bala viryada. mildly, राजकोषातकी गरे गुल्मोदरे कासे वातश्लेष्मामये स्थिते| कफे च कण्टवक्त्रस्थ कफसञ्चयजेषु च|| तचरक.क.अ४) Raja kosataki cures gara, gulmodara, kasa, vata slesmamya, kapha in kantha, vaktra and kapha sancaya.
+
+Shloka Record 3
+drug_name: Kosataki catustaya
+sanskrit_name: कोशातकी चतुष्टय
+transliteration: kośātakī catuṣṭaya
+image_urls: https://www.medicinalplants.in/slokaimages/1043/1043_1.jpg https://www.medicinalplants.in/slokaimages/1043/1043_2.jpg https://www.medicinalplants.in/slokaimages/1043/1043_3.jpg
+ocr_text: क्ष्वेडस्तिक्तः कटुस्तीक्ष्णोडप्रगाढश्च प्रशस्यते| कुष्ठपाण्ड्वामयप्लीहशोफगुल्मगरादिषु| | (Dhnl Kosataki is katu in rasa, tiksna in guna, apragada, cures Kustha, pandu, pliha, sopha, gulma and gara visha. कोशातकी शिशिरा कटुकाडल्पकषायका पित्तवातकफघ्नी च मलाघ्मानविशोधिनी| | धाराकोषातकी स्निग्धा मधुरा कफपित्तनुत्| ईषद् वातकरी पथ्या रुचिकृद् बलवीर्यदा Il IRjnl Kosataki is katu, alpa kashaya in rasa, sisira in veerya, alleviates pitta, vata and kapha doshas, is mala adhmana visodhani. Dhara kosataki is madhura in rasa, snighda in guna, alleviates kapha and pitta, increases vata is pathya, ruci kara, and bala viryada. mildly, राजकोषातकी गरे गुल्मोदरे कासे वातश्लेष्मामये स्थिते| कफे च कण्टवक्त्रस्थ कफसञ्चयजेषु च|| तचरक.क.अ४) Raja kosataki cures gara, gulmodara, kasa, vata slesmamya, kapha in kantha, vaktra and kapha sancaya.

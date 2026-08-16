@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3a9112b40b7e8b1aa8abd33288fde4c3
+Botanical Name: Triticum aestivum L.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Triticum sativum LAM. Triticum vulgare WILL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 78 Vernacular names found in 9 languages. English (3) - bran, common bread wheat, vodka Hindi (11) - gaihoon, gaun, gehu, gehub, gehum, gehun, genhu, gieun, giun, kanak, kunak Kannada (2) - godhi, godi Malayalam (5) - gendum, gotampu, kotampu, kotampum, kotanpam Marathi (3) - gahu, gahum, gahung Sanskrit (17) - Sanskrit Comments  arupa, bahudugdha, godhuma, godhuma-pishta, godhumah, kshiri, madhuli, mahagodhuma, mlenchhabhojana, nihsuki, niksuki, nistusha, rasala, saman, sumana, yava, yavana Tamil (32) - alari 2, ankunam 2, arkkam 3, cepam, godumai, godumay, godumbaiyarisi, iracalam 2, kankainirupam, katiratakali, kodumai, kollaimutirai, kotamayava, kothumai, kotimam, kotumai, kotumpai, makacali, mikupalam, mileccacakam, mileccacam, mileccai, mileccaram, nantamuki, talamatitam, tamilam, taniyarajan, turankappiriyam, turankikam, tuymusti, vatattata, yavai Telugu (4) - godhumulu, godumallu, godumalu, godumulu Urdu (1) - nishasta-e-gandum
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3/xclkon/fb33e34375b6f9166c1c900ba273f64f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3/xclkon/eed5223dce18f75a9710f5a6568e0492
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3/xclkon/fb33e34375b6f9166c1c900ba273f64f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3/xclkon/eed5223dce18f75a9710f5a6568e0492
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3/xclkon/fb33e34375b6f9166c1c900ba273f64f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3/xclkon/eed5223dce18f75a9710f5a6568e0492
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3/xclkon/fb33e34375b6f9166c1c900ba273f64f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3/xclkon/eed5223dce18f75a9710f5a6568e0492
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a9112b40b7e8b1aa8abd33288fde4c3/xclkon/fb33e34375b6f9166c1c900ba273f64f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Godhuma
+sanskrit_name: गोधूम
+transliteration: godhūma
+ref_drug_name: गोधूम
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Godhuma
+sanskrit_name: गोधूम
+transliteration: godhūma
+ref_drug_name: गोधूम
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

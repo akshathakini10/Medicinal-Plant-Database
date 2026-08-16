@@ -1,0 +1,86 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f914465bab5b5ed0307908b9d8856abd
+Botanical Name: Merremia emarginata (BURM.F.) HALL.F.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Evolvulus emarginatus BURM.F. Ipomoea reniformis (ROB.) CHOISY Merremia gangetica (L.) CUFO.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 119 Vernacular names found in 10 languages. English (1) - rats ear Hindi (3) - musakani, musakari, mushakani Kannada (6) - althi gida, elikivi soppu, ilikivi soppu, mooshikaparni, thigade, valliharuhi Malayalam (1) - eliccevi Marathi (2) - umdrakani, underkani Sanskrit (47) - Sanskrit Comments  adibhu, akhukarni, akhuparni, akhuparnika, bahukarnika, bahupadika, bhudaribhava, bhudharashraya, bhudharasrya, bhumichari, chandaa, chitra, darduraparnika, dravanti, elikkatukkirai, krishika, mata, mekaparni, mooshakarni, musakarni, mushakaparni, mushakarni, mushikavhaya, musikahvaya, musikakarni, musikaparni, nyagrodhi, parnika, patrashreni, perattaikkirai, phanjipatrika, pratiparnashipha, pratyashreni, putrashreni, randa, sahasramushi, shambari, shatamulika, sukarnika, suvarni, undurkarni, undurukarni, undurukarnika, upchitra, vikranta, vrishaparni, vrishchikakarni Tamil (51) - akatilai 2, akukarni, campari, cikappueliccevikkirai, civappeliccevi, eliccevi, eliccevikkirai, eliccevipputu, elikadilai, elikkadhu-keerai, elikkadilai, elikkatilai, elikkatu, elikkatu tutti, elikkatukirai, elikkatukkirai, irumpakakkirai, irumpakam, iyarram, kalakannikkirai, kappuka, kappukakkirai, katteliccevi 1, katteliccevikkirai, kiruminacani, mapali, mapaliccevikkirai, musakakarni, musakaparni, musikkay, mutikkirai, nakatorani, nakatoranikkirai, nemi, nilakkuntal, nilakkuntarkirai, paerattaekirae perretay-kiray, parattai, pavalaccevikkirai, pavanaveliccevi, perattaikkirai, peratti-k-kirai, perattikirai, perettaikkirai, perettaikkiray, piramekacatarokkiyam, pirattaikkirai, putticcireni, tiravanti, turaki, yelikkaadhukeerai Telugu (4) - elika jimudu, elikajemudu, toinnuatali, yelaka jeevi aaku Tibetan (1) - mu sa ka ka rni Urdu (3) - marzanjosh, mirzan josh, mirzanjosh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/1ba3dd13a446173a5d880520acedb420
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1419
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1419.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/954a4e4313856a48ffa009e9306c407f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/919accc8f51788781ae03eef778e1b23
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/1ba3dd13a446173a5d880520acedb420
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/954a4e4313856a48ffa009e9306c407f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/919accc8f51788781ae03eef778e1b23
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/1ba3dd13a446173a5d880520acedb420
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/954a4e4313856a48ffa009e9306c407f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/919accc8f51788781ae03eef778e1b23
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/1ba3dd13a446173a5d880520acedb420
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/954a4e4313856a48ffa009e9306c407f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/919accc8f51788781ae03eef778e1b23
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f914465bab5b5ed0307908b9d8856abd/xclkon/1ba3dd13a446173a5d880520acedb420
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Akhukarni
+sanskrit_name: आखुकर्णी
+transliteration: ākhukarṇī
+ref_drug_name: आखुकर्णी
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Akhuparnika
+sanskrit_name: आखुपर्णिका
+transliteration: ākhuparṇikā
+ref_drug_name: आखुपर्णिका
+status: Suggested source
+discussion: Akhuparnika presently is identified with this species but it needs to be studied as its not a native of our country and its features are not equivalent with the ones given in Caraka samhita
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2f8d997fafbb45726a1243ae9bfbf6d5
+Botanical Name: Citrus medica L. var. limetta
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 84 Vernacular names found in 9 languages. Hindi (5) - baranimbu, bijaura, jhamirdi, maphal, turanj Kannada (6) - imbe, maadala, mada-lada-hannu, madalada-hannu, madavala, rusaki Malayalam (4) - ganapati-naranna, ganapatinarakam, kaipanaragam, madalanarakam Marathi (6) - bijora, kagi limbu, limbu, mahalung, mahalunga, mavalung Sanskrit (31) - Sanskrit Comments  amlakeshara, antughna, begapura, bijahva, bijaka, bijaphalaka, bijapur, bijapura, bijapurah, bijapuraka, bijapurna, danturachhada, jambhhira, karuna, madhulunga, madhuramphala, mahalunga, mahaphala, matulang, matulunga, matulungah, nimbu, nimbuka, phalapura, phalapuraka, rochanaphala, rucaka, ruchaka, sukeshar, supura, vijapura Tamil (19) - durunci, elumiccai, elumicha, inippelumiccai, inippunarattai, kadara naraththai, kadaranarattai, kommatti matulai, kotinarattai2, kotiyelumiccai, maturacampiram, narttam-pazham, tenrotam, tentirimiccai, tentirimiccaimaram, tiirivatikam, tirivatikamaram, tittippelumiccai, tittippuelumiccai Telugu (8) - bija-pura, dabba, lungamu, madeephalamu, madhipala-pandu, nara-dabba, nimma, pulla-dabba Tibetan (3) - ba lun kha lun (d), la la kha lun, skyur rtsi chen po Urdu (2) - turanj, utaraj
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f8d997fafbb45726a1243ae9bfbf6d5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f8d997fafbb45726a1243ae9bfbf6d5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f8d997fafbb45726a1243ae9bfbf6d5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f8d997fafbb45726a1243ae9bfbf6d5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f8d997fafbb45726a1243ae9bfbf6d5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f8d997fafbb45726a1243ae9bfbf6d5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

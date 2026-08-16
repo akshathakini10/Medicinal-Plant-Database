@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 88e73deb5efaecd4a508b4fec9232e7a
+Botanical Name: Gyrocarpus americanus JACQ.
+Family: Hernandiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 60 Vernacular names found in 4 languages. Hindi (1) - zaitun Kannada (3) - kaadu bende, kadubende, pollika Tamil (50) - caivavatala, cami1, centanakku1, centavam, centavamaram, kadavai, kapavinacani, karamanikkay, katarkotittumam, katarkotittumamaram, katavai, katavimaram, katavu, katavumaram, kavari, kavarimaram, kavarirukki, kavarirukku, kottaikkala2, kottaittanakkan, kottaittanakku1, munuvu, muttaikkonku, natavai1, natavu, natcai, nuna#, nunavu2, pantuputtirika, pantuputtirikam, parunkalikam, parunkalikamaram, pasanaparpi, petiracanamaram, petirancanam, piruntika, piruntikamaram, punkalakam, puttiramancari, puttiramancarimaram, tanakku, teppam, teppamaram, tuavumaram, tunavu, vanni 2, vellaittanakku, visaculakustakkini, vivakatam, vivakatamaram Telugu (6) - kumaara ponaku, kumaari poliki, nallaponaku, papurapu kaaya, ponaku, tanuku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e73deb5efaecd4a508b4fec9232e7a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e73deb5efaecd4a508b4fec9232e7a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/88e73deb5efaecd4a508b4fec9232e7a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a324ce27ccf9186a68a5a827c53ad2b0
+Botanical Name: Pygeum gardneri HOOK.F.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pygeum wightianum BL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 2 languages. Malayalam (12) - cettari, irattiyan, muttakongu, muttukonka, naikambagam, nakkampakam, naykambagam, neikambagam, rattiyan, rettiyan, shetthuri, shetturi Marathi (1) - dakh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a324ce27ccf9186a68a5a827c53ad2b0/xclkon/01f58bd3d1f7ccc273dc45d113abee88
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a324ce27ccf9186a68a5a827c53ad2b0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a324ce27ccf9186a68a5a827c53ad2b0/xclkon/01f58bd3d1f7ccc273dc45d113abee88
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

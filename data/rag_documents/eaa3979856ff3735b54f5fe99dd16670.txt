@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: eaa3979856ff3735b54f5fe99dd16670
+Botanical Name: Caesalpinia crista L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 44 Vernacular names found in 8 languages. Hindi (2) - kanta-karanja, kharare Kannada (2) - gajjiga, kiri gejjuga Malayalam (3) - ban-karetti, kaka-moullou, kazhanji Marathi (7) - gajaga, gajri, kanchaki, karbath, rohedo, sagaragota, sagargota Sanskrit (20) - Sanskrit Comments  kakachika, kantakikaranja, kantakini, karanja, krakachika, kuberaksah, kuberakshi, kuberaksi, latakaranja, prakiriya, prakirnah, putikah, putikaranja, putikaranjah, putikaranji, tinagachhika, tirini, valli, varini, vitapakaranja Tamil (7) - kalachikai, kalarci ver, kalarcik koluntu, kalarcip paruppu, kalichikai, kazarci, kazharchikkaai Telugu (1) - mulluthige Tibetan (2) - srin sman ma ru, srin sman me ru (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa3979856ff3735b54f5fe99dd16670
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kantaki karanja
+sanskrit_name: कण्टकीकरञ्ज
+transliteration: kaṇṭakīkarañja
+ref_drug_name: कण्टकीकरञ्ज
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Kantaki karanja
+sanskrit_name: कण्टकीकरञ्ज
+transliteration: kaṇṭakīkarañja
+ref_drug_name: करञ्ज लता
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Karanja - lata
+sanskrit_name: करञ्ज लता
+transliteration: karañja latā
+ref_drug_name: कण्टकीकरञ्ज
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 4
+drug_name: Karanja - lata
+sanskrit_name: करञ्ज लता
+transliteration: karañja latā
+ref_drug_name: करञ्ज लता
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

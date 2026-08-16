@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 71329c128bf01642af8aa17ca25adaa3
+Botanical Name: Dendrobium macraei AUCT. NON LINDL.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 1 languages. Hindi (4) - jaivanti, javanti, jiba, sag
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71329c128bf01642af8aa17ca25adaa3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/71329c128bf01642af8aa17ca25adaa3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Hema
+sanskrit_name: हेम
+transliteration: hema
+ref_drug_name: हेम
+status: Most probable
+discussion: Is mentioned in Raja nighantu; With regard to its synonyms it can most probably be correlated to this species which is widely known as 'Svarnajivanti'
+reference: [5]
+
+Identity Record 2
+drug_name: Jivanti - bheda
+sanskrit_name: जीवन्ती भेद
+transliteration: jīvantī bheda
+ref_drug_name: जीवन्ती भेद
+status: Accepted source
+discussion: Astanga sangraha mentions 2 types of Jivanti which is even mentioned in the nighantus; In Raja nighantu it is mentioned by the name 'Hema'; It is correlated to this species as its widely known as 'Jivanti' or 'Svarnajivanti' especially in Bengal
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

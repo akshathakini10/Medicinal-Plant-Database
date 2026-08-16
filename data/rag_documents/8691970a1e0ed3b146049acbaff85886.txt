@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8691970a1e0ed3b146049acbaff85886
+Botanical Name: Aristolochia serpentaria L.
+Family: Aristolochiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. English (5) - birthwort, pelican flower, sangrel, snakeweed, virginia snakeroot
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8691970a1e0ed3b146049acbaff85886
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8691970a1e0ed3b146049acbaff85886
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8691970a1e0ed3b146049acbaff85886
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

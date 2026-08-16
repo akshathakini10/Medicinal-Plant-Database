@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a1af0aaa3bf4fcba7dcf14fd18c38952
+Botanical Name: Clerodendrum phlomides L.F.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Clerodendrum multiflorum (BURM.F.)KUNTZE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 124 Vernacular names found in 9 languages. Hindi (8) - anni, arni, dhak, dhakkari, kari, urni, urui, yerna Kannada (14) - ebane, hoosuduggi, hoosuthaagi, hosa lakki, hosalakki, ittaevu, madras mallige, naravala, naruvala, taggi, taggi gida, taggiballi, thaggi gida, thakkile gida Malayalam (1) - tirutali Marathi (5) - airanamula, arani, arm, iran, tilaki Sanskrit (27) - Sanskrit Comments  agnimanth, agnimantha, agnimanthah, agnimanthini, arani, bhandi, gandhapatra, gandhapushpa, ganikarika, jatha, jaya, jayarini, krishanuga, kshudragnimantha, laghumantha, munja, nadeyi, parnaka, tanutvacha, tapana, tarkari, tejovriksha, vaijantika, vaijayanti, vataghin, vataghni, vijaya Tamil (57) - caivacuya, camanti, carakkari, carapinti, carkkari, caya2, cayanti3, cayaritam, kantavakanatakki, kantavanatakki, kataikkarumpati, kulavallima, muruvili, nantakkari, nittiyateva, perimatapputu, perunkatucci, perunkatucittalai, petittiriyan, potittirittalai, takatarukam, takkalana, takkari, takkari2, takkarikai2, takkarikaicceti, taloodalei, taluddai, talutalai, talutalai#, talutalai@, talutali, tantakakkari, tantakari, tantakkal, tantakkari, tatutalai, teyimayam, thalanji, thashu thashai, thazhuthaazai, thazhuthaazhai, thazhuthazhai, tirukutalai2, tirutali, tiruttali, vaicayanti 2, vaicayantikkoti, vaicayati, vaiyacanti, vatamantikam, vatamatakki, vattippitippan, vittatainatukki, yalaiyankini, yallotukkam, yatippunaincan Telugu (10) - kond-takai, nelli, takkolamu, talaki, taluki, tekali, tekkali, telaki, tilaka, tukadi Tibetan (1) - a gni ma ntha Urdu (1) - arni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1af0aaa3bf4fcba7dcf14fd18c38952
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 584
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/584.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1af0aaa3bf4fcba7dcf14fd18c38952/xclkon/27eca12ff7887bcc35617bc127e20b95
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1af0aaa3bf4fcba7dcf14fd18c38952
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1af0aaa3bf4fcba7dcf14fd18c38952/xclkon/27eca12ff7887bcc35617bc127e20b95
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1af0aaa3bf4fcba7dcf14fd18c38952
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1af0aaa3bf4fcba7dcf14fd18c38952/xclkon/27eca12ff7887bcc35617bc127e20b95
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1af0aaa3bf4fcba7dcf14fd18c38952
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1af0aaa3bf4fcba7dcf14fd18c38952/xclkon/27eca12ff7887bcc35617bc127e20b95
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1af0aaa3bf4fcba7dcf14fd18c38952
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

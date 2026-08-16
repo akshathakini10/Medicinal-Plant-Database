@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d400836b80fe3d7136251c0c365716e6
+Botanical Name: Mitragyna rotundifolia KUNTZE.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  bhumikadamba
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d400836b80fe3d7136251c0c365716e6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d400836b80fe3d7136251c0c365716e6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhulikadamba - jati
+sanskrit_name: धूलिकदम्ब जाति
+transliteration: dhūlikadamba jāti
+ref_drug_name: धूलिकदम्ब जाति
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Kadamba - jati
+sanskrit_name: कदम्ब जाति
+transliteration: kadamba jāti
+ref_drug_name: कदम्ब जाति
+status: Accepted source
+discussion: This species most probably is the Bhumi kadamba (type of kadamba) mentioned in the nighantus
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9270d59e3f6343c236c7adf143dd0318
+Botanical Name: Carmona retusa (VAHL) MASAMUNE
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Carmona microphylla (LAM.) G. DON Ehretia buxifolia ROB. Ehretia microphylla LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 62 Vernacular names found in 6 languages. English (1) - fukien tea Hindi (1) - pala Kannada (13) - boote, bute, doddakalla, doddakavale, eleadike soppu, enne budige, ennebutige, karuvingi, kuruvingi, mete, yenne bootige, yenne budiga, yennebudige Marathi (1) - pala Tamil (16) - cooruvingie vayr, kattu vetrilai, kattu-vellilai, kattuvellilai, kattuverrilai, kattuvettilai, kodikarai, kuruviccai 2, kuruvicci 2, kuruvicci-p-puntu, kuruvichchi, kuruvincai, kuruvinci 2, kuruvincippuntu, kuruvingi, malaiverrilai Telugu (30) - baapanaburi, bapana buri, bapanabooree, bapanaboory, bapanaburi, bapanapuri, barranki, bhapanapuri, bupanaburi, buri, chepaku, gulpole, guvva aaku, munamuntha, nakkatoka, nomu chettu, numae munta, peccika, piccaka, piccikabira, piccikaburi, pichaka, pichakaburi, pichikabera, pisniki, pitta, pitta pisinika, pittapisinika, pittapisunakaayi, pittapisunukayi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9270d59e3f6343c236c7adf143dd0318/xclkon/e0cc40d37aa465730dfd6994a450e0c5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9270d59e3f6343c236c7adf143dd0318/xclkon/7a6aabb0eb2d924b41ec28222cf00595
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9270d59e3f6343c236c7adf143dd0318
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9270d59e3f6343c236c7adf143dd0318/xclkon/87b8845f8d405a13e76cca70aa844e3c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9270d59e3f6343c236c7adf143dd0318/xclkon/e0cc40d37aa465730dfd6994a450e0c5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9270d59e3f6343c236c7adf143dd0318/xclkon/7a6aabb0eb2d924b41ec28222cf00595
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9270d59e3f6343c236c7adf143dd0318
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9270d59e3f6343c236c7adf143dd0318/xclkon/87b8845f8d405a13e76cca70aa844e3c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9270d59e3f6343c236c7adf143dd0318/xclkon/e0cc40d37aa465730dfd6994a450e0c5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

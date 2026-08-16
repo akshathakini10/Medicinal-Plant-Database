@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c5412c74ff980071fceb61d31b50b4f3
+Botanical Name: Ampelocissus indica (L.) PLANCH.
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ampelocissus arnottiana PLANCH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. Kannada (7) - kemballi, naarande, narale, narande, narude, saavira sambara, sambara balli Malayalam (1) - schembra-valli Marathi (4) - kolejan, nardel, ran draaksha, ran-dakho Telugu (1) - sambaaravalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5412c74ff980071fceb61d31b50b4f3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5412c74ff980071fceb61d31b50b4f3/xclkon/cd4f939d73e2a3eeb83bb3f79ee99c5d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5412c74ff980071fceb61d31b50b4f3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

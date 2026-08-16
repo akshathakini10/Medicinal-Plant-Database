@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 06f10c1fd0fda565fd8888e0e798ab39
+Botanical Name: Trichodesma zeylanicum R.BR.
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 7 languages. English (1) - camel bush Hindi (3) - dhadhona, hetemuria, jalasirasa Kannada (2) - ethina naalige gida, gaaya maari Marathi (1) - jalashirasi Sanskrit (6) - Sanskrit Comments  ambusirishika, dhindhinika, durbala, jhingi, jhingini, sirishika Tamil (1) - kalutaikkali Telugu (1) - pedda gurragutti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/06f10c1fd0fda565fd8888e0e798ab39
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2117
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2117.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/06f10c1fd0fda565fd8888e0e798ab39
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/06f10c1fd0fda565fd8888e0e798ab39
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/06f10c1fd0fda565fd8888e0e798ab39
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

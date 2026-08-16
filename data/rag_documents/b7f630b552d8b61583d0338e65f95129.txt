@@ -1,0 +1,100 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b7f630b552d8b61583d0338e65f95129
+Botanical Name: Cleome viscosa L.
+Family: Cleomaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cleome icosandra L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 160 Vernacular names found in 9 languages. English (1) - dog mustard Hindi (9) - bagra, bagro, hulhul, hurhur, jakhya, jangli hurhr, janglihulvul, jurhureh, pili-hulhul Kannada (11) - antu saasive gida, gandunaa balli, haladi gida, haladimaamballi, kaadu saasive, kaadu sasuve, kaadusassive, naayi bele gida, naayi saasive, naayisassive, nayibela Malayalam (8) - aria-veela, ariavila, aryaval, aryavela, atunarivela, katkudagu, naivela, vela Marathi (8) - harhuria, harhuriya, kanfuti, kanphodi, kanphuta, peevali thilvana, sthala, tiloni Sanskrit (36) - Sanskrit Comments  adityabhakta, arikahita, arkabhakta, arkakanta, barbara, bhaskareshta, brahmasuvarchala, hulahula, karnasphota, karnaspota, kookavumitie, kukavaiminta, kukavaivinta, kukavumitie, mandukaparni, manduki, martandavallabha, pasugandha, raviprita, ravishta, satyanamni, sauri, shunaca-barbara, shunakabarbara, surasambhava, suryalata, suteja, suvarchala, svana-burbara, svanabarbara, svanaburbara, tilaparni, tilparni, varada, vikranta, vinta Tamil (75) - arkkakantam, atakam 1, atikantam, avattam@, culapinka, cullivekacceti, iyalputi1, kaattu kadugu, kampocam1, kantanam, kantaputiyam, kattavankam, kattu-k-katuku, kattu-kadugu, kattukkadugu, kattukkatuku1, kentakam1, kentaputi, kentaputiyam, kentumuricceti, kentumuriyam, kevviyacceti, kevviyam, kolincini, kolincinicceti, kolunci, koluncippuntu, korukkacci1, korukkaccicceti, maruti, mayurakam 1, mutiyam, naai vealai elai, nahikuddaghu, nai-kadupu, naikkaduku, naivelai, nakkatuku, nalikam2, nalla-velai, nallavetaikkani, nalvelai, nattaccarimuli, nay-k-katuku, nay-velai, nayavaylei, nayi-velai, nayikkadugu, nayivelai, naykkatipokki, naykkatuku, naykkatuku2, nayvelai, nayvempu, nik-kadugu, parikopattam, peru-velai, peruvelai, pinicampokki, pinicampokkicceti, pirappar, pirappari, puti, putitacceti, putitam, putpacam, puttiru 1, sinnakurinji, taivayali, taivayalicceti, titcanam3, valalakaram, vealai, vetaikkanipputu, virutuntankam Telugu (10) - kukha-avalu, kukhavavulu, kukhavominta, kukka-avalu, kukka-vaminta, kukkavaaminta, kukkavaminta, kukkavavulu, naelavaminta, vaaminta Urdu (2) - hulhul, panwar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129/xclkon/0d99241470fd229b598990768bce8656
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 579
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/579.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129/xclkon/0a2b8990ad66ca0f388fcf50b8733e73
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129/xclkon/0d99241470fd229b598990768bce8656
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129/xclkon/0a2b8990ad66ca0f388fcf50b8733e73
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129/xclkon/0d99241470fd229b598990768bce8656
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129/xclkon/0a2b8990ad66ca0f388fcf50b8733e73
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129/xclkon/0d99241470fd229b598990768bce8656
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129/xclkon/0a2b8990ad66ca0f388fcf50b8733e73
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7f630b552d8b61583d0338e65f95129/xclkon/0d99241470fd229b598990768bce8656
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ajagandha - pita
+sanskrit_name: अजगन्धा पीत
+transliteration: ajagandhā pīta
+ref_drug_name: अजगन्धा पीत
+status: Accepted source
+discussion: Ajagandha is identified with this species
+reference: [2]
+
+Identity Record 2
+drug_name: Tilaparni
+sanskrit_name: तिलपर्णी
+transliteration: tilaparṇī
+ref_drug_name: तिलपर्णी पीत
+status: Suggested source
+discussion: According to the author he has suggested this species as Tilaparni
+reference: [5]
+
+Identity Record 3
+drug_name: Tilaparni - pita
+sanskrit_name: तिलपर्णी पीत
+transliteration: tilaparṇī pīta
+ref_drug_name: तिलपर्णी पीत
+status: Suggested source
+discussion: According to the author he has suggested this species as Tilaparni
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tilaparni
+sanskrit_name: तिलपर्णी
+transliteration: tilaparṇī
+image_urls: https://www.medicinalplants.in/slokaimages/437/437_1.jpg
+ocr_text: अजगन्धा कटूष्णा स्याद्वातगुल्मोदरापहा कर्णव्रणार्तिशूलघ्नी च ज्वरापहा| | IRjnl Ajagandha is Katu, Usnam, Vata gulma udara haram, Karna vrana arti sulaghnam, Krmighnam, Jvara haram. कृमिघ्नी
+
+Shloka Record 2
+drug_name: Tilaparni - pita
+sanskrit_name: तिलपर्णी पीत
+transliteration: tilaparṇī pīta
+image_urls: https://www.medicinalplants.in/slokaimages/437/437_1.jpg
+ocr_text: अजगन्धा कटूष्णा स्याद्वातगुल्मोदरापहा कर्णव्रणार्तिशूलघ्नी च ज्वरापहा| | IRjnl Ajagandha is Katu, Usnam, Vata gulma udara haram, Karna vrana arti sulaghnam, Krmighnam, Jvara haram. कृमिघ्नी

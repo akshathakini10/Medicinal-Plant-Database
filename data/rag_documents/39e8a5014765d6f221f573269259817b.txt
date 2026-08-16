@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 39e8a5014765d6f221f573269259817b
+Botanical Name: Reissantia indica (WILLD.) HALLE
+Family: Hippocrateaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hippocratea indica WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. Kannada (1) - kangunabally Marathi (2) - kazurati, tirruli Tamil (3) - odangod, otankoti 2, ottankoti Telugu (2) - verriyaapa, verriyapa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39e8a5014765d6f221f573269259817b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39e8a5014765d6f221f573269259817b/xclkon/03457fbda7b1379408e6f4a6316978dc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39e8a5014765d6f221f573269259817b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39e8a5014765d6f221f573269259817b/xclkon/03457fbda7b1379408e6f4a6316978dc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/39e8a5014765d6f221f573269259817b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

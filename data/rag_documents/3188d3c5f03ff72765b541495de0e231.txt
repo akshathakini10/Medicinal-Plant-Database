@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3188d3c5f03ff72765b541495de0e231
+Botanical Name: Smilax aspera L.
+Family: Smilacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 6 languages. Hindi (7) - hindi salsa, kalisar, kukarjari, kukurdara, kumardar, magrabu, salsa Kannada (3) - namadaberu, parangi chakke, sughanda-palada-gida Malayalam (3) - kizhanna, nannari, naru-ninti Sanskrit (1) - Sanskrit Comments  chopachini Tamil (3) - kizhanna, nannari, naru-ninti Telugu (2) - pala sugandhi, sugandhipala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3188d3c5f03ff72765b541495de0e231
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1929
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1929.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3188d3c5f03ff72765b541495de0e231
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3188d3c5f03ff72765b541495de0e231
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Svadamstra
+sanskrit_name: स्वदंष्ट्रा
+transliteration: svadaṃṣṭrā
+ref_drug_name: स्वदंष्ट्रा
+status: Most probable
+discussion: Smilax aspera is popularly known as Kukuradadha which is a name equaivalent to Svadamstra and so most probably identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

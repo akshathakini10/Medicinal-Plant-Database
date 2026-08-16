@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 488c72ab6d19a23bf38bbb8f01ee3d7c
+Botanical Name: Cassia pumila LAMK.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Senna prostrata ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. Kannada (3) - nela thagasi, nelatagace, nelatagache Marathi (1) - sarmal Tamil (1) - nallajiluga Telugu (3) - nallajeelooga, nallajiiuga, nallajilluga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/488c72ab6d19a23bf38bbb8f01ee3d7c/xclkon/209e93b39c24669c3e01fff59bc4477a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/488c72ab6d19a23bf38bbb8f01ee3d7c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/488c72ab6d19a23bf38bbb8f01ee3d7c/xclkon/209e93b39c24669c3e01fff59bc4477a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

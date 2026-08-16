@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e37d778ee46d11fffe9673f7439a72a0
+Botanical Name: Rhododendron campanulatum DON.
+Family: Ericaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 1 languages. Hindi (11) - atarasu, cherailu, kashimiri patha, kashmiri patha, kashmiri patta, samgar, sarangar, sarngar, semru, semuru, sirmang
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e37d778ee46d11fffe9673f7439a72a0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e37d778ee46d11fffe9673f7439a72a0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Talisa
+sanskrit_name: तालीश
+transliteration: tālīśa
+ref_drug_name: तालीश
+status: Most probable
+discussion: This species is being accepted in Garwhal and Punjab with regard to its popular names Talisaphara and Talisa respectively
+reference: [1]
+
+Identity Record 2
+drug_name: Talisa - prajati
+sanskrit_name: तालीश प्रजाति
+transliteration: tālīśa prajāti
+ref_drug_name: तालीश
+status: Most probable
+discussion: This species is being accepted in Garwhal and Punjab with regard to its popular names Talisaphara and Talisa respectively
+reference: [1]
+
+Identity Record 3
+drug_name: Talisapatra
+sanskrit_name: तालीशपत्र
+transliteration: tālīśapatra
+ref_drug_name: तालीश
+status: Most probable
+discussion: This species is being accepted in Garwhal and Punjab with regard to its popular names Talisaphara and Talisa respectively
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Talisapatra
+sanskrit_name: तालीशपत्र
+transliteration: tālīśapatra
+image_urls: https://www.medicinalplants.in/slokaimages/6/6_1.jpg https://www.medicinalplants.in/slokaimages/6/6_2.jpg https://www.medicinalplants.in/slokaimages/6/6_3.jpg
+ocr_text: तालीसं श्वासकासघ्नं दीपनं श्लेष्मपित्तजित् | मुखरोगहरं हद्यं पत्रसंवृतम्| | (Dhnl Talisapatra alleviates slesma and pitta, is dipana, hraya, supatra, patra samvrta, cures svasa, kasa and mukha roga सुपत्रं तालीसपत्रं तिक्तोष्णं मधुरं कफवातहृत् कासहिक्काक्षयश्वासछर्द्दिदोषविनाशकम् IRjn| Talisa patra is tikta, madhura in rasa, usna in veerya, alleviates kapha ana vata, cures kasa, hikka, ksaya, svasa and chardi. तालीसं लघु तिक्तोष्णं श्वासकासकफानिलान् निहन्त्यरुचिगुल्मामवमिमान्द्यक्षयामयान् T IBpn) Talisa is tikta in rasa, laghu in guna, usna in veerya, alleviates kapha ana anila, cures svasa, kasa, aruci gulma, ama, vami, agnimandya, ksaya and amava.

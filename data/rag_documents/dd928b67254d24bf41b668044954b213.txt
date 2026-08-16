@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dd928b67254d24bf41b668044954b213
+Botanical Name: Dalbergia lanceolaria L.F.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Dalbergia arborea HEYNE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 131 Vernacular names found in 8 languages. Hindi (3) - bithua, bitwa, takoli Kannada (26) - belaga, belga, bettada hasirugoni, bettahasarugoni, bettasoni, bileebeete, bili beete, gonimara, hasarganni, hasaru ganni, hasarugoni, hasirugaani, hasiruganni, hasirugoni, hasirusoni, hassarganni, hassurganni, kaanaga, kaanagina mara, kanaaga, kanaga, kanagina, kanagina mara, manjabiti, manjalabite, manjula beete Malayalam (9) - eeti, manjabiti, manjaviti, mannavitti, pulari, punnu, veeti, vellaveetti, velleeti Marathi (8) - dandoshi, dandosi, dandous, dandus, dandusa, kanrahi, kanrehi, kaurchi Sanskrit (4) - Sanskrit Comments  goraksa, kapotavanka, karanja, naktamala Tamil (42) - cuvatakatti, cuvtakattimaram, erigai, erigei, erikai, irulvitu, itti, iyavuncam, kalvellangu, kalvellanku#, kalvellanku@, karuntolviral, karuntuvarai1, karuppumaram, kattuppaccilai, kattuppachalai, kilalayam, kilalayamaram, kiruttinavakatti, kiruttinavakattimaram, maruvakatti, mokavirutcam, mukkotalamaram, mukkotanam, nakuttam, nalvalngee, nalvellancu, nalvellange, nalvellangu, nalvellanku, nalvilancu, nanantam, nattunukku, nukkam, nukkamaram2, nukku1, patchalai, poonga-marum, punku 1, tuvaraiccepitam, vellancu, vellitti 1 Telugu (38) - erra-pachchari, errapaccari, errapachchari, errapachhaari, errapattsari, ettapachari, illari, kondapaccari, kondapachaari, kondapachari, nagalla-patchari, nagallapatchari, nagannapatsari, nagulapachari, nagulipachari, paccari, pachari, pasaraganni, pasarganni, pasaruganaru, patsari, peddapaccari, peddapachari, peddasapara, peddasopara, peddasophora, potupaccari, potupachaari, tellairidi, tellavirugudu, thellayarugundu, vellaari, vellari, yellari, yerra pastaru, yerra patsari, yerrapaccari, yerrapatsaru Tibetan (1) - lcam pa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd928b67254d24bf41b668044954b213
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd928b67254d24bf41b668044954b213/xclkon/5fcb492f603fb20cb8d5f5a22a6829da
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd928b67254d24bf41b668044954b213
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd928b67254d24bf41b668044954b213/xclkon/5fcb492f603fb20cb8d5f5a22a6829da
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd928b67254d24bf41b668044954b213
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd928b67254d24bf41b668044954b213/xclkon/5fcb492f603fb20cb8d5f5a22a6829da
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd928b67254d24bf41b668044954b213
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd928b67254d24bf41b668044954b213/xclkon/5fcb492f603fb20cb8d5f5a22a6829da
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dd928b67254d24bf41b668044954b213
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Goraksa
+sanskrit_name: गोरक्ष
+transliteration: gorakṣa
+ref_drug_name: गोरक्ष
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Kapotavanka
+sanskrit_name: कपोतवङ्का
+transliteration: kapotavaṅkā
+ref_drug_name: कपोतवङ्का
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Kapotavanka
+sanskrit_name: कपोतवङ्का
+transliteration: kapotavaṅkā
+ref_drug_name: कपोतवङ्का
+status: Suggested source
+discussion: Needs to be examined to be used as the source plant or substitute
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Goraksa
+sanskrit_name: गोरक्ष
+transliteration: gorakṣa
+image_urls: https://www.medicinalplants.in/slokaimages/40/40_1.jpg
+ocr_text: गोरक्षी मधुरा तिक्ता शिशिरा दाहपित्तनुत् 0 विस्फोटवांत्यतीसारज्चरदोषविनाशिनी IRjn Goraksi is madhura, tikta in rasa, sisira in veerya, alleviates daha, pitta visphota, vanti, atisara and jvara.

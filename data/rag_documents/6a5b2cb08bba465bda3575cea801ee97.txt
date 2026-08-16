@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6a5b2cb08bba465bda3575cea801ee97
+Botanical Name: Melilotus indica (L.) ALL.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Melilotus parviflora BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 4 languages. Hindi (9) - ban methi, ban-methi, banmethi, gorhadal, marvo, metho, morila, neem, senji Kannada (3) - kaadu loosarne soppu, kaadu loosnar soppu, kaadu wosarna soppu Malayalam (1) - suendadi-pallu Sanskrit (3) - Sanskrit Comments  banamethika, vana-methika, vanamethika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97/xclkon/01508d9629fa3cd9bbdfdc38d3bdd46a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97/xclkon/ba5f1baa83853ae173323fccd920551c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97/xclkon/01508d9629fa3cd9bbdfdc38d3bdd46a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97/xclkon/ba5f1baa83853ae173323fccd920551c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6a5b2cb08bba465bda3575cea801ee97/xclkon/01508d9629fa3cd9bbdfdc38d3bdd46a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asvabala
+sanskrit_name: अश्वबला
+transliteration: aśvabalā
+ref_drug_name: अश्वबला
+status: Controversial
+discussion: Is not identified satisfactorily. This is one of the suggested species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,104 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 84f35349cc3375441fa3f0ee125fee16
+Botanical Name: Sesbania sesban (L.) MERR.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sesbania aegyptiaca POIR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 129 Vernacular names found in 9 languages. English (3) - common sesban, egyptian rattle pod, sesban Hindi (12) - dhandiain, ekad, jainti, jait, janjhan, jayanti, jet, jetrasin, jhijam, jhijan, rasin, rawasan Kannada (12) - arasina jeeragi, arasinagurgi, arasinajinangi, arisina jeenangi, arisinajinangi, jayanthi, jayanti, jeenangi, jinangi, karee jeenangi, karijeenangi-mara, karijinangi Malayalam (7) - cempa, chempa, kedangu, kitannu, mellitali, nellittali, shempa Marathi (9) - jaanjana, janjan, jayat, jayath, joth, karumsembai, sevari, shevari, shewari Sanskrit (13) - Sanskrit Comments  balamota, jaintjaintar, jaya, jayanti, jayantika, jayaya, jyantika, nadeyi, raja, rajam, suksmamula, suksmapatra, vaijayanti Tamil (60) - acanapanni 1, arakkukatti, arakkuvakatti, asnapanni, cakutai, calayapattini, caralakotaramaram, caranakotaram, catari, cayanti1, celuttakan, cempai, cempai1, cempaimaram, ceyantiyacam, champai, chembai, chempai, chittakatti, cintuci, cintukimaram, ciriyamaratti, ciriyamatti, cirrakatti, citalam2, citalankay, cittakatti, cittatatti, cittuvam, civappuccirrakatti, cumatakam, cutcumamulam, iyakatam1, iyakatutumaram, kanakam#, karumsembai, karuncempai, karuncirrakatti, karuncittakattimaram, karunjembai, karunjembi, kataikkilincamuli, kayanteriyan, marutantamuli, nellittali, palakonta, paracita, payacumiruta, piccakatti, piccakkatti, piccankatti, sagudai, sembai, sithagathi, sittagatti, turavi1, turuparitamaram, umaritamaram, uparacitam, vintacam Telugu (12) - dzalugu, jalugu, lingachima, lingacimma, lingashimma, mallasominta, nallasominta, nullasomuttie, somanti, sominta, somintha, suiminta Urdu (1) - jait
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16/xclkon/005aca73570729ee18c797566b1e8af8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16/xclkon/722d9473b6693dfb928f929226ded2f0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16/xclkon/005aca73570729ee18c797566b1e8af8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16/xclkon/722d9473b6693dfb928f929226ded2f0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16/xclkon/005aca73570729ee18c797566b1e8af8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16/xclkon/722d9473b6693dfb928f929226ded2f0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16/xclkon/005aca73570729ee18c797566b1e8af8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16/xclkon/722d9473b6693dfb928f929226ded2f0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f35349cc3375441fa3f0ee125fee16/xclkon/005aca73570729ee18c797566b1e8af8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jayanti
+sanskrit_name: जयन्ती
+transliteration: jayantī
+ref_drug_name: जयन्ती
+status: Most probable
+discussion: Considered by many as the following species
+reference: [1]
+
+Identity Record 2
+drug_name: Jayanti
+sanskrit_name: जयन्ती
+transliteration: jayantī
+ref_drug_name: जयन्ती
+status: Most probable
+discussion: Jayanti is correlated to this species
+reference: [3]
+
+Identity Record 3
+drug_name: Jayanti - jati
+sanskrit_name: जयन्ती जाति
+transliteration: jayantī jāti
+ref_drug_name: जयन्ती जाति
+status: Accepted source
+discussion: It is the yellow variety of Jayanti
+reference: [3]
+
+Identity Record 4
+drug_name: Jayanti - jati
+sanskrit_name: जयन्ती जाति
+transliteration: jayantī jāti
+ref_drug_name: जयन्ती जाति
+status: Accepted source
+discussion: This variety has purple coloured blots over the surface
+reference: [3]
+
+Identity Record 5
+drug_name: Jayanti - jati
+sanskrit_name: जयन्ती जाति
+transliteration: jayantī jāti
+ref_drug_name: जयन्ती जाति
+status: Accepted source
+discussion: This variety is either dark brown or purple in colour
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

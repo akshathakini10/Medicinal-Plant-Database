@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 91716a3a3f8ff2ffef37c619f36fe7d1
+Botanical Name: Matricaria aurea (LOEFL.)SCH. BIP.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cotula aurea LOEFL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91716a3a3f8ff2ffef37c619f36fe7d1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91716a3a3f8ff2ffef37c619f36fe7d1/xclkon/1f87f668edd088b0e4e6b49f3410d067
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91716a3a3f8ff2ffef37c619f36fe7d1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

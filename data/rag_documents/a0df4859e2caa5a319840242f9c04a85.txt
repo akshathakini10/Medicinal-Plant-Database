@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a0df4859e2caa5a319840242f9c04a85
+Botanical Name: Mimosa hamata WILLD.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 5 languages. Hindi (4) - bander-ki-rakhi, jinjanio, liptti, shiah-kanta Kannada (2) - sagari mullu, sagariganta Sanskrit (1) - Sanskrit Comments  vacchula Tamil (1) - intiri Telugu (3) - undra, vundra, wundra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0df4859e2caa5a319840242f9c04a85
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0df4859e2caa5a319840242f9c04a85
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0df4859e2caa5a319840242f9c04a85
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

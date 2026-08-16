@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dc3cec560f8e0b621a87c3ccd6bd42c1
+Botanical Name: Spondias pinnata (L.F.) KURZ.
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Spondias acuminata ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 206 Vernacular names found in 8 languages. Hindi (9) - amara, ambara, ambodha, ambra, amra, amre-ka-per, jangli am, jangli-am, jungli-am Kannada (35) - amate, amate kaayi, amate mara, amatekayi vrksamla, amatemara, amati, ambadi, ambata, ambate, ambatemarra, ambatta, ambe, ammate, amte, amte kaayi, amti, avate kaayi, avatekayi, goddamate, gwoddan, kaadamate, kaadamte, kaadu amate, kadambate, kadambati, kadambatte, kodamate, marahunase, marahunise, murthiga, pullile, pundi, umhati, umme, vrykshamla Malayalam (17) - ambalam, ambayam, ambazha, ambazham, ambolam, ampalam, ampazham, anpazham, katampa, kattampalam, kattampazham, mampuli, pitanam, pulimavu, puliyilai, pullile, ummalti Marathi (7) - aamuvachaar, amb, ambaada, ambada, ambado, ran-amba, ran-ambado Sanskrit (27) - Sanskrit Comments  advagabhogya, ambaka, ambarataka, ambarisha, ambastha, amlavataka, amrata, amratah, amrataka, amratakah, bhringiphalla, kapichuda, kapichuta, kapicutah, kapipriya, kapitana, kapitanah, madhuramlaka, markatamra, markatamrah, pitana, pitanaka, pittavasksha, rasadhya, tanukshiri, tungi, varshapaki Tamil (70) - amalavatakam, ambalam, ambiram, amiravatikam, ampalam, ampalam#, ampalam@, amputtai, appirakam, atiyamilam, attuvakapokkiyam, ayaccempuyartti, ayakkira1, ayakkiramam, cacakaram, cekappumarimankay, cemmantan, cincam2, cutam2@, egin, eginam, ekinam3, ibangam, kanalma, kanalmamaram, kanamari, kanma, katambalam, kattimagirankai, kattuma, kattuma1, kattumagirangai, kattumavu, kincam2, kincitam2, kincittu2, kintikam2, kirantikam2, kolamma, kunkili, malai, mambulichi, mampuli, mampuliccai, mampulicci, mampulichi, mari, mari mankay, mari-manchedi, mariccan, marima, marima#, marima@, marimamaram, marimanceti, marimanga, marimankay, mariyankay, mariyankaycceti, marumankay, marututai, miriyankay, nalini, naraitiraimarappanni1, palamalaccam, pirakastaki, pirakastakimaram, pulima, pulimankay 1, ukin Telugu (32) - aamrathakamu, adavi mamidi, adaviemamadie, adavimaamena, adavimaamidi, adavimamadi, adavimamena, adavimamidi, amatamu, amatum, ambaala chettu, ambaalamu, ambada, ambala, ambala-chettu, ambalamu, ambara, ampilepi chettu, amratakamu, aravimamadi, avata maamidi, ivura-mamidi, ivurumaamidi, ivurumamidi, kondamaamidi, kondamamidi, peetha vrikshamu, pita, pitavrukshamu, sitavrikshamu, sitavrukshamu, sitavrykshamu Tibetan (9) - a mara and sin pa ko (d), a mra and sin bra ka, a mra and sin bra ko (p), a mra ta ka, a smra ta ka, bska, bsko, na di, no di (p & d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1976
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1976.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1/xclkon/2417acc8e57c776f706d70a26cd24ad7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1/xclkon/103d633e5a0f69d7c965aa1d60f329e9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1/xclkon/2417acc8e57c776f706d70a26cd24ad7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1/xclkon/103d633e5a0f69d7c965aa1d60f329e9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1/xclkon/2417acc8e57c776f706d70a26cd24ad7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1/xclkon/103d633e5a0f69d7c965aa1d60f329e9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1/xclkon/2417acc8e57c776f706d70a26cd24ad7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1/xclkon/103d633e5a0f69d7c965aa1d60f329e9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1/xclkon/2417acc8e57c776f706d70a26cd24ad7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1/xclkon/103d633e5a0f69d7c965aa1d60f329e9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc3cec560f8e0b621a87c3ccd6bd42c1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Amrata
+sanskrit_name: आम्रात
+transliteration: āmrāta
+ref_drug_name: आम्रात
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Amrataka
+sanskrit_name: आम्रातक
+transliteration: āmrātaka
+ref_drug_name: आम्रातक
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

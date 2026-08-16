@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fdd467d91b950e0549c92e01d9f636c7
+Botanical Name: Pinus wallichiana JACKS.
+Family: Pinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pinus excelsa WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. English (2) - bhutan pine, blue pine Hindi (4) - chilla, dhurasala, kail, lim
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fdd467d91b950e0549c92e01d9f636c7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fdd467d91b950e0549c92e01d9f636c7/xclkon/8bf0e7c26a6abb12a9f336c7233b7320
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fdd467d91b950e0549c92e01d9f636c7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

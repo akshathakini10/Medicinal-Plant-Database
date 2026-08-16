@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f58fad5075f14dec125fa4713a45ad04
+Botanical Name: Chloroxylon swietenia DC.
+Family: Flindersiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 100 Vernacular names found in 8 languages. English (1) - ceylon satinwood Hindi (5) - bhera, bhirra, bhivia, dhoura, girya Kannada (30) - barabhaaya, barabharrya, bitil, bitilu, bitlae, bittulla, bitulla, huragala, huragalu, huragalu mara, hurgalu, hurihuli, hurugalu, hurugalu mara, maa shuudla, maagoodla mara, maasi, maasu, maruli, mashudla, masi, masivaala, masivaladha, masoola mara, masula, masuraala, masurala, urugalu, urugulu, vase Malayalam (1) - varimaram Marathi (3) - bheria, halda, hulda Sanskrit (2) - Sanskrit Comments  bhillotaka, bimbilota Tamil (43) - elam3, emal, kalmutirai, kanmuricu1, kanmutirai, karumboraju, karumpuracu, katavappuracu, katavupuracu, kotavappuracu, kudavuboraju, kutavappuracu, kutavupuracu, mudirai, mutirai, mututamaram, poraju, porasu, punamurunkai, puracu 1, purusan, purush, purutan, vaimarai, vaimaram, vaimari, vaimpuracamaram, vaimpuracu, vainari, vammarai, vammaram 2, van, vanama, vanmarai 2, vanmaram, varimarai, varimaram, velataram 2, velataramaram 2, vemmorai, vicaram 1, visaram, vummaay Telugu (15) - bella, bilgu, billa, billapa, billo, billoo, billu, billu chettu, billuda, billudi, billudu, billydu, bilva karra, bitlu, moodooda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f58fad5075f14dec125fa4713a45ad04
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 519
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/519.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f58fad5075f14dec125fa4713a45ad04
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f58fad5075f14dec125fa4713a45ad04
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f58fad5075f14dec125fa4713a45ad04
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhillotaka
+sanskrit_name: भिल्लोटक
+transliteration: bhilloṭaka
+ref_drug_name: भिल्लोटक
+status: Suggested source
+discussion: Bhillotaka has been mentioned only in Susruta samhita; Susruta has mentioned this as a drug which was used in day to day activities hence it was a well known drug during those days; Dalhana mentions it as a tree that grows in the Himalaya region and its fruits resembling 'Kakubha'; With regard to this a plant widely known as 'Bhirra' correlated to this species is suggested
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

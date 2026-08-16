@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3f8992e1481266f62812cf96504b3283
+Botanical Name: Myxopyrum serratulum A.W. HILL.
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 5 languages. Hindi (1) - pilacameli Malayalam (2) - caturamulla, caturavalli Sanskrit (2) - Sanskrit Comments  caturdharalata, hemamalati Tamil (1) - caturamullai Telugu (1) - caturdharalata
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f8992e1481266f62812cf96504b3283
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1495
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1495.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f8992e1481266f62812cf96504b3283
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f8992e1481266f62812cf96504b3283
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

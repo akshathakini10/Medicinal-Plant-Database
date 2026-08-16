@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8e337518dc894d8004c5f6f98471627f
+Botanical Name: Pisum sativum L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Pisum arvense L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 85 Vernacular names found in 9 languages. English (8) - dun pea, garden pea, grey pea, mange-tout, maple pea, mutter pea, partridge pea, peluskins Hindi (14) - bahtahna, baramattar, battanichola, bhattani, buttani, desi mattar, golmattar, kalaon, kerav, kerava, matar, mathar, mattar, wattahna Kannada (7) - bataani, bataani kadale, batagadle, batgadale, batgadle, sateena, vatano Malayalam (4) - malankatala, pathanikatala, pattani, pattanippayar Marathi (6) - bataan, chane, vatana, vatane, vatonem, watana Sanskrit (20) - Sanskrit Comments  ativartula, harenso, harenu, kalaya, kalayah, kalayaka, kanti, khindaka, mundachandaka, nilaka, renuka, saheela, satila, satilaka, satina, satinaka, shaman, triputa, vartula, vartulakalaya Tamil (16) - ammatinkam, arukkanakkatalai, cokkayakkatalai, cokkayam, iravikentam, kalayam, kapparkatalai, katalaippattani, panti 1, pattani, potayakkatalai, potayam, potayattam, puttanie, vellaippattani, vellappattani Telugu (7) - bataani, batani, battani, gundu sanighelu, gundusanighelu, patanlu, peddaib Urdu (3) - arad krasna, karsana (matar), matar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e337518dc894d8004c5f6f98471627f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e337518dc894d8004c5f6f98471627f/xclkon/e53dc3fce7676307df5529301c369a32
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e337518dc894d8004c5f6f98471627f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e337518dc894d8004c5f6f98471627f/xclkon/e53dc3fce7676307df5529301c369a32
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e337518dc894d8004c5f6f98471627f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e337518dc894d8004c5f6f98471627f/xclkon/e53dc3fce7676307df5529301c369a32
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e337518dc894d8004c5f6f98471627f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Satina
+sanskrit_name: सतीन
+transliteration: satīna
+ref_drug_name: सतीन
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Satina
+sanskrit_name: सतीन
+transliteration: satīna
+ref_drug_name: सतीन
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

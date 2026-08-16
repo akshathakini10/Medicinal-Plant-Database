@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6ffe45084b80545ee5c1f587f0c4d332
+Botanical Name: Lindenbergia indica (L.) KTZE
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lindenbergia urticaefolia LEHM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Hindi (1) - phiunl Marathi (2) - dhol, gajhdar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ffe45084b80545ee5c1f587f0c4d332/xclkon/29f9736f6df66a70dc2232de0de0bfaf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ffe45084b80545ee5c1f587f0c4d332
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6ffe45084b80545ee5c1f587f0c4d332/xclkon/29f9736f6df66a70dc2232de0de0bfaf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

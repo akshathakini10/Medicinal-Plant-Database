@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d31dbb6eede26e55c69615d614058a6e
+Botanical Name: Bistorta amplexicaulis GREENE
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Polygonum amplexicaule DON.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Hindi (3) - amil, amli, kutrya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d31dbb6eede26e55c69615d614058a6e/xclkon/9d2c3e29f3becd50a28c225d70f89d3f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d31dbb6eede26e55c69615d614058a6e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d31dbb6eede26e55c69615d614058a6e/xclkon/9d2c3e29f3becd50a28c225d70f89d3f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

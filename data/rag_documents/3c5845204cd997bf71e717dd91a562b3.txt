@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3c5845204cd997bf71e717dd91a562b3
+Botanical Name: Polygonum hydropiper LOUR.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Polygonum flaccidum ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. English (4) - biting knotweed, red knees, smartweed, water pepper Kannada (2) - kari agrada gida, kari sanni Marathi (1) - sisori
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c5845204cd997bf71e717dd91a562b3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c5845204cd997bf71e717dd91a562b3/xclkon/5490a3e98fdce217c2cdd5c648d76ba9
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c5845204cd997bf71e717dd91a562b3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c5845204cd997bf71e717dd91a562b3/xclkon/5490a3e98fdce217c2cdd5c648d76ba9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c5845204cd997bf71e717dd91a562b3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

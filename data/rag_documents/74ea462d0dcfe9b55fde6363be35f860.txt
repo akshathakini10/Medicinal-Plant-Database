@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 74ea462d0dcfe9b55fde6363be35f860
+Botanical Name: Terminalia bellirica (GAERTN.) ROB.
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Terminalia bellerica ROB. Terminalia bellerica ROB. var. laurinoides CL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 275 Vernacular names found in 9 languages. Hindi (19) - baheda, bahera, bahirda, banera, behara, behera, behra, bh-aira, bh-airah, bhaira, bhairach, bharla, bhera, buhura, bulla, deshi-badam, sagona, veda, vibhitaka Kannada (30) - aakaashamara, bedaro, behara, bhirda, dandi, kare, sadilu, santi, santikayi, shaanthi mara, shanti, shanti-mara, taare kaayi, tani, tanrikai, tare, taree, tari, tari-kayi, tenthe, thaaremara, thani, tharai, thare, thari, tharimara, tnrikayi, vibhita, vibhitaka, yehela Malayalam (9) - adamarutha, tani, tanni, tannikai, tannikka, thaanni, thani, thare, tusham Marathi (20) - baheda, bahera, baira, balra, beda, beharda, behasa, beheda, berda, bherda, bhirda, gotimg, goting, hela, sagwan, vavara, vela, yehela behada, yehelabehada, yela Sanskrit (49) - Sanskrit Comments  akasha, aksa, aksah, aksaka, aksha, anilaghnaka, baheduka, baheruha, baheruka, bahira, bahuvirya, behedakah, bhuta-vasah, bhutavasa, bibhita, bibhitaka, bibhitakah, bibhitaki, harya, kali, kalidruma, kalidrumah, kaligrvamah, kalinda, kalivriksha, kaliyugalaya, kalkidharmaghrah, kalpavriksha, karsaphala, karsaphalah, karshapalah, karshaphala, kasaghna, kushika, mrgalindaka, samvartaki, sanvarta, tailaphala, talaphala, tilapushpaka, tusha, vasanta, vasanthah, vibhitaka, vibhitakah, vibhitakam, vibhitaki, vipitakaha, vishaghna Tamil (115) - akantam, akattan, akkam, akkam 1, akkana, akkandam, akkantam, akkanti, akkarattan, akkattan, akkattan#, akkattan@, akkatuti, aksam, ambalatti, ampalatti1, amutam, amutam2, ananti@, anilakkinakam, ankarattan, ankattan, aramam, ari1, atampi, atcam 1, catakam, catakam2, catakam@, chattu-elupa, cirottam1, civattirumi, cuvacampokki, elitturumam, erikatpalam, ilatcuminacani2, kalanduri, kalantunri, kalanturi$, kalanturi@, kalanturimaram, kalinkatturumam, kalinkatturumamaram, kalinkutu, kalinturuna, kalitturumam, kalivirutcam, kandugamsadagam, kantakatpalam, kantakatpalamaram, kantam3, kantukam, kantukamaram, kantukan, katpalam1, kattu-elupay, kaypalam, kuttakkini, nati, periyanati, pucavatam, punnaciyam, punnaciyamaram, putavacam, putavakini, sirottam, tailapalam1, tamkki, tan, tandi-tonda, tani, tani#, tanikai, tanikkay, tanikkay#, tanikkay@, tanikkaymaram, tanikkaymaram#, tanikkaymaram@, tankrikkai, tanni, tanri, tanrik-kay, tanrikkai, tanrikkay, tapamari, tapamari#, tapamari@, thaandrikkai, thaanrikkaai, thandi, thandri, thandrikkai, thani, thanika, thantri, thantrikkai, tilaputpakam, tirilinkam, tirilinkam#, tirilinkam@, tirilinkamaram, tiripalati, tumulam, vallaimurdu, vantiriyam, vantiriyamaram, vantiyam, vantiyam 1, vatampi, vipitakam, vipitakam#, vipitakam@, vipitamaram, vittiyam Telugu (20) - bhoothavaasamu, bhutavasamu, bhutavasamu tadi, kattu-olupoe, tadi, tandi, tandikaya, tandra, tandra-kaya, tani, thaadi chettu, thaani, thadi, thana, thandra, thani, toandee, toandi, vibheethakamu, vibhitakamu Tibetan (2) - ba ru ra, ba-ru-ra Urdu (11) - bahera, baleela, balela (bahera), halila siyah, poast bahera, poast halila zard, poast i bahera, poast-i- bahera, tirphala, tirphalo, triphala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 5728
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/5728.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860/xclkon/e7c274c1b5e01be0b009459d126eaa4d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860/xclkon/8ae1114f52cf96ea2bb2c928b89169bb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860/xclkon/e7c274c1b5e01be0b009459d126eaa4d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860/xclkon/8ae1114f52cf96ea2bb2c928b89169bb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860/xclkon/e7c274c1b5e01be0b009459d126eaa4d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860/xclkon/8ae1114f52cf96ea2bb2c928b89169bb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860/xclkon/e7c274c1b5e01be0b009459d126eaa4d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860/xclkon/8ae1114f52cf96ea2bb2c928b89169bb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/74ea462d0dcfe9b55fde6363be35f860
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

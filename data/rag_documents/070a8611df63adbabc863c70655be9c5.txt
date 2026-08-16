@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 070a8611df63adbabc863c70655be9c5
+Botanical Name: Cinnamomum aromaticum NEES
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cinnamomum cassia BLUME
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 37 Vernacular names found in 10 languages. English (4) - bastard cinnamon, cassia lignea, chinese cinnamon, cinnamomum cassia Hindi (2) - dalchini, daruchini Kannada (2) - dalchini, daruchini Malayalam (1) - lowangapattai Marathi (2) - dalchini, daruchini Sanskrit (9) - Sanskrit Comments  coca, gudatvac, gudatvak, thracham, thwak, tvak, twak, varanga, varangam Tamil (5) - elavangappattai, ilavankappattai, karuvappattai, lavanga pattai, lowangapattai Telugu (1) - lowangapattai Tibetan (1) - twa dza Urdu (10) - qirfa (taj), sajaz hindi, saleekha, salikha, sazaj hindi, taj, taj qalmi, taj qalmi nim kofta, tezpat, tezpat nim kofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/070a8611df63adbabc863c70655be9c5/xclkon/5150f3a5762515a27a654f409c8d32a9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tvak
+sanskrit_name: त्वक्
+transliteration: tvak
+image_urls: https://www.medicinalplants.in/slokaimages/409/409_1.jpg https://www.medicinalplants.in/slokaimages/409/409_2.jpg https://www.medicinalplants.in/slokaimages/409/409_3.jpg https://www.medicinalplants.in/slokaimages/409/409_5.jpg
+ocr_text: उक्तादारुसितास्वाद्वीतिक्ताचानिलपित्तहृत् सुरभिःशुक्रलावण्यामुखशोषवृषापहा I| (Bpn) Darusita is svadvi, tikta in rasa, alleviates anila, pitta, is surabhi sukrala, varnya, cures mukhasosa and vrsha त्वचंतुकटुकंशीतंकफकासविनाशनम् | शुक्रामशनंचैवकण्ठशूद्धिकरंलघुI| ( राजनिघण्टु) Tvaca is katu in rasa, laghu in guna, sita in veerya, destroys kapha, kasa, is sukra amasana and kantha sudchhikara त्वचंलघूष्णंकटुकंस्वादुतिक्तंचरूक्षकम् पित्तलंकफवातघ्नंकण्डवामरुचिनाशनम | | हृद्वस्तिरोगवातार्शःकृमिपीनसशुक्रहृत्| (Bpn) Tvaca is katu, svadu, tikta in rasa, laghu, ruksa in guna, usna in veerya, increases pitta, alleviates kapha, vata, cures kandu, ama, aruci, hrd vasti roga, vata, arsa, krmi and pinasa and is sukrahara. त्वचतैलगुणाः वाह्निमान्द्यानिलहरमाध्मानाक्षेपनाशनम वान्त्युत्क्लेशप्रशमनंसंग्राहिदशनार्तिहृत्| E त्वचंतैलंरजःस्रावितोयेक्षिप्तंनिमज्जति (आं.सं) Taila alleviates vahni mandya and anila, destroys adhmana, aksepa, pacifies vanti, utkesa, is sangrahi, dasana arti hara, induces raja srava and does not sink when put in water
+
+Shloka Record 2
+drug_name: Tvak - prakara
+sanskrit_name: त्वक् प्रकार
+transliteration: tvak prakāra
+image_urls: https://www.medicinalplants.in/slokaimages/409/409_1.jpg https://www.medicinalplants.in/slokaimages/409/409_2.jpg https://www.medicinalplants.in/slokaimages/409/409_3.jpg https://www.medicinalplants.in/slokaimages/409/409_5.jpg
+ocr_text: उक्तादारुसितास्वाद्वीतिक्ताचानिलपित्तहृत् सुरभिःशुक्रलावण्यामुखशोषवृषापहा I| (Bpn) Darusita is svadvi, tikta in rasa, alleviates anila, pitta, is surabhi sukrala, varnya, cures mukhasosa and vrsha त्वचंतुकटुकंशीतंकफकासविनाशनम् | शुक्रामशनंचैवकण्ठशूद्धिकरंलघुI| ( राजनिघण्टु) Tvaca is katu in rasa, laghu in guna, sita in veerya, destroys kapha, kasa, is sukra amasana and kantha sudchhikara त्वचंलघूष्णंकटुकंस्वादुतिक्तंचरूक्षकम् पित्तलंकफवातघ्नंकण्डवामरुचिनाशनम | | हृद्वस्तिरोगवातार्शःकृमिपीनसशुक्रहृत्| (Bpn) Tvaca is katu, svadu, tikta in rasa, laghu, ruksa in guna, usna in veerya, increases pitta, alleviates kapha, vata, cures kandu, ama, aruci, hrd vasti roga, vata, arsa, krmi and pinasa and is sukrahara. त्वचतैलगुणाः वाह्निमान्द्यानिलहरमाध्मानाक्षेपनाशनम वान्त्युत्क्लेशप्रशमनंसंग्राहिदशनार्तिहृत्| E त्वचंतैलंरजःस्रावितोयेक्षिप्तंनिमज्जति (आं.सं) Taila alleviates vahni mandya and anila, destroys adhmana, aksepa, pacifies vanti, utkesa, is sangrahi, dasana arti hara, induces raja srava and does not sink when put in water

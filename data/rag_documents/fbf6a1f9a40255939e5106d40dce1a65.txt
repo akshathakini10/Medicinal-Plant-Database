@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fbf6a1f9a40255939e5106d40dce1a65
+Botanical Name: ylia xylocarpa (ROB.) TAUB.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 42 Vernacular names found in 8 languages. English (2) - ironwood, pyinkado Hindi (1) - jambu Kannada (21) - ambaarke, arasathekku, arasu thaega, arasu thakku, aravuthekku, bettadaavarike, bettadaavarike mara, eerul, homaavarike, hommaavarike, irilmara, iruve mara, jambe, jambe mara, kodagu katthi, kodavara katthi mara, shilpi, silve mara, thakka mara, thiruva, tirwa Malayalam (4) - irul, irumullu, irupool, kadamaram Marathi (3) - jamba, jambha, suriya Sanskrit (1) - Sanskrit Comments  simsapa Tamil (1) - irul Telugu (9) - boja, channangi, errachennangi, konda tangedu, kondatangedu, kondathangedu, penanged, thangedumanu, yerra channagi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fbf6a1f9a40255939e5106d40dce1a65
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fbf6a1f9a40255939e5106d40dce1a65
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fbf6a1f9a40255939e5106d40dce1a65
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

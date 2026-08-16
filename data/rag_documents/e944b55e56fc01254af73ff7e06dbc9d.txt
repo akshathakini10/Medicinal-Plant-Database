@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e944b55e56fc01254af73ff7e06dbc9d
+Botanical Name: Glochidion zeylanicum A. JUSS.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. Kannada (4) - banda, kumbala mara, neeru kukku, neervatti Malayalam (3) - neervetti, nirvetti, pevetto Tamil (2) - kumbalm, kumpala Telugu (4) - itepulla, itipala, pageri, yeatipalla
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e944b55e56fc01254af73ff7e06dbc9d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e944b55e56fc01254af73ff7e06dbc9d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e944b55e56fc01254af73ff7e06dbc9d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

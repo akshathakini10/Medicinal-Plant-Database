@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ef4542ec2dde339b4d78a30e6a15e5ef
+Botanical Name: Solanum dulcamara L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. English (5) - bitter nightshade, bittersweet, bittersweet nightshade, violet-bloom, woody nightshade Sanskrit (2) - Sanskrit Comments  agnidamani, kakmachi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef4542ec2dde339b4d78a30e6a15e5ef
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef4542ec2dde339b4d78a30e6a15e5ef
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef4542ec2dde339b4d78a30e6a15e5ef
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Agnidamani
+sanskrit_name: अग्निदमनी
+transliteration: agnidamanī
+ref_drug_name: अग्निदमनी
+status: Suggested source
+discussion: Agnidamani' has been mentioned in Rajanighantu; With regard to its synonym 'Vallikantakarika' it seems to be 'Kantakari' of the creeper variety; This species is suggested to be used as 'Agnidamani' as it has similar uses when compared to the one mentioned in the texts
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

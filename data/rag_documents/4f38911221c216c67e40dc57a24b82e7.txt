@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4f38911221c216c67e40dc57a24b82e7
+Botanical Name: Polytoca barbata STAPF
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Tamil (1) - kocikai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f38911221c216c67e40dc57a24b82e7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f38911221c216c67e40dc57a24b82e7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f38911221c216c67e40dc57a24b82e7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

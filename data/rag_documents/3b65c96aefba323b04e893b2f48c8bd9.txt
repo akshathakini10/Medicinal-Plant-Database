@@ -1,0 +1,85 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3b65c96aefba323b04e893b2f48c8bd9
+Botanical Name: Pergularia daemia (FORSK.) CHOIV.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cynanchum extensum JACQ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 229 Vernacular names found in 8 languages. Hindi (23) - akadi, akasan-ki-bel, aksand, atrilal, dholi doodhli, dholi-doodhli, dudhi, gadaria-ki-bel, gadariari bel, itrelal, jutak, jutuk, manda-singi, masi, menda singi, nasbhanga, sadowani, sagovani, utaran, utran, utran-ki-bel, utranajutuka, utraun Kannada (37) - baela parthi, baeli hathi, belaparti, belihatti, bileehatthi balli, dusthaapa chettu, haalu koratige, haalu kurutige, halakonatige, halakoratiganaballi, halakoritige, halkoratiga, halkoratige, halkoritige, halkutugana balli, halokoratige, juttuve, juttuve balli, juttuveballi, kuntagyan balli, kuntalige, kunthale, kunthaliga, kuntiga, kuntige balli, kurutige, kurutona thoppalu, kushtagee, kushteera, kushtigana balli, talavaarana balli, talavaranaballi, taravaranaballi, thalavaarana balli, ugurusutthu balli, ugurusuttuballi, ugurusuttubelli Malayalam (3) - veliparitte, veliparutti, velipparutti Marathi (6) - mendaa doodi, mendhadudhi, utarana, utarni, utharana, uttarani Sanskrit (19) - Sanskrit Comments  canadaladugdhika, chandaladugdhika, indiwara, kakajangha, karambha, kuruta, kurutaka, kurutakah, nrtyakundala, phala-kantak, uttamarani, uttaravaruni, visanika, vishanika, vrischikali, vrscikali, yugaphala, yugmaphala, yugmaphalika Tamil (120) - acanimuli, accani 2, accanimuli, achanimuli, anantakakkoti, anantam4, anantaram, ancanimuli, anjanimuli, cattamakarani, cettaravinacini, chebira, ciriyatti, ciriyattini#, ciriyattini@, citapparutti, citapparuttikkoti, citarappiyam, citavarakam, citavaram2, ciyaccini, ciyaccinikam, collakam, comanayakakkoti, comanayakam, conakam2, conakam@, conamukam, cucakam2, cukkulam, cunkulakkoti, cunkumam, cutcumappila, iyacoli, iyacolikkoti, kakkaiveli, karani@, karkacam, kattamani, kiritam#, kiritam@, kirusani, kolunkuvi, kudagaram, kunattittaru, kurutaka, kutakam, kutakaram, kutkaram, kuttamani, kuttamanikkoti, mancali@, mancani@, mancanikkoti, mancuni, mani 2, manikatam, manikkoti, manimuli, manimulikkoti, miccai 2, nakanokki, nandamani, nantamani, nattamani, ootamunnie, palamutanki, palmutanki2, panmutanki, peruvakai 2, picukacceti, picukam, picukam#, picukam@, pivelikakkoti, pivelikam, purunti 2, pusanam, putarakkoti, putaram, putaram#, putaravirutcam, seendhal kodi, sidavaram, sindalkodi, siriyattini, siyachini, tiyamam3, uddamani, ukka, urattai, utahmaniver, uthamani, uththaamani, uttamadali, uttamakani, uttamakannikai, uttamamakani, uttamamkani, uttamani, uttamatali, vaylie partie, vayucanka, veli 2, veli parutti, veli pparutti, velikkoti, velip-parutti, veliparuthi, veliparutti, velipparuddi, velipparuti, velipparutti, velipparuttikkoti, vellaikkattamani, velumacanti, velvelikakkoti, velvelikam, vempunal, verlipparuthi Telugu (18) - chebira, chebura, dishtupu chettu, dushtupatige, dushtuputige, dustapucettu, dustapuchettu, dusthapu theega, dustupatheega, gurticettu, gurtichettu, guruti, guruti chettu, jistapu theega, jittupaku, juttapu theega, juttu paakku, juttupakku Tibetan (3) - bri si ka li, bri sya ka li, ka ka dza gi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1617
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1617.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/d5ddb200a44d087dc0ef9c88be399b6c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/5b046480d4077e7440da7789eff764c6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/d5ddb200a44d087dc0ef9c88be399b6c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/5b046480d4077e7440da7789eff764c6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/d5ddb200a44d087dc0ef9c88be399b6c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/5b046480d4077e7440da7789eff764c6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/d5ddb200a44d087dc0ef9c88be399b6c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/24cf9340e9a5e255b7d82856f6d14c7c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/5b046480d4077e7440da7789eff764c6
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b65c96aefba323b04e893b2f48c8bd9/xclkon/7d4db5872a4e19347d0f36a01d4b40f4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Visanika
+sanskrit_name: विषाणिका
+transliteration: viṣāṇikā
+ref_drug_name: विषाणिका
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

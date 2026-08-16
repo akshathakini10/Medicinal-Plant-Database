@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c5c7fcd1c728c05e501410bfc1b22f73
+Botanical Name: Jateorhiza palmata (LAM.) MIERS
+Family: Menispermaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Menispermum columba ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 7 languages. English (1) - calumba root Hindi (1) - kalamb-ki-jar Kannada (14) - aadalu haralu, almuda, baeli oudala, bettada haralu, dodda haralu, govatikalu, gujju haralu, kaadi gida, kaadu haralu, kaadu oudala, kadalum baade, mara oudala, mogalaani, mogalaayi oudala Marathi (1) - kalamakaa chari Sanskrit (3) - Sanskrit Comments  kalambaka, kandaguduci, sinhalatikta Tamil (5) - cinaver, columboo vayr, copcini, kalamba ver, kalampa Telugu (2) - kalamba, kalamba-veru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73/xclkon/52392d4a61f636266105b49209c7a3b7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73/xclkon/52392d4a61f636266105b49209c7a3b7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73/xclkon/52392d4a61f636266105b49209c7a3b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c5c7fcd1c728c05e501410bfc1b22f73/xclkon/52392d4a61f636266105b49209c7a3b7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kalambaka
+sanskrit_name: कलम्बक
+transliteration: kalambaka
+ref_drug_name: कलम्बक
+status: Substituted source
+discussion: This species is used as a substitute for Kalambaka in Europe In India this is used a substitute for Daruharidra
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

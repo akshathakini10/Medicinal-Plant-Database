@@ -1,0 +1,113 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7a96b90285b25db221e6727e2fffd19a
+Botanical Name: Aristolochia indica L.
+Family: Aristolochiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 234 Vernacular names found in 8 languages. Hindi (7) - arkmula, hukka-bel, isarmul, isharmul, isharmul-ki-jar, isvarmul, kiramar Kannada (21) - eeshvari baeru, eeshvari balli, eeshwari beru, eesvurberus, eswari beru, gopaala putti thoppalu, gopalaputti thoppalu, gopalaputtitoppalu, gopataputtitoppalu, isaraber, isaraberu, ishvaraberu, ishvariberu, isvaraballi, isvaraberu, isvariberu, kadula, kodula, nanjina baeru, sapshi, thoppalu Malayalam (26) - careloe-vegon, carelvevegm, eeshvaramulla, eswaramulla, garalavegam, garudakkoti, ishvara-muri, ishvaramuli, ishvaramulla, ishvaramuri, isvaramuli, isvaramulla, isvaramurri, kadalivegam, karalakam, karalayam, karalvekam, karukappullu, karukkapallu, karukkapullu, katalivegam, perumarunna, perumarunnu, perunkilannu, perunkilanu, perunkizhannu Marathi (4) - saapasan, sapasan, sapsanda, sapus Sanskrit (20) - Sanskrit Comments  ahiganda, ahigandha, arkamula, gandhanakuli, garalika, garudi, hari, ishvara, ishwari, isvaramula, isvari, iswari, jovari, karaleka, nakuleshtha, nakuli, rasna, rudrajata, sunanda, sunandahari Tamil (138) - aadutheendapalai, adagam, amutakkoti, arumaruntu, arumaruntukkoti, atakakkoti, atakam, cakati2, cakatikkoti, calamiyakkoti, calamiyam, cankaimuli, cantanakarani, cantanaparani, cantanaparanikkoti, caracurati, carakati, carankateci, carcukati, carcuvatikkoti, carucukati, cavakkilanku, cemparuntu, cemparuntukkoti, cilaimeluku, cilantikkoti, cinappa2, citanakakkoti, citanakam#, civamuli, corikanti, curuli4, cutuvalli, easwaramuli, ech-chura-muli, icatecatti, iccuramuli, iccuraver, ich-churamuli, ichchuramula, ichura, icuracuruli, icuracurulikkoti, icurakkovai, icuramaruntu, icuramuli, icuraver, icuvara muli, ikali, ikkuramulli, isadesatti, isura, isuramuli, isuraver, isvaramuli, itavam, itikam, iyavari, kakapati, kakapatikkoti, karrukitakkoti, karrukitam, karudakkodi, karuta-k-koti, karutacopitakkoti, karutakacopitam, karutakkoti, karutakkoticci, karutankilanku, kerutakkoti, kirttikkodi, kopakkari, koracanti, koticcinkeri, kovakkari, kunnam, kuppalai#, kuppalai@, kutanayakakkoti, kutanayakam, malaiccevikam, malaiccevitakkoti, mucurumuli, nakakeli, nakatamaniyam2, nakateni, nakkeni, nakkeni#, nalla yisvari, natanakkarumuli, navanitapani, neya, neya2, palvarrippaluttan, palvattippaluttan, paravaiventankoti, pasanameluku, pelivalamuli, periyanitam, periyatitakkoti, peru-kizhangu, peru-marindu, perumarindu, perumarundoo, perumarundu, perumaruntu, perumuli, perunkilanku, perunkotimuli, pokkalam, pokkalankoti, pokkanam, pokkinattuppi, tacimantapputu, talaccuruli, talai curuli-p-puntu, talai-c-curuli, talaiccurul2, talaiccuruli2, talaiccurulivalli, talaiccurulvalli#, talaiccuruni2, talaiccutuvalli, talaicutuvalli, talaicutuvallikkoti, taparavakoti, taparavam, taracikakkoti, taracikam, taracu-k-koti, taracukkoti, taratikkoti, tccuvaramuli, uruttirapuntu, utirakkutori, vallikkoti, vallimoti, yicuramulikkoti Telugu (17) - doolaagovela, doolagovila, dula govela, dulagovela, eeswaramoolli, errakalabanda, eshwari, eswaramulli, ettakalabanda, govila, ishveraveru, isvara, isvara ven, isvaravaeru, isvaraveru, nalla eshwari, nella eeshvari Tibetan (1) - na ku li dri z im po
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 224
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/224.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7a96b90285b25db221e6727e2fffd19a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gandhanakuli
+sanskrit_name: गन्धनाकुली
+transliteration: gandhanākulī
+ref_drug_name: गन्धनाकुली
+status: Accepted source
+discussion: It is identified with this species
+reference: [1]
+
+Identity Record 2
+drug_name: Gandhanakuli
+sanskrit_name: गन्धनाकुली
+transliteration: gandhanākulī
+ref_drug_name: गन्धनाकुली
+status: Accepted source
+discussion: Gandhanakuli' is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Gandhanakuli
+sanskrit_name: गन्धनाकुली
+transliteration: gandhanākulī
+ref_drug_name: गन्धनाकुली
+status: Suggested source
+discussion: Aristolochia is suggested to be used as this plant
+reference: [1]
+
+Identity Record 4
+drug_name: Isvari
+sanskrit_name: इश्वरी
+transliteration: iśvarī
+ref_drug_name: इश्वरी
+status: Accepted source
+discussion: Isvari is correlated to this species
+reference: [3]
+
+Identity Record 5
+drug_name: Rasna
+sanskrit_name: रास्ना
+transliteration: rāsnā
+ref_drug_name: रास्ना
+status: C (Sub)
+discussion: Many species are correlated to 'Rasna' and this species is one among them; It is used as a substitute in different parts of the country
+reference: [5]
+
+Identity Record 6
+drug_name: Sukanasa
+sanskrit_name: शुकनासा
+transliteration: śukanāsā
+ref_drug_name: शुकनासा
+status: Controversial
+discussion: With regard to names given for Sukanasa such as Nahika etc, this species has been correlated as it has similar synonyms
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Isvari
+sanskrit_name: इश्वरी
+transliteration: iśvarī
+image_urls: https://www.medicinalplants.in/slokaimages/161/161_1.jpg
+ocr_text: ईश्वरी नागदमनी नहायोगेश्वरी तथा|| योगेश्वरी नागपुष्पी लूतागर्दभघातिनी| नागदन्ती नागपत्री रास्ना सर्वग्रहापहा| | महायोगेश्वरी तिक्ता कटुका हरते व्रणान्| रक्षोग्रहं विषं सर्पं लूतागर्दभजालकान् [KYNJ Isvari, nagadamani, mahayogeshwari, yogeshwari, nagapuspi, lutagardabhadhatini, nagadanti, nagapatri, rasna and sarvagrahapaha are the synonyms of isvari. It is tikta and katu in rasa and alleviates vrana, 8raha, visaja roga and garaabhajalaka. IKYNJ
+
+Shloka Record 2
+drug_name: Rasna
+sanskrit_name: रास्ना
+transliteration: rāsnā
+image_urls: https://www.medicinalplants.in/slokaimages/95/95_1.jpg https://www.medicinalplants.in/slokaimages/95/95_2.jpg https://www.medicinalplants.in/slokaimages/95/95_3.jpg https://www.medicinalplants.in/slokaimages/95/95_4.jpg https://www.medicinalplants.in/slokaimages/95/95_5.jpg https://www.medicinalplants.in/slokaimages/95/95_6.jpg https://www.medicinalplants.in/slokaimages/95/95_7.jpg https://www.medicinalplants.in/slokaimages/95/95_8.jpg
+ocr_text: रास्ना युक्तरसा स्याच्छ्रेयस्या श्रेयसा रसा युक्ता सुवहा सुगन्धमूला रस्या सा गन्धनाकुली चे Il IAa mal Rasna, yuktarasa, sreyasa, sreyasi, yukta, suvaha, sugandhamula, rasya and gandhanakuli are its synonyms रास्ना युक्तरसा रस्या सुवहा रसाना रसा एलापर्णी च सुरसा सुगन्धा श्रोयसी तथा Il (Bpnl Rasna , yukta rasa, rasya, suvaha, rasna, rasa, elaparni, surasa, sugandha, sroyasi are its synonyms विशेषाद्वातरोगघ्नी तैलादिषु नियोजिता विषघ्नी श्वासकासघ्नी रास्ना हिक्कानिवारणी Il MMdnl Rasna specifically alleviates vataroga when used in the form of taila It also alleviates visha, svasa, kasa Inikka. and रास्नामपाचनी तिक्ता गुरूष्णा कफवातजित् शोफश्वाससमीरास्रवातशूलोदरापहा कासज्वरविषार्शावातिकामयहिध्महृत (Bpn) Rasna is tikta in rasa, guru in guna, usna in veerya, ama pacani, alleviates kapha ana vata, cures sopha , svasa, samira, asra vata, sula, udara, kasa jvara visa, sita vata and hidhma रास्ना गुरुश्च तिक्तोष्णा विषवातास्रकासजित् शोफकम्पोदरश्लेष्मशमन्यामस्य पाचनी Il IDhnl Rasna is tikta in rasa, guru in guna, usna in veerya, cures visha, vata, asra, kasa, sopha, kampa, udara, slesma and is ama pacana रास्ना तिक्ता गुरुश्चोष्णा पाचन्यामविनाशिनी वातरक्तं विषं श्वासं कासं विषमज्वरम |l शोफं हिक्कां चामवातं कफं शूलं विनाशयेत् ज्वरं कम्पं चोदरं च सर्वान् वातांश्च नाशयेत Il (Sgnl Rasna is tikta in rasa, guru in guna usna in veerya, pacana, aestroys ama cures vatarakta, visa , svasa, kasa, visamajvara, sopha, hikka , amavata kapha, sula, jvara, kampa, uaara and sarva vata रास्ना तिक्ता गुरूष्णामपाचनी कफपित्तहा निहन्ति शोफवातास्रश्वासकासविषज्वरान १ हिध्माशीतामवाताढ्या वातशूलोदरणि च (Kdn) Rasna is Tikta in rasa, guru in Guna, Usna in Potency Ama pacani, Kapha Pitta hara, cures Sopha, Vata asra, Svasa, Kasa, Visha, Hidhma, Sita vata, Ama vata, Vata adhya, Vata sula and Udara रास्नोष्णा वातशोफामवातवातामयान् जयेत् ISdn) Rasna is Usna in Potency, Vata sopha Amavata hara.

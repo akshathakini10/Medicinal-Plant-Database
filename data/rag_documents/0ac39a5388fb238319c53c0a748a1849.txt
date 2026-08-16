@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0ac39a5388fb238319c53c0a748a1849
+Botanical Name: Bridelia montana WILLD.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 6 languages. Hindi (5) - geia, gondni, kargnalia, khaja, kusi Kannada (12) - bandha, bantha, ganduvikke, goonjun mara, kitto, kittoe, kote, kotte, kottoe, mahaaveera, sidigulige, sidigulu Marathi (1) - asana Sanskrit (2) - Sanskrit Comments  asana, pasanabheda Tamil (2) - mulvengai, vengaimaram Telugu (32) - balli, bigalu, bontavegi, gondu, gundabigula, gundu bigalu, gundubigalu, gundubigulu, guntabigulu, guntabiridi, kanchepi, paanchavoni, panchavoni, panchodakamu, panchvoni, pancuvoni, pantangi, pantegi, pantenga, panthangi, pantiga, patangam, patenga, ponthangi, sanna kodari, sannakodari, sannakotari, tella yegise, tellavegisa, tellayegi, thellavegisa, vadishi chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 371
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/371.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ac39a5388fb238319c53c0a748a1849
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asana
+sanskrit_name: असन
+transliteration: asana
+ref_drug_name: असन
+status: Controversial
+discussion: This species is being used as Asana in Maharashtra
+reference: [2]
+
+Identity Record 2
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+ref_drug_name: पाषाणभेद
+status: Controversial
+discussion: Pasanabheda is a highly controversial drug; With regard to its property (stone breaking) this species is taken into consideration
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+image_urls: https://www.medicinalplants.in/slokaimages/233/233_1.jpg https://www.medicinalplants.in/slokaimages/233/233_2.jpg https://www.medicinalplants.in/slokaimages/233/233_3.jpg https://www.medicinalplants.in/slokaimages/233/233_4.jpg
+ocr_text: पाषणभेदकोश्मघ्नःशिलाभेदोश्मभेदकः सचैवोपलभेदश्चनगभिच्छैलगर्भजः Synonyms of pasanabheda are asmaghna, silabheda, asmabhedaka, palabheda, nagabhi elagarbhaja and अश्मभिद्वस्तिरुङ्मूत्रकृच्छ्रतोदाहवातनुत् शीतवीर्योगुरुःस्निग्धस्तथातीसारनाशनः न (शो.नि) Asmabhid is guru, snighda in guna, sita in veerya, alleviates vastiruk, mutra krcchra, daha, vata and atisara. अश्मभेदोहिमस्तिक्तःकषायोवस्तिशोधनः मेदंहन्तित्रिदोषार्शोगुल्मकृच्छ्राश्महृद्रुजः योनिरोगान्प्रमेहांश्चप्लीहशूलव्रणानिच It is tikta, kashaya in rasa, hima in veerya, vasti sodhana, alleviates meda tridosha, arsa, gulma, krcchra, asma, hraruja, yoni roga, prameha, pliha sula and vrana क्षुद्रापाषाणभेदश्चव्रणकृच्छ्राश्मरीहरः IRjn ) Ksudra pasanabheda alleviates vrana, krcchra and asmari.

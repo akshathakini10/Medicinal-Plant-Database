@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ee989950b35ddaa0690296b8c1aedacf
+Botanical Name: Balsamodendron stocksiana -
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 1 languages. Sanskrit (6) - Sanskrit Comments  amisa, guggulu, mahisaksa, palankasa, purahvaya, purakya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee989950b35ddaa0690296b8c1aedacf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ee989950b35ddaa0690296b8c1aedacf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Guggulu - mahisaksa
+sanskrit_name: गुग्गुलु महिषाक्ष
+transliteration: guggulu mahiṣākṣa
+ref_drug_name: गुग्गुलु महिषाक्ष
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

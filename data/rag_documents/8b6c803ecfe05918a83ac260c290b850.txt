@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8b6c803ecfe05918a83ac260c290b850
+Botanical Name: Ficus callosa WILLD.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 3 languages. Kannada (12) - andapaajepu, anpeja, naayi vaate, neerathi, neeruvaate, nirati, niratti, nirpajaevu, nirpeja, tavadugoli, thaudugoli, thawdugoli Malayalam (3) - handir-alou, kadaplavu, neyapuram Tamil (4) - koli-aal, kolial, koliyal, niratti 2
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6c803ecfe05918a83ac260c290b850
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6c803ecfe05918a83ac260c290b850
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b6c803ecfe05918a83ac260c290b850
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

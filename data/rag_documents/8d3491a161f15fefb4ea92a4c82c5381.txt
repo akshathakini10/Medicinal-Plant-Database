@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8d3491a161f15fefb4ea92a4c82c5381
+Botanical Name: Myrica nagi THUNB.
+Family: Myricaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 62 Vernacular names found in 9 languages. Hindi (4) - kaephal, kaiphal, kaphal, kayaphul Kannada (5) - katphala, kattala, kirishivani, krisihivani, marudampatte Malayalam (3) - maruta, marutamtoli, marutu Marathi (4) - kaayaphal, kaiphal, kayaphala, kayaphul Sanskrit (33) - Sanskrit Comments  aranya, arbha, bhadra, bhadranjaka, bhadravati, kaidarya, kaidaryama, kaitarya, kaphala, katphala, katphalah, kayaphala, krishnag somavalka, kumbhi, kumbhipaki, kumbli, kumuda, kumudika, laghukashmarya, mahakumbha, mahakumbhi, nasanu, prachetasi, purusha, rajanakah, ramasenaka, rohini, shriparnika, somavalkah, somavriksha, sriparni, tvakaphala, ugragandha Tamil (4) - kirusna karppam, marudam, marudam-pattai, marutam pattai Telugu (3) - kaaidaryamu, kaidanyamu, kaidaryamu Tibetan (4) - ka da pha la (d), ka tva la, ka-tpha-la, katpha la (p) Urdu (2) - kaifal, kaiphal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d3491a161f15fefb4ea92a4c82c5381
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Katphala
+sanskrit_name: कट्फल
+transliteration: kaṭphala
+ref_drug_name: कट्फल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Katphala
+sanskrit_name: कट्फल
+transliteration: kaṭphala
+image_urls: https://www.medicinalplants.in/slokaimages/1148/1148_1.jpg https://www.medicinalplants.in/slokaimages/1148/1148_2.jpg https://www.medicinalplants.in/slokaimages/1148/1148_3.jpg https://www.medicinalplants.in/slokaimages/1148/1148_4.jpg https://www.medicinalplants.in/slokaimages/1148/1148_5.jpg
+ocr_text: कट्फलः कफवातघ्नो गुल्ममेहाग्निमान्द्यदजित्| रुचिष्यो ज्वर- दुर्नाम-ग्रहणी पाण्डुरोगहा | | Katphala alleviates kapha and vata, is rucya, CUrCS gulma, meha, agnimandya , jvara, durnama, grahani, and pandu roga कटफल च कषायं च कफधातुविकारजित् हृल्लास मुखरोगघ्नं कासन्श्वास ्ज्वरापहम् IDhn) Katphala kashaya in rasa, kapha dhatu vikaraghna, cures hrllasa mukha roga, kasa, svasa and jvara. कट्फलः कटूरुष्णश्च कासश्वासज्वरापहः उग्रदाहहरो रुच्यो मुखरोगशमप्रदः | | (Rjnl Katphala is katu in rasa, usna in veerya, rucya, cures kasa, svasa, jvara, ugradaha and mukharoga. कटुफलस्तुवरस्तिक्तः क टुर्वातकफज्वरान् ह श्वासप्रमेहार्शः कासकण्ठामयारुचीः न[ IBpn) Katphala is tuvara, tikta, katu in rasa, cures vata kapha jvara, svasa, prameha, arsa, kasa, kantha amaya and aruci. कफरोगध्नं श्वासकासज्वरापहम IRjvl Katphala cures kapha roga, svasa, kasa and jvara कट्फलं

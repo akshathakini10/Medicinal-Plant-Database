@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c656b4f12a48fab2e22e4c5e15f2a5de
+Botanical Name: Cinnamomum macrocarpum HOOK.
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 5 languages. Kannada (6) - bhrynga, dalachini, dalacinni, dalchini, dalcini, lavangapatre Malayalam (8) - carua, chochakam, cocakam, ilavannam, karaupa, karuva, tamala, tvakpatram Sanskrit (4) - Sanskrit Comments  tamalapatra, tejapatra, tvacha, tvakpatra Tamil (7) - ilavangappattai, karuva, paria-lavanga-pattai, periya lavankappatai, periyalavangappattai, sirunagappu, talichappattiri Telugu (8) - lavanga, magacerulu, magacherulu, moddulavangapatta, talisapatramu, talisapatri, talishapatri, tamala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c656b4f12a48fab2e22e4c5e15f2a5de
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 541
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/541.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c656b4f12a48fab2e22e4c5e15f2a5de
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c656b4f12a48fab2e22e4c5e15f2a5de
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c656b4f12a48fab2e22e4c5e15f2a5de
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

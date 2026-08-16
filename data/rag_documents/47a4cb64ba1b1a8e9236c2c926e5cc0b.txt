@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 47a4cb64ba1b1a8e9236c2c926e5cc0b
+Botanical Name: Spiraea aruncus L.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Aruncus dioicus (WALTER) FERNALD
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. English (1) - goat s beard
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47a4cb64ba1b1a8e9236c2c926e5cc0b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47a4cb64ba1b1a8e9236c2c926e5cc0b/xclkon/0feea7383d39aa025219267f56901eb2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47a4cb64ba1b1a8e9236c2c926e5cc0b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

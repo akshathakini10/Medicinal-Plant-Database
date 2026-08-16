@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 102a61c47501cff5245cc51c23e5d873
+Botanical Name: Convolvulus arvensis L.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 50 Vernacular names found in 7 languages. English (4) - common binweed, common or field bindweed, cornbind, field binweed Hindi (9) - beri, haranpadi, harinpadi, heyranpatu, hiranpaddi, hiranpadi, hiranpagi, prasarna, prasarni Kannada (9) - baalike palya, bachhalu balli, bhoo chakra balli, bhoochakra balli, hasuraani balli, hessaarane balli, narangi balli, naranji balli, naringi balli Marathi (4) - chandvel, chaud-vel, haranpag, hiranpag Sanskrit (4) - Sanskrit Comments  bhadrabala, prosarani, rajbala, sarana Tamil (18) - cenkulampati, cenkulampatikkoti, conakaippantunacani, itukaucikacceti, itukaucikam, latcumanam, mankulam patampu, mankulampu#, mankulampu@, manmatavacceti, manmatavam, nallatali, naranji, narunakai, naruntali, naruntali2, narutali, vintuccam Urdu (2) - barilomayen, saqliyun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102a61c47501cff5245cc51c23e5d873
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102a61c47501cff5245cc51c23e5d873
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102a61c47501cff5245cc51c23e5d873
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102a61c47501cff5245cc51c23e5d873
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102a61c47501cff5245cc51c23e5d873
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d7cba5df72f05bb43eb7f423edf6936d
+Botanical Name: Crotalaria retusa L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 7 languages. Hindi (2) - ghunghunian, khunkhuniyan Kannada (2) - dingala, gejje gida Malayalam (9) - cana, kadukurakai, kattukirukirakkayi, kilukiluppa, kutiri, matrghatini, tandale-cotti, tandalecotti, tantalakkotti Marathi (3) - dingla, ghaghri, ghagri Sanskrit (4) - Sanskrit Comments  mahasanah, sanaghantika, sanapuspi, shanarghandika Tamil (2) - kilukiluppai, potu-gally-gista Telugu (8) - potti-gilligicha, pottigiligicca, pottigiligichcha, pottigiligittsa, pottigilligichcha, pottigilligichha, pottu galli geetsa, potugalligeetsa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7cba5df72f05bb43eb7f423edf6936d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7cba5df72f05bb43eb7f423edf6936d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d7cba5df72f05bb43eb7f423edf6936d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

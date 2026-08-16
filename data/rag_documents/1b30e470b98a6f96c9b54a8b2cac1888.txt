@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1b30e470b98a6f96c9b54a8b2cac1888
+Botanical Name: Myrtus communis L.
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 8 languages. English (1) - myrtle Hindi (3) - baragasha, murad, muradvilayatimehndi Kannada (1) - murukulu gida Marathi (2) - firangimethi, murt Sanskrit (1) - Sanskrit Comments  gandhamalati Tamil (6) - cativam, kulinaval, sadevam, tevam, tevamamaram, tevarkon Telugu (1) - chitti jama Urdu (12) - aas, barg-e-maurid, burg madar, hab-ul-as, habb-ul-aas (murad), hub-ul-as, maurid, murad, murad (aas), murid, ral safaid, tukhm-e-maurid
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b30e470b98a6f96c9b54a8b2cac1888
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b30e470b98a6f96c9b54a8b2cac1888
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b30e470b98a6f96c9b54a8b2cac1888
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b30e470b98a6f96c9b54a8b2cac1888
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b30e470b98a6f96c9b54a8b2cac1888
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b30e470b98a6f96c9b54a8b2cac1888
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gandhamalati
+sanskrit_name: गन्धमालती
+transliteration: gandhamālatī
+ref_drug_name: गन्धमालती
+status: Accepted source
+discussion: Gandhamalati' has been cited in Bhavaprakasa nighantu; Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

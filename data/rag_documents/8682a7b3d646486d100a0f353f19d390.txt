@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8682a7b3d646486d100a0f353f19d390
+Botanical Name: Alisma plantago-aquatica L.
+Family: Alismataceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Alisma plantago L. Alisma plantagoauatica L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. English (3) - mad-dog weed, water alisma, water plantain
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8682a7b3d646486d100a0f353f19d390/xclkon/ba19c4e6ea2811b325af4d4a9f4770cc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8682a7b3d646486d100a0f353f19d390/xclkon/a8ff2a40bfcb0db82fb97b091c0a8efd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8682a7b3d646486d100a0f353f19d390
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8682a7b3d646486d100a0f353f19d390/xclkon/ba19c4e6ea2811b325af4d4a9f4770cc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

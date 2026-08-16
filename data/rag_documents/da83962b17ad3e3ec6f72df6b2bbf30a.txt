@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: da83962b17ad3e3ec6f72df6b2bbf30a
+Botanical Name: Bischofia javanica BL.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 52 Vernacular names found in 6 languages. Hindi (7) - bhiliar, bhillar, kanji, kein, marak, paniala, panjala Kannada (21) - betta honne, gobbara nerale, gobra, gobra naerale, gobra nerale, gobranairul, gobranerul, goparinga mullu, goparini, goparinigurulle, govar nelu, govarnellu, naayural, nairul, neeli, neeli mara, nigurulle, nile, nili, nugallu, sile Malayalam (10) - cholavenga, mlachethayan, nanal, nannal, nili, nira, thirippu, thiripu, thiruppu, tirippu Marathi (1) - boke Tamil (8) - chola vengai, cholabengai, madagir-vembu, malapuvarasu, matakarivempu, milachadayan, milachityan, thondi Telugu (5) - nalupu-mushti, nalupu-musthi, nalupumushti, paanta, panta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da83962b17ad3e3ec6f72df6b2bbf30a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da83962b17ad3e3ec6f72df6b2bbf30a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da83962b17ad3e3ec6f72df6b2bbf30a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

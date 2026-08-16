@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bb5f14562647c870cc00e9a935993423
+Botanical Name: Colchicum autumnale L.
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 2 languages. English (6) - autumn crocus, colchicum, meadow saffron, naked boy, naked boys or ladies, naked ladies Urdu (3) - nim kofta, suranjan shirin, suranjan talkh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb5f14562647c870cc00e9a935993423
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb5f14562647c870cc00e9a935993423
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bb5f14562647c870cc00e9a935993423
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

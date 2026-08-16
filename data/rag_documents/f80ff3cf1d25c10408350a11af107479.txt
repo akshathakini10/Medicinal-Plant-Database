@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f80ff3cf1d25c10408350a11af107479
+Botanical Name: yris indica L.
+Family: Yridaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 5 languages. Hindi (3) - dabi-dulea, dabiduba, dadmari Malayalam (3) - kochilletri, kochillettipullu, kotsjiletti-pullu Marathi (1) - dadmari Sanskrit (2) - Sanskrit Comments  dadamari, dadumari Tamil (7) - koccilicci, koccilitti, koccilittippul, koccilittuppul, koch-chilittip-pullu, kotsjiletri, kotsjilletti-pullu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f80ff3cf1d25c10408350a11af107479
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f80ff3cf1d25c10408350a11af107479
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f80ff3cf1d25c10408350a11af107479
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f80ff3cf1d25c10408350a11af107479
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

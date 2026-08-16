@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2e7218768d20ee4acd8a076053ab349f
+Botanical Name: Goldfussia thomsonii (NEES) BREMEK.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Strobilanthes wallichii NEES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e7218768d20ee4acd8a076053ab349f/xclkon/d80a68679df064711d9c143245da5787
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e7218768d20ee4acd8a076053ab349f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2e7218768d20ee4acd8a076053ab349f/xclkon/d80a68679df064711d9c143245da5787
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

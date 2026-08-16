@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f8a3e874c6fc54d081c50263ce5a27c2
+Botanical Name: Ceiba pentandra (L.) GAERTN.
+Family: Bombacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Eriodendron anfractuosum BC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 165 Vernacular names found in 9 languages. English (2) - kapok, silk cotton Hindi (10) - hattian, huttian, katan, safed-semul, safedsemal, safedsimul, saphed simal, sufed-semal, sufed-senbal, tula-per Kannada (23) - ala, alada, apoorani, apoorni, apurani, bili booruga, bilibaralu, bilibarlu, bilibooruga, biliburaga, biliburga, biliburuga, booruga, buraga, buragada, burga, buruga, burugada, doodi, doodihatthi, dudi, elava, marali Malayalam (16) - ilavu, mullillapappula, mullillappula, nakuli, pamala, pania, panisla, panja, panni, pannimaram, panniyala, panya, panyi, panyiala, poola, pula Marathi (9) - pandhari, pandresavara, saalmali, safed savara, safedsavara, safetasavara, salmali, samali, shamieula Sanskrit (12) - Sanskrit Comments  chirayu, kutasalmali, kutashalmali, kutsitashalmali, moch, rochana, salmali, shalmani, shalmanivrikshah, shvetasalmali, sthirayu, svetashalmali Tamil (80) - acikai, akikai, apurani, ayika 1, ayikam 1, biliburfa, calamali, calamirittiran, callaki 4, callakimaram, camani, camani 1, canamali#, canamali$, canamali@, canamalikam, canamalikamaram, caranamalam, cilesmavarttani, cilettumavarttani, ciracivi, cirancivi, citakapi, citalicimitta, cittanmuki, cittanmukimaram, cukumaranul, cukumaratuli, cukumaratuvi, emanarvalli, icanam, ilakumaram, ilavam, ilavam 2, ilavam pinchu, ilavamaram, ilavu, ilavu maram, ilavumaram, irakaputpam, iyamanarvalli, kantapalam, kantapalamaram, kariyacu, karukkanam, katicakali, katicakalimaram, kukkati, matacaram, mocacani, mocacanimaram, mocai 2, mocani, mocaniriyacam, nariyilavamaram, nariyilavu, nattilavu, pancu, panji, panjimaram, piccila, purani 2, putpapani, terru, terrukam, tolam, tolaya, tulakikam, tulakikamaram, tulam 1, tulani, tulavirukkam, tuli, tulini, tulipalai, turanimoca, tuyarkantam, ulagamaram, ulakumaram, ulavamaram Telugu (12) - booruga, buraga, buruga, burugu, buruyasauna, cadami, kadami, poor, pur, tella buruga, tellaburaga, thellabooraga Urdu (1) - sambal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8a3e874c6fc54d081c50263ce5a27c2/xclkon/f63f46f53ea75d595820c56762f3699c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8a3e874c6fc54d081c50263ce5a27c2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8a3e874c6fc54d081c50263ce5a27c2/xclkon/f63f46f53ea75d595820c56762f3699c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8a3e874c6fc54d081c50263ce5a27c2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8a3e874c6fc54d081c50263ce5a27c2/xclkon/f63f46f53ea75d595820c56762f3699c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8a3e874c6fc54d081c50263ce5a27c2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8a3e874c6fc54d081c50263ce5a27c2/xclkon/f63f46f53ea75d595820c56762f3699c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8a3e874c6fc54d081c50263ce5a27c2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8a3e874c6fc54d081c50263ce5a27c2/xclkon/f63f46f53ea75d595820c56762f3699c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

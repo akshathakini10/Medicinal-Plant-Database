@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8b1702840a38e125a4fffeb40a34820b
+Botanical Name: Dalbergia sissoo ROB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 109 Vernacular names found in 10 languages. English (3) - sheesham, shisham wood, sisso Hindi (11) - shisham, shisham tali, sisam, sisham, sishum, sissai, sissu, sisu, tahli, tali, talli Kannada (26) - agara, agaru, aguru, bindi, birade, biradi, biridi, cishmabage, gette, hambachaaru, hambadavu, ibadi, ibadi mara, iragundimaavu, iragundimara, irugundimavu, irukuntimavu, karimara, nooke mara, shishmabage, shisso, shista baage, shivanakadalu, simsape, simsupe, sishmabage Malayalam (6) - irupul, iruvil, pivala-sesba, sisam, sissu, tali Marathi (4) - shisham, siso, sissu, sisva Sanskrit (20) - Sanskrit Comments  aguru, agurushinshupa, dhira, dhumrika, kalanusarya, kapila, kapila-sinsapa, krishnasara, krsnasara, mandalapatri, pichhila, pipala, shingshupa, shinshapa, shyama, simsapa, sinsapa, tivradhumaka, vira, yugapatrika Tamil (24) - cicamaram, cice, cicu#, cicu@, cicumaram, cincupam, gette, itti, kannacaram2, kiruttinacarucapam2, nakku-kattai, nukkam, nukku, nukku2, nuku-kattai, piccai2, pichai, sisham, sissoo, sisu, sisu-itti, tesimaram, vellitti 2, yette Telugu (9) - errasisso, errasissu, ettasissu, sinsupa, sissoo, sissu, sissu-karra, sissukarrha, yerrasissu Tibetan (2) - si sa ba, sim sa pa (p) Urdu (4) - burada shisham, burada shishan, sheesham, shisham
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 756
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/756.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b1702840a38e125a4fffeb40a34820b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Simsapa
+sanskrit_name: शिंशपा
+transliteration: śiṃśapā
+ref_drug_name: शिंशपा
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Simsapa
+sanskrit_name: शिंशपा
+transliteration: śiṃśapā
+ref_drug_name: शिंशपा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Simsapa
+sanskrit_name: शिंशपा
+transliteration: śiṃśapā
+image_urls: https://www.medicinalplants.in/slokaimages/572/572_1.jpg https://www.medicinalplants.in/slokaimages/572/572_2.jpg https://www.medicinalplants.in/slokaimages/572/572_3.jpg https://www.medicinalplants.in/slokaimages/572/572_4.jpg https://www.medicinalplants.in/slokaimages/572/572_5.jpg https://www.medicinalplants.in/slokaimages/572/572_6.jpg https://www.medicinalplants.in/slokaimages/572/572_7.jpg https://www.medicinalplants.in/slokaimages/572/572_8.jpg
+ocr_text: शिंशपाकृष्णसाराचपिपलीयुगपत्रिका| पिच्छलाधूम्रिकावीराकपिलागुरुशिंशपा | | Synonyms of simsapa are krsna sara, pippaliyugapatrika, picchila, ahumrika, vira kapila agaru. and श्वेतशिंशपानामानि शिंशपान्याश्वेतपत्रासिताह्वादिश्चशिंशपा | | Synonyms of sveta simsapa are sveta patra and asita. कपिलशिंशपानामानि कपिलाशिंशपाचान्यापीताकपिलशिंशपा सारिणीकपिलाक्षीचभस्मागर्भाकुशिंशपा | Synonyms of kapila simsapa are pita simsapa, kapila simsapa, sarini, Kapilaksi, bhasma, garbha akhu simsapa. शिंशपागुणाः शिंशपाकटुकातिक्ताकषायाशोषहारिणी उष्णवीर्य्याहरेन्मेदःकुष्ठश्वित्रवमिकृमीन्| | वस्तिरुग्व्रणदाहास्रबलासान्गर्भपातिनी IBpn) Simsipa is katu, tikta, kashaya in rasa, usna in veerya, alleviates sosa, meaa kustha, svitra, vami, krmi, vasti rug, vrana, daha, asra, balasa and garbha patini. शिंशपादद्रुशोफघ्नीकुष्ठजीर्णज्वरापहा Simsapa cures daaru, sopha, kustha and jirna jvara. श्यामादिशिंशपातिक्ताकटूष्णाकफवातजित्| कुष्ठजीर्णहरादीप्याशोफातीसारहारिणी Syama simsapa is tikta, katu in rasa, usna in veerya, dipya, alleviates kapha, vata, kustha, ajirna, sopha and atisara. श्वेतशिंशपागुणाः श्वतादिशिंशपातिक्ताशिशिरापित्तदाहनुत् | Sveta simsapa is Tikta in rasa, Sita in virya, Pitta daha hara. कपिलशिंशपागुणाः कपिलशिंशपातिक्ताशीतवीर्य्याश्रमापहा वातपित्तज्वरघ्नीचच्छर्द्दिहिक्काविनाशिनी | | Kapila simsapa is Tikta in rasa, Sita in virya, Srama hara, Vata pitta jvaraghna, Chardi hikka nasana.

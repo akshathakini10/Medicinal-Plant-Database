@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: eaa77b9691b1c32f2a8fe0320dd05aae
+Botanical Name: Hedyotis herbacea L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Oldenlandia herbacea (L.) ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 7 languages. English (1) - oldenlandia Hindi (2) - daman-paper, paper-bhed Kannada (2) - kaag purale, kallasabatrasige Malayalam (2) - nonnanampullu, scanganam-pulli Sanskrit (2) - Sanskrit Comments  chayaparpatika, parpatakah Tamil (4) - kattuk kottamalli, nankanam pul, nonnanampullu, parpadagam Telugu (4) - chiriveru, thella nela vaemu, verri nelavaemu, verrinelavemu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae/xclkon/8904bda72aea3a52ed8576395d3d6e56
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1110
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1110.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae/xclkon/d6dd12c82f70d7e1b3b28b53da527a78
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae/xclkon/8904bda72aea3a52ed8576395d3d6e56
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae/xclkon/d6dd12c82f70d7e1b3b28b53da527a78
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae/xclkon/8904bda72aea3a52ed8576395d3d6e56
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae/xclkon/d6dd12c82f70d7e1b3b28b53da527a78
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae/xclkon/8904bda72aea3a52ed8576395d3d6e56
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae/xclkon/d6dd12c82f70d7e1b3b28b53da527a78
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eaa77b9691b1c32f2a8fe0320dd05aae/xclkon/8904bda72aea3a52ed8576395d3d6e56
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

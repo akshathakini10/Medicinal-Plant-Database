@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d3ec47e42e41664a74034fbe598163f0
+Botanical Name: Musa sapientum O.KUNTZE
+Family: Musaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Musa sapietum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 139 Vernacular names found in 8 languages. Hindi (6) - amrit, kachkula, kela, kela or kelah, kele-ka-per, maozkula Kannada (27) - bale, bale-gida, bale-hannu, budibale, candrabale, chandrabalai, chandrabale, elakkibale, elebale, gulurbale, havubale, hombale, jainbale, jenubale, kadali, madarangabale, madrangabale, puttabale, puttubalai, rajabalai, rajabale, rasabale, rasabalei, rasadale, rasthalai, yelakkibalai, yellakkibale Malayalam (11) - etavala, ettakkaya, kadalam, karinkadali, kashthhila, kunnan, pichchha, puvan, vala, vannan, vazha-maram Marathi (5) - kadali, kel, kel-ambo, kela, keli Sanskrit (32) - Sanskrit Comments  alabu, ambusara, amsumatphala, balakapriya, bhanuphala, charmannvati, dirghapatra, guchhandatika, hastivisa, hastivishani, kadali, kashthhila, kasthila, moca, mocha, mochaka, nagaranshadhi, nisara, rajeshta, rambha, rodraka, sakritphala, sukumara, suphala, tatpatri, urustambha, vana laxmi, vanabhhusha, vanalakshmi, varanabusa, varanavallabha, varavriksha Tamil (31) - ambanam, ampanam, angusam, arambai, arampai, arayakkommai, arbaruttam, aresigam, asogamirasandalai, atukanam, iracam, jadi pattiri, kadali, katalittol, kavar, kavargali, navarai, ocai, peyan valai, peyvalaippalam, racatali, utiravalai, valai, valaikkilanku, valei, vashai, vazh-ai-ch-chedi, vazhai, vazhai kathali, vazhaip-pazham, vizhaip-pazham Telugu (26) - amritapany, amrytapani, ananti, anati, anati-chettu, anti, arati, arati-chettu, ariti, batisa, bontarati, cakrakeli, chakrakeli desavalachakrakeli, chakrakeliariti, desavalacakrakeli, erracakrakeli, errarati, errayarati, kadalamu, kadali, karpuracakrakeli, natabam, sugandhalu, teneyarati, yerraarati, yerracakrakeli Urdu (1) - kela
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3ec47e42e41664a74034fbe598163f0/xclkon/44e39bf6477535cde9d50bebaa16b448
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3ec47e42e41664a74034fbe598163f0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3ec47e42e41664a74034fbe598163f0/xclkon/44e39bf6477535cde9d50bebaa16b448
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3ec47e42e41664a74034fbe598163f0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3ec47e42e41664a74034fbe598163f0/xclkon/44e39bf6477535cde9d50bebaa16b448
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3ec47e42e41664a74034fbe598163f0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3ec47e42e41664a74034fbe598163f0/xclkon/44e39bf6477535cde9d50bebaa16b448
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3ec47e42e41664a74034fbe598163f0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d3ec47e42e41664a74034fbe598163f0/xclkon/44e39bf6477535cde9d50bebaa16b448
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

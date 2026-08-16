@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8573aec452d552b86ea2d5cc47069cc7
+Botanical Name: Ficus talboti G.KING
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 2 languages. Sanskrit (4) - Sanskrit Comments  parkataki, plaksa, plaksah, plaksha Tamil (7) - cuvi, intiri, itthi, itti, kal-ithi, kal-itthii, kalitti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8573aec452d552b86ea2d5cc47069cc7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8573aec452d552b86ea2d5cc47069cc7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8573aec452d552b86ea2d5cc47069cc7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Plaksa
+sanskrit_name: प्लक्ष
+transliteration: plakṣa
+ref_drug_name: प्लक्ष
+status: Accepted source
+discussion: Identified with Plaksa in other parts of the country
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Plaksa
+sanskrit_name: प्लक्ष
+transliteration: plakṣa
+image_urls: https://www.medicinalplants.in/slokaimages/746/746_1.jpg https://www.medicinalplants.in/slokaimages/746/746_2.jpg https://www.medicinalplants.in/slokaimages/746/746_3.jpg
+ocr_text: प्लक्ष कटुकषायश्च शीतलो रक्तपित्तजित् मूर्च्छाश्रमप्रलापाश्च हरेत् प्लक्षो विशेषतः Dhn) Plaksa is katu, kashaya in rasa, sita in veerya, alleviates raktapitta murccha srama and pralapa. प्लक्षः कटुकषायश्च शिशिरो रक्तदोषजित् मूर्छाभ्रमप्रलापघ्नो ह्रस्वप्लक्षो विशोषकः | | IRjn) Plaksa is katu , ksahaya in rasa, sita in veerya, alleviates rakta dosha, murccha, bhrama, pralapa, hrasva and is visosaka. प्लक्षः कषायः शिशिरो व्रणयोनिलगदापहा दाहपित्तकफामघ्नः शोथहा रक्तपित्तहृत्| | रक्तदोषहरो मूर्च्छाप्रलापभ्रमनाशनः [ IBpnl Plaksa is kashaya in rasa, sita in veerya, is vranya, alleviates anila, gada, aaha, pitta, kapha, ama, sotha, raktapitta, rakta aosha, murccha, pralapa and bhrama

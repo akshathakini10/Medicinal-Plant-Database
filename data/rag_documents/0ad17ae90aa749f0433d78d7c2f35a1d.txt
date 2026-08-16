@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0ad17ae90aa749f0433d78d7c2f35a1d
+Botanical Name: Anogeissus latifolia WALL. E. GUILL. & PERR.
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Conocarpus latifolia ROB. E. DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 130 Vernacular names found in 10 languages. English (2) - dhawa, gatty gum Hindi (22) - bakali, bakla, bakli, bankli, chal, chhal, dhamda, dhamoda, dhao, dhaoya, dhau, dhaunda, dhaura, dhauri, dhauta, dhava, dhawadi, dhawda, dhokla, dhow-safed, dhuri, dohu Kannada (27) - bejalu, bejil, bejjal, bejjalu, bejjeri, bejulu, bellundoo, bellundu, biggiri, bijal, dhebri, dhibedi, dhinduga, dindaga, dindal, dindala, dindalu mara, dindhlu, dindiga, dindlu, dindu, dinduga, dindulu, dividagu, jejjalu, shrivaaru, tirapu Malayalam (11) - dindallu, malakanniram, malukkanniram, marukanchiram, marukanniram, mazhkanjiram, njama, vellanaga, vellanava, vellaynaga, vellaynagulu Marathi (6) - daura, dawnra, dhamora, dhaora, dhauda, dhavda Sanskrit (23) - Sanskrit Comments  baka, dhava, dhavah, dhavala, dhurandhara, dridhataru, gaura, ghata, kashaya, madhura-tvacha, madhuratvacha, madhuratvaka, nanditaru, pandura, pandutaru, pisacavrksa, pishachavriksha, pitaphala, shakatakhya, shushkanga, shushkavriksha, sthira, vakavraksha Tamil (23) - ekariyam, ekariyamaram, nakam, namai, tara2, tintukam2, tintukanka2, tintukim1, vakkali, vekkali, vekkali 1, vel-naga-maram, vellai-nagai, vellainakai, vellainakam, vellainamai, vellanaga, vellanagai, vellanamai, vellay naga, venkali 1, vennakai, vetkali Telugu (14) - cheriman shertinamu, chiru manu, chirumaanu, chirumanu, elama, shirimaanu, shirimanu, sirimaanu, sirimanu, thirumaanu, tiruman, vellama, yelama, yellamuddi Tibetan (1) - da pa Urdu (1) - gul-e-dhawa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d/xclkon/60ac6b8394e96e420dfd0742b99735e9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 194
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/194.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d/xclkon/60ac6b8394e96e420dfd0742b99735e9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d/xclkon/60ac6b8394e96e420dfd0742b99735e9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d/xclkon/60ac6b8394e96e420dfd0742b99735e9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d/xclkon/60ac6b8394e96e420dfd0742b99735e9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ad17ae90aa749f0433d78d7c2f35a1d/xclkon/60ac6b8394e96e420dfd0742b99735e9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhava
+sanskrit_name: धव
+transliteration: dhava
+ref_drug_name: धव
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dhava
+sanskrit_name: धव
+transliteration: dhava
+image_urls: https://www.medicinalplants.in/slokaimages/140/140_1.jpg https://www.medicinalplants.in/slokaimages/140/140_2.jpg
+ocr_text: धवः शीतः प्रमेहार्शः पाण्डुपित्तकफापहः मधुरस्तुवरस्तस्य फलं तु मधुरं मनाक् II (Bpn) Dhava is madhura, tuvara in rasa, sita in veerya alleviates pitta, kapha and cures prameha, pandu Its phala is madhura in rasa. धवः कषायः कटुकः कफघ्नोडनिलनाशनः पित्तप्रकोपनो रुच्यो विज्ञेयोः दीपनः परः II (Rin) Dhava is kashaya, katu in rasa, alleviates vitiation of kapha and anila, increases pitta, is rucya and highly dipana in action.

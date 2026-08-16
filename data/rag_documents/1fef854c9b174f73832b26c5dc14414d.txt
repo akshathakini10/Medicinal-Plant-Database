@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1fef854c9b174f73832b26c5dc14414d
+Botanical Name: Peucedanum dhana BUCH.-HAM.E CLARKE var. dalzelii C.B.CLARKE
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Hindi (1) - bhoj-raj
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fef854c9b174f73832b26c5dc14414d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1fef854c9b174f73832b26c5dc14414d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aticchatra
+sanskrit_name: अतिच्छत्रा
+transliteration: aticchatrā
+ref_drug_name: अतिच्छत्रा
+status: Suggested source
+discussion: This species is known as Kamaraja and Tejaraja in the Vindhya forests which needs to be examined
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

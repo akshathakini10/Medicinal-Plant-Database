@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b9880fdf888850fe2f4fc4134a4e94fa
+Botanical Name: Terminalia catappa L.
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 103 Vernacular names found in 8 languages. English (4) - barbados almond, indian almond, indian barbados, wild almond Hindi (9) - badam, badami, deshi-badam, hijli-badam, hindi-badam, hindibadam, jangli-badam, janglibadam, patee-badam Kannada (22) - ada, baadaami, badami, badami-mara, badamu, deshee baadami, gaare kaayi, ingudi mara, kaadu baadaami, kadubadami, katubadamu, naadu baadaami, naadu badaami, nat-badami, natubadami, olagra, olegra, taree, thaapasaru, urubadami, uruvadami, valagra Malayalam (14) - ada, adamaram, ata, badam, katappa, kotta-kuru, kottakkuru, natbadam, nattu-badam, nattubadam, natvadam, talitanna, talitenna, thallithenga Marathi (10) - amenamchem, bangaali baadaam, bemgali, bengalibadam, desi-badam, hirani baadaam, hiranibadam, jangli baadaam, janglibadama, natbadam Sanskrit (10) - Sanskrit Comments  desabadama, deshabadamitte, grahadruma, inggudi, ingudi, kshudrabadama, kshudrabija, tailaphala, tapasataruvu, vatama Tamil (16) - amandi, amandi-maram, nat vadom, nattoo vadomchottay, nattu-vadam, nattu-vadam-kottai, nattuvadumai, natvadom, pinga, siruppinga, vadham, vadumai, vatha-kottai, vathakottai, vatumai, vatumai-k-kottai Telugu (18) - baadaamu chettu, badam, badam chettu, badami, badamu, batham, ingudi, karakaaya, naatubaadaamu, nattu-badam-vittulu, natu badami, natubadamu, tapasataruvu, thaapasatharuvu, uadam vitthiloo, vadam, vadamvitelloo, vedam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9880fdf888850fe2f4fc4134a4e94fa
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9880fdf888850fe2f4fc4134a4e94fa
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9880fdf888850fe2f4fc4134a4e94fa
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9880fdf888850fe2f4fc4134a4e94fa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b9880fdf888850fe2f4fc4134a4e94fa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

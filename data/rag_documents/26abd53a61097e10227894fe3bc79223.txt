@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 26abd53a61097e10227894fe3bc79223
+Botanical Name: Kalanchoe integra (MEDIK.) KUNTZE.
+Family: Crassulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Kalanchoe spathulata DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Hindi (2) - bish kobra, jakhnihayat Kannada (1) - kumuda gedde Sanskrit (1) - Sanskrit Comments  parnabija
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223/xclkon/96e1992ce74b4be263d933b02aa41c5f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223/xclkon/96e1992ce74b4be263d933b02aa41c5f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/26abd53a61097e10227894fe3bc79223/xclkon/96e1992ce74b4be263d933b02aa41c5f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Parnabija
+sanskrit_name: पर्णबीज
+transliteration: parṇabīja
+ref_drug_name: पर्णबीज जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Parnabija - jati
+sanskrit_name: पर्णबीज जाति
+transliteration: parṇabīja jāti
+ref_drug_name: पर्णबीज जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

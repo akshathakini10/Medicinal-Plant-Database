@@ -1,0 +1,76 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 15f0724866331d238de92cbc096eb7fd
+Botanical Name: Garcinia cowa ROB. E  DC.
+Family: Clusiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Garcinia kydia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Sanskrit (3) - Sanskrit Comments  dvipaja, dvipakharjuri, paravata
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd/xclkon/883ce65ab8edd8d1c71c9d6e60d63eba
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd/xclkon/883ce65ab8edd8d1c71c9d6e60d63eba
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15f0724866331d238de92cbc096eb7fd/xclkon/883ce65ab8edd8d1c71c9d6e60d63eba
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kosamra
+sanskrit_name: कोशाम्र
+transliteration: kośāmra
+ref_drug_name: कोशाम्र
+status: A-C
+discussion: It has been identified with this species in Bihar
+reference: [1]
+
+Identity Record 2
+drug_name: Kuvala
+sanskrit_name: कुवल
+transliteration: kuvala
+ref_drug_name: कुवल
+status: Most probable
+discussion: Likely to be considered as the fruit of Garcinia cowa which is called as Cova or Kusuma in Bihar
+reference: [1]
+
+Identity Record 3
+drug_name: Paravata
+sanskrit_name: पारावत
+transliteration: pārāvata
+ref_drug_name: पारावत
+status: Accepted source
+discussion: With regard to its habitat, morphology, etc it is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kosamra
+sanskrit_name: कोशाम्र
+transliteration: kośāmra
+image_urls: https://www.medicinalplants.in/slokaimages/1067/1067_1.jpg https://www.medicinalplants.in/slokaimages/1067/1067_2.jpg https://www.medicinalplants.in/slokaimages/1067/1067_3.jpg
+ocr_text: कोशाम्रश्चघनस्कन्धोवनाम्रोजन्तुपादपः क्षुद्रोम्रश्चेतिरक्ताम्रोलाक्षावृक्षःसुरक्तकः | | Synonyms of Kosamra are ghanaskanaa, vanamra, jantu padapa, ksudra amra, raktamra laksha vrksa and suraktaka कोशाम्रकुष्ठशोथास्रपित्तव्रणकफापहः It alleviates kapha and cures kustha, sotha, asra, pitta and vrana अपक्वफलगुणाः तत्फलंग्राहिवातघ्नमम्लोष्णंगुरुपित्तलम्| Its phala is amla in rasa, usna in veerya, guru, grahi in guna, alleviates vata and increases pitta.

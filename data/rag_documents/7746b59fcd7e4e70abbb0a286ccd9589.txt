@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7746b59fcd7e4e70abbb0a286ccd9589
+Botanical Name: Polypodium vulgare L.
+Family: Polypodiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 2 languages. English (5) - female fern, polypody, rock brake, sweet fern, wood licorice Urdu (3) - basfaif, bisfaij, bisfaij nim kofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7746b59fcd7e4e70abbb0a286ccd9589
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7746b59fcd7e4e70abbb0a286ccd9589
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7746b59fcd7e4e70abbb0a286ccd9589
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

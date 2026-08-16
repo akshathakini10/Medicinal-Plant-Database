@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 67c01be4ddfd42723c0b1f1af1c9d0d5
+Botanical Name: Chenopodium murale L.
+Family: Chenopodiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Hindi (1) - goyalo
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67c01be4ddfd42723c0b1f1af1c9d0d5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/67c01be4ddfd42723c0b1f1af1c9d0d5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vastuka
+sanskrit_name: वास्तुक
+transliteration: vāstuka
+ref_drug_name: वास्तुक
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Vastuka
+sanskrit_name: वास्तुक
+transliteration: vāstuka
+ref_drug_name: वास्तुक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

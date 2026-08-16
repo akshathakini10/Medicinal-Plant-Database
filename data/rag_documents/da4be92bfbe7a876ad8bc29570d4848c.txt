@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: da4be92bfbe7a876ad8bc29570d4848c
+Botanical Name: Cissus repens LAM.
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Vitis repens WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 5 languages. Kannada (5) - elakombullaballi, kondage balli, manda kumbala, marade, yelekombu balli Malayalam (3) - meriampulli, neriam-pulli, nerinnampuli Marathi (2) - basil, kadu-vel Sanskrit (1) - Sanskrit Comments  amlavetasah Telugu (4) - gummaditige, ladayikottam, nelaboddu, pasupugodanitegani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da4be92bfbe7a876ad8bc29570d4848c/xclkon/fd5b90bb6d9e68e780690516f7fc994e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da4be92bfbe7a876ad8bc29570d4848c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da4be92bfbe7a876ad8bc29570d4848c/xclkon/fd5b90bb6d9e68e780690516f7fc994e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da4be92bfbe7a876ad8bc29570d4848c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/da4be92bfbe7a876ad8bc29570d4848c/xclkon/fd5b90bb6d9e68e780690516f7fc994e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

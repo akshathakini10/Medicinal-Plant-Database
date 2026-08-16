@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c18a72505452a7ec576c3d5ea3e43ba6
+Botanical Name: Nerium oleander L.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Nerium indicum MILLER
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 207 Vernacular names found in 10 languages. English (2) - oleander, rose-bay Hindi (11) - chandni, ganer, ghanira, ghanira gandheela, kanel, kaner, kanir, karabera, karber, karuvira, kuruvira Kannada (32) - ashva maaraka, biligampuganagile, biliganagalu, biliganagile, biligempuganagile, bilikanigile, chandaatha, dhavekaneri, ganagalu, ganigalu, kanagalu, kanagile, kanagilu, kanigalu, kanigile, kanigile hoo, kanigilu, kanigina, kannagilu, karaveera, karavira, kasthoori jaaji patte, kasthoori patte, kempu kanigile, kempuganagalu, kempuganagile, paddale, paddale gida, paddali, paddalige, seemekanagilu, simakanagile Malayalam (17) - alari, arali, belluta-areli, beluttaareli, ccuvannarale, chuvannalari, chuvannarali, cuvannarali, kanaviram, karaviram, raktapushpam, raktapushpan, satraprasam, tsjovanna-areli, tsjovannareli, tsojavannaaralee, veluttarali Marathi (6) - dhavi-kaneri, kanera, kaneri, kanhaer, kanher, pandare kanhaeri Sanskrit (21) - Sanskrit Comments  ashvamaraka, ashwamaraka, asvaghna, asvahana, asvamara, asvamaraca, asvamaraka, chandata, harapriya, hayamaraca, hayamaraka, karavira, karavirabheda, karavirah, karravira, pratihasa, pratilasa, raktapushpa, sataprasa, virahuha, vishavrykshanka Tamil (99) - aayamaram, acupaparicceti, acupari, acuparicceti, acuvalari, acuvamarakam, acuvamri, acuvapari, acuvapari#, acuvapari@, acuvarali, agam, aintiracili, aintiracili 1, alakiritai, alareievayr, alari, alarida, alarita, alaritacceti, ammaram, anantamuli, ananthamuli, arali, aralivayr, asuvabari, atirapuracatan, atirapuracattan, atukkalari, ayam, ayam 1, ayamarakam, ayamaram, ayamaram#, ayamaram@, canta, catappiracam, catcuciyam 1, centalari, centarali, cevvalari, citakumpam, eluniralari, eluniralaricceti, eluttatakacceti, eluttatakam, irattai sivapparali, irattaichegappayalari, irattaichivappalari, irulmukacceti, kaccantam, kalakunattan, kanavalar, kanaveeram, kanaviram, kanaviram#, kanaviram@, kanaviri, kantapiram, karaviram, karaviram#, karaviram@, katampalakanitam, katampalakkanitam, katturipattai, katturippattai, kaviracceti, kaviram, kaviram$, kaviram@, kayiram, kuntam 1, kuttarali, maracu, mattam, mukaiyalari, mukaiyalarimaram, nakaravam, nerutalanavi, niculam, nilampuriyal, putpapaciyam, sevvarali, taina, ticcanapattiracceti, ticcanapattiram, titcanapattiracceti, titcanapattiram 1, tivviyaputpam, ucikkanuvalam, ulikanuvalam, uttiparippuntu, uttiparipuntu, valari, vellai arali, vellaiiruvalli, vellaiyalari, yacuvapari, yacuvaparicceti Telugu (16) - erra ganneru, erragannaeru, erraganneru, ettaganneru, gannaeru, ganneru, ghenneru, karaveeramu, karaviram, karaviramu, kassturipatte, kasthooripatte, kasturi-patte, kasturipatta, kasturipatte, kasturipattu Tibetan (1) - ka ra bi ra Urdu (2) - chal anchari, kaner
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/5c58222df220afa440e7749a73753f84
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1506
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1506.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/5c58222df220afa440e7749a73753f84
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/5c58222df220afa440e7749a73753f84
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/5c58222df220afa440e7749a73753f84
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/5c58222df220afa440e7749a73753f84
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/5c58222df220afa440e7749a73753f84
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/e28f90e510403149afcbe58b4d747f6e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c18a72505452a7ec576c3d5ea3e43ba6/xclkon/5c58222df220afa440e7749a73753f84
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Karavira
+sanskrit_name: करवीर
+transliteration: karavīra
+image_urls: https://www.medicinalplants.in/slokaimages/1162/1162_1.jpg https://www.medicinalplants.in/slokaimages/1162/1162_2.jpg
+ocr_text: करवीरः वीर्ये चोष्णो ज्वरापहः चक्षुष्यः कुष्ठकण्डूघ्रः प्रलेपाद् विषमन्यथा | करवीरद्वयं तिक्तं सविषं कुष्ठजित् कटु I IDhnl Karavira is katu, tikta in rasa, usna in veerya , caksushya, cures jvara, kustha, kandu, on pralepana it is visa hara. Karaviradvaya is tikta, katu in rasa, cures visha and kustha. कटुस्तिक्तो करवीरः कुष्ठकण्डूविनाशवनः Karavira is katu in rasa, tiksna in guna, cures kustha and kandu. कटुस्तीक्ष्णः

@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c19f369f2296014bbfabbf7bbde60cf1
+Botanical Name: Ecbolium viride (FORSK.) ALSTON
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ecbolium linneanum KURZ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 7 languages. Hindi (2) - udajat, udajati Kannada (10) - kappabobbuli, kappakurni, kappu bobbali, kappu karni, kappubobbili, kappubobbli, kappubobbuli, kappukarni, kappukuruni, neela abbalige Malayalam (7) - carim-cunni, carimcurini, karikurini, karimkurunni, karinkurinni, koranda, kuranta Marathi (4) - dhaktaadulsa, pokso, ran-aboli, ranaboli Sanskrit (3) - Sanskrit Comments  nila-sahacarah, sahacarah, sairyakah Tamil (3) - nilaambari, nilambari, nilampari Telugu (12) - cheekatikoorathuppa, chikatiquratappa, cikatikuratappa, nakka toka, nakkathoka, nakkatoka, paccavadambaramu, pacha vaadambaramu, pachavaadaamramu, pachavadambaramu, pachchavadambaram, pachha vaadambaram
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1/xclkon/98495e0d4315cafc075d2fd9e60b45c1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 868
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/868.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1/xclkon/2517f758e7e709a2e7606a8cdba59028
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1/xclkon/2cb3241d0e34afd090dba7383f82bca2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1/xclkon/98495e0d4315cafc075d2fd9e60b45c1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1/xclkon/2517f758e7e709a2e7606a8cdba59028
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1/xclkon/2cb3241d0e34afd090dba7383f82bca2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1/xclkon/98495e0d4315cafc075d2fd9e60b45c1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1/xclkon/2517f758e7e709a2e7606a8cdba59028
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1/xclkon/2cb3241d0e34afd090dba7383f82bca2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c19f369f2296014bbfabbf7bbde60cf1/xclkon/98495e0d4315cafc075d2fd9e60b45c1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

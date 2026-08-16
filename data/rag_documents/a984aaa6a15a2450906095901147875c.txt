@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a984aaa6a15a2450906095901147875c
+Botanical Name: Desmodium motorium (HOUTT.) MERR.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Desmodium gyrans DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 5 languages. Hindi (1) - dudli Kannada (4) - aelemudure, naagathagare, nagar gare, nagatagare Malayalam (1) - nagatakari Tamil (1) - thozhuganni Telugu (2) - thozhuganni, touganni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a984aaa6a15a2450906095901147875c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a984aaa6a15a2450906095901147875c/xclkon/36be4a5965888a90776c987c96529a91
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a984aaa6a15a2450906095901147875c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

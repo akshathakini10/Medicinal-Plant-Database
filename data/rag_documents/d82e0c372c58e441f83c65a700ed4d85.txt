@@ -1,0 +1,124 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d82e0c372c58e441f83c65a700ed4d85
+Botanical Name: Holarrhena pubescens (BUCH.-HAM.) WALLICH E DO
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Holarrhena antidysenterica (ROTH.) A.DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 339 Vernacular names found in 10 languages. English (4) - conessi, kumbanzo, kurchi bark, tellichery bark Hindi (33) - akariya, dhudi hat, dudhie, dundi, inderajo, kad ankadiya, kad-ankadiya, kadwa, kara, karchi, kari, karra, karva-indarjou, karvaindarjau, kaura, kaureya, keor, kero, kod, koorwa, kora, kuar, kuda, kura, kurci, kureya, kuri, kurwa, kutaja, major phali, marod phali, maror phali, pandrakuda Kannada (51) - dadsaloo haale, haale, haalemara, halagathi, hale, hale hirekodasige kodasige, hire kanigu, hire kodsige, hirekodasa, hirekodasige, hirekodsa, ilndrajaala, kadgalmarga, kahikodseege mara, kinja, kodachaga, kodagasana, kodamuraka, kodamurike, kodamuriki, kodamuruka, kodanji, kodasa, kodasaga, kodasalu, kodasiga, kodasigana gida, kodasige, kodisa, kodisige gida, kodumuruka, kodumurukanabeeja, kolisapaala, korasigana gida, korasigina-gida, korchu, korisiga, korisigina, korju, kudsaalu, kudsalu, kurchi, madarsa, nangero, nangu, sannahale, sennahale, vatsaka, vepala, veppaale, veppale Malayalam (20) - cadagapala, codaga-pala, kaipakkotakappala, kaipakotakap-pala-vitta, kaippakkotakappala, kamlipala, kodagapala, kotakappala, kudagappala, kutakappala, kutapala, pala, palappatta, pali, pana, panipala, panipalai, pannipal, vempala, venpala Marathi (12) - bedaki, dhavo-kudo, kodaga, kuda, kudaa, kudo, kura, kurra, paandaara, paandharakuda, pandharakuda, pandharakura Sanskrit (45) - Sanskrit Comments  girimallika, indra, indradu, indravrksa, indrayava, indrayavah, indrayavaphala, ka, kahi, kali, kalinga, kalingah, kalingayava, katuka, kauta, kautaja, kayaya, kita, kshiri, kutacah, kutacodbhavah, kutaja, kutajah, kutajapuman, lingaka, mahagandha, mallikapushpa, pandura, panduradruma, pravrishenya, pravrishya, raktanashaka, sakra, sakrasakan, sangrahi, shakra, shakrapadapa, shakrashana, shakravhaya, vatsa, vatsika, vrikshaka, vrksaka, yava, yavaphala Tamil (114) - arularaci, arularici, arulati, cailappalai, cevvaku, cevvakuppalai, citalatirusnaticari, erukkalai-palai, erukkalaipalai, erukkilaippalai, godachali, indrabam, intiram, intirapalam, intirapam, intirarekai, intirarekam, intirekam, intirepam, intiriyappalai, intiriyappalaimaram, intiriyavam, kacappu, kacappuvetpalai, kaippalai#, kaippalai@, kaippuvetpalai, kalingam, kalinkam, kamalakamaram, kamam, kamappalai, kamappalaimaram, kampalikkontan, kampalikontanmaram, kanattaticaram 1, karupalai, kasappuveppalai, kashappu-vetpa-larishi, kashappu-vetpalarishi, katappaimaram 1, katuacappalai, kautatam, kavatakam, kaviyankam, kavutakam, kirimalligai, kirimallikai 1, kirimallippalai, kirimallippalaimaram, kirtti, kodagapalei, kodappalai, kotacapalai, kudagappalai, kudasam, kudasap-palai, kudasapalai, kudasappaalai pattai vidai, kudasappalai, kukkuram, kukkurappalai, kulap-palaivirai, kulappalai, kulappalai 2, kumpampalai, kumpovaccam, kuram 1, kurattikam, kurimalli, kurimallimaram, kutacam, kutacap palai, kutacappalai, kutacappalai 2, kutaco, kutakam 1, kutakapalai, kutakuvetpalai, kutappalai, kutasapalai pattai, kutasappalai, kuthuppaelai, lailu, lailuppalai, mallikaputpi, maravuka, maravukappalai, palai, palai 3, paliral, patamaki, patamakippalaimaram, putakecari, qudrabam, tavittan, tavittanmaram, tittam, vaccakam 1, varacamam, varcam, varcamam, vattakam, veppalai, veppalei, vetpalai, viracakam, viracakappalai, viritam, viritamaram, virutcatam, visanacam, yutita, yutitappalai Telugu (51) - aaku paala, amkudu, amkudu-vittulu, cedukodise, chedu-kodisha-vittulu, chedukodise, chedukodisha, chittipala, codagopala, girimalika, girimallika, girimallike, indra, indravrakshamu, istarakupala, istaripala, isthsaka, kakakodise, kakakodisha, kalingamu, kanithi, kodaga, kodisa, kodisapala-vittulu, kodisepala, kodisha, kolamukhi, kolamukka, kolamukki, kolamukri, kutajamu, manupala, pal, pala, pala chettu, palabariki, palabarranki, palaboraki, palacadija, palakodisa, palakodise, palakodisha, palankudu, palavareni, peddaankudu, peddankudu, tedla pala, vistarakupala, vistrakupala, vrikshaka, yavaphala Tibetan (5) - dug mo yuns kyi sa bon, dug nun, dug-mo-nun, dug-mo-nun-ga, dun mo yuns Urdu (4) - inderjao talkh, kuray ki chal, poast kura, taiwaj hindi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/336162d15a20da647f8f373d2708b43f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1140
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1140.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/4de4246194156b57c9e9fb5c9ac9275d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/bbbee2b600be09bd82841b6b31773187
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/336162d15a20da647f8f373d2708b43f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/4de4246194156b57c9e9fb5c9ac9275d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/bbbee2b600be09bd82841b6b31773187
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/336162d15a20da647f8f373d2708b43f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/4de4246194156b57c9e9fb5c9ac9275d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/bbbee2b600be09bd82841b6b31773187
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/336162d15a20da647f8f373d2708b43f
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/4de4246194156b57c9e9fb5c9ac9275d
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/bbbee2b600be09bd82841b6b31773187
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/336162d15a20da647f8f373d2708b43f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/4de4246194156b57c9e9fb5c9ac9275d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/bbbee2b600be09bd82841b6b31773187
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/336162d15a20da647f8f373d2708b43f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/d85c17a78537df90d7a732a0a6457f45
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/4de4246194156b57c9e9fb5c9ac9275d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/bbbee2b600be09bd82841b6b31773187
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d82e0c372c58e441f83c65a700ed4d85/xclkon/336162d15a20da647f8f373d2708b43f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kutaja
+sanskrit_name: कुटज
+transliteration: kuṭaja
+image_urls: https://www.medicinalplants.in/slokaimages/876/876_1.jpg https://www.medicinalplants.in/slokaimages/876/876_2.jpg https://www.medicinalplants.in/slokaimages/876/876_3.jpg https://www.medicinalplants.in/slokaimages/876/876_4.jpg https://www.medicinalplants.in/slokaimages/876/876_5.jpg https://www.medicinalplants.in/slokaimages/876/876_6.jpg https://www.medicinalplants.in/slokaimages/876/876_7.jpg https://www.medicinalplants.in/slokaimages/876/876_8.jpg
+ocr_text: कुटजः कौटो वत्सको गिरिमल्लिका कलिङ्गश्चक्रशाखी च मल्लिकापुष्प इत्यपि इन्द्रयवफलः प्रोक्तो वृष्यकः पाण्डुरद्रुमः IBpn) Synonyms of Kutaja are Kutija, Kauto, Vatsaka, Girimallika, Kalinga, Cakrasakhi, Mallika puspa, Indrayav phala, Vrsyaka, Pandura druma. कुटिजः कुटजः कौटजः शक्रो वत्सको गिरिमल्लिका कलिङ्गो मल्लिकापुष्पः प्रावृष्यः शक्रपादपः |I वरतिक्तो यवफलः संग्राहि पाण्डुरद्रुमः प्रावृषेण्यो महागन्धः स्यात्पञ्चदशाभिधः Il IRjn) Kutaja is otherwise named Kautaja, Sakra, Vatsaka, Girimallika, Kalinga Mallikapuspa, Pravrsya , Sakrapadapa, Varatikta, Yavaphala, Sangrhahi, Panduradruma, Pravrsenya, Mahagandha दीपनः पाचनं ग्राहि रक्तपित्तार्शसां हितम् कृमिकुष्ठप्रशमनं तिक्तकं रसे Il IMdnl Kutaja is tikta in rasa, dipana, pacana, 8rahi in karma, cures raktapitta arsa, krmi, kustha कुटजं कुटजः कटुकस्तिक्तः कषायो रूक्षशीतलः कुष्ठातिसारपित्तास्रगुदजानि विनाशयेत् IDhn ) Kutaja is katu, tikta, kashaya in rasa, ruksa in guna, sitala in veerya, cures Kustha, atisara, pitta asra , gudaja vikara. कुटजः कटुतिक्तोष्णः कषायश्चातिसारजित् तत्रासितोडस्रपित्तघ्नः त्वग्दोषार्शोनिकृन्तनः Il IRjn) Kutaja is katu, tikta, kashaya in rasa, usna in veerya and cures atisara Asita variety alleviates pitta, asra, tvag dosha and arsa रक्तपित्तकफघ्नस्तु सुकुमारेष्वनत्ययः हृद्रोगज्वरवातासृगविसर्पादिशु शस्यते Il IC.S Ka 5) Kutaja alleviates raktapitta kapha. It can be given even in children. It cures hraroga, jvara, vata asrg visarpa etc , and कुटजः कटुको रूक्षो दीपनस्तुवरो लघुः अर्शोडतिसारपित्तास्रकफतृष्णामपित्तनुत् Il IMdv Kutaja is katu, tuvara in rasa, ruksa in guna, dipana in karma, cures arsa, atisara, pittasra, kapha, trsna ama, pitta. पुष्पन्तु वत्सकस्योक्तं चाग्निदीपकम् तिक्तं शीतं वातलं च लघु पित्तातिसारनुत् रक्तदोषं कफं पित्तं कुष्ठञ्चैवातिसारकम् कृमींश्चैव हरेदेतदुक्तं पूर्वैश्च सूरिभिः Il INir) Puspa is tuvara, tikta in rasa, laghu in guna , sita in veerya, agni dipaka, increases vata, cures pitta, atisara, rakta dosha, kapha, pitta, kustha, atisara, krmi. तुवरं
+
+Shloka Record 2
+drug_name: Kutaja - jati
+sanskrit_name: कुटज जाति
+transliteration: kuṭaja jāti
+image_urls: https://www.medicinalplants.in/slokaimages/876/876_1.jpg https://www.medicinalplants.in/slokaimages/876/876_2.jpg https://www.medicinalplants.in/slokaimages/876/876_3.jpg https://www.medicinalplants.in/slokaimages/876/876_4.jpg https://www.medicinalplants.in/slokaimages/876/876_5.jpg https://www.medicinalplants.in/slokaimages/876/876_6.jpg https://www.medicinalplants.in/slokaimages/876/876_7.jpg https://www.medicinalplants.in/slokaimages/876/876_8.jpg
+ocr_text: कुटजः कौटो वत्सको गिरिमल्लिका कलिङ्गश्चक्रशाखी च मल्लिकापुष्प इत्यपि इन्द्रयवफलः प्रोक्तो वृष्यकः पाण्डुरद्रुमः IBpn) Synonyms of Kutaja are Kutija, Kauto, Vatsaka, Girimallika, Kalinga, Cakrasakhi, Mallika puspa, Indrayav phala, Vrsyaka, Pandura druma. कुटिजः कुटजः कौटजः शक्रो वत्सको गिरिमल्लिका कलिङ्गो मल्लिकापुष्पः प्रावृष्यः शक्रपादपः |I वरतिक्तो यवफलः संग्राहि पाण्डुरद्रुमः प्रावृषेण्यो महागन्धः स्यात्पञ्चदशाभिधः Il IRjn) Kutaja is otherwise named Kautaja, Sakra, Vatsaka, Girimallika, Kalinga Mallikapuspa, Pravrsya , Sakrapadapa, Varatikta, Yavaphala, Sangrhahi, Panduradruma, Pravrsenya, Mahagandha दीपनः पाचनं ग्राहि रक्तपित्तार्शसां हितम् कृमिकुष्ठप्रशमनं तिक्तकं रसे Il IMdnl Kutaja is tikta in rasa, dipana, pacana, 8rahi in karma, cures raktapitta arsa, krmi, kustha कुटजं कुटजः कटुकस्तिक्तः कषायो रूक्षशीतलः कुष्ठातिसारपित्तास्रगुदजानि विनाशयेत् IDhn ) Kutaja is katu, tikta, kashaya in rasa, ruksa in guna, sitala in veerya, cures Kustha, atisara, pitta asra , gudaja vikara. कुटजः कटुतिक्तोष्णः कषायश्चातिसारजित् तत्रासितोडस्रपित्तघ्नः त्वग्दोषार्शोनिकृन्तनः Il IRjn) Kutaja is katu, tikta, kashaya in rasa, usna in veerya and cures atisara Asita variety alleviates pitta, asra, tvag dosha and arsa रक्तपित्तकफघ्नस्तु सुकुमारेष्वनत्ययः हृद्रोगज्वरवातासृगविसर्पादिशु शस्यते Il IC.S Ka 5) Kutaja alleviates raktapitta kapha. It can be given even in children. It cures hraroga, jvara, vata asrg visarpa etc , and कुटजः कटुको रूक्षो दीपनस्तुवरो लघुः अर्शोडतिसारपित्तास्रकफतृष्णामपित्तनुत् Il IMdv Kutaja is katu, tuvara in rasa, ruksa in guna, dipana in karma, cures arsa, atisara, pittasra, kapha, trsna ama, pitta. पुष्पन्तु वत्सकस्योक्तं चाग्निदीपकम् तिक्तं शीतं वातलं च लघु पित्तातिसारनुत् रक्तदोषं कफं पित्तं कुष्ठञ्चैवातिसारकम् कृमींश्चैव हरेदेतदुक्तं पूर्वैश्च सूरिभिः Il INir) Puspa is tuvara, tikta in rasa, laghu in guna , sita in veerya, agni dipaka, increases vata, cures pitta, atisara, rakta dosha, kapha, pitta, kustha, atisara, krmi. तुवरं
+
+Shloka Record 3
+drug_name: Kutaja - punkutaja
+sanskrit_name: कुटज पुंकुटज
+transliteration: kuṭaja puṃkuṭaja
+image_urls: https://www.medicinalplants.in/slokaimages/876/876_1.jpg https://www.medicinalplants.in/slokaimages/876/876_2.jpg https://www.medicinalplants.in/slokaimages/876/876_3.jpg https://www.medicinalplants.in/slokaimages/876/876_4.jpg https://www.medicinalplants.in/slokaimages/876/876_5.jpg https://www.medicinalplants.in/slokaimages/876/876_6.jpg https://www.medicinalplants.in/slokaimages/876/876_7.jpg https://www.medicinalplants.in/slokaimages/876/876_8.jpg
+ocr_text: कुटजः कौटो वत्सको गिरिमल्लिका कलिङ्गश्चक्रशाखी च मल्लिकापुष्प इत्यपि इन्द्रयवफलः प्रोक्तो वृष्यकः पाण्डुरद्रुमः IBpn) Synonyms of Kutaja are Kutija, Kauto, Vatsaka, Girimallika, Kalinga, Cakrasakhi, Mallika puspa, Indrayav phala, Vrsyaka, Pandura druma. कुटिजः कुटजः कौटजः शक्रो वत्सको गिरिमल्लिका कलिङ्गो मल्लिकापुष्पः प्रावृष्यः शक्रपादपः |I वरतिक्तो यवफलः संग्राहि पाण्डुरद्रुमः प्रावृषेण्यो महागन्धः स्यात्पञ्चदशाभिधः Il IRjn) Kutaja is otherwise named Kautaja, Sakra, Vatsaka, Girimallika, Kalinga Mallikapuspa, Pravrsya , Sakrapadapa, Varatikta, Yavaphala, Sangrhahi, Panduradruma, Pravrsenya, Mahagandha दीपनः पाचनं ग्राहि रक्तपित्तार्शसां हितम् कृमिकुष्ठप्रशमनं तिक्तकं रसे Il IMdnl Kutaja is tikta in rasa, dipana, pacana, 8rahi in karma, cures raktapitta arsa, krmi, kustha कुटजं कुटजः कटुकस्तिक्तः कषायो रूक्षशीतलः कुष्ठातिसारपित्तास्रगुदजानि विनाशयेत् IDhn ) Kutaja is katu, tikta, kashaya in rasa, ruksa in guna, sitala in veerya, cures Kustha, atisara, pitta asra , gudaja vikara. कुटजः कटुतिक्तोष्णः कषायश्चातिसारजित् तत्रासितोडस्रपित्तघ्नः त्वग्दोषार्शोनिकृन्तनः Il IRjn) Kutaja is katu, tikta, kashaya in rasa, usna in veerya and cures atisara Asita variety alleviates pitta, asra, tvag dosha and arsa रक्तपित्तकफघ्नस्तु सुकुमारेष्वनत्ययः हृद्रोगज्वरवातासृगविसर्पादिशु शस्यते Il IC.S Ka 5) Kutaja alleviates raktapitta kapha. It can be given even in children. It cures hraroga, jvara, vata asrg visarpa etc , and कुटजः कटुको रूक्षो दीपनस्तुवरो लघुः अर्शोडतिसारपित्तास्रकफतृष्णामपित्तनुत् Il IMdv Kutaja is katu, tuvara in rasa, ruksa in guna, dipana in karma, cures arsa, atisara, pittasra, kapha, trsna ama, pitta. पुष्पन्तु वत्सकस्योक्तं चाग्निदीपकम् तिक्तं शीतं वातलं च लघु पित्तातिसारनुत् रक्तदोषं कफं पित्तं कुष्ठञ्चैवातिसारकम् कृमींश्चैव हरेदेतदुक्तं पूर्वैश्च सूरिभिः Il INir) Puspa is tuvara, tikta in rasa, laghu in guna , sita in veerya, agni dipaka, increases vata, cures pitta, atisara, rakta dosha, kapha, pitta, kustha, atisara, krmi. तुवरं
+
+Shloka Record 4
+drug_name: Kutaja - stri
+sanskrit_name: कुटज स्त्री
+transliteration: kuṭaja strī
+image_urls: https://www.medicinalplants.in/slokaimages/876/876_1.jpg https://www.medicinalplants.in/slokaimages/876/876_2.jpg https://www.medicinalplants.in/slokaimages/876/876_3.jpg https://www.medicinalplants.in/slokaimages/876/876_4.jpg https://www.medicinalplants.in/slokaimages/876/876_5.jpg https://www.medicinalplants.in/slokaimages/876/876_6.jpg https://www.medicinalplants.in/slokaimages/876/876_7.jpg https://www.medicinalplants.in/slokaimages/876/876_8.jpg
+ocr_text: कुटजः कौटो वत्सको गिरिमल्लिका कलिङ्गश्चक्रशाखी च मल्लिकापुष्प इत्यपि इन्द्रयवफलः प्रोक्तो वृष्यकः पाण्डुरद्रुमः IBpn) Synonyms of Kutaja are Kutija, Kauto, Vatsaka, Girimallika, Kalinga, Cakrasakhi, Mallika puspa, Indrayav phala, Vrsyaka, Pandura druma. कुटिजः कुटजः कौटजः शक्रो वत्सको गिरिमल्लिका कलिङ्गो मल्लिकापुष्पः प्रावृष्यः शक्रपादपः |I वरतिक्तो यवफलः संग्राहि पाण्डुरद्रुमः प्रावृषेण्यो महागन्धः स्यात्पञ्चदशाभिधः Il IRjn) Kutaja is otherwise named Kautaja, Sakra, Vatsaka, Girimallika, Kalinga Mallikapuspa, Pravrsya , Sakrapadapa, Varatikta, Yavaphala, Sangrhahi, Panduradruma, Pravrsenya, Mahagandha दीपनः पाचनं ग्राहि रक्तपित्तार्शसां हितम् कृमिकुष्ठप्रशमनं तिक्तकं रसे Il IMdnl Kutaja is tikta in rasa, dipana, pacana, 8rahi in karma, cures raktapitta arsa, krmi, kustha कुटजं कुटजः कटुकस्तिक्तः कषायो रूक्षशीतलः कुष्ठातिसारपित्तास्रगुदजानि विनाशयेत् IDhn ) Kutaja is katu, tikta, kashaya in rasa, ruksa in guna, sitala in veerya, cures Kustha, atisara, pitta asra , gudaja vikara. कुटजः कटुतिक्तोष्णः कषायश्चातिसारजित् तत्रासितोडस्रपित्तघ्नः त्वग्दोषार्शोनिकृन्तनः Il IRjn) Kutaja is katu, tikta, kashaya in rasa, usna in veerya and cures atisara Asita variety alleviates pitta, asra, tvag dosha and arsa रक्तपित्तकफघ्नस्तु सुकुमारेष्वनत्ययः हृद्रोगज्वरवातासृगविसर्पादिशु शस्यते Il IC.S Ka 5) Kutaja alleviates raktapitta kapha. It can be given even in children. It cures hraroga, jvara, vata asrg visarpa etc , and कुटजः कटुको रूक्षो दीपनस्तुवरो लघुः अर्शोडतिसारपित्तास्रकफतृष्णामपित्तनुत् Il IMdv Kutaja is katu, tuvara in rasa, ruksa in guna, dipana in karma, cures arsa, atisara, pittasra, kapha, trsna ama, pitta. पुष्पन्तु वत्सकस्योक्तं चाग्निदीपकम् तिक्तं शीतं वातलं च लघु पित्तातिसारनुत् रक्तदोषं कफं पित्तं कुष्ठञ्चैवातिसारकम् कृमींश्चैव हरेदेतदुक्तं पूर्वैश्च सूरिभिः Il INir) Puspa is tuvara, tikta in rasa, laghu in guna , sita in veerya, agni dipaka, increases vata, cures pitta, atisara, rakta dosha, kapha, pitta, kustha, atisara, krmi. तुवरं

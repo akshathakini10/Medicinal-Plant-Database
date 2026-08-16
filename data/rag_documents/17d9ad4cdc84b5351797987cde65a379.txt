@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 17d9ad4cdc84b5351797987cde65a379
+Botanical Name: Iris ensata THUNB.
+Family: Iridaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. English (1) - japanese iris Hindi (2) - irisa, sosun Sanskrit (1) - Sanskrit Comments  haimavati Urdu (9) - airsa, asmani, asmanjoni, beikh-e-sosun, irisa, irsa, irsa (sosan), sausan, sosun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17d9ad4cdc84b5351797987cde65a379
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1215
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1215.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17d9ad4cdc84b5351797987cde65a379
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/17d9ad4cdc84b5351797987cde65a379
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Haimavati
+sanskrit_name: हैमवती
+transliteration: haimavatī
+ref_drug_name: हैमवती
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Parasikavaca
+sanskrit_name: पारसीक वचा
+transliteration: pārasīka vacā
+ref_drug_name: पारसीक वचा
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Vaca - sveta
+sanskrit_name: वचा श्वेता
+transliteration: vacā śvetā
+ref_drug_name: वचा श्वेता
+status: Suggested source
+discussion: This species is suggested which needs to be examined
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,89 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3127a1ac87d4540d9e298e05642e0c0b
+Botanical Name: Mimosa pudica L.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 170 Vernacular names found in 9 languages. English (2) - sensitive plant, touch-shy plant Hindi (10) - chui mui, lajalu, lajawanti, lajjavanti, lajjavati, lajvanti, lajwanti, najuk, sharminda, sharmpate Kannada (27) - ganda kaali, hadergitte, lajja, lajjaavathi, lajjavat, lajjavathy, lajje, muchha muri, mudugudavara, mudugudavare, muduguthaavare, mudurelegida, muthamurike, mutlamurike, muttalu muduru, muttalu muruka, muttidare muni, muttidaremuniva, naachike gida, naachike mullu, nachikay-gida, nacike, nacikegida, nacikimullu, nasike, thotuthe-ramum, thotutheramum Malayalam (9) - thendarmani, thotavadi, thottamvati, thottavadi, tindarmani, tintarmani, tottalvati, tottamvati, tottavati Marathi (4) - laajari, lajaalu, lajalu, lajri Sanskrit (34) - Sanskrit Comments  ajalikalika, alambusa, anjalikaraka, anjalikarika, asrarodhani, gandamalika, kandiri, khadiraka, khadirpatrika, lajja, lajjalu, lajjaluh, lajjika, mahabhita, mahaushadhi, mamaskari, namaskari, prasarini, raktamula, raktapadi, samanga, samangga, samipatra, saptaparni, shamipatra, sparshalajja, sprikha, svagupta, tamra, tamramula, varaha-kranta, varahakranta, varakranta, vashini Tamil (68) - al, alavananki1, alcunanki, alcunankicceti, arcalakacceti, arcalakam, camankai, camanki, caminnai, cayanti2, cillam3, cinunki, cunti1, cuntil, cuntiyilai, curukki2, cuvetamuli, cuvetamulinicceti, cuvetavati, ilaccaki, intiriyakkoti, intu1, iracalakacceti, iracalakam, kacankukanni, kacankukannicceti, kacirorttam, kasirottam, laccaru, milananceti, namakkari, nilaccurunki, palakamoti, palakamoticceti, samangai, tamiramulam1, tantakkari, thotalpadi, thotalvadi, thottai-surungi, thottal shurungi, thottal-surungi, thottalsurungi, thottalvadi, thottar chunnungi, thottar-chunungi, thottasiningi, total vadie, totalvadi, tottachurungi, tottakkalvati, tottalcinunki, tottalcurunki, tottalvadi, tottalvati, tottalvaviricceti, tottalvayiri, tottar cinunki, tottar cunanki, tottar curunki, tottarcinunki1, tottarcunanki, tottarcurunki1, urumarmulicceti, urumarumuli, vaku, varakakkiranti, vati Telugu (14) - atthapatthi, lajjavanthi, manugumaramu, mudatha damara, munuguda, munuguda-maramu, muttavapulagamu-chettu, muttavapulagamucettu, nidrakanti, peda nidrakanti, pedda nidrakanti, peddanidrakanti, siggaku, thottalasingi Tibetan (2) - btsod rigs gcig pa, sa mam ga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1432
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1432.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3127a1ac87d4540d9e298e05642e0c0b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Lajjalu
+sanskrit_name: लज्जालु
+transliteration: lajjālu
+ref_drug_name: लज्जालु
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Lajjalu - prajati
+sanskrit_name: लज्जालु प्रजाति
+transliteration: lajjālu prajāti
+ref_drug_name: लज्जालु प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Lajjalu - prajati
+sanskrit_name: लज्जालु प्रजाति
+transliteration: lajjālu prajāti
+ref_drug_name: लज्जालु प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Lajjalu - prajati
+sanskrit_name: लज्जालु प्रजाति
+transliteration: lajjālu prajāti
+ref_drug_name: लज्जालु प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Samanga
+sanskrit_name: समङ्गा
+transliteration: samaṅgā
+ref_drug_name: समङ्गा
+status: Most probable
+discussion: This species is mostly correlated to Samanga
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

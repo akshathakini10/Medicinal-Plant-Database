@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 439cc48348a7576c65cb3b3a1e53b94b
+Botanical Name: Saccharum munja ROB.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Erianthus munja JESW. Saccharum sara ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 5 languages. Hindi (10) - kanra, munj, munj-sentha, munja, ramsar, sara, sarkanda, sarkara, sarpat, sarpatta Marathi (1) - mole Sanskrit (28) - Sanskrit Comments  bahupraja, bana, bhadramunja, brahmanya, chakshuveshtana, darbhavhaya, dridhatrina, durmula, gundra, ikshukanda, maunji, munja, munjanaka, munjata, ranjana, sara, sarah, shakrabhanga, shara, shiri, sthuladarbha, sumekhala, tejana, tejanaka, tejanavhaya, tilanaka, trinakhaya, vaniraka Telugu (3) - bellu-ponik, gundra, ponika Tibetan (1) - dam bu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/439cc48348a7576c65cb3b3a1e53b94b/xclkon/6154ade60b1d502af5f30458a78cc3eb
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1831
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1831.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/439cc48348a7576c65cb3b3a1e53b94b/xclkon/c7dce125d3f3b857c3b619022cee77e7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/439cc48348a7576c65cb3b3a1e53b94b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/439cc48348a7576c65cb3b3a1e53b94b/xclkon/6154ade60b1d502af5f30458a78cc3eb
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/439cc48348a7576c65cb3b3a1e53b94b/xclkon/c7dce125d3f3b857c3b619022cee77e7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/439cc48348a7576c65cb3b3a1e53b94b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/439cc48348a7576c65cb3b3a1e53b94b/xclkon/6154ade60b1d502af5f30458a78cc3eb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

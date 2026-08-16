@@ -1,0 +1,107 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bce5381d0e29d38670508eacc491b6fd
+Botanical Name: Syzygium aromaticum (L.) MERRILL & PERRY
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Caryophyllus aromaticus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 41 Vernacular names found in 10 languages. English (2) - cloves, zanziber redheads Hindi (4) - laumg, laung, lavamg, long Kannada (3) - daevakusuma, lavang, lavanga Malayalam (5) - airi, grampu, karampu, karayampu, naga Marathi (2) - kala phur, lavang Sanskrit (10) - Sanskrit Comments  bhadrasriya, devakusuma, devapuspa, gorochana, haricandana, karampu, lavanga, lavangaka, lavangam, varala Tamil (6) - ilavankam, kiraambu, kirambu, kirampu, kiranbu, lavangam Telugu (5) - devakusumamu, kaaravallu, karavappu, lavangalu, lavangamu Tibetan (1) - li si Urdu (3) - laung, lavang, qaranful (laung)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd/xclkon/fa51df34f9ae79b77f17a9c8bcbeec6f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd/xclkon/10fb25692cd7f55fe38b705006a21852
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd/xclkon/fa51df34f9ae79b77f17a9c8bcbeec6f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd/xclkon/10fb25692cd7f55fe38b705006a21852
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd/xclkon/fa51df34f9ae79b77f17a9c8bcbeec6f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd/xclkon/10fb25692cd7f55fe38b705006a21852
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd/xclkon/fa51df34f9ae79b77f17a9c8bcbeec6f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd/xclkon/10fb25692cd7f55fe38b705006a21852
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd/xclkon/fa51df34f9ae79b77f17a9c8bcbeec6f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd/xclkon/10fb25692cd7f55fe38b705006a21852
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bce5381d0e29d38670508eacc491b6fd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Haricandana
+sanskrit_name: हरिचन्दन
+transliteration: haricandana
+ref_drug_name: हरिचन्दन
+status: Accepted source
+discussion: Haricandana' is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Haricandana
+sanskrit_name: हरिचन्दन
+transliteration: haricandana
+ref_drug_name: हरिचन्दन
+status: Accepted source
+discussion: Haricandana' was the ancient name given to 'Lavanga' which is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Lavanga
+sanskrit_name: लवङ्ग
+transliteration: lavaṅga
+ref_drug_name: लवङ्ग
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Lavanga
+sanskrit_name: लवङ्ग
+transliteration: lavaṅga
+ref_drug_name: लवङ्ग
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Lavanga
+sanskrit_name: लवङ्ग
+transliteration: lavaṅga
+image_urls: https://www.medicinalplants.in/slokaimages/1562/1562_1.jpg https://www.medicinalplants.in/slokaimages/1562/1562_2.jpg https://www.medicinalplants.in/slokaimages/1562/1562_3.jpg https://www.medicinalplants.in/slokaimages/1562/1562_4.jpg https://www.medicinalplants.in/slokaimages/1562/1562_5.jpg
+ocr_text: लवङ्ग कुसुमं हृद्यं शीतलं पित्तनाशनम् | चक्षुष्यं विषहृद वृष्यं माङ्गल्यं मूर्द्धरोगहृत्| IDhn) Lavanga kusuma is sita in veerya, hraya, caksushya, vrshya, mangalya, destroys pitta, visa, murdaha roga लवंगं शीतलं तिक्तं चक्षुष्यं भुक्तरोचनम्| वातपित्तकफघ्नं च तीक्ष्णं मूर्धरुजापहम्| | अपि च लवंगं सोष्णकं तीक्ष्णं विपाके मधुरं हिमम् | वातपित्तकफामघ्नं क्षयकासास्रदोषनुत्| | IRjnl Lavanga is tikta in rasa, usna, tiksna in guna, sita in veerya, madhura in paka, alleviates vata, pitta and kapha, caksushya, bhuktarocana, murdharujapaha, hima, vatapittakapha amaghna, cures ksaya, kasa and asra dosha लवंगं कटुकं तिक्तं लघु नेत्रहितं हिमम्| दीपनं पाचनं रूक्षं कफपित्तास्रनशकृत्| छर्दि तथाडडध्मानं शूलमाशुविनाशयेत्| कासं श्वासं च हिक्कां च क्षयं क्षपयति ध्रुवम् | | (Bpnl Lavanga is katu, tikta in rasa, laghu, ruksa in guna, hima in veerya netrahita, dipana, pacana, destroys kapha, pitta and asra dosha, cures chardi , aahmana, sula, kasa, svasa, hikka, kshaya and ksapayati. नृणां आध्मानानाहशूलध्नं लवंग पाचनं लघु|| राजवल्लभ Lavanga is laghu in guna, pacana, cures adhmana, anaha and sula देवकुसुमेद्भवं तैलमग्निकृद्वातनाशनम्| दन्तवेष्टकफर्तिघ्नं गर्भिण्या, वमनापहम | (आत्रेयसंहिता Devakusuma taila is agni kara, destroys vata, cures aantavesta, kapha ana arti. In garbhini it is vamanapaha.

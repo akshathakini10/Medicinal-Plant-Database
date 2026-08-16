@@ -1,0 +1,86 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1549400588c63584c7fe0037adf8a4e2
+Botanical Name: Tylophora indica (BURM.F.) MERRILL
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Asclepias asthmatica WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 199 Vernacular names found in 7 languages. Hindi (5) - antamul, jamgli pikvam, jangli-pikvan, jangli-pikwan, janglipikvan Kannada (24) - aadu muttada, aadu muttada balli, aadu mutthada, aadumuttada gida, adumuttada, adumuttadagida, adumuttadagide, adumuttoda, antamula, anthamool, anthamoola, katte kivi soppu, kirumani, kirumani balli, kirumanji, kirumanjiballi, kove balli, naayihaale, naepala, naepalada baeru, nepaalada beru, nepala, nepaladaberu, nipaladaberu Malayalam (4) - nansjera-patsja, valli-pala, vallipal, vallippala Marathi (9) - anthamul, khadari, kharaki-rasana, pitakari, pitmari, pittamari, pitthakaadi, pitthamaari, pitvel Sanskrit (6) - Sanskrit Comments  anthrapachaka, arkaparni, gandhana, lataksiri, moolinee, shwasaghni Tamil (120) - akacakarutakkirikakkoti, akacakkarutakkirikam, akavacikam, anantam 3, antamul, avaci, caitanniyampayncan, caitanniyampayncankoti, cankam 1, capalu, carankacceti, carankam, caravanapparkoti, catitiyam, cinkiri, cinkirippalai, cocrinja, coorinja, curakari, curakarikkoti, kaakittam, kacappuppalai, kagittam, kagittiram, kakatiram, kakimacari, kakimacaricceti, kakittam, kakittiram, kaludaippalai, kalutaippalai, kalutaippalattankoti, kamanaccetikakkoti, kapamarukkumuli, karetcavacan, karuncili, karuncilikkoti, karungai, karunkurinca, karunkurincacceti, karunkurinci, karutakam, karuvecarikkoti, kashuthai palai, kattittam 2, kattukkurinci, kattukkurincukkoti, kodagam, konanku, kondachani, kondam, kontaccani, kontaccani 1, kontaiccani, kontakacceti, kontakam, kontaku, kontakucceti, kontam, kotakam, kotippalai, kuravaram, kurinca 1, kurinja, naccilai, naccilaikkoti, naccuruppan 1, nacheruppan, nachohuruppan, nai-palai, naippalai, nalpalai, nancarappayantan 1, nancarappayncan 1, nancarppayncankoti, nancaruppan, nancaruppancan, nancaruppankoti, nancaruttanputu 1, nanch-churuppan, nancharuppan, nancu murippan, nancu murittan, nancumurittan 2, nancumurittanpalai, nancupalai, nangilaippirattai, nanja-murich-chan, nanjamurich-chan, nanjaruppan, nay-palai, nayppalai, nenjaruppan, nilakiriyutappu, nirkkurinca, nirkkurincakkoti, paalaaikeerai, pai-palai, pataicci, pataiccikkoti, peyp-palai, peyppalai, pincakkoti, pincam, pincukam, putikanta, putikantarakkoti, tuccataru 2, unattaku, unattakucceti, unmatakai, unmattaki, unmatti, visakkolli, visankolli, visantincanmuli, vishakolli, vitankolli, yavaci, yavati Telugu (31) - gori pala, jittuka theega, kaakapaala, kaka pala, kakapala, kakapalla, kukka pala, kukka-pala, kukkapaala, kukkapaalatheega, kukkapala, kurinja, mattukumuttukoni, muttukumuttukoni, neka meyani aaku, nela tapire, nelahapire, nelatapire, podapathramu, podapatramu, tellavedavela, tellayadala, theega paala, thellavedavela, thellayaadaala, veripala, verri-pala, verripaala, verripala, vettipala, vollu virupa aaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2141
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2141.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/97aedee76330f68521c2912b2e2dc453
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/7c5a2214a23cfa7559028dc7285f7b50
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/917a3aae49ded4157e5b331b10b5cbbe
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/97aedee76330f68521c2912b2e2dc453
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/7c5a2214a23cfa7559028dc7285f7b50
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/917a3aae49ded4157e5b331b10b5cbbe
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/97aedee76330f68521c2912b2e2dc453
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/7c5a2214a23cfa7559028dc7285f7b50
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/917a3aae49ded4157e5b331b10b5cbbe
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/97aedee76330f68521c2912b2e2dc453
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/7c5a2214a23cfa7559028dc7285f7b50
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2/xclkon/917a3aae49ded4157e5b331b10b5cbbe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1549400588c63584c7fe0037adf8a4e2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Arkaparni
+sanskrit_name: अर्कपर्णी
+transliteration: arkaparṇī
+ref_drug_name: अर्कपर्णी
+status: Most probable
+discussion: May be identified with this plant
+reference: [1]
+
+Identity Record 2
+drug_name: Arkaparni
+sanskrit_name: अर्कपर्णी
+transliteration: arkaparṇī
+ref_drug_name: अर्कपर्णी
+status: Accepted source
+discussion: Arkaparni' is mentioned only in Susruta samhita and cited just once in this text; With regard to its morphology it’s a plant from the 'Arka' family; Nowadays this species is considered as 'Arkaparni'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a71351f85cdbc4537f2949ccbbe2f13b
+Botanical Name: Pupalia lappacea (L.) DC.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 5 languages. Hindi (2) - nagadaminee, undio bhurat Kannada (2) - antupurale gida, naagadamani Malayalam (2) - pu-pal-valli, wellia-codiveli Tamil (4) - adai-otti, napikai, perunkotiveli, valiyakkotiveli Telugu (3) - erra utthareni, thella utthareni, yerri chithramoolam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a71351f85cdbc4537f2949ccbbe2f13b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a71351f85cdbc4537f2949ccbbe2f13b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a71351f85cdbc4537f2949ccbbe2f13b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Apamarga - gauradanda
+sanskrit_name: अपामार्ग गौरदण्ड
+transliteration: apāmārga gauradaṇḍa
+ref_drug_name: अपामार्ग गौरदण्ड
+status: Suggested source
+discussion: Needs to be examined
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

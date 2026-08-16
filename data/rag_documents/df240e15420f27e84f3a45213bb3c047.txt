@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: df240e15420f27e84f3a45213bb3c047
+Botanical Name: Ormosia travancoria BEDD.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. Kannada (1) - betta manjadi Malayalam (5) - kuni, kunni, malamancati, malamanjadi, maleimanchadi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df240e15420f27e84f3a45213bb3c047
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df240e15420f27e84f3a45213bb3c047
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

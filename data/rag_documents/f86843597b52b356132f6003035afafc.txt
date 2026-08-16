@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f86843597b52b356132f6003035afafc
+Botanical Name: Grewia subinaequalis DC.
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Grewia asiatica MAST.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 69 Vernacular names found in 10 languages. English (1) - phassa Hindi (13) - bhyunl, dhaman, dhamani, dhamin, karra, parusha, phalasa, phalsa, pharsa, pharsula, pharvah, phulsa, shukri Kannada (9) - buttiyudipe, buttiyudippe, butuudipi, jaana, jana, jani, tadasal, tadasala, thadasali Malayalam (1) - chadicha Marathi (3) - phaalasaa, phalsi, pharwani Sanskrit (22) - Sanskrit Comments  alpasthi, dhanvanacchada, dhanvanah, dhanvanchhada, dharmana, giripilu, mriduphala, nagadalapam, nilacharma, nilamandala, parapara, paravata, parusa, parusaka, parusakah, parusakam, parusam, parusha, parushaka, porusha, purusha, roshana Tamil (6) - palica, palicam, palisa, tadachi, tadachit, unnu Telugu (10) - jaana, jana, nallajaana, nallajana, peddajaana, peddajana, pethajana, phalsa, phutiki, putiki Tibetan (2) - ba ru sa ka, pa ru sa ka (d&p) Urdu (2) - phalasah, phalsa taza
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 4819
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/4819.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc/xclkon/3a743b97d0192dc8b2aed9418d30e39c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc/xclkon/3a743b97d0192dc8b2aed9418d30e39c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc/xclkon/3a743b97d0192dc8b2aed9418d30e39c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc/xclkon/3a743b97d0192dc8b2aed9418d30e39c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc/xclkon/3a743b97d0192dc8b2aed9418d30e39c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f86843597b52b356132f6003035afafc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

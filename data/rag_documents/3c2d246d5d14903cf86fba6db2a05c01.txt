@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3c2d246d5d14903cf86fba6db2a05c01
+Botanical Name: Garcinia xanthochymus HOOK.F.
+Family: Clusiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Garcinia tinctoria (DC.) W.F. WIGHT
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 133 Vernacular names found in 7 languages. Hindi (5) - dampel, jharambi, ota, tamal, tumul Kannada (49) - arisinagurgi, bettada huise, chikka kamaraak mara, chikka kamarak mara, daevachaarige, daevagarige, daevajaaarige, deavkai, deevaarige, devagarige, devagarike, devajarige, devamba, devanahuli, devangi, devarige, dhaarige huli, divarige, gansargi, gansurgi, garigehuli, gurce, gurche, gurchi, gurse, hiraykanagilu, hireganigala, hirekanigina, hirekanigu, jaavangi, janagi, janagijavangi, jarige, jeeraka, jerikana mara, jorige julimara, kaadu jeeraka, kaapicche, kandaali, moogurchi, mothimurukalu, naeralemaavu, neeve, nelamaavu, nellamavu, nerale maavu, neralemavu, thamaari, vate Malayalam (6) - anavaya, pinar, samudrapacca, samudrapochu, tamalam, thamalam Marathi (4) - dharambo, jharambi, ota, otanche Sanskrit (13) - Sanskrit Comments  avika, bhavana, bhavishya, bhavya, kalakhanda, kusumodar, lamphala, pichchalabija, samputanga, tamala, tamalaki, tapinjha, vakrashodana Tamil (33) - camuttirappaccai, cetanam, chitaka-maraku, cikatimaram, colaikotukkayppuli2, ilai1, kakacimpi, kokottai2, kulavi, makki, malaippaccai, malaippachai, malaippuli, malaivecikacceti, malaivecikam, malinam, mattilai, mekantam 1, nakam, pacchilai, paccilai, paccilaimaram1, pachilai, pachumbadi, pallinarkulali, tabinjam, talilam, tamal, tamalam, tamalatalam, tampincam, tapincam, tokki Telugu (23) - cheekatimraaku, chikatimanu, chikatimraku, chitakamraku, cikatimranu, inoramamedee, ishvaramamidi, isvaramamidi, ivarumaamidi, ivarumamidi, ivurumamidi, iwara mamidi, iwaramemadee, iwaramemadi, jwara, lollorimanu, memaditamalamu, seethakamraku, sikatimramu, sitakamraku, tamala, tamalamu, thamaalamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c2d246d5d14903cf86fba6db2a05c01
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1032
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1032.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c2d246d5d14903cf86fba6db2a05c01/xclkon/61b6915e3a70d1c34a226df7ec5f1b35
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c2d246d5d14903cf86fba6db2a05c01
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c2d246d5d14903cf86fba6db2a05c01/xclkon/61b6915e3a70d1c34a226df7ec5f1b35
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c2d246d5d14903cf86fba6db2a05c01
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c2d246d5d14903cf86fba6db2a05c01/xclkon/61b6915e3a70d1c34a226df7ec5f1b35
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c2d246d5d14903cf86fba6db2a05c01
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d990c2b2e5db48bb3a0e9122934bd2f7
+Botanical Name: Dryobalanops aromatica GAERTN. F.
+Family: Dipterocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 5 languages. English (8) - baros, baros camphor, barus, barus camphor, borneo, borneo camphor, kapur, sumatra camphor Hindi (2) - bhimseni kapoor, himamaluka Marathi (1) - bhimseni kapoor Sanskrit (1) - Sanskrit Comments  bhimasenakarpoora Tamil (1) - paccai-k-karpuram
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d990c2b2e5db48bb3a0e9122934bd2f7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d990c2b2e5db48bb3a0e9122934bd2f7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karpura
+sanskrit_name: कर्पूर
+transliteration: karpūra
+ref_drug_name: कर्पूर
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Karpura - jati
+sanskrit_name: कर्पूर जाति
+transliteration: karpūra jāti
+ref_drug_name: कर्पूर जाति
+status: AS
+discussion: This is known as ‘Barus camphor’ as its available in Borneo and Sumatra regions
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Karpura
+sanskrit_name: कर्पूर
+transliteration: karpūra
+image_urls: https://www.medicinalplants.in/slokaimages/403/403_1.jpg https://www.medicinalplants.in/slokaimages/403/403_2.jpg https://www.medicinalplants.in/slokaimages/403/403_3.jpg
+ocr_text: कर्पूरं कटु तिक्तं च मधुरं शिशिरं तृणमेदोविषदोषघ्नं चक्षुष्यं मदकारकम् | IDhn) Karpuram is katu, tikta, maahura in rasa, sisira in veerya, caksushya, inauces mada, cures trna, meda and visa विदुः | कर्पूरः शीतलो वृष्यश्चक्षुष्यो लेखने लघुः | मधुरस्तिक्तः कफपित्तविषापहः | | दाहतृष्णास्यवैरस्यमेदादौर्गन्ध्यनाशनः | कर्पूरो द्विविधो प्रोक्तॉः पक्वापकावप्रभेदतः | | पक्वात्कर्पूरतः प्राहुरपक्वं गुणवत्तरम् IBpn) Karpura is madhura, tikta in rasa, laghu in guna, sita in veerya, vrsyam, surabhi, caksushyam, lekhanam, alleviates kapha ana pitta, cures visa aaha, trsna, asya vairasya, meda and daurgandhya. It is of two typesः pakva and apakva and pakvam is effective. सुरभिः कर्पूरं शीतलं पाके चक्षुष्यं कफनाशनम् पक्वकर्पूरतः प्राहःडपक्वं गुणवत्तरम्| | राजवल्लभः | Karpuram is sitalam, paka, caksuhyam, destroys kapha. Pakvam is effective than apakvam.

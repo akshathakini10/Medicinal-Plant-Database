@@ -1,0 +1,63 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b3a8baa0289e77e7553be34f2edd76a3
+Botanical Name: Valeriana jatamansi JONES
+Family: Valerianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Valeriana wallichii DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 69 Vernacular names found in 9 languages. Hindi (11) - bala-tagra, balchhari, mansi, mushakbala, mushk bala, mushkbala, nihani, smak, sumaya, swak, tagar Kannada (5) - jatale, mandibattal, naati jatamaansi, nandu batlu, tagara Malayalam (1) - takaram Marathi (2) - tagar-ganthoda, thagar mool Sanskrit (38) - Sanskrit Comments  barhana, chakra, danda, dandahasta, dipana, hasti, jatamansi, jihma, jimha, kala, kalanusaraka, kalanusari, kalanusarika, kalanusariva, kalanusarya, khana, kunchina, kutil, kutila, laghusha, mahoraga, nahusa, nahushakhya, nandyavartha, nata, natah, padika, parthiva, pindatagara, shatha, shatra, tagar, tagara, tagarah, tagaram, tagarapaduka, vakra, vinamra Tamil (3) - shadamangie, tagaram, takaram Telugu (1) - tagara Tibetan (5) - rgya spos, rgya-spos, span spos, span-spos, ta-kha-ra Urdu (3) - farasiyun (faristariun), nitarbala, tagar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3/xclkon/4c350576293cd1fc586d95682d8829ec
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1500
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1500.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3/xclkon/4c350576293cd1fc586d95682d8829ec
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3/xclkon/4c350576293cd1fc586d95682d8829ec
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3/xclkon/4c350576293cd1fc586d95682d8829ec
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3/xclkon/4c350576293cd1fc586d95682d8829ec
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3a8baa0289e77e7553be34f2edd76a3/xclkon/4c350576293cd1fc586d95682d8829ec
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tagara
+sanskrit_name: तगर
+transliteration: tagara
+image_urls: https://www.medicinalplants.in/slokaimages/1676/1676_1.jpg https://www.medicinalplants.in/slokaimages/1676/1676_2.jpg https://www.medicinalplants.in/slokaimages/1676/1676_3.jpg
+ocr_text: तगरं कुष्ठजित्प्रोक्तं विसर्पव्याधिजिल्लघुः (शोढल) Tagara is laghu in guna, cures kustha and visarpa तगरं शीतलं तिक्तं दृष्टिदोषविनाशनम्| विषार्त्तिशमनं पथ्यं भूतोन्माद भयापहम् IRjn) Tagara is tikta in rasa, sita in veerya pathya, drsti dosha vinasana relieves visha, arti, bhuta, unmada and bhaya तगरं मधुरं तिक्तं कटु पाके रसे लघु स्निग्धोष्णं भूतमदापस्मारनाशनम्| | कफचक्षुशिरोरोगमदापस्मारनाशनम् | तगरद्वयमुष्णं स्यात् स्वादु स्निग्धं लघु स्मृतम् | विषापस्मारमूर्धाक्षिरोगदोषत्रयापहम् (Bpnl Tagara is madhura , tikta tuvara, katu in rasa, laghu, snigdha in guna usna in veerya, katu in paka , alleviates kapha, cures bhuta, mada, apasmara, cakshu roga and siro roga. Tagara dvaya is svadu in rasa, snigdha, laghu in guna, usna in veerya, alleviates all the three doshas cures visha, apasmara, muraha and aksi roga. तुवरं

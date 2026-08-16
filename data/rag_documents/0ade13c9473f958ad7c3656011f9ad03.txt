@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0ade13c9473f958ad7c3656011f9ad03
+Botanical Name: Achyranthes bidentata BLUME
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 4 languages. Hindi (1) - putkanda Kannada (1) - kaadu uttharaani Sanskrit (1) - Sanskrit Comments  apamarga Tamil (1) - nayuruvi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ade13c9473f958ad7c3656011f9ad03
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 43
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/43.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ade13c9473f958ad7c3656011f9ad03
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0ade13c9473f958ad7c3656011f9ad03
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

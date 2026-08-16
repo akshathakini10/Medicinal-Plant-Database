@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9ad2a56a28b798991edd21321202356a
+Botanical Name: Morus alba L.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 53 Vernacular names found in 8 languages. English (1) - white mulberry Hindi (19) - chimmu, chinni, chum, chun, karun, sahtoot, shahtoot, shahtut, shehtoot, swa, toot, toota, tooth, tul, tulklu, tunt, tut, tut (cultivated), tutri Kannada (12) - bilee hippenerale, bilee uppu nerale, bili uppu naerale, hippal verali, hippali naerala, hippu naerale, hippunerale, kambali gida, kambali hannu, korigida, tuti, uppunute Malayalam (2) - malvari, pattunulppulucceti Marathi (1) - tut Sanskrit (5) - Sanskrit Comments  tooda, toola, tudah, tula, tutam Tamil (9) - kambali poochi chedi, kambilipuch, kamblichedi, kampalicceti1, kampilippuccicceti, musukotta, pattuppucci, pattuppuccimaram, pattuppuchi Telugu (4) - kambali chettu, malabary aaku, pippalipanducettu, reshmicettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ad2a56a28b798991edd21321202356a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ad2a56a28b798991edd21321202356a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ad2a56a28b798991edd21321202356a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ad2a56a28b798991edd21321202356a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9ad2a56a28b798991edd21321202356a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tuda
+sanskrit_name: तूद
+transliteration: tūda
+ref_drug_name: तूद
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

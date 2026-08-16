@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2bb5dc38947331d8e2031d0f4fc36a0b
+Botanical Name: Commiphora molmol ENGL. E. TSCHIRAH
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bb5dc38947331d8e2031d0f4fc36a0b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2bb5dc38947331d8e2031d0f4fc36a0b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bola - jati
+sanskrit_name: बोल जाति
+transliteration: bola jāti
+ref_drug_name: बोल जाति
+status: Accepted source
+discussion: Identified with it, This is a variety of Commiphora and the gum resin is extracted from this species too
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

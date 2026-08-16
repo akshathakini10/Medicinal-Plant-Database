@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7886a3af5e06a6a1727ab2cebbb15a95
+Botanical Name: Ziziphus glabrata HEYNE
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ziziphus trinervia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 50 Vernacular names found in 6 languages. Hindi (1) - bor Kannada (5) - chitipala, chuchipali, citipala, cuccipali, karukattaimara Malayalam (1) - karkala Sanskrit (2) - Sanskrit Comments  vatadala, vatadalla Tamil (37) - carookoova, inkutanipam, inkutanipamaram, iyaikatakam, kadikkai, karakattan, karikattam, karikattan, karikkottan, karikottai, karkkavam 1, karukatta, karukava, karukavu, karukaya, karukkamaram, karukkattamaram, karukkattan, karukkattura, karukkuttamam, karukkuttamaram, karukkuva 1, karukkuvachi, karukkuvali, karukkuvatci, karukkuvatcimaram, karunkottai, karuvatta, katikkai#, katikkai@, kattigai kottai, kattikai 1, kottai-elanthai, kottaielandai, kottei, mullukkarukkuva, muttakam 1 Telugu (4) - goti, kaakupala, kakoopala, kakupala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7886a3af5e06a6a1727ab2cebbb15a95/xclkon/e47b5098a8c96b9ea7b07c0ea8fdfdfa
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2265
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2265.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7886a3af5e06a6a1727ab2cebbb15a95
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7886a3af5e06a6a1727ab2cebbb15a95/xclkon/e47b5098a8c96b9ea7b07c0ea8fdfdfa
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7886a3af5e06a6a1727ab2cebbb15a95
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7886a3af5e06a6a1727ab2cebbb15a95/xclkon/e47b5098a8c96b9ea7b07c0ea8fdfdfa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7886a3af5e06a6a1727ab2cebbb15a95
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7886a3af5e06a6a1727ab2cebbb15a95/xclkon/e47b5098a8c96b9ea7b07c0ea8fdfdfa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

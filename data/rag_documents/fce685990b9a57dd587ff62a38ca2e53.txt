@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fce685990b9a57dd587ff62a38ca2e53
+Botanical Name: Swertia densiflora (GRISEB.) KASHYAPPA
+Family: Gentianaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ophelia multiflora DATZ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 4 languages. Hindi (2) - charayatah, kadu Sanskrit (1) - Sanskrit Comments  bhunimbaha Tamil (2) - nila-vembu, shirat-kuch-chi Telugu (1) - shilajatu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fce685990b9a57dd587ff62a38ca2e53
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fce685990b9a57dd587ff62a38ca2e53/xclkon/7c1cdd4c9cba8835317164c425689b07
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fce685990b9a57dd587ff62a38ca2e53/xclkon/73661e0c7a1b99f29b34a40956d4f2ea
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fce685990b9a57dd587ff62a38ca2e53
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fce685990b9a57dd587ff62a38ca2e53/xclkon/7c1cdd4c9cba8835317164c425689b07
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fce685990b9a57dd587ff62a38ca2e53/xclkon/73661e0c7a1b99f29b34a40956d4f2ea
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fce685990b9a57dd587ff62a38ca2e53
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fce685990b9a57dd587ff62a38ca2e53/xclkon/7c1cdd4c9cba8835317164c425689b07
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fce685990b9a57dd587ff62a38ca2e53/xclkon/73661e0c7a1b99f29b34a40956d4f2ea
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fce685990b9a57dd587ff62a38ca2e53
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

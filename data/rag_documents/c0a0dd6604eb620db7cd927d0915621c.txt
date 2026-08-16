@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c0a0dd6604eb620db7cd927d0915621c
+Botanical Name: Anagallis arvensis L.
+Family: Primulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 5 languages. English (3) - common or scarlet pimpernel, poor mans weather glass, shepherds weather-glass Hindi (5) - buchbucha, dharti-dhak, jainghami, jonkmari, neel Kannada (2) - sooryakaanthi soppu, suryakanthi soppu Tamil (3) - aniccam, culliver, nakamalli Urdu (1) - anaghalis
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0a0dd6604eb620db7cd927d0915621c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0a0dd6604eb620db7cd927d0915621c
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0a0dd6604eb620db7cd927d0915621c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

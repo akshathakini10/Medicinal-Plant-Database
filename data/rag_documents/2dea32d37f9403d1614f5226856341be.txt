@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2dea32d37f9403d1614f5226856341be
+Botanical Name: Hybanthus enneaspermus (L.F.) MUELL.
+Family: Violaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ionidium enneaspermum VENT. Ionidium suffruticosum GING.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 47 Vernacular names found in 7 languages. Hindi (2) - ratan-purs, ratanpurus Kannada (2) - charaata, purusharatna Malayalam (2) - nelam-parenda, orilattamara Marathi (2) - rathanparas, rathnapurus Sanskrit (2) - Sanskrit Comments  charati, padmacarini Tamil (32) - camaracam 2, curiyakanti, cutumatavacceti, cutumatavam, etekapuntarikam, ikkanatikacceti, ikkanatikam, ilatcumirestam, irattanapurus, ital, kancankonitacceti, kancankonitam, kapavisapakam, katutitcanam, kuttikam, kuttittamarai, nakavalli 1, nilappirantai, oorithal thamarai, orikazh tamarai, orilai tamarai, orilaiththamarai, orilaittamarai, orilatamaray, orital t-tamarai, orital-t-tamarai, oritaltamarai, oritalvacanam, orithal thamarai, patumai, purusharatnam, putcaram Telugu (5) - nelakobbari, purusharathnam, rathnapurusha, ratna purusha, sooriyakaanthi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be/xclkon/10ea5f08ca6ba8cf6be506bfd999fb67
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1150
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1150.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be/xclkon/6084ca36fe607e46f42da45c98b02c26
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be/xclkon/ff9ab029bf925f7b60c948ca95312dc2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be/xclkon/10ea5f08ca6ba8cf6be506bfd999fb67
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be/xclkon/6084ca36fe607e46f42da45c98b02c26
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be/xclkon/ff9ab029bf925f7b60c948ca95312dc2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be/xclkon/10ea5f08ca6ba8cf6be506bfd999fb67
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be/xclkon/6084ca36fe607e46f42da45c98b02c26
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be/xclkon/ff9ab029bf925f7b60c948ca95312dc2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2dea32d37f9403d1614f5226856341be/xclkon/10ea5f08ca6ba8cf6be506bfd999fb67
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

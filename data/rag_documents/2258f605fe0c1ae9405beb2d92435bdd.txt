@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2258f605fe0c1ae9405beb2d92435bdd
+Botanical Name: Premna latifolia ROB.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 37 Vernacular names found in 4 languages. Hindi (4) - bakar, bakaru, bharkhar, gin Kannada (1) - agnimantha Tamil (18) - celumalaron, chedi munnai, erumaimunnai, erumunnai, erumunnaimaram, ilatatavikam, ilatatavikamaram, kalakamitanti, karanattuppuntu, karunaimunnai, karunaimunnaimaram, minni, munnai, munnai 1, pachumallai, vacukintan, valarvatimaran, yuntaranayukantan Telugu (14) - konda manga, kondamanga, navuru, nelli, nelli chettu, nelli koora, pedda nelli kura, peddanallakura, peddanellakura, peddanelli, peddanellikoora, peddanellikura, pinnamelli, takli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2258f605fe0c1ae9405beb2d92435bdd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2258f605fe0c1ae9405beb2d92435bdd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2258f605fe0c1ae9405beb2d92435bdd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Agnimantha
+sanskrit_name: अग्निमन्थ
+transliteration: Agnimantha
+image_urls: https://www.medicinalplants.in/slokaimages/443/443_1.jpg https://www.medicinalplants.in/slokaimages/443/443_2.jpg https://www.medicinalplants.in/slokaimages/443/443_3.jpg https://www.medicinalplants.in/slokaimages/443/443_4.jpg https://www.medicinalplants.in/slokaimages/443/443_5.jpg https://www.medicinalplants.in/slokaimages/443/443_6.jpg
+ocr_text: तर्कारी कटुरुष्णा च तिक्ताउनिलकफापहा शोफश्लेष्माग्निमान्द्यार्शो विडगन्धाउडध्माननाशिनी | | अग्निमन्थद्वयं चैव वीर्यरसादिषु | तत्प्रयोगानुसारेण योजयेत् स्वमनीषयाI| (Rjn) Agnimantha is katu, tikta in rasa, usna in veerya, anila kapha hara, cures sopha, slesma, agni mandya, arsa vid gandha and adhmana The second variety of agnimantha has similar properties and is to be used accordingly तुल्यं तर्कारी कटुका तिक्ता तथोष्णाडनिलपाण्डुजित् शोषश्लेष्माग्निमान्द्यामविबन्धाँश्च विनाशयेत्I| (Dhn) Tarkari is katuka, tikta in rasa, usna in veerya, anilapandu hara, cures sosa, slesma, agnimandya and vibandha अग्निमन्थः श्वयथुनुद् वीर्योष्णः कफवातहृत् पाण्डुनुत् कटुकस्तिक्तस्तुवरो मधुरोडग्निदः [ (Bpn) Agnimantha is katuka, tikta, tuvara, madhura in rasa usna in veerya agni karaka, alleviates kapha, vata cures svayathu and pandu गणिकारी तु शोथघ्नी हिताघातविकारिणाम्I| (Rjv) Ganikari is sothaghna and useful in external vikara अग्निमन्थो गुरुस्तिक्तो वातशोफामजित् सरः (Sodala ) Agnimantha is tikta in rasa, guru, sara in guna, vata sopha ama hara गुणाः लघ्वाग्निमन्थस्य प्रोक्ताः वृद्धाग्निमन्थवत् विशेषाल्लेपने चोपनाहे शोफे च कीर्त्तितः|| (Nir) Laghu agnimantha is similar in property to that Of vrddha agnimantha

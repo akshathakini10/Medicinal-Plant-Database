@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 84f2bf552fd2d53f622dea4e8ba0c0d2
+Botanical Name: Cryptolepis buchananii ROEMER & SCHULTES
+Family: Periplocaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 68 Vernacular names found in 7 languages. Hindi (16) - dudhi, dudhi bel, dudhli, garol, jaman khumb, kala-bel, karanta, karmala-ki-bel, khurnmble, meda, meda singhi, medhkasinghi, naagbel, naagvel, singani, teela bakhri bel Kannada (9) - karanta, kareballi, karebanta, kari banti, kurabanthuma balli, maetguli hambu, maetla hambu, metaguli hambu, nelappaale Malayalam (4) - kalipalvalli, kallipalvalli, kattupalvalli, katu-pal-valli Marathi (4) - kaoval, karanti, katuphalveli, kawavel Sanskrit (16) - Sanskrit Comments  gopa, gopakanya, gopangana, gopasuta, gopavalli, gopi, karanta, koranta, krishnasariva, krsnasariva, sariba, sariva, sarivadvaya, svetasariva, syama, visanika Tamil (3) - maattaankodi, paal kodi, palkoti Telugu (16) - adavi palateega, adavipaalathige, adavipalatiga, adavipalatige, adivipalatige, gunji, gurugudalatige, gurugupalatige, guruguppaalathige, madanaseku, rokailipala, rokallipaala, rokallipala, rutupala, rythupaala, rytupala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 678
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/678.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/84f2bf552fd2d53f622dea4e8ba0c0d2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

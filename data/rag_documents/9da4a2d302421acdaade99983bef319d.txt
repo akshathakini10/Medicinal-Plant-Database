@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9da4a2d302421acdaade99983bef319d
+Botanical Name: Erythrina variegata L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Erythrina indica LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 242 Vernacular names found in 8 languages. Hindi (12) - dadap, farad, mandar, mandara, pamkara, pangara, pangra, panjira, pharad, pharhad, rakta madar, raktamadar Kannada (47) - bilee vaarjipe, bilivarijapa, bilivarjaya, haarivaana, halivana, halivara, hangara, hangaraka, hngaraka, holivara, hongaara, hongara, hongaraka, karakalli, kempuvarijapa, kempuvarippe, mandara, mullumarige, mullumurige, mullumurinje, mullumurinji, mullumurunji, mullumutalu, nimbataru, paarijaathaka, palivana, paliware, palwan, paravala, paravalada-mara, paravalla, paravella, parawalada, parijata, parivala, parivalada, parivana, pongaara, pongara, pongarada, pongare, saleki, vaarjipe mara, varijapa, varjipe, varjrapa, warjipe Malayalam (20) - kalyana-murukku-maram, kalyanamurikku, karimurikku, karu-murukkin-maram, kulmurikku, mandaram, mooloomoorikah, mouricou, mulloomurkai, mullumurika, mullumurikku, mulmurikku, mulmurukku, murikku, muruka, murukka, murukku, muruku, nimbataru, paribhadram Marathi (12) - farad, mandar, pamgero, panara, pandra, pangara, pangaru, pangira, pangra, pangri, paringa, phandra Sanskrit (22) - Sanskrit Comments  bahupushpa, kantaki, kantakinshuka, kantakipalasa, krimighna, krimishatru, mandalia, mandara, mimbataru, nimbataru, palasha, palitmandar, palitmandara, paribhadra, paribhadrah, paribhadraka, parijata, parijataka, prabhadraka, raktakeshar, raktakusuma, raktapuspa Tamil (94) - acatam, cavucayam, cemmurunkai, cincukam, civappumulmurunkai, irattapatam, kacakapali, kacakapalimaram, kacavakitam, kacavakitamaram, kalianamurungai, kalirakam, kalirakamaram, kaliram, kaliyana murukka, kaliyana murukkan, kaliyana murunkai, kaliyana-murukku, kaliyanamurukku, kaliyanamurunkaimaram, kalliram, kallyanamurukku, kalmurukku, kalyana murukkan, kalyana murungai, kalyanamurangai, kalyanamurukku, kalyanamurungai, kalyanamurunkai, kannalamurukku, kavir, kaviri#, kenikayam, kilimurukku, kilimurukkumaram, kincukam, mantaram, mantarikam, mantarikamaram, matitta, maturava, muccai, mucci, muccimaram, muchi mullumurukku, mulakatalam, mullumurukku, mullumurungai, mullumurunkai, mullumurunkaimaram, mulmurukkam, mulmurukku, munmurukku#, munmurukku@, munmurunkai, murukkai, murukkam, murukku, murukku 2, murukkumaram, mutcankarikam, mutpalacu, nalikacu 1, nalikati 1, palacam 2, palaceti, palasam, palasu, parani, pariyam 2, parni#, parnimaram, pavalattuvam, puncukam, savusayam, sinsugam, taipakikam, taipakikamaram, tavucayam, tavucayamaram, tikkarai, tikkaraimaram, tiramotikam, tiramotikamaram, tirimurtti, tiripalacam, tunkapattira, vallai, vallikkay, vannimurunkai, vannimurunkaimaram, velirrumaram, vippirappiriyam, viprapriyam Telugu (32) - badamu, badapu, badasapa, badchamu, badchipa-chettu, badida, badidamu, badidapu-chettu, badide, badidi, badiga, badisa, badise, badita, badite, baditha, baditi, badsta, baridamu, bhadesapa, mahameda, modugu, muccikarra, muchikatta, mulla moduga, paribhadrakamu, paribhavyamu, parijatamu, rohinamu, rundrun, tella-varjam, wangiram Tibetan (3) - ma nda la (d), ma nda ra, pa-ri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d/xclkon/ffef96b012fd8b5ae25a48a954e3c5df
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9da4a2d302421acdaade99983bef319d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Paribhadra
+sanskrit_name: पारिभद्र
+transliteration: pāribhadra
+ref_drug_name: पारिभद्र
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Parijata
+sanskrit_name: पारिजात
+transliteration: pārijāta
+ref_drug_name: पारिजात
+status: Accepted source
+discussion: Parijata and Paribhadra are synonymous to each other and identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Paribhadra
+sanskrit_name: पारिभद्र
+transliteration: pāribhadra
+image_urls: https://www.medicinalplants.in/slokaimages/686/686_1.jpg https://www.medicinalplants.in/slokaimages/686/686_2.jpg https://www.medicinalplants.in/slokaimages/686/686_3.jpg
+ocr_text: पारिभद्रः कटूष्णः स्यात्कफवानिकृन्तनः आरोचकहरः पथ्यो दीपनश्चापि कीर्त्तितः Il IRjn) Paribhadra is katu in rasa, usna in veerya, pathya, dipana, increases kapha, causes vanti, alleviates arocaka पीरिभद्रोडनिलश्लेष्मशोथमेदःकुमिप्रणुत् च तत्पत्रं पित्तरोगघ्नं कर्णव्याधिविनाशनम्| | (Bpnl Paribhadra alleviates anila , slesma, sotha meda and krmi Its patra alleviates pitta roga, cures karna vyadhi. पुष्पं पित्तरुजं हन्ति कर्णव्याधिं विनाशयेत्| INir) Paribhadra puspa alleviates pitta ruja and karna vyadhi.

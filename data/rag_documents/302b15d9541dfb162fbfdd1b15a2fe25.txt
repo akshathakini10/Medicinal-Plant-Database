@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 302b15d9541dfb162fbfdd1b15a2fe25
+Botanical Name: Tetracera scandens (L.) MERR
+Family: Dilleniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Delima scandens (L.) MERR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Sanskrit (2) - Sanskrit Comments  paniyavalli, susavi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/302b15d9541dfb162fbfdd1b15a2fe25
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 4296
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/4296.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/302b15d9541dfb162fbfdd1b15a2fe25/xclkon/af992980b10023046bbd813e16081cf3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/302b15d9541dfb162fbfdd1b15a2fe25
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/302b15d9541dfb162fbfdd1b15a2fe25/xclkon/af992980b10023046bbd813e16081cf3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/302b15d9541dfb162fbfdd1b15a2fe25
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

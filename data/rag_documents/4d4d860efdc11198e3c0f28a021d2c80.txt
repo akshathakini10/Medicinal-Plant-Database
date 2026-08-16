@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4d4d860efdc11198e3c0f28a021d2c80
+Botanical Name: Plantago depressa WILLD.
+Family: Plantaginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Plantago tibetica HK. & T.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Hindi (2) - isbagol, luhurya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d4d860efdc11198e3c0f28a021d2c80/xclkon/26d069191121c98f481f6376e8055196
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d4d860efdc11198e3c0f28a021d2c80
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d4d860efdc11198e3c0f28a021d2c80/xclkon/26d069191121c98f481f6376e8055196
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

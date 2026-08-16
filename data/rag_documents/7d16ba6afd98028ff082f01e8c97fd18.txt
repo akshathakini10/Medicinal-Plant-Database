@@ -1,0 +1,113 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7d16ba6afd98028ff082f01e8c97fd18
+Botanical Name: Prunus domestica L.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Prunus communis FRITSCH
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 38 Vernacular names found in 9 languages. English (1) - prune Hindi (6) - aloocha, alu, alubhokhara, alubukhara, alucha, shanalu Kannada (5) - aaloobokara, albogaara hannu, albogade, albokhala, alubokara Malayalam (2) - arukam, plums Marathi (4) - aaaloobukhaara, amenamchem, jhad, veeraruruka Sanskrit (7) - Sanskrit Comments  alabukhara, aruka, arukam, loni, lonika, viraruka, virasena Tamil (5) - alpagoda-pazham, alpakora, alpakotappalam, alpogadapazam, aluppukkarappalam Telugu (4) - alpagaadaa pondlu, alpagodapandu, alpagodapndu, alpogade Urdu (4) - ajaas, alu bokhara, alu bukhara, alubokhara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/9d28a1514765cf32a2f90216576b27ed
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/28ccf23205ffc54965024f78f318d039
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/9d28a1514765cf32a2f90216576b27ed
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/28ccf23205ffc54965024f78f318d039
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/9d28a1514765cf32a2f90216576b27ed
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/28ccf23205ffc54965024f78f318d039
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/9d28a1514765cf32a2f90216576b27ed
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/28ccf23205ffc54965024f78f318d039
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d16ba6afd98028ff082f01e8c97fd18/xclkon/9d28a1514765cf32a2f90216576b27ed
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aruka
+sanskrit_name: आरुक
+transliteration: āruka
+ref_drug_name: आरुक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Aruka
+sanskrit_name: आरुक
+transliteration: āruka
+ref_drug_name: आरुक
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Aruka
+sanskrit_name: आरुक
+transliteration: āruka
+ref_drug_name: आरुक प्रजाति
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 4
+drug_name: Aruka - prajati
+sanskrit_name: आरुक प्रजाति
+transliteration: āruka prajāti
+ref_drug_name: आरुक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Aruka - prajati
+sanskrit_name: आरुक प्रजाति
+transliteration: āruka prajāti
+ref_drug_name: आरुक
+status: Accepted source
+discussion: It is identified with this species
+reference: [5]
+
+Identity Record 6
+drug_name: Aruka - prajati
+sanskrit_name: आरुक प्रजाति
+transliteration: āruka prajāti
+ref_drug_name: आरुक प्रजाति
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

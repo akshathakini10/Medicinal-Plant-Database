@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 903e52187875a26d9d3555b5147d4043
+Botanical Name: Cymbopogon nardus (L.) RENDLE
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Andropogon nardus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 57 Vernacular names found in 8 languages. English (2) - citronella, mana grass Hindi (5) - ganjini, ganjinikaghas, ganjni, ganjni-ka-aitr, pustbur Kannada (10) - anjai hullu, bodhai-hullu, citronella aenna hullu, citronella hullu, ganda-hanchi-khaddi-yanne, gandahanchikhaddi, gandha hanchi kaddi hullu, kaamaakshi hullu, kamakshihullu, karathai Malayalam (5) - chora-pulla-enna, chorapullu, kamakshi-pulla-enna, kamakshipulla, ooshadhana Marathi (6) - gandhabael, ganjini, ganjni, sugandhi gavah, usadhana, ushadhan Sanskrit (1) - Sanskrit Comments  guchcha Tamil (18) - kaavattum pul, kamachippillu, kamakshi-pullu-yenney, kamakshipillu, kamatci-p-pul, kavattam-pullu-yenney, kavattampillu, kavattampul, manaka pillu, manda pillu, mandap-pullu-yenney, mandappillu, sengamanimalai-pillu, sengana pillu, shunnarip-pullu-yenney, sukkunaroo-pilloo, sunnarippillu, vasnepillu Telugu (10) - allapu kommu vellavanti gadda, allupu, bodha gaddi, kaamaakshikasavu, kaamanchi gaddi, kamakshi-kasuvu-nune, kamakshikasuvu, kamanchi-gaddinune, kamanchigaddi, kommu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/903e52187875a26d9d3555b5147d4043
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/903e52187875a26d9d3555b5147d4043/xclkon/baba8fd400be51d59ccd7fde7bf38011
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/903e52187875a26d9d3555b5147d4043
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/903e52187875a26d9d3555b5147d4043/xclkon/baba8fd400be51d59ccd7fde7bf38011
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/903e52187875a26d9d3555b5147d4043
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/903e52187875a26d9d3555b5147d4043/xclkon/baba8fd400be51d59ccd7fde7bf38011
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/903e52187875a26d9d3555b5147d4043
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jambira
+sanskrit_name: जम्बीर
+transliteration: jambīra
+ref_drug_name: जम्बीर
+status: Controversial
+discussion: Needs to be examined
+reference: [1]
+
+Identity Record 2
+drug_name: Jambira phala
+sanskrit_name: जम्बीरफल
+transliteration: jambīraphala
+ref_drug_name: जम्बीर
+status: Controversial
+discussion: Needs to be examined
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+image_urls: https://www.medicinalplants.in/slokaimages/550/550_1.jpg https://www.medicinalplants.in/slokaimages/550/550_2.jpg https://www.medicinalplants.in/slokaimages/550/550_3.jpg
+ocr_text: कत्तृणं श्वासकासघ्नं हृद्रोगशमनं परम् विसूच्यजीर्णशूलघ्नं कफपित्तास्रनाशनम् न (ज.नि) Kattrna alleviates svasa , kasa, visuci, ajirna, sula, best in pacifyng hrdroga, destroys kapha, pitta asra and कत्तृणा दशनामाढ्यं कटुतिक्तं कफापहम्| शस्त्रशल्यादिदोषघ्नं बालग्रहविनाशनम् | IRin) Kattrna is katu, tikta in rasa, dasanamdhya, alleviates kapha, sastra salyadi dosha and destroys bala Braha. रोहिषं तिक्तं कटुपाकं व्यपोहति | हृत्कण्ठव्याधिपित्तास्रशूलकासकफज्वरान् (Bpn) Rohisa is tuvara, tikta in rasa, katu in paka, alleviates hrt kantha vyadhi, pitta, asra, sula, kasa, kapha and jvara. तुवरं

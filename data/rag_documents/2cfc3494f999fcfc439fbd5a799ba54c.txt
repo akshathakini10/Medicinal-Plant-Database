@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2cfc3494f999fcfc439fbd5a799ba54c
+Botanical Name: Desmodium heterocarpon - var. strigosum VAN MEEWUEN
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Desmodium polycarpum DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  salaparni Telugu (4) - adavi vehinta, cepputatta, cheppu tatta, chepputatta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cfc3494f999fcfc439fbd5a799ba54c/xclkon/3d40303a6310088431d67393c0e2cc40
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cfc3494f999fcfc439fbd5a799ba54c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cfc3494f999fcfc439fbd5a799ba54c/xclkon/3d40303a6310088431d67393c0e2cc40
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cfc3494f999fcfc439fbd5a799ba54c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cfc3494f999fcfc439fbd5a799ba54c/xclkon/3d40303a6310088431d67393c0e2cc40
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

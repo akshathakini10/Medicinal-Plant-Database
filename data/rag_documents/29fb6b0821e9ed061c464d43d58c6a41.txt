@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 29fb6b0821e9ed061c464d43d58c6a41
+Botanical Name: Vigna vexillata (L.) A. RICH.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Dolichos cylindricus DESV.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 3 languages. Hindi (2) - lovia, machali Malayalam (1) - kattupayar Sanskrit (3) - Sanskrit Comments  mudgaparni, nispava, rajamasa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29fb6b0821e9ed061c464d43d58c6a41/xclkon/e7ebe65a7c1d3948a6bcafa33d73c1f1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2203
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2203.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29fb6b0821e9ed061c464d43d58c6a41
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/29fb6b0821e9ed061c464d43d58c6a41/xclkon/e7ebe65a7c1d3948a6bcafa33d73c1f1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

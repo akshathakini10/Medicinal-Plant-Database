@@ -1,0 +1,118 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5e94437cadafc8b817a3bd21f1e4b408
+Botanical Name: Lagenaria siceraria (MOLINA) STANDLEY
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cucumis lagenarius DUM. Cucurbita lagenaria L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 166 Vernacular names found in 10 languages. English (2) - bottle gourd, calabash gourd Hindi (21) - al tumba, alkaddu, altumba, golkaddu, jangli-khaddu, kaddu, kadutumbari, kadutumbi, kadvilauki, kashiphal, khaddu, lau, lauka, lauki, laukii, mithitumbi, titalau, titalauki, tumba, tumbo, tumri Kannada (13) - easagori balli, eesugaayi, eesugaayi balli, eesugumbala, elachiballi, gaayi balli, haalu gumbala, halagumbala, halugumbala, kadusore, kahisore, khaisore, sore balli Malayalam (10) - anapa-kai, bela-schora, bellashora, caca-palam, caipa-schora, kaippan cura, kaippancura, kattucura, katuchuram, peccura Marathi (9) - bhopla, doodhbhoplaa, doodhya, dudhi, dudhya, kadubhipla, kadubhopla, mharodudhi, ran-bhopla Sanskrit (37) - Sanskrit Comments  alabu, alabuh, alavu, bhakshya-alabu, brihatphala, dantabija, evari, ikshavaku, ikshwaku, iksvaku, iksvakuh, katu-tumbi, katukalabu, katukalabuh, katukalambuni, katutiktaka, katutumbi, katutumbiniumbi, kshatriyavira, labuka, lamba, madhura-alabu, mahaphala, nripatmaja, nrtya kundala, phalini, pindaphala, rajputri, tikta-tumbi, tiktabija, tiktaka, tiktalabu, tumba, tumbaka, tumbi, tumbika, tumbini Tamil (41) - akakkoti, alakam, anakam#, anakam@, cenkotakakkoti, cenkotakam, churai, ciratumpi, curai, curai vittu, curai@, curaicamulam, curaikkay, curaikkoti, curaikkoti#, curaikkoti@, kaippuc-curai, kariccurai, karuncanam1, korkoti, kumatti2, kutampil, kuyampikkati, munakkam, natankay, nattuccurai, nattuccuraikkoti, netuncurai, netuncuraikkoti2, nittakkavitakkay, nittakkavitam, purkoti, shorakkai, sorakai, sorakkai, suraikai, tumpal, tumpalai, tumpam, utiriminti, utirimintikkay Telugu (19) - aanapa-kai, alaabuvu, alaburu, anapachettu, anapakaaya, anugakaaya, anugakaya, chiti-anab, gubbakaaya, gubbakaya, kundaanuga, kundanuga, nelanuga, nlaanuga, sora kaya, sorakaaya, sorakaya, sorakkaya, surakaya Tibetan (2) - ku ba, ku ba kha bo Urdu (12) - ab kaddu sabz, kaddu-e-daraz, kaddu-i-taza tarasha hua, maghz kaddu, maghz kaddu nim kofta, maghz kaddu-i-shirin, maghz tukhm kaddu, maghz tukhm kaddu shirin, maghz tukhm kaddu-i-shirin, maghz tukhme kaddu, maghz-i-tukhm-i-kaddu, moghz tukhm kaddu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/7e9789e6983b6c018811a3d7166ea41d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/151d1bc7d3cdd304dbd119223584b7c7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/1931ef998efb2ac43948d22f0e960b54
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/6c6dcbd25a20b0c7532c99a2ae8f9b73
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/7e9789e6983b6c018811a3d7166ea41d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/151d1bc7d3cdd304dbd119223584b7c7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/1931ef998efb2ac43948d22f0e960b54
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/6c6dcbd25a20b0c7532c99a2ae8f9b73
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/7e9789e6983b6c018811a3d7166ea41d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/151d1bc7d3cdd304dbd119223584b7c7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/1931ef998efb2ac43948d22f0e960b54
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/6c6dcbd25a20b0c7532c99a2ae8f9b73
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/7e9789e6983b6c018811a3d7166ea41d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/151d1bc7d3cdd304dbd119223584b7c7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/1931ef998efb2ac43948d22f0e960b54
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/6c6dcbd25a20b0c7532c99a2ae8f9b73
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/7e9789e6983b6c018811a3d7166ea41d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/151d1bc7d3cdd304dbd119223584b7c7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/1931ef998efb2ac43948d22f0e960b54
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/6c6dcbd25a20b0c7532c99a2ae8f9b73
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e94437cadafc8b817a3bd21f1e4b408/xclkon/7e9789e6983b6c018811a3d7166ea41d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Alavu
+sanskrit_name: अलावु
+transliteration: alāvu
+ref_drug_name: अलावु
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 2
+drug_name: Alavu
+sanskrit_name: अलावु
+transliteration: alāvu
+ref_drug_name: अलावु
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Iksvaku
+sanskrit_name: इक्षुवाकु
+transliteration: ikṣuvāku
+ref_drug_name: इक्षुवाकु
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Iksvaku
+sanskrit_name: इक्षुवाकु
+transliteration: ikṣuvāku
+image_urls: https://www.medicinalplants.in/slokaimages/521/521_1.jpg https://www.medicinalplants.in/slokaimages/521/521_2.jpg https://www.medicinalplants.in/slokaimages/521/521_3.jpg
+ocr_text: कासश्वासच्छर्दिहरा विषर्ति कफकर्षिते| इक्ष्चाकुः वमसे शस्ता. १l IDhn) Iksvaku is used in kasa, svasa, chardi, visa, kapha karsita and is an effective semenogogue. वान्तिकृच्छ्वासकासजित् | कासघ्नी शोधनी शोफव्रणशूलविषापहा | | Rjnl Katutumbi is katu in rasa, tiksna in guna, vanti karaka, sodhani, cures svasa, kasa, sopha, vrana, sula ana visha कटुतुम्बी कटुस्तीक्ष्णा हिमा हृद्या पित्तकासविषापहा तिक्ता च वातपित्तज्वरान्तकृत् T IBpn) Katutumbi is tikta in rasa, hima in veerya, katu in paka, alleviates pitta, is hrdya, cures kasa, visha ana jvara due to vata and pitta कटुतुम्बी कटुर्विपाके

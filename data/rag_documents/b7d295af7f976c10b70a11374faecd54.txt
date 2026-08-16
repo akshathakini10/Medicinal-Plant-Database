@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b7d295af7f976c10b70a11374faecd54
+Botanical Name: Hypericum perforatum L.
+Family: Hypericaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. English (5) - amber touch-and-heal, goatweed, klamath weed, rosin rose, st. johns wort Hindi (1) - choli phulya Tamil (1) - vettai pakku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7d295af7f976c10b70a11374faecd54
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7d295af7f976c10b70a11374faecd54
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b7d295af7f976c10b70a11374faecd54
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

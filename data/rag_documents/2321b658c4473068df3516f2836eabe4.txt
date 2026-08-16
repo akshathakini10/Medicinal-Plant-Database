@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2321b658c4473068df3516f2836eabe4
+Botanical Name: Sansevieria hyacinthoides (L.) DRUCE
+Family: Agavaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Sansevieria zeylanica WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 3 languages. Marathi (1) - murgali Sanskrit (8) - Sanskrit Comments  madhurasa, marura, muroova, muruva, murva, nagadamana, piluparni, sitaravi Tamil (5) - marool kalung, marul kilang, marul-kilang, marut kilanku, perungurumbai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4/xclkon/fac0646b7fafcca760dc4227d0924d88
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2321b658c4473068df3516f2836eabe4/xclkon/fac0646b7fafcca760dc4227d0924d88
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nagadamana - prajati
+sanskrit_name: नागदमन प्रजाति
+transliteration: nāgadamana prajāti
+ref_drug_name: नागदमन प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

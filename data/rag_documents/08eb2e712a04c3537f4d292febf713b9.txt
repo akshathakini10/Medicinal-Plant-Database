@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 08eb2e712a04c3537f4d292febf713b9
+Botanical Name: Panicum sumatrense ROTH E ROEM. ET SCHULT.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Panicum milliare AUCT. NON LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 9 languages. English (2) - little millet, sama Hindi (5) - kumku, kungu, kutki, savan, shavan Kannada (7) - baragu, bili saame, chamala hullu, navanikki, saame hullu, saave hullu, save Malayalam (1) - cama Marathi (8) - bhadli, halvi-vari, saavaa, sava, vara, vari, vari-gudhi, vari-mahan Sanskrit (1) - Sanskrit Comments  syamakah Tamil (3) - camai, peru samai, samai Telugu (6) - chamalu, gnga samula, korralu, nalla shaama, nalla shaamalu, nallachamalu Urdu (1) - kutki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08eb2e712a04c3537f4d292febf713b9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08eb2e712a04c3537f4d292febf713b9/xclkon/1c0b3c6ae073a9c5d14d11c9bcf134a3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08eb2e712a04c3537f4d292febf713b9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08eb2e712a04c3537f4d292febf713b9/xclkon/1c0b3c6ae073a9c5d14d11c9bcf134a3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08eb2e712a04c3537f4d292febf713b9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08eb2e712a04c3537f4d292febf713b9/xclkon/1c0b3c6ae073a9c5d14d11c9bcf134a3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08eb2e712a04c3537f4d292febf713b9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08eb2e712a04c3537f4d292febf713b9/xclkon/1c0b3c6ae073a9c5d14d11c9bcf134a3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08eb2e712a04c3537f4d292febf713b9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0148ab6fd1941b9a26c41ab6f649ac77
+Botanical Name: Guizotia abyssinica CASS
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 7 languages. English (2) - niger seed, ramtil Hindi (2) - kalatil, surguja Kannada (8) - goorellu, gurellu, huchchellu, huchhellu, huchhu ellu, huttchellu, kaadellu, ramtil Marathi (7) - damlo-til, kaalithil, kalitil, karale-til, kerani, kersani, rantil Sanskrit (1) - Sanskrit Comments  tila Tamil (3) - kattel, payellu, uchellu Telugu (4) - adavinvvulu, valesulu, valiselu, vulisi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0148ab6fd1941b9a26c41ab6f649ac77
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0148ab6fd1941b9a26c41ab6f649ac77
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0148ab6fd1941b9a26c41ab6f649ac77
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0148ab6fd1941b9a26c41ab6f649ac77
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

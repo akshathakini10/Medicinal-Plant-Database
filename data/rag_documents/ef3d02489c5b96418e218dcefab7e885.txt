@@ -1,0 +1,72 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ef3d02489c5b96418e218dcefab7e885
+Botanical Name: Embelia ribes BURM.F.
+Family: Myrsinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 152 Vernacular names found in 9 languages. Hindi (6) - baba-rang, baberang, bhabhiramg, karkannie, vayvidamg, wawrung Kannada (12) - amogha, hulimeese, vaayu vilanga, vaayu-vilanga, varana, vayi-vulanga, vayivilanga, vayubaliga, vayubilagu, vayuvilanga, vidanga, vilanga Malayalam (8) - pu-valli, tiriitticanni, tiruvittikanni, vayi-valannam, vayvilankam, vilal, visalam, vishaul Marathi (8) - ambti, baavdinga, karkannie, karkunnie, vaavadinga, vayvarang, vvavadinga, waiwarang Sanskrit (45) - Sanskrit Comments  amodha, amogha, anthunashana, bhasmaka, bidanga, chibatandula, chitra, chitra-tandula, chitrabija, chitratandula, citratandula, gahara, gardabha, ghosha, j vidangaka, jantughna, jantunashaka, kairala, kapali, kevala, krimighna, krimiha, krimikantaka, krimiripu, krimishetru, krmighna, krmiripu, mogha, mrigagamini, pavaka, rasayana, shudratandula, suchitrabija, tandula, tundula, tunduliyaka, vara, vatari, vella, vellah, vidanga, vidangah, vidangam, vrishanashana, vrishnasana Tamil (56) - campinattati, cantu2, carukkaraikkulikam, cintamai, kairali, kaivilankam, kapuliyarici, karicunti, kattukkodi, kattukkoti2, kattukodi, keralam, kirumikkinam2, kirumiyani, kirumiyari, kitacatturu, kitappakai, mantiyattaimarukkinron, mirukakamini#, mirukakamini@, mirukakamiyam, mirukavakkini, parivilankam, pulupakai, tantulam4, tantuliyam, titcanatantu, urucakam2, vaayuvidangam, vai vilangam, vaividangam, vaivilangam, vaivitankam, varnanai, vayi-vilangam, vayivilangam, vayu vilankam, vayu-vilamga, vayu-vilamgam, vayu-vilangam, vayuilankum, vayuvilanga, vayuvilankam, vayvilankam, vayvilankam#, vayvilankam@, vayvitankam, vellai, vellal, vennoccilvirai, vicalam 2, vilalarici, vilankam 1, vitankam, vivilangam, vollai Telugu (9) - potosul, vaividungalu, vayi-vitangamu, vayivilangamu, vayu-vilangam-chettu, vellal, vidangamu, vilangamu, vyivilangamu Tibetan (5) - bi-dan, bi-tan-ka, byi dan ga (d), byi tam ka, byi tan ga Urdu (3) - baobadang, baobarang, baobarang (babrang)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 891
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/891.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ef3d02489c5b96418e218dcefab7e885
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vidanga
+sanskrit_name: विडङ्ग
+transliteration: viḍaṅga
+ref_drug_name: विडङ्ग
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Vidanga
+sanskrit_name: विडङ्ग
+transliteration: viḍaṅga
+ref_drug_name: विडङ्ग
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vidanga
+sanskrit_name: विडङ्ग
+transliteration: viḍaṅga
+image_urls: https://www.medicinalplants.in/slokaimages/670/670_1.jpg https://www.medicinalplants.in/slokaimages/670/670_2.jpg https://www.medicinalplants.in/slokaimages/670/670_3.jpg https://www.medicinalplants.in/slokaimages/670/670_4.jpg https://www.medicinalplants.in/slokaimages/670/670_5.jpg https://www.medicinalplants.in/slokaimages/670/670_6.jpg https://www.medicinalplants.in/slokaimages/670/670_7.jpg https://www.medicinalplants.in/slokaimages/670/670_8.jpg
+ocr_text: पुंसि क्लीबे विडङ्ंग स्यात् जन्तुनाशनः तण्डुलश्च तथा वेल्लममोघा चित्रतण्डुला Il (Bpnl Pumsi, Kliba, Vidanga, Krmighnam, jantu nasanam, Tanaula, Vellam, Amogha, Citra tandula कृमिघ्नो विडङ्गा चैत्रा तण्डुला तण्डुलीयका वातारिस्तण्डुला प्रोक्तो मृगगामिनी कैरली गह्वराडमोघा कपाली चित्रतण्डुला वरा सुचित्रबीजा जन्तुहन्त्री च षोडशा Il IRjnl Vidanga is otherwise called as Krmiha, Caitra, Tandula, Tanduliyaka, Vatari, Tandula, Jantughni, Mrgagamani, Kairali, Gahvara, Amogha, Kapali, Citra tanaula, Vara, Sucitrabija, Jantuhantri. कृमिहा जन्तुघ्नी विडङ्ग कृमिजिद्वेल्लं जन्तुघ्नं मृगगामिनी कृंमिहन्तृ कैरलं चित्रतण्डुलम् अमोघा तण्डुला घोषा भूतघ्नं कृमिहृदपि IKdnl Vidanga, Krmijit, Vellam, Jantughna, Mrgagamini, Krmihanti, Krmihara, Kairala, Citra tandula, Amogha, Tandula, Ghosha, Krmihrd. कृमिहरं मोघा विडङ्ग कृमिकण्टकम् कैरलं केवलं वेल्लं तण्डुलं चित्रतण्डुलम् ISgn ) Synonyms: Krmighna, Bhasmaka, Mogha, Vidanga, Krmikantaka, Kairala Kevala, Vella, Tandula, Citra tandula. कृमिघ्नं भस्मकं कफवातप्रश्मनं शूलानाहार्तिनाशनम् कृमिघ्नं कटुकं पाके विडङंग परिकीर्तितम् IMdn) Vidanga is Kapha Vata prasamana, Sula Anaha Arti Nasana, Krmighna, Katu in Paka विडङ्गं कटु तीक्ष्णोष्णं रूक्षं वह्निकरं लघु शूलाध्मानोदरश्लेष्मकृमिवातविबन्धनुत् |l (Bpnl Vidanga is Katu in rasa, Tiksna, Ruksa, in Guna, Usna in Potency, Vahni kara, Laghu, cures Sula, Adhmana, Udara, Slesm, Krmi, Vata vibandha. रूक्षोष्णं पाके लघु वातकफापहम् ईषतिक्तकं विषान् हन्ति विडङ्गं कृमिनाशनम् IDhn ) Vidanga is Ruksa in Guna, Usna in Potency, Katu in Paka, Laghu in Guna, Vata-Kapha hara, Isat Tikta, Visan Hanti, Krmi Nasana कटुकं विडङ्ंग कटुरुष्मा च अग्निमान्द्यारुचिभ्रा नि कृमरदाषक्वैमार्शिनृता IRjn) Vidanga is Katu in Rasa, Usna in Potency, Laghu in Guna, Kapha Arti Nasa, cures Agnimandya, Aruci, Bhranti, Krmi.

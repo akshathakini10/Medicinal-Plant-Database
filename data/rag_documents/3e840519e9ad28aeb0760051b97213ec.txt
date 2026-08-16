@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3e840519e9ad28aeb0760051b97213ec
+Botanical Name: Diospyros melanoxylon ROB.
+Family: Ebenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 125 Vernacular names found in 7 languages. Hindi (11) - abnus, biri-patta, kendu, makartendua, temru, tenda, tendu, tendu-patta, timbarana, timbarna, timru Kannada (30) - abanaashi, abanasi, aenne, aennemara, annathammana mara, balai, bale, bansampa, beediyele mara, bilara, billaaradamara, challaane, chirathinjali, dhuma, duparasu, gandu anne mara, googe, googe mara, guggala, kallapaini, kari, mallali, maradenne, thoobara, thoopra, thumbarashi, thumbri, tumari, tumburasu, tupra Malayalam (1) - kari Marathi (12) - kaakathembhurni, kakatembhurni, tembiri, temru, tendu, thaamruja, themru, thendu, thimburni, thumri, timburni, tumri Sanskrit (17) - Sanskrit Comments  dirghapatraka, jalaja, kakabijaka, kakada, kakapiluka, kakasphurja, kakatindu, kakatinduka, kakavha, kakendu, kakenduka, kenduka, kulaka, kupilu, tinduka, tinduki, tumvuru Tamil (18) - beedi elai, catukama, catukamacceti, karai, karumdumbi, karun thumbi, karundumbi, karungali, karunkali, karunthumbi, karuntumpai 1, karuntumpi, karupputumbi, thumbi, tumbi, tumbili, tummi, tumpili Telugu (36) - beedi aaku, beedi aku, damadi, gike, manchi tumiki, manchigata, manchighata, mancigata, manjigata, nallathumiki, nallatumiki, tellagada, thellagada, thumida, thumiki, thumki, thummika, thuniki, timmurri, toomida, tuki, tumbi, tumi, tumida, tumiki, tumikka, tumki, tummada, tummi, tummida, tummika, tummiki, tummikia, tumri, tuniki, tunki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e840519e9ad28aeb0760051b97213ec
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 836
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/836.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e840519e9ad28aeb0760051b97213ec
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e840519e9ad28aeb0760051b97213ec
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e840519e9ad28aeb0760051b97213ec
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3e840519e9ad28aeb0760051b97213ec
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tinduka
+sanskrit_name: तिन्दुक
+transliteration: tinduka
+ref_drug_name: तिन्दुक
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tinduka
+sanskrit_name: तिन्दुक
+transliteration: tinduka
+image_urls: https://www.medicinalplants.in/slokaimages/625/625_1.jpg https://www.medicinalplants.in/slokaimages/625/625_2.jpg https://www.medicinalplants.in/slokaimages/625/625_3.jpg https://www.medicinalplants.in/slokaimages/625/625_4.jpg
+ocr_text: स्यादामं तिन्दुकं ग्राहि वातलं शीतलं लघु | पक्वं पित्तप्रमेहास्रश्लेष्मघ्नं मधुरं गुरु|| (Bpnl Tinduka ama phala is grahi, laghu in guna, sita in virya and alleviates vata Pakva phala is madhura in rasa, guru in guna, alleviates pitta, asra and slesma, cures prameha. तिन्दुकस्तु कषायः स्यात् संग्राही वातकृत् परः पक्वस्तु मधुरः स्निग्धो श्लेष्मलो गुरुः Il KRjnl Tinduka is kashaya in rasa, sangrahi and increases vata. Pakva phala is madhura in rasa , snigaha, guru in guna, durjara and slesmala दुर्जरः तुन्दुकं कफपित्तघ्नं कषायं मधुरं लघु| | चरक सू॰ २७ Tinduka is kashaya, madhura in rasa, laghu in guna, alleviates kapha ana pitta तिन्दुकम् अनन्नद्रव्यरुचिकराणां श्रेष्ठम् चरक सू॰ २६ Tinduka is srestha anna dravya ruci kara.

@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d4a33b327b00a983811a8e94a3d29e78
+Botanical Name: Capparis roxburghii DC.
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  rudanti Telugu (5) - abooba, agooba, aguba, chittigara, cittigara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4a33b327b00a983811a8e94a3d29e78
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 434
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/434.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d4a33b327b00a983811a8e94a3d29e78
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rudanti - prajati
+sanskrit_name: रुदन्ती प्रजाति
+transliteration: rudantī prajāti
+ref_drug_name: रुदन्ती प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d9f128d8706fee68abedcdb44f709855
+Botanical Name: Sarcostemma acidum VOIGT
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sarcostemma acidium (ROB.) VOIGT
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 106 Vernacular names found in 7 languages. Hindi (3) - soma, somalata, somlata Kannada (20) - braahmi, brahmi, haalu kalli, hambu balli, hambu kalli, hambukalli, hambukkalli, haralu valla, jolugalli, kallihambu, konana balli, konana hambu, soma lathe, somaballi, somalata, somalate, somalatha, vasukaanthi, vasukaanti, vasukanti Malayalam (5) - somalata, somam, somavallari, somavalli, vayastha Marathi (4) - raanashera, ransher, ransheryel, somyel Sanskrit (19) - Sanskrit Comments  apatravallika, chandravallari, dhanurlata, dvijapriya, gulmavalli, indulekha, mahagulma, mahisavalli, padmakashtha, soma, somakshiri, somalata, somarha, somavalli, somavallika, soumya, yajnanga, yajnashreshtha, yajnavalli Tamil (23) - comam 2, cori 2, erali, eralikkoti, inavakkiram 2, kalippukkalli, kodikalli, kodikkalli, kompukkalli, kondapala, kotikkalli, kotivirutcam, kunmavalli, palini 1, palukkulcutankatti, parpati, parpatikkoti, somam, somamum, titcani, vatanacani 2@, vatanacani@, virocani 2 Telugu (32) - aaku jemudu, aku jemudu, dustappa tiga, dustappatiga, eripulinga, jigatshumoodoo, kaadujemmudu, kada jhemudu, kadujemudu, konda pala, kondapaala, kondapala, padmakaashtamu, padmakashtam, padmakashtamu, palmakasturi, pandri jemmudu, pollatige, pula kada, pulla jemmudu, pulla jemudu, pullajemudu, pullathige, pullatige, somalata, somalatha, somamu, teega jemudu, theegajamudu, theegajemmudu, tigatshomoodoo, tigejemudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/d220e08eed5a14c1717248db4c75a8d5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/d220e08eed5a14c1717248db4c75a8d5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/d220e08eed5a14c1717248db4c75a8d5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9f128d8706fee68abedcdb44f709855/xclkon/b401eba3bb6e9d125adf1db079e27366
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Soma
+sanskrit_name: सोम
+transliteration: soma
+ref_drug_name: सोम
+status: Controversial
+discussion: Exploring ancient texts we can come to the conclusion that: during the period of Caraka, 'Soma' was not notable. During Susruta period it was very popular and many drugs were known as 'Soma'.During the period of Vagbhata it bacame inconspicous; Considering these facts it becomes difficult to ascertain which is the real 'Soma' of ancient times; Presently scholars have correlated many species to 'Soma' and this species is one among them
+reference: [5]
+
+Identity Record 2
+drug_name: Somavalli
+sanskrit_name: सोमवल्ली
+transliteration: somavallī
+ref_drug_name: सोम
+status: Controversial
+discussion: Exploring ancient texts we can come to the conclusion that: during the period of Caraka, 'Soma' was not notable. During Susruta period it was very popular and many drugs were known as 'Soma'.During the period of Vagbhata it bacame inconspicous; Considering these facts it becomes difficult to ascertain which is the real 'Soma' of ancient times; Presently scholars have correlated many species to 'Soma' and this species is one among them
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Soma
+sanskrit_name: सोम
+transliteration: soma
+image_urls: https://www.medicinalplants.in/slokaimages/1446/1446_1.jpg
+ocr_text: सोमक्षीरी धन्वतरुर्यज्ञनेता द्विजप्रियः | | पक्षपत्रो महार्घोअन्यो नहागुल्मो मखप्रभुः | श्येनाहृतस्तस्य भेदा विंशतिश्चतुरुत्तरा| | सोमवल्ली कटुस्तिक्ता त्रिदोषघ्नी रसायनी| KKdn) Synonyms of soma are somaksiri, dhanvataru, yagnaneta, dvijapriya, paksapatra, maharga, mahagulma, makhaprabhu, syenahrt. It is katu, tikta in rasa, alleviates tridoshas rasayana in karma and
+
+Shloka Record 2
+drug_name: Somavalli
+sanskrit_name: सोमवल्ली
+transliteration: somavallī
+image_urls: https://www.medicinalplants.in/slokaimages/1446/1446_1.jpg
+ocr_text: सोमक्षीरी धन्वतरुर्यज्ञनेता द्विजप्रियः | | पक्षपत्रो महार्घोअन्यो नहागुल्मो मखप्रभुः | श्येनाहृतस्तस्य भेदा विंशतिश्चतुरुत्तरा| | सोमवल्ली कटुस्तिक्ता त्रिदोषघ्नी रसायनी| KKdn) Synonyms of soma are somaksiri, dhanvataru, yagnaneta, dvijapriya, paksapatra, maharga, mahagulma, makhaprabhu, syenahrt. It is katu, tikta in rasa, alleviates tridoshas rasayana in karma and

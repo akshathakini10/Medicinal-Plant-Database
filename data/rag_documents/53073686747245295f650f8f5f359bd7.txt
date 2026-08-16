@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 53073686747245295f650f8f5f359bd7
+Botanical Name: Pistia stratiotes L.
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 121 Vernacular names found in 9 languages. English (2) - water leltuce, water lettuce Hindi (5) - jal-kumbhi, jalkhumbi, jalkumbhi, kalkhunbi, takapana Kannada (7) - aakaasha thaamare, antara gange, antaragange, anthara daavare, anthara gange, anthara thaamara, jala kumbika Malayalam (2) - kodda-pail, koddapail Marathi (8) - gondaala, gondala, jalabandavi, jalamandvi, jelo, paankumbhi, praashnee, prasni Sanskrit (21) - Sanskrit Comments  akashamuli, ashakumbhi, bariparni, daladhaka, hathah, jalakumbhi, jalakumbhika, jalavalkala, khali, khamulika, kumbhika, kumuda, kutrina, paniyaprishthaja, pariparni, parni, prashni, shvetaparna, untarei-tamara, varimuli, variparni Tamil (64) - aakaasa taamarai, aakayatamarai, acakuppi, agasa tamarai, agasa-tamarai, agasatamarai, agasatamaray, akacamuli, akacattamarai, akasa thamarai, akasa-thamarai, akayaddamarai, akayamuli 1, akayat tamarai, akayat tamarai ilai, akayat-tamarai, akayattamarai, andara thamarai, antara-t-tamarai, antaramuli, antarat tamarai, antaratamarai, antarattamarai, antarattamarai ver, avam, calacarakkuli, calakkan, calakkaran, calaputpam 1, calaputpapalava, calavakaram, calavataram, carata, ilatcumicirestar, inattamarai, irecakunakkoti, irecakunam, kavutikam, kavutittamarai, kodi-tamarai, kottaippacam, kottaippaci, kuli thamarai, kulirtamarai, kulittamarai#, kulittamarai@, kumpika 1, kuruttamarai, kuzhi-thamarai, nanaivaratti, nanaiyavaratti, nirmelpaccilai, nirneruppu 1, paccaikkottai, paccaikkottaittamarai, pankacakam, pankacakitam, patumacarini, patumapattiri, pauttaratamarai, picacutamarai, titcaram, varapicam, velittamarai Telugu (11) - aakaasathaamara, akasatamara, antara tamara, antharathaamara, autaratamara, budaga tamara, neeraaku, neerubudiki, niru-buduki, nirubudiki, thoodi koora Urdu (1) - jalakumbhi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/53073686747245295f650f8f5f359bd7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jalakumbhi
+sanskrit_name: जलकुम्भी
+transliteration: jalakumbhī
+ref_drug_name: जलकुम्भी
+status: Accepted source
+discussion: Its identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Kumbhika
+sanskrit_name: कुम्भिका
+transliteration: kumbhikā
+ref_drug_name: कुम्भिका
+status: Controversial
+discussion: It is correlated to this species as Dalhana has given the name Variparni which is commonly known as Jalakumbhi for Kumbhika in his comments, but this is considered as a tree
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

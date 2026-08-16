@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3b0976311c9d03731c49bc5d487b01fd
+Botanical Name: Calamus viminalis WILLD.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 5 languages. Kannada (3) - naadeyi, nadeyi, niruhabbe Malayalam (6) - cerucural, chural, cural, parambu, purampu, tsjerutsjurel Sanskrit (4) - Sanskrit Comments  ambuvetasa, kyeingkha, kyenka, vetra Tamil (3) - cirupirappankilanku, pirambu, pirampu Telugu (7) - amalavetasamu, amlavetasamu, betham, bettamu, papatige, pepa, pepabettamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b0976311c9d03731c49bc5d487b01fd
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 400
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/400.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b0976311c9d03731c49bc5d487b01fd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b0976311c9d03731c49bc5d487b01fd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

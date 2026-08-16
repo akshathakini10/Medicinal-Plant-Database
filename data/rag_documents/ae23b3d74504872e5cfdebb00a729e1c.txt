@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ae23b3d74504872e5cfdebb00a729e1c
+Botanical Name: Tephrosia uniflora PERS. subsp. petrosa (BLATT. & HALLB.) GILLETT & ALI
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Tephrosia petrosa BLATTER & HALBB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Hindi (1) - bhaker biyani Sanskrit (4) - Sanskrit Comments  kantapunkha, kanthalu, kanthapunkha, kanthapunkhika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c/xclkon/2ee1929c97b119f74dac6bf8d671de7a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c/xclkon/8946b42a345f9b2c999041ddee41ad60
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c/xclkon/2ee1929c97b119f74dac6bf8d671de7a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c/xclkon/8946b42a345f9b2c999041ddee41ad60
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae23b3d74504872e5cfdebb00a729e1c/xclkon/2ee1929c97b119f74dac6bf8d671de7a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kantakapunkha
+sanskrit_name: कण्टकपुंखा
+transliteration: kaṇṭakapuṃkhā
+ref_drug_name: कण्टकपुंखा
+status: Most probable
+discussion: In Raja nighantu, 'Kantapunkha' has been mentioned as a type of 'Sarapunkha' which is most probably identified with this species; This species is mostly found in Punjab and Rajasthan
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

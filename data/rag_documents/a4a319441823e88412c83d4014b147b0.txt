@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a4a319441823e88412c83d4014b147b0
+Botanical Name: Justicia betonica L.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 6 languages. Kannada (1) - kaadu kanakaambara Malayalam (4) - bem-curini, bemcurini, karimkurunni, venkurinni Marathi (1) - dhavo-pokso Sanskrit (2) - Sanskrit Comments  sahacarah, sveta-sahacarah Tamil (1) - velimungil Telugu (2) - tellarantu, thellarantu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4a319441823e88412c83d4014b147b0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4a319441823e88412c83d4014b147b0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4a319441823e88412c83d4014b147b0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

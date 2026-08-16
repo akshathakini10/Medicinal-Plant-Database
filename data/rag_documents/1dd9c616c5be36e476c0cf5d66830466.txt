@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1dd9c616c5be36e476c0cf5d66830466
+Botanical Name: Sesbania cannabina RETZ. POIRET
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Sesbania aculeata PERS. var. cannabina (RETZ.) BAKER
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Sanskrit (2) - Sanskrit Comments  itkata, jayanti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd9c616c5be36e476c0cf5d66830466
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd9c616c5be36e476c0cf5d66830466/xclkon/0e4fa2c048b43b3c70d1f78556968dbe
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1dd9c616c5be36e476c0cf5d66830466
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Itkata
+sanskrit_name: इत्कट
+transliteration: itkaṭa
+ref_drug_name: इत्कट
+status: Accepted source
+discussion: Vaidyas in Gujarat consider 'Ikad' as 'Itkata' which is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

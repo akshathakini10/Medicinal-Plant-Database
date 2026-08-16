@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8788ac9bc43d3350b4e3e9f689b6a139
+Botanical Name: Guettarda speciosa L.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 5 languages. Kannada (3) - bilihoovina lakki, bilihuvinalakki, panneralu Malayalam (4) - rava-pou, ravapoo, ravapu, ravupu Sanskrit (1) - Sanskrit Comments  hinma Tamil (20) - civakayam, civakayamaram, cuvarpavamaram, kacippannirmaram, katampu2, malaiyampu, malaiyampumaram, marutakikam, marutakikamaram, panneermaram, pannir, panniramaram, pannirmaram, pannirppu 1, pannirppumaram, pannirpumaram, teyvappu, teyvappumaram, utirpannir, utirpannirmaram Telugu (8) - paneeru pushpa, panneer, pannirchettu, panniru, pannirupushpa, pannirupuvvu, penneeru, penneeru puvvu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8788ac9bc43d3350b4e3e9f689b6a139
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8788ac9bc43d3350b4e3e9f689b6a139
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8788ac9bc43d3350b4e3e9f689b6a139
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8788ac9bc43d3350b4e3e9f689b6a139
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

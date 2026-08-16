@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5e6e9064b1e2255ae069f638135e0d46
+Botanical Name: Lens culinaris MEDIC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lens esculenta MOENCH
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 9 languages. English (2) - lentil, masur Hindi (3) - masoor, masur, masuri Kannada (8) - chanangi, channangi, channangi baele, kesaribele, lentil, massooru bele, massor baele, massur Malayalam (3) - attanapparippu, canampayar, vattupparippu Marathi (3) - masoori, masur, masura Sanskrit (19) - Sanskrit Comments  gabholika, gurubija, mangaliya, mangalya, mangalyaka, masoora, masur, masura, masuradala, masurah, masuraka, masuravidala, masurika, prithubijaka, ragadali, sura, tambularaga, triputa, vrihikanchana Tamil (5) - atanapparuppu, maicurpparuppu, misur paruppu, misur-purpur, misurpurpur Telugu (4) - chirisanagalu, misur-pappu, misuripappu, misurpappu Urdu (7) - adas muqqashir, adas musallam, adas mussalam muqqashar, adas mussallam muqashshar, adas(masoor), masur, masur muqqashar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46/xclkon/2c61d5d0b73867702c16438b774e8ab1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46/xclkon/2c61d5d0b73867702c16438b774e8ab1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46/xclkon/2c61d5d0b73867702c16438b774e8ab1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46/xclkon/2c61d5d0b73867702c16438b774e8ab1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e6e9064b1e2255ae069f638135e0d46/xclkon/2c61d5d0b73867702c16438b774e8ab1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Masura
+sanskrit_name: मसूर
+transliteration: masūra
+ref_drug_name: मसूर
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Masura
+sanskrit_name: मसूर
+transliteration: masūra
+ref_drug_name: मसूर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

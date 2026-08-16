@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 37bd01a74eb307959323a52af9ce3365
+Botanical Name: Ceropegia hirsuta WIGHT & ARN.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37bd01a74eb307959323a52af9ce3365
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37bd01a74eb307959323a52af9ce3365
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gilodya
+sanskrit_name: गिलोड्य
+transliteration: giloḍya
+ref_drug_name: गिलोड्य
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

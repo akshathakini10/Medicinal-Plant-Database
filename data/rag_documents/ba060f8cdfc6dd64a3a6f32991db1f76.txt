@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ba060f8cdfc6dd64a3a6f32991db1f76
+Botanical Name: Narcissus tazetta L.
+Family: Amaryllidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. English (1) - chinese sacred lily Hindi (1) - nargis Urdu (1) - piyaz nargis
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba060f8cdfc6dd64a3a6f32991db1f76
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba060f8cdfc6dd64a3a6f32991db1f76
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba060f8cdfc6dd64a3a6f32991db1f76
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

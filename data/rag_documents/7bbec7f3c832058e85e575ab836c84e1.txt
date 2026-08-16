@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7bbec7f3c832058e85e575ab836c84e1
+Botanical Name: Allium wallichii KUNTH
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Hindi (4) - doona, gobka, laddu, ladu Sanskrit (1) - Sanskrit Comments  ksirapalandu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bbec7f3c832058e85e575ab836c84e1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 115
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/115.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7bbec7f3c832058e85e575ab836c84e1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ksirapalandu
+sanskrit_name: क्षीरपलाण्डु
+transliteration: kṣīrapalāṇḍu
+ref_drug_name: क्षीरपलाण्डु
+status: Accepted source
+discussion: Ksirapalandu' is mentioned only once in Susruta samhita as 'Palandu'; Dalhana in his commentary explains that the 'Palandu' which is milky and sweet in taste is known as 'Ksirapalandu'; It is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

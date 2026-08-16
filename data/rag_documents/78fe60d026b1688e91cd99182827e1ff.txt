@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 78fe60d026b1688e91cd99182827e1ff
+Botanical Name: Borassus flabellifer L.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Borassus flabelliformis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 230 Vernacular names found in 10 languages. English (3) - bassine fibre, odiyal flour, palmyra palm Hindi (8) - tad, taduka, tal, taltar, tar, tari, tariya, tarkajhar Kannada (22) - karatale, kari thaale, karitale, ole, oleya, panai, panal, pane, pane-mara, pani, tala, tale, tali, talimara, tari, thaale mara, thaathinungu mara, thaatiningu mara, thruna raaja, trinaraja, trynaraja, vole Malayalam (11) - ampana, carim-pana, carimpana, eta, karimapana, karimpana, karrumpana, pana, talam, trinarajan, trynarajan Marathi (8) - rotam, tad, tad-mad, talatmad, tamar, tamas, thad, vet Sanskrit (30) - Sanskrit Comments  aavardu, avan, bhumipishacha, chirayu, dhvajadruma, dirghadru, dirghapadapa, dirghaskanda, dirghataru, drumashreshtha, drumeshvara, guchhapatra, karapatr talavrikshaha, lekhyapatra, madadhya, madhurasa, mahonnata, patri, shataparva, tada, tala, taladruma, taladrumah, talah, talamastaka, tamsi, tantugarbha, tantuniryasa, taruraja, trnaraja Tamil (116) - acavattiru, acavattirumaram, acavatturu, ailantal, ailantalam, ailantalmaram, ailantar, aintar, aintaram, anbanai, carruppanai, carupanai, catapalam, cattuppanai, cirpaki, civantikkiriyam, civantikkiriyamaram, edagam, etakam, etakam2, etakamaram, etkai2, etkam2, kamam, kamam3, karadalam, karakalam, karambanai, karampanai, karatalam, karatalamaram, karimpanai, karpakam4, karumpanai, karumpul1, karumpuram, karupuram, karupuramaram, kayinpanai, kaympanai, kayppanai, kirusnakaya, kirusnakentam, kuliram, makapattiram 2, makonnatam, mal, maturacam 2, maturacam@, maturacamaram, narpanai, netini, netumi, netuncevikam, netuncevikamaram, neyam2, nilam, nilamani2, nilamanimaram, nonkupanai, nungu, pakarpali, panai, panai maram, panai-maram, panaimaram, panam@, pandi, panei, pannangkulloo, pennai, pennaimaram, pirancutirkkam, ponantai, pondai, pondu, pontukam, pontukamaram, pul, pullutiyam, purappi, purbadi, purpati, purrali 2, puttali 2, puttrani, talam, talam$, talam2#, talatalam, talavilacam, tali, tali z, taruracam, taruracan, tarurajamaram, taruviracan, taruvirakam, taruvirakamaram, taruvirakan, tatti, tiranaracan3, tirunapati, tirunaracan, turapokam, turarokam, turumacirettam, turumecuvar, turumecuvaram, turumekam, turumekamaram, ulokapattiram, upatakam, utupatakam, varanikam, varanikamaram Telugu (30) - karatalamu, karathaalamu, naamathaadu, namatadu, namatody, patootody, penthithaati chettu, penti tadi-female, pentitadi, pentitadu, pentithaadu, pentytody, pothuthaadu, potutadi, potutadi-male, potutadu, taadi, tadi, tadu, tati, tati-chettu, tatichettu, thaadi chettu, thaadu, thaati, thaati kullo, thadi, thati, trinarajamu, trynarajamu Tibetan (1) - sin ta la Urdu (1) - tad
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff/xclkon/dd071c2e76b2532e365cb53d185c5c47
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff/xclkon/dd071c2e76b2532e365cb53d185c5c47
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff/xclkon/dd071c2e76b2532e365cb53d185c5c47
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff/xclkon/dd071c2e76b2532e365cb53d185c5c47
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff/xclkon/dd071c2e76b2532e365cb53d185c5c47
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/78fe60d026b1688e91cd99182827e1ff/xclkon/dd071c2e76b2532e365cb53d185c5c47
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tala
+sanskrit_name: ताल
+transliteration: tāla
+ref_drug_name: ताल
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Tala
+sanskrit_name: ताल
+transliteration: tāla
+ref_drug_name: ताल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tala
+sanskrit_name: ताल
+transliteration: tāla
+image_urls: https://www.medicinalplants.in/slokaimages/257/257_1.jpg https://www.medicinalplants.in/slokaimages/257/257_2.jpg https://www.medicinalplants.in/slokaimages/257/257_3.jpg https://www.medicinalplants.in/slokaimages/257/257_4.jpg https://www.medicinalplants.in/slokaimages/257/257_5.jpg https://www.medicinalplants.in/slokaimages/257/257_6.jpg https://www.medicinalplants.in/slokaimages/257/257_7.jpg https://www.medicinalplants.in/slokaimages/257/257_8.jpg
+ocr_text: तालस्तुलेख्यपत्रःस्यात्तृणराजोमहोन्नतः Synonyms of tala are lekhyapatra trna raja, mahonnata. श्रीतालनामानि श्रीतालोमधुतालश्चलक्ष्मीतालोमृद्रुच्छदः | | Synonyms of sritala are madhutala, lakshmitala ana mraucchada. हिन्तालनामानि हिन्तालःस्थूलतालश्चवल्कपत्रोबृहद्दलः Synonyms of hintala are sthula tala, valka patra and brhaadala. तालगुणाः तालवृक्षस्तुमधुरःशीतलोमदकृद्गुरुः पुष्टिकृच्छुक्रकफकृन्मेदकृद्बलकारकः वृष्यश्चसारकःपित्तदाहशोषविषश्रमान् | ष्ठकृमीरक्तदोषवातांश्चनाशयेत् INir) Tala vrksha is madhura in guru, sara in guna, sita in veerya, increases kapha, madakara , kara, meda bala kara, vrshya, destroys pitta, rakta and vata dosha, cures daha, sosa, visha, srama, visha, kustha ana krmi विषकुष rasa , pusti अस्य फलगुणाः वातहाबृंहणोबल्यः क्रिमिहाकुष्ठशनः रक्तपित्तहरःस्वादुस्तालः सप्तगुणान्वितः | Its phala is svadu in rasa, alleviates vata, brmhana, balya, cures krmi, Kustha, raktapitta ana is sapta हunanvita अस्यामफलगुणाः आममस्यफलंप्रोक्तंस्निग्धंस्वादुगुरुस्मृतम् | मलावरोधकंबल्यंशीतलंधातुवर्द्धकम् | वृष्यंतृप्तिकरंमांसपित्तकरंस्मृतम् | वातंश्वासंरक्तपित्तंव्रणंदाहंक्षतंतथा | | पित्तक्षयंरक्तदोषनाशयेदितिकीर्तितम् Its amaphala is svadu in rasa, snigaha, guru in guna, sita in veerya, malavarodhaka , balya, vrshya, trptikara, dhatuvardhaka mamsakara, increases pitta , destroys vata , pitta and rakta dosha, cures svasa, raktapitta, vrana, daha, ksata ana ksaya. अस्यपक्वफलगुणाः पक्वंतालफलंपित्तरक्तश्लेष्मविवर्द्धनम् दुर्ज्जरंबहुमूत्रंचतन्द्राभिष्यन्दशुक्रदम्| [ Its pakva phala incrreases pitta rakta, slesma vivardhana, is durjjara, bahumutra kara ana tanara abhishyanda sukrada अस्यार्द्रफलबीजगुणाः आर्द्रंतुफलबीजंचमूत्रलंशीतलंस्मृतम् | रसेपाकेचमधुरंकफकृद्वातपित्तहृत् Ardra phala bija is madhura in rasa ana paka, sita in veerya, mutrala, increases kapha and alleviates pitta

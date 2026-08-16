@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 51708232e57f53fb4580f867a845bc58
+Botanical Name: Paris polyphylla SMITH
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. English (1) - daiswa paris Hindi (2) - dudhiabauj, satwa Sanskrit (1) - Sanskrit Comments  svetavaca
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51708232e57f53fb4580f867a845bc58
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1596
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1596.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51708232e57f53fb4580f867a845bc58
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Haimavati
+sanskrit_name: हैमवती
+transliteration: haimavatī
+ref_drug_name: हैमवती
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Vaca - sveta
+sanskrit_name: वचा श्वेता
+transliteration: vacā śvetā
+ref_drug_name: वचा श्वेता
+status: Market source
+discussion: This species is known as the white variety of Vaca and large tubers of these are sold in the market
+reference: [2]
+
+Identity Record 3
+drug_name: Vaca - sveta
+sanskrit_name: वचा श्वेता
+transliteration: vacā śvetā
+ref_drug_name: वचा श्वेता
+status: Suggested source
+discussion: This species is suggested which needs to be examined
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

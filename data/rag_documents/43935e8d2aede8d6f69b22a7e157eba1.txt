@@ -1,0 +1,76 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 43935e8d2aede8d6f69b22a7e157eba1
+Botanical Name: Cassia senna L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cassia acutifolia DELILE Cassia angustifolia VAHL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 132 Vernacular names found in 9 languages. English (1) - senna Hindi (9) - bhi-khakhosa, bhuikhakhasa, hindi-sana, hindi-sena, hindisana, sana ka patt, sanay, sena, sonamukhi Kannada (7) - nelaavare, nelaavarike, nelavare, nelavarike, nilavirai, soanaa mukhi, sonamukhi Malayalam (3) - connamukki, nilavaka, sunnamukki Marathi (7) - bhitarvada, bhitharvada, bhuh tharvad, mulkacha, shonamakhi, sonaamukhi, sonamukhi Sanskrit (23) - Sanskrit Comments  amshunattydivandiva, bhumiari, bhumichari, bhumivalli, bhupadma, bootallapotaka, hemapatri, hemapatrika, jalatika, kalyani, mahaushadhi, malaharini, markandi, markandika, mridurechani, pitapushpi, rechani, sanamaki, stholotpala, svarnamukhi, svarnapatri, svarnapatrika, svarnini Tamil (72) - alakalam, alakalampokki, alakalampokkicceti, avakai, avarai#, avarai@, cantavari, cantavaricceti, cena, cimainilavakai, cimainilavirai, curaddu nilavarai, curattavarai, curattavirai, curattunilavakai, curattunilavarai, curattunilavirai, cuvarnamuki, kattunilavirai, kiruminaci, kuttuvakai, kuyattinalakai, maralakam, maralavakai, nattunilavakai, nattunilavirai, nauvuki, nauvukicceti, neeravarai, nelavakai, nelavar, nerivila, nila vagai, nila-varai, nilaavaarai, nilakavarai, nilava kai, nilavagai, nilavaghei, nilavakai, nilavarai, nilavarai#, nilavarai@, nilavavirai, nilaverei, nilavirai, nilavirai1, nilayavarai, nilini, nilinicceti, niliyavarai, oyamilacceti, oyamilam, patalavakai, pataruparacci, pulukkutori, putalamankai, putalamankaicceti, puvantam, puvantam#, puvantavam, talini2, tennevelly senna, tintukini, tirunelvelicenna, vanculikacceti, vanculikam, vatukai, vatukaicceti, vayucankaran, venmalampokki, vetalakkanni Telugu (5) - naelaponna, nelaponna, nelatangedu, nelathangedu, nelatunghadoo Urdu (5) - sana, sana -i- makki, sana-i-makki, sana-imakki, sena
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/3202512e48aa0debf11094a1f8f9cbb9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/f4acad7346bc4ab6373206369ed7e031
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/3202512e48aa0debf11094a1f8f9cbb9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/f4acad7346bc4ab6373206369ed7e031
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/3202512e48aa0debf11094a1f8f9cbb9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/f4acad7346bc4ab6373206369ed7e031
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/3202512e48aa0debf11094a1f8f9cbb9
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/f4acad7346bc4ab6373206369ed7e031
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/3202512e48aa0debf11094a1f8f9cbb9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/4ebfdfa8bb171da203128b0e8add0ace
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1/xclkon/f4acad7346bc4ab6373206369ed7e031
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/43935e8d2aede8d6f69b22a7e157eba1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

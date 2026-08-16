@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0e770ac99600e5d747025f22c8ed49e9
+Botanical Name: Myristica dactyloides GAERTN.
+Family: Myristicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 5 languages. Kannada (3) - kaadu jaapatre, kadu jaajikaai, kadu pindi kayi Malayalam (2) - adakkappayin, panthappayin Sanskrit (1) - Sanskrit Comments  jatiphala Tamil (7) - catikkaymaram, kattuc catikkay, kattucati, kattukmanci, katujathika, pattaippanu, pattapanku Telugu (1) - adavijaajikaaya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e770ac99600e5d747025f22c8ed49e9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1489
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1489.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e770ac99600e5d747025f22c8ed49e9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e770ac99600e5d747025f22c8ed49e9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

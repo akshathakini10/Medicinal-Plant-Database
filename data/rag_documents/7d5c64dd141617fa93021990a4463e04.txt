@@ -1,0 +1,63 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7d5c64dd141617fa93021990a4463e04
+Botanical Name: Psoralea corylifolia L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 178 Vernacular names found in 10 languages. English (1) - bawchan seed Hindi (13) - babachi, babchi, babci, bachi, bakhni, bakuci, bavanchi, bavanchiyan, bavchi, bavchiyan, bhavaj, bhavanj, bukchi Kannada (8) - baahujige, baavanchi, baavanchi gida, baavanjee gida, baavuje, bavanchi, karbeck beeja, somaraji Malayalam (3) - cottam, karkokil, karkokilari Marathi (7) - baavanchi, babachi, babchi, bavachi, bavachya, bavanchi, bavchi Sanskrit (53) - Sanskrit Comments  aindavi, andraraji, asitatvacha, avalguja, bakuchi, bakuci, candralekha, candrasakala, chandralekha, chandraprabha, chandri, chvakuchi, indralekha, induraji, indurajika, kalameshi, kalameshika, kamboji, kandughni, kantaka, kantida, krimighna, krishna, krishnaphala, krsnaphala, kushtaghni, kushthahantri, kushthanashini, kustaghni, putigandha, putiphala, putiphali, sasankhalekha, shashilekha, shulotkha, sita, sitavari, soma, somaraja, somaraji, somavalli, somavallika, sugandhakantak, suparnika, suprabha, suvalli, suvallika, tvagadoshapaha, vakoochie, vakuci, valguja, vanguji, vejani Tamil (68) - caivaputi, cantirekam, cantirekarici, cantirinokkam, cilesmanacani, comaraci 2, cuvalli, cuvalyapi, kaarpokarisi, kaarpooga arisi, kappuva arici, kappuvaarici, karakkarunai, karbogarisi, karboka arisi, karkkolam, karkkolvittu, karpo-karishi, karpogam, karpoka arici, karpokam 1, karpokam 2, karpokarici, karpokarishi, karpokarisi, karpoki, karpokkarisi, karpooga arisee, karporgam, karppoku, karppuka, karppuva, karpuka 1, karpuka 2, karpukavarici, karpurakam, karpuva, karpuva arici, karpuva-arishi, karpuvaarici, karpuvarishi, karukolarici, katirekam, kirusnapalam, malampuru, malpurru, malpuru, marpuru, marpuruvarici, marutkavarici, pakuci, palamirutam, pavacittu, pokavarici, vacukikarpam, vakuci 1, vakucivirai, vakucu, valiyapi, vanaci, vanavi, vanaviyarici, varakuca, varakuli, varakuliyarici, varkuca 1, varkuca 2, visakkuttanacani Telugu (19) - bavancalu, bavanchalu, bavanji, bhaavanji, bhaavanji chettu, bhavanchi-vittu-lu, bhavanchi-vittulu, bhavanji, bogi-vittulu, bogivittulu, kaalaginja, kaalugachha, kalaginja, kalugech-cha-vittulu, kalugechcha, karu-bogi, karu-bogi-vittulu, karubogi, korjashtam Tibetan (2) - so ma ra dza, so ma ra tsa Urdu (4) - babchi, babechi, bakuchi, bavachi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1761
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1761.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7d5c64dd141617fa93021990a4463e04
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bakuci
+sanskrit_name: बाकुची
+transliteration: bākucī
+ref_drug_name: बाकुची
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bakuci
+sanskrit_name: बाकुची
+transliteration: bākucī
+image_urls: https://www.medicinalplants.in/slokaimages/1360/1360_1.jpg https://www.medicinalplants.in/slokaimages/1360/1360_2.jpg https://www.medicinalplants.in/slokaimages/1360/1360_3.jpg https://www.medicinalplants.in/slokaimages/1360/1360_4.jpg https://www.medicinalplants.in/slokaimages/1360/1360_5.jpg https://www.medicinalplants.in/slokaimages/1360/1360_6.jpg https://www.medicinalplants.in/slokaimages/1360/1360_7.jpg https://www.medicinalplants.in/slokaimages/1360/1360_8.jpg
+ocr_text: अवल्गुजा स्यात्सोमराजी शशिलेखा कृष्णाफला सोमा पूतफलीति च Il सोमवल्ली कालमेषी प्रकीर्त्तिता (Bpn) Avalguja, Bakuci, Somaraji, Suparnika, Sasilekha, Krsnaphala Soma, Putaphata, Somavalli, Kalamesi, Kusthaghni are the synonyms of bakuci. वाकुची सुपर्णिका कुष्ठघ्नी सोमराजी च सोमवल्ली सुवल्लिका सिता सितावरी चन्द्रलेखा चान्द्री च सुप्रभा Il कुष्ठहन्त्री च काम्बोजी प्रतिगन्धा चावल्गुजा स्मृता चन्द्राभिधा राजी काल्माषी च तथैन्दवी |l कुष्ठदोषहा चैव कान्तिदाडवल्गुजा तथा Il चन्द्राभिधा प्रभायुक्ता विंशतिः स्यातु नामतः (Rin) Bakuci, Somaraji Somavalli, Suvallika Sita, Sitavari Candralekha Candi, Suprabha Kusthahantri, Kamaboji, Pratigandha, Avalguja, Candrabhidha Raji, KAlmasi, Eaindavi, Kusihadoshaha, Kantida, Avalguja, Candrabhidha Prabhayukta are the २० synonyms Of bakuci. बाकुची सोमराजी तु सोमवल्ली अवल्गुजा कृष्णफला सैव पूतिफला मता चन्द्रलेखेन्दुलेखा च शशिलेखा मता च सा पूतिकर्णी कालमेषी दुर्गन्धा कुष्ठनाशिनी II (Dhn) Bakuci, Somaraji Somavalli, Suvalya, Avalguja, Krsnaphala Putiphala Candralekha, Indulekha, Sasilekha, Putikarni, Kalamesi, Durgandha, Kusthanasini are its synonyms वाकुची सुवल्यपि पाके कटुका तिक्ता शीता रसायनी मधुरा रुचिदा रूक्षा हृद्या ग्राह्यग्निदीपनी |l बल्या च तुवरा लघ्वी मेध्या वै रक्तपित्तजित् कफकुष्ठकृमिश्वासकासमेहज्वरव्रणान् II त्रिदोषवातत्वग्दोषविषकण्डूश्च नाशयेत् (Sgn ) Bakuci is tikta, madhura, tuvara in rasa, ruksa laghu in guna, sita in veerya, katu in paka, rasayani, rucida, hrdya, grahya, agni dipani balya, medhya alleviates rakiapitia kapha kustha, krmi, s"asa kasa meha, jvara, vrana iridosha, vata, tvagdosha, visa and kandu. वाकुची कटुतिक्तोष्णा कृमिकुष्ठकफापहा त्वग्दोषविषकण्डूडतिखतिखर्जूप्रशमनी च सा Il (Rjn) Bakuci is katu, tikia in rasa, usna in veerya alleviaies krmi, kusiha kapha, ivagdosha visa, kandu and ati kharju. वाकुची मधुरा तिक्ता कटुपाका रसायनी | विष्टम्भीहृद्धिमा रुच्या सरा श्लेष्मास्रपित्तनुत् रूक्षा हृद्या श्वासकुष्ठमेहज्चरकृमिप्रणुत् तत्फलं पित्तलं कुष्ठकफानिलहरं कटु II केश्यं त्वच्यं वामिश्वासकासशोथामपाण्डुनुत् Il (Bpn) Bakuci is madhura, tikia in rasa, ruksa in guna, katu in paka sara in karma, rasayani, visiambhi, hrdya rucya, alleviates slesma, asra, pitta, svasa, kustha, meha, jvara and krmi. Its fruit is katu in rasa increases pitta, kesya, tvacya in karma, alleviates kustha. kapha vami, svasa, kasa, sotha, ama and pandu. वाकुची शीतला तिक्ता श्लेष्मकुष्ठकृमीन् जयेत् रसायाोपयुक्ता रुचिमेधाविवर्धनी Il (Dhn) Bakuci is tikta in rasa, sitala in veerya, rucimeda vivardhini, rasayana, alleviates slesma, kustha and krmi. वाकुची अवल्गुजः कटुः पाके तिक्तः पित्तकफापहः (Su.S.Su ४६) Avalguja is tikia in rasa, katu in paka and pitta kapha hara.

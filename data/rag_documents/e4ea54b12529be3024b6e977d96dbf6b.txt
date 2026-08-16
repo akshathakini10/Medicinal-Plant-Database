@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e4ea54b12529be3024b6e977d96dbf6b
+Botanical Name: Artocarpus hirsutus LAM.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 93 Vernacular names found in 6 languages. Kannada (27) - aini, hebalsu, hebbalasu, hebbalsina, hebbhalasu, hebhalasu, hebhalsu, hebhulsina, hebulsu, hecchuva, heccuva, hechchuva, hessain, hessau, hesswa, ini, kaadgandha, kabbalasu, kabhalasu, kadahalasu, kadhalasu, kadhalsana, kaduhalasu, katupanasa, peja, pugalasu, pugguhalasu Malayalam (24) - aini, ainipilavu, angelee, angelli, anili, anjale, anjely, anjili, annali, annili, ansjeli, ansjeni, ayanee, ayani, ayaniplavu, ayany, ayenee, ayini, ayinipilavu, aynee, ayneepala, ayneepillao, kattupilavu, katupilavu Marathi (6) - amjeli bakodyo, palpanas, patphanas, patphunnas, ranphanas, ranphunnas Sanskrit (2) - Sanskrit Comments  lakucah, panasah Tamil (33) - aiyinipila, akkini, ancali 2, anjali, anjalli, anjili, ayanibila, ayini, ayini 2, cakkai, kalvarukkai, kanalpala, kanappala, kanarcalam, kanarpala, kandambala, kankupala, kankupalamaram, kantampala, karavellam, katpala, katpalamaram, kattuppala, kattuppila, pey-p-pala, peyppala, peyppila, piramametam, piramametamaram, tirakavurti, tirakavurtimaram, turvokam, turvokamaram Telugu (1) - adavi panasa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4ea54b12529be3024b6e977d96dbf6b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 246
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/246.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4ea54b12529be3024b6e977d96dbf6b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4ea54b12529be3024b6e977d96dbf6b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e4ea54b12529be3024b6e977d96dbf6b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

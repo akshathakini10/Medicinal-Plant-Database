@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cf140f02c95666e65f05a5700e60bb96
+Botanical Name: Cuscuta reflexa ROB.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 145 Vernacular names found in 8 languages. Hindi (17) - aftimum, agas bel, akasbel, akasbela, akash bel, akash-bel, akashabel, akashabela, akashbel, amar bel, amar-bel, amarabela, amarbel, kasus, parasite, saragbali, seragbali Kannada (7) - amaraballi, amaruballi, badanike, banda, beluballi, nelamuda balli, shyaavige balli Malayalam (3) - akasagarudakkoti, akasavalli, mutillattali Marathi (7) - akash-vel, amarbel, amarvel, amarvela, nirmooliaka shavela, nirmuli, nirmuliakashavela Sanskrit (14) - Sanskrit Comments  akasavalli, akashabhavana, akashapavana, akashavalli, akashvalli, amaravallari, amaravela, amarvalli, antravalli, asparsa, dusparsha, khavalli, nilatar, vyomavallika Tamil (70) - akacapavanam, akatilai, akatilai 1, ammaiyar kuntal, ammaiyarkoonthal, ammaiyarkuntal, auvaiyar kuntal, avvaiyar kuntal, avvaiyarkuntal, cadadari, caraloccu, caran, caranam, caruvarni, cataari, catatari@, cavarikkoti, cavurikkoti, cavurikkoti 1, cavurikkottu 1, cirukatikakkoti, cirukatitakkoti, cuppiracaram, eliccevi, hikecakketi, hikelam, ilikecakkoti, ilikecam, kadumparai, katumparai 1, kodiya-gundal, kodiyagundal, kotiyal kuntal, kotiyalkuntal, kotiyar kuntal, kotiyarkuntal, kuntal, kuntal 1, kutiraivali, kutiraivali 1, meliyar kuntal, meliyarkuntal, miriyarkunatal, miriyarkuntal 1, miriyarkuntarkoti, muruvilimiriyarkuntal, mutivar kuntal, mutivarkulal, mutiyarkulal, mutiyarkuntal 1, ovaiyarkoonthal, pallinarkolalikodi, pallinarkulali, pallinarkulalikkoti, papmpacatini, piracarani, piracarani#, piracarani@, piracarini, piracatini, priacarini, sadadari, tokaikkulal, tokaikkularkoti, tokaikulal, tokaikularkoti, tumparakikakkodi, tumparakikam, tumpuracikakkoti, tumpuracikam Telugu (16) - bangaaru banti, lanja savarmu, lanjasavaramu, passi teega, passithiga, savarapukaada, savarapukada, seethammapogu noolu, seethasavaramu, sitama purgonalu, sitammapogunulu, sitammapoorgoonoolooo, sitasavaramu, sithamma-pogunulu, sithamma-savaram, sithammasavaram Urdu (11) - aftimiun, aftimum, aftimun, aftimun wilayai, aftinum, akasbail, amal lata kay bij, amerbel, kasoos, tukhm kasus, zarbuti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf140f02c95666e65f05a5700e60bb96
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 707
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/707.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf140f02c95666e65f05a5700e60bb96
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf140f02c95666e65f05a5700e60bb96
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf140f02c95666e65f05a5700e60bb96
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf140f02c95666e65f05a5700e60bb96
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Akasavalli
+sanskrit_name: आकाशवल्ली
+transliteration: ākāśavallī
+ref_drug_name: आकाशवल्ली
+status: Most probable
+discussion: This species is widely known as Akasavalli Morphological features are similar except that it is laxative
+reference: [3]
+
+Identity Record 2
+drug_name: Khavalli
+sanskrit_name: खवल्ली
+transliteration: khavallī
+ref_drug_name: खवल्ली
+status: Suggested source
+discussion: Khavalli has been described in the nighantus; Two species are widely known as 'Khavalli' and this species is one among them
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

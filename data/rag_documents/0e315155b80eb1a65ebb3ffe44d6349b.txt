@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0e315155b80eb1a65ebb3ffe44d6349b
+Botanical Name: Rheum moorcroftianum ROYLE
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 6 languages. Hindi (2) - dholu, revand-chini Kannada (1) - reval-chini Marathi (1) - ladkirevanda-chini Sanskrit (1) - Sanskrit Comments  amlaparni Tamil (1) - variyattu Telugu (1) - nattu ireval-chinni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e315155b80eb1a65ebb3ffe44d6349b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1794
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1794.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0e315155b80eb1a65ebb3ffe44d6349b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Amlaparni - prajati
+sanskrit_name: अम्लपर्णी प्रजाती
+transliteration: amlaparṇī prajātī
+ref_drug_name: अम्लपर्णी प्रजाती
+status: Market source
+discussion: This is a variety of R.emodi found in Himachal Pradesh The roots are sold in the market as Amlaparni
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

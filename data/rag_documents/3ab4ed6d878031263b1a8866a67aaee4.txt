@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3ab4ed6d878031263b1a8866a67aaee4
+Botanical Name: Roylea cinerea (DON) BAILL.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Roylea elegans WALL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Hindi (3) - kararoi tila pati, patkarru, titpatti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ab4ed6d878031263b1a8866a67aaee4/xclkon/c61cc93cbe74d82fd84cc6cba4d4dc05
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ab4ed6d878031263b1a8866a67aaee4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3ab4ed6d878031263b1a8866a67aaee4/xclkon/c61cc93cbe74d82fd84cc6cba4d4dc05
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

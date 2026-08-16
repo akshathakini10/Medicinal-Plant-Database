@@ -1,0 +1,100 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c0079351bb60f9dd4362d867582c9cb8
+Botanical Name: Dipterocarpus turbinatus GAERTN. F.
+Family: Dipterocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 6 languages. Hindi (3) - garjan, teli-garjan, tihya-garjan Kannada (9) - challaane, challane, challanne, challenne, googe, guge, kalpaini, maradenne, valivara Marathi (1) - duhun-el-garjan Sanskrit (2) - Sanskrit Comments  ajakarna, asvakarna Tamil (7) - challani, enney, enneymaram, karalam, karccamaram, vellenney, yennar Tibetan (1) - a dza ka rna
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0079351bb60f9dd4362d867582c9cb8
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 842
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/842.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0079351bb60f9dd4362d867582c9cb8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0079351bb60f9dd4362d867582c9cb8
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c0079351bb60f9dd4362d867582c9cb8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ajakarna
+sanskrit_name: अजकर्ण
+transliteration: ajakarṇa
+ref_drug_name: अजकर्ण
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Asvakarna
+sanskrit_name: अश्वकर्ण
+transliteration: aśvakarṇa
+ref_drug_name: अश्वकर्ण
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Asvakarna
+sanskrit_name: अश्वकर्ण
+transliteration: aśvakarṇa
+ref_drug_name: अश्वकर्ण
+status: Accepted source
+discussion: With regard to its morphological features its identified withthis species
+reference: [1]
+
+Identity Record 4
+drug_name: Asvakarna - prajati
+sanskrit_name: अश्वकर्ण प्रजाति
+transliteration: aśvakarṇa prajāti
+ref_drug_name: अश्वकर्ण
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 5
+drug_name: Asvakarna - prajati
+sanskrit_name: अश्वकर्ण प्रजाति
+transliteration: aśvakarṇa prajāti
+ref_drug_name: अश्वकर्ण
+status: Accepted source
+discussion: With regard to its morphological features its identified withthis species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Asvakarna
+sanskrit_name: अश्वकर्ण
+transliteration: aśvakarṇa
+image_urls: https://www.medicinalplants.in/slokaimages/1612/1612_1.jpg https://www.medicinalplants.in/slokaimages/1612/1612_2.jpg https://www.medicinalplants.in/slokaimages/1612/1612_3.jpg https://www.medicinalplants.in/slokaimages/1612/1612_4.jpg https://www.medicinalplants.in/slokaimages/1612/1612_5.jpg
+ocr_text: अश्वकर्णस्त्तथाअरण्यः सस्यसंवरणेअपि च दार्घपत्रो दार्घवृक्षः कुशिकश्चीरपत्रकः IKdn) Aranya, sasyasanvarana, dirghapatra dirgayrksa, kusika and cirapatra are ine synonyms of asvakarna अश्वकर्णः कटुस्तिक्तः कषायोष्णो नियच्छति कफपाण्डुश्रुतिगदान् मेहकुष्ठविषव्रणान्I| KKdn) It is katu, tikta and kasaya in rasa, usna in veerya increases kapha, alleviates pandu prameha kusta vrana and karnaroga. visa, तत्फलं मधुरं रूक्षं शीतलं स्तम्भनं गुरु कषाय स्तन्यवाताध्मानविन्धकृत् निहन्ति पित्तदाहास्रतृषाकाक्षतक्षयान् IKdn Its phala is kasaya and madhura in rasa slta in veerya, ruksa and guru in guna, sthambana, stanya vata adhmana vibandha kara and alleviates pitta, daha. trsna kasa. ksata and ksaya लखनं सर्जको बस्तकर्णश्च कषायश्चीरपत्रकः सस्यसंवरकः शूरः सर्जोन्यः शाल उच्यते|| Dhn) Sarjaka bastakarna kasaya, cirapatra sasyasanvaraka and sura are the synonyms कुष्ठकण्डूकृमिश्लेष्नवातपित्तरुजो ज्यत सजयुग्नं कषाय स्ाद वण्र रूक्षं कफापहन् IDhn) It is kasaya in rasa ruksa in guna and destroys kapha It alleviates kusta, kandu krimi roga, kapha vata pitta vikaras
+
+Shloka Record 2
+drug_name: Asvakarna - prajati
+sanskrit_name: अश्वकर्ण प्रजाति
+transliteration: aśvakarṇa prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/1612/1612_1.jpg https://www.medicinalplants.in/slokaimages/1612/1612_2.jpg https://www.medicinalplants.in/slokaimages/1612/1612_3.jpg https://www.medicinalplants.in/slokaimages/1612/1612_4.jpg https://www.medicinalplants.in/slokaimages/1612/1612_5.jpg
+ocr_text: अश्वकर्णस्त्तथाअरण्यः सस्यसंवरणेअपि च दार्घपत्रो दार्घवृक्षः कुशिकश्चीरपत्रकः IKdn) Aranya, sasyasanvarana, dirghapatra dirgayrksa, kusika and cirapatra are ine synonyms of asvakarna अश्वकर्णः कटुस्तिक्तः कषायोष्णो नियच्छति कफपाण्डुश्रुतिगदान् मेहकुष्ठविषव्रणान्I| KKdn) It is katu, tikta and kasaya in rasa, usna in veerya increases kapha, alleviates pandu prameha kusta vrana and karnaroga. visa, तत्फलं मधुरं रूक्षं शीतलं स्तम्भनं गुरु कषाय स्तन्यवाताध्मानविन्धकृत् निहन्ति पित्तदाहास्रतृषाकाक्षतक्षयान् IKdn Its phala is kasaya and madhura in rasa slta in veerya, ruksa and guru in guna, sthambana, stanya vata adhmana vibandha kara and alleviates pitta, daha. trsna kasa. ksata and ksaya लखनं सर्जको बस्तकर्णश्च कषायश्चीरपत्रकः सस्यसंवरकः शूरः सर्जोन्यः शाल उच्यते|| Dhn) Sarjaka bastakarna kasaya, cirapatra sasyasanvaraka and sura are the synonyms कुष्ठकण्डूकृमिश्लेष्नवातपित्तरुजो ज्यत सजयुग्नं कषाय स्ाद वण्र रूक्षं कफापहन् IDhn) It is kasaya in rasa ruksa in guna and destroys kapha It alleviates kusta, kandu krimi roga, kapha vata pitta vikaras

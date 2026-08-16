@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a434b06186f81e0782aa029278bbfe22
+Botanical Name: Fimbristylis annua (ALL.) ROOM & SCHULT.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Fimbristylis diphylla VAHL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Kannada (1) - negatta Malayalam (2) - kattukaruna, ola Tamil (1) - atanki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a434b06186f81e0782aa029278bbfe22/xclkon/6a215fc59c84d983b82eba32b8f4a13b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a434b06186f81e0782aa029278bbfe22
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a434b06186f81e0782aa029278bbfe22/xclkon/6a215fc59c84d983b82eba32b8f4a13b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a434b06186f81e0782aa029278bbfe22
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a434b06186f81e0782aa029278bbfe22/xclkon/6a215fc59c84d983b82eba32b8f4a13b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

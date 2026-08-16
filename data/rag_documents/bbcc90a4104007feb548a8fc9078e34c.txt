@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bbcc90a4104007feb548a8fc9078e34c
+Botanical Name: Artemisia sieversiana EHRH. E WILLD.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 37 Vernacular names found in 5 languages. Hindi (1) - dauna Kannada (4) - damanaka, davana, javana, kaadu davana Marathi (4) - davana, davanaa, ranadavana, randavana Sanskrit (27) - Sanskrit Comments  agnidamanaka, bahukantaka, brahmajata, damana, damanaka, damani, dandi, danta, devashekhara, gandhotkata, guchhaphala, jatila, kshudradussparshahana, kshudrakantakari, kulapatra, kulapatraka, madanaka, muni, munipatra, panduraga, patri, pavitraka, pundarika, pushpachamara, tapasapatri, tapaswipatra, vanadamanaka Tamil (1) - marikkolundu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bbcc90a4104007feb548a8fc9078e34c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 239
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/239.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bbcc90a4104007feb548a8fc9078e34c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bbcc90a4104007feb548a8fc9078e34c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

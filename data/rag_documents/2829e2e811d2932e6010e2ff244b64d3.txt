@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2829e2e811d2932e6010e2ff244b64d3
+Botanical Name: Tylophora fasciculata BUCH.-HAM. E WIGHT
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 3 languages. Kannada (2) - nelagamate, nelagavate Marathi (1) - bhumy-dori Sanskrit (1) - Sanskrit Comments  gocandana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2829e2e811d2932e6010e2ff244b64d3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2829e2e811d2932e6010e2ff244b64d3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gocandana
+sanskrit_name: गोचन्दन
+transliteration: gocandana
+ref_drug_name: गोचन्दन
+status: Accepted source
+discussion: Gocandana' has been mentioned just once in Susruta samhita in the chapter of Rasayana (rejuvenatives); Dalhana has interpreted it as 'Priyangu'; In Paryayaratnamala its mentioned as the synonym of 'Sahadeva'; Originally in the nighantus, 'Candana' was the synonym of 'Utpalasariva', based on this they interpreted 'Gocandana' as 'Sariva' of animals; It is identified with this species; Further studies needs to be done
+reference: [5]
+
+Identity Record 2
+drug_name: Gocandana
+sanskrit_name: गोचन्दन
+transliteration: gocandana
+ref_drug_name: गोचन्दन
+status: Suggested source
+discussion: Correlated to this plant on the basis of collected field data
+reference: [1]
+
+Identity Record 3
+drug_name: Sariva - krsna
+sanskrit_name: सारिवा कृष्णा
+transliteration: sārivā kṛṣṇā
+ref_drug_name: सारिवा कृष्णा
+status: Suggested source
+discussion: Aromatic smell is essential in this variety of Sariva similar to Sveta variety which is correlated to Hemidesmus; So this species is suggested to be examined which belongs to the same family of Hemidesmus
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

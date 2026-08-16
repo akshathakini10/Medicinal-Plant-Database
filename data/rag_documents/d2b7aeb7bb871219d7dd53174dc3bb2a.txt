@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d2b7aeb7bb871219d7dd53174dc3bb2a
+Botanical Name: Caesalpinia pulcherrima (L.) SW.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Poinciana pulcherrima L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 101 Vernacular names found in 8 languages. English (3) - barbados pride, paradise flower, peacock flower Hindi (4) - gul-tora, guletura, gulu tora, torai Kannada (19) - channakeshava gida, eejimullu, hote seege, kanjage, kenchige, kencige, kendge, keneige, kenji gida, kenjige, kenjige mara, kenjigemara, kenjuga, komaari, komari, nalligaane, ratnagandhi, ratnagandi, ratnaganhi Malayalam (8) - cekkimandaram, chekkimandaram, chettimandaram, settimandaram, teccimandaram, techimandaram, tsettimandaram, tsjetti-mandarum Marathi (4) - alfuli, kombi, sankeshvara, shankasur Sanskrit (6) - Sanskrit Comments  krishnachuda, krishnachura, ratanagandhi, sidhakhya, sidhanasha, sidheshwara Tamil (42) - cemmayirkkonrai, cirontakam, cirontakamaram, cittimantarai, cittimantaram, irattinakanti, kittimantaram, kotinalal, maikkonrai 1, mancika 2, mayikonnai, mayil konnai, mayil-konai, mayilkonnai, mayilkonrai, mayirkkonrai 1, mayirkonrai, mayirpelavam, mayirpelavamaram, mayurakonnai, mayuram, mayuram 3, mayuramaram, mucuppira, mucuppiramaram, muyarcevitakkonnai, muyarcevitam, nalal, nalal2, narikkonrai2, perumayirkonrai, pillicarikai, pillicarikaimaram, pirayakacceti, piriyakam 2@, ponmayirkkonrai, puccilakkonnai, pumalekkinam 2, sirumayirkonrai, tuccimam, tuccimamaram, vatamatakki 2 Telugu (15) - chinaturayi, cinnaturayi, kapura maddi, paidithangedu, pamidi tangedu, pamiditangedu, pamidithangedu, peydi-tangedu, rathnagandhi, ratna gandhi, ratnagandhi, sinnathuraayi, sinnaturayi, thuraayi, turayi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b7aeb7bb871219d7dd53174dc3bb2a/xclkon/b8e3d42e0d68e2450eb716e5c0390cff
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b7aeb7bb871219d7dd53174dc3bb2a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b7aeb7bb871219d7dd53174dc3bb2a/xclkon/b8e3d42e0d68e2450eb716e5c0390cff
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b7aeb7bb871219d7dd53174dc3bb2a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b7aeb7bb871219d7dd53174dc3bb2a/xclkon/b8e3d42e0d68e2450eb716e5c0390cff
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b7aeb7bb871219d7dd53174dc3bb2a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b7aeb7bb871219d7dd53174dc3bb2a/xclkon/b8e3d42e0d68e2450eb716e5c0390cff
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

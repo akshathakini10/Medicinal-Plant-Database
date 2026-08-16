@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 95e116f7ecc19e2cd7ff6eb5107dcf86
+Botanical Name: Acacia farnesiana (L.) WILLD.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Acacia indica DESV. Verchellia farnesiana WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 129 Vernacular names found in 8 languages. English (4) - cassie, opopanax, popinac, sweet acacia Hindi (18) - babool, bukikar, dowana-babul, durgandhakhair, gandbabul, gandhi babul, gandhi-babul, guh-babul, guhbabul, gul-babul, gul-kikar, pissibabul, vilayati-babul, vilayati-kikar, vilayatibabul, vilayatikikar, vilayatlkikar, vilyati kikar Kannada (25) - banni mara, byadala gida, jaali, jali, jalli, kari kashturi, karijali, karikasthoori, karikasturi, kasthoori gobli, kasthoori jaali, kasthuri golli, kasturi jaali, kasturi-gobli, kasturigobbali, kasturigobbi, kasturigobli, kasturijali, kiree jaali, kirijaali, kirijali, kusuma jaali, peeka jaali, sanna jaali, sannajali Malayalam (5) - kariveelum, pauvelam, pikharu-vil, pitumma pivelum, pivelam Marathi (15) - devbaabbul, gubaabul, gubabul, guibabhul, gul-babul, gul-kikar, guyaababul, guyababul, heaver, iri-babul, kankar, kankri, kemsar, yeribaabul, yeribabul Sanskrit (15) - Sanskrit Comments  arimaedah, arimeda, arimedah, arimedaka, asimeda, babbbula, girimeda, godhaskanda, irimeda, kalaskandha, krimishatrava, marudruma, rimeda, vita, vitkhadira Tamil (23) - arimetam, kacappuppivel, kacappuppivelamaram, kadivel, kasturi velam, kasturivel, kativel, kirimetam, pavalam, pee karuvel, peekaruvel, peyvel, peyvelan, pikkaruvel, pikkaruvil, pivel, pivelam, piyvel, veddayala, vedumul, veduvali, vetumul, vetuvali Telugu (24) - arimdamu, arimidamu, arinmaedamu, kampu tumma, kampu-tumma, kamputhumma, kamputumma, kasthoori thumma, kasturi, kasturitumma, kempu cumma, murikithumna, murikitumma, murki-tumma, naagathumma, naga-tumma, nagatumma, nugathumma, nugatumma, peekethumma, piketumma, piyi-tumma, piyyathumma, piyyatumma
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95e116f7ecc19e2cd7ff6eb5107dcf86/xclkon/ffa1475803f9255485489a47e9fb3c4b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95e116f7ecc19e2cd7ff6eb5107dcf86
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95e116f7ecc19e2cd7ff6eb5107dcf86/xclkon/8c062cd757887babaa65b3abaa8c5ece
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95e116f7ecc19e2cd7ff6eb5107dcf86/xclkon/ffa1475803f9255485489a47e9fb3c4b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95e116f7ecc19e2cd7ff6eb5107dcf86
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95e116f7ecc19e2cd7ff6eb5107dcf86/xclkon/8c062cd757887babaa65b3abaa8c5ece
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95e116f7ecc19e2cd7ff6eb5107dcf86/xclkon/ffa1475803f9255485489a47e9fb3c4b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95e116f7ecc19e2cd7ff6eb5107dcf86
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95e116f7ecc19e2cd7ff6eb5107dcf86/xclkon/8c062cd757887babaa65b3abaa8c5ece
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95e116f7ecc19e2cd7ff6eb5107dcf86/xclkon/ffa1475803f9255485489a47e9fb3c4b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

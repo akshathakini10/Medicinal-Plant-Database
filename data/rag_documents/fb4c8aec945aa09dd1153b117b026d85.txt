@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fb4c8aec945aa09dd1153b117b026d85
+Botanical Name: Nymphaea cyanea ROB.
+Family: Nymphaeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Nymphaea stellata WILLD. var. cyanea H.F. & T.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Sanskrit (3) - Sanskrit Comments  nila, nilotpala, utpala Tamil (1) - cirralli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb4c8aec945aa09dd1153b117b026d85/xclkon/05b5108976c5725ef32c84865fad755a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb4c8aec945aa09dd1153b117b026d85
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb4c8aec945aa09dd1153b117b026d85/xclkon/05b5108976c5725ef32c84865fad755a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb4c8aec945aa09dd1153b117b026d85
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb4c8aec945aa09dd1153b117b026d85/xclkon/05b5108976c5725ef32c84865fad755a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

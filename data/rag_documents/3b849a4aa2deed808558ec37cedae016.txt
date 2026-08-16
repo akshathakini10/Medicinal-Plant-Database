@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3b849a4aa2deed808558ec37cedae016
+Botanical Name: Eruca sativa GARS.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 35 Vernacular names found in 4 languages. Hindi (4) - safed sarson, seoha, taramira, usan Marathi (1) - jambho Sanskrit (22) - Sanskrit Comments  bhutaghna, bimbata, daradharsha, grahagna, kadamba, kadambada, kadambaka, rajakshavaka, rajika, rakshitaphala, sarishapa, sarshapa, siddartha, sidhaprayojana, sidharta, svethasarasava, tantubha, tantuka, tori, tuvari, tuverika, ugragandha Urdu (8) - ambhagaan, labman, qarasaa, tarmaraa, tukhm jarjir, tukhm jirjir, tukhm tirah taizak, tukhm-i-jirjir
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b849a4aa2deed808558ec37cedae016
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tuvari
+sanskrit_name: तुवरी
+transliteration: tuvarī
+ref_drug_name: तुवरी
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Tuvari
+sanskrit_name: तुवरी
+transliteration: tuvarī
+ref_drug_name: तुवरी
+status: Controversial
+discussion: Widely known in Vagbhata; Its referred by many names like 'Adhaki', 'Saurastri', 'Sphatika' and 'Tori'; The word 'Tuvara' depicts kasaya rasa (astringent taste) and all the above drugs are predominant in this taste; Many meanings can be derived from this word so needs to be studied; Tori is correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

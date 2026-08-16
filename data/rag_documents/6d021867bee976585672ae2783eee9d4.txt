@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6d021867bee976585672ae2783eee9d4
+Botanical Name: Ipomoea hederifolia L.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Quamoclit phoenicea CHOISY
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. Kannada (3) - gowri beeja, kolli beeja, krishna beeja Tamil (1) - kadutumba Telugu (1) - kaashi rathnaalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d021867bee976585672ae2783eee9d4/xclkon/c1b7f17c416bb34b702ce3348dbabe69
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d021867bee976585672ae2783eee9d4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d021867bee976585672ae2783eee9d4/xclkon/c1b7f17c416bb34b702ce3348dbabe69
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

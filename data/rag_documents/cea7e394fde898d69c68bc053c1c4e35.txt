@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cea7e394fde898d69c68bc053c1c4e35
+Botanical Name: Symplocos cochinchinensis S.MOORE subsp. laurina (RETZ.) NOOTEBOOM var. laurina
+Family: Symplocaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Symplocos spicata ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 7 languages. Hindi (2) - bholiya, sodh Kannada (6) - balaloddi, boothaganni, boothgani, budigane, loddi, lodha Malayalam (2) - nannal, paccotti Marathi (1) - lodar Sanskrit (1) - Sanskrit Comments  lodhrah Tamil (2) - kambli-vetti, kamblivetti Telugu (4) - boothgani, budigane, lodduga, tellalodduga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cea7e394fde898d69c68bc053c1c4e35
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2015
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2015.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cea7e394fde898d69c68bc053c1c4e35/xclkon/9c47a238935417a144a4b13d308de390
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cea7e394fde898d69c68bc053c1c4e35
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

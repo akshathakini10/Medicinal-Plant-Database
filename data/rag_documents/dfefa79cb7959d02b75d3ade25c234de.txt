@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dfefa79cb7959d02b75d3ade25c234de
+Botanical Name: Peperomia tetraphylla (G.FORST.) HOOK. & A.
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Peperomia reflexa (L.F.) A. DIETR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfefa79cb7959d02b75d3ade25c234de
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfefa79cb7959d02b75d3ade25c234de/xclkon/b1e69c77d6a81091cecaa12afc6a2744
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfefa79cb7959d02b75d3ade25c234de
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

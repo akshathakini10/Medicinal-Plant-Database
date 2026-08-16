@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 58291bd7c778fcf41269749eb9425e36
+Botanical Name: Capparis zeylanica L.
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Capparis horrida L.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 179 Vernacular names found in 6 languages. Hindi (11) - aradanda, ardanda, bauri, gitoran, govindaphal, hins, hinsa, his, jhiris, kalhins, khalis Kannada (19) - aathundi kaayi, anthundi kaayi, anthundikaayi, athendri, govinda phala, govindha phala, loothi kaayi, mullu kaarthi, mullukarti, mullukattari, mullukatthari, muthukallari, mutthu kallaari, thotte balli, totla, totli, totte, tottula, tottulla Marathi (7) - ardandi, govindi, taramati, vaagati, vaganti, wag, wagati Sanskrit (15) - Sanskrit Comments  govindi, granthila, grdhranakhi, hankaru, kantakalata, karambha, katukandari, kinkani, krishangi, tapasapriya, vartala, vyaghraghanti, vyaghranakhi, vyaghrapada, vyagranakhi Tamil (101) - aathondai, adhandai, adondai, alanday, alavirukkam, alavirutcam 1, antai 2, anthundi-kai, atandai, atandam, atanday, atantai, atantam, atontai, avavirutcam, cakacopai, cakacopam, cakacopeku, cala, calavirutcam 2, carkkalam, cikkolikkulal, cilesmavinacini, cisnam, cuvacutittam, cuvatutittapalatai, igudi, ikuti, indu, intai 1, intu 1, ka-thotti, kaguturatti, kakanturatti 1, kakanturatti 2, kakatturatti 1, kakatturatti 2, kakaya, kalatturatti, kalturatti, kapaccar, karrotti 1, karrotti 2, karumoli, karumolikkoti, katatti, katotti, kattatti, kattotti, kattotti#, kattotti@, kayttotti, kutantakam, makakalankam, marukam, migupalattam, mikupalavantam, mikupattiri, mikupattirikkoti, mikuppalattam 1, mikuppalattam 2, morandan, murrontai, murruratti, ontipparappan, oritamiyakkoti, oritamiyam, orumulaimatar, ottuppalati, paltaittuvam, patam, tantai, tondai, tontai 1, tontakai, toratti 1, tulambikkiri, tulampi, tulampikkiri, tulampikkoti, turatti, turatticceti, turattimaram, tuspirataru, ukkiracakkoti, ukkiracam, ukkiracatam, ukkiracava, ukkiracavaki, ukkiracavakikoti, ukkiracca, ukkiracukirantam, ukkiracurakkoti, ukkiracuravar, ukkirakattotti, ukkiratotticceti, ulolarcisnam, vaciyakkani, viyanicham, viyanniccam, yalavarutam Telugu (26) - aadonda, adavinima, adonda, adondathivva, adontha, aradonda, aradoonda, arhonda, ari donda, aridonda, arthondah, arudonda, atonda, chilli gara, chittigara, cittigara, doddi, paalaki, palaki, palikee, palleke, pallike, sabbi, todaku, uppi, vaminta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 437
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/437.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36/xclkon/fe8d7c17a19192cf997ca8ec6288231e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/58291bd7c778fcf41269749eb9425e36
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Duduraka
+sanskrit_name: डुडुरक
+transliteration: ḍuḍuraka
+ref_drug_name: डुडुरक
+status: Most probable
+discussion: May be considered as the fruit of Capparis
+reference: [1]
+
+Identity Record 2
+drug_name: Grdhranakhi
+sanskrit_name: गृध्रनखी
+transliteration: gṛdhranakhī
+ref_drug_name: गृध्रनखी
+status: Most probable
+discussion: May be considered as this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 397ed2aea5b7f7b59968dd8d3d010582
+Botanical Name: Prunus cerasus L.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 5 languages. English (5) - amarelle cherry, cherry gum, maraschino cherry, morello cherry, sour cherry Hindi (3) - alu-balu, chulu, jaman Sanskrit (4) - Sanskrit Comments  aileyah, elavaluh, elavalukah, vira Tibetan (1) - sin tsha Urdu (1) - alu balu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397ed2aea5b7f7b59968dd8d3d010582
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397ed2aea5b7f7b59968dd8d3d010582
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397ed2aea5b7f7b59968dd8d3d010582
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397ed2aea5b7f7b59968dd8d3d010582
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Elavaluka
+sanskrit_name: एलवालुक
+transliteration: elavāluka
+ref_drug_name: एलवालुक
+status: Accepted source
+discussion: Has been identified with this sp.
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

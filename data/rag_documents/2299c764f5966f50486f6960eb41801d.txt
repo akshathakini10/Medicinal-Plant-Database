@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2299c764f5966f50486f6960eb41801d
+Botanical Name: Dictamnus albus L.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. English (2) - burning bush, dittany
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2299c764f5966f50486f6960eb41801d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2299c764f5966f50486f6960eb41801d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2299c764f5966f50486f6960eb41801d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fd1ba4c8b33bed15c89de85bd0fef5ce
+Botanical Name: Grewia tiliaefolia VAHL
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 141 Vernacular names found in 7 languages. Hindi (7) - dhaman, dhamani, dhamin, dhamni, jhujhana, phaisa, pharsa Kannada (36) - balmuri, batala, batale, bhutthade, boothaale, butale, butali, buttale, buttele, dadasal, dadasalu, daddasal, dadsaala, dadsal, dadsalu, dhadsal, dhanvana, jaana, jana, jani, kanapadi, kendalasu, tadacali, tadagana, tadajana, tadasal, tadasali, tadashalu, taddasu, thadachi, thadas, thadasal, thadasalu, thadasu, thadsal, thathsaale Malayalam (19) - catacci, cchadicha, chadache, chadachi, chadack, chadiccha, chatacci, dhanvanavrksam, pai-paroea, sadachi, sadachu, satachi, thadathi, thadiccha, thadicha, una, unal, unnam, unum Marathi (8) - daaman, daamani, daman, damni, dhaaman, dhaman, karavarani, karkarani Sanskrit (17) - Sanskrit Comments  dhamni, dhanurvriksha, dhanurvrksah, dhanvana, dhanvanah, dhanvangah, dharmana, dharwana, dhavanga, dhawana, mahabala, pichhilaka, pichhilatvaka, raktakusuma, rujasaha, ruksha, swaduphala Tamil (25) - belakka, catacci, cataicci-p-pattai, chadachi, karvini, kavini, kitacari, kitacaricceti, sadachi, tada, tanuvakam, tarra, tarumanam, tata, tatacal, tatacaltatrumanam, tatacci, thada, thadachi, thadasu, una, unal, unnu, unu, vatelai unnu Telugu (29) - baddi bodda, charachi, erratada, errathada, ettatada, inupatada, jaana, jana, kada, nacudu, nulijaana, nulijana, pedda jaana, pedda jana, peddatena, tada, tada chettu, tadajana, tadda, tara, thada, thadachettu, thadajana, thadda, thana, tharaa, tharra, udupai, yerratada
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd1ba4c8b33bed15c89de85bd0fef5ce
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd1ba4c8b33bed15c89de85bd0fef5ce
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd1ba4c8b33bed15c89de85bd0fef5ce
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd1ba4c8b33bed15c89de85bd0fef5ce
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhanvana
+sanskrit_name: धन्वन
+transliteration: dhanvana
+ref_drug_name: धन्वन
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Dhanvana
+sanskrit_name: धन्वन
+transliteration: dhanvana
+ref_drug_name: धन्वन
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Dhanvana
+sanskrit_name: धन्वन
+transliteration: dhanvana
+image_urls: https://www.medicinalplants.in/slokaimages/822/822_1.jpg https://www.medicinalplants.in/slokaimages/822/822_2.jpg
+ocr_text: धन्वनःपिच्छिलत्वक्चधनुर्वृक्षोमहत Synonyms Of Dhanvana are Picchila, Tvak Dhanurvrksha mahat धन्चनस्तुवरोवृष्योमधुरःकटुमोतक बल्योरूक्षोलघुश्चैवधातुवृद्धिकरोमतः किंचिदुष्णश्चसंप्रोक्तोव्रणरोपणकारकः कफवातहरोदाहशोषकण्ठरूजापहः रक्तरुक्पित्तकासघ्नःपीनस्यविनाशकः फलंचास्यस्वादुशीतंतुवरंकफवातहम् Dhanvana is tuvara, madhura, katu in rasa, laghu, ruksa in guna, slightly usna in veerya, vrshya, balya, promotes dhatu vrddhi vrana ropana, alleviates kapha, vata, cures daha, sosa, kantha ruja, rakta, ruk, pitta, kasa, pinasa Its phala is svadu, tuvara in rasa, sita in veerya, alleviates kapha, vata

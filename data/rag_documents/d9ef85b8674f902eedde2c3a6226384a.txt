@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d9ef85b8674f902eedde2c3a6226384a
+Botanical Name: Colchicum luteum BAKER
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 5 languages. Hindi (2) - harantutiya, hirantutiya Kannada (1) - kaadige gida Sanskrit (5) - Sanskrit Comments  hiranya-tuttha, hiranyatutha, suranjana, tutham, tuthanjana Tamil (2) - curinacanmiciri, curincan Urdu (4) - suranjan shirin, suranjan talkh, suranjan-i-shirin, suranjanetalkh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9ef85b8674f902eedde2c3a6226384a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 605
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/605.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9ef85b8674f902eedde2c3a6226384a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9ef85b8674f902eedde2c3a6226384a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9ef85b8674f902eedde2c3a6226384a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

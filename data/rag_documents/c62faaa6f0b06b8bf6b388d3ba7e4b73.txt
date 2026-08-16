@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c62faaa6f0b06b8bf6b388d3ba7e4b73
+Botanical Name: Annona muricata L.
+Family: Annonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 19 Vernacular names found in 6 languages. English (3) - graviola, guanabana, soursop Kannada (3) - mullu raama phala, mullu raamana phala, mullu ramaphala Malayalam (3) - mullancakka, mullanchukka, vilattinuna Marathi (2) - mamaphal, mamphal Tamil (7) - mulcita, mullu citta, mulluccita, mulluccitta, mutcita, mutcitamaram, pulippala Telugu (1) - lakshmana phalamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c62faaa6f0b06b8bf6b388d3ba7e4b73
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c62faaa6f0b06b8bf6b388d3ba7e4b73
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c62faaa6f0b06b8bf6b388d3ba7e4b73
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 555260a885273d4bc22900a93dde378b
+Botanical Name: Careya arborea ROB.
+Family: Lecythidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 184 Vernacular names found in 8 languages. English (2) - ceylon oak, patana oak Hindi (10) - handabhera, handbahera, kali-katbhi, kamba, khumbi, kumbh, kumbhi, kumbi, kumhi, vakamba Kannada (54) - aalagavvele, alagavala, alagavvele, daddal, daddala, dhaddaala mara, doddaale, doddala, doddalada, ganjal, ganju, garva hannu, gaujala mara, gaul, gaulu mara, gavaale, gavagile, gavala, gavalu hannu mara, gavudlu, gavuldu, gavvahannu, gavvele, gavvele hannu, gawagilu, goddadayippe, gongel, gongu, gonji, goujalu, gouju, guddada ippe, guddadaippa, guddadaippae, guddadaippe, hennu matthi, hennumatti, kaavale, kaulu, kaulumara, kaval, kavale, kavalu mara, kavane, kavne, kavulu, kavval, kumbaara, kumbaro, kumbha, kumbi, kumbiamara, pilu, savana Malayalam (23) - alam, kavana, paer, peelam, pela, peloa, pelou, pelu, per, pera, peru, perzha, pevoo, pevu, peya, pezha, pezhu, pilam, pilu, poyu, udu, uka, ukamaram Marathi (12) - kamba, kuba, kumbha, kumbhasala, kumbhi, kumbia, kumbika, kumbya, kumbyo, kumhi, vakumbha, wai-kumbha Sanskrit (25) - Sanskrit Comments  ashaundi, bhadrendrani, girikarnika, kaidarya, kalindi, katabhi, katambhara, kinihi, kshudrashyama, kumbhi, kumbi, madhurenu, mahakatabi, mahashwata, nabhika, patali, pilu, shatapada, shaundi, shirishapatri, shwetakinihi, shyamala, sitakatabhi, svadupushpa, vishaghnika Tamil (22) - aima, avima, ayma, ayma#, kalkambi, kalkampi, kaltekku 2, kampi 2, kampil 2, kampili 2, karekku, karrekku, kolama, kumbi, kumpi, pailacputatammi, pela, pelu, peria, pudattanri, putattanri, puttatanni Telugu (36) - araya, araya budada naedi, budaburija, budadadarini, budadadarvi, budadanedi, budadarini, budadarmee, budadarmi, budadurmi, budarnedi, budatadadimma, budatanavadi, budatanevadi, budatare, budathadaadimma, budathare, budda budusa, budda dharmi, buddaburija, darepi, duddippa, dudeppa, dudeppi, dudippa, dudippi, gaadhava, gada, gadava, gadha, gadhava, govadi, guda-dhermi, kambi, kumbhi, kumbi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 444
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/444.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/555260a885273d4bc22900a93dde378b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Katphala
+sanskrit_name: कट्फल
+transliteration: kaṭphala
+ref_drug_name: कट्फल
+status: Substituted source
+discussion: Kumbhi is sometimes considered as a synonym of Katphala for which Careya arborea is been given as a correlation and hence used a substitute for Katphala
+reference: [1]
+
+Identity Record 2
+drug_name: Kumbhi
+sanskrit_name: कुम्भि
+transliteration: kumbhi
+ref_drug_name: कुम्भि
+status: Accepted source
+discussion: Identified with it; Mentioned in Raja nighantu
+reference: [5]
+
+Identity Record 3
+drug_name: Kumbhi
+sanskrit_name: कुम्भि
+transliteration: kumbhi
+ref_drug_name: कुम्भि
+status: Most probable
+discussion: Careya arborea is identified as Kumbhi. Kumbhi has also been used as a substitute for Patala and Katphala and hence the confusion.
+reference: [1]
+
+Identity Record 4
+drug_name: Svetakumbhika
+sanskrit_name: श्वेतकुम्भिका
+transliteration: śvetakumbhikā
+ref_drug_name: श्वेतकुम्भिका
+status: Most probable
+discussion: Most probably this species is taken into consideration
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Katphala
+sanskrit_name: कट्फल
+transliteration: kaṭphala
+image_urls: https://www.medicinalplants.in/slokaimages/1148/1148_1.jpg https://www.medicinalplants.in/slokaimages/1148/1148_2.jpg https://www.medicinalplants.in/slokaimages/1148/1148_3.jpg https://www.medicinalplants.in/slokaimages/1148/1148_4.jpg https://www.medicinalplants.in/slokaimages/1148/1148_5.jpg
+ocr_text: कट्फलः कफवातघ्नो गुल्ममेहाग्निमान्द्यदजित्| रुचिष्यो ज्वर- दुर्नाम-ग्रहणी पाण्डुरोगहा | | Katphala alleviates kapha and vata, is rucya, CUrCS gulma, meha, agnimandya , jvara, durnama, grahani, and pandu roga कटफल च कषायं च कफधातुविकारजित् हृल्लास मुखरोगघ्नं कासन्श्वास ्ज्वरापहम् IDhn) Katphala kashaya in rasa, kapha dhatu vikaraghna, cures hrllasa mukha roga, kasa, svasa and jvara. कट्फलः कटूरुष्णश्च कासश्वासज्वरापहः उग्रदाहहरो रुच्यो मुखरोगशमप्रदः | | (Rjnl Katphala is katu in rasa, usna in veerya, rucya, cures kasa, svasa, jvara, ugradaha and mukharoga. कटुफलस्तुवरस्तिक्तः क टुर्वातकफज्वरान् ह श्वासप्रमेहार्शः कासकण्ठामयारुचीः न[ IBpn) Katphala is tuvara, tikta, katu in rasa, cures vata kapha jvara, svasa, prameha, arsa, kasa, kantha amaya and aruci. कफरोगध्नं श्वासकासज्वरापहम IRjvl Katphala cures kapha roga, svasa, kasa and jvara कट्फलं
+
+Shloka Record 2
+drug_name: Kumbhi
+sanskrit_name: कुम्भि
+transliteration: kumbhi
+image_urls: https://www.medicinalplants.in/slokaimages/329/329_1.jpg https://www.medicinalplants.in/slokaimages/329/329_2.jpg
+ocr_text: कुम्भिकावारिपर्णीचवारिमूलीखमुलिका आकाशमूलिकुतृणंकुमुदाजलवल्कलम् || Kumbhika, variparni, varimuli, khamulika, akashamulika, kutrnam, kumuaa, jalavalkalam are its synonyms वारिपर्णीहिमातिक्तालघ्वीस्वाद्धिसराकटुः | दोषत्रयहरीरूक्षाशोणितज्वरशोषकृत् Variparni is tikta, svadu, katu in rasa, laghu, ruksa, sara in guna, hima in veerya, alleviates all the three doshas, is sonita jvara sosa kara.

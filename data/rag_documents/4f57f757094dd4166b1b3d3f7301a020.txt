@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4f57f757094dd4166b1b3d3f7301a020
+Botanical Name: Oxalis latifolia H.B. & K.
+Family: Oalidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Kannada (3) - dodda moorele gida, dodda pullampuruchi, hulisoppu Sanskrit (1) - Sanskrit Comments  cangeri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f57f757094dd4166b1b3d3f7301a020
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4f57f757094dd4166b1b3d3f7301a020
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Carngeri - jati
+sanskrit_name: चाङ्गेरी जाति
+transliteration: cāṅgerī jāti
+ref_drug_name: चाङ्गेरी जाति
+status: Accepted source
+discussion: Is nonnative to India. Morphological features are similar to Oxalis corniculata. Its origin is Mexico but now cultivated in India
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,81 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3a92edd6d0b42cdb2a91f3b6cd4b0624
+Botanical Name: Abrus precatorius L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 285 Vernacular names found in 10 languages. English (8) - coral pea, crab s eye, indian liquorice, jequerity seed, jumbie beans, lucky or paternoster bean, rati, rosary pea Hindi (30) - bhut kesi, chanboi, charmoi, charmoli, chirmi, chirmiti, chormoi, gaunchhi, gaungchi, ghungchi, ghunghachi, gumchi, guncaci, gunchi, gunci, gunj, gunj ratt, gunja, gunji, gunjratt, kunch, raktan, rati, ratigiri, ratki, rattak, ratti, rauns, sarmai, tatti Kannada (21) - galaganji, gul-ganji, gulagangi, gulaganji, gulagunji, gulagunjie, gulganji, guliganji, gulugunjiballi, gunja, gunji, guruganji, gurugonji, gurugunji, haga, hauga, jeshtamadhu, jeshthamadhu, kempu kannu beeja, madhuka, madhukavalli Malayalam (17) - atimadhuram, cekkunni, coonycooroo, gundumani, gunja, irattimadhuram, kakani, klitakam, klitakkam, konni, kunni, kunni-kuru, kunnikkuru, kunnikuru, madhukam, madhumulam, shekkunni Marathi (8) - chanoti, gunchi, gunj, gunja, gunji, khaksi, kunch, lahan-gunj Sanskrit (54) - Sanskrit Comments  angaravallari, angaravalli, aruna, bhilabhushana, bhillabusana, chakrashalya, chataki, chudala, chudamani, dhvankshanakha, durmogha, goonja, gunja, gunjika, kaka, kakachinchi, kakachinchibijam, kakachinchika, kakadani, kakajangha, kakananti, kakanantika, kakashimbi, kakatikta, kakatundika, kakavallari, kakini, kaksha, kamboji, kanchi, kanichi, krishnachudika, krishnala, kunni, mirintika, rakta, raktala, raktika, saumya, shangushtha, shikhandi, shikhandini, shitapaki, shvetabija, shvetagunja, shvetaraktika, shvetkamboji, shvetochchata, shyamalachuda, tulabija, uchchatta, vaktrashalya, vanya, vayasadini Tamil (122) - adimaduram, adingam, adisamiyai, ali, aru, atimaturam, atinkam 2, atti, avu 2, cinkili 2, cinni 2, cinnicanni, ciritakam, ciritam, ciritam#, ciritam@, cirrilaimanikkoti, citakkanni, citikam, citikamanikkoti, cittilaicceti, civappakatitakkoti, civappakatitam, coondumunnie vayr, cutamanikkoti, edalagam, egunru, ekunru, etalakam 2, gundu-mani, gundumani, kakacincai, kakacinci, kakananti, kakanantirai, kakatiktam, kakavallari, kalluraynci, kalmuraki, kalmurakikkoti, kamapoki, kamperu, kampocam 4, kampoki, kampokikam, kandam, karunkunri, karuttaniramalacci, katukali, katukalikkoti, katuku 2, kindumuthan, koccimancati, koccimancatimani, kollikam, koticci 3, kotipenam, kotiyenacceti, kuccam, kunacam, kunakkari, kunapacakkoti, kunca, kuncakam, kuncalakkoti, kuncalam, kuncaram 3, kunci, kuncikam, kuncuram, kundrimani, kundumani, kundumuthan, kuni, kunjam, kunjuram, kunni, kunni#, kunni@, kunri, kunri-mani, kunricceti, kunrimani, kunrivittu, kunthamani, kuntri, kuntumani, kuruvi, kuruvikakkoti, kuruvikam, kuruvintakkoti, malaikkuruvi, maniccikai, maturakam 5, mukkirakariyar, mukkirkariyar, nakaciritam#, nakaciritam@, nancaruttanputu 2, nanci, nancicci, naykattankoti, naykkarantai, naykkattan, nilakkunti, nilakkuntikkoti, nirattakankari, pacalai, palaccaki, palaccakikkoti, palaccaritam, tamirakam, tamirikai, tittaparuvan, uccatam, uma, umatakiyakkoti, umatakiyam, uyar, uyarvukkoti, venkunri, venkunrivittu Telugu (16) - atimadhuramu, guri-ginja, guriginja, gurija, gurivenda, gurivinda, guru-venda, guruginia, guruginja, gurugonji, gurunenda, kukkutam, kukkutamu, mukkutamu, raktika, sinnaguruginja Tibetan (4) - ma ru rtse, o la mase dmarpo, ol ma se dkar po, ol ma sedmar po(d) Urdu (5) - ghunchchi surkh, ghunchi, ghungchi safaid, maghz tukhm kunch, tukhm kunch
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 15
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/15.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3a92edd6d0b42cdb2a91f3b6cd4b0624
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gunja
+sanskrit_name: गुञ्जा
+transliteration: guñjā
+ref_drug_name: गुञ्जा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Gunja
+sanskrit_name: गुञ्जा
+transliteration: guñjā
+ref_drug_name: गुञ्जा
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Karanjika
+sanskrit_name: करञ्जिका
+transliteration: karañjikā
+ref_drug_name: करञ्जिका
+status: Suggested source
+discussion: In Bhavaprakasa, there is a mention of 'Gunja' after the explanation of 'Karanjika'; So there is a possibility that this might be a type of 'Gunja' and correlated to one of its species; We even need to stress on the fact that in many places 'Gunja' is locally known as 'Karajani' which might be similar to 'Karanji'; With regard to the above it is suggested to correlate it to this species which is a type of 'Gunja'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Gunja
+sanskrit_name: गुञ्जा
+transliteration: guñjā
+image_urls: https://www.medicinalplants.in/slokaimages/9/9_1.jpg https://www.medicinalplants.in/slokaimages/9/9_2.jpg https://www.medicinalplants.in/slokaimages/9/9_3.jpg https://www.medicinalplants.in/slokaimages/9/9_4.jpg
+ocr_text: गुंजा रूक्षा तथा तिक्ता वीर्योष्णा च प्रकीर्तिता | विषवैषम्यजन्तुघ्नी रोगग्रामभयावहा Il (Dhnl Gunja is tikta in rasa, ruksa, usna in virza, visavaisamya and jantughna ana used in agra roga. गुंजाद्वयं च शीतोष्णं , बीजं वान्तिकरं शिफा विषहृत् पत्रं, वश्ये श्वेता प्रशस्यते I IDhn, Rjn ) Gunja dvaya is sitosna, bija is vanti kara, sipha is sulaghna, patra is visa hara and vasya sveta variety is the best. शूलघ्नी, गुंजाद्वयं तु केश्यं स्याद् वातपित्तज्वरापहम्| मुखशोषभ्रमश्वासतृष्णामदविनाशनम् | नेत्रामयहरं वृष्यं बल्यं कंडूं व्रणं हरेत्| कृमीन्द्रलुप्तकुष्ठानि रक्ता च धवलापि IBpn ) Gunja dvaya is vata pitta jvarahara, cures mukha 50$a, bhrama svasa, trsna, maaa, netryamaya, is balya, vrshya, cures kandu and vrana. Rakta gunja cures krmi, inaralupta ana kustha kesya, मूलं तु मधुरं तिक्तं मुखशोषहरं परम् मुखपाकहरं पत्रं, सर्वं श्वेताभवे १l (नि.सं) Its mula is maahura, tikta in rasa, mukha sosa hara para, patra is mukha paka hara, ana of all the varieties wnite variety is the best शुभमे

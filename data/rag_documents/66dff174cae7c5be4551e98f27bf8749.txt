@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 66dff174cae7c5be4551e98f27bf8749
+Botanical Name: Laggera aurita (WILD.) SCH.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 35 Vernacular names found in 2 languages. Marathi (1) - ranmuli Tamil (34) - antivirukacceti, antivirukam, arrumullanki, atakamamulam, attumullanki, canakkiyam, cimarakacceti, cimarakam, cinnamullanki, cirucempikacceti, cirumullanki, cuvarotti, cuvattumullanki, cuvetamacceti, cuvetamam, kakantakam#, kanankaticceti, kanankatikam, kariyatosampokki, kentiyataicuttiyakki, kitrusnacani, kollikacceti, kollikam, maccana, micira, mulakancam, mulakancani, muttira, narakkarantai, tirunakavam, tirunavakacceti, upputtaraki, upputtarakicceti, visnukaruputtam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66dff174cae7c5be4551e98f27bf8749
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66dff174cae7c5be4551e98f27bf8749
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66dff174cae7c5be4551e98f27bf8749
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

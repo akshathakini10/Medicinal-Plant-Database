@@ -1,0 +1,115 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 097e59d34e31f548d8c5d40949d1fc74
+Botanical Name: Capparis decidua (FORSK.) EDGEW.
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Capparis aphylla ROTH. NOV.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 105 Vernacular names found in 9 languages. Hindi (18) - kabra, kachra, kair, karel, karel-ka-tel, karer, karia, karil, kario, karir, karira, karu, ker, kerro, kurel, kurrel, lete, satari Kannada (13) - chippuri, cippuri, kaareela, kareera, kareeuppina gida, kari uppigida, kari uppina gida, karira, keraa, kiruli, nispatigay, nispatley gida, shipri Malayalam (2) - karimulli, karimullu Marathi (6) - karil, ker, naepathi, naevatho, nepati, nevati Sanskrit (27) - Sanskrit Comments  apatra, granthila, gudhapatra, kantaki, karaka, karira, karirah, kataphala, krakara, krakatha, krishashakha, mar vidahika, marubharuha, maruruhu, mriduphala, nigudhapatra, nishpatra, nishpatrika, shakapushpa, shatakunta, shonapushpa, suphala, tikshnakantaka, tikshnasara, ubhuruha, ushnasundara, vishvakpatra Tamil (27) - cattiputpam, cattiracoputpam, cinaikaravi, cinaikaravicceti, ciracukkilam, cirakakoli, cirakatantai, cirakkoli, cirakkoli#, cirakkoli@, ciratci, cutakkini, kariram, karyal, kelal, kentikam, kulaladondai, kulalatontai, kuraram, marupurukam 2, palaccaka, sengam, senkam, sirakkali, vayacca, vayaccam, venu Telugu (3) - enugadanta, kariramu, mumudatu Tibetan (6) - ka ri ra, rgya sna lu, rgya sne u (p & d), u bo ka (d), u po ta ka (p), u po ta ki la Urdu (3) - ab karir, kachia phal, titali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74/xclkon/0500dd3cb3de83602a075bde6944aa48
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74/xclkon/0500dd3cb3de83602a075bde6944aa48
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74/xclkon/0500dd3cb3de83602a075bde6944aa48
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74/xclkon/0500dd3cb3de83602a075bde6944aa48
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74/xclkon/0500dd3cb3de83602a075bde6944aa48
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/097e59d34e31f548d8c5d40949d1fc74
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kari
+sanskrit_name: करि
+transliteration: kari
+ref_drug_name: करीर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Kari
+sanskrit_name: करि
+transliteration: kari
+ref_drug_name: करीर
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 3
+drug_name: Kari
+sanskrit_name: करि
+transliteration: kari
+ref_drug_name: करीर
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 4
+drug_name: Karira
+sanskrit_name: करीर
+transliteration: karīra
+ref_drug_name: करीर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Karira
+sanskrit_name: करीर
+transliteration: karīra
+ref_drug_name: करीर
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 6
+drug_name: Karira
+sanskrit_name: करीर
+transliteration: karīra
+ref_drug_name: करीर
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Karira
+sanskrit_name: करीर
+transliteration: karīra
+image_urls: https://www.medicinalplants.in/slokaimages/318/318_1.jpg https://www.medicinalplants.in/slokaimages/318/318_2.jpg https://www.medicinalplants.in/slokaimages/318/318_3.jpg https://www.medicinalplants.in/slokaimages/318/318_4.jpg https://www.medicinalplants.in/slokaimages/318/318_5.jpg
+ocr_text: करीरो गुढपत्रो मरुदेशेषतिप्रसिद्धः कॅण्टकिवृक्ष इति डल्हणः करीरमाध्मानकरं कषायं कटूष्णमेतत् कफहारि भूरि| श्वासानिलारोचकसर्वशूलविच्छर्दि खर्जूवर्णदोषहारिI| IRjnl Karira, gudapatra, marudesa , atiprasiddha, kantakivrksha, halhana are the synonyms Karira is kashaya, katu in rasa, usna in veerya, alleviates kapha, adhmanakaraka , cures svasa, anila, arocaka, sarva sula, chardi, kharju ana varna dosha करीरः कटुकः तिक्तः स्वद्यष्णो भेदनः स्मृतः | दुर्नामकफवातामगरशोथव्रणप्रणुत् T IBpn) Karira is katu, tikta in rasa, usna in veerya, bheaana, alleviates kapha ana vata, cures durnama, ama, gara sotha vrana and करीरः कटुको भेदि तीक्ष्णोष्णः कफवातजित् ( मदनपालः) Karira is katu in rasa, tiksna in guna, usna in veerya, bhedi, alleviates kapha ana vata. करीरं ग्राहि फलमुष्णं रुचिप्रदम् कफपित्तकरम् किंचित्कषायं वातहृद्वरम्| | (क्षोमकुतूहलम्) Karira phala is katu, kincit kashaya in rasa, in guna, usna in veerya, ruciprada, alleviates vata increases kapha and pitta कटुकं grahi and करीराक्षिकपीलूनि तृणशून्यफलानि च | स्वादुतिक्तकटूषणानि कफवातहरणि च I| (सुश्रुतः) Karira, aksika, piluni, trnasunya phalani are the synonyms It is svadu, tikta, katu in rasa, usna in veerya, alleviates kapha and vata.

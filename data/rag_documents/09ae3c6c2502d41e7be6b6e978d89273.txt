@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 09ae3c6c2502d41e7be6b6e978d89273
+Botanical Name: Pittosporum nepaulense (DC.) REHDER & WILSON
+Family: Biaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pittosporum floribundum SENSU HOOK.F. & THOMS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 5 languages. Hindi (2) - raini, tumri Kannada (3) - ekkadi, tammata, tammatta Marathi (7) - vehkali, vehyenti, vekli, vikhari, yakadi, yekadi, yerkaddi Tamil (11) - kanakamujam, kattu, kattu cam panki, kattu campanki, kattusampangi, nancuntai, nancuntancatai, sampangi, tammattai, virusalavai, virusalavi Telugu (4) - chettu kasind, pida, rakamuki, rongosani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09ae3c6c2502d41e7be6b6e978d89273/xclkon/ad3e2827f665c08aae23fe9fa21d9ec5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09ae3c6c2502d41e7be6b6e978d89273
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09ae3c6c2502d41e7be6b6e978d89273/xclkon/ad3e2827f665c08aae23fe9fa21d9ec5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09ae3c6c2502d41e7be6b6e978d89273
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/09ae3c6c2502d41e7be6b6e978d89273/xclkon/ad3e2827f665c08aae23fe9fa21d9ec5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

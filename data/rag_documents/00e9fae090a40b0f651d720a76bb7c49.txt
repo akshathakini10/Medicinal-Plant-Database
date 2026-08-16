@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 00e9fae090a40b0f651d720a76bb7c49
+Botanical Name: Aristida setacea RETZ.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 5 languages. Kannada (5) - dodda hanchi hullu, dodda-hanchihullu, hallu chuchho hullu, naayi hanchi hullu, naianchi-katti Marathi (1) - mothi kussal Sanskrit (1) - Sanskrit Comments  mashaparni Tamil (2) - thudappampillu, ukam Telugu (4) - cheepuru gaddi, gaddi parakalu, paraka gaddi, poochika gaddi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00e9fae090a40b0f651d720a76bb7c49
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kamboji
+sanskrit_name: काम्बोजी
+transliteration: kāmbojī
+ref_drug_name: काम्बोजी
+status: Most probable
+discussion: Nighantus have mentioned 'Kamboji' as a synonym of 'Masaparni'; Rajanighantu mentions this as a synonym of 'Bakuci'; Another synonym of Masaparni is 'Hayapucchika' which is most probably correlated to this species with regard to its features
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

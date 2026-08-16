@@ -1,0 +1,92 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 18ea200817838c090b09790e9f521864
+Botanical Name: Datura innoxia MILL.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. Hindi (5) - datura kala, daturo, dhatura, dhaturo, kala-dhatura Marathi (1) - dhutro Sanskrit (1) - Sanskrit Comments  dhattura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/18ea200817838c090b09790e9f521864
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 760
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/760.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/18ea200817838c090b09790e9f521864
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dhattura
+sanskrit_name: धत्तूर
+transliteration: dhattūra
+ref_drug_name: धत्तूर
+status: Accepted source
+discussion: This species is originally from Mexico but found all over India
+reference: [3]
+
+Identity Record 2
+drug_name: Dhattura
+sanskrit_name: धत्तूर
+transliteration: dhattūra
+ref_drug_name: धत्तूर प्रजाति
+status: Accepted source
+discussion: This species is originally from Mexico but found all over India
+reference: [3]
+
+Identity Record 3
+drug_name: Dhattura -prajati
+sanskrit_name: धत्तूर प्रजाति
+transliteration: dhattūra prajāti
+ref_drug_name: धत्तूर
+status: Accepted source
+discussion: This species is originally from Mexico but found all over India
+reference: [3]
+
+Identity Record 4
+drug_name: Dhattura -prajati
+sanskrit_name: धत्तूर प्रजाति
+transliteration: dhattūra prajāti
+ref_drug_name: धत्तूर प्रजाति
+status: Accepted source
+discussion: This species is originally from Mexico but found all over India
+reference: [3]
+
+Identity Record 5
+drug_name: Dhuttura
+sanskrit_name: धुत्तूर
+transliteration: dhuttūra
+ref_drug_name: धत्तूर
+status: Accepted source
+discussion: This species is originally from Mexico but found all over India
+reference: [3]
+
+Identity Record 6
+drug_name: Dhuttura
+sanskrit_name: धुत्तूर
+transliteration: dhuttūra
+ref_drug_name: धत्तूर प्रजाति
+status: Accepted source
+discussion: This species is originally from Mexico but found all over India
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

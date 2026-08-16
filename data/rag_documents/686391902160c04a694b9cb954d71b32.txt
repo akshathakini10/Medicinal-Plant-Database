@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 686391902160c04a694b9cb954d71b32
+Botanical Name: Ziziphus xylopyrus WILLD.
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 62 Vernacular names found in 7 languages. Hindi (2) - ghat-bor, ghatbor Kannada (33) - challe, chotte, chotti, chutti, chuttimullu, cotte, cottemullu, dodchotte, dodda chotti, doddacotte, gocci, gochi, godachi, gonagalu, gorji, gotta, gotte, gottemullu, gotti, kartigai, kodachi, kodaci, kokosina mullu, kokosmamulu, kotta, kotte, kotte mullu, kottemullu, kotti, mullukare, padanaborero, sotte, sottemullu Malayalam (5) - cottukotta, kotta, kotte, soddakotta, sothakkotta Marathi (5) - ghoti bora, guti, kaante gutee, khaarkee, ranbor Sanskrit (3) - Sanskrit Comments  ghonta, ghontaphala, gopaghonta Tamil (4) - katalcirai, kottai, mullukkuppai, mullutuppai Telugu (10) - gooti chettu, gote, gotee, gothi, goti, gotika chettu, gotivi, gotte, gotti, reegotti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/686391902160c04a694b9cb954d71b32
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2275
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2275.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/686391902160c04a694b9cb954d71b32
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/686391902160c04a694b9cb954d71b32
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/686391902160c04a694b9cb954d71b32
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

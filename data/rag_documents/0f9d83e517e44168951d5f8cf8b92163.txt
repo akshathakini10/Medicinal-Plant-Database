@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0f9d83e517e44168951d5f8cf8b92163
+Botanical Name: Hedyotis corymbosa (L.) LAM.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Oldenlandia corymbosa L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 35 Vernacular names found in 7 languages. Hindi (4) - daman pappar, daman-paper, damanpapar, pitpapra Kannada (6) - hutcchu nelabevu, kallasabatrasige, kallu sabbasige, kallu sabseege, kshaethra parpaata, parpata hullu Malayalam (4) - parpadagam, parpatakam, parppatakam, parppatakappullu Marathi (6) - papti, paripaata, parpat, parpato, phapti, poripath Sanskrit (7) - Sanskrit Comments  ksetraparpatra, kshetraparpata, parapata, parpata, parpatah, parpataka, parpatakah Tamil (6) - kattucayaver, pappan, pappanpuntu, parpadagam, parpatagam, parpatakam Telugu (2) - vernela-vemu, verrinelavemu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163/xclkon/a95d13d7b4812eea65dbfb6f0f93fb64
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1107
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1107.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163/xclkon/a95d13d7b4812eea65dbfb6f0f93fb64
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163/xclkon/a95d13d7b4812eea65dbfb6f0f93fb64
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0f9d83e517e44168951d5f8cf8b92163/xclkon/a95d13d7b4812eea65dbfb6f0f93fb64
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Parpata
+sanskrit_name: पर्पट
+transliteration: parpaṭa
+image_urls: https://www.medicinalplants.in/slokaimages/5/5_1.jpg https://www.medicinalplants.in/slokaimages/5/5_2.jpg https://www.medicinalplants.in/slokaimages/5/5_3.jpg
+ocr_text: पर्पटः शीत्तलस्तिक्तः पित्तश्लेष्मज्वरापहः रक्तदाहारुग्लानिमदभ्रमविनाशनः || (Dhn, Rjn) Parpata is tikta in rasa, sita in veerya, alleviates pitta, slesma, jvara, rakta, daha, rug, glani, mada and bhrama. पर्पटो हन्ति पित्तास्रभ्रमतृष्णाकफज्वरान्| संग्राही शीतलस्तिक्तो दाहनुद् वातलो लघुः|| (Bpn) Parpata is tikta in rasa, laghu in guna, sita in veerya, sangrahi, increases vata alleviates pitta, asra, bhrama, trsna, kapha, jvara and daha पर्पटो दाहज्वरजित कफशोष्णः (Rjv) Parpata is kapha sosana, alleviates pitta, daha and ivara. पित्तहृत्

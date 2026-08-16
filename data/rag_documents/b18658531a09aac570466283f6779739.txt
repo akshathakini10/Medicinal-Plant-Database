@@ -1,0 +1,72 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b18658531a09aac570466283f6779739
+Botanical Name: Polyalthia longifolia BENTH. & HOOK. F.
+Family: Annonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 128 Vernacular names found in 8 languages. English (1) - indian willow Hindi (10) - asapala, ashok, asok, asoka, debdari, deodar, devadar, devadaru, devdaru, devidari Kannada (15) - ashoka, asoka, assoti, ghangu, hebbe, kambada mara, kanthri kadama, kumbada mara, naadu ashoka, pandil, pungu, putharajeevi, putrajivi, puttrajivi, ubbina mara Malayalam (20) - arana, aranamaram, aranei, aruna, arunna, ashokam, ashvattam, asokam, assotham, asvattham, choranai, chorani, choruna, chorunna, corani, hemapushpam, kolerengi, nedunar, vanculam, vanjolam Marathi (3) - ashok, asok, dedbari Sanskrit (7) - Sanskrit Comments  asoka, asopalava, devadaru, kastadaruh, kasthadaru, putrajiva, ulkatah Tamil (59) - acokam 1, acoku 1, acuvattai 1, asogam, asogu, asoka, asokam, assothi, atimalakamaram, cacupam, celai2, celeci, celecimaram, celokatam, celokatamaram, centu, centukam, centukamaram, cilai2, kacam2, kacupam, kakaccam, kalgoli, kalkoli, kasubam, kelikam3, kiri2, kirimaram, kolikkudi, kolikkuti, kommati, kommatimaram, nakacam, nattivetam, neettilingam, netlingi, nettilingam, nettilingu, nettilinkam, nettilinki, nettulingam, nettulinkam, nittilinkam, paymaravirutcam, pundi, ravadam, saribam, selai, sendu, suvattai, tevataru, vanamutti, vanamuttimaram, vanculam 1, vanmutti, vanmuttimaram, yukampatikam, yukampatikamaram, yukmapattirikai Telugu (13) - ashoka, ashokamu, asodham, asoka, asokam, asokamu, asvattamu, asvatthamu, daevadaaru, devadaru, nara mamidi, naramaamidi, nettlingum
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b18658531a09aac570466283f6779739
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b18658531a09aac570466283f6779739
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b18658531a09aac570466283f6779739
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b18658531a09aac570466283f6779739
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asoka
+sanskrit_name: अशोक
+transliteration: aśoka
+ref_drug_name: अशोक
+status: Substituted source
+discussion: This species is used as Asoka by many as a subs
+reference: [3]
+
+Identity Record 2
+drug_name: Kasthadaru
+sanskrit_name: काष्ठदारु
+transliteration: kāṣṭhadāru
+ref_drug_name: काष्ठदारु
+status: EX
+discussion: Kasthadaru is correlated to this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Asoka
+sanskrit_name: अशोक
+transliteration: aśoka
+image_urls: https://www.medicinalplants.in/slokaimages/1445/1445_1.jpg https://www.medicinalplants.in/slokaimages/1445/1445_2.jpg https://www.medicinalplants.in/slokaimages/1445/1445_3.jpg https://www.medicinalplants.in/slokaimages/1445/1445_4.jpg https://www.medicinalplants.in/slokaimages/1445/1445_5.jpg https://www.medicinalplants.in/slokaimages/1445/1445_6.jpg https://www.medicinalplants.in/slokaimages/1445/1445_7.jpg https://www.medicinalplants.in/slokaimages/1445/1445_8.jpg
+ocr_text: गतशोको उशोकाह्वाः रक्तको राजी | चित्रश्च कर्णपूरो मञ्जरिको हेमपुष्प इतिं |l निर्दिश्यते शोकनाशः चित्रस्तबकमञ्जरी विशोको वीतशोकश्च शब्दैः पर्यायवाचकै Il (Aa ma) Gatasoko, asokahva, pindipuspa raktaka, raji citra karnapura manjarika hemapuspa, sokanasa, citrasiambaka manjari, visoka, vitasoka- are the synonyms of asoka पिण्डीपुष्पश्च अशोको हेमपुष्पश्च वञ्जुलस्ताम्रपल्लवः कङ्केलिः पिण्डपुष्पश्च गधपुष्पो नटस्तथा Il (Bpn) Asoka hemapuspa, vanjula, tamrapallava, kankoli, pindapuspa gandha puspa, nata are the synonyms of asoka अशोकः शोकनाशः स्याद्विशोको वञ्जुलद्रुमः मधुपुष्पोडपशोकश्च कङ्केलि केलिकस्तथा Il रक्तपल्लवकशि्चित्रो विचित्रः सुभगः स्मराधिवासो दोषहारी प्रपल्लवः रागीतरुर्हेमपुष्पो रामवामाङ्घिघातकः पिण्डीपुष्पो नटश्चैव पल्लवदुर्द्विविंशति II (Rjn) Madhupuspa, apasoka, kankoli, kolika rakiapallava, citra, vicitra karnapuraka subhaga, smaradhivaso, doshahari prapallava, ragi, taruhu, hemapuspa, ramavamandhridhataka, pindipuspa, nata pallavadru are the २० synonyms mentioned. कर्णपूरकः अशोकः शीतलस्तिक्तो ग्राही वर्ण्यः कषायकः दोषापचीतृषादाहकृमिशोफविषास्रजित् Il (Bpn) Asoka is kashaya in rasa, sitala in veerya, varnya in karma used in trsa daha krmi, sopha visa asra vikara and causes dosha pacana. grahi, अशोकस्य त्वचा रक्तप्रदरस्य विनाशिनी Il (Sodala) Asoka's tvak is sisira in veerya, hrdya, destroys rakiapradara, alleviates pitta, daha, and srama. अशोकः शिशिरो हृद्यः पित्तदाहश्रमापहः गुल्मशूलोदराध्माननाशनः कृमिहारकः II (Rjn) Asoka is Sisira in Potency, Hrdya, Pitta Daha Srama hara. It is Gulma- Sula- Udara- Adhmana- Krmi Haraka. अशोकः शीतलश्चार्शःकृमीन्हन्ति प्रयोजितः अपचीं नाशयत्येव सर्वव्रणविनाशनः |l अशोको मधुरो हृद्यः सन्धानीयः सुगधिकः Dhn) Asoka is Sitala in Potency, is used in Arsa, Krmi Apaci, Sarva vrana. It is Madhura, Hrdya, Sandhaniya, Sugandhika. अशोकः शीतलः सिग्धो वर्ण्यो ग्राही कषायकः दोषापचीतृषादाहकृमिशोषविषास्रजित् Il (Kdn) Asoka is Sitala in Potency, Snigdha in Guna, Varnya and Grahi in Karma, Kashayaka in Tasie Causes Dosha pacana, and is used in Trsa, Daha, Krmi, Sosa, Visa, Asra vikara
+
+Shloka Record 2
+drug_name: Kasthadaru
+sanskrit_name: काष्ठदारु
+transliteration: kāṣṭhadāru
+image_urls: https://www.medicinalplants.in/slokaimages/1327/1327_1.jpg
+ocr_text: देवकाष्ठंमतंचोष्णंतिक्तरूक्षं कफापहम् | वातंचभूतबाधाचलेपाद्वयङ्गविनाशनम् IRjn Deva kastha is tikta in rasa, ruksa in guna usna in veerya, alleviates kapha, destroys vata, cures bhuta badha, and on lepana it cures vyanga

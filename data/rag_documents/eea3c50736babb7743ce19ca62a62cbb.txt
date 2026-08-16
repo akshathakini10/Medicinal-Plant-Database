@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: eea3c50736babb7743ce19ca62a62cbb
+Botanical Name: Kingiodendron pinnatum (ROB. E DC.) HARMS
+Family: Caesalpinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hardwickia pinnata ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 4 languages. Kannada (11) - aenne mara, chou-paini, enne, hannuyenne, hennu aenne, hennuyenne, jaenu aenne, kodapaala, kodapala, yennamara, yenne Malayalam (11) - chukkannapayini, chuvannapainee, curali, cuvannapayani, kiyavu, kodapala, kolla, kulavu, kulayu, shurali, uram Marathi (1) - anjana Tamil (4) - koda palai, kolavu, madayansamprani, malayansamprani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eea3c50736babb7743ce19ca62a62cbb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eea3c50736babb7743ce19ca62a62cbb/xclkon/7356b9b3cea5927c29d47280b731ba0d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eea3c50736babb7743ce19ca62a62cbb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

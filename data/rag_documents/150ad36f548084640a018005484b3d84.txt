@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 150ad36f548084640a018005484b3d84
+Botanical Name: Phoenix humilis ROYLE
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 4 languages. Hindi (5) - khajira, khajoor, khajri, khajur, thakal Sanskrit (1) - Sanskrit Comments  bhukharjuri Tamil (4) - inji, malai-icham, siru-icha, siruicha Telugu (6) - advi eeta, chitti etha, chittitha, cittiyita, konda-ita, kondaita
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/150ad36f548084640a018005484b3d84
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/150ad36f548084640a018005484b3d84
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kharbuja
+sanskrit_name: खर्बूजा
+transliteration: kharbūjā
+ref_drug_name: खर्बूजा
+status: Suggested source 3
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Kharjur
+sanskrit_name: खर्जूर
+transliteration: kharjūra
+ref_drug_name: खर्जूर
+status: Suggested source 3
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

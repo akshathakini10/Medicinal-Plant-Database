@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a15220a1249ce270e0d37f3088a86f71
+Botanical Name: Opuntia vulgaris MILL.
+Family: Cactaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Opuntia monacantha HAW. SUPPL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 3 languages. Hindi (5) - chhitaar thohar, chhittar chhun, chhittat chhun, gangiachu, nagphani Tamil (1) - sappathi-kalli Telugu (4) - naagajemudu, naga jamudu, nagadali, nagajemudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a15220a1249ce270e0d37f3088a86f71
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a15220a1249ce270e0d37f3088a86f71/xclkon/bf7075b890c8a8fae243249ba9ec57c0
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a15220a1249ce270e0d37f3088a86f71
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a15220a1249ce270e0d37f3088a86f71/xclkon/bf7075b890c8a8fae243249ba9ec57c0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a15220a1249ce270e0d37f3088a86f71
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ebe06d889ffbfca666ff76ff0f6cd419
+Botanical Name: Cichorium intybus L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 44 Vernacular names found in 9 languages. English (8) - blue sailor, blue-sailors, chicory, coffeeweed, radicchio, radiccio, succory, witloof Hindi (2) - hinduba, kasni Kannada (1) - chikory Malayalam (1) - cikkari Marathi (1) - kachani Sanskrit (1) - Sanskrit Comments  kasani Tamil (14) - cikkari, civattamullanki, erumakitakkirai, erumakitam, kacikikirai, kacini, kacinikkirai 2, kacinivirai, kacinivittu, kashini, kasini, kasini-virai, panaviyakkirai, panaviyam Telugu (3) - kaasni, kasini, kasini-vittulu Urdu (13) - ab kasni sabz, barg-e-kasni, beikh-e-kasni, bikh kasmi nim kofta, bikh kasni, bikh kasni nim kofta, kasni, kasni sabz, nim kofta, tukh kasni, tukhm kasni, tukhm-i-kasni, tukme-e-kasni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 532
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/532.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ebe06d889ffbfca666ff76ff0f6cd419
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kasani
+sanskrit_name: कासनी
+transliteration: kāsanī
+ref_drug_name: कासनी
+status: SA
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Kasani - jati
+sanskrit_name: कासनी जाति
+transliteration: kāsanī jāti
+ref_drug_name: कासनी
+status: SA
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kasani
+sanskrit_name: कासनी
+transliteration: kāsanī
+image_urls: https://www.medicinalplants.in/slokaimages/90/90_1.jpg
+ocr_text: कासनी लघुतिक्तोष्ण कफपित्तहरी कटुः यकृद्विकारे हृद्रोगे मूत्रकृच्छ्रे च शस्यत|| (स्व) Kasani is tikta in rasa, laghu in guna, usna in veerya, alleviates kapha, pitta, cures yakrd vikara, hrdroga and mutrakrcchra
+
+Shloka Record 2
+drug_name: Kasani - jati
+sanskrit_name: कासनी जाति
+transliteration: kāsanī jāti
+image_urls: https://www.medicinalplants.in/slokaimages/90/90_1.jpg
+ocr_text: कासनी लघुतिक्तोष्ण कफपित्तहरी कटुः यकृद्विकारे हृद्रोगे मूत्रकृच्छ्रे च शस्यत|| (स्व) Kasani is tikta in rasa, laghu in guna, usna in veerya, alleviates kapha, pitta, cures yakrd vikara, hrdroga and mutrakrcchra

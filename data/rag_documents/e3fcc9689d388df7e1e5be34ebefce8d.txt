@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e3fcc9689d388df7e1e5be34ebefce8d
+Botanical Name: Madhuca indica GMEL.
+Family: Sapotaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 45 Vernacular names found in 6 languages. Hindi (12) - mahua (introduced), mahuro, mahuva, mahuwa, mauo, mauro, mawda, mohua, mowa, muali, muwa, muwal Kannada (8) - doddippe, goodupushpa, haalippe, hunige, hunipe, kaadu hippe, lodhrapushpa, sonerdarakale Marathi (1) - moha Sanskrit (2) - Sanskrit Comments  gudapuspa, madhuka Tamil (20) - arkara, ieluppai, irucuvam, iruttiyacam, kattiluppai 1, kattiruppai, kucumam 1, kurumam, kutaputpam, malaiyiluppai, mantalatti, palantaciyam, palantaciyamaram, petatikam, petatikamaram, peyiluppai, pirankini, puvana, tirkkapattirakam 2, tirkkapattiram Tibetan (2) - sin tog ma dhu ka, sin tog ma du ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1360
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1360.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3fcc9689d388df7e1e5be34ebefce8d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Madhuka
+sanskrit_name: मधुक
+transliteration: madhuka
+ref_drug_name: मधुक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Madhuka
+sanskrit_name: मधुक
+transliteration: madhuka
+ref_drug_name: मधुक
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 3
+drug_name: Madhuka
+sanskrit_name: मधुक
+transliteration: madhuka
+ref_drug_name: मधुक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Madhuka
+sanskrit_name: मधुक
+transliteration: madhuka
+image_urls: https://www.medicinalplants.in/slokaimages/1055/1055_1.jpg https://www.medicinalplants.in/slokaimages/1055/1055_2.jpg https://www.medicinalplants.in/slokaimages/1055/1055_3.jpg
+ocr_text: मधूकपुष्पं मधुरं शीतलं गुरु बृंहणम् | बलशुक्रकरं प्रोक्तं वातपित्तविनाशनम् II फलं शीतं गुरु स्वादु वातपित्तनुत् हन्ति तृष्णास्रदाहश्वासक्षतक्षयान् Il IBpn) Madhuka puspa is machura in rasa, guru in guna, sita in veerya, destroys vata and pitta, is brmhana and bala sukra kara. Its phala is svadu in rasa, guru, alleviates vata and pitta, sukrala, ahrdya, cures trsna asra, daha, svasa, ksata and ksaya. शुक्रलं अहृद्यं ज्ञेयो जलमधूकस्तु मधुरो व्रणनाशनः वृष्यो वान्तिहरः शीतो बलकारी रसायनः IDhn ) Jalamadhuka is madhura in rasa, sita in veerya, vrshya, rasayana, balya vanti hara and vrana nasana, मधूकपुष्पं मधुरं च वृष्यं हृद्यं हिमं पित्तविदाहहारि| फलञ्च वातामयपित्तहारि ज्ञेयं मधूकद्वयमेवमेतत् IRjn) Madhuka puspa is madhura in rasa, hima in veerya, alleviates pitta is vrshya, hrdya and viaahi hara. Its phala is vatamaya pitta hari. This is same for both the types

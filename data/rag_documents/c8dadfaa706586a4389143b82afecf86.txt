@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c8dadfaa706586a4389143b82afecf86
+Botanical Name: Lumnitzera racemosa WILLD.
+Family: Combretaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 4 languages. Malayalam (6) - kada-kandel, kadakandal, kadakandel, kadakondei, karakkantal, katakkantal Marathi (1) - kharo-kamdel Tamil (6) - cinakkantal, katarkantal, thipparathai, tipparathai, tipparutti, tippiruttai Telugu (4) - kadivi, tanduga, thandara, thanduga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8dadfaa706586a4389143b82afecf86
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8dadfaa706586a4389143b82afecf86
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8dadfaa706586a4389143b82afecf86
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

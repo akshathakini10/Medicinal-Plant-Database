@@ -1,0 +1,71 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b13c30a10304d6e64bbc70c7f7cfbf80
+Botanical Name: Chlorophytum tuberosum BAKER
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 5 languages. Hindi (1) - safed-musali Kannada (1) - dravanti Sanskrit (1) - Sanskrit Comments  musali Tamil (1) - tiravanticam Telugu (2) - kuchhela, sarala pagada
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b13c30a10304d6e64bbc70c7f7cfbf80
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 518
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/518.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b13c30a10304d6e64bbc70c7f7cfbf80
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b13c30a10304d6e64bbc70c7f7cfbf80
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Musali
+sanskrit_name: मुशली
+transliteration: muśalī
+ref_drug_name: मुशली श्वेता
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+Identity Record 2
+drug_name: Musali - sveta
+sanskrit_name: मुशली श्वेता
+transliteration: muśalī śvetā
+ref_drug_name: मुशली श्वेता
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Musali
+sanskrit_name: मुशली
+transliteration: muśalī
+image_urls: https://www.medicinalplants.in/slokaimages/14/14_1.jpg https://www.medicinalplants.in/slokaimages/14/14_2.jpg https://www.medicinalplants.in/slokaimages/14/14_3.jpg
+ocr_text: मधुरा वृष्या वीर्योष्णा बृंहणी गुरुः | तिक्ता रसायनी हन्ति गुदजान्यनिलं तथा|| (Bpn) Musali is madhura, tikta in rasa, guru in guna, usna in veerya, vrshya, brmhani, rasayani ana cures guaaja anila. मुसली मधुरा शीता वृष्या पुष्टिबलप्रदा पिच्छला कफदा पित्तदाहश्रमहरा परा|| IRjnl Musali is madhura in rasa, picchila in guna, sita in veerya, vrshya, pusti bala prada, increases kapha, alleviates pitta, daha and srama मुसली मुसली रसपाकाभ्यां स्वादुः शीताडग्निवर्द्धिनी| वातपित्तहरा वृष्या स्थैर्यमार्दवदायिनी | | (शोढल) Musali is svadu in rasa and paka , sita in veerya, alleviates vata ana pitta is agni vardhani, vrshya, stairya mardava dayini.
+
+Shloka Record 2
+drug_name: Musali - sveta
+sanskrit_name: मुशली श्वेता
+transliteration: muśalī śvetā
+image_urls: https://www.medicinalplants.in/slokaimages/14/14_1.jpg https://www.medicinalplants.in/slokaimages/14/14_2.jpg https://www.medicinalplants.in/slokaimages/14/14_3.jpg
+ocr_text: मधुरा वृष्या वीर्योष्णा बृंहणी गुरुः | तिक्ता रसायनी हन्ति गुदजान्यनिलं तथा|| (Bpn) Musali is madhura, tikta in rasa, guru in guna, usna in veerya, vrshya, brmhani, rasayani ana cures guaaja anila. मुसली मधुरा शीता वृष्या पुष्टिबलप्रदा पिच्छला कफदा पित्तदाहश्रमहरा परा|| IRjnl Musali is madhura in rasa, picchila in guna, sita in veerya, vrshya, pusti bala prada, increases kapha, alleviates pitta, daha and srama मुसली मुसली रसपाकाभ्यां स्वादुः शीताडग्निवर्द्धिनी| वातपित्तहरा वृष्या स्थैर्यमार्दवदायिनी | | (शोढल) Musali is svadu in rasa and paka , sita in veerya, alleviates vata ana pitta is agni vardhani, vrshya, stairya mardava dayini.

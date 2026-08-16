@@ -1,0 +1,102 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dfd4a6b00896920d5ef8dab3477cf1f0
+Botanical Name: Dioscorea bulbifera L.
+Family: Dioscoreaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Dioscorea crispata ROB. Dioscorea sativa AUCT. NON L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 119 Vernacular names found in 10 languages. English (5) - acom, aerial yam, air potato, otaheite potato, otaheite yam Hindi (13) - bhirvolikanda, gaithi, genth, genthi, gethi, karawakand, karu kanda, karukanda, khildri, modi, ratalu, zamin-kand, zaminkand Kannada (6) - hansi gedde, heggenasu, kaikaraande, kaimoode gedde, kunta genasu, kuntagenasu Malayalam (9) - kattukaccil, kattukachil, kattuvalli, katu-katsjil, katu-kelengu, katukatsjil, mukkizhannu, peruvallikkilannu, peruvallikkizhannu Marathi (13) - dukarakanda, dukarkkanda, gathalu, kadoo karaandaa, kadu-kamdo, kadu-kand, karamdo, konaphala, konfa goradu, kukarkand, mataru, mibaelikand, varaahi Sanskrit (30) - Sanskrit Comments  amrita, badarakachha, balya, bilvamula, brahmaputri, brahmikanda, charmakaraluka, ghrishti, grsti, kandaka, kanya, kaumari, krodakanya, krodi, kushthanashaka, madhaveshtagrishtika, magadhi, mahaushadha, mahavirya, saukari, shambarakanda, shukari, sukandaka, trinetra, vanavasi, varahi, varahikanda, vishvaksenapriya, vridhida, vyadhihanta Tamil (26) - cirakavalli 1, cirakavalli 2, goradu, ilavali, iyamkilanku, kai vallikkodi, kaivalli kodi, karu-karinda, kattuc cirakavalli, kattuccirakavalli, kattuk kayvalli, kattukkilangu, kattunaruvalli, kattuvalli, kattuvalli 2, kayvalli, kayvalli-koti, kotikkal, kotikkalvalli, pannu kilangu, pannukilangu, peruvalli, ulakkaivalli, verrilai valli, yamicukilanku, yamicukkilanku Telugu (15) - adavi dumpa, atagatige, cedubaddudumpa, chedubaddudumpa, chedupaddudumpa, karu kanda, kayapendalam, kayapendalamu, malaakaakaayapendalamu, malakadayapendalamu, malakakayapendalam, malakakayapendalamu, rudrakshapendalam, rudrakshapendalamugu, sasibuddadumpa Tibetan (1) - su ka ri Urdu (1) - zaminekand
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/59bd7c08891430ca54919280a51a58aa
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 819
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/819.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/4fbfc1adbb6ceed17f96cf98d96b1552
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/59bd7c08891430ca54919280a51a58aa
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/4fbfc1adbb6ceed17f96cf98d96b1552
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/59bd7c08891430ca54919280a51a58aa
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/4fbfc1adbb6ceed17f96cf98d96b1552
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/59bd7c08891430ca54919280a51a58aa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/4fbfc1adbb6ceed17f96cf98d96b1552
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/59bd7c08891430ca54919280a51a58aa
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/4fbfc1adbb6ceed17f96cf98d96b1552
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dfd4a6b00896920d5ef8dab3477cf1f0/xclkon/59bd7c08891430ca54919280a51a58aa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aluka - bheda
+sanskrit_name: आलुक भेद
+transliteration: āluka bheda
+ref_drug_name: आलुक भेद
+status: Most probable
+discussion: Its most probably identified with regard to its morphology
+reference: [5]
+
+Identity Record 2
+drug_name: Grstika
+sanskrit_name: गृष्टिक
+transliteration: gṛṣṭika
+ref_drug_name: गृष्टिक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Varahi
+sanskrit_name: वाराही
+transliteration: vārāhī
+ref_drug_name: वाराही
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Varahi
+sanskrit_name: वाराही
+transliteration: vārāhī
+ref_drug_name: वाराही
+status: Accepted source
+discussion: Varahi is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

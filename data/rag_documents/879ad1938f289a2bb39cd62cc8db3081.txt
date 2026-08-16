@@ -1,0 +1,104 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 879ad1938f289a2bb39cd62cc8db3081
+Botanical Name: Shorea robusta GAERTN. F.
+Family: Dipterocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 196 Vernacular names found in 10 languages. English (1) - sal Hindi (14) - damar, dhonah, dhuna, kandar, ral, sakher, sakhu, sakhua, sakhuya, sakoh, sal, sala, salwa, shal Kannada (23) - aseena, aseena mara, ashina, ashvakarna, asina, asu, asvakarna, bile-bhogimara, bile-bovu, bilibodige, daamaru banke, daambara mara, guggala, guggula, jal, jalada, kaabbu, kabba, kabbu, sala, sarja, thalli, vamsa Malayalam (6) - karimaruthu, kungiliyam, kunkiliyam, maramaram, mulappumarutu, salavrksam Marathi (7) - guggilu, raala, raala dhoopa, rala, sajara, sal, saraja Sanskrit (55) - Sanskrit Comments  agnivallabha, ashvakarna, ashvakarnika, asoka, asvakarna, asvakarnah, chiraparna, devadhupah, dhanya, dhupavrksa, dirghaparna, dirghashakha, divyana, guggilam, jaladashara, jaranadruma, kala, kalalajodhbhava, karshya, kashayi, kaushika, kaushikahva, koushi-kaha, koushikaha, kushika, lalana, latashankha, latataru, rala, ralakarya, sal, sala, salah, salaniryas, salasara, salaveshta, sara, sarja, sarjah, sarjakarya, sarjarasa, sarjjaka, sasyasambara, sayasamvera, shala, shankataru, shankurriksha, shasyasambara, shura, sidhaka, sureshtaka, tarkshyaprasava, vallivriksha, vansha, yakshadhupa Tamil (64) - acca, acuvakarnakam, acuvakarnam, attam, attam 2, calacakam, calorcam, caruvaracam, cavarkkam, cayokam, cinacika, cinika, cinikamaram, comapannimaram, curnaparatam, in 1, jalari, kalaniriyacam, kantamulam 2, kantapalai, kantavirutcam, kaucikam, kaucikatari 1, kaucikatarimaram, kopitaram 1, kopitaramaram, kucikam 1, kukkil, kukkiliyam, kukkulukkil, kungiliam, kungiliyam, kunkiliyam, kunkiliyam 1, kunkiliyamaram, kunkulikam, kuntirikam, kutiraiccevi 1, luccippicinmaram, mara 2, may1, niriyacam, nitiyopam, pantitturumam, pantitturumaram, salam, saluvaimaram sai, shalam, talari, taloora, talura, tanavana 1, tanivirukkam, tanuvirukkam, tanuvirutcam 2, tenakam, tevakentam, tippirakacimaram, tirkkacalam 1, ulukacamaram, ulukalam 1, ulukam, venkungiliyam, venkunkiliyam Telugu (18) - googul, gugal, guggilam, guggilamu, guggilapu, guggulu, himsra, inumaddi, jalari, jalari-chettu, saala, saaluva, sal, sala, saluva, sarjakamu, sarjamu, vegina Tibetan (5) - pra tsi bog, sa la i sin, sa lai sin, spos (d) kar, sra rtsi pog Urdu (3) - ral, ral safaid, safed dammar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1908
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1908.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/879ad1938f289a2bb39cd62cc8db3081
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asoka
+sanskrit_name: अशोक
+transliteration: aśoka
+ref_drug_name: अशोक
+status: Adulterated source
+discussion: Bark of this species is sold as Asoka in the markets
+reference: [2]
+
+Identity Record 2
+drug_name: Sala
+sanskrit_name: शाल
+transliteration: śāla
+ref_drug_name: शाल
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Sala
+sanskrit_name: शाल
+transliteration: śāla
+ref_drug_name: शाल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Sarja
+sanskrit_name: सर्ज
+transliteration: sarja
+ref_drug_name: सर्ज
+status: Most probable
+discussion: Sarja is correlated to this species with regard to its popular usage name 'Sarjam' in U.P and Bihar
+reference: [1]
+
+Identity Record 5
+drug_name: Sarjarasa
+sanskrit_name: सर्जरस
+transliteration: sarjarasa
+ref_drug_name: सर्ज
+status: Most probable
+discussion: Sarja is correlated to this species with regard to its popular usage name 'Sarjam' in U.P and Bihar
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Asoka
+sanskrit_name: अशोक
+transliteration: aśoka
+image_urls: https://www.medicinalplants.in/slokaimages/1445/1445_1.jpg https://www.medicinalplants.in/slokaimages/1445/1445_2.jpg https://www.medicinalplants.in/slokaimages/1445/1445_3.jpg https://www.medicinalplants.in/slokaimages/1445/1445_4.jpg https://www.medicinalplants.in/slokaimages/1445/1445_5.jpg https://www.medicinalplants.in/slokaimages/1445/1445_6.jpg https://www.medicinalplants.in/slokaimages/1445/1445_7.jpg https://www.medicinalplants.in/slokaimages/1445/1445_8.jpg
+ocr_text: गतशोको उशोकाह्वाः रक्तको राजी | चित्रश्च कर्णपूरो मञ्जरिको हेमपुष्प इतिं |l निर्दिश्यते शोकनाशः चित्रस्तबकमञ्जरी विशोको वीतशोकश्च शब्दैः पर्यायवाचकै Il (Aa ma) Gatasoko, asokahva, pindipuspa raktaka, raji citra karnapura manjarika hemapuspa, sokanasa, citrasiambaka manjari, visoka, vitasoka- are the synonyms of asoka पिण्डीपुष्पश्च अशोको हेमपुष्पश्च वञ्जुलस्ताम्रपल्लवः कङ्केलिः पिण्डपुष्पश्च गधपुष्पो नटस्तथा Il (Bpn) Asoka hemapuspa, vanjula, tamrapallava, kankoli, pindapuspa gandha puspa, nata are the synonyms of asoka अशोकः शोकनाशः स्याद्विशोको वञ्जुलद्रुमः मधुपुष्पोडपशोकश्च कङ्केलि केलिकस्तथा Il रक्तपल्लवकशि्चित्रो विचित्रः सुभगः स्मराधिवासो दोषहारी प्रपल्लवः रागीतरुर्हेमपुष्पो रामवामाङ्घिघातकः पिण्डीपुष्पो नटश्चैव पल्लवदुर्द्विविंशति II (Rjn) Madhupuspa, apasoka, kankoli, kolika rakiapallava, citra, vicitra karnapuraka subhaga, smaradhivaso, doshahari prapallava, ragi, taruhu, hemapuspa, ramavamandhridhataka, pindipuspa, nata pallavadru are the २० synonyms mentioned. कर्णपूरकः अशोकः शीतलस्तिक्तो ग्राही वर्ण्यः कषायकः दोषापचीतृषादाहकृमिशोफविषास्रजित् Il (Bpn) Asoka is kashaya in rasa, sitala in veerya, varnya in karma used in trsa daha krmi, sopha visa asra vikara and causes dosha pacana. grahi, अशोकस्य त्वचा रक्तप्रदरस्य विनाशिनी Il (Sodala) Asoka's tvak is sisira in veerya, hrdya, destroys rakiapradara, alleviates pitta, daha, and srama. अशोकः शिशिरो हृद्यः पित्तदाहश्रमापहः गुल्मशूलोदराध्माननाशनः कृमिहारकः II (Rjn) Asoka is Sisira in Potency, Hrdya, Pitta Daha Srama hara. It is Gulma- Sula- Udara- Adhmana- Krmi Haraka. अशोकः शीतलश्चार्शःकृमीन्हन्ति प्रयोजितः अपचीं नाशयत्येव सर्वव्रणविनाशनः |l अशोको मधुरो हृद्यः सन्धानीयः सुगधिकः Dhn) Asoka is Sitala in Potency, is used in Arsa, Krmi Apaci, Sarva vrana. It is Madhura, Hrdya, Sandhaniya, Sugandhika. अशोकः शीतलः सिग्धो वर्ण्यो ग्राही कषायकः दोषापचीतृषादाहकृमिशोषविषास्रजित् Il (Kdn) Asoka is Sitala in Potency, Snigdha in Guna, Varnya and Grahi in Karma, Kashayaka in Tasie Causes Dosha pacana, and is used in Trsa, Daha, Krmi, Sosa, Visa, Asra vikara
+
+Shloka Record 2
+drug_name: Sala
+sanskrit_name: शाल
+transliteration: śāla
+image_urls: https://www.medicinalplants.in/slokaimages/1481/1481_1.jpg https://www.medicinalplants.in/slokaimages/1481/1481_2.jpg https://www.medicinalplants.in/slokaimages/1481/1481_3.jpg https://www.medicinalplants.in/slokaimages/1481/1481_4.jpg https://www.medicinalplants.in/slokaimages/1481/1481_5.jpg https://www.medicinalplants.in/slokaimages/1481/1481_6.jpg
+ocr_text: सालस्तुसर्ज्जकार्याडश्वकर्णिकासस्यसम्बरः Sarjja, asvakarnika and sambara are the synonyms of sala अश्वकर्णः कषायः स्याद्व्रणस्वेदकफकृमीन् | ब्रध्नवीद्रधिबाधिर्य्यनिकर्णगदान्हरेत्| IBpnl Asvakarna is kashaya in rasa, alleviates vrana, sveda, kapha, krmi, bradhna, vidradhi, badhirya and karna gada. अश्वकर्णःकटुस्तिक्तःस्निग्धःपित्तास्रनाशनः उरोविस्फोटकण्डूघ्नःशिरोदोषार्त्तिकृंतनः | | (Rjn ) Asvakarna is katu, tikta in rasa, snigdha in guna, destroys pitta asra dosha, alleviates uru visphota, kandu, siro dosha and arti. अथशालभेदः सर्ज्जकोडन्योउजकर्णःस्याच्छालोमरिचपत्रकः Synonyms of sarjjaka anya are ajakarna, sala and marica patraka. अजकर्णःकटुस्तिक्तःकषायोष्णोव्यपोहति कफपाण्डुश्रुतिगदान्मेहकुष्ठविषव्रणान्| (Bpnl Ajakarna is katu, tikta, kashaya in rasa, usna in veerya, alleviates kapha, pandu, sruti gada, meha, kustha, visha and vrana. सर्जस्तुकटुतिक्तोष्णोहिमःस्निग्धोडतिसारजित् P पित्तास्रदोषकुष्ठघ्नःकण्डूविस्फोटवातजित् | IRjn ) Sarja is Katu, Tikta in rasa, Usna, Hima, Snigdha, Atisara hara, Pittasradosha kusthaghna, Kandu visphota vata hara.

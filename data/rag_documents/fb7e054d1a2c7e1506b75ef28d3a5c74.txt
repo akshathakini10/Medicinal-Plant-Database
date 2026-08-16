@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fb7e054d1a2c7e1506b75ef28d3a5c74
+Botanical Name: Zanthoxylum rhetsa (ROB.) DC.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Zanthoxylum budrunga (ROB.) DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 94 Vernacular names found in 7 languages. Hindi (4) - badrang, budrung, jaladhari, pepuli Kannada (23) - aramadala, aremaadalu, aremaapala, aremadalu, aremapala, arempala, jimmi, jimmi mara, jisumi-mara, juminam, jummana kaayi mara, jummi, jummi mara, jummina, jummina mara, kadumenasu, karvad, kavate, melsoro, mullumastige, sesele, seshele, sessal Malayalam (14) - karimurikku, karimuriku, kattamurakku, kattumurikku, kothumurikku, kuyitti, mooleela, moult-tla, mulakila, mulilam, mulillam, mullila, mullilam, mullillam Marathi (15) - chiphal, chirphala, kokli, sessal, tejabala, thaejabala, thirpani, thirphal, thisal, thisul, tirpani, tirphal, tisal, tisul, triphal Sanskrit (17) - Sanskrit Comments  ashvaghra, atitejani, bidalaghni, laghuvalkala, mahanjasi, parijata, shita, sutejasi, suvarnanakuli, tejanya, tejasvini, tejavati, tejovati, tejovha, tikta, tinaburu, valkali Tamil (8) - iraccai, iraccaimaram, iratchai, karuncurai, karuppuk kaliyana murunkai, kattumurukku, mullilam, retsamaram Telugu (13) - morapu, raccamanu, racha, rachamam, rachchamanu, rattsamanu, rhesta mansu, rhetsa, rhetsa-man, rhetsa-maram, rhetsaman, rhetsamaum, rhetsamaun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2254
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2254.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/49ae76b36c3d75913ccab7aeafd9f081
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/49ae76b36c3d75913ccab7aeafd9f081
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/5a8737f8d71f77fe33c5cd4f8c550611
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74/xclkon/49ae76b36c3d75913ccab7aeafd9f081
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fb7e054d1a2c7e1506b75ef28d3a5c74
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

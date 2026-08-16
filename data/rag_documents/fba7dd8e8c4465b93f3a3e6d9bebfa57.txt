@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fba7dd8e8c4465b93f3a3e6d9bebfa57
+Botanical Name: Myricaria bracteata ROYLE
+Family: Tamaricaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Myricaria germanica DESV.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fba7dd8e8c4465b93f3a3e6d9bebfa57/xclkon/6c7da5e598788da9a8102dbe7a717bf4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fba7dd8e8c4465b93f3a3e6d9bebfa57
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fba7dd8e8c4465b93f3a3e6d9bebfa57/xclkon/6c7da5e598788da9a8102dbe7a717bf4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

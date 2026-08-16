@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 91cae4e3ff5d65bbe9f54d49c9fcc9f3
+Botanical Name: Clerodendrum viscosum H.W. MOLDENKE
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 49 Vernacular names found in 7 languages. Hindi (6) - bhant, bhanua, bhat, bhates, karu, titabhamt Kannada (14) - aesaga, bandira kari, basavanapaada, ibbane, isaga, isiga, itayan, ittaevu, ittaimara, ittayhoovu, madras mallige, parale, paraley, parele Malayalam (3) - peragu, peruku, vattaparuvalam Marathi (3) - bhandira, kaari, thunora Sanskrit (1) - Sanskrit Comments  bhandirah Tamil (5) - parugilai, perugilai, perukilai, perungilai, vattakanni Telugu (17) - basavanapaadu, bockada, bogada, bogada cinna, bokkuda, bokkudu, busi, chirmabusi, dudhika, gurrapu gatte akku, gurrapu kattiyaku, gurrapukattiyaku, guruja, konda-thakali, mandookabrahmi, sarasvathiyaku, saraswati-yaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91cae4e3ff5d65bbe9f54d49c9fcc9f3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91cae4e3ff5d65bbe9f54d49c9fcc9f3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/91cae4e3ff5d65bbe9f54d49c9fcc9f3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

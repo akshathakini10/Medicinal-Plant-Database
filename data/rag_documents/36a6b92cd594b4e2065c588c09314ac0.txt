@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 36a6b92cd594b4e2065c588c09314ac0
+Botanical Name: Nervilia aragoana GAUD.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 4 languages. Hindi (2) - sthalakamal, sthalapadma Malayalam (3) - kalttamara, nilattamara, orilattamara Sanskrit (1) - Sanskrit Comments  padmacarini Tamil (1) - orilaittamarai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36a6b92cd594b4e2065c588c09314ac0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1510
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1510.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/36a6b92cd594b4e2065c588c09314ac0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

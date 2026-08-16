@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 14e3564ad3c13f53f68015ec29836ef8
+Botanical Name: Flickingeria nodosa (DALZ.) SEIDENF.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 4 languages. Kannada (1) - jeevanthi Malayalam (2) - atakodiyan, atapatiyan Marathi (1) - jeevanthi Sanskrit (1) - Sanskrit Comments  jivanti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14e3564ad3c13f53f68015ec29836ef8
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1011
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1011.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/14e3564ad3c13f53f68015ec29836ef8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

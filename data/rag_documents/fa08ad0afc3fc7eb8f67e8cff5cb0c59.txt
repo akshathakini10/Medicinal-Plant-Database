@@ -1,0 +1,92 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fa08ad0afc3fc7eb8f67e8cff5cb0c59
+Botanical Name: Abutilon indicum (L.) SWEET subsp. guineense (SCHUMACH.)  BORSSUM
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Abutilon asiaticum (L.) SWEET
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 121 Vernacular names found in 9 languages. Hindi (8) - jhampi, kandhi, kangahi, kangai, kanghani, kanghi, kanghi-ka-pat, tepari Kannada (21) - baralu kaddi, giduthingi, gidutingi, haagade, hetthukisu, hetthutthi, hettukisu, hettutti, kisangi, mudre gida, neladurve, shreemudre gida, shrimudrigida, srimudre, srimudre gida, srimudrigida, thurubee gida, thuthi gida, tutti, tutti gida, tuttigida Malayalam (12) - beloeren, katturam, katturan, kuruntotti, pettaka, pettaka-putti, pitikkapattu, tutta, tutti, tuvatti, uram, velluram Marathi (15) - akakai, chakrabhenda, kangain, kangori, kansuli, karandi, madmi, mudra, mudrika, petari, pidari, pitari, selamchi-petari, vhadli petari, vikankati Sanskrit (17) - Sanskrit Comments  atibala, bala, balika, balya, bhuribala, ghanta, kankati, kankatika, mahabala, pitapuspa, rishiprokta, shita, shitapushpa, vatyapushpika, vikankata, vrishyagandha, vrishyagandhika Tamil (15) - duddi, nallatutti, pamyarattutti, paniyarattuti, patappori, patapporicceti, patarpori, perun-tutti, perundutti, peruntutti, thuthi, thuththi, tutti, tuttirai, ventutti Telugu (29) - adavi benda, adavibenda, botiabenda, botla benda, botlabenda, doodi, doodi chettu, dudi, erri benda, erribenda, kamalaku, muttavashirubenda, mutthavachirubenda, noogubenda, nugu-benda, nugubenda, pedda benda, peddabenda, pipidi kaaya, thuteribenda, thuthi, thuthura benda, thutirichettu, thutthi, thutthurubenda, tooteabenda, tutiri-chettu, tutti, tutturu-benda Tibetan (3) - a ti ba la, ba-la, i ta la Urdu (1) - kanghi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 17
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/17.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59/xclkon/aeb879e722a5fa7c1f5aaeabcfd32967
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59/xclkon/aeb879e722a5fa7c1f5aaeabcfd32967
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59/xclkon/aeb879e722a5fa7c1f5aaeabcfd32967
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59/xclkon/aeb879e722a5fa7c1f5aaeabcfd32967
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59/xclkon/aeb879e722a5fa7c1f5aaeabcfd32967
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fa08ad0afc3fc7eb8f67e8cff5cb0c59
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Atibala
+sanskrit_name: अतिबला
+transliteration: atibalā
+ref_drug_name: अतिबला
+status: Accepted source
+discussion: identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Atibala
+sanskrit_name: अतिबला
+transliteration: atibalā
+ref_drug_name: अतिबला
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Atibala
+sanskrit_name: अतिबला
+transliteration: atibalā
+ref_drug_name: अतिबला
+status: Accepted source
+discussion: Atibala' is identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Atibala
+sanskrit_name: अतिबला
+transliteration: atibalā
+ref_drug_name: अतिबला
+status: Accepted source
+discussion: Atibala is identified with this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

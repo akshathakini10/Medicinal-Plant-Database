@@ -1,0 +1,101 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9f13d5c4cf5dd852153786e862ccb1e6
+Botanical Name: Ipomoea nil (L.) ROTH.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Convolvulus nil L. Ipomoea hederacea AUCT. NON JACQ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 53 Vernacular names found in 9 languages. English (1) - japanese morning glory Hindi (12) - gheta, godhani, jharmaric, kala-dana, kala-danoh, kaladana, kaladanah, kalu danu, mirchai, neelkalmi, nil-kalmi, nilkalmi Kannada (5) - chita bogari, gouribija, gowri beeja, kolli beeja, musukina bogari Malayalam (1) - taliyari Marathi (5) - kaaladaana, neelbel, nil-pushpi, nilpushpi, nilyel Sanskrit (8) - Sanskrit Comments  kalanjani, kalanjanika, krishnabija, krisnabeeja, krsnabija, krsnabijah, shyamabija, shyamalabijaka Tamil (13) - cirikki, jigiri vidai, jikiri kakkattan, jirkivirai, kakkanankoti, kakkattan, katik kakkattan, kodi kakkattan vidai, kodikakkatanvirai, kodikkakkattan, kodikkakkattan vitai, kotikkakkattan, sirikki Telugu (3) - jiriki, kolli, kollivittulu Urdu (5) - hab-ul-nil, hub-bun-nil, hub-ul-nil, kala dana, kaladana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/4fb6a4f8061d6bfcd48f4278f8e38370
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1202
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1202.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/9451fee415a015d3ffc717eb3c944225
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/da8791f62b07444f7013bb676fd7d8ce
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/4fb6a4f8061d6bfcd48f4278f8e38370
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/9451fee415a015d3ffc717eb3c944225
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/da8791f62b07444f7013bb676fd7d8ce
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/4fb6a4f8061d6bfcd48f4278f8e38370
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/9451fee415a015d3ffc717eb3c944225
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/da8791f62b07444f7013bb676fd7d8ce
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/4fb6a4f8061d6bfcd48f4278f8e38370
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/9451fee415a015d3ffc717eb3c944225
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/da8791f62b07444f7013bb676fd7d8ce
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f13d5c4cf5dd852153786e862ccb1e6/xclkon/4fb6a4f8061d6bfcd48f4278f8e38370
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Antahkotarapuspi
+sanskrit_name: अन्तः कोटरपुष्पी
+transliteration: antaḥ koṭarapuṣpī
+ref_drug_name: अन्तः कोटरपुष्पी
+status: Accepted source
+discussion: It has been mentioned just once in Caraka Samhita among the 'Phalini gana' (group of fruits) which depicts that its fruits were medicinally used; Cakrapani has intepreted it as 'Nilabughna'; With regard to its name 'Antahkotarapuspi' (flower having shape of funnel) its among the 'Trivrt group' which have similar featured plants; Its identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Kalanjani
+sanskrit_name: कालाञ्जनी
+transliteration: kālāñjanī
+ref_drug_name: कालाञ्जनी
+status: Accepted source
+discussion: It has been cited in Raja nighantu; Its identified with this species and popularly known as 'Kaalaadaana' or 'Jharamarica'
+reference: [5]
+
+Identity Record 3
+drug_name: Krsnabija
+sanskrit_name: कृष्णबीज
+transliteration: kṛṣṇabīja
+ref_drug_name: कृष्णबीज
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Krsnabija
+sanskrit_name: कृष्णबीज
+transliteration: kṛṣṇabīja
+image_urls: Not available
+ocr_text: Not available

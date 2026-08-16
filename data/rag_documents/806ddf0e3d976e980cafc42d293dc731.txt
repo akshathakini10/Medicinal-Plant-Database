@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 806ddf0e3d976e980cafc42d293dc731
+Botanical Name: Allium stracheyi BAKER
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Hindi (1) - pharna Sanskrit (1) - Sanskrit Comments  jambu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/806ddf0e3d976e980cafc42d293dc731
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 113
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/113.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/806ddf0e3d976e980cafc42d293dc731
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jambu
+sanskrit_name: जम्बू
+transliteration: jambū
+ref_drug_name: जम्बू
+status: Accepted source
+discussion: Jambu' is mentioned in Raja nighantu under the Parpatadi varga which is a type of trna (grass) and identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Jambu
+sanskrit_name: जम्बू
+transliteration: jambū
+image_urls: https://www.medicinalplants.in/slokaimages/1565/1565_1.jpg https://www.medicinalplants.in/slokaimages/1565/1565_2.jpg https://www.medicinalplants.in/slokaimages/1565/1565_3.jpg https://www.medicinalplants.in/slokaimages/1565/1565_4.jpg https://www.medicinalplants.in/slokaimages/1565/1565_5.jpg
+ocr_text: जाम्बवं कफपित्तघ्नं ग्राहि वातकरं परम् |l च.सू २७ २३४ Jambu is grahi, alleviates kapha, pitta and increases vata अत्यर्थ वातलं ग्राहि जाम्बवं कफपित्तजित् | (सुश्रुत सू ४६ २६५) It is grahi, highly increases vata ana alleviates kapha and pitta जाम्बवं वातलं ग्राहि स्वाद्वम्लं कफवातजित् हृत्कण्ठघर्षणं चान्यत् कषायं क्षुद्रजाम्बवम् Il KDhnl Jambava is svadu, amla in rasa, grahi in guna, increases vata, kapha vata jit and hrt kantha gharshana. The other variety of jambu is ksuara jambu which is kasaya in rasa जम्बूः संग्राहिणी रूक्षा कफपित्तास्रदाहजित्| राजजम्बूफलं स्वादु विष्टम्भि गुरु रोचनम्|| (Bpnl Jambu is ruksa, sangrahi in guna, alleviates kapha and pitta, cures asra aaha. Raja jambu phala is svadu in rasa, guru in guna vistambhi and rocana and तन्मज्जा ग्राही विशेषान्मधुमेहहा Il INirl Its majja is tuvara, grahi, and specifically used to cure madhu meha. तुवरो

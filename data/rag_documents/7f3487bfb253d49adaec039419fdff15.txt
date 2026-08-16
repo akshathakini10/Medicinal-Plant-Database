@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7f3487bfb253d49adaec039419fdff15
+Botanical Name: Clematis gauriana ROB.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 22 Vernacular names found in 5 languages. Hindi (5) - bel kangu, chabru, chibru, jhol, kanguli Kannada (6) - belkangu, belkum, dehra, dun, telasadari, telejadari Marathi (5) - baelkan, mor-vel, moriyal, ranjaayi, shend-vel Sanskrit (3) - Sanskrit Comments  morabela, morata, murva Telugu (3) - gowri kunthala, pannedang, pedutivva
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f3487bfb253d49adaec039419fdff15
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 575
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/575.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7f3487bfb253d49adaec039419fdff15
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

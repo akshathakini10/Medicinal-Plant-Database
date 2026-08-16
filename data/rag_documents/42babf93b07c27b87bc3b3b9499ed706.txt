@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 42babf93b07c27b87bc3b3b9499ed706
+Botanical Name: Salvia sclarea L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. English (4) - clary, clary sage, clear eye, muscatel sage Urdu (1) - bahman safaid
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42babf93b07c27b87bc3b3b9499ed706
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42babf93b07c27b87bc3b3b9499ed706
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

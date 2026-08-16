@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b652fb54216db83110ef00b2c5262ae5
+Botanical Name: Cassia fistula L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 353 Vernacular names found in 10 languages. English (4) - golden shower, indian laburnum, pudding-pipe tree, purging cassia Hindi (22) - alis, amaltas, amaltas-ki-phalli, amaltash, amlatash, amulthus, bahawa, bahawa dhediya, bandarlauri, dhediya, dodiya, garmale, garmalo karmalo, girimala, girmalah, kaniar, kaniar amaltas, karmalo, kirala, kirmalo, semara, sonhali Kannada (32) - araghvadha, aragina, aragina mara, aragvadha, arevata, arevata mara, jamba, kaadu konde mara, kake, kakee, kakkaayi, kakkaemara, kakkai, kakke, kakke gida, kakke mara, kakke-kayi, kakki, kakkikaayi, kirugakke, kodre, kokke, konde, konde mara, kondi, konne, raama danda kaayi, rajataru, ramdanda, sampaaka, swarna pushpi, takke Malayalam (14) - caturangulam, choonay, conna, kanikkonna, kanikonna, konna, konnak-kaya, konne, konnei, kritamalam, krytamalam, saturangulam, svarnaviram, svarnnakam Marathi (12) - bahava, bahawa, balo, bawa, bhawabaya, bhawan, bova, boya, chimkani, garmala, girimala, gurmala Sanskrit (76) - Sanskrit Comments  amaha, amayaghata, antadru, aragbadha, aragbhada, aragvadha, aragvadhah, aragwadhah, arakvadam, arevata, arogyashimbi, aruja, caturangula, caturangulah, chakraparivyadha, chaturangula, dhirghaphala, dirghaphala, dirghaphalah, drumotpala, evatah, himapushpa, jatharanut, jvarantaka, kandughna, karnabharanaka, karnikara, karnikarah, kritamala, kritamalaka, krtamala, krtamalah, krtamalaka, kundali, kushtaghna, kushthasudana, mahakarnikara, maharajdruma, manthana, naktamala, naradhipa, narendradrma, nripadruma, nrpadrma, nrpataru, nrpavrksa, pragraha, pramcha, rajadrma, rajataru, rajavraksha, rajavriksha, rajavrksa, rajavrksah, rasetiktah, recanah, rechana, rochana, sampaka, samyak, samyaka, samyakah, saraphala, sauvarni, shamyaka, shephalika, suvarnaka, svarnabhusana, svarnabhushana, svarnadra, svarnasthali, svarnavriksha, vyadhighata, vyadhighatah, vyadivata, vyathantaka Tamil (162) - acarati, acaratu, akaratu, akeru, akkottumam, akkotu, akkuvatam, anaiveni, anaivenimaram, ankacutam, ankam, annai, apalankam, appai, ar, ar 3, aragoram, arakkuvadam, arakoram#, arakoram@, arakotam, arakuvatam, arevatam, aricalam 2, aricammarikam, aricayam 2, aricayamanku, ariyacam, ariyacamaram, ariyakam, arkkutam, arkoramaram, arkotam, atavamaram, atipacami, atipacamimaram, atitam, atitamaram, attatatikam, cammiyakam, cammiyakamaram, campikapakam, campurakam, campuvakku, canipakam, canipakamaram, canippakam#, canippakam@, carakkonnai, carakkonrai, carakkonrai puli, carakkonrai vittu, cataimuti, cataimutikkottu, catakavanni, caturankulam, contalu, cutareccati, cuvarnakam, elilai, icalil, icanarani, icankoti, icanrar, idali, ikali 2, ikuli, ilacatcacam, iracavikuratam, iracavirutcam, iragavinnadagam, iragaviruttam, irakavinnakamaram, irakavinnatakam, irali, irali 3, irali@, iravankam, irjviruttam, iruli 2, irulimaram, isandar, itali, iyagam, kamukam 3, kavani, kavuci, kavuti, kicaram, kicaramaram, kicaran, kicari, kiratamalam, kiratamalamaram, kiri 4, kirutamalam#, kirutamalam@, kirutamalamaram, kirutamalikai, kiyaracampar, konai, konakkonrai, kondrai poo, konnai, konnai#, konnai@, konnaikkay, konnaimaram, konnei, konnekai, konrai, konraik-kay, konraikkai, kotaimuti, kotitikali, kottikali, kottitali, kurappulikakkonnaimaram, kurappulikam, makaracitam, makaracitamaram, matalai, matalaimaram, mutantam 3, muticaram, mutiyiltarittan, nallekavam, nallekavamaram, natamitumican, nattukkornai, nilaccam, nilcataiyon, o, perunkonrai, ponkonrai, puccarrilpasanamayini, sara kondrai puli, sarak-konrai, sarakkondrai, sarakkonnai, sarakkonrai kai, sarakonnai, sarakonnekai, sarokkonnoi, sharak-konraik-kay, taccuka, taccukamaram, talaiccuti, talaiccutimaram, talimarutam, talimarutamaram, tamam, tirakari, tirakarimaram, tirakkiya, tirkkamuli, tirkkapalam, tirukkonrai, tunkarimantam, vakkam, viyatikatam, viyatikkatam Telugu (23) - aaragvadhamu, aragvadhamu, koelapenna, kolapenna, kolaponna, konay, kondrakayi, raela, raelachettu, rala, rela, rela-kayalu, relagujju, relangi, rella, rellu, reyla, reylu, sampaakamu, sampakamu, sonnalu, suvarnam, suvarnamu Tibetan (3) - dan ka (d), don ga, don-ka Urdu (5) - amaltas, khayarshanbar, maghz amaltas, maghz khiyar shambar, mughze amaltas
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 464
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/464.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b652fb54216db83110ef00b2c5262ae5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aragvadha
+sanskrit_name: आरग्वध
+transliteration: āragvadha
+ref_drug_name: आरग्वध
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Arevata
+sanskrit_name: आरेवत
+transliteration: ārevata
+ref_drug_name: आरेवत
+status: Controversial
+discussion: Arevata is a highly controversial drug; As its mentioned as the synonym of Aragvadha this species is taken into consideration
+reference: [2]
+
+Identity Record 3
+drug_name: Karnikara
+sanskrit_name: कर्णिकार
+transliteration: karṇikāra
+ref_drug_name: कर्णिकार
+status: Accepted source
+discussion: Very little has been mentioned about this drug in the Samhitas; Caraka has mentioned this as a synonym of 'Aragvadha'; Susruta has mentioned about 'Karnikara' where in he depicts this as having yellow flowers; In Himachal Pradesh, 'Aragvadha' is called as 'Kaniyar' which implies 'Karnikara'; Based on the above inputs 'Karnikara' should be inferred as 'Aragvadha' which is correlated to this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Aragvadha
+sanskrit_name: आरग्वध
+transliteration: āragvadha
+image_urls: https://www.medicinalplants.in/slokaimages/347/347_1.jpg https://www.medicinalplants.in/slokaimages/347/347_2.jpg https://www.medicinalplants.in/slokaimages/347/347_3.jpg https://www.medicinalplants.in/slokaimages/347/347_4.jpg
+ocr_text: आरग्वधो रसे तिक्तो गुरुष्णः क्रिमिशूलनुत् कफोदरप्रमहघ्नः कुन्छ्रगुल्मत्रिदोषजित् १I (Dhn) Aragvadha is tikta in rasa, guru in guna, usna in veerya, alleviates krmii, sula, kaphodara, prameha, krcchra gulma and tridosha. आरग्वधोडतिमधुरः शीतः शूलापहारकः ज्वरकण्डूकुष्ठमेहकफविष्टम्भनाशनः II (Rjn) Aragvadha is atimadhura in rasa, sita in veerya, sulapaharaka, cures jvara, kandu, kustha, meha, kapha and vistambha चतुरङ्गुलो मृदुविरेचनानां श्रेष्ठः Il (चरकः) Caturangula is sresta mrou virecanam आरग्वधो गुरुः स्वादुः शीतलो मृदुरेचनः ज्वरहृ द्रोगपित्तास्रवातोदावर्त्तशूलनुत् Il तत्फलं स्रंसनं रुच्यं कुष्ठपित्तकफापहम् ज्वरे तु सततं पथ्यं कोष्ठशुद्धिकरं परम् II (Bpn) Aragvadha is svadu in rasa, guru in guna, sitala in veerya, mrdu recanam, cures jvara, hrdroga, pittasra vatodavarta and sula It is sramsanam, rucyam, Kustha pitta kapha haram satatam pathyam in Jvaram, kostha suddhi karam param

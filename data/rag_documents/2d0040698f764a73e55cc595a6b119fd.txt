@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2d0040698f764a73e55cc595a6b119fd
+Botanical Name: Dioscorea hispida DENNST.
+Family: Dioscoreaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Dioscorea daemona ROB. Dioscorea hirsuta DENNST. Dioscorea triphylla L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 5 languages. Malayalam (1) - podava-kelengu Marathi (1) - karodi Sanskrit (1) - Sanskrit Comments  hastyaluka Tamil (3) - kavalakodi, pei-perendai, periperendai Telugu (7) - kolli, pedda anem, pedumpa, pulidumpa, tandrabisalatige, tellaagini-geddalu, thandrabisalathige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd/xclkon/783b975a223c904811579e8f5deadf04
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd/xclkon/0f0135f85d72b338b225411774502bde
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd/xclkon/6649bf3c436f5c5fa5ea526211adc0d3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd/xclkon/783b975a223c904811579e8f5deadf04
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd/xclkon/0f0135f85d72b338b225411774502bde
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd/xclkon/6649bf3c436f5c5fa5ea526211adc0d3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2d0040698f764a73e55cc595a6b119fd/xclkon/783b975a223c904811579e8f5deadf04
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aluka - bheda
+sanskrit_name: आलुक भेद
+transliteration: āluka bheda
+ref_drug_name: आलुक भेद
+status: Most probable
+discussion: Its most probably identified with regard to its morphology
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

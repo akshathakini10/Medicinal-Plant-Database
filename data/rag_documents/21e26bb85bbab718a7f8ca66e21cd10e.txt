@@ -1,0 +1,87 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 21e26bb85bbab718a7f8ca66e21cd10e
+Botanical Name: Euphorbia thymifolia L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 48 Vernacular names found in 7 languages. Hindi (8) - chhoti-dudhi, chhotidudhi, chothadudhi, choti dudhi, choti-dudhi, duddhi, dudhiya, nigachuni Kannada (7) - bilechitra phala, bilee chitraphala, bilichihra phala, chithra ballaare, chithra paala, kempu nene hakki, naagaarjuni Malayalam (2) - caicotten-pala, nilappala Marathi (5) - duduni, ghakdidudhi, lahandudhi, lahannayati, mothidudhi Sanskrit (9) - Sanskrit Comments  dugdhika, gorakshadugdhi, laghudugdhi, laghudugdhika, nagarjuni, racta-vinda-chada, raktabinducchada, raktavindachada, raktavinduchada Tamil (10) - amman pacharisi, ammanpacharisi, chin-amam patchey arisee, chinamampatchaiyausi, sinnamman-pacharisi, sithra paladai, sittirappaladi, sittrapaladai, sittrapaladi, sivappu amman pachharisi Telugu (7) - bidurunabiyam, bidurunanabiyam, erra chittipayal aaku, peddavari, reddivaarinanubalu, reddivari nanbalu, reddivarimanubala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 941
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/941.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21e26bb85bbab718a7f8ca66e21cd10e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Dugdhika
+sanskrit_name: दुग्धिका
+transliteration: dugdhikā
+ref_drug_name: दुग्धिका
+status: Substituted source
+discussion: Dugdhika means a plant which has milk or latex so it is suggested to take such plants with this feature and those which are known by the word Dudhi or Dudheli; This species is suggested as it supports the above statements
+reference: [2]
+
+Identity Record 2
+drug_name: Dugdhika
+sanskrit_name: दुग्धिका
+transliteration: dugdhikā
+ref_drug_name: दुग्धिका
+status: Accepted source
+discussion: Identified with this species
+reference: [3]
+
+Identity Record 3
+drug_name: Dugdhika
+sanskrit_name: दुग्धिका
+transliteration: dugdhikā
+ref_drug_name: दुग्धिका
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Goraksadugdhi
+sanskrit_name: गोरक्षदुग्धी
+transliteration: gorakṣadugdhī
+ref_drug_name: गोरक्षदुग्धी
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Nagarjuni
+sanskrit_name: नागार्जुनी
+transliteration: nāgārjunī
+ref_drug_name: नागार्जुनी
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

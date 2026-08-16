@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a09970dacc271453797bcf7fdfece72d
+Botanical Name: Crotalaria striata DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Crotalaria pallida DRY.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Hindi (1) - san Telugu (1) - gulagitcha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a09970dacc271453797bcf7fdfece72d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a09970dacc271453797bcf7fdfece72d/xclkon/0c0ea799c157ebf0294dc79455afab1d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a09970dacc271453797bcf7fdfece72d/xclkon/2b32f554eea34ae03a7ea7107963e69e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a09970dacc271453797bcf7fdfece72d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

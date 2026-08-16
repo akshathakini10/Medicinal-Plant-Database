@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d8da523ca7ff8194b8bce431ed9ef7c9
+Botanical Name: Camellia sinensis (L.) O.KUNTZE
+Family: Theaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Camellia thea L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 37 Vernacular names found in 9 languages. English (2) - souchong, tea Hindi (5) - cay, cha, chai, chaipati, chha Kannada (9) - ca, caha, cha, cha soppu, chaha, chaha soppu, tea soppu, thesoppu, theyale Malayalam (3) - caya, chaya, teyila Marathi (1) - chaha Sanskrit (5) - Sanskrit Comments  caha, chaha, chavika, chaya, syamaparni Tamil (5) - karupputteyilai, pachaitteyilai, teyilai, thayilai, theyilai Telugu (5) - nallateyaku, teyaaku, teyaku, theyaku, tiyaku Urdu (2) - chai, chai siyah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9/xclkon/84c621e5c2d9dc98500ccb1fa22a674f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9/xclkon/84c621e5c2d9dc98500ccb1fa22a674f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9/xclkon/84c621e5c2d9dc98500ccb1fa22a674f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9/xclkon/84c621e5c2d9dc98500ccb1fa22a674f
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9/xclkon/84c621e5c2d9dc98500ccb1fa22a674f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d8da523ca7ff8194b8bce431ed9ef7c9/xclkon/84c621e5c2d9dc98500ccb1fa22a674f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a7ce0e34360c25fb67e60817b6265f35
+Botanical Name: Elaeocarpus tuberculatus ROB.
+Family: Elaeocarpaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 51 Vernacular names found in 6 languages. Hindi (1) - rudrak Kannada (18) - bhoothaali mara, bhootharudraakshi, daandla mara, danala, dandala, dandele, dandele mara, dandla, dandla mara, kaadambola, kadambola, kume, kunge mara, roodrack, rudrak, rudraksha, rudrakshi, staguda mara Malayalam (16) - ammakkaram, badraksham, kara, kodavasi, kotuvasi, naggara, nakara, navadi, navati, pahumban, pilahi, pillahi, pulandi, pulanthi, rudraksham, vellathaanni Marathi (1) - rudrak Sanskrit (1) - Sanskrit Comments  rudraksha Tamil (14) - carpparatciyam, cataivanni, cataivannimaram, malampinnai, muttummi 2, pagumbal, pakumpul, pathrachi, rudracham, rutthracham, rutthraksham, ruttracham, uruttiratcam, uruttracham
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7ce0e34360c25fb67e60817b6265f35
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 881
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/881.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7ce0e34360c25fb67e60817b6265f35
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7ce0e34360c25fb67e60817b6265f35
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7ce0e34360c25fb67e60817b6265f35
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

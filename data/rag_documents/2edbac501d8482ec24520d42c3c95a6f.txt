@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2edbac501d8482ec24520d42c3c95a6f
+Botanical Name: Commiphora caudata (WIGHT & ARN.) ENGLER
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 3 languages. Kannada (6) - assuraada, hasuvaara, kalmaavu, konda maavu, konda mugur, kondamavu Tamil (13) - atakamikam, atakamikamaram, karpurakkiluvai, kattukkiluvai, kiluvai, malaikkiluvai, malaima, malankiluvai, paccaikkiluvai 1, perunkiluvai, urukkutanaiparpamakki, venkiluvai, vetkiluvai Telugu (7) - konda-mamidi, kondamaamidi, kondamukkadi, kondaraavi, netta maamidi, vaetapathri, vetapatri (for balsamodendron
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2edbac501d8482ec24520d42c3c95a6f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2edbac501d8482ec24520d42c3c95a6f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2edbac501d8482ec24520d42c3c95a6f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

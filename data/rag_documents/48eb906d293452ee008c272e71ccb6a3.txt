@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 48eb906d293452ee008c272e71ccb6a3
+Botanical Name: ylia dolabriformis BENTH.& HOOK.F.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 64 Vernacular names found in 7 languages. Hindi (1) - jambu Kannada (23) - ambarke, arasutakku, aravutakku, arsutegu, bettadavarike, homavarike, hommavarike, honnavarike, irul, jambe, marhwa, motasalaria, shilve, shivve, sivve, tagina, takku, tirawa, tiruva, tiruve, tirva, tirwa, tirwe Malayalam (14) - erool, idoumoullou, irimpullam, irubogam, irul, irummula, irumulla, iruvil, kada, kala, kata, pangal, pangali, pannal Marathi (5) - jambha, jambo, jjamba, suria, yerul Sanskrit (2) - Sanskrit Comments  kanakakuli, scimsapa Tamil (8) - cakaratcarupi, cakatcari, cirettakenta, inka 1, irul, irul 1, irulvel, iruvel Telugu (11) - boja, bojah, condatangberoo, erracennangi, eruvalu, ettachennangi, kondatangedu, tangedu, tangedumanu, tangudu, yerrachangi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48eb906d293452ee008c272e71ccb6a3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48eb906d293452ee008c272e71ccb6a3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/48eb906d293452ee008c272e71ccb6a3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ff311478b3d5af8dacbbe6a4b3de3b54
+Botanical Name: Jasminum grandiflorum L.
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 116 Vernacular names found in 10 languages. English (1) - catalonian or spanish jasmmine Hindi (6) - cameli, chambeli, chameli, jati, joi, malti Kannada (14) - ajjege, ajjige, ajjuge, anajajemallige, anejajimallige, anemallige, jagimallige, jaji, jaji-malle, jajihuvvu, jajimallige, jajipu, jati, mallige Malayalam (8) - malati, piccakam, piccakamulla, pichakam, pichakamulla, pichhakam, pitsjegam-mulla, pitsjegammulla Marathi (4) - chameli, chembeli, jati-jai, sanjuy Sanskrit (32) - Sanskrit Comments  balihrasa, chambeli, chetaki, hasanti, hridyagandha, janeshta, jati, malati, malini, manodna, manohara, nripatmaja, pranta, priyanvada, rajaputri, rajaputrika, sandhyapushpi, saumanasyayini, shrimati, sukumari, sumana, surabhigandha, surapriya, surupa, suvarsha, svarnajatika, tailamalini, upajati, varsabhava, varshabhava, varshapushpa, veshika Tamil (41) - anankam, catimallikai, catimullai, catippu, catippucceti, kodimalligai, kotimalligai, kotimallikai, malati, malli, malligai, mallikai, manmadabanam, manmatapanam@, manmathabaanam, mavval, nivaracikacceti, nivaracikam, padarmalligai, patarmallikai, pattiratali, picappu, picci, picci-p-pu, picci2, piccimallikai, piccippu#, piccippu@, piccippucceti, pichi, pittikam 2, puntati, puntatippu, purunam, sadimalligai, tilapavini@, tontavacceti, tontavam, vacanaimalli, vacanaimallikai, vicukali Telugu (7) - adivimalle, chambeli, dzadi, dzaji, jaji, malati, malle Tibetan (2) - dza me, dza-ti Urdu (1) - chemeli (yasmeen,yasman)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff311478b3d5af8dacbbe6a4b3de3b54
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jati
+sanskrit_name: जाती
+transliteration: jātī
+ref_drug_name: जाती
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Jati
+sanskrit_name: जाती
+transliteration: jātī
+image_urls: https://www.medicinalplants.in/slokaimages/99/99_1.jpg https://www.medicinalplants.in/slokaimages/99/99_2.jpg https://www.medicinalplants.in/slokaimages/99/99_3.jpg
+ocr_text: जातियुगं (जातिः स्वर्णजातिश्च) तिक्तमुष्णं तुवरं लघु दोषजित् शिरोडक्षिमुखदन्तार्तिविषकुष्ठानिलास्रजित् Il (Bpn) Jati yuga (ati and svarna jati) are tikta, tuvara in rasa laghu in guna, usna in veerya, alleviates doshas, cures visa, kustha and pain in siras aksi, mukha and danta चमेली तुवरा तिक्ता व्रणकुष्ठविषास्रजित् शिरोषक्षिमूखदन्तार्तिहरा त्वग्दोषनाशिनी (Nir) Cameli is tuvara, tikta in rasa CUreS vrana, kustha, asr8 vikara, siro- aksi- mukha- danta roga and tvag dosha चक्षुष्य तस्यास्तत्पुष्पं कफपित्तजित् मधोज्ञं च सर्वश्रेष्ठतमं मतम्I| (Dhn) Jati is caksushya; Its puspa alleviates kapha and pitta, is sasugandhi, manojna and sarvasresta tama. मुकुलं ससुर्जाीधे

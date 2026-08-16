@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e43878eaf24531c77e3a4e6193e262b2
+Botanical Name: Euphorbia nivulia BUCH.-HAM.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 113 Vernacular names found in 7 languages. Hindi (9) - ghota thor, ghotathor, katathohar, sehund, senhur, sij, thor, thuhar, thura Kannada (20) - belakalli, dabba kalli, dabha galli, debbe galli, dubbakalli, dundugalli, dundukalli, dundukalli elegalli, elegalli, elekalli, goota kalli, gootagalli, gutagalli, gutakalli, irekalli, mabba kalli, motataria, yellakalli, yelli-kalli, yellikalli Malayalam (7) - ela-calli, elacalli, elaculli, ilakalli, ilakkalli, yallakalli, yellakalli Marathi (9) - kaante, kandenivdung, ming nut, newrang, nivanduga, nivarang, nivdung, seej, thor Sanskrit (24) - Sanskrit Comments  adhoguda, gandira, guda, mahavrksha, nanda, nisrinapatra, patrasnuhi, patta-karie, pattakarie, samantadugdha, sanuhi, sanuka, sehuda, sehunda, snuhi, snuk, sudha, sudhavrksha, svarasana, tuda, vajra, vajradruksha, vajravrksa, vajri Tamil (30) - ainkonakkalli, aivakkalli, aivaykkalli, akujemudu, ativiracakkalli, ativiracan, centirancam, elai-kalli, ilai kalli, ilai-k-kalli, ilaik-kalli, ilaikalli, ilaikkalli, ilakalli, kalli, kallimulaiyan 1, kalliyitaiyan, kanangalli, manchevi kalli, manjevi, muttirukkan, nadaangi, naga-kalli, nakattaipparpamakki, nanangalli, nanankalli, nanankalli 1, parvanakkalli, parvanam, terravam Telugu (14) - aakujemmudu, akoojemmoodoo, aku jemudu, akuchemmadu, akujamudu, akujemmadu, akujemudu, akukalli, bontha-jemudu, bonthajamudu, errakalli, jemku, jemudu, modu-jemudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 937
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/937.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e43878eaf24531c77e3a4e6193e262b2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Adhoguda
+sanskrit_name: अधोगुडा
+transliteration: adhoguḍā
+ref_drug_name: अधोगुडा
+status: Accepted source
+discussion: Guda is the synonym of Snuhi which is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Snuhi
+sanskrit_name: स्नुही
+transliteration: snuhī
+ref_drug_name: स्नुही जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Snuhi - jati
+sanskrit_name: स्नुही जाति
+transliteration: snuhī jāti
+ref_drug_name: स्नुही जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Vajravalli
+sanskrit_name: वज्रवल्ली
+transliteration: vajravallī
+ref_drug_name: वज्रवल्ली
+status: Suggested source
+discussion: This species is taken into consideration as Vajra is the synonym of Snuhi and Snuhi is correlated to this species but there are other facts to be considered regarding this plant
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Snuhi
+sanskrit_name: स्नुही
+transliteration: snuhī
+image_urls: https://www.medicinalplants.in/slokaimages/707/707_1.jpg https://www.medicinalplants.in/slokaimages/707/707_2.jpg https://www.medicinalplants.in/slokaimages/707/707_3.jpg
+ocr_text: सेहुण्डको रसे तिक्तो गुरूष्णः कफवातजित् दुष्टव्रणाश्मरीं हन्ति तथा वातविशोधनः | | स्नुहीक्षीरं विषाडडमगुल्मोदरहरं परम् स्नुही रस्षु तिक्ता च गुरूष्णा कफवातजित् IDhn) Sehunaaka is tikta in rasa, guru in guna usna in veerya , vata sodhana alleviates kapha, vata, dusta vrana and asmari. Snuhiksira alleviates visha, ama, gulma and udara Snuhi rasa is tikta in rasa, guru in guna, usna in veerya, alleviates kapha vata and स्नुहिरुष्णा ष्ठवातप्रमेहनुत् क्षीरं वातविषाउडध्मानगुल्मोदरहरं परम् स्नुहिरन्या त्रिधारा स्यात् तिस्रो धारास्तु यत्र सा| पूर्वोक्तगुणवत्येषा विशेषाद् रसाद्धिदा IRjn Snuhi is usna in veerya , alleviates pitta, daha, kustha, vata and prameha Ksira alleviates vata, visha, aahmana, gulma and uaara Snuhi anya is triahara which hastri dhara ana is similar to the above but is rasa adhika. पित्तदाकु स्नुक्पयः तीक्ष्णविरेचनानाम् (चरकसंहिताया दृढबलः) Snuk payaha is tiksna virecana.
+
+Shloka Record 2
+drug_name: Snuhi - jati
+sanskrit_name: स्नुही जाति
+transliteration: snuhī jāti
+image_urls: https://www.medicinalplants.in/slokaimages/707/707_1.jpg https://www.medicinalplants.in/slokaimages/707/707_2.jpg https://www.medicinalplants.in/slokaimages/707/707_3.jpg
+ocr_text: सेहुण्डको रसे तिक्तो गुरूष्णः कफवातजित् दुष्टव्रणाश्मरीं हन्ति तथा वातविशोधनः | | स्नुहीक्षीरं विषाडडमगुल्मोदरहरं परम् स्नुही रस्षु तिक्ता च गुरूष्णा कफवातजित् IDhn) Sehunaaka is tikta in rasa, guru in guna usna in veerya , vata sodhana alleviates kapha, vata, dusta vrana and asmari. Snuhiksira alleviates visha, ama, gulma and udara Snuhi rasa is tikta in rasa, guru in guna, usna in veerya, alleviates kapha vata and स्नुहिरुष्णा ष्ठवातप्रमेहनुत् क्षीरं वातविषाउडध्मानगुल्मोदरहरं परम् स्नुहिरन्या त्रिधारा स्यात् तिस्रो धारास्तु यत्र सा| पूर्वोक्तगुणवत्येषा विशेषाद् रसाद्धिदा IRjn Snuhi is usna in veerya , alleviates pitta, daha, kustha, vata and prameha Ksira alleviates vata, visha, aahmana, gulma and uaara Snuhi anya is triahara which hastri dhara ana is similar to the above but is rasa adhika. पित्तदाकु स्नुक्पयः तीक्ष्णविरेचनानाम् (चरकसंहिताया दृढबलः) Snuk payaha is tiksna virecana.

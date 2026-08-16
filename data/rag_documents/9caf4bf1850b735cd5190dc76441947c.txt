@@ -1,0 +1,97 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9caf4bf1850b735cd5190dc76441947c
+Botanical Name: Betula utilis DON
+Family: Betulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Betula bhojpattra WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 55 Vernacular names found in 7 languages. Hindi (10) - bhejpattra, bhiy, bhoj patra, bhoja, bhojpatra, bhuj, bhujpatar, bhujpattra, bhurj, pad Kannada (1) - bhuyapathra Malayalam (2) - bhujapatram, bhurjjamaram Sanskrit (36) - Sanskrit Comments  bahulavalkala, bahulavalkalah, bahupata, bahuputa, bahutvaka, bahuvalkala, bhuja, bhurja, bhurjagranthi, bhurjah, bhurjapatra, bhurjapatraka, bhurjaputra, bhutaghna, bindupatra, carmi, charmi, charmmadruma, chhadapatra, chhatrpatra, chitratvaka, dalanismoka, lekhyapatra, lekhyapatraka, mriducharmi, mridupatra, mridutvaka, padmaki, patrapushpaka, rakshapatra, shailendrastha, shitri, sthirachhada, sucharma, vichitraka, vidyadala Tamil (3) - bhurjjamaram, purccam, purccapattiram Telugu (2) - bhujapathri, bhujapatri Tibetan (1) - stag pa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 320
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/320.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c/xclkon/9b3d596b6b6acf402c5c3ee89302c478
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c/xclkon/9b3d596b6b6acf402c5c3ee89302c478
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c/xclkon/9b3d596b6b6acf402c5c3ee89302c478
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9caf4bf1850b735cd5190dc76441947c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhurja
+sanskrit_name: भूर्ज
+transliteration: bhūrja
+ref_drug_name: भूर्ज
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Bhurja
+sanskrit_name: भूर्ज
+transliteration: bhūrja
+ref_drug_name: भूर्जपत्र
+status: Accepted source
+discussion: Bhurjapatra is correlated to this species
+reference: [3]
+
+Identity Record 3
+drug_name: Bhurjapatra
+sanskrit_name: भूर्जपत्र
+transliteration: bhūrjapatra
+ref_drug_name: भूर्ज
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Bhurjapatra
+sanskrit_name: भूर्जपत्र
+transliteration: bhūrjapatra
+ref_drug_name: भूर्जपत्र
+status: Accepted source
+discussion: Bhurjapatra is correlated to this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bhurja
+sanskrit_name: भूर्ज
+transliteration: bhūrja
+image_urls: https://www.medicinalplants.in/slokaimages/237/237_1.jpg https://www.medicinalplants.in/slokaimages/237/237_2.jpg https://www.medicinalplants.in/slokaimages/237/237_3.jpg
+ocr_text: भूर्जः कटुकषायोष्णाः भूतरक्षाकरः परः त्रिदोषशमनः पथ्या दुष्टकोटिल्यनाशनः (Rjn) Bhurja is katu kashaya in rasa, usna in veerya, bhutaraksa kara, tridosha samana, pathya, dusta kotilya nasana भूर्जोबलकरः श्लेष्मकर्णरुकपित्तरक्तजित् कषायः कटूरुष्णश्च मेदोविषहरः परः|| (Bpn) Bhurja is kashaya, Katu in rasa uSha in veerya, bala kara, cures slesma, karnaruk pitta, rakta meda, and visha भूर्जो बल्यः कफास्रघ्नः| (Rjv) Bhurja is and kapha asraghna balya
+
+Shloka Record 2
+drug_name: Bhurjapatra
+sanskrit_name: भूर्जपत्र
+transliteration: bhūrjapatra
+image_urls: https://www.medicinalplants.in/slokaimages/237/237_1.jpg https://www.medicinalplants.in/slokaimages/237/237_2.jpg https://www.medicinalplants.in/slokaimages/237/237_3.jpg
+ocr_text: भूर्जः कटुकषायोष्णाः भूतरक्षाकरः परः त्रिदोषशमनः पथ्या दुष्टकोटिल्यनाशनः (Rjn) Bhurja is katu kashaya in rasa, usna in veerya, bhutaraksa kara, tridosha samana, pathya, dusta kotilya nasana भूर्जोबलकरः श्लेष्मकर्णरुकपित्तरक्तजित् कषायः कटूरुष्णश्च मेदोविषहरः परः|| (Bpn) Bhurja is kashaya, Katu in rasa uSha in veerya, bala kara, cures slesma, karnaruk pitta, rakta meda, and visha भूर्जो बल्यः कफास्रघ्नः| (Rjv) Bhurja is and kapha asraghna balya

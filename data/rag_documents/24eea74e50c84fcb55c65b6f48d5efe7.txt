@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 24eea74e50c84fcb55c65b6f48d5efe7
+Botanical Name: Adiantum lunulatum L.
+Family: Adiantaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Adiantum philippense L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 53 Vernacular names found in 6 languages. Hindi (9) - dung tuli, hansapadi, hansapagi, hansraj, kali-jhant, kalijhamp, kalijhant, paresiyavasan, raja-hamsa Kannada (2) - hamsapaadi, navalad Malayalam (2) - avenka, nilamparanta Marathi (6) - ghodkhuri, godepavlam, hansraj, kamsaraj, rajhans, supli Sanskrit (32) - Sanskrit Comments  brahmadani, chitrapada, dharttarashtrapadi, ghritamandalika, godhangri, godhapadika, hamsahvaya, hamsapadi, hamsatamrapadi, hansaghri, hansapadi, hansavati, karnati, kiramata, kirapadika, kitamari, kitamata, madhusrava, padangi, raja, raktapadi, sancharini, shitangi, sitangi, sutapadika, suvaka, tridala, tripadi, tripadika, triphala, vikranta, vishvagranthi Telugu (2) - baariki, banda nevali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7/xclkon/655d183a991a089a8813fb37841b59f0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 62
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/62.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7/xclkon/655d183a991a089a8813fb37841b59f0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/24eea74e50c84fcb55c65b6f48d5efe7/xclkon/655d183a991a089a8813fb37841b59f0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Hamsapadi
+sanskrit_name: हंसपादी
+transliteration: haṃsapādī
+ref_drug_name: हंसपादी
+status: Accepted source
+discussion: Hamsapadi is correlated to this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

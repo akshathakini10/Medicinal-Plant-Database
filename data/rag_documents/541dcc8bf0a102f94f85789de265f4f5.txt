@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 541dcc8bf0a102f94f85789de265f4f5
+Botanical Name: Geophila repens (L.) I.M.JOHNSTON
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Geophila herbacea KTZE. Geophila reniformis D. DON.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. Malayalam (1) - karinta-kali Marathi (1) - karli Sanskrit (1) - Sanskrit Comments  kakamaci
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/541dcc8bf0a102f94f85789de265f4f5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/541dcc8bf0a102f94f85789de265f4f5/xclkon/10c20a85718c6343a985623fa8e3669b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/541dcc8bf0a102f94f85789de265f4f5/xclkon/215bb94a8f84b086a61b2e45d7813438
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/541dcc8bf0a102f94f85789de265f4f5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/541dcc8bf0a102f94f85789de265f4f5/xclkon/10c20a85718c6343a985623fa8e3669b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/541dcc8bf0a102f94f85789de265f4f5/xclkon/215bb94a8f84b086a61b2e45d7813438
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/541dcc8bf0a102f94f85789de265f4f5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

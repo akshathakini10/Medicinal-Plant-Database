@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 86cdcb6e735a2f5567ccfe1a89c88ff3
+Botanical Name: Ziziphus sororia ROEM. & SCHULT.
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cdcb6e735a2f5567ccfe1a89c88ff3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cdcb6e735a2f5567ccfe1a89c88ff3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86cdcb6e735a2f5567ccfe1a89c88ff3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

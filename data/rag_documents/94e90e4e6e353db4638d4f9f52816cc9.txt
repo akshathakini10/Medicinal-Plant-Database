@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 94e90e4e6e353db4638d4f9f52816cc9
+Botanical Name: Azima tetracantha LAM.
+Family: Salvadoraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Monetia barlerioides L HERIT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 162 Vernacular names found in 7 languages. Hindi (2) - kanta-gur-kamai, kantagurkamai Kannada (25) - ae sagale, aesagale maale, aesagale mele, aesagale mutthu, bilee uppina gida, bili uppi gida, bilivuppi, biliwuppi, egachi, esagale motu, esagelemale, esagelemuttu, esalake, ganjimullu, hallusunde, hullu sunde, ijangu, kecchalu baavu, mullukari, uppugobe, yagachi mullu, yellesundi, yesagale, yesigelamotu, yesigilamali Malayalam (2) - sankunkuppi, shankunkuppi Marathi (2) - sukkaa paatha, sukkapat Sanskrit (3) - Sanskrit Comments  kantangur, kundali, trikantajata Tamil (119) - accamaram, ancil, ancirikacceti, anji, atiyamam, cankakiranam, cankam, cankam ver, cankan, cankan kuppi, cankan kuppi ilai, cankan ver, cankanceti, canku, canku1, cankucceti, carini, cattinakitacceti, cattinakitam, catukkini, changan, cuvacakkini, cuvacakkini2, elam, elam1, elu, elukacceti, elukam, etu, etukacceti, etukam, evakaanacceti, evakanacceti, evakanam, icanku, icanku2, ichanka, inkanceti, isangu, iyanku, iyanku2, kandagachangam, kanniram, kanniram#, kanniram@, kantaccanku, kantakacankam, karavelasangam, kavarelucankam, kokkai, kokkarai, kol, kol2, kolaccankam, kolaccanku, kolachangu, koturai, koturaicceti, koturi, koturicceti, kucitamiyam, kuncitamiyacceti, kuncitamiyam, kundali, kuntal, kuntalatti, kuntali, kuntali2, kuntalikacceti, miccenkan, mucaippul, mujangu, mukai, mulcanku, mulchangan, mulluccanku, mulluchangu, mulsangu, muluccanku, mutai, mutcamkan, mutcankam, mutcankan, mutcanku, muttam, muttapalam, muttapalam 2, muttayilai, nalla-sangan-chedi, nallacanku, nallochangam, narcankan, narcanku, nirccanku, pannaicavitam, pannaiccervitacceti, pannaiccevitacceti, pannaiccevitam, sangan, sanguchedi, sung-elley, sungam-chedi, tantapalini, tuti, tuti1, tuticcerikacceti, tuticcevikacceti, tuticcevikam, tutiyanci, tutiyanci#, tutiyanci@, tutiyancikacceti, tutiyancikam, uttapalam, uvarcankam, uvarccankam, uvarccankanceti, vellaiccanku, virutakuntali Telugu (9) - mundla kampa, puttu, tella uppi, tella-upi, tellavuppi, telluppi, thellavuppi, thelluppi, uppara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94e90e4e6e353db4638d4f9f52816cc9/xclkon/048ffcb151b72354bd975c621eb0bde2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 267
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/267.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94e90e4e6e353db4638d4f9f52816cc9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94e90e4e6e353db4638d4f9f52816cc9/xclkon/048ffcb151b72354bd975c621eb0bde2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94e90e4e6e353db4638d4f9f52816cc9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94e90e4e6e353db4638d4f9f52816cc9/xclkon/048ffcb151b72354bd975c621eb0bde2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94e90e4e6e353db4638d4f9f52816cc9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/94e90e4e6e353db4638d4f9f52816cc9/xclkon/048ffcb151b72354bd975c621eb0bde2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

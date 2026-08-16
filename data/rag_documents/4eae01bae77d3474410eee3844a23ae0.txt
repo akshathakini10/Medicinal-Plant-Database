@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4eae01bae77d3474410eee3844a23ae0
+Botanical Name: Tacca integrifolia KER-GAWL
+Family: Taccaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Tacca aspera ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. Hindi (1) - varahikanda Marathi (1) - dukarkanda Sanskrit (3) - Sanskrit Comments  sukarakanda, surana, varahikanda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2039
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2039.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0/xclkon/219c67adddca069b4e42bb47b7d1de47
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0/xclkon/219c67adddca069b4e42bb47b7d1de47
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4eae01bae77d3474410eee3844a23ae0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

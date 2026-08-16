@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 35b1b446f9c1865523515bc7cb4315ca
+Botanical Name: Brassica juncea (L.) CZERN. var. integrifolia (WEST) SINSKAJA
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sinapis juncea L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 32 Vernacular names found in 8 languages. English (3) - chinese mustard, indian mustard, kai choy Hindi (5) - rai, rayan, rayi, sarson, tai Kannada (2) - kempu saasive, sasivey Malayalam (3) - cerukatuku, kaduka, katuku Marathi (1) - pivali siras Sanskrit (13) - Sanskrit Comments  asuri, ksavaka, ksujjanika, rajasarsapa, rajica, rajika, sarsapah, sarshaphaha, siddartha, siddarthaka, siddhartha, siddharthaka, tiksnagandha Tamil (3) - kadugu, katugu, katuku Telugu (2) - avalu, nn
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca/xclkon/96a415c75eec1316925a1d7a8497e029
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca/xclkon/d5de3d74eadc7c9de9a97a9592ebecc1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca/xclkon/96a415c75eec1316925a1d7a8497e029
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca/xclkon/d5de3d74eadc7c9de9a97a9592ebecc1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca/xclkon/96a415c75eec1316925a1d7a8497e029
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca/xclkon/d5de3d74eadc7c9de9a97a9592ebecc1
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca/xclkon/96a415c75eec1316925a1d7a8497e029
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca/xclkon/d5de3d74eadc7c9de9a97a9592ebecc1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/35b1b446f9c1865523515bc7cb4315ca/xclkon/96a415c75eec1316925a1d7a8497e029
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rajika
+sanskrit_name: राजिका
+transliteration: rājikā
+image_urls: https://www.medicinalplants.in/slokaimages/265/265_1.jpg https://www.medicinalplants.in/slokaimages/265/265_2.jpg
+ocr_text: राजिका कफपित्तघ्नी तीक्ष्णोष्णा रक्तपित्तकृत् [ किंचिदं रूक्षाग्निदा कंडूकुष्ठकोठकृमीन् हरेत् अतितीक्ष्णा विशेषेण तद्वत् रााजका (Bpn) Rajika is tiksna, kincit ruksa in guna, usna in veerya, atitiksna, agniaa, causes raktapitta, alleviates kapha, pitta, kandu, kustha, kotha krmi, specifically krsna is rajika. कृष्णापि and आसुरी कटुतिक्तोष्णा वातप्लीहार्तिशूलनुत् [ दाहपित्तप्रदा हन्ति कफगुल्मकृमिव्रणान् IRjn ) Asuri is katu, tikta in rasa, usna in veerya, causes daha, pitta, alleviates vata, pliha, arti, sula, kapha, gulma, krmi and vrana

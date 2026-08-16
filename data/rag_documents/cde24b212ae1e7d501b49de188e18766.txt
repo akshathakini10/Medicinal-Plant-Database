@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cde24b212ae1e7d501b49de188e18766
+Botanical Name: Pterocarpus marsupium ROB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 285 Vernacular names found in 10 languages. English (4) - east indian kino, gamalu, maidu, malabar kino Hindi (22) - banda, bebla, beeya, bia, bija, bija sal, bija-sal, bijasal, bijasar, bijesar, bijesar-ka-per, biya, hira-dokhi, hiradokhi, kholar-manda, peisar, piasai, piasal, pitasara, pitshola, rang-barat, vijayasar Kannada (31) - baenga mara, bange, bendaga mara, benga, bengai, bengha, bethonne, bhiyero, bibbla, bibla, bija, hane, hane mara, hanemara, hannemara, hond, hone, honnai, honne, honne mara, kempu honne, netrahonne, nettaruhonne, nettharu honne, netturuhonne, olehonne, olle honne, ollehonne, raktahonne, raktha honne, roktahonne Malayalam (10) - honne, karintakara, karinthagara, malantakara, venga, vengai, vengay, venna, venna-maram, veuga Marathi (10) - asaaha, asan, asana, bibla, bivala, dhorbenla, honi, honne, huni, paleasan Sanskrit (18) - Sanskrit Comments  asana, asanah, bandhukapushpa, bija, bijaka, bijakah, bijavriksha, mahakutaja, mahasarja, nilaka, paramayudha, pitasala, pitasalaka, pitasara, pitashala, priyaka, priyasalaka, sauri Tamil (147) - acamai, acanapanni 4, anaitteri, anaitterimaram, asanam, atimuttakam, cakkiravan, cantanati#, cantanati$, carutacam, carutakam, carutakamaram, caruvacatakam, carvacaram, carvacatakam1, carvavetikam, carvavetikamaram, cenkira, cenkiravirutcam, cevvenkai, cevvenkaimaram, cikaivenkai, cikaivenkaimaram, cipantanalam, citalaippalam, citalaippulavu, citalappalam, citalappulavu, cittaromacan, civakam2, civakamaram, civikatitam, civikatitamaram, iraticuttakam, irattakura, irattatturu, irattavenkai, kalakantam@, kanavutiram, kanavutiravirutcam, kandamiruga-mirattan, kani, kani2, kanivenkai, kanivenkaimaram, karuvenkai, katuppekikam, katuppekikamaram, kayatapumaram, kirusnavirutcam, kuntalvirikam, kuntalvirikamaram, kurinji, natcattirakkatci, nattuvenkai, necicantana, nemicantana#, nemicantana@, nemicantanamaram, neyccarikam, neyccarikamaram, ooderie vaynghie, pankal, peppikanam, peyartanam, peyartanam#, peyartanam@, peyatanam@, pidagaragam, pidasaralam, piracantan, piracaram, pirakaram@, pirasaram, piriyakam 3, piriyakam 3@, pitacalam 2, pitacaram 4, pitacarati, pitacaratimaram, pitakarakam, pitakaram, pontai 2, pontu 2, potaki 3, potakimaram, puli 2, pulimaram, pulimaram@, putpantakam, putpaviccakam, rekam, romavenkai, romavenkaimaram, sarudagam, sarvasadagam, talini3, tamam, tamaraivaki, tamarkkavaki, tamarkkavam2, tamarkkavamaram, tamira, tamiravirutcam, tamisu, tannani#, tannani@, tannini, tanninu, timicam, timicu, timili, tintacam, tipicu, ukiram2, ukiramaram, umparomavenkai, uroman, uromavenkai, uromavenkaimaram, uruttiravenkai, utarakirimaram, utirakiri, utiraromavenkai, utiravenkai, utirvenkai, uyirvi, uyirvikam, uyirvikamaram, uyirvimaram, vacantaputpam, vanculam 2, vanculamaram, vantunamaram, vattuvenkai, vellai 3, vengai, vengai-maram, venkai, venkai-c-ciray, venkaimaram, vetavenkai, vicuvaci, vicuvacimaram, viram 3, viramaram 2, virutcacam Telugu (35) - aine, asana, beddagi, beeja saramu, egi, egisa, egisi, peddagi, peddavegisa, peddavesiga, peddayegi, peddegi, pedega, pedegu, pedei, vegi, vegisa, vengisa, vengisi, vengsha, yagisa, yeanga, yeangesha, yega, yegeshi, yeggi, yeggie, yegi, yegisa, yegise, yegisha, yegishi, yegishie, yegisi, yerra yegisa Tibetan (2) - a sa na (p), sa ma na Urdu (6) - bijasar, dam al akhwain, dam-ul-akhwain, damul-akhwain, damulakhvain, gond china ar dhak
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1763
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1763.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cde24b212ae1e7d501b49de188e18766
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asana
+sanskrit_name: असन
+transliteration: asana
+ref_drug_name: असन
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

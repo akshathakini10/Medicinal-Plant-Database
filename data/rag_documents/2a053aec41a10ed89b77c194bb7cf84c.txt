@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2a053aec41a10ed89b77c194bb7cf84c
+Botanical Name: Indigofera articulata GONAN
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 5 languages. Hindi (1) - surmainil Kannada (1) - karunili Sanskrit (1) - Sanskrit Comments  kalaklitaka Tamil (5) - aramuri, irumpumuri, irumuri, iruppumuri, kattavuri Telugu (7) - karu neeli, karunili, konda neeli, kondanili, nili, pedda neeli, peddanili
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2a053aec41a10ed89b77c194bb7cf84c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2a053aec41a10ed89b77c194bb7cf84c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2a053aec41a10ed89b77c194bb7cf84c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2a053aec41a10ed89b77c194bb7cf84c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2a053aec41a10ed89b77c194bb7cf84c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

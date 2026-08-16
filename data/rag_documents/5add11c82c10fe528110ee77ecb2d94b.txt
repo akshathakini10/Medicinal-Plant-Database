@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5add11c82c10fe528110ee77ecb2d94b
+Botanical Name: Bougainvillaea spectabilis WILLD.
+Family: Nyctaginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. Kannada (3) - boganvilla, kaagadada hoo gida, kemputhuraayi Marathi (1) - boganvel Tamil (2) - kirusnakeli, kiruttinakeli Telugu (2) - bogana malli, kagithala puvvu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5add11c82c10fe528110ee77ecb2d94b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5add11c82c10fe528110ee77ecb2d94b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5add11c82c10fe528110ee77ecb2d94b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 475a215d9841b720ea0bfc8e6e0d4f53
+Botanical Name: Cyathula prostrata BLUME
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 6 languages. Hindi (2) - lal cicimda, lal circita Kannada (2) - kririmulloi kaadantu, nela uttharaani Malayalam (4) - cerukatalati, cuvannakatalati, katalati, scheru-cadelari Marathi (1) - bhuyiaghaada Sanskrit (3) - Sanskrit Comments  apamarga, apamargah, raktapamargah Tamil (2) - cirukatalati, civappu nayuruvi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/475a215d9841b720ea0bfc8e6e0d4f53
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 711
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/711.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/475a215d9841b720ea0bfc8e6e0d4f53
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/475a215d9841b720ea0bfc8e6e0d4f53
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

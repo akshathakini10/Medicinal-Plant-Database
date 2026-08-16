@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d824ee735c42f2b0afd8b4a53f27991e
+Botanical Name: Curcuma longa L.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Curcuma domestica (MEDIK) VALH
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 240 Vernacular names found in 10 languages. English (1) - turmeric Hindi (6) - besvar, halad, halda, haldi, halud, holeed Kannada (7) - arasina, arishina, arisina, arisinada kombu, haladi, haldi, haridra Malayalam (8) - kuva, manjal, manjella-kua, mannal, marinalu, marinnala, paccamannal, varattumannal Marathi (3) - alad, halad, halede Sanskrit (67) - Sanskrit Comments  aneshta, bahula, bhadra, dirgharaga, dosa, gandhapalashika, gauri, gharshani, haladi, haladika, haridra, haridrakam, harita, hemaragi, hemaragini, hridvilasini, jayanti, jvarantika, kanchani, kaveri, krimighni, ksanada, kshanada, kshapa, lakshmi, mangalaprada, mangalya, mehaghni, nisa, nisha, nishakhya, nishavha, nisi, paimanjal, pavitra, pinga, pinja, pita, pitaka, pitavaluka, pitika, rabhangavasa, rajani, ranjani, ratri, ratrinamika, shifa, shivashobhana, shyma, siva, subhagavhaya, suvarna, suvarnavarna, tamasani, uma, vara, varangi, varavarnini, varnadatri, varnavat, varnavati, varnini, varvarini, yamini, yoshitapriya, yositpriya, yuvati Tamil (130) - akkinicaruman, akkinicekaram2, alar, alar1, amparam, ancarakam, anmancal, aran, aranmaki, aranmakicceti, ari4, aricam1, aricanam, aricanam@, aricanattuvayam, aricatti, arici, aritaram, arittira, arittiramancal, arittirapam, atavapitan, cakiyam4, cankocam, caruvari, conitam, cuvarnavarnan, ilekini, iracani2, irattankam, irattiri, kacamaram, kacarppam, kacayar, kakacani, kaleyakam, kallaram3, kanakavarni, kanatteru, kancani, kancani2, kancini1, kantapalacikam, kappu mancal, karccurakam, karimancal, katampam1, katankateri, katuppu, kauram1, kaviram@, kilankumancal2, kirucan, kirucanatitam, lankali 2, mamam, mancal, mancatkottu, manjal, munjil, muntan@, mutiyakkilanku, mutiyarikam, muttan, muttanmancal, nakainokkam, nakali, nanmancal, naravati, nicaram1, nicatu, nicatukam, nici, nicikam, niku, nompuvirali, nompuviralicceti, novu, pacappu, pattirai, picunam2, pitai 1, pitakaveram, pitam, pitani 2, pitar 2, talapattiri1, tamaniti1, tami, tanavaka, tapanarkanci, taparkanci, tecani1, tecani1#, tecani@, tecanikakkompu, tekani#, tekani@, tekavarni1, teni1, tipakam, tipanam, tiralarakam, tiralarakamancal, tirkkaracikai, tokaimukapusanam, tokaimukaputanam, tunkam2, turu, turukakkompu, ulokitam2, uluttiram, umai2, urittiram1, uruttiram1, uttiram2, vaccani#, vaccani@, vaccanir, vaivaccutam, vallikam 1, valliyam 2, varam 1, varanki 2, varavannini, varnam, vattiyaputpam 2, veram 2, vilacini, visakinacam Telugu (5) - haridra, pampi, paspu, passapoo, pasupu Tibetan (8) - ha ri da dro (d), ha ri dra, rtsi ser, ser-po, sga ser, skyer-rtsa, yun ba, yun-ba Urdu (5) - haladi, haldi, haldi biryan, haldi nim kfota, zard chob
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e/xclkon/33a4d92cbda3f78843be2a00c4ac2240
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e/xclkon/33a4d92cbda3f78843be2a00c4ac2240
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e/xclkon/33a4d92cbda3f78843be2a00c4ac2240
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e/xclkon/33a4d92cbda3f78843be2a00c4ac2240
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e/xclkon/33a4d92cbda3f78843be2a00c4ac2240
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e/xclkon/33a4d92cbda3f78843be2a00c4ac2240
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d824ee735c42f2b0afd8b4a53f27991e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Haridra
+sanskrit_name: हरिद्रा
+transliteration: haridrā
+ref_drug_name: हरिद्रा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Haridra
+sanskrit_name: हरिद्रा
+transliteration: haridrā
+ref_drug_name: हरिद्रा
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Haridra
+sanskrit_name: हरिद्रा
+transliteration: haridrā
+image_urls: https://www.medicinalplants.in/slokaimages/536/536_1.jpg https://www.medicinalplants.in/slokaimages/536/536_2.jpg https://www.medicinalplants.in/slokaimages/536/536_3.jpg https://www.medicinalplants.in/slokaimages/536/536_4.jpg https://www.medicinalplants.in/slokaimages/536/536_5.jpg https://www.medicinalplants.in/slokaimages/536/536_6.jpg https://www.medicinalplants.in/slokaimages/536/536_7.jpg https://www.medicinalplants.in/slokaimages/536/536_8.jpg
+ocr_text: हरिद्रा काञ्चनी पीत्ता निशाख्या वरवर्णिनी | हलदी योषित्प्रिया हृद्विलासिनी Il (Bpnl Haridra is also called as Kancani, Pita, Nisakhya, Vara varnini, Krmighna, Haldi, Yositpriya, Hrdvilasini. कृमिघ्ना हरिद्रा हरिद्रञ्जनी स्वर्णवर्णा शिवा वर्णिनी दीर्घरागा हरिद्री च पीता वरांगो च गौरी जनिष्ठा वरा वर्णदात्री पवित्रा |l हरिता रजनी नाम्नी विषघ्नी वरवर्णिनी पिङ्गला वर्णदा चैव मङ्गल्या मङ्गला च साIl लक्ष्मी भद्रा शिफा शोफा शोभना सुभगाह्वया श्यामा जयान्तिका द्वे च त्रिशन्नामविलासिनी Il IRjnl Haridra is also called as Hariararanjani, Svarna varna, Suvarna, Siva , Varnini, Dirgharaga, Haridri, Varanga, Gauri, Janistha, Vara, Varnaaatri, Pavitra, Harita, Rajani, Namni, Visaghni, Varavarnini, Pingala, Varnada, Mangalya, Mangala, Lakshmi, Bhadra, Shipha, Sopha, Shobhana, Subhagahvaya, Syama, Jayantika, Vilasini. सुवर्णा Pita, हरिद्रा वर्णिनी गौरी पीता रोमशमूलिका पिष्टेष्टा हरिता वैश्या काञ्चनी रजनी निशा |l पिष्टभद्रा भद्रलता पीताङ्गी वरवर्णिनी दीर्घरङ्गा वर्णवती पिण्डा वर्णविलासिनी Il KKdn) Haridra, Varnini, Gauri, Pita, Romasamulika , Pistesta, Harita, Vaisya , Kancani, Rajani, Nisha, Pistabhadra, Bhaaralata, Pitangi Varavarnini, Dirgharanga, Varnavati, Pinda, Varnavilasini are the synonyms of Haridra कटुतिक्ता निशा मेहकुष्ठपित्तरकफापहम् प्रलेपाज्जयती कण्डूं शोफं दुष्टव्रणं विषम् |l IMdnl Nisa is katu , tikta in rasa alleviates pitta ana kapha, cures meha, kustha, kandu, sopha, dusta vrana ana visha. हरिद्रा कटुका तिक्ता रूक्षोष्णा कफपित्तनुत् वर्ण्या त्वग्दोषमेहास्रशोफपाण्डुव्रणापहा Il IBpn) Haridra is katu , tikta in rasa, ruksa in guna usna in veerya, alleviates kapha and pitta is varnya, cures tvag dosha, meha, asra vikara, sopha, pandu and vrana. हरिद्रा तु रसे तिक्ता रूक्षोष्णा विषमेहनुत् कण्डूकुष्ठव्रणान् हन्ति देहवर्णविधायिनी Il विशोधनी कृमिहरा पीनसारुचिनाशिनी IDhn) Haridra is tikta in rasa, ruksa in guna, usna in veerya is deha varna vidhayini and visodhini cures visa, meha, kandu, kustha, vrana, krmi, pinasa aruci and हरुद्रा कटुतिक्तोष्णा कफवातास्रकुष्ठनुत् मेहकण्डूव्रणान् हन्ति देहवर्णविधायिनी Il IRjnl Haridra is katu , tikta in rasa usna in veerya alleviates kapha and vata cures asra, kustha, meha, kandu, vrana and is deha varna vidhayani. निशा तिक्ता कटु रूक्षा वर्ण्योष्णा कफपित्तहा पाण्डुव्रणापचीमेहत्वग्दोषविषशोफजित् I IKdn) Nisa is tikta, katu in rasa, ruksa in guna, usna in veerya, alleviates kapha and pitta is varnya cures pandu, vrana, apaci, meha, tvagaosha, visa and sopha

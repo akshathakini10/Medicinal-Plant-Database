@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 11e4cbea9f5182fa889b1fcadffdc016
+Botanical Name: Juglans regia L.
+Family: Juglandaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 50 Vernacular names found in 9 languages. English (4) - black sea walnut, carpathian walnut, european walnut, persian walnut Hindi (9) - akhor, akhroot, akhror, akhrot, akrot, akshota, ka, khor, than Kannada (4) - akrodu, akrotu, akrotu beeja, akshota Marathi (2) - akaroda, akroda Sanskrit (17) - Sanskrit Comments  akhoda, akhota, akschoda, akschota, akshota, akshota-akschoda, akshotaka, aksoda, aksodah, aksota, aksotah, karparala, madanabhaphala, parvatiya, phalasnehah, rekhaphala, svadu majja Tamil (7) - akarottu, akkarottu, akkurottu, akkurottu#, akkurottu@, akrottu, cimai akrottu Telugu (2) - akrottu, akrotu Tibetan (1) - star ga Urdu (4) - akhrot, kaslees, maghz akhrot, maghz badam shirin
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1246
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1246.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/11e4cbea9f5182fa889b1fcadffdc016
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aksota
+sanskrit_name: अक्षोट
+transliteration: akṣoṭa
+ref_drug_name: अक्षोट
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Aksota
+sanskrit_name: अक्षोट
+transliteration: akṣoṭa
+ref_drug_name: अक्षोट
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

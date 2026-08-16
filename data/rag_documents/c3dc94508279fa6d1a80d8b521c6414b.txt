@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c3dc94508279fa6d1a80d8b521c6414b
+Botanical Name: Ixora arborea ROB. E J.E. SM.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ixora parviflora VAHL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 102 Vernacular names found in 7 languages. Hindi (6) - jilpai, kata gandhal, kotagandhal, makrichijhar, mashal-ka-jhar, nevari Kannada (35) - bibhanti bedha, bili kaepala, gorabaale, gorabikattige, goraji, gorali kattige, gorava, goravi, gorivi, goruvi, gorvi, gurugada, heddarane, hennagoravi, hennu, hennu goravi, hennugoravi, hennugorvi, hittarani, kaanu, kansuragi, kansuragi gida, kansurgi, kissara, kissurigi, koraji, koreji, korgi, korice, korise, kovgi, lokandero, nikaada mallige, suragi, surgi Malayalam (1) - soochi mulia Marathi (14) - guavilakri, khura, kura, kuraath, kurat, kurati, lokandi, lokhandi, maakadi, nevali, pitkali, raikora, raikura, undi Sanskrit (5) - Sanskrit Comments  iswara, nemali, nevali, vanavasani, vasanti Tamil (6) - culuntu, koran, korivi, shulundu kora, shulundukorai, sulundu Telugu (35) - geddachida, gori, gorini, goripi, gorivi, gosivi, gurivipala, gurupu, kachipadel, karipal, karivi-pola, koi, kolimipala, kollangi, komma, komma chettu, kori, korimi paala, koringi, korivi, korivi chettu, korivipaala, korivipala, mabbukorivi, pire, putta pala, puttapala, puttupaala, puttupala, taddapallu, taddapullu, tedddapal, teddupala, thedda paala, thendupaala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3dc94508279fa6d1a80d8b521c6414b/xclkon/7a4fdbee03912da541a4aab6e404d541
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3dc94508279fa6d1a80d8b521c6414b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3dc94508279fa6d1a80d8b521c6414b/xclkon/7a4fdbee03912da541a4aab6e404d541
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3dc94508279fa6d1a80d8b521c6414b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3dc94508279fa6d1a80d8b521c6414b/xclkon/7a4fdbee03912da541a4aab6e404d541
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7276ce3cd38d59c74d50acedc8b09730
+Botanical Name: Butea parviflora ROB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Spatholobus parviflorus (ROB.) KTZE.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 22 Vernacular names found in 6 languages. Hindi (3) - bando, malini, maula Kannada (5) - kadavaare hambu, mukkatapalli, mukkate balli, mukkateballi, mukkatiballi Malayalam (3) - athambu, athambuvalli, attampu Marathi (1) - phalsan Tamil (3) - pilacchivalli, plashivalli, yanaittatippu Telugu (7) - bodegateega, mudugathige, naayivaada, nayivada, noivada, peccikatamba, pichikathamba
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7276ce3cd38d59c74d50acedc8b09730/xclkon/c1575bfee08f3f24bb0647950c8d8c1d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7276ce3cd38d59c74d50acedc8b09730
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7276ce3cd38d59c74d50acedc8b09730/xclkon/79b06412379c4d3d536a431cf539a0e0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7276ce3cd38d59c74d50acedc8b09730/xclkon/c1575bfee08f3f24bb0647950c8d8c1d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7276ce3cd38d59c74d50acedc8b09730
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7276ce3cd38d59c74d50acedc8b09730/xclkon/79b06412379c4d3d536a431cf539a0e0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7276ce3cd38d59c74d50acedc8b09730/xclkon/c1575bfee08f3f24bb0647950c8d8c1d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

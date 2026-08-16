@@ -1,0 +1,96 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 217b180c053684eecb846d14db4ddebd
+Botanical Name: Vetiveria zizanioides (L.) NASH
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Andropogon muricatus RETZ. Andropogon squarrosus L.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 289 Vernacular names found in 10 languages. English (5) - cuscus, khuskhus, sandalwood fan, sevendra (grass), vetiver Hindi (11) - bala, balah, bena, gandar, ganrar, khas, khas bena, khas-khas, onei, panni, verran mool Kannada (20) - chaaladaberu, dhappa-sajjaihullu, ganduganjala garike, kaadu dappa kari sajje hullu, kaadu karay dappasajje hullu, kadu-karai, karidappasajjehallu, kasavu hullu, laamancha, laamanchi, laavancha, lamanci, lavancha, lavanchi, madivaala, marakabbu hullu, mudivaala gida, mudivala, usheera, vettiveru Malayalam (7) - ramaccam, ramacciam, ramach-cham-ver, ramachehamver, ramachham, vetti-ver, vettiver Marathi (1) - vala Sanskrit (44) - Sanskrit Comments  abhaya, amranala, amranalam, amrinala, avadaha, dahaharana, gandhadhya, haripriya, indragupta, ishtakapatha, jalamoda, jalashaya, jalavasa, katayana, laghubhaya, lamajjaka, mbhu, nalada, ramacca, ranapriya, raula, samagandhaka, samagandhika, sevya, sevyah, shishira, shitamulaka, sugandhimulah, usheera, ushira, ushiram, usira, usirah, usiram, valakam, veeranam, vira, virabhadra, virana, viranamula, viranasipha, viratara, virataru, vitanamulaka Tamil (175) - acalamankam, aciram, akaru, alakumulam, alapatam, alarppakam, amaiyam, amayappul, amirinalam, ammai, ampai, ampiramulakam, ampiramulakaver, aniver, apayalai, aram@, arikeca, avaiyam, avatanamutircci, avayakam, avayakaver, avayam, avayavam, avintuvi, cailakaver, calacayam, calam@, cannakkaranai, cantanati@, catai4, cayilam, cayilamalai, cayilankacceti, cayilankam, cayilankamalai@, celam, celiyal, celiyam, celiyam#, celiyam@, celiyaver, ceviyal, ceviyam, ceviyam3, ceviyaver, ceviyitam, cilettuari, cilettumavari, ciram2, ciramam, ciramappul, ciravacciram, cukantamuli, cukantitam, curatakanacini, ilakucam, ilamaccai, ilamaccam, ilamiccaiver, ilamiccam, ilamiccam ver, ilamich-cham-ver, ilamich-chamver, ilamichamver, imiri, iralam, irantuvacaver, iriparaver, iriperam, irucatai, irunakam, iruveli, iruver, istakapatam, itunakam, kampu2, kapatam, kecampu, koci, kocikam, kocikaver, koki2, koranaipputu, kulavancanati, kuruver, kuruver1, kutiyaippati, kuttavicartti, mancal vettiver, mayilitam, miccai 1, miccu, mirucirakam, miruciram, mirunalam 2, mutiver, nakavi, nalaccam, nalakam, nalakaver, nalaram, nalikam4, narukkumulam3, narumpul, natacalacayam, nerumatankaikkuriyan, nitinayakan, paccaivilamiccaiver#, paccaivilamiccaiver@, paiyam, palam#, piccam, piccuraver, pillikkurayan, pitakam, talakam#, tampavakam, tampavakaver, tirkkamulam4, tiyamam2, uciram2, ukiram1, ukkiram3, uticam, uticaver, uticciyam, uyir, uyiru#, uyiru@, vacam 3, vacanaiver, vacu, valakam 2, vanticuratakanacani, varikecam, vatacancalam, vekumulam 2, vekuvatakam, vekuvatakaver, venappili, venappilikam, venpilikacceti, vericceti, veripitakam, vetiver, vetti, vetti ver, vetti-ver, vettiver, vicitalam, vikarpakam, vilal 2, vilalver, vilamiccai, vilamiccaiver, vilamiccam, vilamiccu, vilamiccu ver, vilamicham-pul, vilamichu, vilampiccai, vilari 2, vilaricceti 2, vilhalver, viram 2, viranam, viranam@, virani 2, virataram, virkel, vitacaki, vittie vayr, viyal, vizhal-ver, vizhalver Telugu (21) - avurugaddivaeru, avurugaddiveru, avvuru-gaddi-veru, kuruvaeru, kuruveru, lamajjakamu-veru, lamajjakamuvaeru, lamajjakamuveru, vatti veru, vatti-veru, vattivaeru, vattiveru, vetti-vellu, vetti-veru, vettivellu, vettiveru, vidavali-veru, vidavalivaeru, vidavaliveru, wuttay-gaddi, wuttee Tibetan (2) - pu-sel, rdo-dreg Urdu (3) - bikh khas taza, khas, qiss
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2177
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2177.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/5bb1da32feee239fd076418ecf86b211
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/b66fe6bbcf437dc272a563fd8427594e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/5bb1da32feee239fd076418ecf86b211
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/b66fe6bbcf437dc272a563fd8427594e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/5bb1da32feee239fd076418ecf86b211
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/b66fe6bbcf437dc272a563fd8427594e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/5bb1da32feee239fd076418ecf86b211
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/b66fe6bbcf437dc272a563fd8427594e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/5bb1da32feee239fd076418ecf86b211
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/b66fe6bbcf437dc272a563fd8427594e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/5bb1da32feee239fd076418ecf86b211
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd/xclkon/b66fe6bbcf437dc272a563fd8427594e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/217b180c053684eecb846d14db4ddebd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Usira
+sanskrit_name: उशीर
+transliteration: uśīra
+ref_drug_name: उशीर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Usira
+sanskrit_name: उशीर
+transliteration: uśīra
+ref_drug_name: उशीर
+status: Accepted source
+discussion: Usira' is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Usira
+sanskrit_name: उशीर
+transliteration: uśīra
+image_urls: https://www.medicinalplants.in/slokaimages/1684/1684_1.jpg https://www.medicinalplants.in/slokaimages/1684/1684_2.jpg https://www.medicinalplants.in/slokaimages/1684/1684_3.jpg https://www.medicinalplants.in/slokaimages/1684/1684_4.jpg https://www.medicinalplants.in/slokaimages/1684/1684_5.jpg https://www.medicinalplants.in/slokaimages/1684/1684_6.jpg https://www.medicinalplants.in/slokaimages/1684/1684_7.jpg https://www.medicinalplants.in/slokaimages/1684/1684_8.jpg
+ocr_text: मध्ये सारविहीनाय सरला कीटवर्ज्िता | नलिका सा भवेत् भद्रा विपरीता तु निन्दिता IShi nil Best qualities of Usira are mentionea: Maahaya sara vihinya, Sarala, kita varjita, Nalika , are the good qualities. The rest are to be avoided. प्राहुरुशीरं वीरणमभयं भद्रश्रियं च वालाख्यम् बहुमूलं लामज्जं सेव्यं समगन्धकं मृणालमिति Il IAa mal Usiram is also called as Virana, Abhaya, Bhadrasriya, Valakhyam, Bahumula , Lammaja, Sevya, Samagandhaka, Mrnala. वीरणस्य तु मूलं नलदञ्च तत अमृणालञ्च च समगन्धिकमित्यपि Il (Bpn) Mula of Virana is Usira. It is also called as Nalada, Amrnala, Sevya ana Samagandhi. स्यादुशीरं सेव्यं उशीरममृणालं स्याज्जलवासं हरिप्रियम् मृणालमभयं वीरं वीरणं समगन्धिकम् रणप्रियं वारितरं शिशिरं शितिमूलकम् वेणीगमूलकं चैव जलामोदं सुगन्धिकम् सुगन्धिमूलकं शुभ्रं बालकं ग्रहभूह्वयम् IRjn) Usira , Mrnala, jalavasa, Haripriya, Mrnala, Abhaya, vira, Virana Samaganahika , Ranapriya, Varitara, Sisira, Sitimulaka, Venigamulaka, Jalamoda, Suganahika , Sugandhimulaka, Subhra, Balaka, Grahabhuhvaya उशीरं वीरणं सेव्यमभयं समगन्धिकम् बहुमूलं वीरतरु वीरं वीरणमूलिका |I रणप्रियं शीतमूलममृणालं मृणालकम् IKdn) Usira, Virana, Abhaya, Samagandhika, Bahumula, Virataru, Vira, Viranamulika, Ranapriya, Sitamula, Amrnala, Mrnalaka ज्वरघ्नं पाचनं दाहतृष्णामदविनाशनम् रक्तपित्तहरं शीतमुशीरं मूत्रकृछ्रजित् IlMdn) Usira is Jvaraghna, Daha Trsna-Mada vinasana , Raktapitta hara, Sita in Potency, Mutra krcchra jit. उशीरं पाचनं शीतं स्तंभनं लघुतिक्तकम् मधुरं ज्वरहृत् वान्तिमदनुत् कफपित्तहृत् तृष्णास्रविषवीसर्पदाहकृच्छ्रव्रणापहम् (Bpn Usira is Pacana, Sita in Potency , Stambhana, Laghu in Guna, Tikta, Madhura in Rasa , Jvara hara, Vanti-Mada hara, Kapha Pitta hara, cures Trsna , Asra vikara, Visha, Visa, Visarpa, Daha, Krcchra Vrana. उशीरं शीतलं तिक्तं दाहक्लान्तिहरं च तत् | वातघ्नं ज्वरतृण्मेहनुद्रक्तं हन्ति योगतः |l उशीरं स्वेदौर्गन्ध्यापित्तघ्नं स्निग्धतिक्तकम् IDhn) Usira is Sita in Potency , Tikta in Rasa, Daha Klanti hara, Vataghna, cures Jvara, Trt Meha, Sveda, daurgandhya, Pitta and is Snigaha and Tikta.

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 068a7faa7acce1999347ebc42a9df25f
+Botanical Name: Sambucus nigra L.
+Family: Sambucaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. English (4) - bourtree, elderberry, european elder, pipe tree Tamil (1) - campukacceti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/068a7faa7acce1999347ebc42a9df25f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/068a7faa7acce1999347ebc42a9df25f
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/068a7faa7acce1999347ebc42a9df25f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

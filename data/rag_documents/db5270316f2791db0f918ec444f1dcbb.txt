@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: db5270316f2791db0f918ec444f1dcbb
+Botanical Name: Ceropegia bulbosa ROB.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 39 Vernacular names found in 5 languages. Hindi (3) - hedulo, khadula, khapparkadu Kannada (5) - bittiruka, halike, hallike, halluka, hulluka Marathi (10) - ankalodya, gayala, gayli, gilodayam, gilodya, kaapar kaddha, kalodayam, khaparkaru, khapparkadu, patalathumbi Sanskrit (5) - Sanskrit Comments  ankalodya, gilodayam, gilodya, kalodayam, patalatumbi Telugu (16) - batchali dumpa, langatai, manchi mande, manchimanda, manchimande, manchimandu, mancimande, mande, manjimande, nimmataayi, nimmatayi, paalathige, palatige, thiyyamande, tiyyamanda, tiyyamande
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db5270316f2791db0f918ec444f1dcbb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ankalodya
+sanskrit_name: अङ्कालोड्य
+transliteration: aṅkāloḍya
+ref_drug_name: अङ्कालोड्य
+status: Most probable
+discussion: Ankalodya' mentioned in Samhitas is identified with 'Makhanna'; Commentators have identified it with 'Padmabija'; During the Vaidik period it was known as 'Aandika'; Dalhana has identified it with Gilodya and the features equate with Ceropegia bulbosa hence this is the most probable correlation
+reference: [5]
+
+Identity Record 2
+drug_name: Kalodyam
+sanskrit_name: कालोड्यम्
+transliteration: kāloḍyam
+ref_drug_name: कालोड्यम्
+status: Accepted source
+discussion: Kalodyam is correlated to this species
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

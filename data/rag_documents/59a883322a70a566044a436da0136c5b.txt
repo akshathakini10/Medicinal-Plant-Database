@@ -1,0 +1,96 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 59a883322a70a566044a436da0136c5b
+Botanical Name: Gymnema sylvestre R.BR.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Periploca sylvestris RETZ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 182 Vernacular names found in 9 languages. Hindi (11) - chhota-dudhilata, chhotadudhilata, gudmar, gurmar, jangli urad, jangli-urad, kavali, medhashingi, merasimgi, merasingi, meshasingi Kannada (12) - hiriya kaage donde, kadasige, kadhasige, madhunaasha, madhunaashini, sanna garase humbu, sannagera, sannagera sehambu, sannagerasehambu, sannagersehambu, sennagerse, uriyamare Malayalam (2) - cakkarakkolli, madhunasini Marathi (15) - bedaki, bedakuli, kaabalee, kaalikaradodi, kalikardori, kaoli, karadodee, kavali, kavli, madphali, meshashringi, parapatraha, vakandi, vakhande, vakundi Sanskrit (43) - Sanskrit Comments  ajaballi, ajaghandini, ajashrangi, ajashringi, ajashringika, ajasringi, ajasrngi, akshibheshaja, anyada, avartini, bahalchakshu, bisharni, chakrashreni, chakshu, chakshurbahala, chakshushya, grihadruma, karnika, kshinavartta, madhunasini, maurvi, medashrangi, medhasingi, medhrashingi, meghaballi, mendhasingi, mesasrngi, mesharingi, meshashrangi, meshashringi, meshasringi, meshavalli, meshavishanika, meshshringi, netraushadhi, putrashringi, sarpadanshtrika, sarpadarushtrika, tiktadughdha, vartika, vishani, vishanika, vrikshikali Tamil (82) - aadigam, adigam, aliyakam, amudupudbam, amudupushpam, amutaccevitam, amutacevitam, amutapuram, amutapuspacceti, amutaputpam, amutupuram, anantam1, ariyakam, atavankani, atikam, attikkolikacceti, attikolikam, ayagam, ayakam1, cakaca, cakacacceti, cakkan, calakacceti, calakam, carakam1, carankam1, carkkarai kolli, chiru-kurinchan, ciru kurincan, ciru kurincan ver, cirukurinca, cirukurincacceti, cirukurincan, citcuciyam, cittiram, cittiratam, cornavatiyatimatukam, kalaviluti1, kali1, kannu minnayam kodi, katuvalli, kavali, kitcuciyam, kogilam, kokila, kokilacceti, kokilam, kokilam1, kokulam, kotikkurinca, kulalitaccam, kurintai, kuriyaparani, maccirunki, mesacirunki, muttupparappi, natayantanancari, nocitacceti, nocitam, panatantiri, passaam, patavirutcam, puliyam, pulliyacceti, pulliyam 1, purkurinci, purukurincicceti, sakkaraikkolli, shagasharam, shiru kurunja, shiru-kurunja, shirukurinja, sirroo coorinja vayr, siru-kurinjan, sirukurincha, sirukurinjan, sirukurumkay, sirukurunja, tetcanavirutci, tiruparani, unmantaki, unmattaki Telugu (12) - bodaapathri, bodaparta, poda patri, podapathri, podapatra, podapatri, putla-podra, putlapodara, putlapodra, putta podara, puttapodara, puttapodra Tibetan (2) - sa si nga, sa sri ngi (p) Urdu (3) - gurmar, gurmar booti, gurmar patta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b/xclkon/c2558e1e70edf427d30a8913c51d82a4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1085
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1085.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b/xclkon/c2558e1e70edf427d30a8913c51d82a4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b/xclkon/c2558e1e70edf427d30a8913c51d82a4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b/xclkon/c2558e1e70edf427d30a8913c51d82a4
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b/xclkon/c2558e1e70edf427d30a8913c51d82a4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b/xclkon/c2558e1e70edf427d30a8913c51d82a4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59a883322a70a566044a436da0136c5b/xclkon/c2558e1e70edf427d30a8913c51d82a4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ajasrngi
+sanskrit_name: अजश्रॄङ्गी
+transliteration: ajaśrṝṅgī
+ref_drug_name: अजश्रॄङ्गी
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Mesasrnga
+sanskrit_name: मेषश्रृङ्ग
+transliteration: meṣaśrṛṅga
+ref_drug_name: मेषश्रृङ्ग
+status: Controversial
+discussion: It is believed to be this species but in Susruta and Vagbhata it is mentioned under the tree category and the species mentioned is a climber
+reference: [1]
+
+Identity Record 3
+drug_name: Mesasrngi
+sanskrit_name: मेषश्रृङ्गी
+transliteration: meṣaśrṛṅgī
+ref_drug_name: मेषश्रृङ्गी
+status: Most probable
+discussion: Many correlate this species to Mesasrngi; there is a doubt regarding this as Mesasrngi is a creeper where as in one referance it is included among the big trees but the name Mesasrnga has been given there; So it can be taken that Mesasrnga and Mesasrngi a
+reference: [2]
+
+Identity Record 4
+drug_name: Mesasrngi
+sanskrit_name: मेषश्रृङ्गी
+transliteration: meṣaśrṛṅgī
+ref_drug_name: मेषश्रृङ्गी
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

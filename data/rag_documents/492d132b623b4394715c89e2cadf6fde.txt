@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 492d132b623b4394715c89e2cadf6fde
+Botanical Name: Rauvolfia serpentina (L.) BENTH. E KURZ
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Ophioxylon serpentinum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 134 Vernacular names found in 9 languages. Hindi (10) - candrabhaga, chandra-bhaga amelpodi, chhotachand, chota cand, chota-chand, harkaichanda, nai, nakulikanda, sarap-gandha, sarpagandha Kannada (21) - amael podi, amelpodi, candraka, candrike, chandrika, chandrike, garuda, garuda paathaala, garudapatala, garudapathala, haavukannina gida, hadiki, patalagaruda, sarpagandha, sarpagandhi, shiva naabhi, shivanabhi, sivanabhi, soothra naabhi, sutranabhi, sutranabi Malayalam (11) - amalpori, chivan avelpori, chuvannavilpuri, cuvanna amalpori, cuvannavilpuri, talunni, tsjovanna-amelpodi, tsjovannaamelpodi, tulunni, vanduvazha, vantuvala Marathi (6) - adakayi, hadaki, harkaya, harki, mungusavel, sapasanda Sanskrit (45) - Sanskrit Comments  ahibhuka, ahilata, ahimardani, bhadra, bhujangakshi, candramarah, candrika, chandrasura, chandrika, charmahantri, chundrika, dhavalavitapa, gandhanakuli, ishwari, karavi, mahaahigandha, mahasugandha, mukta, nagagandha, nagasugandha, nakuladhya, nakuleshta, nakuli, nakuli-dvaya, nandani, pashumahanakarika, patalaganda, phanihantri, raktapatrika, rasna, sarpagandha, sarpagandhakhya, sarpakshi, sarpangi, sarpasugandha, sugandha, surasa, surpadini, suvaha, vasara, vasupushpa, vishamardani, vishamardanika, vishanashini, vyalangandha Tamil (25) - cantiracurai, cantirikai1, carpakanta, carpakanti, carppakantam, carppakkantam, chivan amelpodi, chivan melpodi, chivan-sarpagandhi, chivanamelpodi, civan mel poti, civanapivalli, covannamilpodi, covannamilpori, covannamilpori#, covannamilpori@, cuttiranapi, cuttiranavi, cuvanamilpoti, pampukala, sarpagaanthi, sarppaganti, sivan amalpodi, sovannamilbori, tsjovanna amelpodi Telugu (12) - dumparaasna, dumparasna, paathaalagandhi, paathaalagaruda, patala gani, patala garidi, patalagandhi, patalagaruda, patalgaani, patalganni, sarpa gandhi, sarpagandhi Tibetan (1) - na gu la Urdu (3) - asarol saida, asrol, chota chand
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde/xclkon/c7cd3f2c3d2a6dfa4624a20196567c68
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1787
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1787.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde/xclkon/c7cd3f2c3d2a6dfa4624a20196567c68
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde/xclkon/c7cd3f2c3d2a6dfa4624a20196567c68
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde/xclkon/c7cd3f2c3d2a6dfa4624a20196567c68
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde/xclkon/c7cd3f2c3d2a6dfa4624a20196567c68
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde/xclkon/c7cd3f2c3d2a6dfa4624a20196567c68
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/492d132b623b4394715c89e2cadf6fde/xclkon/c7cd3f2c3d2a6dfa4624a20196567c68
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

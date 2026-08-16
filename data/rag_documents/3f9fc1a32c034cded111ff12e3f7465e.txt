@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3f9fc1a32c034cded111ff12e3f7465e
+Botanical Name: Cucumis melo L. var. utilissimus DUTHIE & FULLER
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Cucumis momordica ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 73 Vernacular names found in 7 languages. English (2) - melon, rock melon Hindi (7) - kachra, kakdi, khurbuj, phunt, phut, sakkar teti, tuti Kannada (2) - haavu southe, kalingada Marathi (1) - kaankadee Sanskrit (9) - Sanskrit Comments  cirshata, cirshati, cirtgajcirabhata, ervaru, karhati, karkati, toyaphala, urvaruh, vyalapatra Tamil (47) - akacavellari, akayakakkari, akayamulli, akayamulvellari, campurotakkoti, campurotam, cukkam, cunaivellari#, cunaivellari@, kacakarikakkoti, kakarikkai, kakkarikam, kakrikai, kali4, kaniyam, katutalam, kekkarikkay, kiraikkay, malaittummatti, mulluvellari 1, muttirapala, narivellari, noccuki, noccukikkoti, patolam2, picamakam, pittamakam, pittanacam, rupapattiri, tavani, tinavacam, tipini1, tirappucam, tiripuyam, tirivacam, titcani, tocakkay1, toppalam, tuntilam, tutti1, umpali, umpalikkoti, vaelapalam, vellari 1, vellari 2, vellari-verai, vipantu Telugu (5) - pedda dosrai, pedda-kai, peddadosrai, peddakai, velipandu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e/xclkon/584cf7b01ee836a1514026f3f486d966
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e/xclkon/584cf7b01ee836a1514026f3f486d966
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f9fc1a32c034cded111ff12e3f7465e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

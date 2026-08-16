@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9c95aea5d88345b75c9f6230bc83a8f4
+Botanical Name: Dioscorea esculanta (LOUR.) BURKILL
+Family: Dioscoreaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Dioscorea aculeata L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 38 Vernacular names found in 7 languages. English (1) - potato-yam Kannada (3) - genasu, mullu genasu, tipekereng Malayalam (8) - cakkarakkilannu, chakkarakkizhannu, govakkiloannu, govakkizhannu, kattukelengu, kattukizhannu, kattukkizhannu, mu-kelengu Marathi (1) - kangi Sanskrit (2) - Sanskrit Comments  madhvalu, madhvaluka Tamil (18) - carakkilanku, cirukilanku, cirumulam1, ciruvalli, ciruvallikilanku, kamanai, kamanakkilanku, kattukkilanku, kovaikkilanku, kovaivalli, kovakkilanku, mankilanku, matuvalu, mucilam valli, nakapali, nakapalikkilanku, nirkkilanku1, valli-k-kilanku Telugu (5) - genasu, genusu, kammarabaddu, katukalangu, kummarabaddu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4/xclkon/72c274c5e89a0fef838a0da3ca649466
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4/xclkon/72c274c5e89a0fef838a0da3ca649466
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4/xclkon/72c274c5e89a0fef838a0da3ca649466
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c95aea5d88345b75c9f6230bc83a8f4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aluka - bheda
+sanskrit_name: आलुक भेद
+transliteration: āluka bheda
+ref_drug_name: आलुक भेद
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

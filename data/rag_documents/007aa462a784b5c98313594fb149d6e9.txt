@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 007aa462a784b5c98313594fb149d6e9
+Botanical Name: Decalepis hamiltonii WIGHT & ARN.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 5 languages. Kannada (5) - maagali baeru, maakali baeru, maakali beru, maakli baeru, magali beru Malayalam (2) - nannari, naruninti Sanskrit (2) - Sanskrit Comments  sariba, svetasariva Tamil (7) - mahali-kizhangu, makalikkilanku, mavali-k-kilanku, mavillinga kizhanku, nannari, perum-nannari, perunannari Telugu (2) - madina kommulu, maredu kommulu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/007aa462a784b5c98313594fb149d6e9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 770
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/770.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/007aa462a784b5c98313594fb149d6e9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/007aa462a784b5c98313594fb149d6e9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/007aa462a784b5c98313594fb149d6e9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

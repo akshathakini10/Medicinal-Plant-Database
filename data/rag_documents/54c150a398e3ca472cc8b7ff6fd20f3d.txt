@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 54c150a398e3ca472cc8b7ff6fd20f3d
+Botanical Name: Phoenix dactylifera L.
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 138 Vernacular names found in 9 languages. English (1) - date palm Hindi (4) - khaji, khajur, pindakhejur, pindkhajur Kannada (14) - gajjira, gajjirahannu, gijjira-hanny, kajjuri, kajura, karika, karjora, karjura, khajjuri, kharjoora, kharjura, kurjoora, uttati, uttatti Malayalam (6) - itta, ittappalam, ittappana, tenicca, tenich-chan-kaya, tenitta Marathi (5) - khajur, khajuri, kharik, kharjoor, kharjur Sanskrit (20) - Sanskrit Comments  agraja, dipya, hayabhaksha, kharjjuraha, kharjura, kharjurah, kharjuram, kharjuri, kharjurika, madhurasraoa, mudarika, phalapushpa, pindakharjura, pindakharjurika, pindi, pindiphala, rajajambu, sapinda, svadupinda, swadumastaka Tamil (64) - caki, cakituru, ciramakarivarukkam, ciravani, cirnaparnam, cuvatumattam, iccai, iccamaram, iccamaram 1, iccan koluntu, iccu, iccucceti, ichu, incu, inju, inti, kaccil, kaccuram 1, kamaracakikam, kamirani, kamiranicceti, kantukapatikam, kantukapatitamaram, karacakamata, karccur, karchuram, karcur, karcuram 1, karjjiram, kasayava, kokam, kurampai 1, kuranci, kuravam, kuravam 1#, kuravam 1@, kuravikam, kuravikamaram, makacarakkantam, malatiyam, malatiyamaram, mirutupalam, nattuiccai, pantuyavanam@, paruciyam 2, pereecham, pereecham pazham, periccan, periccankay, periccu, perich-chankay, perichchangayi, perichehu, perincu, perindu, perinju, periyaincu, purusako, titti, tummitti, tummuttikam, tummuttikamaram, vilalmurimaram, yiccamaram Telugu (20) - gajjooramu, gajjuramu, ita, karjurakaya, karjuru-kaya, kharjooramu, kharjoorapu chettu, kharjuramu, manciyita, manjiyita, muddakarjuramu, muddakharjooram, muddakharjuramu, muddakharjurapu, peridu, perita, seemakharjooramu, simakajjura, simakharajuramu, simakharjuramu Urdu (4) - chhuhara, khurma, khurma (khajoor), pend khajur
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/54c150a398e3ca472cc8b7ff6fd20f3d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kharjura - prakara
+sanskrit_name: खर्जूर प्रकार
+transliteration: kharjūra prakāra
+ref_drug_name: खर्जूर प्रकार
+status: AS
+discussion: This species is the Pindakharjura of Ayurveda
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

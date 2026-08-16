@@ -1,0 +1,65 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: dc724b30e3b50ec963273c176be1e6f5
+Botanical Name: Basella rubra L.
+Family: Basellaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Basella alba L. var. rubra (L.) STEWART
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 60 Vernacular names found in 8 languages. English (5) - ceylon or indian spinach, ceylon spinach, indian spinach, malabar nightshade, malabar spinach Hindi (1) - poi Kannada (2) - baayi basale, basale Malayalam (3) - basella, pachala, vasalaccira Marathi (7) - maayaalachivel, mayalachivel, mayalu, velbondi, vhali, vhalichi-bhaji, wahlea Sanskrit (7) - Sanskrit Comments  apoedika, malava, potaki, putika, upodaka, upodaki, upodika Tamil (31) - atipatati, atipatatikkoti, ayinalikam, ayinilikakkoti, cekkai, cekkaippacalikkoti, cempacalai, cempacalai@, cempucattumuli1, cevappuppacalai, ciappukkatippacalaik koti2, civappanapacalai2, civappukkati2, civappukkotippacalai2, civappukkotippacalai@, kodip-pasalai-kkirai, kotippacalai, kotippacalai-k-kirai, pacalai, pacalai2, pacarai2, pachalai, paslakkirai, perumpacalai, perumpacalaikkirai, perumpaciri, potakam 1, potaki 2, potakikkoti, putikam 2, vaslakire Telugu (4) - bachali, bachchali-kura, karubachali, pedda bachali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5/xclkon/c14ef5ca09b567ef3d8312649dbbded8
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5/xclkon/c14ef5ca09b567ef3d8312649dbbded8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5/xclkon/c14ef5ca09b567ef3d8312649dbbded8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/dc724b30e3b50ec963273c176be1e6f5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Upodika
+sanskrit_name: उपोदिका
+transliteration: upodikā
+ref_drug_name: उपोदिका
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Upodika
+sanskrit_name: उपोदिका
+transliteration: upodikā
+ref_drug_name: उपोदिका
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

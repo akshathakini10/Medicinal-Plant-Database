@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e104215fa37b4715dfd79588429737e9
+Botanical Name: Sandoricum koetjape (BURM.F.) MERRILL
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sandoricum indicum CAV. DISS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 3 languages. English (3) - katon, santol, sentul Tamil (9) - cemmaram2, cevai, cevamaram, kankol-maram, peru-kalarva, sayai, sevai, sheva-maram, varttanki 2 Telugu (2) - cevamanu, chevamanu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e104215fa37b4715dfd79588429737e9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e104215fa37b4715dfd79588429737e9/xclkon/08ae1f23d320340dc908ce3d4ecace08
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e104215fa37b4715dfd79588429737e9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e104215fa37b4715dfd79588429737e9/xclkon/08ae1f23d320340dc908ce3d4ecace08
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e104215fa37b4715dfd79588429737e9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

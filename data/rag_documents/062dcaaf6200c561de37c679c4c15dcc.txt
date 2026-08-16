@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 062dcaaf6200c561de37c679c4c15dcc
+Botanical Name: Jasminum azoricum L. var. azoricum
+Family: Oleaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Jasminum flexile VAHL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. Sanskrit (1) - Sanskrit Comments  taruni Tamil (1) - irampanam mullai Telugu (1) - jaaji
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc/xclkon/63f34fc5fd3a18c17f70a6aafa222e6f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc/xclkon/63f34fc5fd3a18c17f70a6aafa222e6f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc/xclkon/63f34fc5fd3a18c17f70a6aafa222e6f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/062dcaaf6200c561de37c679c4c15dcc/xclkon/63f34fc5fd3a18c17f70a6aafa222e6f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

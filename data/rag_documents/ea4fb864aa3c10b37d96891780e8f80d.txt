@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ea4fb864aa3c10b37d96891780e8f80d
+Botanical Name: Rheum australe D.DON
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Rheum emodi WALL. E MEIM
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 65 Vernacular names found in 8 languages. English (2) - himalayan rhubard, indian rhubard Hindi (6) - archa, dolu, hindi-revand-chini, hindirevandchini, rawardchni, revand-chini Kannada (4) - nat-reva-chinni, natrevalchinni, natrevvachinni, reval-chini Marathi (4) - ladakirevanda-chini, mulkacharevalchinni, raevaachini, revachini Sanskrit (10) - Sanskrit Comments  amlaparni, amlavetasa, gandhini, pita, pitamula, pitimulika, revandachini, revatchini, revatika, soma Tamil (28) - cinakkilanku1, iraval chinni, ireval cinni, irevalcini, irevalcinni, irevarcinni, kakattari, kantam4, makkikkilanku, mancatcina kilanku, mancatcinakkilanku 1, mancatkilanku 1, nattirevalchinni, nattu iravel cinni, nattu-ireval-chinni, nattu-manjat-chinak-kizhangu, nattuirevalcinni, nattumancalcinakkilanku, nattumancatcinak kilanku, nattumanjatchinnakkilangu, natturevalcinni, petikkilanku, petikkilantu, revalchini kattai, variyatitukkilanku, variyattu, variyattu#, variyattu@ Telugu (6) - naattu raevalchini, nattu reval-chinni, nattu-pasupu-china-gadda, nattu-reval-chinni, nattupampuchinagadda, natturevalchinni Urdu (5) - asara-i-raiwand, rewand chini, rewand chini nim kofta, rewand-chini, usara rewand
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea4fb864aa3c10b37d96891780e8f80d/xclkon/94ab5244458883469449752bdfa07266
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1792
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1792.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea4fb864aa3c10b37d96891780e8f80d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea4fb864aa3c10b37d96891780e8f80d/xclkon/94ab5244458883469449752bdfa07266
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea4fb864aa3c10b37d96891780e8f80d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea4fb864aa3c10b37d96891780e8f80d/xclkon/94ab5244458883469449752bdfa07266
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea4fb864aa3c10b37d96891780e8f80d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea4fb864aa3c10b37d96891780e8f80d/xclkon/94ab5244458883469449752bdfa07266
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Amlavetasa
+sanskrit_name: अम्लवेतस
+transliteration: amlavetasa
+image_urls: https://www.medicinalplants.in/slokaimages/784/784_1.jpg https://www.medicinalplants.in/slokaimages/784/784_2.jpg https://www.medicinalplants.in/slokaimages/784/784_3.jpg https://www.medicinalplants.in/slokaimages/784/784_4.jpg
+ocr_text: कषायं कटु रूक्षोष्णमम्लवेतसकं विदुः तृट्कफानिलजन्त्वर्शोहृद्बाधाश्मरिगुल्मजित् Il (Dhn) It is kashaya, katu in rasa, ruksa in guna, usna in potency cures trt, kapha, anila, arsa, hrd badha, asmari and gulma. अम्लवेत्तसमत्यम्लं कषायोष्णञ्च वातजित कफार्शःश्रमगुल्मघ्नमरोचकहरं परम्II (Rjn) Amlavetasa is atyamla, kashaya in Tasa Lis1a in potency, vata hara, cures kapha, arsa, srama, gulma, adhmana and arocaka. अम्लवेतसमत्यम्लं भेदनं लघु दीपनम् हृद्रोगशूलगुल्मघ्नं पित्तलं लोमहर्षणम् |l रूक्षं विण्मूत्रदोषघ्नं प्लीहोदावर्तनाशनम् हिक्कानाहारुचिश्वासकासाजीर्णवमिप्रणुत् |l कफवातामयध्वंसि छागमांसद्रवत्वकृत् चणकाम्लगुणं ज्ञेयं लोहसूचीद्रवत्वकृत् II (Bpn) Amalvetasa is atyamla iz rasa, ruksa, laghu in guna, bhedana dipana, loma harsana, pittala, alleviates hrdroga, sula, gulma, T7111 mutra dosha, plila, udavarta, hikka, anaha, aruci, svasa, kasa, ajirna, vami, kapha vata maya hara if taken with mnaisa drava meat soup), and is of canakamla guna (chick pea), has the capacity to melt loha chaga (goat अम्लवेतसं भेदनीयदीपनीयानुलोमिकवातश्लेष्मप्रशमनानाम् (Ch SU २५. .३३ Atlavetasa bhedaniya, dipaniya, anulomnaka, vata slesma prasamana in karma.
+
+Shloka Record 2
+drug_name: Amlika
+sanskrit_name: अम्लिका
+transliteration: amlikā
+image_urls: https://www.medicinalplants.in/slokaimages/1583/1583_1.jpg https://www.medicinalplants.in/slokaimages/1583/1583_2.jpg
+ocr_text: अम्लिका अम्ला पित्तकफास्रकृत् पक्वा तु दीपनी रूक्षा सरोष्णा कफवातनुत् (Bpn) Amlika is amla in rasa, guu in guna, vatahara pitta kapha asra karaka. Pakva is dipani, ruksa, sa1a 1१S1La , kapha vatahara. गुरुर्वातहरी अम्लिकायाः फलं पक्चं तस्मादल्पान्तरं गुणैेः तस्मादिति वृक्षाम्लात् १l (चरकः Pakva amlika phala is similar to vrksa amla in properties but to lesser degree.

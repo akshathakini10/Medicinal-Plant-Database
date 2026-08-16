@@ -1,0 +1,87 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7539d46056fe6cad14cc5bf5c29ac602
+Botanical Name: Cucumis sativus L.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 131 Vernacular names found in 10 languages. English (2) - cucumber, gherkin Hindi (4) - kakree, kankri, kheera, khira Kannada (8) - maghe kaayi, moge kaayi, mullu southe, mullusavte, santekayi, sautekayi, southe kaayi, thaseya kaayi Malayalam (4) - kakkari, mullanvellari, mullen-belleri, vellari Marathi (7) - kaakdi, kakdi, kheera, khira, tavase, tavsini, thavase Sanskrit (21) - Sanskrit Comments  bahuphala, kandalu, kantakilata, kantakiphala, kantalu, karkaru, karkatee, koshaphala, pitapushpa, sakusa, sudhavasa, sukasa, sushitala, swetakarkataka, tiktakarkatika, trapukarkati, trapusa, trapusah, trapusha, trapusi, tundilaphala Tamil (66) - am2, anilvarikkotunkay, anilvariyan, araikkiraikkay, arpapiramanakam, civataki, civatakikkoti, civatati@, cukacakam, cukacakkoti, cukacam, cukacanam2, cukkam, iram2, kacakam, kakkari2, kakkarikkay, kakrikai, karkati, karuvacam, kattirikuntan, kutalakkoti, kutalam2, kutam2, kutari, mayaka, miruntu, mul-vellari, mullan vellari, mullanvellari, mulluvellari, mulluvellari 2, mulvellarikkay, nattuvellari, nirvellari, pantalkattiri, patolikai2, pipingkay, pippinkay, pottiri, pottiricceti, tirapucam, tirikatam, tirikatam@, tocakkay2, uruvar, uruvaram, uruvarkoti, uruvarpayan, urvarappan, urvarappankoti, urvarukam, usnakapakari, varukam 2, vellaippukikakkoti, vellaippukikam, vellari, vellari-k-kay, vellari-ppu, vellarikai, vellarikkai, vellarikkay, vellarikkoti, virali 2, vittukakkoti, vittukam 2 Telugu (5) - dosa kaya, dosekaaya, dosekaya, dozakaya, ujakaayipa Tibetan (1) - ga go na Urdu (13) - khira, khiyar (khira), kiyar, maghz tukhm khilyarin, maghz tukhm khiyarin, maghz tukhm-i-khiyarin, maghz-i-khiyarin, maghz-i-tukhm-i- khiyarin, maghz-i-tukhm-i-khiyarin, tukhm khiyarin, tukhm khiyarin nim koafta, tukhm khiyarin nim kofta, tukhm-i-khiyaria
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7539d46056fe6cad14cc5bf5c29ac602
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karkaruka
+sanskrit_name: कर्कारुका
+transliteration: karkārukā
+ref_drug_name: कर्कारुका
+status: Accepted source
+discussion: Karkaruka has been cited only once in Caraka and many times in Susruta; Cakrapani considered it as a type of 'Kusmanda' and Dalhana has identified it as 'Karkatibhedha'; Going through Susrutas 'Saka varga' (group of vegetables) it can be confirmed that it is a type of 'Trapusabheda' which is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Trapusa
+sanskrit_name: त्रपुस
+transliteration: trapusa
+ref_drug_name: त्रपुस
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Trapusa
+sanskrit_name: त्रपुस
+transliteration: trapusa
+ref_drug_name: त्रपुस
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 4
+drug_name: Trapusa
+sanskrit_name: त्रपुस
+transliteration: trapusa
+ref_drug_name: त्रपुस
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Trapusa
+sanskrit_name: त्रपुस
+transliteration: trapusa
+image_urls: https://www.medicinalplants.in/slokaimages/527/527_1.jpg https://www.medicinalplants.in/slokaimages/527/527_2.jpg https://www.medicinalplants.in/slokaimages/527/527_3.jpg
+ocr_text: त्रपुसं तिक्तं वामकं कफपित्तजित् (शोढलः) Trapusa is tikta in rasa, mutrala, vamaka, alleviates kapha and pitta मूत्रलं तिक्त्तकर्कटिका प्रोक्त्ता रसे पाके कटुः स्मृता | तिक्त्ता वान्तिकारका मूत्रकृच्छ्रहा| | आध्मानवातं चाष्ठीलां नाशयेदिति कीर्त्तिता INir) Tikta karkatika is tikta, katu in rasa,katu in paka , mutrakara, vanti kara, destroys vata, cures mutrakrcchra, adhmana and asthila. मूत्रकरी त्रपुसैर्वारुकं स्वादु गुरु विष्टम्भि शीतलम्| च रूक्षं च मूत्रलं त्रपुसं स्मृतम् | चरक. सू २७-१०५ Trapusa ervaruka is svadu in rasa, guru, vistambhi, ruksa in guna, sita in veerya, mukha priya and mutrala मुखप्रियं

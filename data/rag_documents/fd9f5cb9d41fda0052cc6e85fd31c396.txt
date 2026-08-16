@@ -1,0 +1,110 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fd9f5cb9d41fda0052cc6e85fd31c396
+Botanical Name: Piper retrofractum VAHL
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Piper chaba HUNTER Piper officinarum DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 66 Vernacular names found in 9 languages. Hindi (4) - chab, chavi, gaj-pipal, gajphal Kannada (1) - chavya Malayalam (1) - chavyam Marathi (4) - chabchini, chavala, kankala, miravela Sanskrit (34) - Sanskrit Comments  cavika, cavya, cavyaka, chavaka, chavana, chavi, chaviaka, chavika, chavya, chawika, chuve, gajapippaleemoola, gajapippali, gandhanakuli, hasti, hastipippali, katuka, katukapini, kola, kolaka, kolavalli, kolavallika, krikara, kutilasaptaka, nakuli, pippalimulam, purandara, sainhali, sreyasi, tikshnakarikanavali, uchhishta, ushana, ushanah, vashira Tamil (8) - anai tippili, anaiddippili, cavakam, cavikai, caviyam, chavyam, kantirai, milaku ver Telugu (4) - chaikama, saevamu, saevasu, sevasu Tibetan (5) - dbyi mo i lo ma, dbyi moi lo ma, dbyi mon dkar po, lca ba, tsa-bya Urdu (5) - chab, filfil-i-siyah, kabab chini, kankol mirch, peepal chab
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/28cc4ca56beebaf750ac2335c5c27c4f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/833f2849974c593828b4347b5ebf1d30
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/28cc4ca56beebaf750ac2335c5c27c4f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/833f2849974c593828b4347b5ebf1d30
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/28cc4ca56beebaf750ac2335c5c27c4f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/833f2849974c593828b4347b5ebf1d30
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/28cc4ca56beebaf750ac2335c5c27c4f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396/xclkon/833f2849974c593828b4347b5ebf1d30
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd9f5cb9d41fda0052cc6e85fd31c396
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cavika
+sanskrit_name: चविका
+transliteration: cavikā
+ref_drug_name: चव्य
+status: Accepted source
+discussion: Cavya is correlated to this species
+reference: [3]
+
+Identity Record 2
+drug_name: Cavika
+sanskrit_name: चविका
+transliteration: cavikā
+ref_drug_name: चव्य
+status: Accepted source
+discussion: This species is used as Cavya
+reference: [5]
+
+Identity Record 3
+drug_name: Cavya
+sanskrit_name: चव्य
+transliteration: cavya
+ref_drug_name: चव्य
+status: Accepted source
+discussion: Cavya is correlated to this species
+reference: [3]
+
+Identity Record 4
+drug_name: Cavya
+sanskrit_name: चव्य
+transliteration: cavya
+ref_drug_name: चव्य
+status: Accepted source
+discussion: This species is used as Cavya
+reference: [5]
+
+Identity Record 5
+drug_name: Saimhali
+sanskrit_name: सैंहली
+transliteration: saiṃhalī
+ref_drug_name: सैंहली
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Cavya
+sanskrit_name: चव्य
+transliteration: cavya
+image_urls: https://www.medicinalplants.in/slokaimages/1288/1288_1.jpg https://www.medicinalplants.in/slokaimages/1288/1288_2.jpg
+ocr_text: चविकायाः फलं प्रोज्ञैः कथिता गजपिप्पली चविकागजपिप्पल्यौ पिप्पलीमूलवत् स्मृते (Rjv) Fruits of cavya are known as Gajapippali. Cavika and Gajapippali are similar to Pippalimula. गजकृष्णा श्लेष्मनुद् वह्निवर्धिनी उष्ण निहन्त्यतीसारश्वासकण्ठामयकृमीन् Il (Bpn) Gajakrsna is katu in rasa, usna in veerya, increases vahni, cures vata slesma, atisara, svasa, kantha maya and krmi कटुर्वात

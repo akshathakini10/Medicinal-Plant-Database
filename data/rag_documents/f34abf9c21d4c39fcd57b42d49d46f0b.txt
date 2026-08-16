@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f34abf9c21d4c39fcd57b42d49d46f0b
+Botanical Name: Sapindus mukorossi GAERTN.
+Family: Sapindaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 2 languages. Hindi (6) - aritha, dodan, kanmar, reetha, ritha, soap nut Sanskrit (3) - Sanskrit Comments  aristaka, phenila, urista
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f34abf9c21d4c39fcd57b42d49d46f0b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1854
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1854.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f34abf9c21d4c39fcd57b42d49d46f0b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aristaka
+sanskrit_name: अरिष्टक
+transliteration: ariṣṭaka
+ref_drug_name: अरिष्टक
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Aristaka - prajati
+sanskrit_name: अरिष्टक प्रजाति
+transliteration: ariṣṭaka prajāti
+ref_drug_name: अरिष्टक प्रजाति
+status: Accepted source
+discussion: This is a variety of S.trifoliatus found in North India. called as soap nut tree of North India. Aristaka is identified with this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Aristaka
+sanskrit_name: अरिष्टक
+transliteration: ariṣṭaka
+image_urls: https://www.medicinalplants.in/slokaimages/1442/1442_1.jpg https://www.medicinalplants.in/slokaimages/1442/1442_2.jpg
+ocr_text: अरिष्टकस्त्रिदोषघ्नो ग्रहजिद गर्भनाशनः Il Mdn Aristaka alleviates tridosha and graha, is garbha nasana. अरिष्टकः कटुः पाके तीक्ष्णोष्णो लेखनो गुरुः दोषत्रयहरो गर्भपातनो ग्रहशान्तिकृत् Il तज्जलं वामकं पानान्नस्याच्छीर्षरुजापहम अर्धशीर्षव्यथां हंति वमनाद्धिषनाशनम रीठाकरंजस्तिक्तोष्णः कटु स्निग्धश्च वातजित् कफघ्नः कुष्ठकण्डूतिविषविस्फोटनाशनः II (Rjn) Aristaka is katu in paka, tiksna, guru in guna, usna lekhana, alleviates tridosha, pacifies graha and acts a$ garbha patana Its jala is vamaka on pana (drink) and by doing nasya it is sirsa rujapaha, cures ardha sirsa vyatha, varna nasana. It is ranjaka, tikta katu in rasa, usna in veerya, snigdha in guna, alleviates vata and kapha, cures kandu, kustha, ati visha and visphota

@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ddfd72cb8ae4242675d7c8ebeb9247af
+Botanical Name: Elaeagnus umbellata THUNB.
+Family: Elaeagnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 1 languages. Hindi (6) - geai, gehain, geowain, ghin, ginori, surch
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddfd72cb8ae4242675d7c8ebeb9247af
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ddfd72cb8ae4242675d7c8ebeb9247af
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

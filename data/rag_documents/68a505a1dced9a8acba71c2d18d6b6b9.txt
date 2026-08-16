@@ -1,0 +1,81 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 68a505a1dced9a8acba71c2d18d6b6b9
+Botanical Name: Sansevieria roxburghiana SCHULT. F.
+Family: Agavaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 95 Vernacular names found in 8 languages. Hindi (3) - marul, murahri, murva Kannada (11) - goddu manji, goddu mumbe, heggurantige, heggurantike, heggurutike, madhurase, manjina naaru, manjinanaru, manjinnaaru, maruga, nanjina naaru Malayalam (2) - katukapel, sanam Marathi (3) - ghanasaaphan, ghannasaphan, nagphan Sanskrit (8) - Sanskrit Comments  darvikari, marura, muruva, murva, nagadamana, nagini, sarpi, taksaki Tamil (55) - canappukkuncam, cirurrapani, jankuppattai, kokarunai, kokaruni, kurumpai, malaikkuncaram 2, malaimanci, manci 3, marul, marul-k-kilanku, marul-kalang, marutkarralai, marutkizhangu, matucava, matuccava, matucironi, maturaca, maturacai, maturacakkurumpai, maturacappilu, maturacatevi, mirutupukakkurumpai, mirutupukam, morantam, mottamanji, mottamanjii, murunkicam, muruva, muruvakkurumpai, murvam, mutulapikam, palacironi, perunkurumpai 2, pettal, pettalam, pettam, pettamuruvam, pettarkurumpai, piluni, piluparni, pitikam, pitira, pitirakkurumpai, sanal, tecani2#, tecani2@, teni2, teva, tirucironi, tittavalli, vekuparani, vilupanni, vilupannivilu 1, viriyannam Telugu (8) - chaga, chama kada nara, chamacada, ishaura-koda-udr, junappu, saga, saganara, saggai Tibetan (5) - mu rab (p), mu rba, mu rba (p), mu-rba, mur ba (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68a505a1dced9a8acba71c2d18d6b6b9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68a505a1dced9a8acba71c2d18d6b6b9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68a505a1dced9a8acba71c2d18d6b6b9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68a505a1dced9a8acba71c2d18d6b6b9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+ref_drug_name: मूर्वा
+status: Most probable
+discussion: This species being used as Murva with regard to its features
+reference: [1]
+
+Identity Record 2
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+ref_drug_name: मूर्वा
+status: Most probable
+discussion: This species being used as Murva with regard to its features
+reference: [1]
+
+Identity Record 3
+drug_name: Nagadamana
+sanskrit_name: नागदमन
+transliteration: nāgadamana
+ref_drug_name: नागदमन
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.
+
+Shloka Record 2
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.

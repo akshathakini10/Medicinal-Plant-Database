@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f8c507db66708c7e8fc120d10205596c
+Botanical Name: Smilax zeylanica L.
+Family: Smilacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 80 Vernacular names found in 7 languages. Hindi (7) - bhitura, chobchini, jangli aushbah, jangliaushbah, kamurika, ram-dataun, ramdatun Kannada (2) - kaadu hambu, kaadu hambu thaavare Malayalam (5) - can-villandi, chiruchakayagaoolli, cirucakayagavalli, kaltamara, karivilanti Marathi (8) - ghet-vel, gholyel, ghotbel, ghottee, ghotvel, guti, gutwel, kaval-kamti Sanskrit (1) - Sanskrit Comments  vanamadhusnahi Tamil (40) - arakkam1, arakkam2, arakkappalai, arakkappilappi, aritinpalai, aritinvayacci, arkam1, arkappilappu, arucinavayaci, aruninam1, ayadi, ayati, ayatippalai, cirankati, civakam1, civakamuli2, civakappalai, civatacu, curanacini, irucu1, irucuppalai, kal tamarai, kamalaiyatticuranacini, kattu-kodi, kattukodi, kottarkulavi, kucciratam, malai-t-tamarai, malaittamarai, maturova, pakuttirarokacamani, payacam, payaci, payacu, payaruti, payatuti, periyakanni, peruntamarai, tirunamappalai, varkkaputpam Telugu (17) - konda dantena, konda garbha-tige, konda gurivatheega, kondadantena, kondagarbhathige, kondagarbhatige, kondaguruva-tige, kondatamara, kondathaamara, kummarabaddu, kummarabeddu, kummeritheega, kushtapu tamara, kushtaputamara, phirangi mokka, sitapa, sithapa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1934
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1934.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8c507db66708c7e8fc120d10205596c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Svadamstra
+sanskrit_name: स्वदंष्ट्रा
+transliteration: svadaṃṣṭrā
+ref_drug_name: स्वदंष्ट्रा
+status: Most probable
+discussion: This species posseses some of the important clinical properties of Svadamstra hence taken into consideration
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

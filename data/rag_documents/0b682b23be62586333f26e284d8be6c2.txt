@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0b682b23be62586333f26e284d8be6c2
+Botanical Name: Gynocardia odorata R.BR.
+Family: Flacourtiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 3 languages. Hindi (6) - chal-mogre-ke-binj, chaulmogra, chaulmugra, chhalmugra, chkal-mogre-ke-binj, choulmungri Kannada (1) - surantaeil Sanskrit (4) - Sanskrit Comments  alasakapaha, kushthapa, sagarodbhuta, tuvaraka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b682b23be62586333f26e284d8be6c2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1090
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1090.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b682b23be62586333f26e284d8be6c2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b682b23be62586333f26e284d8be6c2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0b682b23be62586333f26e284d8be6c2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tuvara
+sanskrit_name: तुवर
+transliteration: tuvara
+ref_drug_name: तुवर
+status: Controversial
+discussion: Previously it was considered as Tuvaraka but it doesn’t possess any of its properties
+reference: [1]
+
+Identity Record 2
+drug_name: Tuvaraka
+sanskrit_name: तुवरक
+transliteration: tuvaraka
+ref_drug_name: तुवर
+status: Controversial
+discussion: Previously it was considered as Tuvaraka but it doesn’t possess any of its properties
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tuvaraka
+sanskrit_name: तुवरक
+transliteration: tuvaraka
+image_urls: https://www.medicinalplants.in/slokaimages/885/885_1.jpg
+ocr_text: तुवरस्तु वरश्चोष्णो रसे पाके च तिक्तकः कफव्रणकृमिमेहकुष्ठज्वरविनाशनः | आनाहमर्शः शोफञ्च नाशयेदिति ते जगुः ( INir) Tuvara is tikta in rasa, usna in veerya, tikta in paka, destroys kapha, alleviates vrana, krmi, meha, kustha, jvara, anaha, arsa and sopha.

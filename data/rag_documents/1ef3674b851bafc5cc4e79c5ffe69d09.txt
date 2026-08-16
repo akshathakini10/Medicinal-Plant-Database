@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1ef3674b851bafc5cc4e79c5ffe69d09
+Botanical Name: Maranta arundinacea L.
+Family: Marantaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Maranta arundinaca L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 8 languages. English (4) - arrowroot, bermuda arrowroot, st. vincent arrow root, west indian arrowroot Hindi (2) - tikhor, tikkor Kannada (3) - kove hittu, kuvehittu, tavaksiri Malayalam (2) - kuva, kuvva Marathi (1) - ararut Sanskrit (2) - Sanskrit Comments  tavaksiri, tugaksiri Tamil (10) - araruttukkilangu, aroruttu, aruruttukkilangu, citalapattiri, citalapattirikam, kookai neer, koovai kizhangu, kuamau, kukai niru, kuvai Telugu (2) - palagunda, palagunta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09/xclkon/88cb05697348dcf5419b53dd39955f2c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09/xclkon/88cb05697348dcf5419b53dd39955f2c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09/xclkon/88cb05697348dcf5419b53dd39955f2c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1ef3674b851bafc5cc4e79c5ffe69d09
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tavaksiri
+sanskrit_name: तवक्षीरी
+transliteration: tavakṣīrī
+ref_drug_name: तवक्षीरी
+status: ?
+discussion: Curcuma angustifolia is used as a substitute for this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

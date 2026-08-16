@@ -1,0 +1,85 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c28e0da32f82e38f233cc690e98d4788
+Botanical Name: Cinnamomum verum PRESL
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cinnamomum zeylanicum BL. Laurus cinnamomum ( L.)
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 206 Vernacular names found in 10 languages. English (1) - cinnamon Hindi (10) - dalchini, dalcini, dar-chini, darchini, daruchini, darucini, qalami-dal-chini, qalami-dar-chini, qalamidarchini, qulami-dar-chini Kannada (28) - daalchini, daalchinni chakke, dala-chinni, dalachini, dalacinni, dalchini, dalchinni, dalcini, daruchini, ijin, kaduvudalchini, kaduvudalcini, kankutla, lauanga patte, lavanga chakke, lavanga patte, lavanga-patte, lavangacakke, lavangachakke, lavangapatte, nisane, nisani, nisne, teja dalchini, tejadalachi, tejadalcini, tezdalchini, theja dalchinni Malayalam (31) - carua, ceriyayilavannam, cheriya-ela-vanna-toli, cheriyayilavannam, cheriyilaivannam, dalcinni, edana, elavangam, elevangam, elvangam, erikkolam, eringolam, etuna, ilavangam, ilavannam, ilavannapatta, ilavannnam, karappa, karun, karuva, lavanga, lavanga-pat, lavangakaruva, lavangam, llavangam, lowangapattai, varanam, vayana, vayina, vazhana, vvarana Marathi (5) - daalchini, daarachini, dalchini, darachini, thaj Sanskrit (51) - Sanskrit Comments  bahugandha, balya, bhringa, bhrnga, bhrung, bijjula, chocha, chola, coca, cocam, darasita, darucini, darusila, darusita, gudatkpatra, gudatvacha, gudatvak, hridya, kamavallabha, lataparna, mukashodhana, nalada, patra, ramavallabha, rameshta, saihal, satakata, shakala, shita, sinhala, surabhivalkala, surasa, tamal taila, tamalapatra, tamalpatra, tamalpatra taila, tanutvaka, tapinchchha, tvac, tvacha, tvak, tvaka, tvakapatra, twak, utkata, vak, valkala, vanapriya, vara, varanga, varangaka Tamil (64) - ankaparainati, ariyavanati, avarcati, callaki 2, canna ilavankap pattai, cannalavangapattai, cannalavankam, catekaru, catokaru, catokuru, coracattoraci 1, elavangapattiri, elavangappattai, ilanankappaddiri, ilavangam, ilavangapattai, ilavangappattai, ilavankam 1, ilavankap pattaimaram, ilavankappattai, ilavankappattiri, ilavankattol, iriyal, karruwa, karruwa puttay, karuva, karuva 1, karuvamaram, karuvap-pattai, karuvappattai, karuvayin pattai, kontalavvam, lavangam, lavangap-pattai, lavangapatri, lavangapattai, lavangappatti, lavankappattai, llavangam, lowangapattai, mal, mitira, mitirappattai, mottulavankappattai, muttiramam@, pattai, pattirankam 1, perulavankappattai, pulambilavu, pulampilavu, puppattai, puranam, sorachattorachi, tarucini, tecapattiram, tirikonamali, tuvacam, tuvakku, ulakutam, vanappiriyam, varanam 1, varankakam, vecayappattai, veraiyattuppayir Telugu (12) - bhryngamu, daalchinni chakke, dalchinachekka, dalcini, lavanga-patta, lavangamu, lavangapatta, lowangapattai, sanalinga, sanna-lavangapatta, sannalavanga, sannalavangapatta Tibetan (2) - sin tsha, sin-tsha Urdu (2) - dalchini, darchini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/896db3dd89283ff19dbf809760b2aeba
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/896db3dd89283ff19dbf809760b2aeba
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/896db3dd89283ff19dbf809760b2aeba
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/896db3dd89283ff19dbf809760b2aeba
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/896db3dd89283ff19dbf809760b2aeba
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/896db3dd89283ff19dbf809760b2aeba
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/f59272279166d0ad348cdd9da1c3f757
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c28e0da32f82e38f233cc690e98d4788/xclkon/896db3dd89283ff19dbf809760b2aeba
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tvak
+sanskrit_name: त्वक्
+transliteration: tvak
+image_urls: https://www.medicinalplants.in/slokaimages/409/409_1.jpg https://www.medicinalplants.in/slokaimages/409/409_2.jpg https://www.medicinalplants.in/slokaimages/409/409_3.jpg https://www.medicinalplants.in/slokaimages/409/409_5.jpg
+ocr_text: उक्तादारुसितास्वाद्वीतिक्ताचानिलपित्तहृत् सुरभिःशुक्रलावण्यामुखशोषवृषापहा I| (Bpn) Darusita is svadvi, tikta in rasa, alleviates anila, pitta, is surabhi sukrala, varnya, cures mukhasosa and vrsha त्वचंतुकटुकंशीतंकफकासविनाशनम् | शुक्रामशनंचैवकण्ठशूद्धिकरंलघुI| ( राजनिघण्टु) Tvaca is katu in rasa, laghu in guna, sita in veerya, destroys kapha, kasa, is sukra amasana and kantha sudchhikara त्वचंलघूष्णंकटुकंस्वादुतिक्तंचरूक्षकम् पित्तलंकफवातघ्नंकण्डवामरुचिनाशनम | | हृद्वस्तिरोगवातार्शःकृमिपीनसशुक्रहृत्| (Bpn) Tvaca is katu, svadu, tikta in rasa, laghu, ruksa in guna, usna in veerya, increases pitta, alleviates kapha, vata, cures kandu, ama, aruci, hrd vasti roga, vata, arsa, krmi and pinasa and is sukrahara. त्वचतैलगुणाः वाह्निमान्द्यानिलहरमाध्मानाक्षेपनाशनम वान्त्युत्क्लेशप्रशमनंसंग्राहिदशनार्तिहृत्| E त्वचंतैलंरजःस्रावितोयेक्षिप्तंनिमज्जति (आं.सं) Taila alleviates vahni mandya and anila, destroys adhmana, aksepa, pacifies vanti, utkesa, is sangrahi, dasana arti hara, induces raja srava and does not sink when put in water
+
+Shloka Record 2
+drug_name: Tvak - prakara
+sanskrit_name: त्वक् प्रकार
+transliteration: tvak prakāra
+image_urls: https://www.medicinalplants.in/slokaimages/409/409_1.jpg https://www.medicinalplants.in/slokaimages/409/409_2.jpg https://www.medicinalplants.in/slokaimages/409/409_3.jpg https://www.medicinalplants.in/slokaimages/409/409_5.jpg
+ocr_text: उक्तादारुसितास्वाद्वीतिक्ताचानिलपित्तहृत् सुरभिःशुक्रलावण्यामुखशोषवृषापहा I| (Bpn) Darusita is svadvi, tikta in rasa, alleviates anila, pitta, is surabhi sukrala, varnya, cures mukhasosa and vrsha त्वचंतुकटुकंशीतंकफकासविनाशनम् | शुक्रामशनंचैवकण्ठशूद्धिकरंलघुI| ( राजनिघण्टु) Tvaca is katu in rasa, laghu in guna, sita in veerya, destroys kapha, kasa, is sukra amasana and kantha sudchhikara त्वचंलघूष्णंकटुकंस्वादुतिक्तंचरूक्षकम् पित्तलंकफवातघ्नंकण्डवामरुचिनाशनम | | हृद्वस्तिरोगवातार्शःकृमिपीनसशुक्रहृत्| (Bpn) Tvaca is katu, svadu, tikta in rasa, laghu, ruksa in guna, usna in veerya, increases pitta, alleviates kapha, vata, cures kandu, ama, aruci, hrd vasti roga, vata, arsa, krmi and pinasa and is sukrahara. त्वचतैलगुणाः वाह्निमान्द्यानिलहरमाध्मानाक्षेपनाशनम वान्त्युत्क्लेशप्रशमनंसंग्राहिदशनार्तिहृत्| E त्वचंतैलंरजःस्रावितोयेक्षिप्तंनिमज्जति (आं.सं) Taila alleviates vahni mandya and anila, destroys adhmana, aksepa, pacifies vanti, utkesa, is sangrahi, dasana arti hara, induces raja srava and does not sink when put in water

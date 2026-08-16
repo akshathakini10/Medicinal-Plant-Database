@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 10a605e96368cfd3d62d4386467714e7
+Botanical Name: Syzygium heyneanum WALL. E DUTHIE
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Syzygium neyneanum (DUTHIE) GAMBLE.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. Hindi (2) - jambus, jamun Kannada (1) - ippe Marathi (2) - bhedas, paan-jamboo Telugu (3) - chinnaraeredu, jenu, jinnu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10a605e96368cfd3d62d4386467714e7/xclkon/61712b243c7ca34c3e343924dd07209d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10a605e96368cfd3d62d4386467714e7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/10a605e96368cfd3d62d4386467714e7/xclkon/61712b243c7ca34c3e343924dd07209d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

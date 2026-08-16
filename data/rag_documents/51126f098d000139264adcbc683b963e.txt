@@ -1,0 +1,53 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 51126f098d000139264adcbc683b963e
+Botanical Name: Pterospermum suberifolium (L.) LAM.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pterospermum canescens ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 64 Vernacular names found in 8 languages. Hindi (3) - much-kund, muchkand, mucukund Kannada (5) - muchukunda, muchukunda gida, muchukunda mara, naradu, toddagiringa Malayalam (2) - cittilaplavu, mucukundam Marathi (2) - mchkund, muchkand Sanskrit (18) - Sanskrit Comments  arghyarhalakshanaka, bahupatra, chitraka, dirghapushpa, ganikari, harivallabha, ksatravrksah, kshatravrikha, kshatravrksha, moochukunda, muchukunda, mucukunda, mucukundah, mundivrikshanukaraka, prativishnuka, raktaprasava, sudala, supushpa Tamil (24) - arkkiyakam, cembolavu, cempulavu, cinnappulavu, cirrilaippilavu, cirrilaippolam, cirrilaippolavu, cittilaipolavu, muravankai, ottinmaram, padiri, polavu, pulavu, sembolavu, senolugu, sittilaipolavu, tada, tadai, taddo, tatai#, tataimaram, vennangu, vennanku, vinanku Telugu (9) - kumpudi, lolagu, lolugu, naarudu, narudu, tada, tadda, thada, thudda Urdu (1) - gul muchkan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1767
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1767.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e/xclkon/9d44864894f073a87a9fae970ddf5827
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/51126f098d000139264adcbc683b963e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

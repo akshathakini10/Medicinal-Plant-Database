@@ -1,0 +1,73 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7793bb750cb4d5f5ee0c830777a0e03d
+Botanical Name: Clausena pentaphylla (ROB.) DC.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. Hindi (6) - ban limbu, ratanjote, rowana, surjmukha, teyrar, tharu Sanskrit (1) - Sanskrit Comments  ratanajota
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7793bb750cb4d5f5ee0c830777a0e03d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7793bb750cb4d5f5ee0c830777a0e03d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ratanjota
+sanskrit_name: रतनजोत
+transliteration: ratanajota
+ref_drug_name: रतनजोत
+status: Suggested source
+discussion: Ratanjota has not been mentioned in any of the texts; This species is used as Ratanjota
+reference: [2]
+
+Identity Record 2
+drug_name: Ratanjota
+sanskrit_name: रतनजोत
+transliteration: ratanajota
+ref_drug_name: रतनजोत
+status: Accepted source
+discussion: Ratanjota has not been mentioned in any of the texts; This species is used as Ratanjota
+reference: [2]
+
+Identity Record 3
+drug_name: Surasa
+sanskrit_name: सुरसा
+transliteration: surasā
+ref_drug_name: सुरसी
+status: Most probable
+discussion: Dalhana has identified it with this species but there is a slight confusion as others consider it to be a white variety of Nirgundi
+reference: [1]
+
+Identity Record 4
+drug_name: Surasi
+sanskrit_name: सुरसी
+transliteration: surasī
+ref_drug_name: सुरसी
+status: Most probable
+discussion: Dalhana has identified it with this species but there is a slight confusion as others consider it to be a white variety of Nirgundi
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

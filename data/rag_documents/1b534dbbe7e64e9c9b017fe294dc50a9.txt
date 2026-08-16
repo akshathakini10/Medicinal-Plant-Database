@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1b534dbbe7e64e9c9b017fe294dc50a9
+Botanical Name: Fioria vitifolia (L.) MATTEI
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hibiscus vitifolias L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 7 languages. Hindi (1) - banokhra Kannada (5) - kaadu pindi soppu, kaadu pundi soppu, mani thutthi balli, mani thutthi gida, pindisoppu Malayalam (4) - kattuvelluram, kattuvelluran, katu-beloeren, katubeloeren Marathi (1) - dhakto-kalo-bhendo Sanskrit (2) - Sanskrit Comments  bharadvaji, vanakarpasa Tamil (9) - centutti, civananti, civananticceti, manittutti, parattuvaci#, parattuvaci@, vanakarppacam#, vanakarppacam@, vanakkarpaci Telugu (4) - adavi patthi, isuka ravi, kaarupatthi, karupatti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b534dbbe7e64e9c9b017fe294dc50a9/xclkon/49633bde084a2cada077e5dbacbfbf39
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b534dbbe7e64e9c9b017fe294dc50a9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b534dbbe7e64e9c9b017fe294dc50a9/xclkon/ba8ec788a75d965292b3d1f3427c9b35
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b534dbbe7e64e9c9b017fe294dc50a9/xclkon/49633bde084a2cada077e5dbacbfbf39
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b534dbbe7e64e9c9b017fe294dc50a9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b534dbbe7e64e9c9b017fe294dc50a9/xclkon/ba8ec788a75d965292b3d1f3427c9b35
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b534dbbe7e64e9c9b017fe294dc50a9/xclkon/49633bde084a2cada077e5dbacbfbf39
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b534dbbe7e64e9c9b017fe294dc50a9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b534dbbe7e64e9c9b017fe294dc50a9/xclkon/ba8ec788a75d965292b3d1f3427c9b35
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b534dbbe7e64e9c9b017fe294dc50a9/xclkon/49633bde084a2cada077e5dbacbfbf39
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

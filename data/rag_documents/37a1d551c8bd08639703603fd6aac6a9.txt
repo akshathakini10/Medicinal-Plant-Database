@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 37a1d551c8bd08639703603fd6aac6a9
+Botanical Name: Chrysanthemum indicum L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pyrethrum indicum DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 49 Vernacular names found in 7 languages. Hindi (2) - guldaudi, gundandi Kannada (2) - shavantige, shyavantige Marathi (1) - shevati Sanskrit (14) - Sanskrit Comments  bahupatrika, bhringavallabha, bringheshta, charukesara, gandhadya, karnika, kumari, ramataruni, saha, sevanti, shetapatri, shivavallabha, sudala, taruni Tamil (27) - akkarakaram, akkarakkaram, camandi, camanti ilai, camanti ppu, camanti2, camantippu, camantippu1, cavantikai, cevanti, cevantippu, cevvanti, civanti2, civantippu, civavallapam, malaimantika, malaimantikappu, mancika 1, nattuccamanti, pintacam, pintam, pintaputpam 2, pintasaputpam, pirakarapuspi, samanthi poo, shamanthi poo, shamantippu Telugu (1) - chamunti Urdu (2) - bouzidan, bouzidan nim kofta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37a1d551c8bd08639703603fd6aac6a9/xclkon/b9786cc0fc911b6c9ca679e7ef395610
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37a1d551c8bd08639703603fd6aac6a9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37a1d551c8bd08639703603fd6aac6a9/xclkon/b9786cc0fc911b6c9ca679e7ef395610
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37a1d551c8bd08639703603fd6aac6a9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37a1d551c8bd08639703603fd6aac6a9/xclkon/b9786cc0fc911b6c9ca679e7ef395610
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37a1d551c8bd08639703603fd6aac6a9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37a1d551c8bd08639703603fd6aac6a9/xclkon/b9786cc0fc911b6c9ca679e7ef395610
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37a1d551c8bd08639703603fd6aac6a9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/37a1d551c8bd08639703603fd6aac6a9/xclkon/b9786cc0fc911b6c9ca679e7ef395610
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

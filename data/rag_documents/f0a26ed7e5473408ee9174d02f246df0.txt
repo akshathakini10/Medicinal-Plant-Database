@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f0a26ed7e5473408ee9174d02f246df0
+Botanical Name: Quercus lamellosa SMITH
+Family: Fagaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Urdu (1) - mazu-i-sabz
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0a26ed7e5473408ee9174d02f246df0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0a26ed7e5473408ee9174d02f246df0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f0a26ed7e5473408ee9174d02f246df0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

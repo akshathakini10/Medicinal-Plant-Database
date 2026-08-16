@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 55a5adee3303b062f867bdd9c73aa21d
+Botanical Name: Phyllanthus urinaria L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 77 Vernacular names found in 7 languages. Hindi (5) - hazarmani, lal-bhuin-anvalah, lalbhuin, lalbhuinanvalah, serhi Kannada (5) - kempu kira nelli, kempu nela nelli, kempu nelanelli, kempu-kiranelli, kempukiranelli Malayalam (3) - chirukizhukanelli, chukanna-kizha-nelli, chukannakizhanelli Marathi (6) - bhooyimabi, bhuiavala, bhumy-avli, laal mandaj aamvalee, laalbhooyavali, lalmundajanvali Sanskrit (37) - Sanskrit Comments  adhyanda, ajata, ajuta, amala, aphala, ara-valli, aruha, bahupatra, bahuphala, bahupushpa, bhudhatri, bhumyamalaki, charati, chorata, dalasparshini, dridhapadi, hilolika, jada, jharika, jhatamala, mala, nilolika, putrashronika, shiva, sukshmadala, sukshmaphala, tali, tamalaki, tamalika, tamalini, tamravalli, uchchata, vishaghni, vishvaparni, vitunnaka, vituntika, vrishya Tamil (14) - aniccuravitam, cenkilanelli, chengizha-nelli, cikappu ttantu, cikappukkilanelli, cirappu kilanelli, cirukilanelli, civappu kilanelli, civappukilanelli, civappunelli, keezhkai nelli, shivappu-nelli, shivappunelli, shivapu-nelli Telugu (7) - erra usirika, erra-usirika, ettausirika, neeti usiri, ucha chiyu, uchi usiri, usirika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a5adee3303b062f867bdd9c73aa21d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1651
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1651.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a5adee3303b062f867bdd9c73aa21d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55a5adee3303b062f867bdd9c73aa21d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhumyamalaki
+sanskrit_name: भूम्यामलकी
+transliteration: bhūmyāmalakī
+ref_drug_name: भूम्यामलकी
+status: Accepted source
+discussion: It is correlated to this species
+reference: [3]
+
+Identity Record 2
+drug_name: Tamalaki
+sanskrit_name: तामलकी
+transliteration: tāmalakī
+ref_drug_name: तामलकी
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bhumyamalaki
+sanskrit_name: भूम्यामलकी
+transliteration: bhūmyāmalakī
+image_urls: https://www.medicinalplants.in/slokaimages/1273/1273_1.jpg https://www.medicinalplants.in/slokaimages/1273/1273_2.jpg https://www.medicinalplants.in/slokaimages/1273/1273_3.jpg
+ocr_text: मधुरा तिक्ता वीर्यतः शिशिरा स्मृता पित्तं हन्ति कफास्रघ्ना दृष्टिदाहविनाशिनी II (Dhn) Bhudhatri is madhura, tikta in rasa , sisira in veerya alleviates pitta, kapha, asra, cures drsti daha. भूधात्री तु कषायाम्ला पित्तमेहविनाशिनी वातकृत् तिक्ता कषाया मधुरा हिमा Il पिपासा कासपित्तास्रकफकण्डूक्षतापहा II (Bpn) Bhudhatri is kashaya, amla, tikta, madhura in rasa, hima in veerya, pitta meha vinasana, vata karaka, cures pitta meha, pippasa, kasa, pitta asra kapha, kandu and ksata भूधात्री भूधात्री भूधात्री तु विशेषेण विषघ्नी पुत्रदायिनी II (Sodala) Bhudhtari is putradayini and cures visa.

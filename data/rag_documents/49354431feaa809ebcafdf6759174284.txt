@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 49354431feaa809ebcafdf6759174284
+Botanical Name: Hydnocarpus alpina WT.
+Family: Flacourtiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 4 languages. Kannada (8) - kaastela, maratatti, marathutthi, sannasolti, sannasurante, sanuasolti, surante, torathi Malayalam (1) - malamaravetti Marathi (1) - kastel Tamil (4) - arruccancalai, attuccankilai, attuchankalai, malaivattai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49354431feaa809ebcafdf6759174284
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49354431feaa809ebcafdf6759174284
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/49354431feaa809ebcafdf6759174284
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

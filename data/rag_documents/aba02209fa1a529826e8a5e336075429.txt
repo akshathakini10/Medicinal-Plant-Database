@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: aba02209fa1a529826e8a5e336075429
+Botanical Name: Asclepias curassavica L.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 7 languages. English (4) - bastard ipecacuanha, blood flower, matac, swallow wort Hindi (3) - kakatundi, kaura-dodi, lalma Kannada (7) - chikka kaage thonde, hole chadaranga, hulugilu gida, kaakathundi, kaakatundi, kakatundi, kiria kaage thonde Marathi (2) - karki, kurki Sanskrit (2) - Sanskrit Comments  kakanasika, kakatundi Tamil (1) - ariyaman Telugu (1) - jilledu mandaara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aba02209fa1a529826e8a5e336075429
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakanasika
+sanskrit_name: काकनासिका
+transliteration: kākanāsikā
+ref_drug_name: काकनासिका
+status: Most probable
+discussion: It is most probably correlated to this species and is well known by the name 'Kakatundi' which has been mentioned by Cakprapani as another name for 'Kakanasika'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

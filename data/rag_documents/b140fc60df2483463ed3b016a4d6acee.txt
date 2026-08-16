@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b140fc60df2483463ed3b016a4d6acee
+Botanical Name: Caralluma umbellata HAW. SYN. PL.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 3 languages. Kannada (2) - hucchu bangte, molanakodu Tamil (3) - anaikkallimulaiyan, eluman, elumanpuli Telugu (3) - kundelu kommulu, kundetikommulu, kundina kommulu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b140fc60df2483463ed3b016a4d6acee
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b140fc60df2483463ed3b016a4d6acee
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b140fc60df2483463ed3b016a4d6acee
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

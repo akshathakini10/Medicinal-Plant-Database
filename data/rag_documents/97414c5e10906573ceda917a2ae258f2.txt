@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 97414c5e10906573ceda917a2ae258f2
+Botanical Name: Cassia alata L.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 89 Vernacular names found in 8 languages. English (1) - ringworm senna Hindi (6) - dadmari, dadmurdan, dat-ka-pat, datkapat, deo-mardon, vilayati-agati Kannada (18) - daddumardu, dahvala, dhavala gida, dhawala gida, dodda chagache, dodda thagache, dodda thangadi, doddacagate, doddachagate, doddasagate, puritappu, seeme agase, seeme thangadi, sheemigida, shime-agase, simeagase, simeyagase, simyagase Malayalam (5) - elakajam, shima-akatti, shimayakatti, simaagati, simayakatti Marathi (1) - dadamardana Sanskrit (2) - Sanskrit Comments  dadrughna, dvipagasti Tamil (42) - alata, anjali, calavakatti, calavakatticceti, cimaiakatti, cimaiyakatti, cimaiyavutti, cintuki, cintukiyakatti, cirikai, kacampakatti, karccakkinam2, malai tagarai, pairavam, pairavamaram, pei agathi, peyakatti, ponnakatti, puliyacikacceti, puliyacikam, pulukkolli 2, seemai agathi, seemai agathy, seemaiagatti, seemie aghatee, semmai agatti, sheemai-agatti, shimai-agatti, simaiyagatti, tatturukkinam, tiruttakattimaram, tiruttavutti, vandu kolli, vandu kollu, vandu-rolli, vandugolli, vandukolli, vantukatiyilai, vantukkolli, vantunelli 2, vendu-kolli, vendukolli Telugu (14) - mettataamara, mettatamara, mitta tamara, seema avise, seemaavasie, seemaavise, seemayavisa, sheemaavisi, shima-avishi-chettu, sima avisl, simaavishi, simaavisi, simayavisa, simayavise
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97414c5e10906573ceda917a2ae258f2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97414c5e10906573ceda917a2ae258f2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97414c5e10906573ceda917a2ae258f2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97414c5e10906573ceda917a2ae258f2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4fad94ea04f7e7e3771258a51246161f
+Botanical Name: Remusatia vivipara SCHOTT.
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 4 languages. Kannada (2) - kadu gadde, marakesu Malayalam (1) - maravara-tsjembu Marathi (2) - rukh-alu, rukhalu Sanskrit (1) - Sanskrit Comments  laksmana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fad94ea04f7e7e3771258a51246161f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fad94ea04f7e7e3771258a51246161f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fad94ea04f7e7e3771258a51246161f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Controversial
+discussion: With regard to its properties, Thakur Balwant Singh has correlated 'Laksmana' to many species; Remusatia vivipara is one of the suggested species
+reference: [5]
+
+Identity Record 2
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Most probable
+discussion: Taken into consideration as Laksmana as this species posseses similar fertility efficiency
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

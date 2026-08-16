@@ -1,0 +1,105 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 45fac918d9926161b4ce136f5658e35a
+Botanical Name: Acacia arabica WILLD.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 62 Vernacular names found in 7 languages. Hindi (5) - babla, babul, babur, kikar, kikkar Kannada (19) - babbuli, bambolero, barbara, barbura, bauni, bobbuli, gobbali, gobli, gobolu, jalee, jali, karibela, karigi, karijali, kariki, karjali, karrijali, ramakanti, ramkantai Malayalam (8) - babola, karivelam, karruvallam, karuvelagum, karuvelakam, karuvelakkam, karuvelam, karuvelum Sanskrit (1) - Sanskrit Comments  koudia babul Tamil (10) - iramangandam, karoovelum puttay, karuvael, karuvel, karuvelam, karuvelampicin, karuvelampisin, karuvelum, vel, velampisin Telugu (7) - barbaramu, barburamu, nallatumma, nellatuma, tuma, tumma, yugalakshamu Urdu (12) - aqaqia, gond babul, gond kikar, gond kikar biriyan, gond kikar pisa hua, gond kikar saida, gond sayida, kikar ka koila, kikar ki khusk pattay, phali kikar, poast kikar, samagh arab saida
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 28
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/28.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45fac918d9926161b4ce136f5658e35a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Abhababulaka
+sanskrit_name: आभाबब्बूलक
+transliteration: ābhābabbūlaka
+ref_drug_name: आभाबब्बूलक
+status: Suggested Source
+discussion: In Kaideva and Sodala nighantu, 'Abhababulaka' is described seperately after 'Babbula'; 'Abhababulaka' is described under Laksmana varga where as 'Babbula' is described under 'Amradi varga'; But Bapalal Vaidya has correlated this to Acacia arabica which is 'Babbula'; According to the author this may be a type of 'Babbula'
+reference: [5]
+
+Identity Record 2
+drug_name: Babbula
+sanskrit_name: बब्बूल
+transliteration: babbūla
+ref_drug_name: बब्बूल
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 3
+drug_name: Babbula
+sanskrit_name: बब्बूल
+transliteration: babbūla
+ref_drug_name: बब्बूल जाति
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 4
+drug_name: Babbula
+sanskrit_name: बब्बूल
+transliteration: babbūla
+ref_drug_name: बब्बूल जाति
+status: Accepted source
+discussion: Is a variety of Acacia found in Vidarbha and Khaandesh (?)
+reference: [3]
+
+Identity Record 5
+drug_name: Babbula - jati
+sanskrit_name: बब्बूल जाति
+transliteration: babbūla jāti
+ref_drug_name: बब्बूल
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 6
+drug_name: Babbula - jati
+sanskrit_name: बब्बूल जाति
+transliteration: babbūla jāti
+ref_drug_name: बब्बूल जाति
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 7
+drug_name: Babbula - jati
+sanskrit_name: बब्बूल जाति
+transliteration: babbūla jāti
+ref_drug_name: बब्बूल जाति
+status: Accepted source
+discussion: Is a variety of Acacia found in Vidarbha and Khaandesh (?)
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

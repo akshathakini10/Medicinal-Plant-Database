@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 68f46f837f4ac7bc86f14a45551c801d
+Botanical Name: Pisonia grandis R.BR.
+Family: Urticaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pisonia alba SPAN. Pisonia morindifolia R.BR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 4 languages. English (2) - lettuce tree, moluccan cabbage Hindi (1) - bhagga-chura Marathi (1) - chinaisalit Tamil (6) - chandu, illachaikkettayilai, laccai-k-kottai kirai, lancamuntakkirai, muruval, naccukkottai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f46f837f4ac7bc86f14a45551c801d/xclkon/1544a446227d63cf012fbcbe2f4ed673
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f46f837f4ac7bc86f14a45551c801d/xclkon/d38be411b71388f70bb5a969e397c432
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f46f837f4ac7bc86f14a45551c801d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68f46f837f4ac7bc86f14a45551c801d/xclkon/1544a446227d63cf012fbcbe2f4ed673
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

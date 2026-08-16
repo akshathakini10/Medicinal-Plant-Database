@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d2812c751d8ab321390af1b261bb465c
+Botanical Name: Sterculia urens ROB.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 114 Vernacular names found in 8 languages. English (1) - kutira gum Hindi (13) - bali, gular, gulu, kabru, kadai, kadaya, kandois, karrai, karu, katira, kulu, tabsi, tanuku Kannada (17) - balnaaru, bhoothali, bhutali, bujolladha, bujulla, buthale, chevaadi, chevadi, kempu daale, kempu daili, kempudaale, kempudaili, kempudale, kurai, penari, pinari, punike Malayalam (6) - anainar, anathondi, theethondi, thondi, tonti, vakka Marathi (14) - guloo, gwira, kandoi, kandol, kandula, karadol, karai, karrai, kavali, kondai, pandruk, pandruka, panduruka, soldawar Sanskrit (2) - Sanskrit Comments  arjuna, balika Tamil (28) - ammacci, ammaccimaram, ammira, ammiramaram, centalai#, centalai@, centanakku, cikapputtanakku, kavalam, kolukkattaimaram, kontalai@, motakavalli, netunili1, puttali, puttali 1, sendalai, sendanakku, senthanaku, senthanuku, shen-thanaku, sigapputtanaku, tanakku, vakkanar, velaipputtali, vellai-puthali, vellaipputali, vellaipputtali, velley-putali Telugu (33) - errapoluku, erraponaku, errapuliki, errapuniki, errapunishi chettu, ettaponaku, kalvi, kavalee, kavile, kavili, konda tamara, kovila chettu, kovili, ponaku, pooliky, pulaki, puliki, tabase, tabasi, tabsu, tanuku, tapasi, tapasi chettu, thabsee, thabsu, thanuku, thapasi, yerra poliki, yerrabolika, yerrapolelli, yerrapolikay, yerrapoliki, yerrapoliky
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2812c751d8ab321390af1b261bb465c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1982
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1982.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2812c751d8ab321390af1b261bb465c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2812c751d8ab321390af1b261bb465c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2812c751d8ab321390af1b261bb465c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Arjuna
+sanskrit_name: अर्जुन
+transliteration: arjuna
+ref_drug_name: अर्जुन
+status: Suggested source
+discussion: This species was suggested to be used as Arjuna with regard to its resemblance in morphology
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Arjuna
+sanskrit_name: अर्जुन
+transliteration: arjuna
+image_urls: https://www.medicinalplants.in/slokaimages/1605/1605_1.jpg https://www.medicinalplants.in/slokaimages/1605/1605_2.jpg https://www.medicinalplants.in/slokaimages/1605/1605_3.jpg
+ocr_text: अर्जुनस्तु कषायोष्णः कफघ्नो व्रणशोधनः पित्तश्रमतृषार्त्तिघ्नो मारुतामयकोपनः II (Rjn) It is kashaya in rasa usna In veerya, vrana sodhana alleviates Kapna, Cure5 pitta, srama, trsa and is maruta amaya kopana artl, ककुभः शीतलो हृद्यः क्षतक्षयविषास्रजित् मेदोमेहव्रणान् हन्ति तुवरः कफपित्तहृत् Il (Bpn) Kakubha is tuvara in rasa, sitala in veerya, hraya, alleviates ksata Ksaya, visa asra, meda meha vrana, kapha and pitta पार्थः पथ्यः क्षते भग्ने रक्तस्तम्भनकृच्छ्रयोः (Rajavallaba) Partha is pathya in ksata, bhagna, krcchra and rakta stambhana

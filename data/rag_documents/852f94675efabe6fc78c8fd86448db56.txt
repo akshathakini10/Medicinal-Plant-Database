@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 852f94675efabe6fc78c8fd86448db56
+Botanical Name: Juniperus communis L.
+Family: Coniferae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 6 languages. English (6) - common juniper, dwarf juniper, ground juniper, hackmatack, horse savin, juniper Hindi (6) - aaraar, bither, guggal, haubera, jhora, padmak Marathi (1) - hosha Sanskrit (19) - Sanskrit Comments  aparajita, ashvathaphala, dhmankshanashini, habusha, hapusa, hapusha, havusa, kachhughna, kaphaghni, kapotapanka, matsyagandha, plihahantri, plihashatru, svalpaphala, vapusha, vigandhika, vishaghni, visra, visraganga Tibetan (2) - spa ma i bras bu, spa mai bras bu Urdu (2) - abhal, abhal(aarar)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/852f94675efabe6fc78c8fd86448db56
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1247
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1247.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/852f94675efabe6fc78c8fd86448db56
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/852f94675efabe6fc78c8fd86448db56
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/852f94675efabe6fc78c8fd86448db56
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/852f94675efabe6fc78c8fd86448db56
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Hapusa
+sanskrit_name: हपुषा
+transliteration: hapuṣā
+ref_drug_name: हपुषा
+status: Most probable
+discussion: May be identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Hapusa
+sanskrit_name: हपुषा
+transliteration: hapuṣā
+ref_drug_name: हपुषा
+status: Most probable
+discussion: May be identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Hapusa
+sanskrit_name: हपुषा
+transliteration: hapuṣā
+image_urls: https://www.medicinalplants.in/slokaimages/970/970_1.jpg https://www.medicinalplants.in/slokaimages/970/970_2.jpg
+ocr_text: हपुषा कटुतिक्तोष्णा गुरुर्वातबलासजित् प्रदरोदरविट्बन्धशूलगुल्मर्शसां हितः T IRjn) Hapusa is katu, tikta in rasa, usna in virya, guru which alleviates vata cures pradara, vit bandha, sula, gulma and arsa. हपुषा तुवरा तिक्ता कटूष्णा दीपनी गुरुः ग्रहणीशूलगुल्मार्शो वातपित्तोदरापहा I[ IKdnl Hapusa is tikta, katu in rasa, tuvara Buru in virya, dipani, cures grahani, sula , gulma, arsa, vata pittodara. usna

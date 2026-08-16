@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4daba113f453290ce1e9ededa3b91bd1
+Botanical Name: Dioscorea belophylla VOIGT E HAINES
+Family: Dioscoreaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Dioscorea glabra AUCT. NON ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. Hindi (5) - tairu, tarari, tardi, turar, turhar Marathi (2) - jangli-matol, karu-kand Sanskrit (2) - Sanskrit Comments  sankhaluka, taruta Telugu (3) - eddutokadumpa, naratega, naratige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4daba113f453290ce1e9ededa3b91bd1/xclkon/ba06afad3f2ab89ccc863d1f26569868
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4daba113f453290ce1e9ededa3b91bd1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4daba113f453290ce1e9ededa3b91bd1/xclkon/ba06afad3f2ab89ccc863d1f26569868
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4daba113f453290ce1e9ededa3b91bd1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4daba113f453290ce1e9ededa3b91bd1/xclkon/ba06afad3f2ab89ccc863d1f26569868
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Taruta
+sanskrit_name: तरूट
+transliteration: tarūṭa
+ref_drug_name: तरूट
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

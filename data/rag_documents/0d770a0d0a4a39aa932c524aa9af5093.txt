@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0d770a0d0a4a39aa932c524aa9af5093
+Botanical Name: Lithospermum officinale L.
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. English (3) - gromwell, pear plant, stoneseed Urdu (1) - hub-i-qulqul
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d770a0d0a4a39aa932c524aa9af5093
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d770a0d0a4a39aa932c524aa9af5093
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0d770a0d0a4a39aa932c524aa9af5093
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

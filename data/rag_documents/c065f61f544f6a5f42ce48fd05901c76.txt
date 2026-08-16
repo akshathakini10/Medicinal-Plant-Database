@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c065f61f544f6a5f42ce48fd05901c76
+Botanical Name: Hibiscus tiliaceus L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 32 Vernacular names found in 7 languages. Hindi (1) - pola Kannada (3) - bilipatta, kaark bendu, samudra theeradatthi Malayalam (10) - nirparatthi, nirparatti, nirparuthi, nirparutti, paratti, pariti, paritti, paroottee, parutti, talipparutti Marathi (9) - baelsing, belipata, bellipata, belpata, bhotee, kharikapusi, mothi potaare, varadhaa, varanga Sanskrit (1) - Sanskrit Comments  bala Tamil (5) - attuparuthi, nirparathi, nirparutti, nirpparutti, potari Telugu (3) - cherigogu, erragogu, ettagogu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c065f61f544f6a5f42ce48fd05901c76
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1137
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1137.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c065f61f544f6a5f42ce48fd05901c76
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c065f61f544f6a5f42ce48fd05901c76
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c065f61f544f6a5f42ce48fd05901c76
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

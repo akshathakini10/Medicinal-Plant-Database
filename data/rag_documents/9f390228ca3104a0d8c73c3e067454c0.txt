@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9f390228ca3104a0d8c73c3e067454c0
+Botanical Name: Vigna dalzelliana (O.KTZE ) VERDC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Phaseolus dalzellii COOKE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Malayalam (1) - kattulunnu Sanskrit (3) - Sanskrit Comments  aranyamudgu, masaparni, mudgavalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f390228ca3104a0d8c73c3e067454c0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2190
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2190.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f390228ca3104a0d8c73c3e067454c0/xclkon/382ee71d1de70d9422999b13727c209d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f390228ca3104a0d8c73c3e067454c0/xclkon/a7719b631b0e76afc969ff1090f10361
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f390228ca3104a0d8c73c3e067454c0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

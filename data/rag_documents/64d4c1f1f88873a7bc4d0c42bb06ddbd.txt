@@ -1,0 +1,93 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 64d4c1f1f88873a7bc4d0c42bb06ddbd
+Botanical Name: Chlorophytum arundinaceum BAKER
+Family: Liliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 6 languages. Hindi (2) - safed-musli, safedmusli Kannada (1) - eeerulli yele gida Marathi (1) - shveth musalee Sanskrit (1) - Sanskrit Comments  musali Tibetan (2) - pu sa la, su sa la (d) Urdu (1) - musli safaid
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64d4c1f1f88873a7bc4d0c42bb06ddbd
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 517
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/517.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64d4c1f1f88873a7bc4d0c42bb06ddbd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64d4c1f1f88873a7bc4d0c42bb06ddbd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64d4c1f1f88873a7bc4d0c42bb06ddbd
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/64d4c1f1f88873a7bc4d0c42bb06ddbd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Musali
+sanskrit_name: मुशली
+transliteration: muśalī
+ref_drug_name: मुशली
+status: Accepted source
+discussion: Musali' has been mentioned only once by Vagbhata which was used in diseases only externally; 'Talapatri' and 'Talamuli' has also been mentioned only once in Caraka samhita; Dalhana has identified both of them with 'Musali'; Nighantus have mentioned two types of Musali as white and black variety; Both are supposed to be used as Jivaniya (life promoting) and Brimhaniya (nourishing); There is a doubt whether the Talamuli of Brhatrayi is the same Musali or a different drug; There are chances that the nourishing property of 'Musali' was analysed in the later periods; Based on the above it is identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Musali
+sanskrit_name: मुशली
+transliteration: muśalī
+ref_drug_name: मुशली श्वेता
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+Identity Record 3
+drug_name: Musali - sveta
+sanskrit_name: मुशली श्वेता
+transliteration: muśalī śvetā
+ref_drug_name: मुशली
+status: Accepted source
+discussion: Musali' has been mentioned only once by Vagbhata which was used in diseases only externally; 'Talapatri' and 'Talamuli' has also been mentioned only once in Caraka samhita; Dalhana has identified both of them with 'Musali'; Nighantus have mentioned two types of Musali as white and black variety; Both are supposed to be used as Jivaniya (life promoting) and Brimhaniya (nourishing); There is a doubt whether the Talamuli of Brhatrayi is the same Musali or a different drug; There are chances that the nourishing property of 'Musali' was analysed in the later periods; Based on the above it is identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Musali - sveta
+sanskrit_name: मुशली श्वेता
+transliteration: muśalī śvetā
+ref_drug_name: मुशली श्वेता
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Musali
+sanskrit_name: मुशली
+transliteration: muśalī
+image_urls: https://www.medicinalplants.in/slokaimages/14/14_1.jpg https://www.medicinalplants.in/slokaimages/14/14_2.jpg https://www.medicinalplants.in/slokaimages/14/14_3.jpg
+ocr_text: मधुरा वृष्या वीर्योष्णा बृंहणी गुरुः | तिक्ता रसायनी हन्ति गुदजान्यनिलं तथा|| (Bpn) Musali is madhura, tikta in rasa, guru in guna, usna in veerya, vrshya, brmhani, rasayani ana cures guaaja anila. मुसली मधुरा शीता वृष्या पुष्टिबलप्रदा पिच्छला कफदा पित्तदाहश्रमहरा परा|| IRjnl Musali is madhura in rasa, picchila in guna, sita in veerya, vrshya, pusti bala prada, increases kapha, alleviates pitta, daha and srama मुसली मुसली रसपाकाभ्यां स्वादुः शीताडग्निवर्द्धिनी| वातपित्तहरा वृष्या स्थैर्यमार्दवदायिनी | | (शोढल) Musali is svadu in rasa and paka , sita in veerya, alleviates vata ana pitta is agni vardhani, vrshya, stairya mardava dayini.
+
+Shloka Record 2
+drug_name: Musali - sveta
+sanskrit_name: मुशली श्वेता
+transliteration: muśalī śvetā
+image_urls: https://www.medicinalplants.in/slokaimages/14/14_1.jpg https://www.medicinalplants.in/slokaimages/14/14_2.jpg https://www.medicinalplants.in/slokaimages/14/14_3.jpg
+ocr_text: मधुरा वृष्या वीर्योष्णा बृंहणी गुरुः | तिक्ता रसायनी हन्ति गुदजान्यनिलं तथा|| (Bpn) Musali is madhura, tikta in rasa, guru in guna, usna in veerya, vrshya, brmhani, rasayani ana cures guaaja anila. मुसली मधुरा शीता वृष्या पुष्टिबलप्रदा पिच्छला कफदा पित्तदाहश्रमहरा परा|| IRjnl Musali is madhura in rasa, picchila in guna, sita in veerya, vrshya, pusti bala prada, increases kapha, alleviates pitta, daha and srama मुसली मुसली रसपाकाभ्यां स्वादुः शीताडग्निवर्द्धिनी| वातपित्तहरा वृष्या स्थैर्यमार्दवदायिनी | | (शोढल) Musali is svadu in rasa and paka , sita in veerya, alleviates vata ana pitta is agni vardhani, vrshya, stairya mardava dayini.

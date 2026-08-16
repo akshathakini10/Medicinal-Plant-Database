@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e3c85ee0aed7be8421521225e95943db
+Botanical Name: Limonia alata W. & A.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 2 languages. Kannada (3) - kadubilvapatri, nayibelada, nayibelala Telugu (3) - kondanimma, munukudu, nallamunukudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3c85ee0aed7be8421521225e95943db
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e3c85ee0aed7be8421521225e95943db
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

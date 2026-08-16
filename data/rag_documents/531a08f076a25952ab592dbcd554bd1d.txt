@@ -1,0 +1,109 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 531a08f076a25952ab592dbcd554bd1d
+Botanical Name: Setaria italica (L.) BEAUV
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Panicum italicum L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 104 Vernacular names found in 9 languages. English (4) - foxtail millet, german millet, hungarian or italian millet, millet spray Hindi (16) - bertia, chena, kakni, kakun, kalakangni, kamguni, kang, kanghuni, kangni, kangu, kangui, kauni, kirakang, kirang, koni, samak Kannada (13) - aarike, bilikorla-hollu, kaango akki, kingo-gida, kongu, naoni, navanaklu, navane, navaneakki, navani, priyangi thene, raia, vavani Malayalam (6) - navana, tauna, tena, tenayari, tenna, tina Marathi (12) - bhadle, chena, kaang, kamg, kang, kangni, kangu, raala, raale, rala, rale, samve Sanskrit (14) - Sanskrit Comments  chinaka, dhanyapriyangu, kangaka, kangu, kanguh, kanguka, kanguni, kangunika, kanku, pitatandula, priyangu, priyanguka, shyamaka, syamaka Tamil (32) - alaitticam, cai, caivankam, cakattiram, celumaipiri, ceyamakam, cinattaniyam, cittirattantulam, elan, enal, enam@, irati, kakkaram1, kanakavirutti, kanku, kankur, karcepam, mancaltinai, niriyam, paintinai, pantupocanam, pontukatinai, tenai, tennai, tenney, thinai, tinai, tinaiyarici, tinnai, tirutti, titti, uttanam1 Telugu (6) - kanguni, kora, koralu, korra, korralu, nakka-korra Tibetan (1) - khre
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d/xclkon/a1a3704be25100f7b7ce5b48f4ab5109
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d/xclkon/a1a3704be25100f7b7ce5b48f4ab5109
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d/xclkon/a1a3704be25100f7b7ce5b48f4ab5109
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d/xclkon/a1a3704be25100f7b7ce5b48f4ab5109
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d/xclkon/a1a3704be25100f7b7ce5b48f4ab5109
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/531a08f076a25952ab592dbcd554bd1d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kangu
+sanskrit_name: कङ्गु
+transliteration: kaṅgu
+ref_drug_name: कङ्गुक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Kangu
+sanskrit_name: कङ्गु
+transliteration: kaṅgu
+ref_drug_name: कङ्गु
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 3
+drug_name: Kanguka
+sanskrit_name: कङ्गुक
+transliteration: kaṅguka
+ref_drug_name: कङ्गुक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Kanguka
+sanskrit_name: कङ्गुक
+transliteration: kaṅguka
+ref_drug_name: कङ्गु
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+Identity Record 5
+drug_name: Priyangu - dhanya
+sanskrit_name: प्रियङ्गु धान्य
+transliteration: priyaṅgu dhānya
+ref_drug_name: प्रियङ्गु धान्य
+status: Accepted source
+discussion: Dhanya priyangu is correlated to this species
+reference: [2]
+
+Identity Record 6
+drug_name: Priyangu - dhanya
+sanskrit_name: प्रियङ्गु धान्य
+transliteration: priyaṅgu dhānya
+ref_drug_name: प्रियङ्गु धान्य
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

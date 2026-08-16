@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 61a32e5086f8b13a614b66fd45f4e966
+Botanical Name: Cadaba fruticosa (L.) DRUCE
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cadaba farinosa FORSK.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 108 Vernacular names found in 6 languages. Hindi (3) - dabi, kadhab, kodhab Kannada (14) - cegavice, chaayagavache, cheganike, chegaviche, keganike, kegnike, mangare, maragace, maragacha, maragache, maragade, maragadegida, margadde, margade Malayalam (1) - kattakatti Marathi (2) - habal, vaelivee Tamil (70) - adamorinika, ayamiyamakki, ayattaiiyamakki, carapattiram, chikondi, ciramota, ciramotakacceti, ciramotakam, ciramotan, cirmotan, ciruviluticceti, cumirutam, curapicitti, itankali, itankalimaram, kacitti, kainaci, karppakalakkiruti, katagatti, kattakatti, kunkilatikacceti, kunkilatikam, kutippanikam, manatukkurntu, maravili, maravilicceti, mattametikam, mattametikamaram, mota, motti, nacukatitam2, narcitti, narivili, narivili@, narivilicceti, palavili#, palavili@, palavilicceti, pattirakam2, piluka, pittavaram, puttiracutanam, tarunikam, tarunikamaram, tatakam2, tirucupattiram, uruvaracam, uruvaracamaram, uruvaraccammatti, uttarakarikai, vanamulam, veludhu, vilathi, vili, vili-p-pattai, vilimmi, vilipporukku, viliti#, viliti@, viliver, viluti, visanacini, vishuthi, vittuki, vittukicceti, vizhudi, vizhuthi, vizuthi, vuelie vayr, vutharasichettu Telugu (18) - aadamorinika, adamorinika, cavukuttiyanku, cekodi, cekodisakada, chavukkuttiyanku, chekodi, chekonadi, chekonisi, chemoorda, chemudu, chikonadi, chimurudu, chimurudu poola, cimurudu, polumorinika, sagedapu, vutharasi chettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61a32e5086f8b13a614b66fd45f4e966/xclkon/72e652a80dd30c65b02871d68a8a5ccc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61a32e5086f8b13a614b66fd45f4e966/xclkon/44b3f6a4547964ffd9277270832ad050
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61a32e5086f8b13a614b66fd45f4e966
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61a32e5086f8b13a614b66fd45f4e966/xclkon/236d74ce81614700f749bf46db207874
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61a32e5086f8b13a614b66fd45f4e966/xclkon/72e652a80dd30c65b02871d68a8a5ccc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61a32e5086f8b13a614b66fd45f4e966/xclkon/44b3f6a4547964ffd9277270832ad050
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61a32e5086f8b13a614b66fd45f4e966
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61a32e5086f8b13a614b66fd45f4e966/xclkon/236d74ce81614700f749bf46db207874
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/61a32e5086f8b13a614b66fd45f4e966/xclkon/72e652a80dd30c65b02871d68a8a5ccc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

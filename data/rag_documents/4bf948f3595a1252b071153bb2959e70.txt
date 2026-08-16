@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4bf948f3595a1252b071153bb2959e70
+Botanical Name: Buchanania axillaris (DESR.) RAMAMOORTHY
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Buchanania angustifolia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 44 Vernacular names found in 7 languages. Hindi (1) - piyala Kannada (7) - moradi, morave, muradi, murkaalu, shaara pappu, yemme murukalu mara, yemme murukelu gida Malayalam (3) - cheru, kulamavu, malamavu Marathi (3) - char, marharia, motachar Tamil (13) - kalma, kanma, kattuma, kattumankay, kola-mavu, kolamavu, mudama, mudma, mundamah, mutama, pulima 1, saaraparuppu, saraparuppu Telugu (16) - cara, chaara, chara, induba, moralli, morli, morli sara, pedda moralli, pedda morli, pedda-mori, peddamorali, peddamoralli, sara, sarapappu, sarapappu-kernei, tsara Urdu (1) - habb-us-samena
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4bf948f3595a1252b071153bb2959e70
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4bf948f3595a1252b071153bb2959e70/xclkon/8425a564799b0fb31f1337d377ab1480
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4bf948f3595a1252b071153bb2959e70
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4bf948f3595a1252b071153bb2959e70/xclkon/8425a564799b0fb31f1337d377ab1480
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4bf948f3595a1252b071153bb2959e70
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4bf948f3595a1252b071153bb2959e70/xclkon/8425a564799b0fb31f1337d377ab1480
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4bf948f3595a1252b071153bb2959e70
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

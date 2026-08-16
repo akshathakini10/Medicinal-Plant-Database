@@ -1,0 +1,76 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: db597fcd2dd82460853c3cc45986e899
+Botanical Name: Blumea lacera DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 7 languages. Hindi (7) - divalimuli, janglimulli, kakranda, kakronda, kukaraundha, kukurbanda, phatakdi Kannada (2) - gaandhaari gida, gandhaari gida Malayalam (2) - kukkuravrksam, rakkila Marathi (4) - bamburdi, bhamaburada, bhamurda, kukurbanda Sanskrit (11) - Sanskrit Comments  kukkuradru, kukundara, kukundarah, kukuradru, kukurandru, kukuroundha, kulahala, mriduchhada, sukshmapatra, tamrachuda, tamracuda Tamil (7) - catakkinam, kattumullangi, kattumullanki, narak-karandai, narakkarandai, navakkarandai, tevuppula Telugu (3) - adavimulangi, advimulangi, karupogaku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db597fcd2dd82460853c3cc45986e899
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db597fcd2dd82460853c3cc45986e899
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db597fcd2dd82460853c3cc45986e899
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db597fcd2dd82460853c3cc45986e899
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db597fcd2dd82460853c3cc45986e899
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kukundara
+sanskrit_name: कुकुन्दर
+transliteration: kukundara
+ref_drug_name: कुकुन्दर
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Kukurunda
+sanskrit_name: कुकुरुन्द
+transliteration: kukurunda
+ref_drug_name: कुकुरुन्द
+status: Accepted source
+discussion: Identified with it; It is mentioned in Madhavadravya guna; In Bhavaprakasa it is known by the name 'Kukundara'
+reference: [5]
+
+Identity Record 3
+drug_name: Kulahala
+sanskrit_name: कुलाहल
+transliteration: kulāhala
+ref_drug_name: कुलाहल
+status: Most probable
+discussion: According to Desai, Kulahala is called as Kalahada in Gujrat which is correlated to this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kukundara
+sanskrit_name: कुकुन्दर
+transliteration: kukundara
+image_urls: https://www.medicinalplants.in/slokaimages/249/249_1.jpg https://www.medicinalplants.in/slokaimages/249/249_2.jpg
+ocr_text: कुकुन्दरस्ताम्रचूडःसूक्ष्मपत्रामृद्रुच्छदः Kukundara, tamra cuda , suksma patra, mrducchada are its synonyms कुकुन्दरःकटुस्तिक्तोज्वरघ्नच्चोष्णकृन्मतः रक्तरुक्कफदाहानांतृषायाश्चैवनाशनः [ अस्यार्द्रमूलञ्चमुखेधारितमुखदोषनुत INlir) Kukundara is katu , tikta in rasa, usna in veerya, destroys rakta ruk kapha dosha, cures jvara, daha and trsha Its ardra mula is mukhadharana ana mukha aosha hara

@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9b0904e907b74b41cf46e761b00bca33
+Botanical Name: antolis tomentosa (ROB.) RAF.
+Family: Sapotaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sideroxylon tomentosum ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 25 Vernacular names found in 4 languages. Kannada (20) - hale, halmadhu, holay, holedaachala, hoodigolla, hude, hudigollu, hudigullu, hudugolla, hudugolli, kaal madhu, kabbinada mara, kalmadhu, kampaale, kampale, kamphale, kumpale, kumphal, kumpholi, kumpoli Malayalam (1) - kontaiboro Tamil (2) - cimaimakilam2, makil# Telugu (2) - beijuven, bejjuven
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b0904e907b74b41cf46e761b00bca33/xclkon/b3146ba09cb7cbb9a45b1c1b0423f3ce
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b0904e907b74b41cf46e761b00bca33
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b0904e907b74b41cf46e761b00bca33/xclkon/b3146ba09cb7cbb9a45b1c1b0423f3ce
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b0904e907b74b41cf46e761b00bca33
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b0904e907b74b41cf46e761b00bca33/xclkon/b3146ba09cb7cbb9a45b1c1b0423f3ce
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

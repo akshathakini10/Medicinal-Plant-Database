@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2c21f3c27aa7500c2f8b7be76a7ff1a7
+Botanical Name: Euphorbia chamaesyce L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Euphorbia prostrata AIT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. English (1) - red euphorbia Hindi (1) - dudhi Telugu (1) - paala alumu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c21f3c27aa7500c2f8b7be76a7ff1a7/xclkon/e789a46a2bb7d2d718a65291a0964d52
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c21f3c27aa7500c2f8b7be76a7ff1a7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c21f3c27aa7500c2f8b7be76a7ff1a7/xclkon/e789a46a2bb7d2d718a65291a0964d52
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

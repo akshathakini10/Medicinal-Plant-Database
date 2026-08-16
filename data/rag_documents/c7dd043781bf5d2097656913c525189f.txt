@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c7dd043781bf5d2097656913c525189f
+Botanical Name: Firmiana colorata (ROB.) R. BR.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 3 languages. Kannada (4) - bilisoolige, bilisulige, kaushi, kodokili Tamil (4) - ataikkati, ataikkatimaram, malaiyamparutti, malapparutti Telugu (5) - gudilapu, kaaruchinche, kaarupaayu, karaka, kondatthaamara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7dd043781bf5d2097656913c525189f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7dd043781bf5d2097656913c525189f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7dd043781bf5d2097656913c525189f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4fa0f084fd4431a74a9c49614ec73267
+Botanical Name: Acampe praemorsa (ROB.) BLATT. & MCCANN
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Acampe wightiana LINDL. Saccolabium praemorsum HOOK
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Kannada (1) - marabale Malayalam (3) - taliyamaravala, thalia-maravara, thaliamaravara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fa0f084fd4431a74a9c49614ec73267/xclkon/b2dea4ee8b94caa4e39c0c1b50c7c2dc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fa0f084fd4431a74a9c49614ec73267
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fa0f084fd4431a74a9c49614ec73267/xclkon/e81bfe8d2066711f900e2cb4c4377165
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4fa0f084fd4431a74a9c49614ec73267/xclkon/b2dea4ee8b94caa4e39c0c1b50c7c2dc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

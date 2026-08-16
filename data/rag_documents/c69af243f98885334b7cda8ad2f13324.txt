@@ -1,0 +1,93 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c69af243f98885334b7cda8ad2f13324
+Botanical Name: Jatropha glandulifera ROB.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Jatropha glauca VAHL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 71 Vernacular names found in 7 languages. Hindi (4) - jangli-erandi, janglierandi, lal-bhranda, undarbibi Kannada (7) - kadi, kari thuraka haralu, kariturukahalugida, seeme haralu, totla, totlagida, totta Malayalam (3) - atala, katalavanakku, nakadanti Marathi (5) - jangli-erandi, jangliarandi, ran-erandi, ranaerandi, underbibi Sanskrit (11) - Sanskrit Comments  akhukarnika, citra, dravanthi, dravanti, drawanti, nikumba, nikumbha, nyagrodhi, putrasreni, randa, sambari Tamil (12) - adalai, addaleyunnay, atalai, attali, eliyamenakku, erikkaraikattamanakau, erikkaraikkatta manakku, kaattamanakku, katta-manakku, kattamanakau, puliyamanakku, udalai Telugu (29) - adavi-amadam, dundaga aaku, dundiga, dundigamu, dundigapu, dundigapu chettu, dundilamu, kaati amadam chettu, naepaalemu, nela amida, nela-amudamu, nela-amudumu, nelaamida, nelaamidam, nelanepaalemu, nelanepalamu, nelanepalemu, nelayaamudamu, nelayamudamu, nepalam, nepalama, nepalamu, nepalemu, thella dundilamu, thella dundinapa, vatti amudamu, verriyamudamu, vettiyamudamu, yerriamudam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324/xclkon/ca78fde9bdf687f22a3f75a88a3f56f4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324/xclkon/ca78fde9bdf687f22a3f75a88a3f56f4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324/xclkon/ca78fde9bdf687f22a3f75a88a3f56f4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324/xclkon/ca78fde9bdf687f22a3f75a88a3f56f4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c69af243f98885334b7cda8ad2f13324/xclkon/ca78fde9bdf687f22a3f75a88a3f56f4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Danti
+sanskrit_name: दन्ती
+transliteration: dantī
+ref_drug_name: दन्ती
+status: Adulterated source
+discussion: Roots of this species are sold in the market as Danti
+reference: [2]
+
+Identity Record 2
+drug_name: Dravanti
+sanskrit_name: द्रवन्ती
+transliteration: dravantī
+ref_drug_name: द्रवन्ती
+status: Accepted source
+discussion: Dravanti is correlated to this species
+reference: [2]
+
+Identity Record 3
+drug_name: Ratanjota
+sanskrit_name: रतनजोत
+transliteration: ratanajota
+ref_drug_name: रतनजोत
+status: Controversial
+discussion: In Gujarat this species is known as Ratanjota which is otherwise correlated to some other plant; But according to Dalhanas interpretation it exactly resembles the Ratanjota
+reference: [2]
+
+Identity Record 4
+drug_name: Vyaghrairanda
+sanskrit_name: व्याघ्रेरण्ड
+transliteration: vyāghreraṇḍa
+ref_drug_name: व्याघ्रेरण्ड
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Danti
+sanskrit_name: दन्ती
+transliteration: dantī
+image_urls: https://www.medicinalplants.in/slokaimages/199/199_1.jpg https://www.medicinalplants.in/slokaimages/199/199_2.jpg https://www.medicinalplants.in/slokaimages/199/199_3.jpg https://www.medicinalplants.in/slokaimages/199/199_4.jpg
+ocr_text: दन्ती तीक्ष्णोष्णकटुका कफवातोदराञ्जयेत् अर्शोव्रणाश्मरीशूलान् हन्ति दीपनशोधनी II (Dhn) Danti is katu in rasa, tiksna in guna, usna in veerya, dipani, sodhani in karma, reduces kapha vatodara, cures arsa, vrana, asmari ana sula. दन्ती कटूष्णा शूलामत्वग्दोषशमनी च सा| अर्शों व्रणाश्मरीशल्यशोधनी दीपनी परा (Rin) Danti is katu in rasa, usna in veerya, pacifies sula, ama dosha, tvag dosha, cures arsa, vrana asmari and is dipani. दन्तीद्वयं सरं पाके रसे च कटु दीपनम् गुदाङ्कुराश्मशूलार्शकण्डूकुष्ठविदाहनुत्| | तीक्ष्णोष्णं हन्ति पित्तास्रकफशोथोदरकृमीन् II (Bpn) Danti dvaya is katu in rasa, sara tiksna in guna, usna in veerya, katu in paka, dipana, cures gudankura, asma, sula, arsa, kandu kustha, vidaha pittasra, kapha sotha udara and krmi तैलं निकुम्भ बीजोत्थंडत्युग्रं रेचनं परम् आनाहमुदरं हन्ति सन्यासञ्च शिरोगदम्|| धनुस्तम्भज्वरोन्मादं गदमेकांगसम्भवम् आमवातञ्च शोषञ्च म्द्दनात् कासनाशनम् (आत्रेयसंहिता Taila of nikumbha is highly recana, cures anaha, udara sanyasa, siro gada, dhanustambha jvara, unmada ekanga gada, amavata, sosa external application?) and cures kasa (by

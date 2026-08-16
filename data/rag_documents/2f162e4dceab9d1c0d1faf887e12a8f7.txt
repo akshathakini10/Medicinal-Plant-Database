@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2f162e4dceab9d1c0d1faf887e12a8f7
+Botanical Name: Coptis teeta WALL.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 5 languages. Hindi (7) - haladiya bachnaga, mahamirana, mamira, mamiram, mamiran, mimira, mishmitita Malayalam (1) - pitarohini Sanskrit (9) - Sanskrit Comments  mamira, mamirah, mishamitita, mishamlita, pita, pitamula, supita, tikta, tiktamula Tamil (5) - mamiran, peetarogini, pidarokini, pitarohini, pitarokini Urdu (4) - mameeran, mameesa (mamira,mamiran), mamira, mamiran-i-chini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f162e4dceab9d1c0d1faf887e12a8f7
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 634
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/634.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f162e4dceab9d1c0d1faf887e12a8f7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f162e4dceab9d1c0d1faf887e12a8f7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2f162e4dceab9d1c0d1faf887e12a8f7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Mamira
+sanskrit_name: ममीर
+transliteration: mamīra
+ref_drug_name: ममीर
+status: Accepted source
+discussion: Mamira is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Tiktamula
+sanskrit_name: तिक्तमूला
+transliteration: tiktamūlā
+ref_drug_name: तिक्तमूला
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Mamira
+sanskrit_name: ममीर
+transliteration: mamīra
+image_urls: https://www.medicinalplants.in/slokaimages/481/481_1.jpg
+ocr_text: ममीरा तिक्तमूला स्यात् कामरुपसमुद्भवा स्निग्धखण्डितपत्रा सितपुष्पाडतितिक्तका तिक्तमूला कटुस्तिक्ता रूक्षोष्णा दीपनी सरा चक्षुष्या रुच्या कफपित्तहरा मता |l यकृदुत्तेजनी चैव विषमज्वरनाशिनी नेत्रामये यकृद्रोगे कुष्ठे शोथे कफामये कासे श्वासे तथा मूत्रकृछ्रे मेहे च पूयजे ज्वरौत्तरिकदौर्बल्ये ज्वरे चापि प्रशस्यते Il (स्व) (RerPy sharma dravyaguna vijnan;partz ) पाचनी

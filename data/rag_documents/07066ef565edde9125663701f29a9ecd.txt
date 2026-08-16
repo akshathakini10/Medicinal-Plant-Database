@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 07066ef565edde9125663701f29a9ecd
+Botanical Name: Spinacia oleracea L.
+Family: Chenopodiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 70 Vernacular names found in 7 languages. English (1) - spinach Hindi (6) - isfanaj, palak, palki, pinnis, sag, sagpalak Kannada (4) - mukundana gida, paalak, paalakya, spinach soppu Marathi (5) - chitar, ispank, ispinaph, paalak, sag Sanskrit (14) - Sanskrit Comments  chhurika, chiritchhada, gramini, gramyavallabha, kshurapatrika, kshurika, madhura, madhusudani, palakya, palanki, palankya, snigdhapatra, supatra, vastukakara Tamil (36) - aivakaimanilakkoti, aivakaimanilam, aloci, aloki, cali, cikkiranti, cirri, iruppavalotaram, kanayilai, karuni, karunikkoti, malaricivancam, maraimuli 2, minciyatavankam, nalvacalai, narpacalai, pacalai, pacalai@, pacali, pacalikkoti, pacici, pacili, paciri2, pariyan, pasalai, pavanati, pavanatikkoti, payalai, payali@, payavuri, payili, payiri, tinti, tintikkoti, vacalaikkirai, vasaiyilaikkirai Telugu (4) - dumpabachhali, matturbachhali, mutturbachhali, paala koora
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07066ef565edde9125663701f29a9ecd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07066ef565edde9125663701f29a9ecd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07066ef565edde9125663701f29a9ecd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07066ef565edde9125663701f29a9ecd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07066ef565edde9125663701f29a9ecd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Palankya
+sanskrit_name: पालङ्क्य
+transliteration: pālaṅkya
+ref_drug_name: पालङ्क्य
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

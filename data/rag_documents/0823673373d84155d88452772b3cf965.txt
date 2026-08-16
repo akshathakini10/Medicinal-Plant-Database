@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0823673373d84155d88452772b3cf965
+Botanical Name: Merremia umbellata (L.) HALLIER
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ipomoea cymosa ROEM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 3 languages. Malayalam (1) - kolavara Tamil (1) - kolavarvalli Telugu (9) - catakattutivya, catukattutivva, chaata kattuthige, chaatu kuttathivva, chatakattutivva, kappa thivva, kappativva, vaeru malle, verumalle
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0823673373d84155d88452772b3cf965
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0823673373d84155d88452772b3cf965/xclkon/7d60361c971fd9a5a7341fc27dfad772
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0823673373d84155d88452772b3cf965
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

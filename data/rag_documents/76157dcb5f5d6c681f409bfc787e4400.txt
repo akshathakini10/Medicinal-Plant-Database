@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 76157dcb5f5d6c681f409bfc787e4400
+Botanical Name: Trachelospermum lucidum (DON) SCHUM.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Trachelospermum fragrans HOOK.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. Hindi (3) - barora, dudli, kali dudhi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/76157dcb5f5d6c681f409bfc787e4400
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/76157dcb5f5d6c681f409bfc787e4400/xclkon/e52e785fbf6da495f6f8b3cb4892c06b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/76157dcb5f5d6c681f409bfc787e4400
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

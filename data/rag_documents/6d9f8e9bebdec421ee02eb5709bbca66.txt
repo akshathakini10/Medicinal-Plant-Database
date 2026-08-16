@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6d9f8e9bebdec421ee02eb5709bbca66
+Botanical Name: Catharanthus roseus (L.) G.DON
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lochnera rosea REICHB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 39 Vernacular names found in 8 languages. English (3) - cayenne jasmine, old maid, periwinkle Hindi (2) - sada bahar, sadabahar Kannada (7) - batla hoo, bili kaasi kanigalu, ganeshana hoo, kempu kaasi kanigalu, kempu kaayi kanagilu, sadaa mallige, thuruku mallige Malayalam (4) - banappuvu, nityakalyani, savanari, usamalari Marathi (3) - sadaphool, sadaphul, sadaphuli Sanskrit (4) - Sanskrit Comments  nityakalyani, rasna, sadampuspa, sadapushpi Tamil (15) - cutkattu malli, cutukattu malli, cutukattuppu, kakkai pu, kuppaivelai, milakayppuntu, nithyakalyani, nittiyakalyani, nitya kalyani, pillaiyarpu, pinari 2, pinari@, putakarappan, sudukattu mallikai, tulakkamallikai Telugu (1) - billaganneru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/fcffabfbf49f3a6174af1f06d3730dce
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/fcffabfbf49f3a6174af1f06d3730dce
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/fcffabfbf49f3a6174af1f06d3730dce
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/8f8b3bf29623526b943200b3d53f7464
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d9f8e9bebdec421ee02eb5709bbca66/xclkon/fcffabfbf49f3a6174af1f06d3730dce
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rasna
+sanskrit_name: रास्ना
+transliteration: rāsnā
+image_urls: https://www.medicinalplants.in/slokaimages/95/95_1.jpg https://www.medicinalplants.in/slokaimages/95/95_2.jpg https://www.medicinalplants.in/slokaimages/95/95_3.jpg https://www.medicinalplants.in/slokaimages/95/95_4.jpg https://www.medicinalplants.in/slokaimages/95/95_5.jpg https://www.medicinalplants.in/slokaimages/95/95_6.jpg https://www.medicinalplants.in/slokaimages/95/95_7.jpg https://www.medicinalplants.in/slokaimages/95/95_8.jpg
+ocr_text: रास्ना युक्तरसा स्याच्छ्रेयस्या श्रेयसा रसा युक्ता सुवहा सुगन्धमूला रस्या सा गन्धनाकुली चे Il IAa mal Rasna, yuktarasa, sreyasa, sreyasi, yukta, suvaha, sugandhamula, rasya and gandhanakuli are its synonyms रास्ना युक्तरसा रस्या सुवहा रसाना रसा एलापर्णी च सुरसा सुगन्धा श्रोयसी तथा Il (Bpnl Rasna , yukta rasa, rasya, suvaha, rasna, rasa, elaparni, surasa, sugandha, sroyasi are its synonyms विशेषाद्वातरोगघ्नी तैलादिषु नियोजिता विषघ्नी श्वासकासघ्नी रास्ना हिक्कानिवारणी Il MMdnl Rasna specifically alleviates vataroga when used in the form of taila It also alleviates visha, svasa, kasa Inikka. and रास्नामपाचनी तिक्ता गुरूष्णा कफवातजित् शोफश्वाससमीरास्रवातशूलोदरापहा कासज्वरविषार्शावातिकामयहिध्महृत (Bpn) Rasna is tikta in rasa, guru in guna, usna in veerya, ama pacani, alleviates kapha ana vata, cures sopha , svasa, samira, asra vata, sula, udara, kasa jvara visa, sita vata and hidhma रास्ना गुरुश्च तिक्तोष्णा विषवातास्रकासजित् शोफकम्पोदरश्लेष्मशमन्यामस्य पाचनी Il IDhnl Rasna is tikta in rasa, guru in guna, usna in veerya, cures visha, vata, asra, kasa, sopha, kampa, udara, slesma and is ama pacana रास्ना तिक्ता गुरुश्चोष्णा पाचन्यामविनाशिनी वातरक्तं विषं श्वासं कासं विषमज्वरम |l शोफं हिक्कां चामवातं कफं शूलं विनाशयेत् ज्वरं कम्पं चोदरं च सर्वान् वातांश्च नाशयेत Il (Sgnl Rasna is tikta in rasa, guru in guna usna in veerya, pacana, aestroys ama cures vatarakta, visa , svasa, kasa, visamajvara, sopha, hikka , amavata kapha, sula, jvara, kampa, uaara and sarva vata रास्ना तिक्ता गुरूष्णामपाचनी कफपित्तहा निहन्ति शोफवातास्रश्वासकासविषज्वरान १ हिध्माशीतामवाताढ्या वातशूलोदरणि च (Kdn) Rasna is Tikta in rasa, guru in Guna, Usna in Potency Ama pacani, Kapha Pitta hara, cures Sopha, Vata asra, Svasa, Kasa, Visha, Hidhma, Sita vata, Ama vata, Vata adhya, Vata sula and Udara रास्नोष्णा वातशोफामवातवातामयान् जयेत् ISdn) Rasna is Usna in Potency, Vata sopha Amavata hara.

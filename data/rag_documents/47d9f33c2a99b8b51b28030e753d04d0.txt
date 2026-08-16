@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 47d9f33c2a99b8b51b28030e753d04d0
+Botanical Name: Sida cordata (BURM.F.) BOISS.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sida humilis CAV.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 46 Vernacular names found in 7 languages. Hindi (12) - adio bal, andiobal, bananiyar, bariara, bhiunli, bhiyli, bhyunli, gangeran, gulsakari, janglimethi, kharenti, khareti Kannada (4) - bekkina thale gida, bekkinathale gida, bikkanatalegida, kadumenthya Malayalam (5) - kattaventiyam, kuruntotti, mayirmanikkam, nela-vaga, vallikkuruntotti Marathi (4) - bhichikna, bhoybal, bhumy-petari, tupkati Sanskrit (2) - Sanskrit Comments  bhumibala, nagabala Tamil (9) - arivalmanaippundu, koraippaci, kurunthotti, mayirmanikkam, nila thuthi, palam-pasi, palampaci 3, palampasi, velippaci Telugu (10) - chinnamuttamu, chinnamuttavapulagamu, gaayapu aaku, gayapaku, gayapuvaku, mayilumnikyam, muttavapulagamu, telnallabenda, tirinelabenda, tirunala benda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/37e33f08cf23510b3b7b4473926666e9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/37e33f08cf23510b3b7b4473926666e9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/37e33f08cf23510b3b7b4473926666e9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47d9f33c2a99b8b51b28030e753d04d0/xclkon/9c6177f2f60b2904e11a8cd2266f55ba
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

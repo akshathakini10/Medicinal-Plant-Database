@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ed43dbfd597a20d586af076f4be9766c
+Botanical Name: Cassytha filiformis L.
+Family: Cassythaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 112 Vernacular names found in 7 languages. Hindi (1) - amarbeli Kannada (13) - aakaasha balli, aakasha balli, akasaballi, akashaballi, amaraballi, beelu balli, beeluballi, beluballi, daarada balli, haadaragithi balli, janivaara balli, mangana udidaara, mudeludantiburu Malayalam (5) - acatagabulli, acatsja-valli, acatsjavalli, aiyapala, akashavalli Marathi (2) - amarbaela, amarvela Sanskrit (7) - Sanskrit Comments  akasavalli, akasavela, akashavalli, akasvalli, amaravela, amrtavalli, khavalli Tamil (68) - akacavalli, akaya valli, alarntapu, amaravallari, amaravalli, ammaiyarkoonthal, anantai 6, ananti@, anantikkoti, aral, calantirati, canaki, cankutam, cavuttumananci, curai, cure, emanatanki, erumaikkorran, erumaikkottan, inci, incikakkoti, indiravalli, intiravalli, irumpacceti, itumpakakkoti, itumpakam, karukkutaiyalmuli, karulananki, kodikkottan, korran, kothan, koththan, kotikkorran, kottan, kottankoti, kunacali, mativalli, mulacci, nalil, nandei, nantai, nattai, nattai 2, nelil, nelilkoti, nimtecan, notiyatipputu, nuli, nulikkoti, ovaiyarkoonthal, pachungottan, pacunkorran, pacunkottan, tirkki, tudakkarupan, tumbi, tumpi 4, tumpu, tumpukkoti, tutakkaruppan, utaiyavalitam, vacaki, vancimalikkoti, vancimalitali, vinmativalli, viranakkopini, visnupari, viti Telugu (16) - antaravallitige, antharavallithige, nooluthige, nulutega, paachithige, pachatige, pachitiga, pachitige, pacitige, paunchtiga, punchatige, seethammaavaari jadaalu, seethammapogunoolu, seethammavaarupogulu, sitammapogunulu, sitammavarupogulu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed43dbfd597a20d586af076f4be9766c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 475
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/475.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed43dbfd597a20d586af076f4be9766c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed43dbfd597a20d586af076f4be9766c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ed43dbfd597a20d586af076f4be9766c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Akasavalli
+sanskrit_name: आकाशवल्ली
+transliteration: ākāśavallī
+ref_drug_name: आकाशवल्ली
+status: Most probable
+discussion: Akasavalli is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Khavalli
+sanskrit_name: खवल्ली
+transliteration: khavallī
+ref_drug_name: खवल्ली
+status: Controversial
+discussion: Has been mentioned in nighantus; Widely known by the name 'Akasavalli'; Two species are used as 'Khavalli' and this is one among them
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

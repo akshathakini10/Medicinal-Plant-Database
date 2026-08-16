@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ea03e67c2e041fc9355de92648fdba82
+Botanical Name: Bergia suffruticosa (DEL.) FENZL.
+Family: Elatinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Bergia odorata EDGEW.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 1 languages. Hindi (6) - kankairo, kankario, karbuji, kharbuji, rohan, rowan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea03e67c2e041fc9355de92648fdba82
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea03e67c2e041fc9355de92648fdba82/xclkon/a37f7f526ba8a415e6ae3a6ceb010b0b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea03e67c2e041fc9355de92648fdba82
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e31dcff0e6077e95eb1390645f6659d3
+Botanical Name: Scirpus grossus L. F.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Scirpus kysoor ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 7 languages. Hindi (3) - kasuru, keshur, kesur Marathi (2) - kasara, tamtacho-mundlyo Sanskrit (6) - Sanskrit Comments  gundakanda, kaseru, kaseruh, kaseruka, kasheruka, rajakaseruka Tamil (2) - gunda-tunga-gaddi, kuccimulikam Telugu (2) - gundatiga-gaddi, gundatungagaddi Tibetan (2) - sla ba, tsho byed Urdu (1) - kaseru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3/xclkon/df074826339e7529452cdb038c92810f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3/xclkon/df074826339e7529452cdb038c92810f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3/xclkon/df074826339e7529452cdb038c92810f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3/xclkon/df074826339e7529452cdb038c92810f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e31dcff0e6077e95eb1390645f6659d3/xclkon/df074826339e7529452cdb038c92810f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kaseru
+sanskrit_name: कसेरु
+transliteration: kaseru
+ref_drug_name: कसेरु
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Kaseruka
+sanskrit_name: कसेरुक
+transliteration: kaseruka
+ref_drug_name: कसेरुक
+status: AS 2
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Rajakaseruka
+sanskrit_name: राजकसेरुक
+transliteration: rājakaseruka
+ref_drug_name: राजकसेरुक
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kaseruka
+sanskrit_name: कसेरुक
+transliteration: kaseruka
+image_urls: https://www.medicinalplants.in/slokaimages/1461/1461_1.jpg https://www.medicinalplants.in/slokaimages/1461/1461_2.jpg https://www.medicinalplants.in/slokaimages/1461/1461_3.jpg
+ocr_text: कसेरुकद्वयं शीतं मधुरं तुवरं गुरु| पित्तशोणित दाहघ्नं नयनामयनाशनम्| | ग्रीहि शुक्रामयश्लेष्मरुचिस्तन्यकरं परम् IBpn ) Kaseruka dvaya is madhura, tuvara in rasa, guru, in Buna, sita in veerya, alleviates pitta and sonita cures daha, nayanamaya, is sukramaya slesma aruci stanya kara param Brahi कासेरुकः कषायोडल्पमधुरोडतिखरस्तथ | रक्तपित्तप्रशमनः शीतो दाहश्रमापहः Il IRjnl Kaseruka is kashaya, alpa madhuram in rasa, atikhara, raktapitta prasamana, sita, alleviates aaha ana srama गुरूविष्टभिशीतो च श्रृंगाटककसेरुको I (सुश्रुत, सू ४६, ३०४) Srngataka kaseruka is guru , vistambhi and sita

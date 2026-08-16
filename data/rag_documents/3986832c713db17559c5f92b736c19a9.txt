@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3986832c713db17559c5f92b736c19a9
+Botanical Name: Engelhardtia spicata LESCHEN E. BLUME
+Family: Juglandaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Engelhardtia roxburghiana WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 1 languages. Hindi (4) - gadh mauha, mahwa, samma, silapoma
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3986832c713db17559c5f92b736c19a9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3986832c713db17559c5f92b736c19a9/xclkon/bc33f646f2bf8ccbb94153a172ec320d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3986832c713db17559c5f92b736c19a9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

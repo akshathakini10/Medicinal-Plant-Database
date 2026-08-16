@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4b8971ad37a36d76bd795f7f98771219
+Botanical Name: Zosima orientalis HOFFM.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Zosima absinthifolia (VENT.) LINK
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b8971ad37a36d76bd795f7f98771219
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b8971ad37a36d76bd795f7f98771219/xclkon/31e4979bb1d0a0fb305a049e12f2a9ab
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4b8971ad37a36d76bd795f7f98771219
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ae7197e31ea6afabb40ff5f43b723a4d
+Botanical Name: Allophylus cobbe (L.) RAEUSCH.
+Family: Sapindaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 5 languages. Kannada (11) - aeravaala, ervaala, kasaballi, moorele bende, mukkaabara, sidisaale, sidisale, siduguli, sirusale, sirusalle, thogaratthi Malayalam (4) - molago-maram, mukannanperu, mukkannamperu, mukkannanpezhu Marathi (2) - theepani, thivana Tamil (2) - perrakudikai, sirusalle Telugu (24) - aeravaalu, cevitibukka, challikukudu, eravalu, erra avalu, guaguti, guvva gutti, guvvagutti, juttika, paladondathivva, paladondativva, salikukudu, salli kunkudu, sallikukuti, sallikunkudu, savitibukka, tangutaru, taualikoe, tauatikee, tavaeikit, tavutiki, thangutam, thantisa, thavathiki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae7197e31ea6afabb40ff5f43b723a4d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ae7197e31ea6afabb40ff5f43b723a4d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

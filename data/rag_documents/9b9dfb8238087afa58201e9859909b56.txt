@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9b9dfb8238087afa58201e9859909b56
+Botanical Name: Trifolium pratense L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 2 languages. English (7) - beebread, cow clover, meadow clover, purple clover, red clover, red or purple clover, trefoil Hindi (3) - kuth, mithla, trepartra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b9dfb8238087afa58201e9859909b56
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b9dfb8238087afa58201e9859909b56
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b9dfb8238087afa58201e9859909b56
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

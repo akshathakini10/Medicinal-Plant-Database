@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 21c00fe82db738aa6348ba257cd281e0
+Botanical Name: Evolvulus alsinoides L.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 88 Vernacular names found in 10 languages. English (1) - english speedwheel Hindi (9) - phooli, sankhpushpi, sankhpuspi, shankapushpi, shankaveli, shnkhahuli, shyamakranta, syamakranta, visnukranta Kannada (4) - shankhapushpi, vishnukarandi, vishnukranti, visnukranti Malayalam (7) - krsnakranti, vishnukarandi, vishnukranthi, vishnukranti, visnuklanti, visnukranti, vistnu-clandi Marathi (5) - samkvel, shankavall, shankhavalli, vishnukanta, vishnukrantha Sanskrit (10) - Sanskrit Comments  laghuvishnukranta, nilapushpi, nilasankhapuspi, sankhapuspi, shankhapushpi, vaishnava, vishnugandhi, vishnukranta, vishnukranti, visnukranta Tamil (40) - aparaci, aparacitam, arikanti, arikkanti, arptom, cakkaratapacceti, cakkaratapam, cankuputpi, cotiyoli, iratai2, kakarantam, kannutaimuli, kanti4, kerutapati, mayavanvintu, paracitam, potakiranti, potakiranticceti, puranacuranacini, villakkiranti, vintu 4, virucaka, virucakakkaranataicceti, vishnu kanthi, vishnu kiranthi, vishnu-kranthi, vishnukarandi, vishnukaranthai, vishnukirantei, vishnukranthi, vishnukranti, visnukirandi, visnukiranti, visnukkiranti, visnukkiranti#, vittunu kiraanthi, vittunukanti, vittunukiranti 2, vittunukkiranti, vittunumuli Telugu (9) - erra vishnukaraantha, nalla vishnukaraantha, vishnukarandi, vishnukraantha, vishnukraathamu, vishnukranta, vishnukrantha, vishnukranti, visnukrantamu Tibetan (2) - kha lsa pus syi (d), sa nkha pu spa Urdu (1) - sankhaholi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21c00fe82db738aa6348ba257cd281e0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 949
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/949.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21c00fe82db738aa6348ba257cd281e0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21c00fe82db738aa6348ba257cd281e0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21c00fe82db738aa6348ba257cd281e0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21c00fe82db738aa6348ba257cd281e0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21c00fe82db738aa6348ba257cd281e0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Visnukranta
+sanskrit_name: विष्णुक्रान्ता
+transliteration: viṣṇukrāntā
+ref_drug_name: विष्णुक्रान्ता
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

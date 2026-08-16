@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 568de93ec016020b4d23423056fc0759
+Botanical Name: Tamarix dioica ROB. E. ROTH
+Family: Tamaricaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 5 languages. Hindi (5) - jau, jhau, jhsu, lal-jhau, laljhau Sanskrit (2) - Sanskrit Comments  jhavuka, pisula Tamil (4) - arrumari, arruppuccevakam, attumari, nirumari Telugu (3) - palivela, palligi, penpa Urdu (2) - chobgaz, jhao ki lakriyan
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/568de93ec016020b4d23423056fc0759
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/568de93ec016020b4d23423056fc0759
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/568de93ec016020b4d23423056fc0759
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/568de93ec016020b4d23423056fc0759
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/568de93ec016020b4d23423056fc0759
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jhavuka - prajati
+sanskrit_name: झवूक प्रजाति
+transliteration: jhavūka prajāti
+ref_drug_name: झवूक प्रजाति
+status: Accepted source
+discussion: This is a variety of T.troupii identified as Jhavuka
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

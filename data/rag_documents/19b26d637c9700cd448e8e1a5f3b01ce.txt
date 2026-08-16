@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 19b26d637c9700cd448e8e1a5f3b01ce
+Botanical Name: Argyreia setosa (ROB.) CHOISY
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Lettsomia setosa ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 4 languages. Marathi (2) - bhaisvel, masbel Sanskrit (1) - Sanskrit Comments  vrddhadaruka Tamil (8) - irecakakkoti, kalutaikkarikam 2, mutippu 2, unan, unankoti 2#, unankoti 2@, unnayangodi, unnayankoti 2 Telugu (2) - maya tige, verriboddi-tige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19b26d637c9700cd448e8e1a5f3b01ce/xclkon/835397b5a119b56d9c405df9d8c12e5c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19b26d637c9700cd448e8e1a5f3b01ce
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19b26d637c9700cd448e8e1a5f3b01ce/xclkon/835397b5a119b56d9c405df9d8c12e5c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19b26d637c9700cd448e8e1a5f3b01ce
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/19b26d637c9700cd448e8e1a5f3b01ce/xclkon/835397b5a119b56d9c405df9d8c12e5c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vidari
+sanskrit_name: विदारी
+transliteration: vidārī
+image_urls: https://www.medicinalplants.in/slokaimages/1367/1367_1.jpg https://www.medicinalplants.in/slokaimages/1367/1367_2.jpg https://www.medicinalplants.in/slokaimages/1367/1367_3.jpg https://www.medicinalplants.in/slokaimages/1367/1367_4.jpg https://www.medicinalplants.in/slokaimages/1367/1367_5.jpg https://www.medicinalplants.in/slokaimages/1367/1367_6.jpg https://www.medicinalplants.in/slokaimages/1367/1367_7.jpg https://www.medicinalplants.in/slokaimages/1367/1367_8.jpg
+ocr_text: अन्या क्षीरविदारी स्यादिक्षुकन्देक्षुवल्यपि क्षीरवल्ली क्षीरकन्दा क्षीरशुक्ला पयस्विनी Il (Mdn) Anya ksiravidari is Iksukanda, Iksuvalli, Ksiravalli, Ksirakanda, ksirasukla Payasvini. अन्या क्षीरविदारी स्यादिक्षुगनेक्षुवल्लरी इक्षुवल्ली क्षीरकन्दः क्षीरवल्ली पयस्विनी क्षीरशुक्ला क्षीरलता पयःकन्दा पयोलता पयोविदारिका चेति विज्ञेया द्वादशाह्वया (Rjn) Ksira vidari is called as Iksugandha, Iksuvalli, Ksirakanda, Ksiravalli , payasvini, Ksirasukla , ksiralata, Payahkanda, Payolata, Payovidarika. अन्या शुक्ला क्षीरशुक्ला क्षीरकन्दा पयस्विनी | क्षीरवल्लीक्षुकन्देक्षुवल्ली क्षीरविदारिका II शुक्लकन्दा महाश्वेतेक्षुगनिका IKdn) Anya is Sukla , Ksirasukia, Ksirakanda, Payasvini, Ksiravalli, Iksukanda, Iksuvalli, Ksiraviaarika, Iksuparni, Suklakanda, Mahasveta, Iksugandhika. इक्षुपर्णी क्षीरविदारिका बल्या वातापित्तहरा च सा मुाुरा बृंहणी वृष्या शीतस्पर्शाडतिमूत्रला II स्तन्यदोषस्य हरणी पित्तशूलनिषूदनी IDhn ) Ksiravidarika is Balya, Vatapitta hara, Madhura in rasa, Brmhani, Vrshya, Sita, Asparsa, Atimutrala, Stanya dosha haram, Pitta sula nishudani. ज्ञेया क्षीरविदारी च माुराम्ला कषायिका तिक्ता च पित्तशूलघ्नी मूत्रमेहामयापहा JRini Ksira vidari is Maahura, Amla in rasa, Kashayika, Tikta in Rasa, Pitta- Sulaghna, Mutra-Meha amaya hara. पयस्या कुसुमं वृष्यं मुाुरं रसपाकयोः पित्तघ्नं शीतवीर्यं च वातश्लेष्मकरं गुरुः IlKdn) Payasya Kusumam is Vrshya, Madhura, in Rasa ana Paka is Pittaghna, Sita in Virya, Vata Slesma kara ana is Guru. प्रोक्ता क्षीरविदारी तु माुराम्लकषायका वृष्या च शुक्लजननी पुष्टिदुगप्रदा कटुः Ksiraviaari is Madhura, Amla, Kashaya in Rasa, Vrshya, Suklajanani, Pustiaugdha prada ana Katu. रसायनी च वल्या च शीता मूत्रकफप्रदा स्निगा वर्ण्या गुरुः स्वर्या पित्तरुग्रक्तदोषहा पित्तशूलहरा वातादाहजिन्मूत्रमेहजित् ज्ञेया कन्दगुणा ह्यंस्याः सदृशा वल्लिवद्गुणैः Il INir) Vidari is Rasayani, Balya , Sita in Potency , Mutra Kapha praaa, Snigdha Varnya, Guru in Guna, Svarya , Pitt vikara rakta dosha hara, Pitta sula hara, Vata daha Mutra Meha hara. Valli guna is also similar to the guna of Kanda
+
+Shloka Record 2
+drug_name: Vrddhadaruka
+sanskrit_name: वृध्ददारुक
+transliteration: vṛdhdadāruka
+image_urls: https://www.medicinalplants.in/slokaimages/158/158_1.jpg https://www.medicinalplants.in/slokaimages/158/158_2.jpg https://www.medicinalplants.in/slokaimages/158/158_3.jpg https://www.medicinalplants.in/slokaimages/158/158_4.jpg https://www.medicinalplants.in/slokaimages/158/158_5.jpg
+ocr_text: वृद्धदारुः कटुस्तिक्तः तथोष्णः कफवातजित् | श्वयथुकृमिमेहास्रवातोदरहरः परः| | IDhn) Vraahadaru katu, tikta in rasa, usna in veerza, alleviates kapha ana vata cures svayathu, krmi, meha, asra ana vatodara. द्वदारुद्वयं गौल्यं पिच्छिलं कफवातहृत् कासामदोषघ्नं द्वितीयं स्वल्पवीर्यदम् (Rjnl Vradhadaru dvaya is gaulya, picchila in guna, balya, alleviates kapha ana vata, cures kasa and amadosha. Second variety is of svalpa veerya. रसायनो वृद्धदारुः शोथवातामवातजित् कासश्वासज्वरहरो बल्यः पिच्छिल एव च| | (Bpn) Vraahadaru is picchila in guna, balya, rasayana, alleviates sotha, vata, amavata, kasa, svasa and jvara. वृद्धदारुः कटुस्तिक्तकषायोष्णो रसायनः | (Kdn) Vradhadaru is katu, tikta, kashaya in rasa, usna in veerya and rasayana. कषायतिक्तः कटुको रसायनः सरोडनिलाशः कफशोफमेहहा बलाग्निशुक्रस्वरकान्तिकारकः प्रियो न केषामिह वृद्धदारुकः| | (सि.भे.म) Wradhadaru is kashaya, tikta in rasa, sara guna , usna in veerza rasayana, bala, agni, sukra, svara, kanti kara, alleviates vata, increases kapha, inauces sopha and meha

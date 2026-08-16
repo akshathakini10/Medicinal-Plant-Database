@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 397935253aeae41262bd8ea379f8bf46
+Botanical Name: Lepidium iberis POLL .
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  svetatodari Urdu (12) - araq-e-saman, aroliman, aroosahan, dareena, jaara, labsaan, maar daraqath, matjaara, qadooma, tadari, todaranj, todari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397935253aeae41262bd8ea379f8bf46
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397935253aeae41262bd8ea379f8bf46
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/397935253aeae41262bd8ea379f8bf46
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Todari
+sanskrit_name: तोदरी
+transliteration: todarī
+ref_drug_name: तोदरी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Todari - prakara
+sanskrit_name: तोदरी प्रकार
+transliteration: todarī prakāra
+ref_drug_name: तोदरी प्रकार
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

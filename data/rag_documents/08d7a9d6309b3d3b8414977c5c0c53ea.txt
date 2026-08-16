@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 08d7a9d6309b3d3b8414977c5c0c53ea
+Botanical Name: Syzygium malaccense (L.) MERR. & MERR. & PERRY
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Eugenia malaccensis BLANCO
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 6 languages. English (5) - malay apple, ohia, otaheite apple, pomerac, rose apple Kannada (5) - jambunerolu, kempu jambu nerale, kempuhuli, kempujambunerale, kempujambuneralu Malayalam (5) - nati-schambu, natischambu, nattujambu, nattujambulu, samba Marathi (1) - malkacho-jam Tamil (6) - campumalakka, campumalakkamaram, curapipattirai1, jampu naval, kakacampu, malakkanaval Telugu (2) - allaneredu, alloneredu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d7a9d6309b3d3b8414977c5c0c53ea
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d7a9d6309b3d3b8414977c5c0c53ea/xclkon/dc6ceeaaccb2f54554957f3e075fdf51
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d7a9d6309b3d3b8414977c5c0c53ea
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d7a9d6309b3d3b8414977c5c0c53ea/xclkon/dc6ceeaaccb2f54554957f3e075fdf51
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08d7a9d6309b3d3b8414977c5c0c53ea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

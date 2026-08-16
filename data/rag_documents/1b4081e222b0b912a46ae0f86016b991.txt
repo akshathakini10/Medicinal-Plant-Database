@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1b4081e222b0b912a46ae0f86016b991
+Botanical Name: Pterospermum acerifolium WILLD.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 6 languages. Hindi (8) - kanak champa, kanaka-champa, kanakchampa, kaniar, kathachampa, latar chamba, later chamba, muchkund Kannada (5) - kanaka champaka, kanakacampaka, kanakachampa, kanakachampaka, rajataru Marathi (2) - kanak-champo, karnikar Sanskrit (7) - Sanskrit Comments  karnikara, karnikarah, ksatravrksa, mucakunda, mushukunda, padapotpala, parivyadha Tamil (6) - karenu, matsakanda, thadayamaram, turumotpalam, vennangu, vennanku Telugu (2) - mathsyakanda, matsakanda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1b4081e222b0b912a46ae0f86016b991
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Mucakunda
+sanskrit_name: मुचकुन्द
+transliteration: mucakunda
+ref_drug_name: मुचकुन्द
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Mucakunda
+sanskrit_name: मुचकुन्द
+transliteration: mucakunda
+ref_drug_name: मुचकुन्द
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

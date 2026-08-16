@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a6a660549ff44fbf602ec9988cc9d8a4
+Botanical Name: Abelmoschus ficulneus (L.) WIGHT & ARN.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hibiscus ficulneus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 5 languages. Hindi (2) - janil-bhendi, ranbhendi Marathi (2) - jangil-bhendi, ranbhendi Sanskrit (1) - Sanskrit Comments  tindisa Tamil (5) - karumancarikam, kattu ventai, kattu-vendai, kattuventai, kattuventicceti Telugu (2) - nelabenda, parupubenda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6a660549ff44fbf602ec9988cc9d8a4/xclkon/70a40de72433a2b1024d5e94e9f2ae06
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 5
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/5.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6a660549ff44fbf602ec9988cc9d8a4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6a660549ff44fbf602ec9988cc9d8a4/xclkon/70a40de72433a2b1024d5e94e9f2ae06
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6a660549ff44fbf602ec9988cc9d8a4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6a660549ff44fbf602ec9988cc9d8a4/xclkon/70a40de72433a2b1024d5e94e9f2ae06
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6a660549ff44fbf602ec9988cc9d8a4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a6a660549ff44fbf602ec9988cc9d8a4/xclkon/70a40de72433a2b1024d5e94e9f2ae06
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

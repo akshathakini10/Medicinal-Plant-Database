@@ -1,0 +1,73 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cf287e196320e52c1b7acb05d65234fb
+Botanical Name: Agaricus campestris L. E FR.
+Family: Agaricaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Psalliota campestris L FR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 54 Vernacular names found in 8 languages. Hindi (7) - chhata, chhatona, kumbi, kumi, phenchhatar, sampakichatri, sanpakichhatri Kannada (2) - anabe, naayi kode Malayalam (1) - kun Marathi (3) - alambi, bhuiphoda, satri Sanskrit (18) - Sanskrit Comments  bhuchatra, bhuchhatra, bhukandah, bhumichhanna, bhumichhattra, bhumisphota, bhusuta, cchatraka, channa, chatrakah, chattrak, chhatra, dharankusa, kavacha, prithavikanda, sansvedajashaka, shilinghraka, uchhilindhra Tamil (20) - amam 2, ampi, ampirakam, ampiram, aticattirakam, aticcattirakam, aticcattirakapputu, aticcattiram, kaalan, kakkalatitam, kalan, karakam, naikkodai, naikkotai, naykkutai, naykkutaik kalan, pumikantakam, purrirpu, tirakalatikam, tirakalatitam Telugu (2) - kukkagodugu, putta kokka Urdu (1) - kakamitha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb/xclkon/9e128fb42ad9422541bd6d305c23a2a8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb/xclkon/9e128fb42ad9422541bd6d305c23a2a8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb/xclkon/9e128fb42ad9422541bd6d305c23a2a8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb/xclkon/9e128fb42ad9422541bd6d305c23a2a8
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb/xclkon/9e128fb42ad9422541bd6d305c23a2a8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf287e196320e52c1b7acb05d65234fb/xclkon/9e128fb42ad9422541bd6d305c23a2a8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Chatraka
+sanskrit_name: छत्रक
+transliteration: chatraka
+ref_drug_name: छत्रक
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Chatraka
+sanskrit_name: छत्रक
+transliteration: chatraka
+ref_drug_name: छत्रक
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

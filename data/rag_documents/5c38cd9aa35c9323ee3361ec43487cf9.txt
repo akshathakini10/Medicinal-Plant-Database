@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5c38cd9aa35c9323ee3361ec43487cf9
+Botanical Name: Indigofera cassioides ROTTL. E DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Indigofera pulchella ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 22 Vernacular names found in 6 languages. Hindi (8) - kali kathi, kanthi, kathi, kathi mattu, kathie, neel, nil, saknya Kannada (3) - chennaata, gogge, goggi Malayalam (1) - manali Marathi (3) - baroli, chimanati, nerdi Tamil (1) - narinci Telugu (6) - boga, chili, karkandi, siralli, sirli, vuyye
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c38cd9aa35c9323ee3361ec43487cf9/xclkon/5ddb432a67cd02188a5b1805ab054580
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c38cd9aa35c9323ee3361ec43487cf9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5c38cd9aa35c9323ee3361ec43487cf9/xclkon/5ddb432a67cd02188a5b1805ab054580
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

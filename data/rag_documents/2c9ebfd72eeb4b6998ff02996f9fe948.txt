@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2c9ebfd72eeb4b6998ff02996f9fe948
+Botanical Name: Gomphrena globosa L.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 6 languages. English (1) - globe amaranth Kannada (9) - adake hoo gida, adike hoo, bilirudraakshi hoo, kaashigonde, kempu gonde, kempu gonge, mahaasahe, nelarudrakshi, rudrakshihoo Malayalam (1) - wadapu Marathi (3) - butamy, gomdo, jaapharee Tamil (15) - atiyomakacceti, atiyomakam, civappuvatamallikai, kalaimatakkannicceti, kanaiyakanni, kanaiyakannicceti, kurapakam@, makacaka, makacakai, makacukkam, vatamalli, vatamallikai, vatanakappu, vatanakappucceti, vatappu Telugu (4) - bandu malli, erra pagada banti, rudraakshi, thella pedda goranta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c9ebfd72eeb4b6998ff02996f9fe948
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c9ebfd72eeb4b6998ff02996f9fe948
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2c9ebfd72eeb4b6998ff02996f9fe948
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

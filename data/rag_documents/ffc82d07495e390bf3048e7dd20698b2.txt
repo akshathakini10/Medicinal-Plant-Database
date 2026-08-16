@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ffc82d07495e390bf3048e7dd20698b2
+Botanical Name: Vitex negundo L. var. purpurascens SIVARAJAN & MOLDENKE
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Malayalam (2) - karinocci, nocci Sanskrit (1) - Sanskrit Comments  nirgundi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffc82d07495e390bf3048e7dd20698b2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffc82d07495e390bf3048e7dd20698b2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nirgundi
+sanskrit_name: निर्गुण्डी
+transliteration: nirguṇḍī
+image_urls: https://www.medicinalplants.in/slokaimages/1712/1712_1.jpg https://www.medicinalplants.in/slokaimages/1712/1712_2.jpg https://www.medicinalplants.in/slokaimages/1712/1712_3.jpg https://www.medicinalplants.in/slokaimages/1712/1712_4.jpg
+ocr_text: निर्गुण्डी कटुतिक्तोष्णा कृमिकुष्ठरुजापहा वातश्लेष्मप्रशमनी प्लीहगुल्मारुचीर्जयेत्| | (Dhn) Nirgundi is katu, tikta in rasa usna in veerya, pacifies vata ana slesma cures krmi, kustha, ruja, pliha, ana aruci. gulma सिन्दुवारः कटुस्तिक्तः कफवातक्षयापहः कुष्ठकण्डूतशमनः शूलहृत् काससिद्धिदः | | श्लेष्मशोफसमीरार्त्तिप्रदराध्मानहारिणी IRjn) Sinduvara is katu, tikta in rasa, alleviates kapha, vata, kustha, Kandu, sula, kasa, slesma, sopha, samira, arti, pradara, adhmana and anaha Ksaya, सिन्दुकः स्मृतिदस्तिक्तः कषायः कटुको लघुः | केश्यो नेत्रहितो हन्ति शूलशोथाममारुतान्|| कृमिकुष्ठारुचिश्लेष्मज्वरान् नीलाडपि तद्धिधा | सिन्दुवारदलं जन्तुवातश्लेष्महरं लघु| | (Bpnl Sinduka is tikta , kashaya , katu in rasa, laghu in guna, kesya, netra hita, cures sula sotha maruta krmi kustha aruci and slesma jvara. It is of two types the other one is sinduvaradala, which is laghu in guna, alleviates jantu, vata and slesma and सिन्धुवारं (पुष्पं) विजानीयात् हिमं पित्तविनाशनम्| (सुसू ४६ Sinduvara is hima in veerya destroys pitta and

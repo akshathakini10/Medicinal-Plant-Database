@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cf53da16c116eac5da081db0e481896b
+Botanical Name: Carissa spinarum L.
+Family: Apocynaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 67 Vernacular names found in 6 languages. Hindi (7) - garna, karauda, karaunda, karonada, karounda, kashmal, kharn Kannada (15) - chikka kaavali, chikka kalavi, chikka kavili, chikka-kavili, chikkakavali, chikkakavili, chikkalla, cikkakavali, garji, karande, karice, kavali, naayi kalame gida, naayi kalavi, naayi kavali Marathi (4) - jangli-tondi, karanda, karvand, karwand Sanskrit (3) - Sanskrit Comments  karamadika, karamardika, karoundi Tamil (24) - chiru, chiru kila, chirukila, cinnakala, cinnatti, cinnattikam, cinnattikamaram, ciru kala, cirukala, cirukalaver, cirunavvukicceti, kalarikamaram, kalavuni, kalavunimaram, karampai, karampari, karamparicceti, narikkala, sirukazha, sirukila, tirakkaravanci, tirakkaravancimaram, vattakkila, vattakkilacceti Telugu (14) - channakalavi, kale, kale kaaya, kalimi, kalive, kalivi, kalli, vaaka kaaya, vaka, waakoyloo, waka, wakirlu, wakoilu, wyaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf53da16c116eac5da081db0e481896b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf53da16c116eac5da081db0e481896b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf53da16c116eac5da081db0e481896b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cf53da16c116eac5da081db0e481896b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karamarda - jati
+sanskrit_name: करमर्द जाति
+transliteration: karamarda jāti
+ref_drug_name: करमर्द जाति
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 2
+drug_name: Karamarda - jati
+sanskrit_name: करमर्द जाति
+transliteration: karamarda jāti
+ref_drug_name: करमर्दिका
+status: Accepted source
+discussion: Identified with it; This is the wild variety of Karamarda
+reference: [1]
+
+Identity Record 3
+drug_name: Karamardika
+sanskrit_name: करमर्दिका
+transliteration: karamardikā
+ref_drug_name: करमर्द जाति
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 4
+drug_name: Karamardika
+sanskrit_name: करमर्दिका
+transliteration: karamardikā
+ref_drug_name: करमर्दिका
+status: Accepted source
+discussion: Identified with it; This is the wild variety of Karamarda
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

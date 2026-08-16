@@ -1,0 +1,68 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8562d20fe43df853f2084537e894be46
+Botanical Name: Mentha spicata L.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Mentha cordifolia OPHIZ Mentha viridis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 6 languages. English (1) - spearmint Hindi (2) - pudeena, pudina Kannada (1) - bettada pudina Marathi (2) - ortelamy, pudina Sanskrit (3) - Sanskrit Comments  podinaka, putiha, rocani Telugu (2) - menthi, pudina
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46/xclkon/b546e19e471fddc2626aaa51619b0c4e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46/xclkon/afae11da6bd25cf63abb812f7ca10bbf
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46/xclkon/b546e19e471fddc2626aaa51619b0c4e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46/xclkon/afae11da6bd25cf63abb812f7ca10bbf
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46/xclkon/b546e19e471fddc2626aaa51619b0c4e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46/xclkon/afae11da6bd25cf63abb812f7ca10bbf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8562d20fe43df853f2084537e894be46/xclkon/b546e19e471fddc2626aaa51619b0c4e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Putiha
+sanskrit_name: पूतिहा
+transliteration: pūtihā
+ref_drug_name: पूतिहा
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Putiha
+sanskrit_name: पूतिहा
+transliteration: pūtihā
+image_urls: https://www.medicinalplants.in/slokaimages/1094/1094_1.jpg https://www.medicinalplants.in/slokaimages/1094/1094_2.jpg https://www.medicinalplants.in/slokaimages/1094/1094_3.jpg
+ocr_text: स्रंसनं कटुकं पाके लघु वातकफापहम् शोथघ्नमुष्णवीर्यं च पत्रं पूतिकरंजकज)म्| Putiha is laghu in guna, usna in veerya, katu in paka, sramsana, alleviates vata, kapha and sotha Patra is putikaranjaka | सुसू ४६ विरेचने प्रयोक्तव्यः पूतिकः [ Putina is used in virecana. | च.सू १ कुवेराक्षी यकुत्प्लीहवातघ्नी व्रणरोपणी | पूतिकरंजजं पत्रं लघु वातकफापहम्|| भेदनं कटुकं पाके वीर्योष्णं शोफनाशनम् शोढल नि Putiha is vrana ropani, alleviates yakrt plihavata Its patra is laghu in guna, usna in veerya, katu in paka, bhedana, alleviates vata, kapha ana destroys sopha

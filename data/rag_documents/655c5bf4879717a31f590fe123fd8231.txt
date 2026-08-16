@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 655c5bf4879717a31f590fe123fd8231
+Botanical Name: Zeuxine strateumatica (L.) SCHLECHTER
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Zeuxine sulcata LINDL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/655c5bf4879717a31f590fe123fd8231/xclkon/866b60be7a9d9ea163f9c11ad72ea9ea
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/655c5bf4879717a31f590fe123fd8231
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/655c5bf4879717a31f590fe123fd8231/xclkon/866b60be7a9d9ea163f9c11ad72ea9ea
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

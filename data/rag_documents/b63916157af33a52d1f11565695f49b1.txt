@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b63916157af33a52d1f11565695f49b1
+Botanical Name: Scirpus corymbosus HEYNE
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b63916157af33a52d1f11565695f49b1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b63916157af33a52d1f11565695f49b1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Krauncadana
+sanskrit_name: क्रौञ्चादन
+transliteration: krauñcādana
+ref_drug_name: क्रौञ्चादन
+status: Most probable
+discussion: May be identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 95da6e6fe7aaf7da9bc02cf54d016a88
+Botanical Name: Spilanthes calva WT.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 3 languages. Hindi (1) - nar-mundi Kannada (10) - baachanige balli, dodda vana mugali, hommugali, hommugali hoo, hommugali soppu, seeranige hambu, sheerange balli, sheeranige hambu, siranigehambu, vanthi balli Tamil (5) - aangaaravalli, angaravalli, nilamarandaikkodi, perunkurinca, siruattaankodi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95da6e6fe7aaf7da9bc02cf54d016a88
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95da6e6fe7aaf7da9bc02cf54d016a88
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95da6e6fe7aaf7da9bc02cf54d016a88
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

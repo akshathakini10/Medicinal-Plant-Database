@@ -1,0 +1,111 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 680b54af38ebb9a062b90efb81313fe5
+Botanical Name: Cymbopogon citratus (DC.) STAPF.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Andropogon citratus DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 99 Vernacular names found in 9 languages. English (3) - lemon grass, malabar oil, serai Hindi (9) - aghyaghas, aginghas, gandhatrana, gandhatranan, gandhatrina, gandhatrn, haree-chaha, rohisha, sugandh Kannada (10) - chaa hullu, gavare chacha, gouthi hullu, majjige hullu, majjige-hullu, majjige-hulu, majjigehullu, nimbe hullu, purhalihulla, purhalihullu Malayalam (7) - cennanampullu, chayapul, incippullu, shambharapulla, vasanappula, vasanappullu, vasanapullu Marathi (6) - gamjan, gavathichahaa, hirvacha, oil-cha, olancha, patichi cha Sanskrit (26) - Sanskrit Comments  abichhatraka, atigandha, badhira, badhiradhvanibodhana, bhustmah, bhustrina, bhutika, bhutina, chhatra, dhyamakam, gochhalaka sugandha, guchhala, guhyabija, gundardha, jambiratrna, jambukapriya, karenduka, kutimbaka, malatrinaka, punsvavighraha, putigandha, rohisha, samalambi, shringaroha, takratrani, usiram Tamil (30) - camparap-pal, camparappul, cukkunarippul 2, curumam, elumiccam pul, kantaketam, karpoora pul, karpoorpul, karppurappul, karpura pillu, karpura pullu, karpurap-pul, karpurappillu, karpurappul, karuppurappul, kavattampul 2, kuyyapicam, kuyyapitam, potaippul 1, tailappul, vacanai-p-pul, vacanaippul, vacanaippul 1, vasana pullu, vasanai pullu, vasanaipullu, vasanapillu, vasanappillu, vasanapulla, vashanup-pulla Telugu (7) - chippa gaddi, chippagaddi, nimma gaddi, nimmagaddi, vaasana gaddi, vasana gaddi, vasanagaddi Urdu (1) - izkhar makki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5/xclkon/f2571eaf8bf75f9787be3b10f605720d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5/xclkon/f2571eaf8bf75f9787be3b10f605720d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5/xclkon/f2571eaf8bf75f9787be3b10f605720d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5/xclkon/f2571eaf8bf75f9787be3b10f605720d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/680b54af38ebb9a062b90efb81313fe5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jambira
+sanskrit_name: जम्बीर
+transliteration: jambīra
+ref_drug_name: जम्बीर
+status: Controversial
+discussion: Needs to be examined as this species is not indigenous to India and is only cultivated in gardens
+reference: [1]
+
+Identity Record 2
+drug_name: Jambira
+sanskrit_name: जम्बीर
+transliteration: jambīra
+ref_drug_name: जम्बीर
+status: Most probable
+discussion: Considered as a possible source
+reference: [1]
+
+Identity Record 3
+drug_name: Jambira phala
+sanskrit_name: जम्बीरफल
+transliteration: jambīraphala
+ref_drug_name: जम्बीर
+status: Controversial
+discussion: Needs to be examined as this species is not indigenous to India and is only cultivated in gardens
+reference: [1]
+
+Identity Record 4
+drug_name: Jambira phala
+sanskrit_name: जम्बीरफल
+transliteration: jambīraphala
+ref_drug_name: जम्बीर
+status: Most probable
+discussion: Considered as a possible source
+reference: [1]
+
+Identity Record 5
+drug_name: Kattrna
+sanskrit_name: कट्तृण
+transliteration: kaṭtṛṇa
+ref_drug_name: कट्तृण
+status: Most probable
+discussion: It may be identified with this species
+reference: [1]
+
+Identity Record 6
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+ref_drug_name: रोहिष
+status: Most probable
+discussion: May be identified with it with regard to its aroma
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+image_urls: https://www.medicinalplants.in/slokaimages/550/550_1.jpg https://www.medicinalplants.in/slokaimages/550/550_2.jpg https://www.medicinalplants.in/slokaimages/550/550_3.jpg
+ocr_text: कत्तृणं श्वासकासघ्नं हृद्रोगशमनं परम् विसूच्यजीर्णशूलघ्नं कफपित्तास्रनाशनम् न (ज.नि) Kattrna alleviates svasa , kasa, visuci, ajirna, sula, best in pacifyng hrdroga, destroys kapha, pitta asra and कत्तृणा दशनामाढ्यं कटुतिक्तं कफापहम्| शस्त्रशल्यादिदोषघ्नं बालग्रहविनाशनम् | IRin) Kattrna is katu, tikta in rasa, dasanamdhya, alleviates kapha, sastra salyadi dosha and destroys bala Braha. रोहिषं तिक्तं कटुपाकं व्यपोहति | हृत्कण्ठव्याधिपित्तास्रशूलकासकफज्वरान् (Bpn) Rohisa is tuvara, tikta in rasa, katu in paka, alleviates hrt kantha vyadhi, pitta, asra, sula, kasa, kapha and jvara. तुवरं

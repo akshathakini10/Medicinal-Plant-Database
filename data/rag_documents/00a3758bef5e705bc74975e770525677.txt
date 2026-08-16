@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 00a3758bef5e705bc74975e770525677
+Botanical Name: Heliotropium subulatum HOCHST.
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Heliotropium zeylanicum HEYNE. E C.B. CLARKE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 40 Vernacular names found in 7 languages. Hindi (3) - boddi, chandkal, kali bui Kannada (15) - chandakala, chandakanne, chandkal, chandrakala, chandrike, chinthakanni, jaathi, jaji-yuppala, jatiyuppalige, kanchupranthi, kanchupranti, kanjupparanti, upaligi, uplige, uppalige Malayalam (3) - pattavanni, uppila, vatta Marathi (4) - chanda, chandoda, chandora, chandwar Sanskrit (2) - Sanskrit Comments  asana, bandhukapushpa Tamil (6) - vatta, vatta kunni, vatta-thamarei, vattikanni, vattikkanni, vattittutti Telugu (7) - alamanda, boddi, konda tamara, konda-japhara, kondajaphara, kondatamara, pulichinjalamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00a3758bef5e705bc74975e770525677/xclkon/8c9096fcb307fdb035a082f8facfc3b5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00a3758bef5e705bc74975e770525677
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00a3758bef5e705bc74975e770525677/xclkon/8c9096fcb307fdb035a082f8facfc3b5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00a3758bef5e705bc74975e770525677
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/00a3758bef5e705bc74975e770525677/xclkon/8c9096fcb307fdb035a082f8facfc3b5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

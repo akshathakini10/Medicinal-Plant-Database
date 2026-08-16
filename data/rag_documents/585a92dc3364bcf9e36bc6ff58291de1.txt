@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 585a92dc3364bcf9e36bc6ff58291de1
+Botanical Name: Urtica dioica L.
+Family: Urticaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 3 languages. English (5) - common nettle, nettle, stinger, stinging nettle, stinking nettle Hindi (8) - bichhu buti, bichhu-buti, bichu, bichu buti, kali, kandadli, kandali, kugas Sanskrit (1) - Sanskrit Comments  vrscikali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585a92dc3364bcf9e36bc6ff58291de1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2159
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2159.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585a92dc3364bcf9e36bc6ff58291de1
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/585a92dc3364bcf9e36bc6ff58291de1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vrscika
+sanskrit_name: वृश्चीक
+transliteration: vṛścīka
+ref_drug_name: वृश्चिकाली
+status: Suggested source (reg)
+discussion: Vrscikali' has been used in various conditions as mentioned in the Brhatrayis; There was a lot of confusion regarding the interpretation by Dalhana; He considered 3 drugs as 'Vrscikali'; Among them one is 'Vrsciyasaka' which is found on the road sides of Himalaya Pradesh popularly known as 'Bichua' or 'Bichubuti'; Its identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Vrscikali
+sanskrit_name: वृश्चिकाली
+transliteration: vṛścikālī
+ref_drug_name: वृश्चिकाली
+status: Suggested source (reg)
+discussion: Vrscikali' has been used in various conditions as mentioned in the Brhatrayis; There was a lot of confusion regarding the interpretation by Dalhana; He considered 3 drugs as 'Vrscikali'; Among them one is 'Vrsciyasaka' which is found on the road sides of Himalaya Pradesh popularly known as 'Bichua' or 'Bichubuti'; Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: eefb1d85143ce59c4ed159c03abdefb0
+Botanical Name: Eleusine coracana (L.) GAERTN.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cynosurus coracanus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 94 Vernacular names found in 9 languages. English (5) - coracan, finger millet, kurakkan, nagli, ragi Hindi (12) - lagli, maduo, makra, malicha, mandal, mandua, mandva, mandwa, marua, maruva, ragi, rotka Kannada (3) - ambali raagi, raagi, ragi Malayalam (6) - kora, muthari, muttari, puncappullu, ragi, tsjetti-pullu Marathi (4) - naachni, nachiri, nachni, nagli Sanskrit (19) - Sanskrit Comments  bahupatraka, bhuchara, guchha, kadhina, kanisha, krishna, lanchhana, madhulika, maliyasa, narttaka, narttakah, nrityakunda, nrtyakundaka, nrtyakundala, nrtyakundalah, ragi, raji, rajika, soma Tamil (30) - ariyam, iracikai, iracikam 2, iragi, iraki, irattaraci 2, kal varagu, kalumarikam, kapai, kayur, kel varaku, kelvaragu, kelvaraku, kelwaragoo, keppai, kevar, kevaru, kevu, kevura, kevuru, kezhvaragu, kulvaraku, kurakkan, kurukkan, naccini, nancini, pancantanki, ragi, raki, ukantavaraku Telugu (13) - chollu, cholu, peddaraagulu, ponassa, raagulu, ragi, ragulu, sodi, tamidalu, tamidelu, thamidalu, thamidelu, thaviddu Tibetan (2) - bras ma dhu li ga, bras ma du lun ga (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0/xclkon/9a3508342fe89c65923492376efeadb4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0/xclkon/9a3508342fe89c65923492376efeadb4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0/xclkon/9a3508342fe89c65923492376efeadb4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0/xclkon/9a3508342fe89c65923492376efeadb4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0/xclkon/9a3508342fe89c65923492376efeadb4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eefb1d85143ce59c4ed159c03abdefb0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Madhuli
+sanskrit_name: मधूली
+transliteration: madhūlī
+ref_drug_name: मधूलिका
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Madhuli
+sanskrit_name: मधूली
+transliteration: madhūlī
+ref_drug_name: मधूलिका
+status: Accepted source
+discussion: With regard to its properties it is considered as a type of 'Godhuma' and hence identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Madhulika
+sanskrit_name: मधूलिका
+transliteration: madhūlikā
+ref_drug_name: मधूलिका
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 4
+drug_name: Madhulika
+sanskrit_name: मधूलिका
+transliteration: madhūlikā
+ref_drug_name: मधूलिका
+status: Accepted source
+discussion: With regard to its properties it is considered as a type of 'Godhuma' and hence identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

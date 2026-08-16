@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f7483e2d8671cc116f6d1cc75dfaf48c
+Botanical Name: Strychnos potatorum L.
+Family: Loganiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 213 Vernacular names found in 9 languages. English (2) - clearing nut, kataka Hindi (3) - neimal, nelmal, nirmali Kannada (31) - anduga, andugu, calibija, chali, chali-mara, chalibija, chili beeja, chill, chilla, chillada, chillada beeja, chillada mara, chilladamara, chillathumara, chille kaayi, chilli, chilli-bija, chillu, chithada mara, chittadamara, chitthu mara, chitthubeeja, chittu, chittubija, cilla, cilledabija, cilliya, cilu, cittubija, kataka, nulmeiro Malayalam (20) - katakam, tattamaram, terra, terramparal, terramparalkanniram, tetan, tetan-kottai, tetran-kotta, tetran-parala, tetta, tettamaram, tettamparal, tettamparalkaniram, tettamparel, tettankottai, tettaparel, tettian, thetham, thettamparel, thettanparilkanjiram Marathi (8) - chilbeej, chilbing, chilhaara, chilhara, gajara, nirmali, nirwali, niwalee Sanskrit (32) - Sanskrit Comments  ambu-prasada, ambuprasad, ambuprasadah, ambuprasadana, ambuprasadanaphala, ambuprasadani, caksusya, chakshushya, chhedaniya, guchhaphala, jalada, kata, kataka, katakah, katakam, katakaphalam, katakarenu, katakatphalam, kattha, khataka, lekhanatmaka, netraprasada, nirmali, payaprasadi, ruchishya, ruchya, rushya, shlakshna, shodanatmaka, tiktamaricha, tiktaphala, toyaprasadana Tamil (92) - acolam, akkolam, ampuppiracatanam, antecalakamaram, antecalam, antecatikam, antecatim, centanamurai, cillaki, cillakimaram, cillam, cillitam, cillitamaram, citakarenu, derran, il, ilalam, ilavam2, ilavu1, illakamaram, illam, illi1, iruppukkolam, iruppukkolamaram, kadali, kantakanam, kapanacani3, katakam, katakam#, katali1, katalikam, katampari, katamparimaram, ketiyamavitai, kuccapalam2, kumakiyam, kumakiyamaram, nantai1, navatankanam, nettirarokakkini, nirmalipavanam, nirttauvi, porithetha, punniyacatti, sillam, talaimukarantalan, tannircerverakki, tannirtterri, tantaputpam, tatakamentini, tatikamamaram, tattamaram, tattan-kottai, tayilavrippiracatanam, terra, terramaram, terran, terran kottai, terran pattai, terrankottai, terranmaram, teru, teruti, terutimaram, tetan-kottai, tetran-kottai, tetta, tettamaram, tettan, tettan cottay, tettankottai, tettian, tettiyan, tettram, thertan, thethankottai, thetran vithai, thetrankottai, thettan, thettrankottai, tipantirusanamekam, tiravanam, titikama, tittamaricam, toyappiracatanam, utakacutti, utalnirmurittan, varippiracatani, variyakaracatan, vaucali, vaucalikkottai, yillavamaram Telugu (24) - andug, andugu, chella, chidla, chilla, chilla chettu, chilla-ginjalu, chillachettu, chillar, cilla, cillacettu, induga, indugu, indugu chettu, indupa, indupacettu, indupu, indupu chettu, induva, katakamu, kathakamu, kattakami-chettu, shilla, tsillaghenjaloo Tibetan (1) - ka ta ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1996
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1996.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f7483e2d8671cc116f6d1cc75dfaf48c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kataka
+sanskrit_name: कतक
+transliteration: kataka
+ref_drug_name: कतक
+status: AS
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Kataka
+sanskrit_name: कतक
+transliteration: kataka
+ref_drug_name: कतक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kataka
+sanskrit_name: कतक
+transliteration: kataka
+image_urls: https://www.medicinalplants.in/slokaimages/1541/1541_1.jpg https://www.medicinalplants.in/slokaimages/1541/1541_2.jpg https://www.medicinalplants.in/slokaimages/1541/1541_3.jpg https://www.medicinalplants.in/slokaimages/1541/1541_4.jpg https://www.medicinalplants.in/slokaimages/1541/1541_5.jpg
+ocr_text: कतकं शीतलं प्राहुः तृष्णाविषविनाशनम् नित्रोत्थरोगवध्वंसि विधिनाउञ्जनयोगतः कतक्य फलं तिक्तं चक्षुर्ष्य पित्तलं मृदु वारिप्रसादनं कृच्छ्रशर्करामडश्मरीञ्जयेत् IDhn) Kataka is sitala, cures trsna, visha, netra roga and can be used as anjana. Its phala is tikta in rasa, mrdu, caksushya, increases pitta, is variprasaaana, cures mutrakrcchra, sarkara ana asmari. कतकः कटुतिक्तोष्णश्चक्षुष्यः क्रिमिदोषनुत्| रुचिकृच्छ्रलदोषघ्नो बीजमम्बुप्रसादनम् IRjn) Kataka is tikta in rasa, USna veerya, caksushya, ruci kara, doshaghna, cures krmi. Its bija is ambu prasadana (purifies waterl. katu , कतकस्य फलं नेत्र्यं जलनिर्मलताकरम् | वातश्लेष्महरं शीतं मधुरं तुवरं गुरु|| (Bpnl Katakasya phala is madhura, tuvara in rasa, guru in guna, sita in veerya, alleviates vata ana slesma, is netrya and jala nirmala kara. कतकस्य च मूलं तु सर्वकुष्ठहरं परम्| | (ब॰ नि॰ र०) Its mula is considerea the best to cure sarva kustha. कषायमधुरं शीतंडडशुदृिष्टप्रसादनम् | विकासि ह्लादनं स्निग्धं कनकं फलम् || (काश्यपसंहिता कल्पस्थान Kanaka phala is akshaya, madhura in rasa, snigaha in Buna, sita in veerya, drsti prasadana, vikasi ana hlaaana

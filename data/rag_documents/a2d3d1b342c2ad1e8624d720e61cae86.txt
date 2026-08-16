@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a2d3d1b342c2ad1e8624d720e61cae86
+Botanical Name: Pterygota alata R. BR.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sterculia alata ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 3 languages. Kannada (6) - bekaro, daddele, jaynkathala, kolu gida, kolugida, tattele mara Malayalam (8) - anathondi, anattonti, kodathani, pathondi, porila, porla, porutonti, potthondi Tamil (1) - kodaittondi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2d3d1b342c2ad1e8624d720e61cae86/xclkon/d22c73a7a691200971571f8defb5959c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2d3d1b342c2ad1e8624d720e61cae86
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2d3d1b342c2ad1e8624d720e61cae86/xclkon/d22c73a7a691200971571f8defb5959c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

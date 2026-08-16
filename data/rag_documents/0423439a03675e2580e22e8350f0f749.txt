@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0423439a03675e2580e22e8350f0f749
+Botanical Name: Cissus pallida (WIGHT & ARN.) PLANCHON
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Vitis pallida W. & A.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 2 languages. Kannada (10) - chakalli, kondage, kondagu, manda kumbala, mandaka balli, mandakumbale, marata, maratha, marda, marde Telugu (7) - budara theega, nalla teega, nallathige, nallatige, pedda gummudu, peddagummadi, peddagummadu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0423439a03675e2580e22e8350f0f749/xclkon/b9ab750de052725e127069f9770fae2f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0423439a03675e2580e22e8350f0f749
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0423439a03675e2580e22e8350f0f749/xclkon/b9ab750de052725e127069f9770fae2f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

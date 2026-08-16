@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f4f94984f63807963edf1f9876b1b1c9
+Botanical Name: Trigonella foenum-graecum L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 98 Vernacular names found in 9 languages. English (5) - bird s-foot, fenu-greek, fenugreek, greek hayseed, trigonella Hindi (4) - methi, meti, muthi, mutti Kannada (9) - mente, mentepalle, mentesoffu, mentesoppu, menthe, menthya, menthya gida, menthya soppu, mentya Malayalam (3) - uluva, ventayam, venthiam Marathi (2) - methi, methi-chi bhaji Sanskrit (21) - Sanskrit Comments  bahuparni, bahupatrika, chandrika, dipani, gandhabija, gandhaphala, jyoti, kairavi, kalanusari, kunchika, mantha, medhika, methe, methi, methika, methini, misrapushpa, munindrika, pitabija, vallari, vedhani Tamil (48) - calepaccalam, cayarovaram, cirepari, cittiravaku, civamatanu, kairalam2, kairavi2, kaivitai, kalintam, kantapalai4, makarampu#, makarampu@, makarantappu#, makarantappu@, menti 2, mentikai 2, mentiyam, mentiyam 2, meti, metikai, muninturaicceti, nariventayam, nariventiyam, pitapicam, tevaputtira, uluva2, uluvacceti, uluvam, uluvay#, uluvay@, venciyam, vendayam, vendhayam, vendium, venkuntakikam, ventai, ventaiyam#, vental, ventalayam, ventayacceti, ventayakkirai, ventayam, venthayam, ventiyam, vetani@, vimalotayacceti, vimalotayam, yamunacitti Telugu (4) - menthikoora, menthulu, mentikura, mentulu Urdu (2) - methi, tukhm methi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f4f94984f63807963edf1f9876b1b1c9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Methika
+sanskrit_name: मेथिका
+transliteration: methikā
+ref_drug_name: मेथिका
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Methika
+sanskrit_name: मेथिका
+transliteration: methikā
+image_urls: https://www.medicinalplants.in/slokaimages/1651/1651_1.jpg https://www.medicinalplants.in/slokaimages/1651/1651_2.jpg
+ocr_text: मेथिका कटुरुष्णा च रक्तपित्तप्रकोपणी अरोचकहरा दीप्तिकरी वातप्रणाशिनी| | IRjnl Methika is katu in rasa, usna in veerya, alleviates arocaka, is dipana, raktapitta prakopani and destroys vata. मेथिका वातशमनी श्लेष्मघ्नी ज्वरनाशिनी| ततश्चाल्पगुणा वन्या वाजिनां सा तु पूजिता | | (Bpnl Methika pacifies vata, alleviates slesma and jvara. Vanya variety is Of alpaguna, and is a best vajikara.

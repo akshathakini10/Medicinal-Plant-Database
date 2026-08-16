@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bc177658f111e1f5e5ae34f8d56299fd
+Botanical Name: Salacia reticulata WIGHT
+Family: Celastraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 5 languages. Kannada (1) - ekanayakam Malayalam (3) - ekanayakam, koranti, ponkoranti Sanskrit (3) - Sanskrit Comments  ekanayakam, pitika, vairi Tamil (3) - karanti, koranti, ponkoranti Telugu (1) - anukudu cettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc177658f111e1f5e5ae34f8d56299fd
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1836
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1836.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc177658f111e1f5e5ae34f8d56299fd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc177658f111e1f5e5ae34f8d56299fd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

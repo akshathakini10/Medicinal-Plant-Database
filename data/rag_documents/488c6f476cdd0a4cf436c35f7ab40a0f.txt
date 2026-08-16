@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 488c6f476cdd0a4cf436c35f7ab40a0f
+Botanical Name: Viburnum coriaceum BL.
+Family: Caprifoliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. Hindi (4) - amrer, basmol, diha, talanj Kannada (3) - elesaande, helusunde, yellasunde
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/488c6f476cdd0a4cf436c35f7ab40a0f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/488c6f476cdd0a4cf436c35f7ab40a0f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tilvaka bheda
+sanskrit_name: तिल्वक भेद
+transliteration: tilvaka bheda
+ref_drug_name: तिल्वक भेद
+status: Accepted source
+discussion: Tilvaka bheda is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

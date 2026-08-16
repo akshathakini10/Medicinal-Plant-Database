@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: df99615d80b4c98a54a0737648e4f429
+Botanical Name: Citrus medica L.
+Family: Rutaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 96 Vernacular names found in 8 languages. English (1) - cedrat Hindi (4) - limbu, narangi, neembu, nimbu Kannada (5) - daeva maadala, maada vaala, maadala, maathu langa, mahaaphala Marathi (1) - mavlimb Sanskrit (5) - Sanskrit Comments  maha-jambirakaruna, mahnimbu, matalunga, matunga, vanabijapura Tamil (69) - akacam 2, amalacampiram, amalacaram, amalainimpuram, amirtapalai, ampu 3, ampucaram, ampukecaram, ampuvacini, ampuvakini, amuturai@, amuturaimaram, aricalam 1, aricayam 1, arinam, camiranam 1, campalam, campavam, campiko, campiram, campirovatti, cempirottam, cinturattatikam, cinturattatikamaram, citalam 1, elimitchum pullum, elumiccam, elumichai, ilamiccai, ilamiccaimaram, illiccam, iracakani, irakani, jerook, kakapalam, kalumiccai, karunam, karuncalikam, kasturi, katarankay, kolunci, kommatti matulai, koti narattai, lakucan, mancal, marutapakam, marutapakamaram, mateci, matukukkuti, matukukkutikai, miccai, mincakam, muruka, narattai, nimpataru, nimpukam, pilikkutiyan, pittamurimatar, pojana, racakanimaram, tantacikamaram, teci, turunci, upanorancakan, urocanakam, uru, urumaram, vacattircotini, vattiricotini Telugu (6) - beeja pooramu, dabba chettu, lungamu, maadiphalamu, naaradabba, pulladabba Urdu (5) - ab-i-turanj, poast turanf, poast turanj, poast turanji, rub turanj
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df99615d80b4c98a54a0737648e4f429
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df99615d80b4c98a54a0737648e4f429
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df99615d80b4c98a54a0737648e4f429
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/df99615d80b4c98a54a0737648e4f429
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bcbd75b9c534752a71f4d47085d235c3
+Botanical Name: Jatropha multifida L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 5 languages. Hindi (1) - chini-erandi Kannada (6) - havalada haralu, havalada mara, seeme havalada gida, simeauvdala, vilaayithi haralu, vilayatiharalu Marathi (3) - chinacho, chini-eramdi, jambhal Sanskrit (8) - Sanskrit Comments  bhadradanti, brihaddanti, dugdhagarbha, guchhphala, jayavaha, jyotishka, virechani, vishabhadra Tamil (12) - cuvaikamacceti, cuvaikamam, eliya manakku, kattunervalam, kolamalam, malai-amanaku, malaiyamanakku, malaiyamanakkumaram, malaiyamanaku, malarku, malaru, nikumpam4
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcbd75b9c534752a71f4d47085d235c3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcbd75b9c534752a71f4d47085d235c3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcbd75b9c534752a71f4d47085d235c3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcbd75b9c534752a71f4d47085d235c3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,102 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 66adc2910b86fe10b651ba566ad346f5
+Botanical Name: Sida rhombifolia L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sida rhombifolia L. subsp. rhombifolia
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 128 Vernacular names found in 8 languages. English (2) - paddys lucerne, queensland hemp Hindi (15) - barela, bariara, bhiunli, dhabi, kharenti, kheriti, lalbarela, lalbariala, pitabala, safed, sahadebi, sahadeva, svetberela, sweet-barela, swetbarela Kannada (20) - aanekadeeru, athibala, banne garuga gida, baralu kaddi, bellu maravi, bennegaragu, binnegangagida, bolamgadale, bolangadale, dodda kallangadale, gobetadegida, goobe thale gida, goobetale gida, goobethade gida, gubethadegida, kaadu kadle, kadiru, kallangadale, kallangalle, kisangihettuti-gida Malayalam (9) - anakkuruntotti, kurundoti, kuruntotti, totti, valamkarumthuthi, valankuruntotti, vankuruntotti, vatturam, velluram Marathi (8) - athibala, baler, chikna, sadeda, sadeva, sahadaevi, sahadevi, thukatee sahadaevi Sanskrit (35) - Sanskrit Comments  ahikhanda, atibala, bala, barela, brihadagala, devaarha, devabala, devasaha, gandhavallari, gandhavalli, hara, jyeshthabala, karambi, kesarika, keshawardhini, keshruha, lalbarila, mahabala, mahagalarthaprasadini, mahagandha, mriga, mrigadini, mrigarasa, pitapushpa, prasadini, sahadeva, sahadevi, samanga, sarini, vadha, varshapushpa, varshpushpi, vataghni, vatya, vatyayani Tamil (27) - anaikkuruntotti@, anaikurundotti, arival manai- puntu, athibalachedi, athiballached, canakki2, chitra mutti, chittamutti, kammavikakkoti, kammavikam, kankatikam, kattukkuruntotti, kecavarttanam, kurundotti, kurunthotti, kuruntotti, kuruntotti#, makapalam 4, mayirmanikkam@, piramutti 2, sirramutti, siru thuthi, sittamutti, tankarikam, tenacham, velaippacai, yanaikkuruntotti Telugu (12) - athobalacettu, atibala, guba tada, gubatada, mauilumanikyamu, mayilu-manikyam, mayilumanikyamu, mayir manikkam, mutheera pulangam, muttavapulaga, muttavapulagamu, pulagamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5/xclkon/d5efd34eeee0f75f828ef42f9233838f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1918
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1918.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5/xclkon/d5efd34eeee0f75f828ef42f9233838f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5/xclkon/d5efd34eeee0f75f828ef42f9233838f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/66adc2910b86fe10b651ba566ad346f5/xclkon/d5efd34eeee0f75f828ef42f9233838f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bala
+sanskrit_name: बला
+transliteration: balā
+ref_drug_name: बला
+status: Controversial
+discussion: Used as Bala
+reference: [1]
+
+Identity Record 2
+drug_name: Mahabala
+sanskrit_name: महाबला
+transliteration: mahābalā
+ref_drug_name: महाबला
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Mahabala
+sanskrit_name: महाबला
+transliteration: mahābalā
+ref_drug_name: महाबला
+status: Accepted source
+discussion: Mahabala is correlated to this species
+reference: [2]
+
+Identity Record 4
+drug_name: Mahabala
+sanskrit_name: महाबला
+transliteration: mahābalā
+ref_drug_name: महाबला
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Mahabala
+sanskrit_name: महाबला
+transliteration: mahābalā
+ref_drug_name: महाबला
+status: Accepted source
+discussion: Mahabala' is identified with this species
+reference: [5]
+
+Identity Record 6
+drug_name: Mahabala - bheda
+sanskrit_name: महाबला भेद
+transliteration: mahābalā bheda
+ref_drug_name: महाबला भेद
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f16754bbe52b1de7739b52ba134ff8c4
+Botanical Name: Abutilon hirtum (LAM.) SWEET
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Abutilon graveolens (ROB. E HORNEM.) WIGHT & ARN. E WIGHT
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 6 languages. Hindi (1) - bankhanghi Malayalam (1) - kuruntotti Marathi (1) - barkanghi Sanskrit (1) - Sanskrit Comments  atibala Tamil (1) - vadattuti Telugu (4) - bela benda, nela benda, nelabenda, pala benda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f16754bbe52b1de7739b52ba134ff8c4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 16
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/16.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f16754bbe52b1de7739b52ba134ff8c4/xclkon/6b2a495e6340eda2a92405fd8baf856c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f16754bbe52b1de7739b52ba134ff8c4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f16754bbe52b1de7739b52ba134ff8c4/xclkon/6b2a495e6340eda2a92405fd8baf856c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f16754bbe52b1de7739b52ba134ff8c4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

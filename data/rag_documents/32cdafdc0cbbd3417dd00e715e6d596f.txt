@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 32cdafdc0cbbd3417dd00e715e6d596f
+Botanical Name: Pandanus fascicularis LAM.
+Family: Pandanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pandanus odoratissimus L.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 203 Vernacular names found in 9 languages. English (2) - ketaki, kewda Hindi (11) - gagandhul, kedgi, keora, ketgi, keuda, keura, kevarah, kevarah or kedgi, kevarah; ketgi or kedgi, kevda, kewra Kannada (24) - dhooli pushpa, gedige, gubbi kaedige, kadige, kaedige, kaethaki, kaida, kaide, katthaale, kedage, kedayi, kedige, ketaki, ketike, kiyarige, kyadage-gida, kyadige, mandige, mundeyi, mundige, taale hoovu, tale, tale-mara, thaale Malayalam (14) - kaida, kaida-taddi, kaide, kainarai, kaita, kaitha, ketaki, palliyambu, pukkaita, tala, talampu, tazha, thala, thazha Marathi (10) - bomdki, kaeoda, kaeora, kaethaki, kaevada, kegdi, keoda, keora, kevda, paandar kaevda Sanskrit (30) - Sanskrit Comments  chamarapushpa, dalapushpa, dhulipushpika, dhulipuspika, dirghapatra, gandhapushpa, halina, indukalika, jambuka, jambula, kaikata, kantadala, ketaka, ketakaishta, ketaki, ketakivrikshaha, krakacacchada, krakachachhada, medhya, nripapriya, panshula, rajahpuspa, sthiragandha, suchikapushpa, sucipuspa, suvarnaketaki, tikshnapushpa, trinasunya, trnasunya, viphala Tamil (88) - alankal1, alankal2, alankamaram, anceli, cakam2, catam1, catcuciyam, cempu2, centalampu, kaidai, kaitai, kaitakam, kaittakam, kakkaici, kamakatkatalam, kandal, kantaputpam1, kantatalam, karpakam2, katarkuyam, kechiya, keciya, keciyamaram, kedagai, kedagi, kekattai, kekkai, kekkaicimaram, ketakai, ketakam1, ketakam@, ketaki, kiracakam, madi, matankal, mati, matikam, matikamaram, mucali, muchali, mudangal, mukali 1, mukari, mundagam, muntakam, muntakam 2, mutakkan, mutankal, mutankalmaram, olai-p-pu, parivai, patamakki2, patamatakki, patamatakki2, patamatakku2, pattikai, pattikai1, poyconnan, pumatal, putacakam, putacakamaram, putpacamaram, talai, talam, talam1, talam1#, talam@, talamchedi, talampu, talaputpam, talhai, talum, tazhai, tazhan-chedi, thashai, thazhai, tiranacitam, tirukutalai1, tirunacuniyam, tirunacuniyamaram, tirunacuriyan, titcanaputpam, tuliputpikam, turonikamaram, turonitalam, turonitam, varusaputpam, varutaputpam Telugu (19) - gaajangi, gadzangu, gajagi, gajangi, gedaji, gedangi-mogali, gedangimogali, goddzangu, gojjangi, gozdoogoo, kaethaki, ketaki, mogali, mogali-chettu, moghali, mogili, mogli chettu, mugali, mugalik Urdu (5) - arq keora, gul keora, keora, kevda kaadi, ruh keora
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1583
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1583.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/6b59cdb5f7a8d28187225e1846d05193
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/6b59cdb5f7a8d28187225e1846d05193
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/6b59cdb5f7a8d28187225e1846d05193
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/6b59cdb5f7a8d28187225e1846d05193
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cdafdc0cbbd3417dd00e715e6d596f/xclkon/2d069fa55240aae0a906977f2a26e8d5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

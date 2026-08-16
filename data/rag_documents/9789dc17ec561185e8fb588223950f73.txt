@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9789dc17ec561185e8fb588223950f73
+Botanical Name: Lantana camara L.
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lantana aculeata L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 75 Vernacular names found in 7 languages. Hindi (21) - caturang, chadurana, choti podari, dhani-dadia, ghaneri, kuri ghas, lal-gal-phusia, laltenya, lantana, latina, panjphlli, panjphuli, panjphulli, pardessi butti, paulnu, phool lakri, phul lakri, phulnu, raimunia, ukkal buti, ukkal butt Kannada (30) - ari hoo, aripu, baeligida, bekkinuchhe gida, chandaranga hoo, chandranga, chittharangi, haysige, hesigehu, hesike, hor, kadugulabi, kakke, kasoothi hoo, kasutihu, kasutihuvina, kekke, lambaani gida, lanta vaani, lantaana, lantaani, lantavaani gida, lantavanigidda, naatapu, naatha hoo, naathada hoo, natahu, natahuvu, natapu, puchuli Malayalam (3) - arippu, pucceti, puchedi Marathi (4) - chadurang, ghaaneri, ghaneri, ghanjari Sanskrit (4) - Sanskrit Comments  caturangi, jhingini, jingini, vanacchedi Tamil (4) - arippu, arisimalar, puchedi, unnicceti Telugu (9) - akshinta poolu, akshinte poolu, chiki, gabbu seeki, gaju kampa, kampu rodda, lantana, puli kampa, pulikampa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9789dc17ec561185e8fb588223950f73/xclkon/6aa5247d2c1e3524218f8114dd224be9
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9789dc17ec561185e8fb588223950f73/xclkon/54ae65a2c52054c8e06d815094a71547
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9789dc17ec561185e8fb588223950f73
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9789dc17ec561185e8fb588223950f73/xclkon/6aa5247d2c1e3524218f8114dd224be9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9789dc17ec561185e8fb588223950f73/xclkon/54ae65a2c52054c8e06d815094a71547
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9789dc17ec561185e8fb588223950f73
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9789dc17ec561185e8fb588223950f73/xclkon/6aa5247d2c1e3524218f8114dd224be9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

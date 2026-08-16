@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bc3e38d7732b742c2332310bdd76049e
+Botanical Name: Adenanthera pavonina L.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 108 Vernacular names found in 8 languages. English (2) - jumbie beans, red sandalwood Hindi (6) - baragunci, barighumchi, barigumchi, rakta chandan, raktachandana, ranjana Kannada (20) - aane gulaganji, aanegulaganji, dodda gulaganji, doddagulaganji, mancatige, mancatti, manchataga, manchatige, manda theeya, mandatiya, manjaadi, manjadi, manjati, manjatthi, manjatti, manjetti, manjitte, manjuti, manjutti, munjuti Malayalam (15) - adhangi, cem, chem, mancati, manchadi, manchati, mandsjadi, mandsjati, manjadi, manjati, manjatti, manjeti, manjetti, munjatie, sem Marathi (7) - thorla-gunj, thorlaguni, thorlagunj, thorligunj, thorligunji, val, vhadli-gunj Sanskrit (9) - Sanskrit Comments  kamboji, ksharaka, kucandanah, kuchandana, kusandana, ranjaka, tamraka, tamrakah, tilakah Tamil (39) - aanaikundrimani, anai kundumani, anai-kondumani, anaik-kunri, anaik-kunrimani, anaikkunri, anaikkunrimani, anaikkuntumani, anaikundimani, anaikunrimani, anegundumani, attipotikam, calakai, cem3, cemmaram6, cuvetakolam, kulirkirakam, mancali#, mancati, mancati@, mancatikkuntumani, mancittam, manjadi, mileccakamani, muvutamani, periyakuntumani, perunkunri, peunkunrimani, potaikkancanamani, sem, tamirakam2, tampulovalli@, tilagam, tilam, vanakam, varnakam 2, vikacam, yanaikkunrimani, yanaikuntumani Telugu (10) - bandi gurivenda, bandi gurvina, bandigurivenda, bandiguruginja, enugaguruginji, enugagurunginji, gurivenda, mansenikottae, mensenikotta, peddaguriginja
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc3e38d7732b742c2332310bdd76049e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 56
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/56.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc3e38d7732b742c2332310bdd76049e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc3e38d7732b742c2332310bdd76049e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bc3e38d7732b742c2332310bdd76049e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c63b9d4de6eebc46bbc1d65059f2ac0a
+Botanical Name: Mitragyna parvifolia KORTH.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Mitragyna parvifollia KORTH. Stephegyne parvifolia KORTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 171 Vernacular names found in 7 languages. Hindi (15) - kadam, kadambi, kaddam, kaem, kaimb, kaini, kalam, kalan, kallam, kalmi, kambhri, kamgi, kayim, padera, phaldu Kannada (42) - batakadapu, congoo, congu, cuddaru, hedu, kadaani, kadaani mara, kadaba, kadaga, kadagada, kadagada mara, kadagedu, kadahal, kadambai, kadambe, kadani, kadaniannu, kadavaala, kadaval, kadavala, kadiala, kadwar, kanu, kavuksiro, kodiyaal, kongu, kongu mara, motahighora, naayi kadambe, naayikadamba, naikadaba, naikadabe, nanekiyakadaga, nankiakadagina, nayekadambe, nayikadambe, neer kadamba, nirkadamba, nirkadambe, sannakadamba, sannakadambe, sennakadaba Malayalam (18) - beembu, kadamba, kambli, nirkadamba, nirkadambai, nirkadambu, nirkkatamba, nirkkatampa, nirkkatampu, poocha, poochakadambu, rosekadambu, rosu katampu, sirakadamba, sirakatampa, sirukadambu, vimbu, vimpu Marathi (6) - kadamb, kalam, kalamb, kalan, karamb, kullum Sanskrit (3) - Sanskrit Comments  bhumikadamba, dhulikadamba, vitanah Tamil (50) - appucam2, arkkam2, ayappiriyam, calacampunatam, carppatestam, chinnakadambu, colakantam, culompucam, iccalam, iracakuru, kadambu, kaliyani, kaliyanimaram, karpakkatampu, karpakkatampumaram, katampai, katampai2, katampuni, kathambu, marukkuvikakkatampu, marukkuvikam, mattayam, nalipam, namankarpam, natikatampu, nichulam, niculam, nikalam, nipam1, nir-kadambai, nirkadambai, nirkkatampu, nirompal1, niyoturri, pattaikkatampu, pattakkatampu, pavvirusiyam, peykkatampai, pippiriyam, pirakirutita 2, pompal, putakampakam, putakkatampu, putpaciyam, sinnakkatampu, tarakatam, tarokam, venmai 2, virattaippentampanni, viruntam 1 Telugu (37) - bataganapu, batta genapu, battaganapa, battaganappa, battaganapu, battagenupu, battakatapa, bettaganapa, botacadamee, botacadamie, botacaganapu, botakadimi, botakudumee, botruga, botrugua, bottakadapa, bottakadimi, butakarami, kadamba, kamba, kambabotuka, karme, neerukadimi, nerkadamba, nir kadambu, nirkadambe, nirkadimi, nirukadimi, pacha pasarai, puhagudderi, pulagadam, pulagudem, pulakadimi, rattaganapa, rudra ganapa, rudraksha-kamba, simabandaru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c63b9d4de6eebc46bbc1d65059f2ac0a/xclkon/2cab5f2308175f21b12a372627e5c0cf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c63b9d4de6eebc46bbc1d65059f2ac0a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c63b9d4de6eebc46bbc1d65059f2ac0a/xclkon/019e62a1ce757b8550700e2215b1a51c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c63b9d4de6eebc46bbc1d65059f2ac0a/xclkon/2cab5f2308175f21b12a372627e5c0cf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c63b9d4de6eebc46bbc1d65059f2ac0a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c63b9d4de6eebc46bbc1d65059f2ac0a/xclkon/019e62a1ce757b8550700e2215b1a51c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c63b9d4de6eebc46bbc1d65059f2ac0a/xclkon/2cab5f2308175f21b12a372627e5c0cf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c63b9d4de6eebc46bbc1d65059f2ac0a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c63b9d4de6eebc46bbc1d65059f2ac0a/xclkon/019e62a1ce757b8550700e2215b1a51c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c63b9d4de6eebc46bbc1d65059f2ac0a/xclkon/2cab5f2308175f21b12a372627e5c0cf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

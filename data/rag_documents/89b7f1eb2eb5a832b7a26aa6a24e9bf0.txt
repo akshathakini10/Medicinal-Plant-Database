@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 89b7f1eb2eb5a832b7a26aa6a24e9bf0
+Botanical Name: Cedrus deodara (ROB.) LOUD.
+Family: Pinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cedrus libani BARREL var. deodara HOOK.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 87 Vernacular names found in 9 languages. English (1) - deodar Hindi (15) - debdar, deodar, devadara, devdar, deyar, deyodar, diar, diyar, kelo, kelon, kelon (introduced), kialmang, kilan, kilan-ka-tel, kleu Kannada (3) - bhadradaaru, daevadaaru, gunduguragi Malayalam (1) - devataram Marathi (3) - devadaru, devataram, ewadar Sanskrit (39) - Sanskrit Comments  amara, amaradaru, amaradrma, amarahva, amarataru, badradaru, bhadradaru, bhadradi, bhadrakasta, daru, daruka, devadaru, devadaruh, devadruma, devahva, devahvam, devahvaya, devahvayam, devakasta, devakastam, devakastha, indravrksa, kilima, mahadaru, pitadru, putikasta, snehaviddha, snehaviddham, surabhuruha, suradaru, suradrma, suradruma, surahva, surahvam, surahvaya, surapadapa, surataru, tridasahva, vrikashapa Tamil (21) - davadari-chedi, devadaram, devadaru, devadharam, devadharu, irutaru, pattirataruban, pattiratarukan, sarala devadaru, taram, taru, terataru, teva taram, tevatacurarmaram, tevatacurarnaram, tevataram, tevataru, thevathaaram, toon-maram, tun, tunu maram Tibetan (2) - than sin, than-sin Urdu (2) - burada deodar, deodar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/5cdd6b48c9ac921ca8f8311457909767
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 485
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/485.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/8d66a92efd2121ba156b2327f6d85199
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/5cdd6b48c9ac921ca8f8311457909767
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/8d66a92efd2121ba156b2327f6d85199
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/5cdd6b48c9ac921ca8f8311457909767
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/8d66a92efd2121ba156b2327f6d85199
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/5cdd6b48c9ac921ca8f8311457909767
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/8d66a92efd2121ba156b2327f6d85199
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/5cdd6b48c9ac921ca8f8311457909767
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/8d66a92efd2121ba156b2327f6d85199
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89b7f1eb2eb5a832b7a26aa6a24e9bf0/xclkon/5cdd6b48c9ac921ca8f8311457909767
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Devadaru
+sanskrit_name: देवदारु
+transliteration: devadāru
+ref_drug_name: देवदारु
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Devadaru
+sanskrit_name: देवदारु
+transliteration: devadāru
+ref_drug_name: देवदारु
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

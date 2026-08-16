@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 97779fb316572c47dcff5ef45faff132
+Botanical Name: Tetracera laevis AUCT. NON VAHL
+Family: Dilleniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Malayalam (1) - piripu Tamil (4) - anaittaticcal, puliyaranai#, puliyaranai@, yanaittaticcal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97779fb316572c47dcff5ef45faff132
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97779fb316572c47dcff5ef45faff132
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/97779fb316572c47dcff5ef45faff132
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,93 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8b22b64302e1857bf8ef9d889912e544
+Botanical Name: Mucuna pruriens (L.) DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Carpopogon pruriens ROB. Dolichos pruriens (L,)
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 318 Vernacular names found in 10 languages. English (4) - bengal bean, cow itch, florida velvet bean, velvet bean Hindi (25) - alkusi, dakli, dankuli chemi, gajaj bel, gajal bel, gajal-bel, gaunch, gaunchhi, gonca, goncha, kach-kori, kannach, kaunc, kaunch, kavach, kawanch, kivacc, kivachh, kivanchh, kiwach, konch, kueela, kuonch, pad-veldi, padveldi Kannada (33) - chinakee beeja, hasaguni, kaadakare, kaadavare, kadavare, kadavarti, koogari, marakate, markata, markate, naasuganni, naayi soanku balli, naayi sonagu balli, naayi sonku, nasaguni-gida, nasagunni, nasagunni kaayi, nasuganni, nasugunni, nasugunni kaayi, nasukoogari, nasukunni, nauisonagu-balli, nayisonagu-balli, nayisonaguballi, nayisonangu, nayisonanguballi, nayisonguballi, thurachee avare balli, turachi-gida, turaci, turanchi, turashi Malayalam (17) - chorivalli, corivalli, coriyannam, nai-corana, naicorana, naicorina, naikkuruna, naikorana, nakuruna, nayik-korana, nayikuruma, nayikuruna, naykkorana, naykkurana, naykkuruna, shorivalli, shoriyanam Marathi (7) - kaajkuhilee, kavacha, khag-khiri, khatkurtli, kuhili, kuyeli, majram Sanskrit (63) - Sanskrit Comments  adhyanda, ajada, ajadhaphala, ajavha, arshabhi, atmagupta, badari, chanda, durabhigraha, dusparsha, gatrabhavyanga, guptaaphala, guptaphala, guru, jada, kacchura, kachhumati, kachhura, kandukari, kandura, kanduri, kapikacchu, kapikacchuh, kapikachchhu, kapikachhu, kapikachliu, kapiprabha, kapiromaphala, kashiroma, kundali, kusumbivalli, langali, maharshabhilangali, markata, markati, mbika, nga, pravrisha, pravrishayani, rishabhajata, rishabhi, rishyaprokta, romalu, romavalli, rrsabhi, rsabha, rsyaprokta, sadyashotha, shimbi, shukapindi, shukashimba, shukavati, sugupta, sukasimbi, svagupta, svayamgupta, svayangupta, tikshna, vanari, vanashukari, varahika, vrishya, vyaghra Tamil (131) - amudari, amukari, amutari, anantavankam, arikkiyantam, arruppalattan, arruppukkali, arruppukkalikkoti, arrupputtan, aruciyarttam, arugrattam, arukiyarattacceti, arukiyarattam, arukkiyantam, arukkiyatakam, atiyantam, attaramuttan, attukkali, attukkalicceti, attumabuttar, attumakupta, attumaputtar, avali, aviyankam, cilapetakkoti, cilapetam, corivalli, cukacimpar, cukacimpi, cukacitakkoti, cukacitam, cukampalam, cukkilaviruttiyakki, ilakuncam, ilakunccakkoti, irattapittani, iriciya, irishiya, itapi, kadigandu, kali2@, kamattaikkalaiyappanni, kantukari, kanturai, kanturam#, kanturankoti, kantuti, katcura, katikali, katikalicceti, katikantu, kattavarai2, kavi, kavi1, kavicakakkoti, kavicakam, kavikaccu, kavikaccura, kavikaccuram, kaviromakkoti, kaviromam, kayincunai, kecaromam, kuptam, kurankuccori, kuruvakkali, kuruvarakkalicceti, kuvariya, kuvariyacceti, macci, macci@, maccu, maguttam, makutam, makuti, makutikkalikkoti, makuttam, manaikkitanku, markati, markkati, markkatikkoti, marutam, mikuntakitam, mikuntatikam, mutkavikam, naikurni, pa, palatam, palatavakkoti, palatavam, palukam 2, palupam 2, pasanapeti 2, pattitaviyakkoti, pattitaviyam, petakampetam, poonai kanjori, poonaikaali, poonaikali, poonaikkali, poonaykali, poonaykalie, pulamittican, punai-k-kali, punai-k-kali vittu, punaikkali, punaikkancori 2, punaikkancori@, punaikkayncori, punaimati, punaippidukkan, punaippitukkan, punaippitukkavarai, punaippitukku 2, punaipputittan, punaipputukkan, punaiyavari, puravarkkam, ranakali, ranakalikkoti, riciya, riciyakkoti, taumatiyakkoti, terkali, teruvakkoti, teruvam, tiriparnikam, vatanacan, veppulikam, verukatu, verukatukkoti Telugu (33) - adavi ulavu, deluganda, dodaragunda, dolugunda, doolagonda, doolagondi, dooradagondi, dul-dundi, dula-gondi, duladaama, dulagondi, durada gondi, duradagondi, nayikkorana, pedda-dulagondi, peeliadagookaila, pilladugu, pilli adugu, pilli-adugu, pilliadagu, pilliaduga, pilliadugu, pilliyadagu, pilliyadugu, praavrishayani, pravrishayani, pravryshayani, tella dradagondi, telladuradagondi, theeta kogial, thelladooradagondi, tita-kogila, totadulagondi Tibetan (2) - ba-na-ri, kha sral Urdu (3) - hub-i-qilqil, kavancha, konch
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/0b5d8a57ae382f4030d8f750795829cf
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1471
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1471.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/56b32dbb471b2e9ce6df156cb58b6778
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/0b5d8a57ae382f4030d8f750795829cf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/56b32dbb471b2e9ce6df156cb58b6778
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/0b5d8a57ae382f4030d8f750795829cf
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/56b32dbb471b2e9ce6df156cb58b6778
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/0b5d8a57ae382f4030d8f750795829cf
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/56b32dbb471b2e9ce6df156cb58b6778
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/0b5d8a57ae382f4030d8f750795829cf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/56b32dbb471b2e9ce6df156cb58b6778
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/0b5d8a57ae382f4030d8f750795829cf
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/56b32dbb471b2e9ce6df156cb58b6778
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/571cbf77cc7d7792510bafead68d18c4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8b22b64302e1857bf8ef9d889912e544/xclkon/0b5d8a57ae382f4030d8f750795829cf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Svagupta
+sanskrit_name: स्वगुप्ता
+transliteration: svaguptā
+ref_drug_name: स्वगुप्ता
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

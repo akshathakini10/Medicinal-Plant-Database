@@ -1,0 +1,59 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e03c2afca3387229d74547e49bb426e7
+Botanical Name: Amaranthus caudatus L.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 8 languages. English (4) - cat-t, inca wheat, love-lies-bleeding, tumbleweed Hindi (5) - chauli, chawli, chulai, kedari-chua, ramdana Kannada (3) - chilike soppu, keelu harive, keere soppu Marathi (2) - bhaji, raajagira Sanskrit (1) - Sanskrit Comments  rajadri Tamil (3) - cikapputtottakkirai, cirukirai, punki-k-kirai Telugu (1) - netakoora Urdu (1) - tukhm chaulai surkh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e03c2afca3387229d74547e49bb426e7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e03c2afca3387229d74547e49bb426e7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e03c2afca3387229d74547e49bb426e7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e03c2afca3387229d74547e49bb426e7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Marsa
+sanskrit_name: मार्ष
+transliteration: mārṣa
+ref_drug_name: मार्ष
+status: Suggested source 3
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Rajadri
+sanskrit_name: राजाद्री
+transliteration: rājādrī
+ref_drug_name: राजाद्री
+status: Accepted source
+discussion: In Raja nighantu it is mentioned as a type of Dhanya (cereal) and identified with it
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

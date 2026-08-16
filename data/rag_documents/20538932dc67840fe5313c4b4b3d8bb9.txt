@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 20538932dc67840fe5313c4b4b3d8bb9
+Botanical Name: Mammea suriga (BUCH.-HAM. E ROB.)
+Family: Clusiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Mammea longifolia PLANCH. & TRIANA.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 101 Vernacular names found in 7 languages. Hindi (5) - nagkesar, nagkeshar, pulaka, punnaga, sultanachampaka Kannada (27) - gadhavunate, gardaunnatte, gardioondy, gardumbi, gardundi, ghaata paale, phatapale, ponne, poonay, poone, punay, puniye, punnaga, punye, suragi, surgi, surigi, suringa, suringal, suringi, surungi, taringi, unate, wandi, woondy, wundi, wundy Malayalam (3) - seraa, shuram punna, surampunna Marathi (8) - godiyundina, laal naagakeshar, punnag, surangee, surangi, suringi, tamra nagkesara, undali Sanskrit (25) - Sanskrit Comments  aruma, devavallabha, kamboge, kesari, keshara, keshava, kumbhika, naga-kesaram-pushpam, nagakesara, nagakesaram, nagakeshara, nagapushpa, pandunaga, pataladruma, punnaga, purusha, purushakhya, raktakeshara, raktapushpa, raktarenu, raktavriksha, surangi, suraparnika, surapunnaga, tunga Tamil (28) - antikal, cintuputpakam, corapinnai, cukantaputpakam, curapinnai, curapipotam, curapipotamaram, curapunnai, curapunnakam1, kuttampokki1, makanakam, makanari, makanarimaram, nagap-pu, naggesur-pu, nakacenturi1, nameru1, narumulika, narumulikamaram, punnakam 1, raktavriksha, surabunnagam, surabunnai, surangi, surapinnai, takintam, tarinci, tunga Telugu (5) - sarapunna, sura ponna, suraponna, surapoona, surapunnagamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2470
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2470.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/0cba081211e98101038748f166dc0838
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/20538932dc67840fe5313c4b4b3d8bb9/xclkon/a8275aef309c1fb7902d725be4896afb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Surapunnaga
+sanskrit_name: सुरपुन्नाग
+transliteration: surapunnāga
+image_urls: https://www.medicinalplants.in/slokaimages/1063/1063_1.jpg
+ocr_text: पुन्नागो मधुरः शीतः पित्तनाशकृत् IRaja nighantul सुगंधिः

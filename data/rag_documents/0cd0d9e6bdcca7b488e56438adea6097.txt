@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0cd0d9e6bdcca7b488e56438adea6097
+Botanical Name: Abelmoschus esculentus (L.) MOENCH
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Hibiscus esculentus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 81 Vernacular names found in 9 languages. English (5) - gobbo, gombo, gumbo, ladys-finger, okra Hindi (7) - bendi, bhendi, bhindi, bhindi-tori, ram-turi, ram-turi or ram-turai, ramturai Kannada (8) - bendakainaru, bende, bende kaayi, bende kaayi gida, bende kayi, bende naaru, bende-kayi, bhendekayi Malayalam (4) - vanta, venda, venta, ventak-kaya Marathi (6) - benda, bhajichi-bhendi, bhenda, bhendi, bhendo, ram-turai Sanskrit (19) - Sanskrit Comments  asrapatraka, bhenda, bhinda, bhindatika, chatupunda, chatushpada, darivka, darvika, gandhamula, karaparna, karaparnaphala, kasturilatika, kshatrasambhava, pichhila, pitali, sushaka, tindisa, tindisha, vrittabija Tamil (24) - akacakattiri, akayakkattiri, kalaniventai, mautteyacceti, mautteyam, nattuventai, pentaikkay, tinticam, uparamayacceti, uparamayam, valukkuventi, vantai, venaikkay, vendai, vendaik-kai, vendaik-kay, vendaikkai, vendi, ventai, ventaicceti, ventaikkay, venti, ventikkay, ventukkay Telugu (6) - benda, bendakaya, benda_kaya, penda, venda, vendakaya Urdu (2) - bhandi, bhendi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cd0d9e6bdcca7b488e56438adea6097/xclkon/ae955e38e1388c00e213fb56667a06a7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

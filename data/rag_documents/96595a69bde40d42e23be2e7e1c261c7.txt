@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 96595a69bde40d42e23be2e7e1c261c7
+Botanical Name: Delphinium semibarbatum BLENERT E BOISS.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Delphinium zalil AITCH & HEMSL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 5 languages. English (1) - zalil Hindi (1) - asbarg Sanskrit (2) - Sanskrit Comments  sprkka, trayamana Tibetan (2) - ni-rma-lya, spri-kka Urdu (3) - gul ghofis, tukhm ghafis, usara-i-ghafts
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/96595a69bde40d42e23be2e7e1c261c7/xclkon/396c50ac42b9ae625f8f9555879368a4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Trayamana
+sanskrit_name: त्रायमाणा
+transliteration: trāyamāṇā
+image_urls: https://www.medicinalplants.in/slokaimages/796/796_1.jpg https://www.medicinalplants.in/slokaimages/796/796_2.jpg https://www.medicinalplants.in/slokaimages/796/796_3.jpg
+ocr_text: त्रायन्ती कफपित्तास्रगुल्मज्वरहरा मता उष्णा कटु कषाया च सूतिकाशूलनाशिनी | | रक्तपित्तमरुच्छर्दिविषघ्नी तिक्त्तवल्कला | IDhnl Trayamana is katu , kashaya in rasa, usna in veerya, alleviates kapha, pitta ana asra dosha cures gulma, jvara, sutika sula, raktapitta, maruta, chardi and visa. It has got tikta valkala. त्रायन्तीशीतमधुरा गुल्मज्वरकफास्रनुत् भ्रमतृष्णाक्षयग्लानिविषच्छर्दिविनाशिनी (Rjn) Trayanti is madhura in rasa, sita in veerya, alleviates kapha asra dosha, cures gulma, jvara, bhrama, trsna, ksaya, glani, visha and chardi. and त्रायन्ती तुवरा त्तिक्ता सरा पित्तकफापहा ज्वरहृद्रोगगुल्मास्राभ्रमशूलविषप्रणुत् IBpn) Trayanti is tuvara, tikta in rasa, sara in guna, alleviates pitta, kapha ana asra dosha , cures jvara , hraroga, gulma, bhrama and sula.

@@ -1,0 +1,82 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c06cc677ccb629a0b1943f094219fae3
+Botanical Name: Ventilago madraspatana GAERTN.
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 102 Vernacular names found in 7 languages. Hindi (1) - pitti Kannada (21) - boppalichakkai, haruge, ithaala beelu, kabbilu, kobbilu, kubbila, malai maithra, malamaitra, male ithaala, malemaitra, malemytala, pampli, papli, paplichakka, pappali, pappalicakke, papplichakkay, papudi, papuli, popli, poppli Malayalam (1) - vempata Marathi (4) - kevati, khandvel, lokhandi, sakalyel Sanskrit (5) - Sanskrit Comments  dinesavalli, kaivartika, raktavalli, rohitakalata, tamravalli Tamil (42) - amantacikam2, atittiyavalli, ayaccempicci, caturttayam, caturttayappattai, cayappattai, cempacci, cempaccippattai, cempirankam, cenkatari1, cenkattari, cenkattari pattai, cenkattari1, cerukoti, citalaviranarokini, curiyavalli, curiyavallicam, curul, curulappattai, curulpattai, curuluppattai, curutpattai, iyakam, pappili, pappili#, pappili@, surate-cheka, surul, surul pattai, surulbattaikkodi, surulbattaikkoti, velunku 1, vembadam, vembadam pattai, vempadam, vempadon, vempatai, vempataikkoti, vempatam, vempatam$, vempatam@, vempatampattai Telugu (28) - errachilatali, errachiratali, errachirathali, erraciratalativva, errashiratthalathivva, errasurugudi, errasurugudu, ettashirattalativva, ettasurugudu, lurala-tige, papri, petlitige, putika, surabi, suralathige, suralatige, surathi thige, suratighekka, suratipattetige, surugudu, yerra-chairatali, yerrachicalli, yerrachicatti, yerrachictali, yerrachiratalaboddutheega, yerrachiratalativva, yerraciratalativva, yerrasurugudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2172
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2172.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c06cc677ccb629a0b1943f094219fae3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rohitaka
+sanskrit_name: रोहितक
+transliteration: rohitaka
+ref_drug_name: रोहितक
+status: Controversial
+discussion: Presently different plants are being used as Rohitaka in different parts of India and this species is one among them
+reference: [2]
+
+Identity Record 2
+drug_name: Rohitaka - sveta
+sanskrit_name: रोहितक श्वेता
+transliteration: rohitaka śvetā
+ref_drug_name: रोहितक
+status: Controversial
+discussion: Presently different plants are being used as Rohitaka in different parts of India and this species is one among them
+reference: [2]
+
+Identity Record 3
+drug_name: Rohitakalata
+sanskrit_name: रोहितकलता
+transliteration: rohitakalatā
+ref_drug_name: रोहितकलता
+status: Controversial
+discussion: This species is known as 'Ragatrohedo' in Gujarat; With regard to its morphology it can be considered as 'Raktavalli' and not 'Rohitakalata'; Needs further studies
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rohitaka
+sanskrit_name: रोहितक
+transliteration: rohitaka
+image_urls: https://www.medicinalplants.in/slokaimages/144/144_1.jpg https://www.medicinalplants.in/slokaimages/144/144_2.jpg https://www.medicinalplants.in/slokaimages/144/144_3.jpg https://www.medicinalplants.in/slokaimages/144/144_4.jpg
+ocr_text: रोहितको यकृत्प्लीहगुल्मोदरहरः सरः शुक्लरोहितकञ्चैव कटुष्णमुभयं स्मृतम्|| कर्णरोगहरञ्चैव विषवेगविनाशनम् IDhn) Rohitaka is sara in guna, alleviates yakrt pliha gulma and uaara. Sukila rohitaka is katu in rasa, usna in veerya, alleviates karnaroga, destroys visavega रोहितकौ कटुस्निग्धौ कषायौ च सुशीतलौ | कृमिदोषव्रणप्लीहरक्तनेत्रामयापहौ | | IRjnl Rohitaka is katu, kashaya in rasa, snigaha in guna, sita in veerya, alleviates krmiaosha, vrana, pliha, rakta and netra amaya. रोहितकः प्लीहघाती रुच्यो रक्तप्रसादनः कषायः शीतलः स्निग्धो यकृदगुल्महरोमतः | | नेत्ररोगप्रशमनः क्रिमिघ्नो व्रणनाशनः | (Bpn) Rohitaka is kashaya in rasa, snigdha in guna, sita in veerya, plihaghati, rucya, rakta prasadana, alleviates yakrd gulma, krmi, pacifies netra roga aestroys vrana. and रोहितको यकृत्प्लीहगुल्मोदरहरः सरः| | KRjvl Rohitaka alleviates yakrd pliha gulma uaara and
+
+Shloka Record 2
+drug_name: Rohitaka - sveta
+sanskrit_name: रोहितक श्वेता
+transliteration: rohitaka śvetā
+image_urls: https://www.medicinalplants.in/slokaimages/144/144_1.jpg https://www.medicinalplants.in/slokaimages/144/144_2.jpg https://www.medicinalplants.in/slokaimages/144/144_3.jpg https://www.medicinalplants.in/slokaimages/144/144_4.jpg
+ocr_text: रोहितको यकृत्प्लीहगुल्मोदरहरः सरः शुक्लरोहितकञ्चैव कटुष्णमुभयं स्मृतम्|| कर्णरोगहरञ्चैव विषवेगविनाशनम् IDhn) Rohitaka is sara in guna, alleviates yakrt pliha gulma and uaara. Sukila rohitaka is katu in rasa, usna in veerya, alleviates karnaroga, destroys visavega रोहितकौ कटुस्निग्धौ कषायौ च सुशीतलौ | कृमिदोषव्रणप्लीहरक्तनेत्रामयापहौ | | IRjnl Rohitaka is katu, kashaya in rasa, snigaha in guna, sita in veerya, alleviates krmiaosha, vrana, pliha, rakta and netra amaya. रोहितकः प्लीहघाती रुच्यो रक्तप्रसादनः कषायः शीतलः स्निग्धो यकृदगुल्महरोमतः | | नेत्ररोगप्रशमनः क्रिमिघ्नो व्रणनाशनः | (Bpn) Rohitaka is kashaya in rasa, snigdha in guna, sita in veerya, plihaghati, rucya, rakta prasadana, alleviates yakrd gulma, krmi, pacifies netra roga aestroys vrana. and रोहितको यकृत्प्लीहगुल्मोदरहरः सरः| | KRjvl Rohitaka alleviates yakrd pliha gulma uaara and

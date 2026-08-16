@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b5554a2b406650ee8aee9454c28c636e
+Botanical Name: Elaeagnus conferta ROB.
+Family: Elaeagnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Elaeagnus latifolia L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 4 languages. Kannada (15) - gunnamada patte balli, hejjaala, hejjala, hittele, hulige, hullgi, hunaseballi, hundasebilu, hunise balli, kairpuli, kerahuli, mayle kollija, melekollija, melikolaja, melikollaga Malayalam (2) - kayalampuvalli, kylambuvalli Marathi (4) - ambgool, ambgul, nildook, nurgi Tamil (3) - kolungai, kulangi, kulari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b5554a2b406650ee8aee9454c28c636e/xclkon/584f7ab7ddc5bf9253320124c939201a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b5554a2b406650ee8aee9454c28c636e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b5554a2b406650ee8aee9454c28c636e/xclkon/584f7ab7ddc5bf9253320124c939201a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

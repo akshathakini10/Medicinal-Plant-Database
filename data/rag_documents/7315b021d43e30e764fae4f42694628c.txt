@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7315b021d43e30e764fae4f42694628c
+Botanical Name: Artanema longifolium (L.) VATAKE
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Artanema longifolia (L.) MERRILL Artanema sesamoides (VAHL) BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 4 languages. Kannada (1) - neermulli Malayalam (2) - bahel-tsjulli, vayalculli Sanskrit (3) - Sanskrit Comments  iksrua, kokilaksah, kokilaksha Tamil (1) - neermulli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7315b021d43e30e764fae4f42694628c/xclkon/205de076b9a09c3e928159e0c318a4b1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 229
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/229.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7315b021d43e30e764fae4f42694628c/xclkon/8e64c43fa2058285022687ca56c01586
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7315b021d43e30e764fae4f42694628c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7315b021d43e30e764fae4f42694628c/xclkon/205de076b9a09c3e928159e0c318a4b1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7315b021d43e30e764fae4f42694628c/xclkon/8e64c43fa2058285022687ca56c01586
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7315b021d43e30e764fae4f42694628c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7315b021d43e30e764fae4f42694628c/xclkon/205de076b9a09c3e928159e0c318a4b1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

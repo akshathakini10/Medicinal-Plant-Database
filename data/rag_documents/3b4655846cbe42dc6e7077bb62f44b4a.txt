@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3b4655846cbe42dc6e7077bb62f44b4a
+Botanical Name: Canavalia gladiata (JACQ.) DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Canavalia ensiformis SENSU BAKER Dolichos gladiatus JACQ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 140 Vernacular names found in 8 languages. English (5) - jack bean, jamaica horse bean, jamaican horse bean, sabre bean, sword bean Hindi (12) - gojiasema, goyijiyashivalam, kadasambal, kadsambu, khadsambal, khadsampal, lalkudsumbal, lalkudusumpal, safedkudsumbal, sema, suarasema, sweeta-sima Kannada (11) - kaadavare, kadavare, kadavari, sambe, shambe, shambee avare, shembiavare, tamateballi, tamategida, thumbe kaayi, tumbekonji Malayalam (11) - bara-mareca, baramareca, kanavala, kanavazha, kattuvalamarakkaya, katubaramareca, valamara, valavarai, valavarata, valpayar, valvara Marathi (8) - aabayee, abai, gavara, gavari, ghevdo, govari, khadasambala, kisamari Sanskrit (11) - Sanskrit Comments  asishimbi, asisimbi, brihatshimbi, khadgashimbi, koshaphala, maha-shibee, mahashimbi, mahasimbi, nilashimbika, shimbi, sthulashimbi Tamil (58) - ampucakitacceti, ampucakitam, anititam, anititavavaraikkoti, araniyamutkam, cetittampattai, cetittampattaiyavarai, cikkuri, cikkuricceti, civapputtampattai, cupakavavarai, kattavarai1, kattavaraikkoti, kattuttambattan, kattuvalari, kayilakakkoti, kayilakam, kocapalam3, kodittambattan, kolhiyavarai, koliavarai, kolikkoti, kolippuntu, koliyavarai, koliyenramuli, koshi avarai, kottuttambattam, paluvakkoti, pataiyavarai, patavarai, patavavarai, peyavarai, peyavarai 1, peyavarai 2, peyppatal 2, peyttampattai, peyttampattaiyavarai, pukati, pukatiyavaraikkoti, segapputampattai, segapu thampattai, sivapputtambattai, tampattai, tampattam, tampattankay, tampattankoti, thamattan, thambattai, tottiraiyakkoti, tottirayam, ulakanamikkoti, ulakanapi, valavarai, varaiyaruttan, varaiyaruttankoti, vellaittampattai, vellaittampattan, vellaittumattan Telugu (24) - adavichamma, adavitamma, adavithamma, chamba kaasya, chamma, erratamma, errathamma, ettatamma, kaaranputhige, karanuputige, karochikadu, karuchamma, karutamma, karuthamma, shimbi, simbi, tamba, tamma, thamba, thamma, thamma kaaya, tumbettankaya, yerratamma, yerrathambattankaya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/571830bd26cdbca170f1173ea853ef38
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/571830bd26cdbca170f1173ea853ef38
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/571830bd26cdbca170f1173ea853ef38
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/aee4777276c6f39b05ed71d735e97f30
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3b4655846cbe42dc6e7077bb62f44b4a/xclkon/571830bd26cdbca170f1173ea853ef38
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asisimbi
+sanskrit_name: असिशिम्बी
+transliteration: asiśimbī
+ref_drug_name: असिशिम्बी
+status: Accepted source
+discussion: Identified with it; Mentioned in Raja nighantu under the 'Saka varga'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

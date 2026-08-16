@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c4ce696c6e707630f363717249ea28c3
+Botanical Name: Capparis bisperma ROB.
+Family: Capparaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Capparis grandis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 48 Vernacular names found in 5 languages. Hindi (5) - antera, haro-kairio, pachunda, padanbor, pandanbor Kannada (8) - baevapi, kaldero, revadi, torate, torati, totla, totte, tottulla Marathi (10) - kandel, katarni, kauntel, kautel, pachenda, pachonda, pachovand, puchunda, punchunda, ragot Tamil (7) - mudakothan, mudkondai, nakkulijan, nakkulincan, shuda-thoratti, shudathoratti, turatta Telugu (18) - aridonda, duddupi, dudduppi, dudippi, dudupi, goolee, guli, gullem chettu, gullenguli, nalluppi, nalluti, oridonda, ragota, raygutti, regguti, regutthi, regutti, remide
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4ce696c6e707630f363717249ea28c3/xclkon/53cddd8b30b3615f24542895f1e117ec
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4ce696c6e707630f363717249ea28c3
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4ce696c6e707630f363717249ea28c3/xclkon/53cddd8b30b3615f24542895f1e117ec
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4ce696c6e707630f363717249ea28c3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c4ce696c6e707630f363717249ea28c3/xclkon/53cddd8b30b3615f24542895f1e117ec
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

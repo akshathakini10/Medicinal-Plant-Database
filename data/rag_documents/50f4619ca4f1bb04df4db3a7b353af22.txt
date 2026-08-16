@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 50f4619ca4f1bb04df4db3a7b353af22
+Botanical Name: Ipomoea turbinata LAG.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Calonyction muricatum G.DON Ipomoea muricata (L.) JACQ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 4 languages. Hindi (1) - michai Marathi (1) - barik-bhomvari Tamil (6) - kattutalai, kattuttaall, mookkatthi-kkai, niccan, niccatakkoti, niccatam Telugu (1) - mookathikaya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50f4619ca4f1bb04df4db3a7b353af22
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50f4619ca4f1bb04df4db3a7b353af22/xclkon/e27322928dcbe1832298dee9e056ccd5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50f4619ca4f1bb04df4db3a7b353af22/xclkon/8995840ad6bcbd3131e8430536c97bb4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50f4619ca4f1bb04df4db3a7b353af22
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50f4619ca4f1bb04df4db3a7b353af22/xclkon/e27322928dcbe1832298dee9e056ccd5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50f4619ca4f1bb04df4db3a7b353af22/xclkon/8995840ad6bcbd3131e8430536c97bb4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50f4619ca4f1bb04df4db3a7b353af22
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ad65d99cb4a788c5e5bc0be077e0a424
+Botanical Name: Myristica argentea WARB
+Family: Myristicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  jatiphala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad65d99cb4a788c5e5bc0be077e0a424
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ad65d99cb4a788c5e5bc0be077e0a424
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jatiphala - prajati
+sanskrit_name: जातीफल प्रजाति
+transliteration: jātīphala prajāti
+ref_drug_name: जातीफल प्रजाति
+status: Market source
+discussion: It is known as ‘Paipua jatiphala’ which has less fragrance
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

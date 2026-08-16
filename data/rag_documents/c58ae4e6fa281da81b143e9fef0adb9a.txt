@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c58ae4e6fa281da81b143e9fef0adb9a
+Botanical Name: Eriobotrya japonica LINDL.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 6 languages. English (3) - japanese medlar, loquat, nispero Hindi (2) - logat, lokat Kannada (5) - lakkote, lakkote hannu, lakote, lakote hannu, lokvaat hannu Sanskrit (1) - Sanskrit Comments  lottaka Tamil (4) - ilakotta, laktta, nokkotta, nokkttamaram Urdu (1) - laukat
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c58ae4e6fa281da81b143e9fef0adb9a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c58ae4e6fa281da81b143e9fef0adb9a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c58ae4e6fa281da81b143e9fef0adb9a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c58ae4e6fa281da81b143e9fef0adb9a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b3ca1cd2562ad46041de32df680b91ca
+Botanical Name: Cynoglossum wallichii G. DON
+Family: Boraginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cynoglossum glochidiatum WALL. E BENTH.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Hindi (2) - andhahuli, lichkura Kannada (1) - amrada soppu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3ca1cd2562ad46041de32df680b91ca
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3ca1cd2562ad46041de32df680b91ca/xclkon/b5182277c7b4a5a8c60c4c1427e4b365
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b3ca1cd2562ad46041de32df680b91ca
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

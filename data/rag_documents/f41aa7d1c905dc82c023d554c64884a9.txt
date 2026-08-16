@@ -1,0 +1,93 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f41aa7d1c905dc82c023d554c64884a9
+Botanical Name: Oroxylum indicum (L.) VENT.
+Family: Bignoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Bignonia indica L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 207 Vernacular names found in 9 languages. Hindi (24) - arlu, assarsauna, fari, kharkath, pharkhat, pharrai, pharri, sauma, sauna, sauno, shyona, snapatha, sonapatha, sora, syona, tantia, tantia pharhar, tat palanga, tat-palanga, tatplanga, tentu, tetu, ullu, urru Kannada (44) - aane mungu, aanemungu, alanda, alangi, anemunga, anemungu, arantala, baagi, baagimara, bagi, buna paale, bunepale, dinchalamara, dudunmkara mara, dundu karra, dundukara, heggo gate, heggudatimara, hegguggate, hemmara, hoare mara, hone, hore, konanakombina mara, marasouthe mara, mokka, mokkaa mara, mokkada, nala, nata, patagani mara, salaa mara, shonatha, shukanaasa, sonepatta, sonepatte, sonepatte mara, tattuna, teta, tetu, tetutigadi, thigudi mara, tigadu, tigda Malayalam (19) - aralu, arantal, chorikonnam, corikkonna, palagapaiyani, palagapayani, palagappayani, palakapaiyana, palakapayani, palakappayana, palakappayyana, palakappayyani, palega-pajaneli, palegapajoneli, payyalanta, peiam, valpathiri, vellapadiri, veluttapatiri Marathi (11) - davamdak, dhavandaka, dinda, kkharasinga, taitu, tetu, thaentu, thaitu, thetu, titu, ulu Sanskrit (54) - Sanskrit Comments  adhvantashatrava, arala, aralu, araluka, aratu, bhalluka, bhallukah, bhantuka, bhutapushpa, bhutataka, dirghavrintaka, dirghavrnta, dirghavrukah, dundukah, kandarpa, katambhara, katanga, katvanga, kurkata, kutannata, mandukaparna, mandukaparnah, mayurajangha, munduka-purna, nata, nihsarah, ntakah, padavriksha, paripadapa, patrorna, pitangah, prathusimbhi, prithushimba, priyajiva, priyajivi, prthusimba, prthusimbi, putivriksha, ruksha, shallaka, shona, shoshana, shukanasa, shyonaka, sonaka, sukanasa, svarnavalkala, syonaka, syonakah, tintuka, tintukah, tuntuka, vatu, vishanut Tamil (31) - achi, arandai, aratu, arulandai, arulantai, conam, conam#, corikkonrai#, corikkonrai@, corikonnai, paiyaralantai, palagai-payani, palagaipayani, palaiyudaichi, palaiyudaycci, palaiyutaicci, pana, panamaram, peiarlankei, perum vakai, peruvaagai, peyarulandai, peyarulantai, pudabudham, putapuspam, tirkkaviruttam, tuvakkucaram1, tuvantacattiravam, vangam, vangamaram, veluttapatiri Telugu (22) - aaku maanu, dondlup, dundilamu, dundillamu, dundillum, dundilum, kaligottu, mandookaparnamu, mandukaparnamu, mokka vepa, mokkavaepa, mokkavepa, nemali chettu, pamania, pamini, pampana, pampena, pampina, pampini, peddakatti, sukanaasamu, sukanasamu Tibetan (1) - so na ka Urdu (1) - sona patha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1567
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1567.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9/xclkon/eb3088cc43530a79c74e393d99ecab79
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9/xclkon/13c4f15314121781103351dffc6a2a3c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9/xclkon/eb3088cc43530a79c74e393d99ecab79
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9/xclkon/13c4f15314121781103351dffc6a2a3c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9/xclkon/eb3088cc43530a79c74e393d99ecab79
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9/xclkon/13c4f15314121781103351dffc6a2a3c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9/xclkon/eb3088cc43530a79c74e393d99ecab79
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9/xclkon/13c4f15314121781103351dffc6a2a3c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9/xclkon/eb3088cc43530a79c74e393d99ecab79
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9/xclkon/13c4f15314121781103351dffc6a2a3c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f41aa7d1c905dc82c023d554c64884a9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Syonaka
+sanskrit_name: श्योनाक
+transliteration: śyonāka
+ref_drug_name: श्योनाक
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Syonaka
+sanskrit_name: श्योनाक
+transliteration: śyonāka
+ref_drug_name: श्योनाक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Syonaka
+sanskrit_name: श्योनाक
+transliteration: śyonāka
+ref_drug_name: श्योनाक
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

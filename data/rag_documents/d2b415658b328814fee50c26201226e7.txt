@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d2b415658b328814fee50c26201226e7
+Botanical Name: Drosera indica L.
+Family: Droseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 44 Vernacular names found in 4 languages. Kannada (2) - hula hidaka, krimi naashini Malayalam (1) - akara-puda Marathi (1) - mesi Tamil (40) - alukaivatimuli, alukanni, aritamcam, ayaccotam, caneyakam, cirukanni, cirukannicceti, cukacatam, cukaputpam, curaticceti, curatiputu, cutapantani 1, iravikantapani, irumpatimuli, kalliramuli, kutakkumam, mancapattiri, mancipattiri, mantali, mantalicceti, marutapputu, nakampolpatamamukki, nakattaiccenturampanni, nalakanni, naraimuli, narkalli, olukanni, olukannicceti, paritanciranam, patanaruvi, rutanti, rutanticceti, tecalikam, tecalikkannicceti, tiritosatti, urutanti, uyarcatti, vericci, virumpatikacceti, virumpatikam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b415658b328814fee50c26201226e7
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b415658b328814fee50c26201226e7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b415658b328814fee50c26201226e7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

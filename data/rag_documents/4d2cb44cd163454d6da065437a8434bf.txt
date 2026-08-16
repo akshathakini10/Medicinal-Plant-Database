@@ -1,0 +1,93 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4d2cb44cd163454d6da065437a8434bf
+Botanical Name: Euphorbia antiquorum L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 221 Vernacular names found in 8 languages. Hindi (7) - sehund, tidhara, tidhara-schnd, tidhara-sehna, tidhara-sehnel, tidhara-sehnr, tidhara-sehud Kannada (29) - bontakalli, bonte kalli, bontegalli, bontekalli, bonthe kalli, bonthekalli, cadarakalli, caturakalli, chadara kalli, chadaragalli, chandara galli, chathura kalli, chaturagalli, daare kalli, darekalli, jade kalli, jadegalli, jadekalli, jedekalli, kaadu kalli, katakkalli, mondu galli, mooru enina kalli, mudumula, mundu moola, mundugalli, mundukalli, sarekalli, sumanthadughade Malayalam (13) - caturakalli, caturakkalli, chathurakalli, chatirak-kalli, chaturakalli, chaturakkalli, chaturkalli, kalli, katak-kalli, katakkalli, schadida-calli, schadidacalli, shadurakalli Marathi (11) - nara, naraseja, narsej, navadunga, nivaduunga, pad-nival, sij, thridhaari, tirikon, tridhari, tuar Sanskrit (20) - Sanskrit Comments  gandira, mahataru, nanda, nisrinapatra, seehoondee, sehunda, simhunda, situnda, snuhi, snuk, sudha, tridhara, tridharaka, vajra, vajrakantaka, vajrakantakah, vajrakshira, vajratundi, vajravrksa, vajri Tamil (109) - amudangam, amutankam, atankakkaratti, atankatacatti, ataviyiltiruti, ayili, cadurakkalli, cakkalavi, cakkalavi@, catankai, catarcci, catirakkalli, caturakakkalli, caturakkalli, caturam, caturamankalli, caturaveti, cetikkalli, chadura-kalli, chandurakkalli, chathurakkalli, culam, culi1, cunaki, cunakkutakkalli, cunakkutam#, cunakkutam@, cunanku, cunankukkalli, cuntiyuntai, cunuki#, cunuki@, cunukku, cunukkukkalli, curukkucam, cutacci, cutarcci, cutarccikkalli, cutuki, cuturcci, iracapattiram, iratcaci, kalli, kalli1, kallimatitam, kandiravam, kaniravam, kaniravan, kankaippalilai, kannacaram1, kanti1, kantiram, kantiravam1, kantirvam, karkatakamatar, karuvamarappali, katterumai1, katterumaikkalli, kattuccaturakkalli, katuri1, kiruttinacarucapam1, kodiravam, komakkalli, koman, komaram, kotarakam, kotiravakkalli, kotiravam, kutacittiri, kutam, makavirukkam, makaviruttakkalli, makaviruttam, makkanutaiyalmuli, mavirukkam, mavirukkam murittargalli, muccaturam, mullucculi, murittarkalli, murukki, nanmukakkalli, palakaikkalli 1, palanikakkalli, palanikam, pallinar, pallinarkalli, pallirai, saduchi, sadura-kalli, sadurakkalli, sathura kalli, saturakkalli, shadraykullie paal, shadurak-kalli, shadurakkalli, shadurakkally, tirikalli, tiruvargalli, tiruvarkalli1, tuttanniyam, vacciram 1, vacciramuli 1, vaccirankam#, vaccirankam@, vacciratuntam, vacciri, vacittatimuli, vatakkini, visani@ Telugu (28) - bammajamudu, bhumijemudu, bomma jemudu, bomma-jemudu, bommajemmudu, bommajemudu, bondakalli, bonta-jemudu, bontachemudu, bontahemudu, bontajammadoo, bontajamoodoo, bontajemmudu, bontajemudu, bontakalli, bontha jemudu, bontha kalli, bonthajamudu, bonthakalli, bumachumadoo, mudu-mula-jemudu, pedda jemudu, peddajamudu, peddajemmudu, peddajemudu, peddajimmadu, peddatarmadu, simhundumu Urdu (4) - farfium, farfiun, farfiyun, farftyun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 928
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/928.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4d2cb44cd163454d6da065437a8434bf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Snuhi
+sanskrit_name: स्नुही
+transliteration: snuhī
+ref_drug_name: स्नुही
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+Identity Record 2
+drug_name: Snuhi
+sanskrit_name: स्नुही
+transliteration: snuhī
+ref_drug_name: स्नुही जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Snuhi - jati
+sanskrit_name: स्नुही जाति
+transliteration: snuhī jāti
+ref_drug_name: स्नुही
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+Identity Record 4
+drug_name: Snuhi - jati
+sanskrit_name: स्नुही जाति
+transliteration: snuhī jāti
+ref_drug_name: स्नुही जाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Snuhi
+sanskrit_name: स्नुही
+transliteration: snuhī
+image_urls: https://www.medicinalplants.in/slokaimages/707/707_1.jpg https://www.medicinalplants.in/slokaimages/707/707_2.jpg https://www.medicinalplants.in/slokaimages/707/707_3.jpg
+ocr_text: सेहुण्डको रसे तिक्तो गुरूष्णः कफवातजित् दुष्टव्रणाश्मरीं हन्ति तथा वातविशोधनः | | स्नुहीक्षीरं विषाडडमगुल्मोदरहरं परम् स्नुही रस्षु तिक्ता च गुरूष्णा कफवातजित् IDhn) Sehunaaka is tikta in rasa, guru in guna usna in veerya , vata sodhana alleviates kapha, vata, dusta vrana and asmari. Snuhiksira alleviates visha, ama, gulma and udara Snuhi rasa is tikta in rasa, guru in guna, usna in veerya, alleviates kapha vata and स्नुहिरुष्णा ष्ठवातप्रमेहनुत् क्षीरं वातविषाउडध्मानगुल्मोदरहरं परम् स्नुहिरन्या त्रिधारा स्यात् तिस्रो धारास्तु यत्र सा| पूर्वोक्तगुणवत्येषा विशेषाद् रसाद्धिदा IRjn Snuhi is usna in veerya , alleviates pitta, daha, kustha, vata and prameha Ksira alleviates vata, visha, aahmana, gulma and uaara Snuhi anya is triahara which hastri dhara ana is similar to the above but is rasa adhika. पित्तदाकु स्नुक्पयः तीक्ष्णविरेचनानाम् (चरकसंहिताया दृढबलः) Snuk payaha is tiksna virecana.
+
+Shloka Record 2
+drug_name: Snuhi - jati
+sanskrit_name: स्नुही जाति
+transliteration: snuhī jāti
+image_urls: https://www.medicinalplants.in/slokaimages/707/707_1.jpg https://www.medicinalplants.in/slokaimages/707/707_2.jpg https://www.medicinalplants.in/slokaimages/707/707_3.jpg
+ocr_text: सेहुण्डको रसे तिक्तो गुरूष्णः कफवातजित् दुष्टव्रणाश्मरीं हन्ति तथा वातविशोधनः | | स्नुहीक्षीरं विषाडडमगुल्मोदरहरं परम् स्नुही रस्षु तिक्ता च गुरूष्णा कफवातजित् IDhn) Sehunaaka is tikta in rasa, guru in guna usna in veerya , vata sodhana alleviates kapha, vata, dusta vrana and asmari. Snuhiksira alleviates visha, ama, gulma and udara Snuhi rasa is tikta in rasa, guru in guna, usna in veerya, alleviates kapha vata and स्नुहिरुष्णा ष्ठवातप्रमेहनुत् क्षीरं वातविषाउडध्मानगुल्मोदरहरं परम् स्नुहिरन्या त्रिधारा स्यात् तिस्रो धारास्तु यत्र सा| पूर्वोक्तगुणवत्येषा विशेषाद् रसाद्धिदा IRjn Snuhi is usna in veerya , alleviates pitta, daha, kustha, vata and prameha Ksira alleviates vata, visha, aahmana, gulma and uaara Snuhi anya is triahara which hastri dhara ana is similar to the above but is rasa adhika. पित्तदाकु स्नुक्पयः तीक्ष्णविरेचनानाम् (चरकसंहिताया दृढबलः) Snuk payaha is tiksna virecana.

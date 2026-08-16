@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 125ecebe3c4e8db71d10befed8f9ab70
+Botanical Name: Vernonia cinerea LESS.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Conyza cinerea L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 78 Vernacular names found in 10 languages. English (3) - ash-colour fleabane, purple fleabane, vernonia Hindi (9) - dandotpala, daudotpala, kalgira, kaljiri, sadodi, sadori, sahadevi, sahadeyi, sandri Kannada (10) - dandothpala, gaaya doppalu, gaayathoppalu, kaadu hoge soppu, kare hindee, kare hindi, kari hindi soppu, kari vyaadi, sadodi, sahadevi Malayalam (7) - pirina, puam-curundala, puvamkuruntal, puvankuruntal, puvankurutala, puvvamkurunila, puvvamkuruntila Marathi (6) - osari, sadodi, sahadaevi, sahadevi, sahadvei, sayadevi Sanskrit (11) - Sanskrit Comments  ardhaprasadana, dandotpala, devasasha, devika, gandhavalli, govandani, saha, sahadeva, sahadevi, vishamajvaranashini, vishvadeva Tamil (24) - cakatevi, cirilai, cirrilai, citevi cenkalunir, mukkuttipuntu, mukuthipundu, mukuttipundu, naichette, naycitti, neichatti, neichitti, neichittie, neycatti, neyccitti, puvamkurundal, puvamkuruntal, puvankodanthal, sagadevi, sahadevi, seera chengashuneer, seera shengalaneer, sirashengalanir, sivashangalamir, tevakantam Telugu (5) - garita kammi, garitikamma, gharitikamini, gherittekarnina, sahadevi Tibetan (2) - sa de ba, sa ha de ba (d) Urdu (1) - shehdivi buti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2175
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2175.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70/xclkon/3e8b78f45c38012abc67fe8dc16e0404
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70/xclkon/3e8b78f45c38012abc67fe8dc16e0404
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70/xclkon/3e8b78f45c38012abc67fe8dc16e0404
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70/xclkon/3e8b78f45c38012abc67fe8dc16e0404
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70/xclkon/3e8b78f45c38012abc67fe8dc16e0404
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/125ecebe3c4e8db71d10befed8f9ab70
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

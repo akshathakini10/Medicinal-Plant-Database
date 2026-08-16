@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: be71e82b480b28e8cb9ae5438b7245a3
+Botanical Name: Cyclamen europaeum L.
+Family: Primulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e82b480b28e8cb9ae5438b7245a3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e82b480b28e8cb9ae5438b7245a3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/be71e82b480b28e8cb9ae5438b7245a3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d5897d4dbed7f7a8d72b1cec2aa3ef05
+Botanical Name: Helicteres isora L. var. glabrescens
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  avarttani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5897d4dbed7f7a8d72b1cec2aa3ef05
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5897d4dbed7f7a8d72b1cec2aa3ef05
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Avartaki
+sanskrit_name: आवर्तकी
+transliteration: āvartakī
+image_urls: https://www.medicinalplants.in/slokaimages/346/346_1.jpg
+ocr_text: आहुल्यं तिक्तशीतं स्याच्चक्षुष्यं पित्तदोषनुत् मुखरुक्कुष्ठकण्डतिजन्तुशूलव्रणापहम् तत्पुष्पंसहसा प्रमेहशमनं स्वर्णस्य वर्णप्रदं बालं तस्य फलं वमिक्रिमिहरं सर्वप्रमेहापहम् तृष्णाघ्नं सकषायमक्षिहितकृद् रुच्यं तथा दुर्जरं तद्वीजं मधुमेहहृद् विषहरं रक्तातिसारं जयेत् तन्मूलं पवनप्रकोपि मधुरं तृष्णाप्रमेहं जयेच्छ्वासघ्नं गुरु रक्तपित्तशमनं शुक्रक्षये पूजितम् (नि.र ) Avaraki has bitter rasie cold poiency, is beneficial for eye, pacifies pitia dosha. It pacifies diseases of buccal cavity pain, skin diseases, parasitic infection, stomach pain & ulcers The flower of avaraki pacifies prameha(diabetes), imparts golden complexion on usage. The unripe fruit acts as anti-emetic, anthelminihic and pacify all types of prameha diabeies), thirst. It is good for health of eyes, enhances iasie perception; has asiringent asie The seed pacifies madhumehaka type of diabetes) Poisons, dysentery. The root vitiates the vata dosha & has sweet aste, heavy in nature cures ihirst diabeies, bronchial asihma, cough pacifies hemorrhagic disorders & cures oligospermia.
+
+Shloka Record 2
+drug_name: Murva
+sanskrit_name: मूर्वा
+transliteration: mūrvā
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.
+
+Shloka Record 3
+drug_name: Murva - prajati
+sanskrit_name: मूर्वा प्रजाति
+transliteration: mūrvā prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/1073/1073_1.jpg https://www.medicinalplants.in/slokaimages/1073/1073_2.jpg https://www.medicinalplants.in/slokaimages/1073/1073_3.jpg https://www.medicinalplants.in/slokaimages/1073/1073_4.jpg
+ocr_text: स्वादुरसा चोष्णा हृद्रोगकफवातजित् | कुष्ठकण्डूवमिमेहविषमज्वरनाशिनी | | (Dhnl Murva is svadu in rasa usna in veer ya, alleviates hrd roga, kapha, vata, Kustha, kandu, vami, meha, visha and jvara. मूर्वा मूर्वा तिक्ताकषायोष्णा हृद्रोगकफवातहृत | वमिप्रमेहकुष्ठारि विषमज्वरहारिणी | | (Rjnl Murva is tikta, kashaya in rasa , usna in veerya, alleviates hra roga, kapha, vata, vami, prameha, kustha ana visama jvara. मूर्वा सरा गुरुः स्वादुस्तिक्ता पित्तास्रमेहनुत्| त्रिदोषतृष्णाहृद्रोगकण्डूकुष्ठज्वरापहा IBpn ) Murva is svadu, tikta in rasa, sara, guru in guna, alleviates pitta, asra, meha, triaosha, trsna, hrdroga, kandu, kustha and jvara. मूर्वा तु बृंहणी बल्या कफवातामयाम् जयेत् नन IRjn Murva is brmhani, balya, alleviates kapha, vata and amaya.

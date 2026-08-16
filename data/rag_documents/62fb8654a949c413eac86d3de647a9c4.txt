@@ -1,0 +1,41 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 62fb8654a949c413eac86d3de647a9c4
+Botanical Name: Sphaeranthus africanus L.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Sphaeranthus microcephalus DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 3 languages. Hindi (1) - coti-munti Malayalam (1) - atakkamaniyan Sanskrit (5) - Sanskrit Comments  hapusa, mahamundi, mahasravani, mundi, srawani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62fb8654a949c413eac86d3de647a9c4/xclkon/722ae23881e7a80d868b5da3e4691cae
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1968
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1968.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62fb8654a949c413eac86d3de647a9c4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/62fb8654a949c413eac86d3de647a9c4/xclkon/722ae23881e7a80d868b5da3e4691cae
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

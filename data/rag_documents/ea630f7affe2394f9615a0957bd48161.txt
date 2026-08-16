@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ea630f7affe2394f9615a0957bd48161
+Botanical Name: Amischophacelus axillaris ROLLA RAO
+Family: Commelinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cyanotis axillaris (L.) SWEET
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 17 Vernacular names found in 7 languages. English (1) - water cyanotis Hindi (1) - baghanulla Kannada (4) - golagundi, mullu harive soppu, naegalu kanne soppu, naegila thaare Malayalam (2) - kattu-mullen-keera, nir-pulli Marathi (2) - nirupalli, tan Tamil (4) - mulluk-kirai, nirpulli, valukkaippul, vazhukai pul Telugu (3) - amada kada, golagandi, mullatota-kura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161/xclkon/cf04c05a61f3b87af6b77cf7963a2036
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161/xclkon/4270f26110dd747b49182b03640b38fa
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161/xclkon/1ce6cc438e8e87fe214b2e5f64a08b0c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161/xclkon/7877ed4f757fed9b6aa3fb0873cd4643
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161/xclkon/cf04c05a61f3b87af6b77cf7963a2036
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161/xclkon/4270f26110dd747b49182b03640b38fa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161/xclkon/1ce6cc438e8e87fe214b2e5f64a08b0c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161/xclkon/7877ed4f757fed9b6aa3fb0873cd4643
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ea630f7affe2394f9615a0957bd48161/xclkon/cf04c05a61f3b87af6b77cf7963a2036
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

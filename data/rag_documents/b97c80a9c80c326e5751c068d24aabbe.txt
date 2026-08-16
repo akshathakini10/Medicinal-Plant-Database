@@ -1,0 +1,73 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b97c80a9c80c326e5751c068d24aabbe
+Botanical Name: Benincasa hispida (THUNB.) COGN.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Benincasa cerifera SAVI
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 121 Vernacular names found in 10 languages. English (3) - ash pumpkin, petha, wax gourd Hindi (11) - bhujailu, gol-kaddu, golkaddu, kadu, khola, kondha, kudimah, kumra, petha, phuthia, raksa Kannada (9) - bilay, boodi kumbala, boodu gumbala, boodukumbalakaayi, budekumbalakayi, kaggumbala, kargumbala, kooshmaanda, sandigumbala Malayalam (4) - cumbulam, kumbalam, kumpalam, kumpalanna Marathi (1) - kohala Sanskrit (24) - Sanskrit Comments  brhatphala, brihatphala, ghrinavasa, gramyakarkati, karkaru, karkotika, kumbhanda, kumbhaphala, kunjaphala, kushmanda, kushmandaka, kushmandi, kushpandaha, kusmanda, kusmandaka, kusmandika, nagapushpaphala, pitapushpa, pushpaphala, puspaphala, shikhivardhaka, timisha, valliphala, valliphalah Tamil (53) - alattuppucanikkoti, alattuppucini, campalpucini, camparpucani, kaliyanap pucani, kaliyanappucini, kaliyanappucunai, kalyan-pooshini, kalyana pucani, kalyanappushinikkay, kalyanapucini, kotai-p-pucani, kucumantam, kulppantakkay, kulppantam, kumittikkay, kumittikkaykkoti, kummattikkay, kumpalam 2, kunmatakkay, kusmantam, makakumpi, makapalikakkoti, makapalikam, maruntitumuriyappanni, mattupparanki, mattuppucani, motacam, nantippucani, nantippucanikkoti, nantippucini, nirruppucani, nirruppucini, paranki, parankikkay, pattirapani, perumpucani, perumpucanikkay, perumpucini, pucani, pucanik kay, pusanikkai, pushani kai, pushini, tatiyankay#, tatiyankay@, vellaippucani, vellaippucanikkay, ven poosani, venpucanai#, venpucanai@, venpucini, venpuncani Telugu (13) - boarda goomoodoo, boodida gummadi, boodidegummadi, boodigummadi, budida-gummadi, budidegummadi, budithi, burdagumudu, gummidi, pendli-gummadi-kaya, pendligummadikaaya, pendligummadikaya, pulla Tibetan (1) - ku-sma-nda-ka Urdu (2) - paitha, petha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe/xclkon/1e83875bc3594e9dda0229af09d35c6e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe/xclkon/1e83875bc3594e9dda0229af09d35c6e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe/xclkon/1e83875bc3594e9dda0229af09d35c6e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe/xclkon/1e83875bc3594e9dda0229af09d35c6e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe/xclkon/1e83875bc3594e9dda0229af09d35c6e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b97c80a9c80c326e5751c068d24aabbe
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kusmanda
+sanskrit_name: कूष्माण्ड
+transliteration: kūṣmāṇḍa
+ref_drug_name: कूष्माण्ड
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Kusmanda
+sanskrit_name: कूष्माण्ड
+transliteration: kūṣmāṇḍa
+ref_drug_name: कूष्माण्ड
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

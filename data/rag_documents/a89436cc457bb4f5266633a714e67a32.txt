@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a89436cc457bb4f5266633a714e67a32
+Botanical Name: Pseudognaphalium luteoalbum (L.) HILL. & BURTT
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Gnaphalium luteo-album L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a89436cc457bb4f5266633a714e67a32
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a89436cc457bb4f5266633a714e67a32/xclkon/57b7aa728cfdb83e9d57f8028fe0fb05
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a89436cc457bb4f5266633a714e67a32
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

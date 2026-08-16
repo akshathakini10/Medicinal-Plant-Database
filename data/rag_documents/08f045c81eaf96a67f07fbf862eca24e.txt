@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 08f045c81eaf96a67f07fbf862eca24e
+Botanical Name: Walsura trifoliata (A.JUSS) HARMS
+Family: Meliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Walsura piscidia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 5 languages. Kannada (6) - kora, lysaabra, male saagade, male sagada, male sagadi, vaalursi Malayalam (3) - perillapiccha, perillapicha, perillappiccu Marathi (1) - valsuri Tamil (5) - cattuvakku, kattuvakku, malaivirali, valacura, valsura Telugu (18) - chinacalasa, chinnavalarasi, erravaaludu, erravaludu, vaadavalasa, vaalarasi, vaalavadisis, valarasi, valavadisi, vallarasi, wallursi, walsura, walsuri, walurasa, walursi, yarravalu, yerra-vaisura, yerravaludu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08f045c81eaf96a67f07fbf862eca24e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08f045c81eaf96a67f07fbf862eca24e/xclkon/6988ac3f65ab431837a132a5018e8d2e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08f045c81eaf96a67f07fbf862eca24e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08f045c81eaf96a67f07fbf862eca24e/xclkon/6988ac3f65ab431837a132a5018e8d2e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08f045c81eaf96a67f07fbf862eca24e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

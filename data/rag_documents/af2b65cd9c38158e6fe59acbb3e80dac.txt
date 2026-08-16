@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: af2b65cd9c38158e6fe59acbb3e80dac
+Botanical Name: Allophylus serratus (ROB.) KURZ
+Family: Sapindaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 25 Vernacular names found in 7 languages. Hindi (1) - tippani Kannada (2) - sidisale, sisidale Malayalam (4) - mukkanamperu, mukkannanpelu, mukkannapperuku, nukkannanperera Marathi (4) - memdri, mirisat, tipani, tipin Sanskrit (1) - Sanskrit Comments  triputah Tamil (4) - amalai, perakkutikkay, perrakudikai, sirusalle Telugu (9) - eravalu, guvvaguti, juttika, paladondativva, sallikunkudu, savitibukka, tangutam, tantisa, tavatiki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2b65cd9c38158e6fe59acbb3e80dac
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2b65cd9c38158e6fe59acbb3e80dac
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2b65cd9c38158e6fe59acbb3e80dac
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/af2b65cd9c38158e6fe59acbb3e80dac
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

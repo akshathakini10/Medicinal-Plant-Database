@@ -1,0 +1,98 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9b3b2f091fce646055ab4609bbd38b03
+Botanical Name: Curculigo orchioides GAERTN.
+Family: Hypoidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Hypoxis orchioides KURZ.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 170 Vernacular names found in 9 languages. Hindi (6) - kali-moosli, kali-musli, kalimusli, moosli, musli, siyah-musli Kannada (6) - nela tengu, nela thengu, nela-tati-gadde, neladaale, nelathaale gadde, thaala moolike Malayalam (4) - nela-pana-kelangu, nelappana-kizhanna, nelppana, nilappana Marathi (4) - bhuyimaddi, kaalimusalee, kalimusli, masal-kamdo Sanskrit (23) - Sanskrit Comments  arshoghni, bhumitaila, bhutali, dirghakandika, godhapadi, hemapushpi, hemapuspi, kanchanapushpika, khalani, kharjuri, mahavrishya, mausali, musalirahi, mushali, suvaha, talamuli, talamulika, talaparni, talapatri, talapatrika, tali, talika, vrishyakanda Tamil (117) - aiyancu, aiyancukkilanku, anmaitarukilanku, arikkuram, arpattirai1, ayanci, ayinci, caciyam, caciyam2, caciyankilanku, cakiyam, cakiyam3, cakiyankilanku, cataverikkilanku, cavuturikar, cinturamuli, cittani, cittanikkilanku, citti, citti1@, cittimulam, cittiramulam2, ikkayaluti, kaccirakkilanku, kacciram, kanakakkuratti, kanakkuratti 1, kannatali, karatali, karkkoli2, kirusnacapam, kolaver, kuratti, kurattika, kurattikakkilanku, kurumpalai, kurumpalaikkilanku, kutumpavan, marrotayamuli, matpanai, maturi 2, mayilnilamaci, mucali, mucali 2, mukali 2, munkolam, necayam, nelepannay kalung, nemiyam, neyakkilanku, neyam, neyam1, nila panangilang, nila-panangilang, nilap-panai, nilap-panaik-kizhangu, nilapanai, nilappanai, nilappanai kizhangu, nilappanaikizhangu, nilappanaikkilanku, nilappanan kizhangu, nilappanang-kizhangu, nilavilumi, nilavilutu#, nilavilutu@, nilavimilumi, nilavippani, nirppanai, nirppanaikkilanku, nukkuna, pannarati, pannikkurumpanai, pannikurumpan, panrikkurumpu, pirunkani, pumippanai, pupanai, puppanai, talaittatu, talaittatukkilanku, talakam, talakam@, talamulakam, talamuli, talamulikam, talamulikkilanku, talattatu, tan, taraippanai, tattikakkilanku, tattikam, tattikamalu, tavucilam1, tirakataru, tirakattaru, tirakkattaru, tirakkita, tirakkitakkilanku, tiralarakkilanku, tiralaram, tiralaram#, tiralaram@, tiranaracan, tiranaracan2, tiraniracani, tirkkataru, tirkkatati#, tirkkitaru, ukkuna, vaiyinci, varaki, varaki 2, varaki#, varakimulam, visnucena, yatcakanta Telugu (6) - nallathaadigadda, nela-tati-gaddalu, nelaathadi, nelatadi, nelathaatigaddalu, nilapthaaligaddalu Tibetan (2) - chu sgog, mi sri Urdu (2) - musali, musli siyah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03/xclkon/f537a1f960e2c9ebfaff331a50be8f98
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 700
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/700.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03/xclkon/f537a1f960e2c9ebfaff331a50be8f98
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03/xclkon/f537a1f960e2c9ebfaff331a50be8f98
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03/xclkon/f537a1f960e2c9ebfaff331a50be8f98
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03/xclkon/f537a1f960e2c9ebfaff331a50be8f98
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9b3b2f091fce646055ab4609bbd38b03/xclkon/f537a1f960e2c9ebfaff331a50be8f98
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Misreya
+sanskrit_name: मिश्रेया
+transliteration: miśreyā
+ref_drug_name: मिश्रेया
+status: Controversial
+discussion: In Nighantu Sesha, Talaparni is mentioned as the synonym of Misreya and Talaparni is correlated to this species hence it is taken into consideration here; This needs further studies
+reference: [2]
+
+Identity Record 2
+drug_name: Talamuli
+sanskrit_name: तालमूली
+transliteration: tālamūlī
+ref_drug_name: तालमूली
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Talamuli
+sanskrit_name: तालमूली
+transliteration: tālamūlī
+ref_drug_name: तालमूली
+status: Accepted source
+discussion: Talamuli' or 'Talapatri' has been mentioned by Caraka only once where as Susruta has mentioned its usages in various conditions; Dalhana has specified that 'Talapatri' and 'Talamuli' is 'Musali'; Musali has been mentioned by Vagbhata only once externally in various conditions, similarly Talamuli has been used in similar conditions externally; In the nighantus 'Musali' is used as' Jivaniya' (life promoting)and 'Brimhaniya'(bulk promoting) with regard to which the confusion arises that whether Talamuli is the same drug or not; But there is a possibility that its nutritious value were known during later periods; Talamuli was identified with 'Krsna Musali' which is correlated to this species
+reference: [5]
+
+Identity Record 4
+drug_name: Talamulika
+sanskrit_name: तालमूलिका
+transliteration: tālamūlikā
+ref_drug_name: तालमूलिका
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Talamuli
+sanskrit_name: तालमूली
+transliteration: tālamūlī
+image_urls: https://www.medicinalplants.in/slokaimages/532/532_1.jpg https://www.medicinalplants.in/slokaimages/532/532_2.jpg https://www.medicinalplants.in/slokaimages/532/532_3.jpg
+ocr_text: मधुरा वृष्या वीर्योष्णा बृंहणी गुरुः| तिक्ता रसायनी हन्ति गुदजान्यनिलं तथाI| (Bpn) Musali is madhura, tikta in rasa, guru in guna, usna in veerya, vrshya, brmhana, rasayana and cures gudaja anila. मुसली मधुरा शीता वृष्या पुष्टिबलप्रदा पिच्छला कफदा पित्तदाहश्रमहरा पराI| (Rjn) Musali is madhura in rasa, picchila in guna, sita in veerya, vrshya, pusti, bala kara, increases kapha, alleviates pitta, cures daha and srama. मुसली रसपाकाभ्यां स्वादुः शीताउग्निवर्द्धिनी| वातपित्तहरा वृष्या स्थैर्यमार्दवदायिनी|| (शोढल) Musali is svadu in rasa and paka, sita in veerya, alleviates vata and pitta, is agni vardhaka, vrshya and sthairya mardava kara. मुसली

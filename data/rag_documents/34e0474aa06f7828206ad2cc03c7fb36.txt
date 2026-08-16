@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 34e0474aa06f7828206ad2cc03c7fb36
+Botanical Name: Vigna radiata (L.) R. WILCZEK
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Phaseolus aureus ROB. Phaseolus radiatus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 93 Vernacular names found in 10 languages. English (3) - golden gram, green gram, mung bean Hindi (10) - dord, moong, mugani, mugvan, mumg, mung, pessara, thikiri, urid, urud Kannada (7) - hasaru, hesaru, hesaru gida, hesaru kaalu, hesaru kaalu gida, pacche hasiru, uddu Malayalam (4) - cerupayar, cherupoyara, putsja-paeru, ulunnu Marathi (3) - maga, mugi, udid Sanskrit (17) - Sanskrit Comments  baladhya, bali, bijaratna, dhanyamasha, dhanyavira, hurita, kuruvinda, mansal, masa, masah, masha, mudga, mudgah, nispavaka, pitribhojana, pitrya, vrishankur Tamil (35) - arakantari, atirati, carita, cikkitavikam, cikkitavikappayir, karumpayir, kayttaniyam1, kompuppayaru, kuntam, masam, matam, mauntitam, mauntitappayaru, mavicali, munki, munku, murkam, mutka, paccaippayaru, paccappayaru, pacchai payaru, pacippayarrankoti, pacippayaru, panippayarrankoti 2, panippayaru 2, pasippayaru, patchaippayarai, paunippayare, punippayaru, puparippayaru, ulundu, uluntu, uzhundu, valuntu, vayarpayaru 2 Telugu (9) - kaaruminumulu, karuminumulu, minumu, minumulu, paccapesalu, pacha-pesalu, pachha pesalu, patchapesalu, pesalu Tibetan (3) - mon sran sdeu, mu dga, non sran rdeu Urdu (2) - mash, urad ka ata
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/623fc13f6f226fe9493bc12e9ca71b00
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/705ff56d2d0bc9e0c89679aab5295136
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/623fc13f6f226fe9493bc12e9ca71b00
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/705ff56d2d0bc9e0c89679aab5295136
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/623fc13f6f226fe9493bc12e9ca71b00
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/705ff56d2d0bc9e0c89679aab5295136
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/623fc13f6f226fe9493bc12e9ca71b00
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/705ff56d2d0bc9e0c89679aab5295136
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/623fc13f6f226fe9493bc12e9ca71b00
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/861966854b6f061d45d7d5b7ca0eee42
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36/xclkon/705ff56d2d0bc9e0c89679aab5295136
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/34e0474aa06f7828206ad2cc03c7fb36
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Mudga
+sanskrit_name: मुद्ग
+transliteration: mudga
+ref_drug_name: मुद्ग
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

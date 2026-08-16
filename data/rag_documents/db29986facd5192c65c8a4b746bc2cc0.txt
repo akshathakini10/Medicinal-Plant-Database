@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: db29986facd5192c65c8a4b746bc2cc0
+Botanical Name: Sorghum bicolor MOENCH.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 18 Vernacular names found in 5 languages. English (10) - broom-corn, dari, durra, feterita, florence whisk, great millet, imphee, italian whisk, jowar, milo millet Hindi (1) - jowar Kannada (5) - apoorva champaka, kamanda mara, kananga mara, katthe sampige, vana sampige Tamil (1) - cirucanpakam Telugu (1) - chettu sampangi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db29986facd5192c65c8a4b746bc2cc0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db29986facd5192c65c8a4b746bc2cc0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/db29986facd5192c65c8a4b746bc2cc0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

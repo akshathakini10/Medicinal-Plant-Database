@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 629dff1fe408ee65ed6a1a2037e8f13c
+Botanical Name: Ficus auriculata LOUR.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 1 languages. Hindi (5) - fagoora, phagoora, tiamble, timla, tirmal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/629dff1fe408ee65ed6a1a2037e8f13c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/629dff1fe408ee65ed6a1a2037e8f13c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

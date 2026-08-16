@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 12498af454c684db03d297ae71cb0c41
+Botanical Name: Lasia spinosa THW.
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  laksmana Tamil (1) - mulasari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12498af454c684db03d297ae71cb0c41
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1285
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1285.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/12498af454c684db03d297ae71cb0c41
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Laksmana
+sanskrit_name: लक्ष्मणा
+transliteration: lakṣmaṇā
+ref_drug_name: लक्ष्मणा
+status: Most probable
+discussion: Taken into consideration as Laksmana as this species posseses similar fertility efficiency
+reference: [1]
+
+Identity Record 2
+drug_name: Vira
+sanskrit_name: वीरा
+transliteration: vīrā
+ref_drug_name: वीरा
+status: Suggested source
+discussion: With regard to its name given by Cakrapani as 'Jalandhara saka' this species is taken into consideration
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

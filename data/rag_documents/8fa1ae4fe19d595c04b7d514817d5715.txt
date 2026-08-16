@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8fa1ae4fe19d595c04b7d514817d5715
+Botanical Name: Catimbium malaccense (BURM.F.) HOLTTUM
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Alpinia malaccensis (BURM.F.) ROSC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fa1ae4fe19d595c04b7d514817d5715
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fa1ae4fe19d595c04b7d514817d5715/xclkon/4a518eae264f00e6677ea162e579d274
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8fa1ae4fe19d595c04b7d514817d5715
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

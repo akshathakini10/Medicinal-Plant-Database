@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4028a993e9ac1d6ed3765dd4e834ae06
+Botanical Name: Phyllanthus maderaspatensis L.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 37 Vernacular names found in 7 languages. Hindi (6) - bazarmani, hazarmani, kanocha, kanochha, khejario khad, ranavali Kannada (9) - adanelli, kiru nelli, madaraas nelli, madaras nelli, madras nelli, male nelli, mele nelli, nela neli, nelanelli Marathi (2) - bhooyi yavali, kachora Sanskrit (1) - Sanskrit Comments  bhumyamalaki Tamil (12) - katampai1, mela nelli, melanelli, nal-userekee, neela cadamboo, nilakkatampai, nilakkatampai#, nilakkatampai@, nilanelli, nilanelli@, talakini#, talakini@ Telugu (5) - nalasereki, nalausereki, nalla-usirika, nela usirika, nelausiri Urdu (2) - kanocha, tukhm kanocha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4028a993e9ac1d6ed3765dd4e834ae06
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1648
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1648.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4028a993e9ac1d6ed3765dd4e834ae06
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4028a993e9ac1d6ed3765dd4e834ae06
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4028a993e9ac1d6ed3765dd4e834ae06
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4028a993e9ac1d6ed3765dd4e834ae06
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

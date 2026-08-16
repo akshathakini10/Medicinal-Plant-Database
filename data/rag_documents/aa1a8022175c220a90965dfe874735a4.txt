@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: aa1a8022175c220a90965dfe874735a4
+Botanical Name: Helleborus niger L.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 22 Vernacular names found in 9 languages. English (2) - black helleborus, christmas rose Hindi (2) - kalikatuki, khorasani-kutki Kannada (4) - kaalaa jeeraa, katukarohini, katuki, katurohini Malayalam (1) - katukarohini Marathi (1) - balakadu Sanskrit (4) - Sanskrit Comments  katurohini, katuroumi, krishnabhedi, vakragra Tamil (5) - kadagaroganie, karuppu katuku rokini, katukarohini, katukurohani, katurohini Telugu (1) - katukarohini Urdu (2) - kharbaq siyah, kharbaqsiya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa1a8022175c220a90965dfe874735a4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa1a8022175c220a90965dfe874735a4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa1a8022175c220a90965dfe874735a4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa1a8022175c220a90965dfe874735a4
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa1a8022175c220a90965dfe874735a4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/aa1a8022175c220a90965dfe874735a4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

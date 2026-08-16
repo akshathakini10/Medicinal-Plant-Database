@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a65f732da7e981301d2966d3baa54d4c
+Botanical Name: Daemonorops draco BLUME
+Family: Arecaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Calamus draco WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 4 languages. Kannada (2) - khadgamriganettaru, khadgamryganettaru Sanskrit (1) - Sanskrit Comments  raktaniryasa Tamil (5) - catikkilanku, curalkilanku, kandamoorgarittum, prappankilanku, tevattirattal Telugu (2) - khadgamrigamnetturu, khadgamrygamunetturu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a65f732da7e981301d2966d3baa54d4c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a65f732da7e981301d2966d3baa54d4c/xclkon/e1b2af2b9587e9acfa7cf63e83dbd67f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a65f732da7e981301d2966d3baa54d4c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a65f732da7e981301d2966d3baa54d4c/xclkon/e1b2af2b9587e9acfa7cf63e83dbd67f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a65f732da7e981301d2966d3baa54d4c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a65f732da7e981301d2966d3baa54d4c/xclkon/e1b2af2b9587e9acfa7cf63e83dbd67f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a65f732da7e981301d2966d3baa54d4c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

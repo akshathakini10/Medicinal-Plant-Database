@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 607d1f5c66e7f3b95ed1190ae2e627e0
+Botanical Name: Argyreia nervosa (BURM.F.) BOJ.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Argyreia speciosa SWEET
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 149 Vernacular names found in 10 languages. English (2) - elephant climber, wood(en) rose Hindi (11) - ghabel, ghav bel, samandar-ka-pat, samandar-saf, samandar-sof, samandar-sokh, samandarka-pat, samandarsokh, samander-bel, samandrasokh, samudrasos Kannada (15) - bodathara, chandra paada, chandrapada, junga, kadalli, samudra balli, samudra haale, samudra soage, samudraballi, samudrahalaballi, samudrapaala, samudrapala, samudrapala balli, samudrasoge, samudrepalaballi Malayalam (15) - marikkunni, marututari, perumkurumba, samudra-pach-cha, samudra-tsjogam, samudra-yogam, samudrap-pala, samudrapacca, samudrapachcha, samudrapala, samudrappacca, samudrappala, samudrastokam, samudratsjogam, samudrayogam Marathi (9) - guli, samandarshoka, samandarshokh, samudasok, samudrashoka, samudrashokha, samudrasok, samudrasoka, samudrasokh Sanskrit (25) - Sanskrit Comments  ajantri, antakotarapushpi, bastantri, basthantri, chhagala, chhagaladi, chhagalanghhri, chhagantri, dirgha, driddhadaraka, driddhadaru, hastivallia-daraka, murva, rykshagandhha, samudrapalaka, samudrapatra, samudrasosha, vrddhadaraka, vrddhadaru, vrddhadaruka, vrddhadarukah, vrdhadaraka, vriddhadaraka, vriddhadaru, vryddhadaraka Tamil (47) - ambagar, anpakar, anpar, cakarappaci, camuttira coki, camuttira coli, camuttira paccai, camuttiracceti#, camuttiracceti@, camuttiracoki, camuttiracovi, camuttirappaccai, camuttirappaccai#, camuttirappaccai@, camuttirappalai, camuttirappullani, camuttirayokam, kadal palai, kadal-palai, kadaspalai, kakkatan, katal palai, katalpaccai, katalpalai, katarcoki, katarpaccai, katarpalai, mirutu#, mirutu@, mirutupaccai, peymucuttai, peymunnai, peymunnai 1, sadarbalai, samtrappachai, samutra cheddie, samutrachogi, samutrappachai, samuttirappaccai, samuttirappalai, samuttrappalai, shamuddirap-pach-ch-ai, shamuddirapachchai, tokki, vakul, vakulappaccai, vakutpaccai Telugu (21) - chandra podi, chandra-poda, chandrapaada, chandrapada, chandrapala, chandrapoda, kakkita, kakkitha, kokkili, kokkita, kokkiti, paalasamudra, pala-samudra, palasamudra, palasamudratiga, samudra pachha, samudra-pala, samudrapala, samudrappaala, samuttrappalai, thivvakkokkita Tibetan (2) - bhi tta dha ru, bhra ddha dha ru (d) Urdu (2) - budhara, samandar sokh
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/f2e327ddc87ca9b9fcd5bbbf8271f3a4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 219
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/219.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/70fc69ea9940b7447ffbeefa12ecd006
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/f2e327ddc87ca9b9fcd5bbbf8271f3a4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/70fc69ea9940b7447ffbeefa12ecd006
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/f2e327ddc87ca9b9fcd5bbbf8271f3a4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/70fc69ea9940b7447ffbeefa12ecd006
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/f2e327ddc87ca9b9fcd5bbbf8271f3a4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/70fc69ea9940b7447ffbeefa12ecd006
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/f2e327ddc87ca9b9fcd5bbbf8271f3a4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/fac1e9b33fbd53a0ab7b58344984a5b7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/70fc69ea9940b7447ffbeefa12ecd006
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/607d1f5c66e7f3b95ed1190ae2e627e0/xclkon/f2e327ddc87ca9b9fcd5bbbf8271f3a4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vrddhadaruka
+sanskrit_name: वृध्ददारुक
+transliteration: vṛdhdadāruka
+image_urls: https://www.medicinalplants.in/slokaimages/158/158_1.jpg https://www.medicinalplants.in/slokaimages/158/158_2.jpg https://www.medicinalplants.in/slokaimages/158/158_3.jpg https://www.medicinalplants.in/slokaimages/158/158_4.jpg https://www.medicinalplants.in/slokaimages/158/158_5.jpg
+ocr_text: वृद्धदारुः कटुस्तिक्तः तथोष्णः कफवातजित् | श्वयथुकृमिमेहास्रवातोदरहरः परः| | IDhn) Vraahadaru katu, tikta in rasa, usna in veerza, alleviates kapha ana vata cures svayathu, krmi, meha, asra ana vatodara. द्वदारुद्वयं गौल्यं पिच्छिलं कफवातहृत् कासामदोषघ्नं द्वितीयं स्वल्पवीर्यदम् (Rjnl Vradhadaru dvaya is gaulya, picchila in guna, balya, alleviates kapha ana vata, cures kasa and amadosha. Second variety is of svalpa veerya. रसायनो वृद्धदारुः शोथवातामवातजित् कासश्वासज्वरहरो बल्यः पिच्छिल एव च| | (Bpn) Vraahadaru is picchila in guna, balya, rasayana, alleviates sotha, vata, amavata, kasa, svasa and jvara. वृद्धदारुः कटुस्तिक्तकषायोष्णो रसायनः | (Kdn) Vradhadaru is katu, tikta, kashaya in rasa, usna in veerya and rasayana. कषायतिक्तः कटुको रसायनः सरोडनिलाशः कफशोफमेहहा बलाग्निशुक्रस्वरकान्तिकारकः प्रियो न केषामिह वृद्धदारुकः| | (सि.भे.म) Wradhadaru is kashaya, tikta in rasa, sara guna , usna in veerza rasayana, bala, agni, sukra, svara, kanti kara, alleviates vata, increases kapha, inauces sopha and meha

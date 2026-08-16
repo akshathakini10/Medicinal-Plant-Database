@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3688f04eafe6c7dbb96b46342b44796d
+Botanical Name: Chrysophyllum roxburghii DON.
+Family: Sapotaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 4 languages. Kannada (2) - hale, hali Malayalam (4) - atha, atha pala, atta, pala Marathi (1) - tarsi Tamil (4) - kappalei, karpalai#, karpalai@, kattillupai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3688f04eafe6c7dbb96b46342b44796d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3688f04eafe6c7dbb96b46342b44796d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3688f04eafe6c7dbb96b46342b44796d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

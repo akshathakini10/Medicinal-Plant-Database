@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e26705a1f1077d9482ddfead2b088bd1
+Botanical Name: Ventilago denticulata WILLD.
+Family: Rhamnaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ventilago calyculata TULASNE
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 5 languages. Hindi (2) - lal-beli, raidhani Kannada (7) - boppili chekke, gapsandi balli, gopsandi, haruge, ithaala beelu, kuriyadi, surati chakke Marathi (3) - khaand vaela, sakala vaela, sakalyel Tamil (2) - surul, vembadam Telugu (7) - erra ciralata tige, erraciratalativva, errashiralathige, pipali boddi, suragudu, surati chekka, yerrachictali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e26705a1f1077d9482ddfead2b088bd1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e26705a1f1077d9482ddfead2b088bd1/xclkon/24772bcab4d49f30f7a61eeecdf514fd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e26705a1f1077d9482ddfead2b088bd1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

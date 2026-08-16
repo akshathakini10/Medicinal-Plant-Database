@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bdcf3a36a2c95f35bdd48d4f80ff222f
+Botanical Name: Mentha longifolia (L.) HUDS.
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 4 languages. English (1) - horse mint Hindi (1) - poundina Kannada (1) - kaadu pudina Sanskrit (1) - Sanskrit Comments  putiha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcf3a36a2c95f35bdd48d4f80ff222f
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1414
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1414.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bdcf3a36a2c95f35bdd48d4f80ff222f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Putiha - prajati
+sanskrit_name: पूतिहा प्रजाति
+transliteration: pūtihā prajāti
+ref_drug_name: पूतिहा प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

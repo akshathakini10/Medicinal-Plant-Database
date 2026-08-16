@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c1efddbd6b555b53096a6f70e6b8bf95
+Botanical Name: Ctenolepis cerasiformis NAUD.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 3 languages. Hindi (1) - ankh phutani Sanskrit (2) - Sanskrit Comments  akshipidaka, sankhini Tibetan (2) - sam khi ni (d), san khi ni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1efddbd6b555b53096a6f70e6b8bf95
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1efddbd6b555b53096a6f70e6b8bf95
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c1efddbd6b555b53096a6f70e6b8bf95
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 07a86c171bbe7f7dbb67957d94f55cf1
+Botanical Name: Zehneria scabra (L.F.) SOND.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Bryonia scaber L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 30 Vernacular names found in 2 languages. Sanskrit (2) - Sanskrit Comments  ahilaykum, kuruvikizangu Tamil (28) - catimuli1, kalinkatitakkoti, kalinkatitam, macuni, macutakkoti, macutam, mosumooski, mucani, mucumucukkai, musu musukai, musumusukkai, naai pagal, nayppakal, netuvari, netuvarikkoti, netuviral1, pattiramatantai, peyppakal 1, tuttakai, tuttakaikkoti, tuttam2, tuttuval, uruttiratcantam, vakkirappu, valuvai, valuvaicceti, vatavipputu, vinaiccirru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1/xclkon/57b653cb4ba9522be0d70111448e430a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1/xclkon/ea94167577c8aa9d216132d679b9cf56
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1/xclkon/3a1223cd2034f9db8bdc1d02e30d44a5
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1/xclkon/57b653cb4ba9522be0d70111448e430a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1/xclkon/ea94167577c8aa9d216132d679b9cf56
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1/xclkon/3a1223cd2034f9db8bdc1d02e30d44a5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1/xclkon/57b653cb4ba9522be0d70111448e430a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1/xclkon/ea94167577c8aa9d216132d679b9cf56
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1/xclkon/3a1223cd2034f9db8bdc1d02e30d44a5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07a86c171bbe7f7dbb67957d94f55cf1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a56c30202a8ee64633d5d9f4df537632
+Botanical Name: Embelia tsjeriam-cottam A.DC.
+Family: Myrsinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 6 languages. Hindi (5) - babrang, baibrang, baya birang, bayabirang, bhingi Kannada (6) - amti, choladhanna, joladhanna, kanthree vilanga, maraharive, vaivaling Malayalam (3) - basaal, cheriyannattam, tsjeriam-cottam Marathi (6) - ambati, ambti, ambuti, ingali, kokla, waiwarung Sanskrit (6) - Sanskrit Comments  bidanga, krimighnam, vellah, vidanga, vilangah, vilangam Tamil (1) - vaivilangam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a56c30202a8ee64633d5d9f4df537632
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 890
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/890.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a56c30202a8ee64633d5d9f4df537632
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a56c30202a8ee64633d5d9f4df537632
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vidanga - prajati
+sanskrit_name: विडङ्ग प्रजाति
+transliteration: viḍaṅga prajāti
+ref_drug_name: विडङ्ग प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

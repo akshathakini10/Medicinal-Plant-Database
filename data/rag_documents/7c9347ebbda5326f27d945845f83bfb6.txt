@@ -1,0 +1,105 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7c9347ebbda5326f27d945845f83bfb6
+Botanical Name: Barleria cristata L.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 78 Vernacular names found in 8 languages. Hindi (3) - kala bansa, patro, tadrelu Kannada (9) - jhante, jhinte, kinkiraatha, kuravaka, kuruvaka, mullu gorate, patikada hoo, sphatika, sphatikada hoovu Malayalam (1) - karimkurunni Marathi (1) - gokran Sanskrit (36) - Sanskrit Comments  artagala, bana, dasi, dasikurantaka, jhinti, kakubha, kurabaka, kurabakah, kurantaka, kuravaka, kurubakah, kuruvaka, mahasaha, na, nilamlaainduka, ragaprasava, raktajhinti, raktamlana, raktapushpa, raktasaireyaka, ramalinganakamuka, rujakara, saereyakahnilapuspa, saha, sahaacara, sahacara, sahacarah, saireya, saireyaka, saireyakah, sairiya, sairiyaka, sairyaka, shonajhintaka, subhaga, sweta saireyaka Tamil (10) - kattukkanagambaram, mituri 2, mulkanagambaram, nilaccemmulli, nilachemmulli, nilamparam2, semmulli, udamulli, vellai nilambaram, vellainilambaram Telugu (15) - december puvvulu, errapulapeddagoranta, ettapulapeddagoranta, gobbi, gorinta, kodi kannu, kodikannu, nallapeddagoranta, neerugoranta, niru goranta, nirugoranta, peddagoranta, tellanilambari, thellaneelambari, yera poolapedda gorinta Tibetan (3) - sa ha ra ca, sa ha ra tsa (p), sa-ha-tsa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c9347ebbda5326f27d945845f83bfb6
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 286
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/286.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c9347ebbda5326f27d945845f83bfb6
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c9347ebbda5326f27d945845f83bfb6
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7c9347ebbda5326f27d945845f83bfb6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Saireyaka
+sanskrit_name: सैरेयक
+transliteration: saireyaka
+ref_drug_name: सैरेयक श्वेतरक्ता
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Saireyaka - nila
+sanskrit_name: सैरेयक नील
+transliteration: saireyaka nīla
+ref_drug_name: सैरेयक श्वेतरक्ता
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Saireyaka - pita
+sanskrit_name: सैरेयक पीता
+transliteration: saireyaka pītā
+ref_drug_name: सैरेयक श्वेतरक्ता
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Saireyaka - svetarakta
+sanskrit_name: सैरेयक श्वेतरक्ता
+transliteration: saireyaka śvetaraktā
+ref_drug_name: सैरेयक श्वेतरक्ता
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Sairiyaka
+sanskrit_name: सैरीयक
+transliteration: sairīyaka
+ref_drug_name: सैरेयक श्वेतरक्ता
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 6
+drug_name: Sairiyaka - rakta
+sanskrit_name: सैरीयक रक्त
+transliteration: sairīyaka rakta
+ref_drug_name: सैरीयक रक्त
+status: Accepted source
+discussion: Identified with this species
+reference: [1]
+
+Identity Record 7
+drug_name: Sairiyaka - sveta
+sanskrit_name: सैरीयक श्वेता
+transliteration: sairīyaka śvetā
+ref_drug_name: सैरेयक श्वेतरक्ता
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

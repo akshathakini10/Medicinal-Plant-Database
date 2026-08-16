@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2b67df12042187957f78a5d746f39a25
+Botanical Name: Ficus virens AIT.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ficus infectoria SENSU ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 95 Vernacular names found in 7 languages. Hindi (14) - kahimal, kaim, keol, khabar, padara, padari, pakar, pakhar, pakri, pakur, peelakh, pilagu, pilkhan, ramanjir Kannada (20) - basari, basarigoli, basarimara, basarugoli, basirigoli, basri, basrigoli, bassari, haribasri, jivi, juvikari, juvvi, juvvimara, kabbasari, karibasari, karibasri, karibasuri, katpipri, plaksha, ulabasari Malayalam (14) - bakri, cakila, cakkila, chakkila, chela, cherala, chuvannal, cuvannaal, cuvannal, isjakela, itti, jati, kalal, tsjakela Marathi (4) - bassari, paaeer, pakri, pipli Sanskrit (4) - Sanskrit Comments  parkatinj, plaksa, plaksha, suparsva Tamil (28) - cuvi 1, icci, ichhi, irali 2, irantiri#, irantiri@, irattiri 2, ittiyal, javi, jovi, kallal, kallala 2, kallalam 2, kallalamaram 1, kallalan 2, kallicci 2, kallitti 2, karttapavantam, kurugatti, kurugu, malai-ichchi, malaiichi, nakaiyal 1, pacarai, pepre, suvi, varaiyal, varaiyalmuram Telugu (11) - badijuvi, badijuvvi, banda juvvi, bundajuvi, chavvi, jadi, jati, jevi, juvi, juvvi, pasaari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b67df12042187957f78a5d746f39a25
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b67df12042187957f78a5d746f39a25/xclkon/5c57d3393cb64ca2749b90e9c86ed314
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b67df12042187957f78a5d746f39a25/xclkon/2a11f3c1c22c4fd4bd51606c3b562016
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b67df12042187957f78a5d746f39a25
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b67df12042187957f78a5d746f39a25/xclkon/5c57d3393cb64ca2749b90e9c86ed314
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b67df12042187957f78a5d746f39a25/xclkon/2a11f3c1c22c4fd4bd51606c3b562016
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b67df12042187957f78a5d746f39a25
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b67df12042187957f78a5d746f39a25/xclkon/5c57d3393cb64ca2749b90e9c86ed314
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b67df12042187957f78a5d746f39a25/xclkon/2a11f3c1c22c4fd4bd51606c3b562016
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2b67df12042187957f78a5d746f39a25
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

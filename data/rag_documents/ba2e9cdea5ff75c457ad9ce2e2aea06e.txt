@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ba2e9cdea5ff75c457ad9ce2e2aea06e
+Botanical Name: Rhododendron barbatum WALL.
+Family: Ericaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba2e9cdea5ff75c457ad9ce2e2aea06e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ba2e9cdea5ff75c457ad9ce2e2aea06e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kurabaka
+sanskrit_name: कुरबक
+transliteration: kurabaka
+ref_drug_name: कुरबक
+status: Suggested source
+discussion: This species is tentatively suggested to be used as Kurabaka
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

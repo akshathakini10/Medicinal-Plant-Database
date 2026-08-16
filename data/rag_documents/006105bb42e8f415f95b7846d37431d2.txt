@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 006105bb42e8f415f95b7846d37431d2
+Botanical Name: Corchorus capsularis L.
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 6 languages. Hindi (7) - chiench, janascha, jute, narcha, pat, singhin, titapat Kannada (4) - chinchala gida, chunchala gida, kinikini beeja, sanabu Marathi (7) - banpat, chaunchan, choche, kulichi bhaaji, kurru chantz, taankal joot, tupkati Sanskrit (6) - Sanskrit Comments  cancu, kalasaka, nadibhanga, nadika, patta, singgika Tamil (2) - naruvalli, piratti-kirai Telugu (2) - janumu, parinta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/006105bb42e8f415f95b7846d37431d2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/006105bb42e8f415f95b7846d37431d2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/006105bb42e8f415f95b7846d37431d2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cancu
+sanskrit_name: चञ्चु
+transliteration: cañcu
+ref_drug_name: चञ्चु
+status: Most probable
+discussion: May be considered as this species
+reference: [1]
+
+Identity Record 2
+drug_name: Cancu - prajati
+sanskrit_name: चञ्चु प्रजाति
+transliteration: cañcu prajāti
+ref_drug_name: चञ्चु प्रजाति
+status: Most probable
+discussion: Kaalasaka variety of Cancu is identified with this species
+reference: [4]
+
+Identity Record 3
+drug_name: Kalasaka
+sanskrit_name: कालशाक
+transliteration: kālaśāka
+ref_drug_name: कालशाक
+status: Most probable
+discussion: May be identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Nadikalaya
+sanskrit_name: नाडीकलाय
+transliteration: nāḍīkalāya
+ref_drug_name: नाडीकलाय
+status: Accepted source
+discussion: This species is used as a vegetable and identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

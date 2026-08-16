@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f1d049b12746b9fcb10349f82b32d0ec
+Botanical Name: Bergenia ciliata (HOW.) STERN.
+Family: Saifragaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Bergenia ligulata SENSU BAILEY Saxifraga ligulata WALL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 40 Vernacular names found in 7 languages. Hindi (11) - bhed, dakachru, pakhanabheda, pakhanbed, pasan, pathar tor, pathartor, pathor tor, silohora kathbiraji, silpara, silparo Kannada (2) - alelgaya, pashanabhedi Marathi (1) - pashanbheda Sanskrit (19) - Sanskrit Comments  ashmabhedaka, ashmaghna, asmabhedaka, asmabhit, bhimayojini, giribhita, kallurvanci, mohanavalli, nagabhita, pasana upalabheda, pashanabheda, pashanabhedana, pashanbheda, pashnabheda, shailagarbhaja, shilabheda, shveta, silabheda, silabhit Telugu (1) - telanurupindi Tibetan (3) - a-sma-bhe-da, sru sru i tsa ba, sru srui tsa ba Urdu (3) - pakbanbed, pakhan bed, pakhanbed
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/4fa508162ca1e4deebac7737b57027f8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/4fa508162ca1e4deebac7737b57027f8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/4fa508162ca1e4deebac7737b57027f8
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/2465817c4a7dab9f66eb227768ec7ecb
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f1d049b12746b9fcb10349f82b32d0ec/xclkon/4fa508162ca1e4deebac7737b57027f8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Pasanabheda
+sanskrit_name: पाषाणभेद
+transliteration: pāṣāṇabheda
+image_urls: https://www.medicinalplants.in/slokaimages/233/233_1.jpg https://www.medicinalplants.in/slokaimages/233/233_2.jpg https://www.medicinalplants.in/slokaimages/233/233_3.jpg https://www.medicinalplants.in/slokaimages/233/233_4.jpg
+ocr_text: पाषणभेदकोश्मघ्नःशिलाभेदोश्मभेदकः सचैवोपलभेदश्चनगभिच्छैलगर्भजः Synonyms of pasanabheda are asmaghna, silabheda, asmabhedaka, palabheda, nagabhi elagarbhaja and अश्मभिद्वस्तिरुङ्मूत्रकृच्छ्रतोदाहवातनुत् शीतवीर्योगुरुःस्निग्धस्तथातीसारनाशनः न (शो.नि) Asmabhid is guru, snighda in guna, sita in veerya, alleviates vastiruk, mutra krcchra, daha, vata and atisara. अश्मभेदोहिमस्तिक्तःकषायोवस्तिशोधनः मेदंहन्तित्रिदोषार्शोगुल्मकृच्छ्राश्महृद्रुजः योनिरोगान्प्रमेहांश्चप्लीहशूलव्रणानिच It is tikta, kashaya in rasa, hima in veerya, vasti sodhana, alleviates meda tridosha, arsa, gulma, krcchra, asma, hraruja, yoni roga, prameha, pliha sula and vrana क्षुद्रापाषाणभेदश्चव्रणकृच्छ्राश्मरीहरः IRjn ) Ksudra pasanabheda alleviates vrana, krcchra and asmari.

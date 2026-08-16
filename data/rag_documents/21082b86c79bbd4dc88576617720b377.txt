@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 21082b86c79bbd4dc88576617720b377
+Botanical Name: Opuntia stricta (HAW.) HAW. var. dillenii (KER.-GAWL)BENSON
+Family: Cactaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Cactus ficus-indica L. Opuntia dillenii (KER-GAMIER) HAW.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 112 Vernacular names found in 7 languages. Hindi (6) - haththathoira, nag phan, nag-phana, nagphana, nagphani, phani-manasa Kannada (27) - cappatigalli, chappate kalli, chappatigalli, dabaagalli, dabbagalli, dabbu galli, dabbugalli, dabgalli, kalli, machhagalli, mullkalli, mullu-galli, mullugalli, naagadele kalli, nagadali, papasakalli, papasikalli, papaskalli, papaskatalli, papaskattali, papasukalli, papasukattale, pappaskalli, sappattikalli, shivaram-kalli, sivaramakalli, sivaramukalli Malayalam (9) - kallimullu, naga-mulla, nagamullu, nagatali, nagtali, palakakalli, palakakkalli, palakalli, sapthapano Marathi (10) - chapal, naagaphana, naagathaali, nag-nival, nagaphana, paalakalli, padyaanivadunga, phaninishdunga, samar, vilaithi nevarung Sanskrit (30) - Sanskrit Comments  bahudugdhika, bahushala, dondavrikshaka, guda, gula, kandarohaka, kandashakha, krishnakhara, kubshadruma, mahavriksha, nagadru, nagaphana, netrari, nistrinshapatrika, samantadugdha, shakhakanta, shihunda, sihunda, sinhatunda, snuha, snuhi, snuka, snusha, sudha, vajra, vajradruma, vajrakantaka, vidara, vidara-vishvasaraka, visvasaraka Tamil (18) - cappatti, cappatti-k-kalli, cappattukkalli, kalli, manjarnagadali, mullukkalli, naga-dali, nagadali, nagakkalli, nagarkali, nagatalie kullie, nagathali, nakatali, palagaikkalli, palakai-kalli, pattanadugalli, sappathikkalli, sappattu Telugu (12) - naagadaali, naagajemmudu, naagamullu, naga-dali, nagadali, nagajamudu, nagajemadu, nagajemmadu, nagajemudu, nagamalli, nagamullu, papasalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21082b86c79bbd4dc88576617720b377
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21082b86c79bbd4dc88576617720b377/xclkon/b2be083fcf8e614fd12a468380f42cbd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21082b86c79bbd4dc88576617720b377/xclkon/e2a216ae3ce40f5d5f5c1119cf41d615
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21082b86c79bbd4dc88576617720b377
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21082b86c79bbd4dc88576617720b377/xclkon/b2be083fcf8e614fd12a468380f42cbd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21082b86c79bbd4dc88576617720b377/xclkon/e2a216ae3ce40f5d5f5c1119cf41d615
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21082b86c79bbd4dc88576617720b377
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21082b86c79bbd4dc88576617720b377/xclkon/b2be083fcf8e614fd12a468380f42cbd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21082b86c79bbd4dc88576617720b377/xclkon/e2a216ae3ce40f5d5f5c1119cf41d615
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/21082b86c79bbd4dc88576617720b377
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

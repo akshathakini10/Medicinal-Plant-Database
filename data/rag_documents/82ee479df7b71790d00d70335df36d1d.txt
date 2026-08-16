@@ -1,0 +1,63 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 82ee479df7b71790d00d70335df36d1d
+Botanical Name: Rumex vesicarius L.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 74 Vernacular names found in 8 languages. Hindi (6) - ambari, chooka, chuka, chukka, palak, palan sag Kannada (2) - chukki soppu, chukra Marathi (5) - ambat chuka, chaakavath, chuka, chukaavij, sulenimbu Sanskrit (36) - Sanskrit Comments  amla, amlabhedaka, amlanayaka, amlankusha, amlasara, amlavastuka, amlaveta, amlavetasa, amlavetasah, bhedana, bhedi, bhima, bodhi, casahasrajita, chukra, chukrika, cukra, gulmaha, gulmaketu, kravarti, mahakshara, mansadravi, phalamla, rajamla, raktasara, rasamla, sahasravedhi, satavedhi, shankadravi, shatavedhi, shutavedhi, varabhida, varangi, vedhaka, vetasamla, viramla Tamil (18) - amalavitcam, cataveti, chukkanghkirai, cukkankirai, cukkankirai@, cukkay kirai, cukki, cukkiram, cukkukkirai, kommattikkirai, piracutakkirai, piracutam, shakkan kirai, shakkankirai, shukkan-kirai, sookan keeray, velikayakkirai, velikayam Telugu (4) - chukka kura, chukkakoora, chukkakoora aaku, shukku-kuraku Tibetan (1) - tsu kri ka rnam gcig Urdu (2) - hummaz, tukhm hummaz
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/82ee479df7b71790d00d70335df36d1d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cukra
+sanskrit_name: चुक्र
+transliteration: cukra
+ref_drug_name: चुक्र
+status: Accepted source
+discussion: It is identified with this species
+reference: [4]
+
+Identity Record 2
+drug_name: Cukrika
+sanskrit_name: चुक्रीका
+transliteration: cukrīkā
+ref_drug_name: चुक्रीका
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 813edc3a7c3b227c3fb29dfc7f2f1daa
+Botanical Name: Mirabilis jalapa L.
+Family: Nyctaginaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 107 Vernacular names found in 8 languages. English (3) - false jalap, four-o clock plant, marvel of peru Hindi (5) - gulabans, gulabash, gulabbas, gule-aabbas, guleaabbas Kannada (19) - chandra mallige, chandra-mallige, chandramallige, gulabaasa, gulamaji, gullumunchi, kalluli, madhyaana mallige, madhyahna mallige, madhyanha malligay, madhyanhamallige, naalku gante hoo, naalku gante hoovu, naalku ghante hoo, sanja-mallige, sanjamallige, sanje amllige, sanjimallige, vibhoothi gida Malayalam (6) - andi-malleri, anthimalari, anti-malari, anti-mantaram, antimalari, antimantaram Marathi (5) - emdraks, gulbaashi, gulbas, meremdi, saayankaali Sanskrit (4) - Sanskrit Comments  krishnakeli, krisnakeli, sandhya-raga, sandhyakali Tamil (53) - ammukkili, andimalli, andimalligai, andimandarai, annmalarntan, anthi-mallikai, anti, antimalakikacceti, antimalarakikam, antimalarantan, antimalari, antimallai, antimalli, antimallikai, antimantarai, antimantaram, antinarulu, antippu, arukolacceti, arukolam, bhathrakshi, cannata vali, cannatavali, cantira mallikai, cantiramallikai, civappuantimalli, kanankacikam, kenta, kenta 2, malai antimalli, malaiantimalligaicceti, malaiyantimalli, malaiyantimallikaicceti, paruvaikkantam, paruvatikantam, patrashi, pattarachi, pattaracu, pattarashu, pattiraksi, pattiratcam, pattiratci, ripuncakacceti, ripuncakaceti, ripuncakam, taimilamuli, taittilamuli, taittilamulicceti, tivacattiyacceti, tivacattiyam, tivacttiyaceti, tumpara mallikai, tumparamallikai Telugu (12) - badrakshi, batharachi, bhadraakshi, bhadrakshi, bhandrakanta, chandra-kanta, chandra-kantha, chandra-mali, chandrakaantha, chandrakanta, chandramalle, chandramalli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/813edc3a7c3b227c3fb29dfc7f2f1daa
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/813edc3a7c3b227c3fb29dfc7f2f1daa
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/813edc3a7c3b227c3fb29dfc7f2f1daa
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/813edc3a7c3b227c3fb29dfc7f2f1daa
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/813edc3a7c3b227c3fb29dfc7f2f1daa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

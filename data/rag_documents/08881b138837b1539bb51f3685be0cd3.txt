@@ -1,0 +1,57 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 08881b138837b1539bb51f3685be0cd3
+Botanical Name: Erycibe paniculata ROB.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 20 Vernacular names found in 6 languages. Hindi (1) - katapergu Kannada (9) - ankola balli, ankole, krimighna, krymighna, sengarballi, singaaraballi, singaru balli, uhiniambu, vayla balli Malayalam (4) - erima-tali, erimiatali, irimpiyatali, irupiyatali Sanskrit (1) - Sanskrit Comments  asokarohini Tamil (2) - unamkodi, unankodi Telugu (3) - putta palatige, puttapaalathige, puttapalatige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08881b138837b1539bb51f3685be0cd3
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08881b138837b1539bb51f3685be0cd3
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/08881b138837b1539bb51f3685be0cd3
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asokarohini
+sanskrit_name: अशोकरोहिणी
+transliteration: aśokarohiṇī
+ref_drug_name: अशोकरोहिणी
+status: Suggested source
+discussion: It is a climber having leaves like those of Asoka according to Arunadatta so may be identified with this species; Usually accepted as Katuka
+reference: [1]
+
+Identity Record 2
+drug_name: Rohini
+sanskrit_name: रोहिणी
+transliteration: rohiṇī
+ref_drug_name: रोहिणी
+status: ?
+discussion: ?
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

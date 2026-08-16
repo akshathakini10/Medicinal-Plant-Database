@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3c57174d57a100abac309bf95563f5d2
+Botanical Name: Ficus lacor BUCH.- HAM. var. wightiana
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c57174d57a100abac309bf95563f5d2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3c57174d57a100abac309bf95563f5d2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Plaksa
+sanskrit_name: प्लक्ष
+transliteration: plakṣa
+image_urls: https://www.medicinalplants.in/slokaimages/746/746_1.jpg https://www.medicinalplants.in/slokaimages/746/746_2.jpg https://www.medicinalplants.in/slokaimages/746/746_3.jpg
+ocr_text: प्लक्ष कटुकषायश्च शीतलो रक्तपित्तजित् मूर्च्छाश्रमप्रलापाश्च हरेत् प्लक्षो विशेषतः Dhn) Plaksa is katu, kashaya in rasa, sita in veerya, alleviates raktapitta murccha srama and pralapa. प्लक्षः कटुकषायश्च शिशिरो रक्तदोषजित् मूर्छाभ्रमप्रलापघ्नो ह्रस्वप्लक्षो विशोषकः | | IRjn) Plaksa is katu , ksahaya in rasa, sita in veerya, alleviates rakta dosha, murccha, bhrama, pralapa, hrasva and is visosaka. प्लक्षः कषायः शिशिरो व्रणयोनिलगदापहा दाहपित्तकफामघ्नः शोथहा रक्तपित्तहृत्| | रक्तदोषहरो मूर्च्छाप्रलापभ्रमनाशनः [ IBpnl Plaksa is kashaya in rasa, sita in veerya, is vranya, alleviates anila, gada, aaha, pitta, kapha, ama, sotha, raktapitta, rakta aosha, murccha, pralapa and bhrama

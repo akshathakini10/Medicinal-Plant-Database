@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9c720ebab793f517c0a79126247a1b92
+Botanical Name: Inula royleana DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 1 languages. Sanskrit (8) - Sanskrit Comments  pauskara, pauskaramula, puskara, puskarahva, puskarajajata, puskarajata, puskarakhya, puskaramula
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c720ebab793f517c0a79126247a1b92
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1189
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1189.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9c720ebab793f517c0a79126247a1b92
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Puskaramula
+sanskrit_name: पुष्करमूल
+transliteration: puṣkaramūla
+ref_drug_name: पुष्करमूल
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

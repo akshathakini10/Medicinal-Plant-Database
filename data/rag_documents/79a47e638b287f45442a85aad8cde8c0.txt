@@ -1,0 +1,116 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 79a47e638b287f45442a85aad8cde8c0
+Botanical Name: Rhododendron arboreum SM.
+Family: Ericaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 32 Vernacular names found in 6 languages. Hindi (11) - baras, brah, bras, brass, buranh, burans, buras, buras/brass, cheo, cheu, parag Kannada (8) - bili, bili mara, bilipu, billee, billi, billy, poo, pu Malayalam (3) - kattupoovarasu, kattupuvaracu, kattupuvarasu Sanskrit (1) - Sanskrit Comments  pullasa Tamil (7) - alingi, alingil, billi, billimaram, malai-p-puvaracu, nilakiripumaram, pumaram Tibetan (2) - ka ra ba ka (p & d), ke ra ba ka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1804
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1804.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/79a47e638b287f45442a85aad8cde8c0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kurabaka
+sanskrit_name: कुरबक
+transliteration: kurabaka
+ref_drug_name: कुरबक
+status: Suggested source
+discussion: This species is tentatively suggested to be used as Kurabaka
+reference: [1]
+
+Identity Record 2
+drug_name: Pullasa
+sanskrit_name: पुल्लास
+transliteration: pullāsa
+ref_drug_name: पुल्लास
+status: Most probable
+discussion: Most probably 'Pullasa' is correlated to this species according to the author
+reference: [5]
+
+Identity Record 3
+drug_name: Saireyaka
+sanskrit_name: सैरेयक
+transliteration: saireyaka
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 4
+drug_name: Saireyaka - nila
+sanskrit_name: सैरेयक नील
+transliteration: saireyaka nīla
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 5
+drug_name: Saireyaka - pita
+sanskrit_name: सैरेयक पीता
+transliteration: saireyaka pītā
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 6
+drug_name: Saireyaka - svetarakta
+sanskrit_name: सैरेयक श्वेतरक्ता
+transliteration: saireyaka śvetaraktā
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 7
+drug_name: Sairiyaka
+sanskrit_name: सैरीयक
+transliteration: sairīyaka
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 8
+drug_name: Sairiyaka - sveta
+sanskrit_name: सैरीयक श्वेता
+transliteration: sairīyaka śvetā
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

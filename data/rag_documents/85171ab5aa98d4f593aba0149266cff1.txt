@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 85171ab5aa98d4f593aba0149266cff1
+Botanical Name: Flickingeria macraei (LINDL.)  BENNET
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 1 languages. Sanskrit (8) - Sanskrit Comments  jivabhadra, jivani, jivaniya, jivanti, jivashresta, mangalya, sakashresta, yasasvini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85171ab5aa98d4f593aba0149266cff1
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1009
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1009.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/85171ab5aa98d4f593aba0149266cff1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

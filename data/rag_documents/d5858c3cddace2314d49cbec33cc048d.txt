@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d5858c3cddace2314d49cbec33cc048d
+Botanical Name: Cucurbita moschata (LAM.) DUCHESNE E POIR.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 24 Vernacular names found in 8 languages. English (2) - pumpkin, winter squash Hindi (10) - dangar-bela, danger vela, khola, kolais, kolaro vela, kolaro-bela, kolias, kumrah, mitha-kaddu, sitaphal Kannada (4) - dangara balli, dangara kaayi, kandugumbala, sihi kumbala kaayi Malayalam (1) - schaken-schora Marathi (3) - kala bhopala, kali-dudhni, kashiphal Tamil (2) - paranki pucani, pucani Telugu (1) - potti gummadi Urdu (1) - kaddu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5858c3cddace2314d49cbec33cc048d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5858c3cddace2314d49cbec33cc048d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5858c3cddace2314d49cbec33cc048d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d5858c3cddace2314d49cbec33cc048d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Pitakusmanda
+sanskrit_name: पीतकूष्माण्ड
+transliteration: pītakūṣmāṇḍa
+ref_drug_name: पीतकूष्माण्ड
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Pitakusmanda
+sanskrit_name: पीतकूष्माण्ड
+transliteration: pītakūṣmāṇḍa
+ref_drug_name: पीतकूष्माण्ड प्रकार
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 3
+drug_name: Pitakusmanda - prakara
+sanskrit_name: पीतकूष्माण्ड प्रकार
+transliteration: pītakūṣmāṇḍa prakāra
+ref_drug_name: पीतकूष्माण्ड
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 4
+drug_name: Pitakusmanda - prakara
+sanskrit_name: पीतकूष्माण्ड प्रकार
+transliteration: pītakūṣmāṇḍa prakāra
+ref_drug_name: पीतकूष्माण्ड प्रकार
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

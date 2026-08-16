@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a7ae3e716d782c4cd886e76df0a6e886
+Botanical Name: Merremia hederacea (N.BURM.) H.HALL.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Malayalam (1) - kudici-valli Tamil (1) - elikkatutalai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7ae3e716d782c4cd886e76df0a6e886
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7ae3e716d782c4cd886e76df0a6e886
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a7ae3e716d782c4cd886e76df0a6e886
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

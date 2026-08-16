@@ -1,0 +1,54 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c65a146c4229249af042aa4bc939d153
+Botanical Name: Actiniopteris radiata (SW.) LINK
+Family: Actiniopteridaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Actiniopteris australis (L.F.) LINK Actiniopteris dichotoma BEDD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 7 languages. Hindi (6) - jahareela-podha, mayurshikha, mayursiha, morpamkhi, morpankhi, sanjeevani Kannada (1) - mayoora shikhi Malayalam (3) - mauilatumsikha, mayurasikha, nanmukappullu Marathi (1) - mayoor shikha Sanskrit (5) - Sanskrit Comments  barhicuda, chudala, mayurasikha, mayurshikha, mayurskha Tamil (2) - mayilatumsikhai, mayircikai Telugu (3) - mayoora shikha, navili juttu, nemali shikha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/b0cc5580bef236e0d1ed2e81891bce68
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/b0cc5580bef236e0d1ed2e81891bce68
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/b0cc5580bef236e0d1ed2e81891bce68
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153/xclkon/d9acf89f65f3437a2ddd7cf67ba41f1e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c65a146c4229249af042aa4bc939d153
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d19704d7822e4938d3d96660f76e7ddd
+Botanical Name: Cymbopogon jwarancusa (JONES) SCHULT.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Andropogon jwarancusa JONES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 38 Vernacular names found in 7 languages. Hindi (13) - bur, buraro, ghatyari, ibharankusha, karankusha, khavi, khawi, khoi, lamjak, panni, san, solara, tintrya Kannada (1) - karilaavancha hullu Marathi (3) - izkir, lavaja, pivalavala Sanskrit (17) - Sanskrit Comments  amrinala, avadahaka, avadataka, bhutrina, dirghamula, ishthakapathika, jalashaya, kattrna, laghu, lamajjaka, laya, nalada, sevya, shighra, sunala, sunila, tamajja Tamil (1) - vilaamichchan Tibetan (2) - la ma rja, la mad dza (d) Urdu (1) - izkhar
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd/xclkon/dd8cf5f98087e99785baac0db0b9b76a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd/xclkon/09d3321341ad3d94d26b673adf477204
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd/xclkon/dd8cf5f98087e99785baac0db0b9b76a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd/xclkon/09d3321341ad3d94d26b673adf477204
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd/xclkon/dd8cf5f98087e99785baac0db0b9b76a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd/xclkon/09d3321341ad3d94d26b673adf477204
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd/xclkon/dd8cf5f98087e99785baac0db0b9b76a
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd/xclkon/09d3321341ad3d94d26b673adf477204
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d19704d7822e4938d3d96660f76e7ddd
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kattrna
+sanskrit_name: कट्तृण
+transliteration: kaṭtṛṇa
+ref_drug_name: कट्तृण
+status: Most probable
+discussion: Kattrna is mentioned as one of the drugs of 'Stanyajanana mahakasaya' (galactogogue drugs); Drugs mentioned in this group are grass variety and according to the author this species is correlated to it
+reference: [5]
+
+Identity Record 2
+drug_name: Sugandhaka
+sanskrit_name: सुगन्धक
+transliteration: sugandhaka
+ref_drug_name: सुगन्धक
+status: Most probable
+discussion: With regard to its habit this species is most probably correlated to Sugandhaka
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6832715067741f6e9677f7944949e196
+Botanical Name: Cymbopogon jwarancusa (JONES) SCHULT. subsp. olivieri (BOISS.) SOENARKO.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Andropogon schoenanthus L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 6 languages. Hindi (5) - agyaghas, akya-ghas-ka-aitr, gandhabena, roshel, ruaghas Kannada (2) - purvali-hullu-yanne, vasanehullu-yanne Malayalam (2) - sambhara-pulla-enna, vasanap-pulla-enna Sanskrit (6) - Sanskrit Comments  bhutrina, bhutruna, devajagdhakatailam, dhyamakam, katutrna, mala-trinakam Tamil (6) - camachie pilloo, cukku narippul, karpura-pullu-yenney, karupura-pulu yenney, shakanarupillu, vashanap-pullu-yenney Telugu (2) - chippa-gaddi-nune, nimma-gaddi-nune
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6832715067741f6e9677f7944949e196
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6832715067741f6e9677f7944949e196/xclkon/b78ab2d7aa23228dcdc0c2721a3926ad
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6832715067741f6e9677f7944949e196
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+image_urls: https://www.medicinalplants.in/slokaimages/550/550_1.jpg https://www.medicinalplants.in/slokaimages/550/550_2.jpg https://www.medicinalplants.in/slokaimages/550/550_3.jpg
+ocr_text: कत्तृणं श्वासकासघ्नं हृद्रोगशमनं परम् विसूच्यजीर्णशूलघ्नं कफपित्तास्रनाशनम् न (ज.नि) Kattrna alleviates svasa , kasa, visuci, ajirna, sula, best in pacifyng hrdroga, destroys kapha, pitta asra and कत्तृणा दशनामाढ्यं कटुतिक्तं कफापहम्| शस्त्रशल्यादिदोषघ्नं बालग्रहविनाशनम् | IRin) Kattrna is katu, tikta in rasa, dasanamdhya, alleviates kapha, sastra salyadi dosha and destroys bala Braha. रोहिषं तिक्तं कटुपाकं व्यपोहति | हृत्कण्ठव्याधिपित्तास्रशूलकासकफज्वरान् (Bpn) Rohisa is tuvara, tikta in rasa, katu in paka, alleviates hrt kantha vyadhi, pitta, asra, sula, kasa, kapha and jvara. तुवरं

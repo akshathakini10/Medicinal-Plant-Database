@@ -1,0 +1,100 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 69187c98d65911f2688eb248130c3568
+Botanical Name: Dillenia pentagyna ROB.
+Family: Dilleniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 88 Vernacular names found in 7 languages. Hindi (3) - aggai, kallai, karmal Kannada (37) - kaadu kanigala, kaadu kanigalu, kaadukanagilu, kadkanagalu, kadkanigila, kadkanyila, kaduganigila, kadukanigala, kanagala, kanagale, kanagalu, kanagulu, kangal, kanigala, karambala, karmal, kolategu, koltega, koltegu, kolthaega, kolthega, koolateegu, kultega, machil, mada thega, madathaega, malegeru, malethaega, modutega, muccalu, muccil, muccuhiri, muchahir, muchhaheeri, muchhilu, muchihir, muchiru Malayalam (17) - kodapanna, kodappunna, kodapunna, kodeipunnai, kodepunna, kotapunna, malampunna, naiteku, nayitaku, panna, pattipanna, pattipunna, pattipunnai, pennay, punna, punnai, vazhapunna Marathi (4) - karambala, karambel, karmal, kurweil Sanskrit (3) - Sanskrit Comments  aksikiphala, nagakesaram, punnaga Tamil (11) - kalliccilaikkay, kallicilaikkay, kallililinkay, kalluccilaikay, naitekku, naiteku, nayttekku, pattippunnai, pattipunna, pinnai 1, sirunagapoo Telugu (13) - chinna kalinga, chinnakainga, parataku, parudu, raevadi, rath-eggi, ravudana, rawadan, revada, revadi, revadi chettu, rowadan, uvva kaya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 811
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/811.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69187c98d65911f2688eb248130c3568
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aksikiphala
+sanskrit_name: आक्षिकीफल
+transliteration: ākṣikīphala
+ref_drug_name: आक्षिकीफल
+status: Suggested source
+discussion: In Assam it is known as ‘Akshi’ and hence identified with it
+reference: [5]
+
+Identity Record 2
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+ref_drug_name: नागकेशरम्
+status: ?
+discussion: ?
+reference: [2]
+
+Identity Record 3
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+ref_drug_name: नागकेशरम्
+status: Market source
+discussion: This species known as Malabar nagakesara is sold as Nagakesara in the markets of South India
+reference: [2]
+
+Identity Record 4
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+ref_drug_name: नागकेशरम्
+status: ?
+discussion: ?
+reference: [2]
+
+Identity Record 5
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+ref_drug_name: नागकेशरम्
+status: Market source
+discussion: This species known as Malabar nagakesara is sold as Nagakesara in the markets of South India
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nagakesara
+sanskrit_name: नागकेशर
+transliteration: nāgakeśara
+image_urls: https://www.medicinalplants.in/slokaimages/1099/1099_1.jpg https://www.medicinalplants.in/slokaimages/1099/1099_2.jpg https://www.medicinalplants.in/slokaimages/1099/1099_3.jpg https://www.medicinalplants.in/slokaimages/1099/1099_4.jpg
+ocr_text: नाग गकेसरमल्पोष्णं लघु तिक्तं कफापहम्| बस्तिवातामयघ्नञ्च कण्ठशीर्षरुजापहम् IRin) Nagakesara is tikta in rasa, laghu in guna, alposna in virya, alleviates kapha, cures vasti vatamaya, kantha sirsa ruja. केसरं विषविसर्परक्तर्शोवमिकुष्ठहृत् हृल्लासवमिदौर्गन्ध्यतृष्णापित्तबलासजित् | (ग.नि) Kesara cures visa, visarpa, rakta vami, kustha, hrilasa, vami, daurganahya, trsna, pitta balasa arsa , and नागपुष्पं कषायोष्णं रूक्षं लघ्वामपाचनम्| ज्वरकण्डूतृषास्वेदच्छर्दिहृल्लासनाशनम् दौर्गन्धकुष्ठवीसर्पकफपित्तविषापहम् IBpnl Nagapuspa is kashaya in rasa, ruksa, laghu in guna, usna in veerya, ama pacana, alleviates jvara , kandu, trsha, sveda, chardi and hrllasa. उष्णं, रूक्ष, नागपुष्पं कषायं तृष्णाच्छर्द्दिश्लेष्मनातप्रमाथि|| तसि॰ भे.म॰ Nagakesara is kashaya in rasa, ruksa in guna, usna in veerya, is pramathi, alleviates trsna, chardi and slesma
+
+Shloka Record 2
+drug_name: Nagakesaram
+sanskrit_name: नागकेशरम्
+transliteration: nāgakeśaram
+image_urls: https://www.medicinalplants.in/slokaimages/1099/1099_1.jpg https://www.medicinalplants.in/slokaimages/1099/1099_2.jpg https://www.medicinalplants.in/slokaimages/1099/1099_3.jpg https://www.medicinalplants.in/slokaimages/1099/1099_4.jpg
+ocr_text: नाग गकेसरमल्पोष्णं लघु तिक्तं कफापहम्| बस्तिवातामयघ्नञ्च कण्ठशीर्षरुजापहम् IRin) Nagakesara is tikta in rasa, laghu in guna, alposna in virya, alleviates kapha, cures vasti vatamaya, kantha sirsa ruja. केसरं विषविसर्परक्तर्शोवमिकुष्ठहृत् हृल्लासवमिदौर्गन्ध्यतृष्णापित्तबलासजित् | (ग.नि) Kesara cures visa, visarpa, rakta vami, kustha, hrilasa, vami, daurganahya, trsna, pitta balasa arsa , and नागपुष्पं कषायोष्णं रूक्षं लघ्वामपाचनम्| ज्वरकण्डूतृषास्वेदच्छर्दिहृल्लासनाशनम् दौर्गन्धकुष्ठवीसर्पकफपित्तविषापहम् IBpnl Nagapuspa is kashaya in rasa, ruksa, laghu in guna, usna in veerya, ama pacana, alleviates jvara , kandu, trsha, sveda, chardi and hrllasa. उष्णं, रूक्ष, नागपुष्पं कषायं तृष्णाच्छर्द्दिश्लेष्मनातप्रमाथि|| तसि॰ भे.म॰ Nagakesara is kashaya in rasa, ruksa in guna, usna in veerya, is pramathi, alleviates trsna, chardi and slesma

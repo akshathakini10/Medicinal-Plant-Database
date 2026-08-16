@@ -1,0 +1,66 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9bf02cf42ae0025a11c2d5cff0e712f8
+Botanical Name: Prunus armeniaca L.
+Family: Rosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 5 languages. English (3) - apricot, apricot pits, pangamic acid Hindi (14) - chihri, chilu, chir, chul, chuli, chulli, chulti, chulu, jardalu, khubani, khumani, khumani (apricot), khurmani, khurmani (apricot) Kannada (2) - aepricot, jaradaalu Sanskrit (1) - Sanskrit Comments  urumana Urdu (1) - maghz badam shirin
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bf02cf42ae0025a11c2d5cff0e712f8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bf02cf42ae0025a11c2d5cff0e712f8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bf02cf42ae0025a11c2d5cff0e712f8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Nicula
+sanskrit_name: निचुल
+transliteration: nicula
+ref_drug_name: निचुल
+status: A-C
+discussion: ?
+reference: [1]
+
+Identity Record 2
+drug_name: Urumana
+sanskrit_name: उरुमाण
+transliteration: urumāṇa
+ref_drug_name: उरुमाण
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 3
+drug_name: Urumana
+sanskrit_name: उरुमाण
+transliteration: urumāṇa
+ref_drug_name: उरुमाण
+status: Most probable
+discussion: Considered to be one of the fruits of Northern Himalayas called Khubani which is correlated to this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,80 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3cc2bca5b45aedfda571996b3573cccf
+Botanical Name: Portulaca oleracea L.
+Family: Portulacaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 114 Vernacular names found in 9 languages. English (2) - common purslane, money plant Hindi (20) - badi noni, bara laniya, baralaniya, baralunia, chhotalunia, khurfa, khurfekasag, khursa, kulfa, kulfo, lonia, lunia, luniakulfah, luniya, lunkha, lunuk, muncha, munya, nonkha, ram jata Kannada (11) - bachale soppu, budagora, dodda goni soppu, dodda gonisoppu, doddagoni soppu, duda-gorai, dudagorai, golisoppu, gonikasa, kirigoli, nuchhu goli palya Malayalam (5) - kara-tsjira, kariccira, koluppa, koluppaccira, koricchira Marathi (7) - bhuigholi, ghoi, gholbhaji, ghole, gol.golchi-bhaji, mhotighol, motighol Sanskrit (11) - Sanskrit Comments  brhallonika, brhatloni, brihalloni, gholika, ghotika, kozuppa, lona, loni, lonika, lunia, upodika Tamil (31) - irattarputakkirai, karikkirai, karpakantakkirai, karpakantam, kolikkirai, kolikkurumpan, kolikkurumpankirai, koshi keerai, kotakam 2, kuravaki, kuravakikkirai, loni, nicakarakkirai, nicakaram, pacalai 3, parpukire, parukire, paruppu keerai, paruppu kirai, paruppu-k-kirai, paruppukeerai, paruppukkirai, paruppuukkirai, parupukkirai, passalakkirai, pulikkirai, punnacakkirai, punnakam 2, talvari, talvarikkirai, vayalai kodi Telugu (13) - boddupavilikoora, boddupavilikura, ganga paavilikoora, gangapavilikura, pappu kura, pappukoor aaku, pappukoora, pappukura, pedda pavali kura, pedda pavilikoora, peddapavila kura, peddapavilikura, peddapuvilakura Urdu (14) - ab khurfa siyah murrawaq, boondaqi, boondqi, fafees, khurfa, khurfah, qalfaa, siyah, tukhm khurfa, tukhm khurfa siyah, tukhm khurja siyah, tukhm-i-khurfa, tukhm-i-khurfa-i-siyah, tulkhm-i-khurfa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1725
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1725.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3cc2bca5b45aedfda571996b3573cccf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Lonika
+sanskrit_name: लोणिका
+transliteration: loṇikā
+ref_drug_name: लोणिका
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Lonika - jati
+sanskrit_name: लोणिका जाति
+transliteration: loṇikā jāti
+ref_drug_name: लोणिका जाति
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 3
+drug_name: Lonika - prakara
+sanskrit_name: लोणिका प्रकार
+transliteration: loṇikā prakāra
+ref_drug_name: लोणिका प्रकार
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 4
+drug_name: Lonika - prakara
+sanskrit_name: लोणिका प्रकार
+transliteration: loṇikā prakāra
+ref_drug_name: लोणिका प्रकार
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

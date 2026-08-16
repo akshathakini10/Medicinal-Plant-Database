@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 587398e0b0869d8ef9672f09ba982a82
+Botanical Name: Glycine max (L.) MERR.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Glycine soja SIEB. & ZUCC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 3 languages. English (5) - bean curd, soja, soy or soya bean, tau foo, tofu Hindi (5) - bhat, bhatwar, bhetmas, ramkurthi, soyabean Marathi (1) - soya-been
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/587398e0b0869d8ef9672f09ba982a82/xclkon/04155c07002c2c57ac9d20e235a1c791
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/587398e0b0869d8ef9672f09ba982a82
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/587398e0b0869d8ef9672f09ba982a82/xclkon/04155c07002c2c57ac9d20e235a1c791
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rajasimbi
+sanskrit_name: राजशिम्बी
+transliteration: rājaśimbī
+ref_drug_name: राजशिम्बी
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

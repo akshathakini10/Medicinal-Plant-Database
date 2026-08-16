@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d567ffa07a695028c92cd16a9096fece
+Botanical Name: Basella alba L.
+Family: Basellaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 51 Vernacular names found in 6 languages. Hindi (2) - lalbaclu, poi Kannada (7) - baayi basale, basale soppu, bili basale, dodda basale, hire basale, kempu baayi basale, kempu basale Malayalam (2) - basalaccira, vasalaccira Sanskrit (17) - Sanskrit Comments  apodika, kalambi, madushaka, mohini, pichhila, pichhilachhada, potaki, putika, upodaka, upodaki, upodika, upoti, valipodaki, vallivastuka, vishala, vishvatulasi, vrishchikapriya Tamil (13) - arancaki, arancakikkoti, cuvetapacali, cuvetapacalikkoti, kodipasarai, pacalai, shivappupaslakkirai, sivappu vasalakkirai, vasalakkirai, vellaippacali, vellaippacalikoti, venpacali, venpacalikkoti Telugu (10) - allabachhalla, allu-batchhalla, bachhali koora, bachhalitheega, erraalubachhali, kaarubachhali, pedamattu, peddabachhalia, peddamattuniatkubatsala, polambachhali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d567ffa07a695028c92cd16a9096fece
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d567ffa07a695028c92cd16a9096fece
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d567ffa07a695028c92cd16a9096fece
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Upodika
+sanskrit_name: उपोदिका
+transliteration: upodikā
+ref_drug_name: उपोदिका
+status: Suggested source 2
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

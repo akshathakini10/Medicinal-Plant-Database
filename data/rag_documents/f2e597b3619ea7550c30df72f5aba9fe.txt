@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f2e597b3619ea7550c30df72f5aba9fe
+Botanical Name: Corchorus olitorius L.
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 50 Vernacular names found in 7 languages. English (2) - jew s mallow, tossa jute Hindi (7) - chamghas, jute, koshta, mithapat, pata, rajaan, singinjanascha Kannada (4) - chunchali gida, dodda chunchala gida, kaadu senabu, kadusenabu Marathi (5) - banpat, chinch, chunch, mote chunch, motichunch Sanskrit (13) - Sanskrit Comments  brihatchanchu, dirghapatri, divyagandha, kalasa, mahachanchu, nadika, nalika, patta, sing-gika, singgika, sthulachanchu, suchanchuka, vishari Tamil (14) - kattuttutti, konkaramacu, konkaramacukkirai2, natikam, peratti, peratti-kirai, perattikkirai, perumpinnak kukkirai, pinnakkukkirai@, pirattaikkirai, pirattikkirai, punaku, purattikkirai, sanal Telugu (5) - janumu, parinta, parinta koora, parinta kura, parintakura
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f2e597b3619ea7550c30df72f5aba9fe
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cancu
+sanskrit_name: चञ्चु
+transliteration: cañcu
+ref_drug_name: चञ्चु
+status: Most probable
+discussion: May be considered as this species
+reference: [1]
+
+Identity Record 2
+drug_name: Cancu - prajati
+sanskrit_name: चञ्चु प्रजाति
+transliteration: cañcu prajāti
+ref_drug_name: चञ्चु प्रजाति
+status: Most probable
+discussion: Pattasaka variety of Cancu is identified with this species
+reference: [4]
+
+Identity Record 3
+drug_name: Suskasaka
+sanskrit_name: शुष्कशाक
+transliteration: śuṣkaśāka
+ref_drug_name: शुष्कशाक
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

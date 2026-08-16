@@ -1,0 +1,162 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 178cc9ad03d6f4d8fd4257d486c60e22
+Botanical Name: Boswellia serrata ROB.
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Boswellia glabra ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 240 Vernacular names found in 9 languages. Hindi (14) - anduk, gugal, halar, kundur, loban, lobhan, luban, salaga, salai, salar, salaran, salhe, sel-gond, vellakkunturukkam Kannada (46) - aanebyala, chilakadi, chilakadoopa, chilkada, chilku, chite mara, chitta, chittha, chitthu, chittu, chittumbe, cite, citumme, dhupa, dhupadamara, doopa, dupa, googula, guggala, guggala doopa, guggaladupa, guggula, guggula mara, guggulu, huguludhupa, idabola, kanda, kunda, kunduru, lobaana maadi, lobana, maddi, maddi mara, madi, mukunda, saliria, sambrani, site, situmme, tadika, tadiku, taduku, turushka, viseshadhupada, vishesha dhoopa, visheshadhupada Malayalam (23) - chitteenthi, citinti, hladini, kondrike, koondrika, koondrikam, koonthrakum, kundurukkamaram, kuntirikkam, kuntirukkam, kunturukkam, manna-kungiliyam, mannakkunkilyam, mukundam, palangam, palankam, parankisamprani, sambrani, samprani, stayanti, valanku-chambrani, vella-kundirukkam, vellakkunturukkam Marathi (6) - anduk, pahadidhup, saalayi, salai, salaphali, salphulia Sanskrit (59) - Sanskrit Comments  agavrttika, ashvamutri, asraphala, bahusrava, gajabhaksha, gajabhaksya, gajapriya, gajasana, gajashana, gajavallabha, gandhamula, gandhavira, guggu, hladini, hraswada, jalatiktika, kapitthaparni, karaka, khapurah, konkanadhoopam, konkanadhupa, kumbhi, kundara, kundu, kundurakam, kunduru, kunduruguggulu, kunduruka, kunduruki, kunduruska, kunduruskah, l, lhadini, maherana, maheruna, mocha, nagavadhu, nagavrttika, rasala, salakhi, salasi, salasiniryasam, salasiniryasasallaki, sallaki, shallaki, silhabhumika, silhaki, sugandha, sukhamoda, surabhi, surabhisrava, sushrika, susrava, suvaha, vanakarnika, vasamaharuba, viseshadhupa, vrttika, yakshadhupa Tamil (56) - attam, campirani2, coong kilium, curapi5, dhupam, kavucikam, koondricum, kulikili, kumaincan, kumancam, kumancan, kundrikam, kunduru, kundurukam-pishin, kundurukkam-pishin, kundurukkan, kungiliam, kungiliyam, kungli, kungulu, kunkiliyam, kunkulu1, kuntarikkam, kunthirikkam, kuntilinkam, kuntirikam, kuntirukkam, kunturu1, kunturucam, kunturukam, kunturukkam, kunturukkam1, muraiyidam, muruntapali 1, narumpicin, parangi-shambirani, parangichambrani, paranki campirani, parankic campirani, parankisampirani, paringhi sambrani, pinniyakam, pinniyakkam, pintivakanam, pintivalakam, pintivalam, punniyakam, punniyakkam, sambrani, tevatupam1, titcanam4, valakam 1, valugam, vellai kunkiliyam, vellaik kunkiliyam, vellaikungiliyam Telugu (27) - andaka, andika, anduga, anduga-pisunu, andugapisunu, andugu, anduku, dhoopamu, dhupa, dhupamu, goggilamu, gogoola, googilum, googoolupu, guggila puchettu, guggilam, guggilamu, guggilapu, guggillam, kanupu, parangi, parangi-sambrani, parangisaambraani, parangisambrani, pharangisambrani, tellaguggilamu, thellaguggilamu Tibetan (4) - bo ga dkar po, bog dkar pa, po ga dkar po, po ga dkar po (p) Urdu (5) - kundar, kundur, loban, lobana, sat loban
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/dce9cbd05de82babe5ffad590301114e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 348
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/348.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/9403e101fdfc8bd700ee5265031843ca
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/18f5990d6eb3c2867134195014979ced
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/dce9cbd05de82babe5ffad590301114e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/9403e101fdfc8bd700ee5265031843ca
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/18f5990d6eb3c2867134195014979ced
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/dce9cbd05de82babe5ffad590301114e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/9403e101fdfc8bd700ee5265031843ca
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/18f5990d6eb3c2867134195014979ced
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/dce9cbd05de82babe5ffad590301114e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/9403e101fdfc8bd700ee5265031843ca
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/18f5990d6eb3c2867134195014979ced
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/dce9cbd05de82babe5ffad590301114e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/9403e101fdfc8bd700ee5265031843ca
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/4657546057a7a522681239099a690c16
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/18f5990d6eb3c2867134195014979ced
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/178cc9ad03d6f4d8fd4257d486c60e22/xclkon/dce9cbd05de82babe5ffad590301114e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kunduru
+sanskrit_name: कुन्दुरु
+transliteration: kunduru
+ref_drug_name: कुन्दुरु
+status: Accepted source
+discussion: Is the gum of Boswellia serrata
+reference: [1]
+
+Identity Record 2
+drug_name: Sallaki
+sanskrit_name: शल्लकी
+transliteration: śallakī
+ref_drug_name: शल्लकी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Sallaki
+sanskrit_name: शल्लकी
+transliteration: śallakī
+ref_drug_name: शल्लकी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Sallaki
+sanskrit_name: शल्लकी
+transliteration: śallakī
+ref_drug_name: शल्लकी भेद
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Sallaki - bheda
+sanskrit_name: शल्लकी भेद
+transliteration: śallakī bheda
+ref_drug_name: शल्लकी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 6
+drug_name: Sallaki - bheda
+sanskrit_name: शल्लकी भेद
+transliteration: śallakī bheda
+ref_drug_name: शल्लकी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Sallaki - bheda
+sanskrit_name: शल्लकी भेद
+transliteration: śallakī bheda
+ref_drug_name: शल्लकी भेद
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Sallaki
+sanskrit_name: शल्लकी
+transliteration: śallakī
+image_urls: https://www.medicinalplants.in/slokaimages/258/258_1.jpg https://www.medicinalplants.in/slokaimages/258/258_3.jpg https://www.medicinalplants.in/slokaimages/258/258_4.jpg
+ocr_text: शल्लकी तुवरा शीता श्लेष्मपित्तातिसारजित् रक्तपित्तवर्णहरी पुष्टिकृत्समुदीरिता | | तत्फलम् कफवातार्शकुष्ठारोचकनाशनम्| पुष्पं चासंय कफं वातमर्शकुष्ठारुचीर्जयेत्| | (गःनि) Sallaki is tuvara in rasa, sita in veerya, pusti kara, alleviates slesma, pitta atisara, rakta pitta varna. Its phala destroys kapha, vata, arsa, kustha and arocaka Its puspa alleviates kapha, vata arsa, kustha and aruci. and कन्दरुः मधुरस्तिक्तः कफपित्तार्तिदाहनुत् पाने लेपे च शिशिरः प्रदरायमशांतिकृत् IRjn ) Kundaru is madhura , tikta in rasa , alleviates kapha, pitta, arti ana daha. Pana and lepana it is sita, pacifies pradara, amaya कुन्दुरुः मधुरस्तिक्तः तीक्ष्णस्त्वच्यः कटुर्हरेत्| ज्वरस्च दग्रहालक्ष्मीमुखरोगकफानिलान्| | (Bpnl Kunduru is madhura , tikta, katu in rasa, tiksna in Tvacya cures jvara, sveda, graha, alakshmi, mukha roga, kapha ana anila. guna.
+
+Shloka Record 2
+drug_name: Sallaki - bheda
+sanskrit_name: शल्लकी भेद
+transliteration: śallakī bheda
+image_urls: https://www.medicinalplants.in/slokaimages/258/258_1.jpg https://www.medicinalplants.in/slokaimages/258/258_3.jpg https://www.medicinalplants.in/slokaimages/258/258_4.jpg
+ocr_text: शल्लकी तुवरा शीता श्लेष्मपित्तातिसारजित् रक्तपित्तवर्णहरी पुष्टिकृत्समुदीरिता | | तत्फलम् कफवातार्शकुष्ठारोचकनाशनम्| पुष्पं चासंय कफं वातमर्शकुष्ठारुचीर्जयेत्| | (गःनि) Sallaki is tuvara in rasa, sita in veerya, pusti kara, alleviates slesma, pitta atisara, rakta pitta varna. Its phala destroys kapha, vata, arsa, kustha and arocaka Its puspa alleviates kapha, vata arsa, kustha and aruci. and कन्दरुः मधुरस्तिक्तः कफपित्तार्तिदाहनुत् पाने लेपे च शिशिरः प्रदरायमशांतिकृत् IRjn ) Kundaru is madhura , tikta in rasa , alleviates kapha, pitta, arti ana daha. Pana and lepana it is sita, pacifies pradara, amaya कुन्दुरुः मधुरस्तिक्तः तीक्ष्णस्त्वच्यः कटुर्हरेत्| ज्वरस्च दग्रहालक्ष्मीमुखरोगकफानिलान्| | (Bpnl Kunduru is madhura , tikta, katu in rasa, tiksna in Tvacya cures jvara, sveda, graha, alakshmi, mukha roga, kapha ana anila. guna.

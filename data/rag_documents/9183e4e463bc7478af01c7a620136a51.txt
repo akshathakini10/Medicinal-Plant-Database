@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9183e4e463bc7478af01c7a620136a51
+Botanical Name: Aconitum falconeri STAPF
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Hindi (3) - bhotia-chanduk, bikh, meetha-bis Sanskrit (1) - Sanskrit Comments  vatsanabha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9183e4e463bc7478af01c7a620136a51
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 49
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/49.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9183e4e463bc7478af01c7a620136a51
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Vatsanabha - prajati
+sanskrit_name: वत्सनाभ प्रजाति
+transliteration: vatsanābha prajāti
+ref_drug_name: वत्सनाभ प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

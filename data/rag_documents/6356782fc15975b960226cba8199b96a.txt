@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6356782fc15975b960226cba8199b96a
+Botanical Name: Viola tricolor L.
+Family: Violaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 1 languages. English (9) - field pansy, heart s -ease, hearts ease, jjohnny-jump-up, johnny-jump-up, ladies-delight, love-in-idleness, pansy, wild pansy
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6356782fc15975b960226cba8199b96a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6356782fc15975b960226cba8199b96a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6356782fc15975b960226cba8199b96a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

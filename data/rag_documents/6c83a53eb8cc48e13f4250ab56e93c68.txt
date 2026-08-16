@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6c83a53eb8cc48e13f4250ab56e93c68
+Botanical Name: Perilepta auriculata (NEES) BREMEK.
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Strobilanthes auriculatus NEES
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 2 languages. Hindi (5) - kapur miger, kapur mingar, kapur minngar, kapurmingar, pandai Tamil (4) - ankaravalli, kurinci, kurinji, sinnaguringi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c83a53eb8cc48e13f4250ab56e93c68/xclkon/49f2b32f471fd685516507777036fbdb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c83a53eb8cc48e13f4250ab56e93c68
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6c83a53eb8cc48e13f4250ab56e93c68/xclkon/49f2b32f471fd685516507777036fbdb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

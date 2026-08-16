@@ -1,0 +1,95 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 560310f179c922f1c7ad3e150a5878cb
+Botanical Name: Brassica nigra (L.) KOCH.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Brassica nigera (L.) KOCH
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 62 Vernacular names found in 10 languages. English (2) - black mustard, black or brown mustard Hindi (14) - aslrai, banarasirai, banarsi-rae, ghorrai, jagrai, kali rai, kalirai, kalorai, lahi, makra-rai, makrarai, rai, taramira, tira Kannada (7) - bilesasive, kappu saasiva, karee saasive, kari saasive, karisasive, karisasivey, sasive Malayalam (1) - kaduka Marathi (2) - mohori, rai Sanskrit (27) - Sanskrit Comments  ana, asuri, atitikshva, bhutaghnah, jwalanti, jwalatprabha, katuasuri, katusnehah, krimika, krishnasarshapa, krishnika, kshava, kshavaka, kshudhabhijanikshnagandha, kshujjanika, kshutabhijanaka, kshutaka, madhurika, raji, rajika, raktasarshapa, raktika, sarsapah, sarshap, sarshapa, sarshapah, siddharthah Tamil (4) - kadagu, kadugu, karun katuku, katuku Telugu (2) - avalu, naula avalu Tibetan (1) - skye tshe Urdu (2) - khardal (rai), rai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb/xclkon/6642946c66dd475a9741d57f6b12c77f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb/xclkon/6642946c66dd475a9741d57f6b12c77f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb/xclkon/6642946c66dd475a9741d57f6b12c77f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb/xclkon/6642946c66dd475a9741d57f6b12c77f
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb/xclkon/6642946c66dd475a9741d57f6b12c77f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb/xclkon/6642946c66dd475a9741d57f6b12c77f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/560310f179c922f1c7ad3e150a5878cb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asuri
+sanskrit_name: आसुरी
+transliteration: āsurī
+ref_drug_name: आसुरी
+status: Accepted source
+discussion: Identified with it. There are two names Asuri and Aasuri in C.S and A.H respectively which show a difference in properties
+reference: [1]
+
+Identity Record 2
+drug_name: Ksavaka
+sanskrit_name: क्षवक
+transliteration: kṣavaka
+ref_drug_name: क्षवक
+status: Controversial
+discussion: This species has property like that of Ksavaka hence used in its place
+reference: [1]
+
+Identity Record 3
+drug_name: Rajaksavaka
+sanskrit_name: राजक्षवक
+transliteration: rājakṣavaka
+ref_drug_name: राजक्षवक
+status: Most probable
+discussion: Dalhana has identified it with Krsna Rajika which is Brassica nigra
+reference: [1]
+
+Identity Record 4
+drug_name: Rajika - krsna
+sanskrit_name: राजिका कृष्णा
+transliteration: rājikā kṛṣṇā
+ref_drug_name: राजिका कृष्णा
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c780a388d09d6ff2ab3272e1283d6525
+Botanical Name: Breynia vitis-idaea (BURM.F.) FISCHER
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Breynia rhamnoides MUELL.-ARG.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 67 Vernacular names found in 6 languages. Hindi (1) - surasaruni Kannada (23) - ansole, baamaari, baamari, bamari, bhoomari, bili soolee, bili soolige, ganda pachhaari, gandu chappali, gandupacceri, gandupachcheri, hilihooli, hooli, huli, kaadu nugge, kadunugge, kare hooli, kare sooli, kempu hooli, kempu huli, kempuhuli, kempuhulli, suli Malayalam (9) - chuvannaniruri, cuvannaniruri, katounirouri, kattuniruri, niruri, pavalapoola, pavalapula, pavilappula, pavizhappula Sanskrit (1) - Sanskrit Comments  aruni Tamil (13) - cekappuppula, cikappuppula, civappuppula, kattumurunkai1, kattuniruri, manippulanji, manipulanti, manipulnatti, pamari, pavalappul, pavalappula, pavalappuntu, sigappuppula Telugu (20) - erra balli, erra purugudu, erraballi, errapulugudu, errapurugudu, ettaballi ettapurugudu, nagati pachari, nagatipaccari, nagatipachchari, nagetipatcheri, nagti pachchaari, pagadapu, pagadapu chettu, pagadapurugudu, pegada-purugudu, vellari, yellari, yerraballi, yerrapooroogoodoo, yerrapulugudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c780a388d09d6ff2ab3272e1283d6525
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c780a388d09d6ff2ab3272e1283d6525/xclkon/f4e12fb4a4ee8d9ada182b4d6b8d9a1e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c780a388d09d6ff2ab3272e1283d6525
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c780a388d09d6ff2ab3272e1283d6525/xclkon/f4e12fb4a4ee8d9ada182b4d6b8d9a1e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c780a388d09d6ff2ab3272e1283d6525
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c780a388d09d6ff2ab3272e1283d6525/xclkon/f4e12fb4a4ee8d9ada182b4d6b8d9a1e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c780a388d09d6ff2ab3272e1283d6525
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

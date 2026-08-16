@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 47c1a076ce92b5c0500f322f96a88adc
+Botanical Name: Caltha palustris L.
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 7 Vernacular names found in 2 languages. English (6) - american cowslip, cowslip, kingcup, marsh marigold, may blob, mayblob Hindi (1) - maniru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47c1a076ce92b5c0500f322f96a88adc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47c1a076ce92b5c0500f322f96a88adc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47c1a076ce92b5c0500f322f96a88adc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

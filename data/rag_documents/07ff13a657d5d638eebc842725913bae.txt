@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 07ff13a657d5d638eebc842725913bae
+Botanical Name: Bruguiera cylindrica (L.) BL.
+Family: Rhizophoraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 4 languages. Hindi (2) - kakandan, madama Malayalam (2) - kandel, karii-kandel Tamil (3) - kaakkandal, kakandan, pannukkucci Telugu (3) - varavada, vuada, vurada
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07ff13a657d5d638eebc842725913bae
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07ff13a657d5d638eebc842725913bae
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/07ff13a657d5d638eebc842725913bae
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

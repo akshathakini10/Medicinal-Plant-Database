@@ -1,0 +1,124 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5e93a9d29c6a195665eb396e6fedb15e
+Botanical Name: Argemone mexicana L.
+Family: Papaveraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 175 Vernacular names found in 9 languages. English (6) - mexican poppy, mexican prickly poppy, prickly poppy, thorn poppy, yellow prickly poppy, yellow thistle Hindi (25) - bharband, bharbhand, bhatbhamt, biladhutura brahmadundi, brahmi, farangi-dhutura, farangidhatura, farangidhutura, firanghee-dhatura, kandailu, kandiari, kateli, kutila, pharamgi dhattura, pila-dhatura, pila-dhutura, pili-kateli, satayanasi, satiyanashi, satyanashi, satyanasi, shial kanta, shialkanta, shiyal-kanta, ujar-kanta Kannada (23) - arasina ummathi, arasina-ummatta, arisina datthoora, arisina kammata gida, arisina ummatthi, arsha unmatta, balarakkasa, balurakkisa, chikkanike, datthoori, datthoori gida, datturi, datturi-gida, datturigidda, dhadhuri, dhatturada gida, golagolike, haladigolavalike, huttchu brahmadandi, mullu datthoori, mullu ummatthi, mulludaturi, parangidatturi Malayalam (4) - brahmadanti, kantankattiri, ponnummattu, ponnummattum Marathi (9) - daruri, firangi-dhotra, firangidhotra, kanta-dhotra, kantedhotra, kontedhotra, pinvaladhotra, pivala-dhatura, savo-marmad Sanskrit (36) - Sanskrit Comments  brahma-dundi, brahmadandi, brahmandanti, bramhi, brumadandie, canaksiri, darudi, haimavathi, hemadugdha, hemashikha, hemavati, hemavha, kancani, kanchanakehiri, kanchani, karhini, katuparni, kshirini, ksiraparni, patuparni, pitadugdha, pitapushpa, rukmini, sarvaksiri, satyanasi, srigalakanta, srigalakantaka, suvarna, suvarnaksiri, svarnadagdha, svarnadugdha, svarnakshiri, svarnaksiri, svarnavha, swarnakshiri, yavachincha Tamil (60) - avaramuki, birama-dandu, biramadandu, brahmathadu, brahmathandi, brahmmadandu, bramadand, bramadandu, brumadundoo, brumarakash, catilinkattaikkuruvakki, cetikkurukku, cirikalakantam, cittacacceti, cittacam, elakacceti, elakam, eliyotti, eliyottippuntu, iracakuruva, kani, karuncattirakacceti, karuncattirakam, kudiyattup-pundu, kudiyotti, kudiyotti poondu, kurukkam, kurukkam ceti, kurukkam-chedi, kurukkamceti, kurukku, kurukkucceti, kurukkum, kurukkum-chedi, kurukkumuthu, kurukkutti, kutikkuccani, kutiyotippuntu, kutiyotti, kutiyottip puntu, kutiyottippuntu, mutkacikam, piramadanti, piramarakkacam, piramatantam, piramatanti, piramatanti 2, piramatantu, piramathandu, piramattantu, pirammarakaci, pirammatanti, pirattiyam, ponnummattai, putpi, tittaca, totara, venkurukkucceti, virincanan, virincananceti Telugu (11) - balu rakkisa, brahma dhandu, brahmadandi, brahmadhandu, brahmdandichettu, bramha-dandi-chettu, datturi, ittoori, kusumapala, pichy kusama chettu, yerrikusuma Urdu (1) - baramdandi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 212
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/212.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5e93a9d29c6a195665eb396e6fedb15e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Brahmadandi
+sanskrit_name: ब्रह्मदण्डी
+transliteration: brahmadaṇḍī
+ref_drug_name: ब्रह्मदण्डी
+status: Accepted source
+discussion: This species is accepted as Brahmadandi in Southern India
+reference: [2]
+
+Identity Record 2
+drug_name: Katuparni
+sanskrit_name: कटुपर्णी
+transliteration: kaṭuparṇī
+ref_drug_name: कटुपर्णी
+status: Most probable
+discussion: Madanapala and Bhavaprakasha nighantu mentioned 'Katuparni' as a synonym of 'Svarnaksiri'; This is actually 'Hirvi' correlated to Euphorbia thomsoniana but nowadays Satyanashi is used which is correlated to Argemone mexicana; In Bhavaprakasa, root of Katuparni is called 'Coka'; Hirvi is sold in Punjab as Coka and in other places Satyanashi is sold as Coka so its a dilemma to decide which is the real one; But the description given by nighantus points towards it being Hirvi
+reference: [5]
+
+Identity Record 3
+drug_name: Satyanasi
+sanskrit_name: सत्यानाशी
+transliteration: satyānāśī
+ref_drug_name: सत्यानाशी
+status: Accepted source
+discussion: Satyanasi' is identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Suvarnaksiri
+sanskrit_name: सुवर्णक्षीरी
+transliteration: suvarṇakṣīrī
+ref_drug_name: सुवर्णक्षीरी
+status: Accepted source
+discussion: Two varieties of Suvarnaksiri have been mentioned by Dalhana where in Argemone mexicana is correlated to the second variety Satyanashi
+reference: [2]
+
+Identity Record 5
+drug_name: Suvarnaksiri
+sanskrit_name: सुवर्णक्षीरी
+transliteration: suvarṇakṣīrī
+ref_drug_name: सुवर्णक्षीरी
+status: Substituted source
+discussion: According to the context and uses this species can be used as a substitute for Suvarnksiri
+reference: [2]
+
+Identity Record 6
+drug_name: Svarnaksiri
+sanskrit_name: स्वर्णक्षीरी
+transliteration: svarṇakṣīrī
+ref_drug_name: स्वर्णक्षीरी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 7
+drug_name: Svarnaksiri
+sanskrit_name: स्वर्णक्षीरी
+transliteration: svarṇakṣīrī
+ref_drug_name: स्वर्णक्षीरी
+status: Accepted source
+discussion: Svarnaksiri' is identified with this species
+reference: [5]
+
+Identity Record 8
+drug_name: Svarnaksiri
+sanskrit_name: स्वर्णक्षीरी
+transliteration: svarṇakṣīrī
+ref_drug_name: स्वर्णक्षीरी
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Svarnaksiri
+sanskrit_name: स्वर्णक्षीरी
+transliteration: svarṇakṣīrī
+image_urls: https://www.medicinalplants.in/slokaimages/153/153_1.jpg https://www.medicinalplants.in/slokaimages/153/153_2.jpg
+ocr_text: स्वर्णक्षीरी हिमा तिक्ता कृमिपित्तकफापहा मूत्रकृच्छ्राश्मरी शोफदाहज्वरहरा परा IRjn ) Svarna ksiri is tikta in rasa, hima in veerya, alleviates pitta ana kapha cures krmi, mutrakrcchra, asmari, sopha, daha and jvara हेमाह्वा रेचनी तिक्ता भेदिन्युत्क्लेशकारिणी कृमिकण्डूविषानाहकफपित्तास्रकुष्ठनुत् IBpnl Hemahva is tikta in rasa, recani, bhedani, utkiesa karini, alleviates kapha pitta ana asra dosha, cures krmi, kandu, visha, anaha and kustha.

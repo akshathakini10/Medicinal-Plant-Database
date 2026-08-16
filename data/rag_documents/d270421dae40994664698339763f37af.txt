@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d270421dae40994664698339763f37af
+Botanical Name: Rhodomyrtus parviflora ALSTON
+Family: Myrtaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Rhodomyrtus tomentosa WIGHT
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 23 Vernacular names found in 4 languages. Hindi (1) - tungla Kannada (10) - gudda nelli, guddade, koratta, koratti, tavante, tavuti, thaontay, thaonty, thavatte, thavithu Malayalam (4) - koratta, kuratta, thaontay, thavattu Tamil (8) - kattukkoyya2, koratta, malaiccirukoyya, tavittukkoyya, tavittuppalam, thaontay, thavattu, thavattukoyya
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d270421dae40994664698339763f37af/xclkon/1498719e79b5779a055844bdee371684
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d270421dae40994664698339763f37af
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d270421dae40994664698339763f37af/xclkon/1498719e79b5779a055844bdee371684
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d270421dae40994664698339763f37af
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d270421dae40994664698339763f37af/xclkon/1498719e79b5779a055844bdee371684
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

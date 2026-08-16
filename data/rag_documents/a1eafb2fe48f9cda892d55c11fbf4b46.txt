@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a1eafb2fe48f9cda892d55c11fbf4b46
+Botanical Name: Lagenandra ovata (L.) THW.
+Family: Araceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Lagenandra toxicaria (L.) THW.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 6 Vernacular names found in 4 languages. Kannada (2) - koomana gedde, neer kove Malayalam (2) - cennalinirkilannu, karin-pola Sanskrit (1) - Sanskrit Comments  hallakam Tamil (1) - maravara tsjembu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1eafb2fe48f9cda892d55c11fbf4b46/xclkon/89d4a166bc19c3a7ae62489aedc0e180
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 2456
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/2456.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1eafb2fe48f9cda892d55c11fbf4b46
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1eafb2fe48f9cda892d55c11fbf4b46/xclkon/89d4a166bc19c3a7ae62489aedc0e180
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1eafb2fe48f9cda892d55c11fbf4b46
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1eafb2fe48f9cda892d55c11fbf4b46/xclkon/89d4a166bc19c3a7ae62489aedc0e180
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

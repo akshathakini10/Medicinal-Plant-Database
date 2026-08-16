@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1772cff74942c87775cdd487df44d3d2
+Botanical Name: Melilotus officinalis (L.) PALL.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Trifolium officinalis WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. English (5) - kings-clover, sweet clover, sweet lucerne, yellow melilot, yellow sweet clover Hindi (1) - aspurk Sanskrit (1) - Sanskrit Comments  sprkka Urdu (5) - akleel-ul-mulk, aspurk, haleenothus, ikleel-ul-malik, maleelothus
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1772cff74942c87775cdd487df44d3d2/xclkon/d308c11efa3595c3bf2cdeb4b9f8e483
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1772cff74942c87775cdd487df44d3d2
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1772cff74942c87775cdd487df44d3d2/xclkon/d308c11efa3595c3bf2cdeb4b9f8e483
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1772cff74942c87775cdd487df44d3d2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1772cff74942c87775cdd487df44d3d2/xclkon/d308c11efa3595c3bf2cdeb4b9f8e483
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1772cff74942c87775cdd487df44d3d2
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1772cff74942c87775cdd487df44d3d2/xclkon/d308c11efa3595c3bf2cdeb4b9f8e483
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

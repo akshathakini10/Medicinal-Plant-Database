@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2cd6e4d406dcf307d4383d94482da243
+Botanical Name: Artemisia pallens WALL. E. DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 55 Vernacular names found in 3 languages. Kannada (1) - manji pathre Marathi (1) - davna Tamil (53) - anantakarantam, anantapitam, cilesmanarapani, cukantacutcam, cukatmarankara, cutcampiccam, davanam, irucukantappuntu, kantotkatam, manali 2, manalicacceti, manalicam, manamali, manamalikkoluntu, mancarikam, manci 2, mancitavikam, manmali, manmalikkoluntucceti, marikkoluntu, marukkam 2, marukkarakkoluntu, marukkoluntu, maruvakam 3, maruvu 1, maruvucceti, mayirkkoluntu, mentiyakkoluntu, mentiyam 1, municatilam, napacariyacceti, napacariyam, panitanki, pintitakam, pintitakkoluntu, pintitam, pintitam 3, pompani, pompanicceti, puccaratturakam, talamalam, tamanakantam, tamanam, tavanakam, tavanam1, tipanicam, tipanicapputu, vacikaram 2, vacikaramaruvu, vauciki, vaucikikkoluntu, venkapattirakam, virai
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cd6e4d406dcf307d4383d94482da243
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cd6e4d406dcf307d4383d94482da243
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cd6e4d406dcf307d4383d94482da243
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 50170240549b9a678beedd0482303458
+Botanical Name: Elytraria acaulis (L.F.) LINDAU
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Justicia acaulis L.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 42 Vernacular names found in 3 languages. Hindi (1) - patharchatta Tamil (40) - cimainilakkatampu, cinnakatampu1, cirukatampucceti, empukam, ilampukam, ilempukam, kankai, katampakam1, kocanakam, kokanam1, kucciram1, kuccitam, kulakalam, kulakamacceti, kulakamam, kulakayam1, kuyakkalam, lempukam1, mayurakopikam, mayurkkopikam, muttirukkan, muttirukkanceti, muttirukkancevi, nariyankatampu, nila-kadambu, pakavirukkam, palan#, polam 1, polam#, pompari, ponam, pukatampam, pumikatampam, virananikki, viruttam 2, viruttamacceti, viruttan, visani, visani#, viskari Telugu (1) - yeddadugu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50170240549b9a678beedd0482303458/xclkon/5809977d7aadd3ca63727f27f1fb8fe1
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50170240549b9a678beedd0482303458
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50170240549b9a678beedd0482303458/xclkon/5809977d7aadd3ca63727f27f1fb8fe1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50170240549b9a678beedd0482303458
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/50170240549b9a678beedd0482303458/xclkon/5809977d7aadd3ca63727f27f1fb8fe1
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

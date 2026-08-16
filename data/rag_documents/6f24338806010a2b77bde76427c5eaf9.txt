@@ -1,0 +1,67 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6f24338806010a2b77bde76427c5eaf9
+Botanical Name: Merremia tridentata (L.)H. HALL.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ipomoea tridentata (L.)ROTH. Merremia hastata (DESR. ) HALLIER. F. Merremia tridentata (L.) HAILLIER subsp. tridentata Merremia tridentata (L.) HALL. F. subsp. hastata (DESR.) OOST.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 7 languages. English (1) - merremia vine Kannada (3) - elikivi soppu, ilikivi soppu, llikivisoppu Malayalam (5) - prasarani, prasarini, sendera-clandi, tala-neli, talanili Marathi (2) - kalivel, semder-kalaudi Sanskrit (2) - Sanskrit Comments  prasarani, prasarini Tamil (11) - ammaiyar kuntal, auvaiyar kundal, auvaiyar kuntal, kutirai varpul, mudiyaakkonthal, mudiyakunthal, mudiyarkkoonthal, mutiyakuntal, mutiyarkuntal, savolikkoti, tirippanpul Telugu (4) - seethamma jada, seethammasavaramu, sitasavaram, sunchumutthi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1213
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1213.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/053a7d9ae1f328e1a5850e55bf3516e1
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/d6f6470b419eba2a40a7da4f92388131
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/178f5b4975f17697bc1f058da7e91839
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/97fe06621ade71efb8edce8935d267f0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/053a7d9ae1f328e1a5850e55bf3516e1
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/d6f6470b419eba2a40a7da4f92388131
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/178f5b4975f17697bc1f058da7e91839
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/97fe06621ade71efb8edce8935d267f0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/053a7d9ae1f328e1a5850e55bf3516e1
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/d6f6470b419eba2a40a7da4f92388131
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/178f5b4975f17697bc1f058da7e91839
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9/xclkon/97fe06621ade71efb8edce8935d267f0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6f24338806010a2b77bde76427c5eaf9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

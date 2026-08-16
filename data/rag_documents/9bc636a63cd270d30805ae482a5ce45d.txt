@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9bc636a63cd270d30805ae482a5ce45d
+Botanical Name: Barringtonia asiatica (L.) KURZ
+Family: Baringtoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Barringtonia speciosa FORST. CHAR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 2 languages. Kannada (1) - samudraphala Tamil (7) - camuttira1, camuttirappalam1, cemmulli1, cotalankay, katanmulli, katarkani, kirutticakiyam
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc636a63cd270d30805ae482a5ce45d/xclkon/fde3341117c78fa0b8fea6f05da8514f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc636a63cd270d30805ae482a5ce45d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc636a63cd270d30805ae482a5ce45d/xclkon/fde3341117c78fa0b8fea6f05da8514f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc636a63cd270d30805ae482a5ce45d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9bc636a63cd270d30805ae482a5ce45d/xclkon/fde3341117c78fa0b8fea6f05da8514f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

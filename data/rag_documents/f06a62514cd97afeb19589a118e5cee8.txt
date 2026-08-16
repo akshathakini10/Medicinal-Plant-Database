@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f06a62514cd97afeb19589a118e5cee8
+Botanical Name: Indigofera astragalina DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Indigofera hirsuta L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. Hindi (4) - andhi-neel, andho-bakario, kali kathi, kathi Malayalam (1) - kattu-tagera Tamil (1) - tattaikkarunkollu Telugu (2) - kolapattitulu, peru vempali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f06a62514cd97afeb19589a118e5cee8/xclkon/7a183fd3a89dde3a7c351ca0c06a5fb5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f06a62514cd97afeb19589a118e5cee8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f06a62514cd97afeb19589a118e5cee8/xclkon/7a183fd3a89dde3a7c351ca0c06a5fb5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f06a62514cd97afeb19589a118e5cee8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f06a62514cd97afeb19589a118e5cee8/xclkon/7a183fd3a89dde3a7c351ca0c06a5fb5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

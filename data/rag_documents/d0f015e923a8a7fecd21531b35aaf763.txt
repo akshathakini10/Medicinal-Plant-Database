@@ -1,0 +1,60 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d0f015e923a8a7fecd21531b35aaf763
+Botanical Name: Solanum trilobatum L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 141 Vernacular names found in 6 languages. Kannada (18) - ambasonde, ambu sonde balli, ambusonde, ambusondeballi, chitbadane, habbu sunde, habbu sunde gida, hambu sonde, hebbu sonde gida, hebbu sunde gida, kaakamunji, kakamunchi, kakamunci, kakamunji, mullu kaaka munchi, mullu mushta, mullu mustha, mullumusta Malayalam (5) - putharichunda, putricunta, puttacunta, tudavalam, tutavalam Marathi (2) - mothiringnee, thoodalam Sanskrit (5) - Sanskrit Comments  achuda, agnidamani, agnidamini, alarka, vallikantakarika Tamil (89) - alanatti, alarkkam, alarukakkoti, alarukam, alerukakkoti, alerukam@, anarkamantiram, arulakkamayam, arulati, canka-t-tutuvalai, cankolapattiri, cantukittan, cantukittankoti, cantunatantan, cantunayattan, cinkarantakam, cinkavalli, comaritam, cotiyolitipam, curai, curai@, duduvelai, evi, ilaimulaimatu, kanakattukkatipati, kantilam, kapanacani2, karuttavalai, keccakkiyakkoti, keccakkiyam, kirantilam, kudalam, kundalam, kutalacceti, kutalam1, kutali1, kutam1, makapalakkoti, manivittaiyullon, mantaipperuccali, mulaccuricci, mullikkoticci, mullukkoticcikkot, muntantakanni 1, mutantakannikkoti, mutcuntai, mutkoticci, nanappiratam, naripputtu, nariputtucceti, nayanacancivi, nittidam, nittikam, nittiravari, nittitam, nittitam#, nittitam@, pannirovacceti, pannirovam, sandunayattan, sundaikai, sundakai, surai, thoodhuvalai, thooduvalai, thoothulai, thoothuvalai, thuthulai, thuthuvalai, toodavullay, tudavullay, tudi, tudulai, tuduvalai, turami1, turamikkoti, tutalai#, tutalai@, tuti@, tutu, tutulai, tutulampalam, tutunai, tutuvalai, tutuvalam, tutuvelai, valanatikkoti, valanti, vanatti Telugu (22) - alarkapathram, alarkapatramu, kondavuchinta, moondlamoosteh, mullamuste, mullamusthe, mullamusti, mundla musta, mundlamuste, mundlamusthe, oochintakura, tella usthi, tellauste, tellavuste, thellavusthe, thigemulla musta, uchchinta, uchhinta, uchinta, uste, usthe, utchinta
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0f015e923a8a7fecd21531b35aaf763
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1957
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1957.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0f015e923a8a7fecd21531b35aaf763
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0f015e923a8a7fecd21531b35aaf763
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d0f015e923a8a7fecd21531b35aaf763
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Agnidamani
+sanskrit_name: अग्निदमनी
+transliteration: agnidamanī
+ref_drug_name: अग्निदमनी
+status: Accepted source
+discussion: Agnidamani is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Agnidamani
+sanskrit_name: अग्निदमनी
+transliteration: agnidamanī
+ref_drug_name: अग्निदमनी
+status: Accepted source
+discussion: Agnidamani' has been mentioned in Rajanighantu; With regard to its synonym 'Vallikantakarika' it seems to be 'Kantakari' of the creeper variety; It is identified with this species according to Vaidya Bapalal ji
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,136 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5d5c75320e8249891ff513bfbd3f1008
+Botanical Name: Desmostachya bipinnata STAPF
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Eragrostis cynosuroides BEAUV.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 130 Vernacular names found in 9 languages. Hindi (9) - dab, dabhena, dabro, davoli, dhab, doab, durva, kunja, kusha Kannada (2) - dharbe, kusha Malayalam (2) - darbha, darbhappullu Marathi (3) - daabh, darbha, kusha Sanskrit (22) - Sanskrit Comments  barhi, darbha, darbhah, durbha, garbha, hrasva, kukuka, kurava, kusa, kusah, kusha, kutha, kutupa, munisastra, pavitra, puvitrung, siri, suchyagra, sucyagra, yajnabhusana, yajnabhushana, yajnanga Tamil (79) - acamantakam, arkkam, cakutcuka, canam1, cattanakuccam, cepappul1, cucakam1, cukiya, curumakantam, curumakantappul, curumam, cutakappul, cuyiracam, cuyirakam, cuyiram, darbhaipul, ekkiyacattan, kamavelam1, karumamulam, katalancikam, kucaippul, kucam, kucamaram, kucantam, kucappul, kuccam, kuccam1, kucumopanam, kumutakam, kumutam, kumutam2, kumutappul, kuram1@, kurappul, kurccai, kurccarappul, kutam1, kutampam, kutapapul, kuyam, muncai, naccuppul, nakkaruttan, nakkaruttan pul, nakkaruttanpul, notankucam, notankucappul, pauttirappul, pavittirakam, pavittiri, pavittiriyam, pavittiriyappul, perunkattikam, perunkattukappul, pincalam, piruccami, tarapattiram, tarppai, taruppai, taruppam, teppai, terpai, terppai, terppam, tharuppai, tiranaccoti, tirikalocitam, tirikatocam, tirikatocatappul, tirkkalokitam, tirkkamantiram, umakatam2, umakatkam, umarkatam, umarkkatakam, vicuvamittiram, vicuvamittiram 1, viracai, viracika Telugu (8) - aswalayana, aswalayana darbha gaddi, dabha, darbha, durpa, kusadarbha, kushadarbha, sadanapu veduru Tibetan (4) - du ntha (p), ku ntha (p), ku sa, ku sa rnam gcig Urdu (1) - bikh dab
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008/xclkon/2b7188507b55203086f2c22f3b23166b
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 801
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/801.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008/xclkon/a99827b54b2f5d4beb733b637b4da37e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008/xclkon/2b7188507b55203086f2c22f3b23166b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008/xclkon/a99827b54b2f5d4beb733b637b4da37e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008/xclkon/2b7188507b55203086f2c22f3b23166b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008/xclkon/a99827b54b2f5d4beb733b637b4da37e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008/xclkon/2b7188507b55203086f2c22f3b23166b
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008/xclkon/a99827b54b2f5d4beb733b637b4da37e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5d5c75320e8249891ff513bfbd3f1008/xclkon/2b7188507b55203086f2c22f3b23166b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Darbha
+sanskrit_name: दर्भ
+transliteration: darbha
+ref_drug_name: दर्भ
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Kusa
+sanskrit_name: कुश
+transliteration: kuśa
+ref_drug_name: कुश
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Kusa
+sanskrit_name: कुश
+transliteration: kuśa
+ref_drug_name: कुश
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Kusa
+sanskrit_name: कुश
+transliteration: kuśa
+ref_drug_name: कुश
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Kusa - bheda
+sanskrit_name: कुश भेद
+transliteration: kuśa bheda
+ref_drug_name: कुश
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 6
+drug_name: Kusa - bheda
+sanskrit_name: कुश भेद
+transliteration: kuśa bheda
+ref_drug_name: कुश
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 7
+drug_name: Kusa - bheda
+sanskrit_name: कुश भेद
+transliteration: kuśa bheda
+ref_drug_name: कुश
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Kusa
+sanskrit_name: कुश
+transliteration: kuśa
+image_urls: https://www.medicinalplants.in/slokaimages/602/602_1.jpg https://www.medicinalplants.in/slokaimages/602/602_2.jpg https://www.medicinalplants.in/slokaimages/602/602_3.jpg
+ocr_text: दर्भः स्निग्धरसः स्वादुः कषायः कफपित्तहा विसर्पदाहकृच्छ्रास्कतृष्णाबस्तिविकारनम्| रक्तज्वरं तृषाश्वासकामलादाषनाशकृत् दर्भौ द्वौ च गुणैस्तुल्यौ तथापि च सिता अधिकः यदिश्वेतकुशाभावः त्वपरं योजयेद् Il (Rin) Darbha is svadu, kashaya in rasa, snigdha in guna, alleviates kapha and pitta, cures visarpa, daha, krcchra kasa, trsna, vasti vikara, rakta jvara, trsa, svasa and kamala Darbha dvau are similar in properties Sita darba is the best one and in the absence of sveta kusa this one can be used. भिषक् दर्भद्वयं त्रिदोषघ्नं मधुरं तुवरं हिमम्| मूत्रकृच्छ्राश्मरीतृष्णाबस्तिरुक्प्रदरास्रजित्|| (Bpn) Darbha dvayam is madhura, tuvara in rasa, hima in veerya, alleviates all the three doshas, cures mutrakrcchra, asmari, trsna, vasti ruk, pradara and asra दर्भयुगम्ं पवित्रं स्यान्मूत्रकृच्छ्रघ्नशीतलम् रक्तपित्तप्रशमनं केवलं पित्तनाशनम्I| (Dhn) Darbha dvayam is sita, pavitra, alleviates pitta only cures mutrakrcchra and raktapitta.
+
+Shloka Record 2
+drug_name: Kusa - bheda
+sanskrit_name: कुश भेद
+transliteration: kuśa bheda
+image_urls: https://www.medicinalplants.in/slokaimages/602/602_1.jpg https://www.medicinalplants.in/slokaimages/602/602_2.jpg https://www.medicinalplants.in/slokaimages/602/602_3.jpg
+ocr_text: दर्भः स्निग्धरसः स्वादुः कषायः कफपित्तहा विसर्पदाहकृच्छ्रास्कतृष्णाबस्तिविकारनम्| रक्तज्वरं तृषाश्वासकामलादाषनाशकृत् दर्भौ द्वौ च गुणैस्तुल्यौ तथापि च सिता अधिकः यदिश्वेतकुशाभावः त्वपरं योजयेद् Il (Rin) Darbha is svadu, kashaya in rasa, snigdha in guna, alleviates kapha and pitta, cures visarpa, daha, krcchra kasa, trsna, vasti vikara, rakta jvara, trsa, svasa and kamala Darbha dvau are similar in properties Sita darba is the best one and in the absence of sveta kusa this one can be used. भिषक् दर्भद्वयं त्रिदोषघ्नं मधुरं तुवरं हिमम्| मूत्रकृच्छ्राश्मरीतृष्णाबस्तिरुक्प्रदरास्रजित्|| (Bpn) Darbha dvayam is madhura, tuvara in rasa, hima in veerya, alleviates all the three doshas, cures mutrakrcchra, asmari, trsna, vasti ruk, pradara and asra दर्भयुगम्ं पवित्रं स्यान्मूत्रकृच्छ्रघ्नशीतलम् रक्तपित्तप्रशमनं केवलं पित्तनाशनम्I| (Dhn) Darbha dvayam is sita, pavitra, alleviates pitta only cures mutrakrcchra and raktapitta.

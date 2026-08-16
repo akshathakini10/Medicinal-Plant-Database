@@ -1,0 +1,55 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9041b178b962733ce86d171a48cee1cb
+Botanical Name: Phyllanthus reticulatus POIR.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Kirganelia reticulata BAILL.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 167 Vernacular names found in 7 languages. Hindi (12) - buinowla, kala-maimuda, kale-madh-ka-per, kalemadhkaper, kambhoe, kamuni, makhi, makki, pancoli, panjoli, panjooli, panjuli Kannada (32) - anamsole, anamsulc, anamsule, chippulinellu, chippulinelu, chippullimullu, cippulimullu, hooli, huli, hulli, kaaki nelli soppu, kaaki soppu, kakesoppu, kare sooli, kareesooli, karehula, karesula, karesuli, karihooli, karihuli, karisuli, kariyahuli, kombhoiro, krishna nelli, niruri, pulaveri, pulla, puttae, sanna kaage soppu, sannahagesoppu, sannakage-soppu, sannakagesoppu Malayalam (12) - katou-nirouri, katouniruri, kattuniruri, katu-niruri, katunirure, katuniruri, kilanelli, kirjanelli, nirnelli, niroli, niruri, nirurui Marathi (7) - panjuli, panpoi, pavan, pavana, pavari, pitauri, sitki Sanskrit (8) - Sanskrit Comments  bahupraja, bahupushpa, kamboji, kambojini, krishna-kamboji, krishnakambhoji, krsnakamboji, pulika Tamil (68) - abirangi, apiranki, arunelli, atikkamanacivi, ayam 2, camulattuvam, catcuciyam, cempaipparpamakki, cilaciyam, cittakalikacceti, civappumvellaiyumaynalkumve, civappuppula, cuvetapula, karinelli, karunelli, karuppu pula, karuppu-pillanji, karuppuppilanji, karupu-pillanje, kattuk kilanelli, kattukilanelli, kattukkilanelli melanelli, melanelli, narippula, neer-poola, neerpoola, nelli, nilakampoci, nirpalai, nirpoola, nirppul, nirppula, nirppulanci, nirppulanji, pattanittirikam, pattattirikacceti, pautikam#, pautikam@, pillanji, poolavayr puttay, puca, pul, pula, pulacam, pulakatticceti, pulan, pulanci, pulattikam, pulattikiri, pulattikiricceti, pulava, pulavakikacceti, pulavakitam, pulavayr-puttay, pullanci, pullanti, pullaranti, purakakki, purakakkicceti, purvotam, uccilinti, ukkiratakam, uramanapantu, vararpula, vatapittaracamani, vetapulacam, virarkacacceti, virarkacam Telugu (28) - erra purugudu, nalla-purugudu, nallapuli, nallapulugudu, nallapurugudu, nela purugudu, nelapurugudu, nellapooroogoodoo, nugubenda, pagadapuchettu, pandebarranke, pandibarangi, pandibarra, pandibarrankee, pandibarranki, phulsar, phulsar nallapurugudu, pilangi, pisiki beera, pulaguvva, pulaguwa, pulichinta, pulisar, pulisaru, pullayusirika, pulsare, pulugudu, purugudu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9041b178b962733ce86d171a48cee1cb
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1649
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1649.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9041b178b962733ce86d171a48cee1cb/xclkon/087d77509e50f2d7cdb1eded3f16c11c
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9041b178b962733ce86d171a48cee1cb/xclkon/1820e14dac843ace27d050b604e783fe
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9041b178b962733ce86d171a48cee1cb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9041b178b962733ce86d171a48cee1cb/xclkon/087d77509e50f2d7cdb1eded3f16c11c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9041b178b962733ce86d171a48cee1cb/xclkon/1820e14dac843ace27d050b604e783fe
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9041b178b962733ce86d171a48cee1cb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9041b178b962733ce86d171a48cee1cb/xclkon/087d77509e50f2d7cdb1eded3f16c11c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9041b178b962733ce86d171a48cee1cb/xclkon/1820e14dac843ace27d050b604e783fe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9041b178b962733ce86d171a48cee1cb
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

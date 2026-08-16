@@ -1,0 +1,75 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a4bfc36d342cb82224e4e3567b8bf6a0
+Botanical Name: Eleusine indica GAERTN.
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 7 languages. English (4) - crab grass, crow s foot grass, goose grass, yardgrass Hindi (4) - balraja, jharnpriya kodu, malankuri, mandla Kannada (6) - bilwagaja, ganjalada hoo, hakki kaalina hullu, hecchulli hullu, hechhuli hullu, kaadu raagi Marathi (6) - khurd, khurd-mendi, malankur, nachon, natno, rannachani Sanskrit (1) - Sanskrit Comments  nandimukhi Tamil (3) - kevuru, kuncappul, thippa ragi Telugu (3) - kaaruchodi, karuchodi, kuror
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4bfc36d342cb82224e4e3567b8bf6a0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4bfc36d342cb82224e4e3567b8bf6a0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4bfc36d342cb82224e4e3567b8bf6a0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Madhulika - prajati
+sanskrit_name: मधूलिका प्रजाति
+transliteration: madhūlikā prajāti
+ref_drug_name: मधूलिका प्रजाति
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 2
+drug_name: Nandimukha
+sanskrit_name: नन्दीमुख
+transliteration: nandīmukha
+ref_drug_name: नन्दीमुख
+status: Accepted source
+discussion: Nandimukha is a variety of Madhuli which is correlated to this species
+reference: [1]
+
+Identity Record 3
+drug_name: Nandimukhi
+sanskrit_name: नन्दीमुखी
+transliteration: nandīmukhī
+ref_drug_name: नन्दीमुखी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Nandimukhi
+sanskrit_name: नन्दीमुखी
+transliteration: nandīmukhī
+ref_drug_name: नन्दीमुखी
+status: Accepted source
+discussion: With regard to its properties it is considered as a type of 'Godhuma' and hence identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

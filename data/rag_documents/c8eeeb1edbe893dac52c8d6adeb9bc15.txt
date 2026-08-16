@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c8eeeb1edbe893dac52c8d6adeb9bc15
+Botanical Name: Blumea erientha DC.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 4 languages. Hindi (1) - nn Malayalam (1) - manja-adeca-manjen Marathi (1) - nimdi Sanskrit (1) - Sanskrit Comments  kukundara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8eeeb1edbe893dac52c8d6adeb9bc15
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 332
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/332.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8eeeb1edbe893dac52c8d6adeb9bc15
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c8eeeb1edbe893dac52c8d6adeb9bc15
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kukundara - prajati
+sanskrit_name: कुकुन्दर प्रजाति
+transliteration: kukundara prajāti
+ref_drug_name: कुकुन्दर प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

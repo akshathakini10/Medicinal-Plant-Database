@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 45e76d98319f7bfca5ffb3af1bc5cc10
+Botanical Name: Mimosa pudica L. var. unijuga (DUCHASS. & WALP.)GRISEB.
+Family: Mimosaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  lajjalu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45e76d98319f7bfca5ffb3af1bc5cc10
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/45e76d98319f7bfca5ffb3af1bc5cc10
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Lajjalu
+sanskrit_name: लज्जालु
+transliteration: lajjālu
+image_urls: https://www.medicinalplants.in/slokaimages/1107/1107_1.jpg https://www.medicinalplants.in/slokaimages/1107/1107_2.jpg
+ocr_text: लज्जालुः शीतला तिक्ता कषाया कफपित्तजित्| रक्तपित्तमतीसारं योनिरोगान् विनाशयेत् Il (Bpn) Lajjalu is tikta, kashaya in rasa, sita in veerya, alleviates kapha and pitta, cures raktapitta, atisara and yoniroga रक्तपादी कटुः शीता पित्तातीसारनाशिनी| शोफदाहश्रमश्वासव्रणकुष्ठकफास्रनुत् IRjn ) Raktapadi is katu in rasa, sita in veerya, alleviates kapha and pitta atisara nasini, cures sopha, aaha, srama, svasa, vrana and kustha. asra,

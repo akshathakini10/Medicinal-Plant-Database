@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 56000b9672327cb484f9fe5d0cfceea0
+Botanical Name: Panax pseudoginseng WALL.
+Family: Araliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 1 languages. English (3) - ginseng, san qui ginseng, sanchi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56000b9672327cb484f9fe5d0cfceea0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56000b9672327cb484f9fe5d0cfceea0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/56000b9672327cb484f9fe5d0cfceea0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

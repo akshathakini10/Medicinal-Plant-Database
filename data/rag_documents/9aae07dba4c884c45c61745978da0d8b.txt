@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9aae07dba4c884c45c61745978da0d8b
+Botanical Name: Aristolochia rotunda L
+Family: Aristolochiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 1 languages. Urdu (4) - zarawand mud haraj, zarawand mudharaj, zarawand mudharj, zarawand-i-mudharaj
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aae07dba4c884c45c61745978da0d8b
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aae07dba4c884c45c61745978da0d8b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9aae07dba4c884c45c61745978da0d8b
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

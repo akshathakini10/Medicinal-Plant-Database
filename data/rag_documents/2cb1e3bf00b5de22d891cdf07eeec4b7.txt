@@ -1,0 +1,97 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2cb1e3bf00b5de22d891cdf07eeec4b7
+Botanical Name: Solanum virginianum L.
+Family: Solanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Solanum jacquini WILLD. Solanum sarmentosum NEES Solanum surattense BURM. F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 268 Vernacular names found in 9 languages. Hindi (23) - adkuntali, bhatkatai, bhatkatya, bhuiakhanderi, bhumiringani, bhur hingani, bhuringni, bhutkatya, choto-baigan, dhaturi, dorlika-phal, gulari, jangli-baigan, katai, kataikhuadda, kateli, kattay, kutia, raingani, remgani, rengni, ringni, satyanasi Kannada (20) - bilinelagulla, chikchunde, chikchundi, chikka sonde, chikkasonde, cikkasonde, gulla, kaateringini, kallante, kallatte, kantakaari, kantakari, kante, kirigulla, kuntakaari, nelagulla, nelagulle, nellagulla, raamagulla, ramagulla Malayalam (9) - kantakari valutina, kantakariccunta, kantakarichunta, kantakarivalutana, kantamkattiri, kantankattiri, puttachunda, puttachunta, velvottuvalutina Marathi (9) - bhiringani, bhonyaringani, bhuiringani, bhuyiringanee, kaateringni, kanteringani, kate-ringni, kate-vayangini, udaravani Sanskrit (41) - Sanskrit Comments  anakranta, bahukanta, bahukantaka, bahuphala, bhantaki, brhati, brihati, chitraphala, chudra, dartaki, dhavani, dhavanika, duhsparsa, dushpradharshini, dusparsa, ha, kantakari, kantakarika, kantakini, kantalika, kantashreni, kasaghni, kshetraja, kshudra, kshudrakantika, kshudravyagri, kshurika, ksudra, kuli, nidigdha, nidigdhika, pitatandula, prachodini, putrapada, rashtrika, sarpatanu, sinhi, sprihi, sudra, vrahali, vyaghri Tamil (122) - akkinitamam, anakkirantam, antattaci, arrumulli 1, cinkini 2, ciruvalutalai, ciruvalutalai 1, ciruvalutunai 1, cittiravaratti, cundung-katric, cundunghatrie vayr, cuntaram, cutturam, cutturu, cutturuki, cuvacakacakkini 2, ekkattatantai, iracanicevitakkoti, iracanicevitam, iyakkini, iyakkuritam, kandamkathiri, kandan-kaththiri, kandan-kattiri, kandangatari, kandangatri, kandangattari, kandangattiri, kandanghathiri, kandangkattari, kandankathiri, kandankaththiri, kandankatri, kandankattari, kankisam, kanndankathri, kantakarakam, kantakaram 1, kantakari, kantakarikai, kantan kattiri, kantankaddiri, kantankali, kantankalicceti, kantankari, kantankathri, kantankattari, kantankattiri, kantapunkikam, kantari, kanti, kantu 1, kantucceti, kapanacacceti, kapanacam, kapanacani 1, karalikam, kari 2, karimulli, kattuvakatattan, katumul, katumutkattirikkoti, konokkam, kotivalutalai, kuccapalam, kuli, kurotaparani, malamatipputu, mulkoticci, mulkututatari, mullikkai, mullukkoticci, mutkattari, nilaputpacevitam, nirattika, nirttittam, nitiktika 2, nitinatikam, nitintakkoti, nitintam 2, nitittikam, nittikam, nittiravari, nittiravarikkoti, nittitam, paparapaluttai, papparamulli, parattinpancu, piracotani#, piracotani@, piracotini, piratti 1, ponniratti, puttukkani, siriya, siru-vazhunai, sutturam, tamanam, tantilainamatti, tatiri, tavani, tavaniyakkoti, tittika, udaravani, udavani, utakantankattari, utakkantankattiri, utaravani#, utaravani@, utaravanitakkoti, utaravanitam, utavani, uttaravani, uttavalikakkoti, uttavalikam, uttavani, valutalai 1, varattantu 1, varttakikam, velvilimatu, viyakkiri, yamarutakam Telugu (36) - callamulaga, callamullaga, challa mulaga, challamulaga, erri vanga, jidduvusta, jidduvuste, kudaa, mulla vankaaya, nela mulaka, nela mullaaku, nela vakudu, nela-mulaka, nelamulaka, nelamullaku, nelamunga, nelavaakudu, nelavakudu, nelawakudu, nellamollunga, pinna-mulaka, pinnamulaka, raama mulaga, rammolaka, revatimunaga, tellanelamulaka, tellavakudu, thellangelamulaka, thellavaakudu, vaartaaki, vakudu, vakudu mulama, vankuda, vartaki, vauste, vuste Tibetan (6) - bya-ghri, ka-nta ka-ri, ka-nta-ka-r, ka-nta-ka-ri, kanta ka ri, ksu-tra Urdu (2) - katai, koteli khurd
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1960
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1960.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/6c3200d6f713c91aaacfadb298f886fc
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/b414813f2d50d5ed793e2a592325c892
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/6c3200d6f713c91aaacfadb298f886fc
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/b414813f2d50d5ed793e2a592325c892
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/6c3200d6f713c91aaacfadb298f886fc
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/b414813f2d50d5ed793e2a592325c892
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/6c3200d6f713c91aaacfadb298f886fc
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/b414813f2d50d5ed793e2a592325c892
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/6c3200d6f713c91aaacfadb298f886fc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/b414813f2d50d5ed793e2a592325c892
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/6c3200d6f713c91aaacfadb298f886fc
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/b414813f2d50d5ed793e2a592325c892
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/849c0de64b7c66638ac1af96bf578c1f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2cb1e3bf00b5de22d891cdf07eeec4b7/xclkon/22877e1bc77ab8bf1f5b0774374e53c2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 705add10c81b2324e15906c748d395db
+Botanical Name: Sesamum indicum L.
+Family: Pedaliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Sesamum orientale L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 148 Vernacular names found in 10 languages. English (5) - gingelly, sesame, sesamum, simsim, tahini Hindi (13) - barik-tel, bariktel, gingli, krishnatel, mitha-tel, mithatel, tal, talna, til, til-ka-tel, tilia, tilkatel, tir Kannada (10) - achchellu, achhellu, dora yellu, ellu, kari ellu, olle yellu, uruellu, wollelu, yallu, yellu Malayalam (6) - car-elu, chitrallu, ellu, karellu, karuellu, schit-elu Marathi (8) - dhavotil, kharotil, thil, thila, til, tila, zilechathil, zilechatil Sanskrit (16) - Sanskrit Comments  asitatila, homadhanya, jatila, papaghna, pavitra, pitratarpana, puraphala, putadhanya, snehapahla, snehaphala, tailaphala, tila, tilah, tilaha, tilataila, vanodbhava Tamil (65) - caralam#, caralam@, carali, caralicceti, cinekapalacceti, cinekapalam#, cinekapalam@, eellu-cceti, el, ell, ellu, ikucakikam, ikucakiyacceti, kakarukam 2, kakutam, karel, karellu, karucakam, karucam 1, karuppellu, katalelakacceti, katalelakam, kattu ellu, kirucaram, kirusnapali, kiruttinatilam, kulakacceti, kulakam, kulam#, kulam@, kumikai, kuparam, kupikai, kuru, kurukacceti, kurukam, kutam, nallennai, nallennay, nu, null unnay, nuvvulu, pacikari, palakam 1, panipputu, papakkinam, pasanamaiyini, pasanamayini, putataniyam, tailapalam, tattiyam, tayittiram, tilakam 1, tilam, tilati, timata, timataki, timatakicceti, vacikari, vacikaricceti, vakucam 1, yellu, yellu cheddi, yellu-cheddie, yelluchedi Telugu (7) - gubbulu, guvvulu, nung, nuv, nuvvu, nuvvulu, pollanuvvulu Tibetan (2) - ti-la, til bras Urdu (16) - kunjad, kunjad muqashshar, kunjad safaid, kunjad siyah (til), roghan kunjad, til, til afaid muqashshar, til ke phool, til safaid muqashshar, til safaid muqqashar, till, tiloa ka tael, tilon ka tael, tilon ka tel, tilon ke beej, tiloun ka tail
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db/xclkon/36fe028c67fd96eee94c15dad42fc88f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db/xclkon/36fe028c67fd96eee94c15dad42fc88f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db/xclkon/36fe028c67fd96eee94c15dad42fc88f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db/xclkon/36fe028c67fd96eee94c15dad42fc88f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db/xclkon/36fe028c67fd96eee94c15dad42fc88f
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/705add10c81b2324e15906c748d395db/xclkon/36fe028c67fd96eee94c15dad42fc88f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tila
+sanskrit_name: तिल
+transliteration: tila
+ref_drug_name: तिल
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Tila
+sanskrit_name: तिल
+transliteration: tila
+ref_drug_name: तिल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Tila
+sanskrit_name: तिल
+transliteration: tila
+image_urls: https://www.medicinalplants.in/slokaimages/1468/1468_1.jpg https://www.medicinalplants.in/slokaimages/1468/1468_2.jpg https://www.medicinalplants.in/slokaimages/1468/1468_3.jpg https://www.medicinalplants.in/slokaimages/1468/1468_4.jpg https://www.medicinalplants.in/slokaimages/1468/1468_5.jpg https://www.medicinalplants.in/slokaimages/1468/1468_6.jpg https://www.medicinalplants.in/slokaimages/1468/1468_7.jpg https://www.medicinalplants.in/slokaimages/1468/1468_8.jpg
+ocr_text: स्निग्धोष्णो मधुरस्तिक्तः कषाय कटुकस्तिलः त्वच्यः कश्यश्च बल्यश्च वातघ्नः कफपित्तकृत्| | (चरक ) Tila is madhura, tikta, kashaya, katu in rasa, snigdha in guna, usna in veerya, tvacya, kesya, balya, alleviates vata, increases kapha and pitta कषायानुरसं सवादु सूक्ष्ममुष्णं व्यवायि च| पित्तलं बद्धविण्मूत्रं च श्लेष्माभिवर्धनम्| वातघ्नेषूत्तमं बल्यं त्वच्यं मेधाग्निवर्धनम्| तैलं संयोगसंस्कारात् सर्वरोगापहं स्मृतम्| चरक Tila is svadu in rasa, kashaya in anurasa, suksma, vyavayi, usna in veerya, alleviates vata, increases pitta and slesma, is badahavinmutra, balya, tvacya and medhagni varahana. Processea taila alleviates sarva roga ईषत्कषायो मधुरः सतिक्तः सांग्राहिकः पित्तकरस्तथोष्णः तिलो विपाक मधुरो बलिष्ठः स्निग्धो व्रणलेपन एव पथ्यः दन्त्योग्निनमेधाजननोडल्पमूत्रः त्वच्योडथकेश्योडनिलहा गुरुश्च सर्वेष्वसितः प्रधानो, मध्यः सितो हीनतरास्तथाडन्ये| | (सुश्रुत) Tila is slightl y kashaya, maahura, tikta in rasa, sangrahi, snigaha, guru in guna, usna in veerya, madhura in paka, pathya, dantya, agni medha janana , balistha, alpa mutra, tvacya, kesya, vranalepana, increases pitta and alleviates anila Asita tila is superior, madhya is sita tila and the rest are inferior. तिलेषु तैलं स्नेहोत्तमं प्रोक्त्तं तिलजं तिलसम्भवम | कषायं च रसे स्वादु सूक्ष्ममुष्णं व्यवायि च|| पित्तलं बद्धविण्मूत्रं न च श्लेष्मविवर्धनम् | ( IDhn) Tila taila is the best among sneha It is kashaya , svadu in rasa , suksma, vyavayi in guna, usna in veerya, baadha vin mutra, increases pitta ana slesma. मेध्यः तिलः स्पर्शशीतःमेध्यं तैलं शलःडहिमः | तस्यैव श्लेष्मकारित्वं न तैलस्य खलस्य वा| (अंसं) Tila is meahya, sita to touch. Its taila is amedhya ana ahima. Tila increases kapha but not its taila. वातघ्नपित्तकृत् श्लेष्मदासीनं तद्धि तैलवत्|| तसिद्धमन्त्र) Its taila increases pitta, alleviates vata and kapha पिण्याकः ग्लपनः रूक्षः विष्टम्भी दृष्टिदूषणः | | (अ.सं) Pinyaka is Ruksa , Vistambha, Drsti aushana. तिलपिण्याकविकृतिः दोषत्रयकरं तथा| | वातलं तिलजं शाकं |सिद्धमन्त्र Tila pinyaka is Tri dosha kara, ana Tila saka is Vatala

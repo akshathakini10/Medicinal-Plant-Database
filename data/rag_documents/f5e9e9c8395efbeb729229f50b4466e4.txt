@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f5e9e9c8395efbeb729229f50b4466e4
+Botanical Name: Vallisneria spiralis L.
+Family: Hydrocharitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 16 Vernacular names found in 6 languages. English (3) - eel-grass, tape-grass, wild celery Hindi (4) - jallil, sawala, sewal, syala Kannada (2) - hasururibbongida, kudarebaladagida Marathi (2) - phiti-chesaivale, seval Tamil (3) - calanili, jalanili, valukkuppaci Telugu (2) - panchadub, punatsu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5e9e9c8395efbeb729229f50b4466e4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5e9e9c8395efbeb729229f50b4466e4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f5e9e9c8395efbeb729229f50b4466e4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

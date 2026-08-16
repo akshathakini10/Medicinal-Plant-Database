@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f515ce55a8d91b689252333d88280a02
+Botanical Name: Sida retusa L.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Sida rhombifolia L. subsp. retusa (L.) BORASSUM
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 28 Vernacular names found in 6 languages. Hindi (6) - jamglimedhi, jangli-methi, kherti, lalbariala, safed, svetberela Kannada (3) - ceruparuva, kisangihettutti-gida, malatanni Malayalam (4) - karun-totti, kuruntotti, mayir-manikkam, velluram Sanskrit (1) - Sanskrit Comments  bala Tamil (8) - athiballachedi, kurunthotti, kuruntotti, mayir-manikkam, mayir-munikkam, mayirmanikam, perunthuthi, sirramutti Telugu (6) - cirubenda, cittimutti, mayilu-manikyam, mayir manikkam, mutheera pulagam, visaboddi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02/xclkon/9d02db7e7f470c09d1899beb1bcb901f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02/xclkon/9d02db7e7f470c09d1899beb1bcb901f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f515ce55a8d91b689252333d88280a02/xclkon/9d02db7e7f470c09d1899beb1bcb901f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d78735e5f127ec133f6ab1b671115c09
+Botanical Name: Garuga pinnata ROB.
+Family: Burseraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 126 Vernacular names found in 8 languages. Hindi (9) - bohlla, ghogar, kaikar, kankad, kharpat, khogar, titmar, toom, vanagra Kannada (38) - aranelli, arenelli, baalige, balige, bandera kaayi, bholamate, bilee gadde, bili gadde, biligadde, bilugadde, boalu amate, doddadumpli, doddamampli, gadde, garge, godda, goddana, goddana mara, godde, guddada nelli, haalahulige, hagabalagi, hala, halabalaga, halabalage, halabalagi, hallu bolige, hallubolige, kaashtanelli, kadambate, kadambatte, kadamte, nelagodda, nellagodda, nelligadde, sodikonne, sudhekanne, sudhikanne Malayalam (16) - annakara, annakkara, aranelli, ben-kalesjam, garge, godde, karem, kareyam, karuvembu, karuvempu, katou-kalesjam, katoukalesjam, kattukalincan, kattukalinjam, kattukalinjan, kattunelli Marathi (11) - kaakad, kaakanda, kakad, kooruk, kudak, kunak, kuruk, kurule, kusaar, kusar, roorak Sanskrit (5) - Sanskrit Comments  golika, karnikara, kinkirata, krsnamilka, paranki Tamil (30) - accani, amalakam, amalam 2, arunelli, enneykkarai 2, enneykkaraimaram, karivembu, karivempu, karuvembu, karuvempu, karuvilangam, karuvilankam, kauriyam, kayitariyam, malaiyudi, malaiyuti#, malaiyuti@, malaiyutiyam, okkirukantam, pitariyancu, pitariyancumaram, ukkirakantam 3, ukkirakanti, vaccinimpam, vacciranimpam, vacciraninam, vilangam, vilankam, yannaikkarai, yennaikkarai Telugu (15) - garga, gargu, garuga, garugoo, garugu, garugu chettu, garugudu, ghogar, gurugu, gurugumaru, kaalugudu, kaikar, kalugudu, kharpat, kondavepa Tibetan (2) - ki ra ti, kim ki ra ti (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1041
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1041.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d78735e5f127ec133f6ab1b671115c09
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karnikara
+sanskrit_name: कर्णिकार
+transliteration: karṇikāra
+ref_drug_name: कर्णिकार
+status: Accepted source
+discussion: There is a miniscule mention of 'Karnikara' in the samhitas; Caraka has mentioned it as a synonym of 'Aragvadha'; With the description given by Susruta it is depicted as 'Karnikara' having yellow flowers; In Himachal Pradesh Aragvadha is known as 'Kaniyaar' which might be a corruption of the original sanskrit synonym Karnikara of Aragvadha
+reference: [5]
+
+Identity Record 2
+drug_name: Kinkirata
+sanskrit_name: किङ्किरात
+transliteration: kiṅkirāta
+ref_drug_name: किङ्किरात
+status: Most probable
+discussion: Its most probably correlated to this species which is known as 'Kenkara'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

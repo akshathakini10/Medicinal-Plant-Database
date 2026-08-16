@@ -1,0 +1,38 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d9c036d61bc018feb2d447feba733ab2
+Botanical Name: Musa superba ROB.
+Family: Musaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 13 Vernacular names found in 3 languages. Kannada (6) - bettabale, bettabali, kadubale, kadubali, kallubale, kallubare Malayalam (5) - kalluvala, kalluvazha, kalvalu, kattuvala, kattuvazha Telugu (2) - adavi arati, adaviyarati
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9c036d61bc018feb2d447feba733ab2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d9c036d61bc018feb2d447feba733ab2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

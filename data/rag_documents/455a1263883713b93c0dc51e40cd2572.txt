@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 455a1263883713b93c0dc51e40cd2572
+Botanical Name: Bulbostylis barbata (ROTTB.) CI.
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Scirpus barbatus ROTTB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 2 languages. Hindi (1) - masa Tamil (2) - mukkorraikkorai, mukkutikorei
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/455a1263883713b93c0dc51e40cd2572/xclkon/c6f77d47958a9a9d5c2c6dc27149682a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/455a1263883713b93c0dc51e40cd2572
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/455a1263883713b93c0dc51e40cd2572/xclkon/c6f77d47958a9a9d5c2c6dc27149682a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/455a1263883713b93c0dc51e40cd2572
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/455a1263883713b93c0dc51e40cd2572/xclkon/c6f77d47958a9a9d5c2c6dc27149682a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

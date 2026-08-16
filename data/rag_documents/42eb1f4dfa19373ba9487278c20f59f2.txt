@@ -1,0 +1,56 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 42eb1f4dfa19373ba9487278c20f59f2
+Botanical Name: Cymbopogon schoenanthus (L.) SPRENG
+Family: Poaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 56 Vernacular names found in 7 languages. English (1) - canal grass Hindi (10) - bujina, buraro, mirchiagand, musel, palakhari, rohisha, rousaghas, rusaghas, saundhiya, sugani Kannada (2) - geranium hullu, vasanchullu Marathi (5) - rohisha, rosegavat, rosegavath, rushagavat, rushagavath Sanskrit (24) - Sanskrit Comments  bhustrna, bhuti, bhutika, devajagdha, devjagdam, dhupagandhika, dhyama, dhyamaka, gandhatrna, katrina, katrna, katrnam, kattrnam, kutrnam, paura, putimugdala, rohisa, rohisam, rohisha, rohishatrina, saugandhika, shyamaka, sugandhatrinashita, sushitala Tamil (13) - camparappul, cukkunarippul 2, curumam, kamatcippul 1, kantaketam, karpurappul, karuppurappul, kavattampul 2, kuyyapicam, kuyyapitam, potaippul 1, tailappul, vacanaippul 1 Urdu (1) - azkhar maki
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42eb1f4dfa19373ba9487278c20f59f2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42eb1f4dfa19373ba9487278c20f59f2
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42eb1f4dfa19373ba9487278c20f59f2
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/42eb1f4dfa19373ba9487278c20f59f2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+ref_drug_name: रोहिष
+status: Substituted source
+discussion: The roots of this species might have been used in place of Rohisa
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Rohisa
+sanskrit_name: रोहिष
+transliteration: rohiṣa
+image_urls: https://www.medicinalplants.in/slokaimages/550/550_1.jpg https://www.medicinalplants.in/slokaimages/550/550_2.jpg https://www.medicinalplants.in/slokaimages/550/550_3.jpg
+ocr_text: कत्तृणं श्वासकासघ्नं हृद्रोगशमनं परम् विसूच्यजीर्णशूलघ्नं कफपित्तास्रनाशनम् न (ज.नि) Kattrna alleviates svasa , kasa, visuci, ajirna, sula, best in pacifyng hrdroga, destroys kapha, pitta asra and कत्तृणा दशनामाढ्यं कटुतिक्तं कफापहम्| शस्त्रशल्यादिदोषघ्नं बालग्रहविनाशनम् | IRin) Kattrna is katu, tikta in rasa, dasanamdhya, alleviates kapha, sastra salyadi dosha and destroys bala Braha. रोहिषं तिक्तं कटुपाकं व्यपोहति | हृत्कण्ठव्याधिपित्तास्रशूलकासकफज्वरान् (Bpn) Rohisa is tuvara, tikta in rasa, katu in paka, alleviates hrt kantha vyadhi, pitta, asra, sula, kasa, kapha and jvara. तुवरं

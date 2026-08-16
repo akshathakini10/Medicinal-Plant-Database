@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6d113619856013e9dc56dea1ec40931d
+Botanical Name: Curcuma zedoaria (CHRIST.) ROSCOE
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Curcuma zerumbet ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 129 Vernacular names found in 10 languages. English (1) - zedoary Hindi (6) - gandamasti, kachur, kachura, kakhur, kalihaladi, maha-bari Kannada (4) - ambe haldi, kaadu arisina, kachora, kochora Malayalam (10) - adavi-kachhola, kaccolam, kach-cholam, kach-churi-kizhanna, kachcholam, kachchurikizhanna, kua, pula-kizhanna, pulakizhanna, pulan-kizhanna Marathi (7) - kachar, kachari, kachora, kachur, kuv, kuw, narakachora Sanskrit (24) - Sanskrit Comments  dravida, durlabha, gandhamula, gandhamulaka, gandhasara, jatala, kaccura, kachhuraha, kachura, kacoraka, kalpaka, karchura, karcura, karcurah, karshya, krachura, mukhya, nirvisha, sathi, sati, shathi, shati, vanaharidra, vedhya Tamil (60) - amalanica, amlavarittira, castoorie munjel, cunaittavakkilanku, cunaittavam, cuntiran, cutatali, kaccolakkilanku, kaccolam, kaccolam2, kaccoram, kantapalaci2, karccuram, karppurakiccili, karppurakkiccilikkilanku, karpurakam, kastori-manjal, katturimancal, kicchilikizhangu, kiccili, kiccili-k-kilanku, kiccilik kilanku, kiccilik-kilanku, kiccilikkilanku, kicciliver, kich-chilik-kizhangu, kichchilik-kishangu, kichchilikkizhangu, kichchllik, kichili kilangu, kichilic-kizhanga, kichilikilhangu, kirandi dakaram, kishangu, korankimulam, kotukam, kurpakatikkilanku, kurupakatitam, kuva2, mancatpula, nattukkiccilikkilanku, niruvisam, nirvisam, nirvisham, perunkurumpai 1, pirutupala, poolan kilangu, pula, pula 1, pulai, pulakkilanku, pulamulam, pulan-kizhanga, pulan-kizhangu, pulang-kilunggu, pulankilanku, pulankilhangu, pulavin kilanku, talaivalipokki, veppatti 1 Telugu (11) - adavipasuvu, gaddata, kachoeramu, kachoram, kasthooripasupu, kich-chili-gaddalu, kichchiligaddalu, kichchilli, kichhiligaddalu, kichili-gaddalu, kuchur Tibetan (2) - ka tsu ra, ser po Urdu (4) - kachura, kharal ki hui, zadwar saida, zarambad
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d/xclkon/2c9a7e0a18719d07bdbb38bb9792e7a0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 705
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/705.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d/xclkon/2c9a7e0a18719d07bdbb38bb9792e7a0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d/xclkon/2c9a7e0a18719d07bdbb38bb9792e7a0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d/xclkon/2c9a7e0a18719d07bdbb38bb9792e7a0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d/xclkon/2c9a7e0a18719d07bdbb38bb9792e7a0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d113619856013e9dc56dea1ec40931d/xclkon/2c9a7e0a18719d07bdbb38bb9792e7a0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Karcura
+sanskrit_name: कर्चूर
+transliteration: karcūra
+ref_drug_name: कर्चूर
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Karcura
+sanskrit_name: कर्चूर
+transliteration: karcūra
+ref_drug_name: कर्चूर
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 3
+drug_name: Karcura
+sanskrit_name: कर्चूर
+transliteration: karcūra
+ref_drug_name: कर्चूर
+status: Controversial
+discussion: Controversy has been arised as it is included in the group of fruits where as it is a rhizome
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

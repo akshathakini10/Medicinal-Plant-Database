@@ -1,0 +1,123 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4c45dd2346e183a1b3eb331f170875e4
+Botanical Name: Moringa oleifera LAM.
+Family: Moringaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Hyperanthera moringa VAHL Moringa pterygosperma GAERTN
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 200 Vernacular names found in 10 languages. English (3) - ben nut, drumsticks, horse-radish tree Hindi (31) - hargua, mungana, mungna, rasunna, sahanjna, sahijan, sahinjan, sahjan, sainjana, sainjna, sajna, sanan suhanjua, sanan suhanjuna, sanjana, sanjano, sanjna, saonjna, sargua, saunjna, segu, segva, segve, shajna, shajnah, shajnah or shajna, soanjana, soanjna, soanjna shevga, sondna, soujna, sunara Kannada (15) - guggala, guggula, guggulu, mocaka, mochaka, mochaka mara, murunga, noogay, nuggaykoy, nugge, nugge mara, nugge-gida, nuggee, nuggi, nurge Malayalam (8) - mooringeh, mouringou, murina, muringa, murinna, murunna, sigru, tishnagandha Marathi (16) - achajhada, badadishing, moshimg, munaga chajhada, munagacha-jhad, munagachajhada, mungai, murungamul, sainga, shegat, shegata, shegta, shegva, shevaga, shevga, shevgi Sanskrit (79) - Sanskrit Comments  akshiba, aksiva, bahala, bahala-pallavah, bahalah, bahulapallava, bahumula, bahupatraka, chaksushya, chalusha, damsamula, danshamula, dravinaandhata, dvishigru, dvisigru, gandhaka, haritapatra, haritashaka, jalaproya, janapriya, kakshivaka, kalibaka, kaminisha, katukanda, komalpatraka, krishnagandha, krishnashigru, krsnagandha, kshamadansha, madhugunjana, madhushigruka, madhusigru, madhusravah, mechaka, mocaka, mocha, mochaka, mukhabhanga, mukhamlda, mulakaparni, murangi, murungi, nashana, rochana, ruchiranjana, saigravam, sanamaka, sanbhanjana, shakapatra, shigru, shigruka, shobhanjana, shobhanjana- vrikshaha, shobhataka, sigroomula, sigru, sigruh, sigruka, sitavhaya, sobhanjana, sobhanjanah, sobhanjari, strichittahari, subhanjana, sumula, supatraka, sutikshna, svetamaricha, svetashigru, swetamaricha, tikshnamula, tikshnanandhaka, tiksnagandha, tilashigru, ugra, upadansha, vanapallava, vejika, vidradhinashana Tamil (17) - achuram, asasuram, cikkuru, copancanam, karunjanam, kaykkirai, kilavi, kirancanam, kiranjanam, moorunghy vayr, moringa, murangai, murungai, murunkai, sikkuru, suligai, tavuselam Telugu (27) - erra munaga, kaarumunaga, mocakamu, mochakamu, monaga, monagaku, moonagachettu, mooraga, morunga, mulaga, mulaga chettu, mulage, mulaka, munaga, munaga chettu, munga, munuga, murunga, saajana, saihan, sajana, seetavrykshamu, sejan, sigrupa, sitavrykshamu, tellamunaga, thellamanuka Tibetan (3) - na le sam dkar po, si kru dkar po, si-gru Urdu (1) - sahajna
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/133bff390fc0bdf0183cb65fb14062f4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/bd43407ecde9e23c933259192df7aad4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/133bff390fc0bdf0183cb65fb14062f4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/bd43407ecde9e23c933259192df7aad4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/133bff390fc0bdf0183cb65fb14062f4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/bd43407ecde9e23c933259192df7aad4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/133bff390fc0bdf0183cb65fb14062f4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/bd43407ecde9e23c933259192df7aad4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/133bff390fc0bdf0183cb65fb14062f4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/bd43407ecde9e23c933259192df7aad4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4c45dd2346e183a1b3eb331f170875e4/xclkon/133bff390fc0bdf0183cb65fb14062f4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aksiva
+sanskrit_name: अक्षीव
+transliteration: akṣīva
+ref_drug_name: अक्षीव
+status: Accepted source
+discussion: Madhusigru was a very controversial drug in ancient times as it was interpreted with different names like 'Sigru', 'Mahanimba', 'Vasira' etc; Cakrapani interpreted it with 'Musta' or 'Sobhanjana' where as Dalhana has interpreted it with 'Mahanimba' or 'Sobhanjana'; With regard to the referance 'Sigruni' in Caraka meaning seeds of Sigru the author has considered the same and identified 'Aksiva' with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Sigru
+sanskrit_name: शिग्रु
+transliteration: śigru
+ref_drug_name: शिग्रु
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Sigru
+sanskrit_name: शिग्रु
+transliteration: śigru
+ref_drug_name: शोभाञ्जन
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Sobhanjana
+sanskrit_name: शोभाञ्जन
+transliteration: śobhāñjana
+ref_drug_name: शिग्रु
+status: Accepted source
+discussion: Its identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Sobhanjana
+sanskrit_name: शोभाञ्जन
+transliteration: śobhāñjana
+ref_drug_name: शोभाञ्जन
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Sigru
+sanskrit_name: शिग्रु
+transliteration: śigru
+image_urls: https://www.medicinalplants.in/slokaimages/1134/1134_1.jpg https://www.medicinalplants.in/slokaimages/1134/1134_2.jpg https://www.medicinalplants.in/slokaimages/1134/1134_3.jpg https://www.medicinalplants.in/slokaimages/1134/1134_4.jpg
+ocr_text: शिग्रुर्मूलकपत्रो बहुलदलस्तीक्षणगन्धश्च अपदंशः शीघ्रफलो बहुलत्वक् हरितशाकः स्यात् |l मधुशिग्रुः सितमरिचो मधुस्रवः कृष्णगन्धश्च प्रोक्तः सोभाञ्जनकः शिग्रुकसंज्ञो मुरिङ्गीति स एव चाच्छवृक्षः स्यान्मुखवासाह्वयस्था कथितः स एव बहलः श्वेततरु श्वेतमञ्जरी चेति सौभाञ्जनकश्चःहरितपर्यायैबहलपल्लवोडनिल्जत् (Aa. Ma) Synonyms are: sigru, mulaka patra, bahula dala, tiksna gandha apadamsa, sighraphala, bahula tvak, haritasakha Madhu sigru , sveta marica, madhu srava, krsna ganaha, saubhanjanaka sigruka, murangi , acchavrksa, mukha vasa, va yastha are the synonyms for sveta manjari. Bahala , sveta taru, sveta manjari, saubhanjanaka, harita, bahala pallava, anilajit are also its synonyms शोभाञ्जनः शिग्रुतीक्ष्णगन्धकाक्षीव मोचकाः Il श्वेतमरिचं मधुशिग्रुस्तु लोहितः IBpn) Sobhanjana, sigru, tiksna ganaha, aksiva, mocaka are the synonyms for sigru Synonyms of its bija are sveta marica, madhu sigru, lohita. तद्बीजं रसासृक्पित्तशमनः प्लीहघ्नः लघुः तिक्तो वीर्ये बिमः चक्षुष्यो विद्रधौ हितः Il MMdnl Sigru is tikta in rasa, laghu in guna, hima in veerya, caksushya, pacifies rasa, asrk, pitta, alleviates pliha, krmi, vidradhi. कृमिहा शिग्रुः शिग्रुस्तिक्तः कफशोफसमीरजित् कृम्यामविषमेदोघ्नो विद्रधिप्लीगुल्मनुत् Il (ohny Sigru is tikta and katu in rasa, usna in veerya, alleviates kapha, sopha, samira, krmi, visa, medo, vidradhi , pliha ana gulma. कटुश्चोष्णः
+
+Shloka Record 2
+drug_name: Sobhanjana
+sanskrit_name: शोभाञ्जन
+transliteration: śobhāñjana
+image_urls: https://www.medicinalplants.in/slokaimages/1134/1134_1.jpg https://www.medicinalplants.in/slokaimages/1134/1134_2.jpg https://www.medicinalplants.in/slokaimages/1134/1134_3.jpg https://www.medicinalplants.in/slokaimages/1134/1134_4.jpg
+ocr_text: शिग्रुर्मूलकपत्रो बहुलदलस्तीक्षणगन्धश्च अपदंशः शीघ्रफलो बहुलत्वक् हरितशाकः स्यात् |l मधुशिग्रुः सितमरिचो मधुस्रवः कृष्णगन्धश्च प्रोक्तः सोभाञ्जनकः शिग्रुकसंज्ञो मुरिङ्गीति स एव चाच्छवृक्षः स्यान्मुखवासाह्वयस्था कथितः स एव बहलः श्वेततरु श्वेतमञ्जरी चेति सौभाञ्जनकश्चःहरितपर्यायैबहलपल्लवोडनिल्जत् (Aa. Ma) Synonyms are: sigru, mulaka patra, bahula dala, tiksna gandha apadamsa, sighraphala, bahula tvak, haritasakha Madhu sigru , sveta marica, madhu srava, krsna ganaha, saubhanjanaka sigruka, murangi , acchavrksa, mukha vasa, va yastha are the synonyms for sveta manjari. Bahala , sveta taru, sveta manjari, saubhanjanaka, harita, bahala pallava, anilajit are also its synonyms शोभाञ्जनः शिग्रुतीक्ष्णगन्धकाक्षीव मोचकाः Il श्वेतमरिचं मधुशिग्रुस्तु लोहितः IBpn) Sobhanjana, sigru, tiksna ganaha, aksiva, mocaka are the synonyms for sigru Synonyms of its bija are sveta marica, madhu sigru, lohita. तद्बीजं रसासृक्पित्तशमनः प्लीहघ्नः लघुः तिक्तो वीर्ये बिमः चक्षुष्यो विद्रधौ हितः Il MMdnl Sigru is tikta in rasa, laghu in guna, hima in veerya, caksushya, pacifies rasa, asrk, pitta, alleviates pliha, krmi, vidradhi. कृमिहा शिग्रुः शिग्रुस्तिक्तः कफशोफसमीरजित् कृम्यामविषमेदोघ्नो विद्रधिप्लीगुल्मनुत् Il (ohny Sigru is tikta and katu in rasa, usna in veerya, alleviates kapha, sopha, samira, krmi, visa, medo, vidradhi , pliha ana gulma. कटुश्चोष्णः

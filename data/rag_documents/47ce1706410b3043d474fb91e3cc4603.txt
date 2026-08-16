@@ -1,0 +1,45 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 47ce1706410b3043d474fb91e3cc4603
+Botanical Name: Pentatropis nivalis (GMEL.) FIELD & WOOD.
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Pentatropis spiralis DECNE.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Hindi (1) - aakari bel Sanskrit (1) - Sanskrit Comments  kakanasika
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47ce1706410b3043d474fb91e3cc4603/xclkon/e1b3aae883d8160746058ae8f53e48c0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1614
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1614.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47ce1706410b3043d474fb91e3cc4603
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47ce1706410b3043d474fb91e3cc4603/xclkon/e1b3aae883d8160746058ae8f53e48c0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47ce1706410b3043d474fb91e3cc4603
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/47ce1706410b3043d474fb91e3cc4603/xclkon/e1b3aae883d8160746058ae8f53e48c0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

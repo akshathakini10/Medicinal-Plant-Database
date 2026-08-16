@@ -1,0 +1,102 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 102b6ca8bd8a182ab3633a7f6a2ce63a
+Botanical Name: Wedelia chinensis MERR.
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Verbesina calendulacea L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 119 Vernacular names found in 7 languages. Hindi (5) - babri, bhangra, bhanra, mochkand, pilabhamgara Kannada (8) - arishina garuga, gargari, gargari gida, haladi garuga, kaesharaaja, kalsarji, kesharaaj, kesharaji Malayalam (4) - kannunni, kayyunni, mannakkannunni, pee-cajenneam Marathi (5) - bhangra, birimgarsi, kesaraja, pivalamaka, pivalamka Sanskrit (18) - Sanskrit Comments  bhringaraja, bhrngaraja, bhrngarajaka, devapriya, haripriya, harivesa, kesaraja, markava, pavana, pita-bhringi, pitabhringaraja, pitabhringi, pitabhrnga, pitabhrngaraja, pitabhrngarajah, pitbhrngarajah, svarnabhringara, vandaniya Tamil (76) - acalomi, akkattarimuli, alkuppai, alomi, ankaiyanancam, atirampai, atiruppai, avanitam, cempicci, cempiccu, cenkoticci1, cenkoticitan, cirrilaittevi, civantakaiyan, civantakaricalai, civappukkaiyan, civappukkaiyantakarai, civappukkaricalai, kaikeshi, karicalai, karicanacceti, karicanam, karisha-langanni, karisirang-kanni, karpatti, kecaracam, kurumuli, macciyakitacceti, macciyakitam, mancalakaiyantakarai, mancalkaricalankanni, mancatkaricalai, mancatkaricalankanni, mancatkarippan, mancatkivetakam, maniccittiracceti, maniccittiram, manjal karisaalai, manjal karisaali, manjal karisilanganni, manjalkarilamkanni, maturacakari, maturacakaricceti, maturakatakam, mavulatikacceti, metai, narralaitevi, paniyirul, patalai kayyantakarai, patalaikaiantagerai, pitakecacceti, pitakecam, ponnankali, ponnankalicceti, ponni, ponniraicci, porkaiyan, porralai, porralaikarippan, porratu, porrekaracam, porrekkaracam, porrilaik kaiyan, porrilaikkaiyan, portalaykaiantagerei, postaley-kaiantagerai, potralai kairan tagarai, potralai kaiyan tagarai, potralai kayanthagarai, tekatti, tekkomakam, vacalomi, vacani 3, valcetippuntu, vanotalatamuli, yavamitam Telugu (3) - galagara, gunta-kalagara, guntagalagara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102b6ca8bd8a182ab3633a7f6a2ce63a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102b6ca8bd8a182ab3633a7f6a2ce63a/xclkon/8266dd488fd965ffae983429e5177e83
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102b6ca8bd8a182ab3633a7f6a2ce63a/xclkon/ede32769e1251127845a6503533a0bb4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102b6ca8bd8a182ab3633a7f6a2ce63a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102b6ca8bd8a182ab3633a7f6a2ce63a/xclkon/8266dd488fd965ffae983429e5177e83
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102b6ca8bd8a182ab3633a7f6a2ce63a/xclkon/ede32769e1251127845a6503533a0bb4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102b6ca8bd8a182ab3633a7f6a2ce63a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102b6ca8bd8a182ab3633a7f6a2ce63a/xclkon/8266dd488fd965ffae983429e5177e83
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102b6ca8bd8a182ab3633a7f6a2ce63a/xclkon/ede32769e1251127845a6503533a0bb4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/102b6ca8bd8a182ab3633a7f6a2ce63a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bhrngaraja
+sanskrit_name: भृङ्गराज
+transliteration: bhṛṅgarāja
+ref_drug_name: भृङ्गराज
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Bhrngaraja - bheda
+sanskrit_name: भृङ्गराज भेद
+transliteration: bhṛṅgarāja bheda
+ref_drug_name: भृङ्गराज भेद
+status: Accepted source
+discussion: In Sodala nighantu, 'Bhrngaraja' has been mentioned of 2 types as 'Avanti' (yellow variety) and 'Jayanti' (white variety); Vaidya Bapalal considers 'Avanti' as 'Pita Bhrngaraja' which is identified with this species.
+reference: [5]
+
+Identity Record 3
+drug_name: Bhrngaraja - pita
+sanskrit_name: भृङ्गराज पीत
+transliteration: bhṛṅgarāja pīta
+ref_drug_name: भृङ्गराज भेद
+status: Accepted source
+discussion: In Sodala nighantu, 'Bhrngaraja' has been mentioned of 2 types as 'Avanti' (yellow variety) and 'Jayanti' (white variety); Vaidya Bapalal considers 'Avanti' as 'Pita Bhrngaraja' which is identified with this species.
+reference: [5]
+
+Identity Record 4
+drug_name: Bhrngaraja - sveta
+sanskrit_name: भृङ्गराज श्वेत
+transliteration: bhṛṅgarāja śveta
+ref_drug_name: भृङ्गराज
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bhrngaraja
+sanskrit_name: भृङ्गराज
+transliteration: bhṛṅgarāja
+image_urls: https://www.medicinalplants.in/slokaimages/653/653_1.jpg https://www.medicinalplants.in/slokaimages/653/653_2.jpg https://www.medicinalplants.in/slokaimages/653/653_3.jpg https://www.medicinalplants.in/slokaimages/653/653_4.jpg https://www.medicinalplants.in/slokaimages/653/653_5.jpg https://www.medicinalplants.in/slokaimages/653/653_6.jpg https://www.medicinalplants.in/slokaimages/653/653_7.jpg https://www.medicinalplants.in/slokaimages/653/653_8.jpg
+ocr_text: मार्कवो भृङ्गराजश्च भृङ्गाह्वा केशरञ्जनः पितृप्रियो रङ्गकश्च केश्यः कुन्तलवर्धनः II (Rjn) Markava, bhrngaraja, bhrngahva, kesaranjana, pitrupriya rangaka kuntalavardhana are the synonyms of bhrangaraja. kesya भृङ्गराजः कटुस्तिक्तो रूक्षोष्णः कफवातनुत् केश्यस्त्वच्यः कृमिश्वासकासशोफामपाण्डुनुत् || दन्त्या रसायनाो बल्यः कुष्ठनेत्रशिरोर्तिनुत् (Bpn) Bhrngaraja is katu, tikta in rasa, ruksa in guna usna in veerya kapha vata hara, kesya tvacya, dantya rasayana, balya cures krmi, svasa, kasa, sopha, ama, pandu, kustha, netraroga and siroroga भृङ्गराजास्तु चक्षुष्यास्तिक्तोष्णः केशरञ्जनः कफशोफविषघ्नश्च (Rjn) Bhrngaraja is tikta in rasa, usna in veerya, caksushya, kesa ranjana, cures kapha sopha and visa मार्कवः कफापाण्डुघ्नः केश्यः श्वित्राक्षिरोगजित् (Sdn) Markava is kesya, alleviates kapha, pandu, svitra and aksi roga. मार्कवस्तिकश्चोष्णश्चक्षुष्यः केशरञ्जनः त्वर्चो रूक्षश्च तीक्ष्णश्च दन्त्यो मेध्यो रसायनः |l शोफं कामं चान्त्रवृद्धि शिरोनेत्ररुजं तथा कफं वातं च कासं च श्वासकुष्ठकृमीन् जयेत् आमं च पाण्डुरोगं च हृद्रोगं त्वग्रुजं तथा विषं च नाशयत्येव कण्डूनाशकरो मतः Il (Nir) Markava is tika in rasa, tiksna, ruksa in guna usna in veerya caksushya kesa ranjana tvacya, dantya medhya, rasayana cures sopha kama antravrddhi, siro netra ruja, kapha vaia kasa svasa, kusiha krmi, ama, pandu, hrdroga tvagruja, visa and kandu तैलं दशगुणे सिद्धं भृङ्गराजरसे शुभे सेव्यमानं यथान्यायं कासश्चासौ व्यपोहति Il (Su.S.U) Bhrngaraja svarasa prepared into iaila using १० parts of taila, iaken internally in prescribed dose cures svasa and kasa. ये मासमेकं स्वरसं पिबन्ति दिने दिने भृङ्गरजः समुत्थम् क्षीराशिनस्ते बलवीर्ययुत्त्काः समाः शतं जीवितमाप्नुवन्ति Il (A.Hr.U) Bhrngaraja svarasa iaken for a month every and dieting on ksira anna promoies bala and virya equally and he lives well for १०० years day मार्कवमथवा खादेद् भृष्टं तैलेन लोहपात्रस्थम् बीजकशृतं च दुग्धं तदनुपिबेत् श्वित्रनाशाय |l (A.Hr.C) Bhrangaraja which is iaken fried in iaila in iron vessel followed by the iniake of milk cures svitra
+
+Shloka Record 2
+drug_name: Bhrngaraja - sveta
+sanskrit_name: भृङ्गराज श्वेत
+transliteration: bhṛṅgarāja śveta
+image_urls: https://www.medicinalplants.in/slokaimages/653/653_1.jpg https://www.medicinalplants.in/slokaimages/653/653_2.jpg https://www.medicinalplants.in/slokaimages/653/653_3.jpg https://www.medicinalplants.in/slokaimages/653/653_4.jpg https://www.medicinalplants.in/slokaimages/653/653_5.jpg https://www.medicinalplants.in/slokaimages/653/653_6.jpg https://www.medicinalplants.in/slokaimages/653/653_7.jpg https://www.medicinalplants.in/slokaimages/653/653_8.jpg
+ocr_text: मार्कवो भृङ्गराजश्च भृङ्गाह्वा केशरञ्जनः पितृप्रियो रङ्गकश्च केश्यः कुन्तलवर्धनः II (Rjn) Markava, bhrngaraja, bhrngahva, kesaranjana, pitrupriya rangaka kuntalavardhana are the synonyms of bhrangaraja. kesya भृङ्गराजः कटुस्तिक्तो रूक्षोष्णः कफवातनुत् केश्यस्त्वच्यः कृमिश्वासकासशोफामपाण्डुनुत् || दन्त्या रसायनाो बल्यः कुष्ठनेत्रशिरोर्तिनुत् (Bpn) Bhrngaraja is katu, tikta in rasa, ruksa in guna usna in veerya kapha vata hara, kesya tvacya, dantya rasayana, balya cures krmi, svasa, kasa, sopha, ama, pandu, kustha, netraroga and siroroga भृङ्गराजास्तु चक्षुष्यास्तिक्तोष्णः केशरञ्जनः कफशोफविषघ्नश्च (Rjn) Bhrngaraja is tikta in rasa, usna in veerya, caksushya, kesa ranjana, cures kapha sopha and visa मार्कवः कफापाण्डुघ्नः केश्यः श्वित्राक्षिरोगजित् (Sdn) Markava is kesya, alleviates kapha, pandu, svitra and aksi roga. मार्कवस्तिकश्चोष्णश्चक्षुष्यः केशरञ्जनः त्वर्चो रूक्षश्च तीक्ष्णश्च दन्त्यो मेध्यो रसायनः |l शोफं कामं चान्त्रवृद्धि शिरोनेत्ररुजं तथा कफं वातं च कासं च श्वासकुष्ठकृमीन् जयेत् आमं च पाण्डुरोगं च हृद्रोगं त्वग्रुजं तथा विषं च नाशयत्येव कण्डूनाशकरो मतः Il (Nir) Markava is tika in rasa, tiksna, ruksa in guna usna in veerya caksushya kesa ranjana tvacya, dantya medhya, rasayana cures sopha kama antravrddhi, siro netra ruja, kapha vaia kasa svasa, kusiha krmi, ama, pandu, hrdroga tvagruja, visa and kandu तैलं दशगुणे सिद्धं भृङ्गराजरसे शुभे सेव्यमानं यथान्यायं कासश्चासौ व्यपोहति Il (Su.S.U) Bhrngaraja svarasa prepared into iaila using १० parts of taila, iaken internally in prescribed dose cures svasa and kasa. ये मासमेकं स्वरसं पिबन्ति दिने दिने भृङ्गरजः समुत्थम् क्षीराशिनस्ते बलवीर्ययुत्त्काः समाः शतं जीवितमाप्नुवन्ति Il (A.Hr.U) Bhrngaraja svarasa iaken for a month every and dieting on ksira anna promoies bala and virya equally and he lives well for १०० years day मार्कवमथवा खादेद् भृष्टं तैलेन लोहपात्रस्थम् बीजकशृतं च दुग्धं तदनुपिबेत् श्वित्रनाशाय |l (A.Hr.C) Bhrangaraja which is iaken fried in iaila in iron vessel followed by the iniake of milk cures svitra

@@ -1,0 +1,93 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cb8c6123872fb49d5b8ffb3be64cabea
+Botanical Name: Butea monosperma (LAM.) TAUB.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Butea frondosa ROB. ET KOEN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 319 Vernacular names found in 10 languages. English (7) - bastard teak, bengal kino, dhak, flame of the forest, muduga oil, palas, tisso flowers Hindi (27) - chhola, chichra, chinchra, chuniagond, desukajhad, dhak, dhara, faras, kakria, kankeri, kankrei, kesu, kesuda, khakario, khakra, khankhera, khankhro, khankra, palah, palas, palas (dhak), palas-ke-binj, palas-ki-gond, phalas, plah, tasu, tesu Kannada (27) - brahma vriksha, brahmavriksha, brahmavryksha, kamata, meghanaada, mottuga, muthingee, muthli, muthuga, muthuge, muttaga-mara, muttagamara, muttakka, muttala, mutthala beeja, mutthala mara, mutthalu, mutthuga, mutthugada aele, mutthugada mara, muttuga, muttuga-gida, muttuge, mutukinaballi, palasa, thoras, vaathapotha mara Malayalam (38) - brahmavriksham, brahmavryksham, camata, chamada, chamata, chamatha, kimshukam, kimsukam, mukampuyam, mukappuyam, mukkampuyam, mukkappuyam, murikku, muriku, murukka-maram, murukkamaram, murukku, palas, palasi, palasie, palasincamata, palasinjamatapuppalasi, palasinsamatha, palaso, pilacam, pilacham, pilasu, plach-cha, plas, plasa, plash, plaso, plasu, pupalasai, puppalasi, ralasa, samatha, shamata Marathi (7) - kakracha, murkampoo, palas, palash, paras, phalas, phulas Sanskrit (42) - Sanskrit Comments  asana, bandhukapushpa, bijasneha, brahmavriksha, brahmavrksah, bramhapadapa, bramhopaneta, hastikarnapalasha, ka, kamalasana, karaka, kashtadru, kimsuka, kinshuka, kinsuka, kinsukah, krimighna, ksarasrestha, ksharashreshtha, ksharasresthah, lakshataru, palasa, palasah, palasha, palashabijam, palashaniryasam, palashavrikshaha, parna, putadru, raktapushpaka, raktapuspaka, samidvara, sharashreshdna, sruvavrksa, suparni, tapasavrksah, tripatraka, tripatrika, vakrapushpaka, vatapotha, vatapothah, yajnika Tamil (133) - ankarikam, ankaritam, antaraputpam, carapala, cavulaka, cayikkari, cayikkarimaram, cira, cirettam, ciyu, cuccam, elaiporasu, ilaippuracai, ilaippuracamaram, irattaputpam, kalavacu, kali, kali1@, kali2, kalicceti, kaliram, kampiram, kancikai, kattumurukku, kettimekitamaram, kettimetikam, kincukam, kincuki, kinjugam, kirumicatturu, kiruminacam, kirumisatturu, mukkampuyam, mukkappuyam, mukkukkavalam, mukkukkavalamaram, mullumurukku 1, mullumurunkai 1, murkampoo, murrukku, murukkam, murukkam pu, murukkam vittu, murukkampu, murukkan, murukkan vidai, murukkan-maram, murukkanmaram, murukkilai, murukku, mutpalacu, mutpalacumaram, nervanikam, nervanikamaram, palacam, palacu, palacumaram, palasam, palasham, palasu, paliru, paliruvi, parasa, parasu, pariyam1, pauttiramurunkai#, pauttiramurunkai@, pinayakkam, pinayakkamaram, piramataru 1@, piramataru 2, pirocanam, pirocanam#, pirocanam@, placu, pokamikavaci, porasu, porasum cottay, porasum verei, pun murunkai ver, punamurrungai, punamurukku, punamurukku 1, punamurunkai 1, pungu, punku 1, puntanar, puntunar, pupalas, puppalacu, puracam, puracampattai, puracampu, puracu, puracumaram, puraicu, puraishu, purashu, purasu, purocu, putattunar, takar, takaru2, takarumaram, tikkuru#, tikkuru@, tipanaracam, tiripatcakam, tiriviruntam, tirkkapalai2, vakkiraputpam, vallai, vallaimaram, valliru, vallirumaram, vammaram 1, vanapattimam, vanapattimaram, vanapattiram, vanapattiramaram, vanapattiyam, velataram 1, velataramaram 1, velittukam, velittukamaram, vikacitam, vikacitamaram, vipannakam, vippirappiriyam, virumataru, vita, vitari, vitaricceti Telugu (22) - kimshukamu, kimsukamu, maduga, mataka, modagu, moduga, moduga chettu, moduga-chettu, modugu, mooduga, mothu, muduga, palaashamu, paladul, palasamu, palashamu, tellamoduga, thellamoduga, togaramoduga, togarnmoduga, togarumoduga, vatapodhamu Tibetan (3) - rgya skyegs, rgya skyegs sin, tshos-sin Urdu (13) - chunia gond, dhak, dhak (tesu), gond chunya, gond dhak, gul-e-tesu, palas, palas papra, palashpapra, palaspapra (dhak), poast dhak, samagh-e-dhak, tesu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/6601378021495b3ebd2bd0197c8cabb5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 376
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/376.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/3fc43f82c7ee37483f86a1c0f01d104a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/6601378021495b3ebd2bd0197c8cabb5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/3fc43f82c7ee37483f86a1c0f01d104a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/6601378021495b3ebd2bd0197c8cabb5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/3fc43f82c7ee37483f86a1c0f01d104a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/6601378021495b3ebd2bd0197c8cabb5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/3fc43f82c7ee37483f86a1c0f01d104a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/6601378021495b3ebd2bd0197c8cabb5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/3fc43f82c7ee37483f86a1c0f01d104a
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cb8c6123872fb49d5b8ffb3be64cabea/xclkon/6601378021495b3ebd2bd0197c8cabb5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Hastikarnapalasa
+sanskrit_name: हस्तिकर्णपलाश
+transliteration: hastikarṇapalāśa
+ref_drug_name: हस्तिकर्णपलाश
+status: Controversial
+discussion: The commentator of Siddhayoga has identified Hastikarna as Palasa which is correlated to this species; according to the author it is not Palasa but has identified it with a different species
+reference: [2]
+
+Identity Record 2
+drug_name: Palasa
+sanskrit_name: पलाश
+transliteration: palāśa
+ref_drug_name: पलाश
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Palasa
+sanskrit_name: पलाश
+transliteration: palāśa
+ref_drug_name: पलाश
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

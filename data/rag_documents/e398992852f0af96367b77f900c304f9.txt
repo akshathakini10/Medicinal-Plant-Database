@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e398992852f0af96367b77f900c304f9
+Botanical Name: Pavonia zeylanica CAV.
+Family: Malvaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 45 Vernacular names found in 5 languages. Hindi (1) - golio Kannada (11) - antu thogari, antuthogari, antutogari, baala raakshasa, balaraakshasi, balarakshasi, chittaamutti gida, chittamutti, chittamuttigida, cittamutti, shivana kadale Sanskrit (1) - Sanskrit Comments  bala Tamil (16) - chirtamutti, chithamutti, chittamutti, cirramutti, cirukuruntotii, citta mutti, eirramutti, kurundotti, kuruntatti, kuruntoti, kuruntotti, mammatti, sevagan, sitramutti, sittamootie vayr, sittamutti Telugu (16) - chinamuttam, chinamuttavapulagam, chinna mutavapulagamu, chinnamutavapulagamu, chinnamutennu, chinnamuthennu, chinnamuttavapulagamu, chinnamutthava pulagamu, chirubenda, cinnamuttavapulagamu, cinnamuttemu, kaarubenda, karu benda, karubenda, mutthava pullagam, peramutti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e398992852f0af96367b77f900c304f9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1606
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1606.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e398992852f0af96367b77f900c304f9
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e398992852f0af96367b77f900c304f9
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e398992852f0af96367b77f900c304f9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

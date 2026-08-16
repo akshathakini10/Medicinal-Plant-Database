@@ -1,0 +1,70 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 246aaeb04e3f6bef0fa0e1a5e1dc1412
+Botanical Name: Mimusops elengi L.
+Family: Sapotaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 165 Vernacular names found in 9 languages. Hindi (11) - bakul, bolsari, maulsarau, maulsari, maulser, maulsiri, molsari, molsiri, morsali, mulsari, tendu Kannada (46) - baagala mara, backhul, bagada, bagala, bakkula, bakul, bakula, bhagal, bogada, bokal, boklu, buckhul, bukul, halmadhu, kaalaale, kaesara, kalhaale, kalhale, kallaala, kanja, kesara, minjulu, mugali, mugula, mugule, mulasari, najalu mara, nanja, okula, pagade, pagade mara, pagade-mara, pagademara, pogade, pokkalathu, pokkalthu, ranja, ranjal, ranjalu, ranje, renge, renje, renji, renjil, renjyamboro, vakula Malayalam (14) - bakulam, elangi, elani, elanni, elengi, elengii, elenjee, erini, ilanni, iranni, makira, makura, makuram, mukura Marathi (13) - bakhor, bakul, bakula, barsoli, bkhor, omval, ovalli, owli, raini, ranjanasal, vavoli, wovali, wowli Sanskrit (33) - Sanskrit Comments  anangaka, bakul, bakula, bakulah, chirapushpa, cirapuspa, dhanvi, dohala, gudhapushpaka, h, kantha, karuka, kesara, kesarapa, keshara, madhugandha, madhupanjara, madhupushpa, mukula, padyamoda, sharadika, sidhugandha, simhakesara, sindhugandha, sinhakesara, sthirakusuma, strimukhagandha, strimukhamadhu, surabhi, tailanga, vakula, varalahdha, visharada Tamil (25) - alagu, ilanci, ilanji, kecaram, kesaram, kosaram, magadam, maghizham, magil, magilam, magish, magizh, magizham, mahila, makilam, makilam maram, makilam vittu, makilampu, makizampu, makulampu, mogadam, mogidam, vagulam, vakulam, vakulampu Telugu (19) - bogada, bogoda, kaesara, kasara, kesara, nemmi, nunni, paarijaathamu, pagada, pagade chettu, pal, parijatamu, pogada, pogada manu, pogada-manu, pogadoo, poghada, vakula, vakulamu Tibetan (2) - ba gu la, ba ku la (d) Urdu (2) - maulsari, mulsari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1438
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1438.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/246aaeb04e3f6bef0fa0e1a5e1dc1412
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Bakula
+sanskrit_name: बकुल
+transliteration: bakula
+ref_drug_name: बकुल
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+Identity Record 2
+drug_name: Bakula
+sanskrit_name: बकुल
+transliteration: bakula
+ref_drug_name: बकुल
+status: Accepted source
+discussion: Identified with it
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Bakula
+sanskrit_name: बकुल
+transliteration: bakula
+image_urls: https://www.medicinalplants.in/slokaimages/1112/1112_1.jpg https://www.medicinalplants.in/slokaimages/1112/1112_2.jpg https://www.medicinalplants.in/slokaimages/1112/1112_3.jpg https://www.medicinalplants.in/slokaimages/1112/1112_4.jpg https://www.medicinalplants.in/slokaimages/1112/1112_5.jpg
+ocr_text: बकुलोद्भवपुष्पं च सुपक्वं च सुगन्धि च | मधुरञ्च कषायञ्च स्निग्धं संग्राहि बाकुलम् स्थिरीकरञ्च दन्तानां विशदं तत्फलं गुरु Il (Dhn) Supakva bakula puspa is madhura, kashaya in rasa, snigdha in guna sangrahi in karma, sugandhi, dantanam sthirikara, its fruits are visadam and guru. बकुलः शीतलो विषदोषविनाशनः मधुरश्च कषायश्च मदांढ्यो हर्षदायकः १l बकुलकुसुमञ्च रुच्यं क्षीरढ्यं शीतलं मधुरम्| स्निग्धकषायं कथितं मलसंग्राहकञ्चैव II (Rjn) Bakula is madhura, kashaya in rasa sitala in veerya hrdya, madadhya, visa dosha vinasana and harsha dayaka. Its Kusuma is madhura kashaya in rasa, snigdha in guna, sitala in veerya, rucya, ksiradhya, surabhi and mala sangrahaka हृद्यो सुरभि बकुलस्तुवरोडनुष्णः कटुपाकरसो गुरुः कफपित्तविषश्वित्रकृमिदन्तगदापहः (Bpn) Bakula is tuvara in rasa guru in guna, anusna in veerya, katu in paka and rasa, cures kapha, pitta, visha, chardi, svitra, krmi and danta gada विपाके गुरु संपक्वं मधुरं कफपित्तजित् मधुरञ्च कषायञ्च स्निग्धं संग्राहि बाकुलम् II (Su) Pakva is kashaya, machura in rasa, guru, snigdha in guna, madhura in paka, sangrahi in karma, alleviates kapha and pitta तद्वीजं दन्तचालघ्नं नस्याच्छीर्षरुजापहम् /| (Sodala) Its Bijam cures danta cala and on nasya it cures sirsaruja.

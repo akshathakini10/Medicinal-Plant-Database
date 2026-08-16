@@ -1,0 +1,99 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: cd17d767c8804c44d255f80bc72e82a7
+Botanical Name: Ipomoea pes-caprae (L,) R.BR.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ipomoea biloba FORSSK.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 109 Vernacular names found in 8 languages. Hindi (2) - dopateluta, dopatilata Kannada (14) - aadambu, aadu balli, aaduballi, adambuballi, adumbaballi, adumbu balli, adumbuburu, bangada balli, bangadaballi, bangadivalli, kempu bangada balli, kempubangadaballi, kempubangaduballi, maralu balli Malayalam (10) - aatambu, atampa, atampu, atampuvalli, chuvannatambu, chuvannatampu, cukannaatampu, cuvannatampu, schovanna-adambu, schovannaadamboe Marathi (8) - bamgdvel, bangadivalli, marjaad bael, marjadvel, maryadvel, maryadvelo, samudraphen, sumudraphen Sanskrit (16) - Sanskrit Comments  chagalanghri, chagalantri, ghavapatta, manmatha, maravalli, maryada, maryadavalli, maryadvalli, masuravidala, raktapushpa, sagara, sagaramekhala, syama, vrddhadaraka, vridhadarak, yugmapatra Tamil (46) - adambu, adappangodi, adapukodi, atampu, atappan koti, atappankoti, attukkal, attukkalatampu, attula, atumpu, capatakitakkoti, capatakitam, chevulapilli, copalikai, kudhirai kulambu, kutiraikkulampati, kutiraikulampu, mankulampu, mucakkattukirai, mucalkatilai, mucalkatukkirai, mucarralai, mucarralai#, mucarralai@, musalkadhukkirai, musattalai, mutavattukkal, muyaikathilai, muyalkatilai, nittukkal, nittukkarceti, palikai, paliru, pancunalakakkoti, pancunalakam, pirampukkoti, vekam, vekikakkoti, vekikam, veram, vicatturu, vicatturukakkoti, vicatturukam, vikatturu, vilattaru, vilattarukkoti Telugu (12) - baalabandithige, baedathige, bala banthi-tige, balabandatige, balabanditige, balabantatige, bedateega, bedatige, cevullapillitige, chevulapillithige, chevulapillitige, chivulapillitige Tibetan (1) - sra bras
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1204
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1204.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7/xclkon/a28c7eeceee8fb4db259407947006dbe
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7/xclkon/a28c7eeceee8fb4db259407947006dbe
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7/xclkon/a28c7eeceee8fb4db259407947006dbe
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/cd17d767c8804c44d255f80bc72e82a7
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Chagalantri
+sanskrit_name: छगलान्त्री
+transliteration: chagalāntrī
+ref_drug_name: छगलान्त्री
+status: Accepted source
+discussion: Has been cited only in Susruta samhita; With regard to its name 'Chagalantri' it signifies a plant resembling the intestines of a goat which is entwined all over; This species shares similar features and hence identified with it
+reference: [5]
+
+Identity Record 2
+drug_name: Chagalantri
+sanskrit_name: छगलान्त्री
+transliteration: chagalāntrī
+ref_drug_name: छगलान्त्री
+status: Most probable
+discussion: May be identified with this species
+reference: [1]
+
+Identity Record 3
+drug_name: Mahasyama
+sanskrit_name: महाश्यामा
+transliteration: mahāśyāmā
+ref_drug_name: महाश्यामा
+status: Most probable
+discussion: This is considered as a variety of Vrddhadaruka mentioned under the name Mahat Trivrt in Susruta which may be correlated to this species
+reference: [1]
+
+Identity Record 4
+drug_name: Masuravidala
+sanskrit_name: मसूरविदला
+transliteration: masūravidalā
+ref_drug_name: मसूरविदला
+status: Most probable
+discussion: Most probably Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Vrddhadaruka
+sanskrit_name: वृध्ददारुक
+transliteration: vṛdhdadāruka
+ref_drug_name: वृध्ददारुक
+status: ?
+discussion: ?
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Vrddhadaruka
+sanskrit_name: वृध्ददारुक
+transliteration: vṛdhdadāruka
+image_urls: https://www.medicinalplants.in/slokaimages/158/158_1.jpg https://www.medicinalplants.in/slokaimages/158/158_2.jpg https://www.medicinalplants.in/slokaimages/158/158_3.jpg https://www.medicinalplants.in/slokaimages/158/158_4.jpg https://www.medicinalplants.in/slokaimages/158/158_5.jpg
+ocr_text: वृद्धदारुः कटुस्तिक्तः तथोष्णः कफवातजित् | श्वयथुकृमिमेहास्रवातोदरहरः परः| | IDhn) Vraahadaru katu, tikta in rasa, usna in veerza, alleviates kapha ana vata cures svayathu, krmi, meha, asra ana vatodara. द्वदारुद्वयं गौल्यं पिच्छिलं कफवातहृत् कासामदोषघ्नं द्वितीयं स्वल्पवीर्यदम् (Rjnl Vradhadaru dvaya is gaulya, picchila in guna, balya, alleviates kapha ana vata, cures kasa and amadosha. Second variety is of svalpa veerya. रसायनो वृद्धदारुः शोथवातामवातजित् कासश्वासज्वरहरो बल्यः पिच्छिल एव च| | (Bpn) Vraahadaru is picchila in guna, balya, rasayana, alleviates sotha, vata, amavata, kasa, svasa and jvara. वृद्धदारुः कटुस्तिक्तकषायोष्णो रसायनः | (Kdn) Vradhadaru is katu, tikta, kashaya in rasa, usna in veerya and rasayana. कषायतिक्तः कटुको रसायनः सरोडनिलाशः कफशोफमेहहा बलाग्निशुक्रस्वरकान्तिकारकः प्रियो न केषामिह वृद्धदारुकः| | (सि.भे.म) Wradhadaru is kashaya, tikta in rasa, sara guna , usna in veerza rasayana, bala, agni, sukra, svara, kanti kara, alleviates vata, increases kapha, inauces sopha and meha

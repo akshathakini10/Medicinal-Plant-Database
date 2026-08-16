@@ -1,0 +1,43 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8e57117e035d8d301b719f86f8ebfbf4
+Botanical Name: Kaempferia galanga L.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 38 Vernacular names found in 8 languages. English (1) - galanga Hindi (3) - candramula, chandramula, sidhoul Kannada (3) - kachchura, kachhoora, kacora Malayalam (6) - kaccolam, kaccoram, kaccuri, kachhuram, katjulam, katsjula-kekengu Marathi (3) - kachri, kapur-kacheri, kapurkachri Sanskrit (10) - Sanskrit Comments  candrani, chandramulika, chundramoolika, corakah, karcurah, sadi, sathi, sati, sugandhamula, sugandhavacha Tamil (8) - kaccolam, kaccoli k-kilanku, kachhola kilangu, kacholum, kachulakalanga, katcolam, katsjula kelengu, pulankilanku Telugu (4) - candramula, chandramoola, kachoram, sime-kich-chilik
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e57117e035d8d301b719f86f8ebfbf4
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1263
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1263.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e57117e035d8d301b719f86f8ebfbf4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e57117e035d8d301b719f86f8ebfbf4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8e57117e035d8d301b719f86f8ebfbf4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

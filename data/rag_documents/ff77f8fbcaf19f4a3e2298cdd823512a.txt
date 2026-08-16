@@ -1,0 +1,69 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ff77f8fbcaf19f4a3e2298cdd823512a
+Botanical Name: Carica papaya L.
+Family: Passifloraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 123 Vernacular names found in 9 languages. English (4) - melon tree, papain, papaya, pawpaw Hindi (13) - andakharbuja, arandkharbuza, papal, papaya, papeeta, papita, papiya, pappaya, pappita, pepiya, popaiya, popaiya or popaiyah, popaiyah Kannada (24) - akka thangi hannu, bappangaayi, bappangayi, barangi, boppayi-hannu, boppe, goppe, goppe hannu, goppen, nda karbhooja, pangi, papaya, pappangaye, pappangayi, pappaya, pappayi, parangi, parangi hannu mara, parangi mara, peragi, perinji, pharangi-hannu, piranji, poppaya Malayalam (20) - apappaya-pazham, kaplam, kappalam, karmmatti, karmmos, karmmosu, karmmusu, karmosu, karumusa, karutha, ommai, papajamaram, pappali, pappaya, pappaya-pazham, pappayam, pappayambalam, pappayampazham, poppoia, umbalay Marathi (4) - papaaya, papay, papaya, popai Sanskrit (8) - Sanskrit Comments  brahmairandah, chirbhita, erandachirbhata, erandachirbhita, erandakarakati, erandakarkati, madhukarkati, nalikadala Tamil (27) - cittamukkicam, cittamukkikamaram, conkarikam, conkarikamaram, kaniyamanakku, kariyamanakku, karpakkini, karpakkinimaram, maniyamanakku 1, pacalai3, pappai, pappali, pappali-pazham, pappali1, pappalikaimaram, pappalippal, pappay, pappayi, pappayi-pazham, parangi, parangiyamanakku, parankiyamanakku, parankiyamanakku 1, parankiyamanakku@, pasalai, poppayi, puppali pullum Telugu (20) - bapaipundoo, bappayi, bappayya, bobbasi, booppamkaya, boppaayi, boppai, boppasa, boppayi, boppayi-pandu, boppayya, madana anapa chettu, madana-anapakaya, madanaanapa, madananaba, madhurnakam, madhurnakamu, parindhi, paringi, poppaya Urdu (3) - arand kharbuza, papita desi, papitha
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ff77f8fbcaf19f4a3e2298cdd823512a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Erandakarkati
+sanskrit_name: एरण्डकर्कटी
+transliteration: eraṇḍakarkaṭī
+ref_drug_name: एरण्डकर्कटी
+status: Accepted source
+discussion: Erandakarkati is correlated to this species
+reference: [3]
+
+Identity Record 2
+drug_name: Erandakarkati
+sanskrit_name: एरण्डकर्कटी
+transliteration: eraṇḍakarkaṭī
+ref_drug_name: एरण्डकर्कटी
+status: Accepted source
+discussion: Erandakarkati is correlated to this species
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Erandakarkati
+sanskrit_name: एरण्डकर्कटी
+transliteration: eraṇḍakarkaṭī
+image_urls: https://www.medicinalplants.in/slokaimages/331/331_1.jpg
+ocr_text: एरण्डचिर्भटा स्वाद्वी तथा कोषफला स्मृता अपक्चा हरिता पीतफला स्वादुफला प्रिया| सचिक्कणा श्यामबीजा तथा कुम्भपला शुभा कासश्वासयकृत्लीहोदररोगविनाशिनी| | मन्दाग्निस्नायुशोथच्नी विषपत्रा प्रकीर्तिता वनौषधिशास्त्र संदिग्धनिर्णय Eranda cirbhata, svadvi, kosha phala, harita, pita phala, svadu phala, apakva, cikkana syama bija, kumbha phala are the synonyms It alleviates kasa, svasa, pliha udara roga, mandagni, snayu and sotha Patra is visha. yakrt

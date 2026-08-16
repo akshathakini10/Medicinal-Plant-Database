@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2ca3e99c2a5fd52c3d076976f8ec7343
+Botanical Name: Sassafras albidum (NUTT.) NESS
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Sassafras officinale NEES.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. English (1) - sassafras
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ca3e99c2a5fd52c3d076976f8ec7343/xclkon/0ffc3bd2d1d809987baf4fd47f08eab2
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ca3e99c2a5fd52c3d076976f8ec7343
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ca3e99c2a5fd52c3d076976f8ec7343/xclkon/0ffc3bd2d1d809987baf4fd47f08eab2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

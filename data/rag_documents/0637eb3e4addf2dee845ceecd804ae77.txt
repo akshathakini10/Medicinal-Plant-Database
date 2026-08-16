@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0637eb3e4addf2dee845ceecd804ae77
+Botanical Name: Litsea glutinosa (LOUR.) ROBINSON
+Family: Lauraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Litsea chinensis LAM.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 84 Vernacular names found in 7 languages. Hindi (15) - chandana, chandna, chirindi, chirinidi, garbijaur, maida, maida lakri, maidalakri, medh, menda, paror, rahan, rehan, singrau, singrauf Kannada (6) - lakkdi, lakki, lakki mara, maida lakdi, maidal kadi, narralagi Marathi (5) - maida lakadee, maidalakadi, maidalakdi, miri, ranamba Sanskrit (27) - Sanskrit Comments  adhavara, bahurandhrika, bhavya, dhira, drava, jivani, jivanika, madhura, manichhidra, meda, medasaka, medasara, medini, medodbhava, medovati, purushadantika, rasa, sadhavi, shalyada, shalyaparni, shalyaparnika, shreshtha, snehavati, snigdha, svalpaparni, vasa, vibhavari Tamil (11) - ama, elambiragi, elumburukki, elumpurukki, mayilali, muchaippeyetti, picinpattai, pisinapatty, pisinbattai, pisinpatty, uralli Telugu (17) - kanugu nalike, kanujunalike, katakamma, katuvukamma, konda-wargu, meda, medaa, nara, nara-chettu, nara-mamdi, nara-nalike, naramaamidi, naramamidi, naranalike, narra alagi, narraalagi, pulusu maamidi Urdu (3) - meda lakri sayida, medalakdi, mughas baghdadi (maida lakdi)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/17503f6bcc87e9a5699950bef2859a87
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1329
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1329.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/10bde176ead13d3400989e7609b63041
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/408aa8d0996e53cf57374e9968508379
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/17503f6bcc87e9a5699950bef2859a87
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/10bde176ead13d3400989e7609b63041
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/408aa8d0996e53cf57374e9968508379
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/17503f6bcc87e9a5699950bef2859a87
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/10bde176ead13d3400989e7609b63041
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/408aa8d0996e53cf57374e9968508379
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/17503f6bcc87e9a5699950bef2859a87
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/10bde176ead13d3400989e7609b63041
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/408aa8d0996e53cf57374e9968508379
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0637eb3e4addf2dee845ceecd804ae77/xclkon/17503f6bcc87e9a5699950bef2859a87
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Medasaka
+sanskrit_name: मेदासक
+transliteration: medāsaka
+ref_drug_name: मेदासक
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

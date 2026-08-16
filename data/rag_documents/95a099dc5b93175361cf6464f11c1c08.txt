@@ -1,0 +1,72 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 95a099dc5b93175361cf6464f11c1c08
+Botanical Name: Martynia annua L.
+Family: Pedaliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Martnia diandra GLO. Martynia diandra GLO.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 27 Vernacular names found in 6 languages. Hindi (9) - bagh nakhi, bichhu ankadi, bichhu-ankadi, bichhu-butti, bichhwa, bichu, billi, hatha-jori, hathajori Kannada (6) - chaelu kondi beeja, chaelu kondiya gida, garuda moogu, garuda moogu mullu, huli nakha, huli uguru Marathi (2) - vinchhuacha jhar, vinchu Sanskrit (2) - Sanskrit Comments  kakanasa, nrtyakundala Tamil (4) - karutamukku, pulinakam, telkotukki2, tetkotukki Telugu (4) - garudamukku, tehukondichhettu, telukondikaya chettu, thelukondichettu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1391
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1391.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/ff33b1f47728301a131b2f0be3543362
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/ff33b1f47728301a131b2f0be3543362
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/ff33b1f47728301a131b2f0be3543362
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/95a099dc5b93175361cf6464f11c1c08/xclkon/953967b7d49d297b9d071b53c6b3620e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kakanasa
+sanskrit_name: काकनासा
+transliteration: kākanāsā
+ref_drug_name: काकनासा
+status: Suggested source
+discussion: On the basis of regional names this species has been suggested
+reference: [1]
+
+Identity Record 2
+drug_name: Kakanasika
+sanskrit_name: काकनासिका
+transliteration: kākanāsikā
+ref_drug_name: काकनासिका
+status: Most probable
+discussion: Presently this species is used as Kaakanaasika
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

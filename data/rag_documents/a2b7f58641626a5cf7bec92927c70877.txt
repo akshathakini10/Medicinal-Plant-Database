@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a2b7f58641626a5cf7bec92927c70877
+Botanical Name: Limnophila indica (L.) DRUCE
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Limnophila gratioloides R.BR.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 14 Vernacular names found in 5 languages. Hindi (3) - gulabi, kuttra, papri Malayalam (3) - manganari, tsjeria-manga-nari, tsjudan-tsjera Marathi (1) - ambuli Sanskrit (3) - Sanskrit Comments  ambuja, amragandhah, amragandhaka Telugu (4) - ambujam bagga patti, burada bakkena, inaata, nitigannaeru
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2b7f58641626a5cf7bec92927c70877/xclkon/eac29b4e905819b1268b131915f383a0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2b7f58641626a5cf7bec92927c70877/xclkon/a6391a27969d673c6bb9042cc581dedd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2b7f58641626a5cf7bec92927c70877
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2b7f58641626a5cf7bec92927c70877/xclkon/eac29b4e905819b1268b131915f383a0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2b7f58641626a5cf7bec92927c70877/xclkon/a6391a27969d673c6bb9042cc581dedd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2b7f58641626a5cf7bec92927c70877
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a2b7f58641626a5cf7bec92927c70877/xclkon/eac29b4e905819b1268b131915f383a0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: b449c463df9d1e9bc16f5cc01322cf03
+Botanical Name: Euphorbia lathyris LINN.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. English (2) - caper spurge, mole plant Urdu (2) - burg sudab, tukhm sudab
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b449c463df9d1e9bc16f5cc01322cf03
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b449c463df9d1e9bc16f5cc01322cf03
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/b449c463df9d1e9bc16f5cc01322cf03
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

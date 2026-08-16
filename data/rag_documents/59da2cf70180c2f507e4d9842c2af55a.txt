@@ -1,0 +1,39 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 59da2cf70180c2f507e4d9842c2af55a
+Botanical Name: Calacanthus grandiflorus (DALZ.) RADLK..
+Family: Acanthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Malayalam (1) - karimkurunni Sanskrit (1) - Sanskrit Comments  sahacarah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59da2cf70180c2f507e4d9842c2af55a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 395
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/395.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/59da2cf70180c2f507e4d9842c2af55a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,46 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 68cf38ca50b8b154244b86fc05ae2c8e
+Botanical Name: Cyperus amabilis VAHL
+Family: Cyperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Sanskrit (2) - Sanskrit Comments  jalamustaka, kaivartamustaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68cf38ca50b8b154244b86fc05ae2c8e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/68cf38ca50b8b154244b86fc05ae2c8e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kaivarttamustaka
+sanskrit_name: कैवर्तमुस्तक
+transliteration: kaivartamustaka
+ref_drug_name: कैवर्तमुस्तक
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

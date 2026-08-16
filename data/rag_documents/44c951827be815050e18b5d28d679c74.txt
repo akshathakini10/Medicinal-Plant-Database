@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 44c951827be815050e18b5d28d679c74
+Botanical Name: Melochia corchorifolia L.
+Family: Sterculiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Riedlea corchorifolia DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 34 Vernacular names found in 5 languages. Hindi (3) - chitrabeez, thulak, tikiokra Kannada (2) - bettada thuttthi, methuri gida Malayalam (4) - ceruvuram, niruren, tsjeru-uren, tsjeruuren Tamil (14) - konkaramacukkirai1, naruvalli2, paripattiram1, pinnakku keerai, pinnakku-k-kirai, pinnakkucceti 2, pinnakkukkirai, pinnakkuppundu, pinnakkuppuntu, pinnukuk kirai, punnakkukkirai, punnakkuppuntu 2, punnakupoodu, tsjerroo uren Telugu (11) - chittentakura, chittentha koora, cittentakura, gangupindi kura, ganugapindikoora, ganugapindikura, sitha kura, sithantakoora, sitnata kura, thutthurubenda, tutturubenda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44c951827be815050e18b5d28d679c74/xclkon/9830443c0b51c588d6d83597e2135ed8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44c951827be815050e18b5d28d679c74
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44c951827be815050e18b5d28d679c74/xclkon/9830443c0b51c588d6d83597e2135ed8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44c951827be815050e18b5d28d679c74
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/44c951827be815050e18b5d28d679c74/xclkon/9830443c0b51c588d6d83597e2135ed8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

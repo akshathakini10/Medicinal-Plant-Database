@@ -1,0 +1,89 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c3ebdb8352b0a28552fb6a32e2044659
+Botanical Name: Buchanania lanzan SPR.
+Family: Anacardiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Buchanania latifolia ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 217 Vernacular names found in 10 languages. English (3) - almondette, cheronjee, cuddapah almond Hindi (18) - achar, char, charoli, charoli-kernel, chiraunji, chiroli, chironji, chironji-kernel, ciraumci, kath bhilawa, maira, niyeveru, paira, pial, piyal, piyala, piyar, pural Kannada (58) - calali, chaara pappu, chaaruvaala, chalaali, char, charoli, charpoppu, chirapuli, ciravuli, dhurkaalu, dhurkalu, durkalu, erappu, erpa, hulimaralu, iripa, irippa, irpe, kolageru, kolamaavu, kole maavu, kolegaeru, kolegeru, kolemaavu, kolemavu, kolligeru, kulurmava, kulurmavu, morale, morante, morappa, morate, morave, mukrali, muraki, murante, murchil, murikil, murkaali, murkala, murkali, murkalimorave, murkalu, murki, murukali, murukalu, muruke, murukkil, nurchil, nurchilla, nureke, nurkal, nurkala, nurkul, nurukkal, nusikal, nuskul, yerpa Malayalam (22) - cala, cheru, kala, kalamavu, kulurmava, moongapezhu, moorghee, mora, morakanji, mungapera, mungaperlu, munnalperu, munnapelu, mura, mural, muralkalu, muralkanci, murikkalu, muruvei, nuruvei, nuruvi, priyalam Marathi (8) - char, chareli, charoli, chiraoli, chirauli, chironji, pyal-chari, pyalchar Sanskrit (29) - Sanskrit Comments  akhatta, bahulavalkala, cara, carah, chara, charaka, chirika, dhanu, dhanushpatta, dhanuspata, drusallaka, hasannaka, kharaskandha, lalana, mokshavirya, pata, piyal, piyala, piyalaka, priyala, priyalah, rajadana, sannakadru, snehabija, snehabijah, tapalesta, tapaseshtha, upavata, viyala Tamil (39) - ayakkira2, ayattilitacempi, ayma, cara paruppu, carai1#, carai1@, caraipparuppu, kaattumaa, kantulatti, kati-mango, katma mowda, kattu-ma, kattuma, kattuma2, kodamankattumaram, modama, moraimaram, morala, mudaikkai, mudaima, muppantini, muppantinimaram, muraiyidam, murala, mutaiccai, mutaima, mutaiyilai, mutama, mutama paruppu, naraitiraimarappanni2, pulima, pulimankay 2, sarai, saraiparuppu, tanu, tanu#, tapacappiriyai2, tavacimaram1, tavacumaram1 Telugu (37) - cara, carapappu, carumamidi, chaara, chaarumaamidi, chara, chara-mamidi, charamamidi, charapappu, charapuppoe, charoomamudee, charumamidi, charummamidi, chaurapuppoo, chinamorali, chinamoralli, chinna moralli, chinnamoral, cinnamoralli, jaarumaamidi, jaru mamidi, jarumamidi, jvaramaamidi, jvaramamidi, moraeda, moralli, mori, morili, morlli, morlu, sara, sarai, sarapappu, sarapappu-kernel, sarapappulu, sinna moralli, sinnamoralli Tibetan (1) - pi la ya Urdu (2) - chironji, maghz chiraunji
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 374
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/374.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c3ebdb8352b0a28552fb6a32e2044659/xclkon/16a29852ee33afa1969289d9c7e634e5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Priyala
+sanskrit_name: प्रियाल
+transliteration: priyāla
+ref_drug_name: प्रियाल
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Priyala
+sanskrit_name: प्रियाल
+transliteration: priyāla
+ref_drug_name: प्रियाल
+status: Not available
+discussion: Not available
+reference: [4]
+
+Identity Record 3
+drug_name: Priyala
+sanskrit_name: प्रियाल
+transliteration: priyāla
+ref_drug_name: प्रियाल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Priyala
+sanskrit_name: प्रियाल
+transliteration: priyāla
+image_urls: https://www.medicinalplants.in/slokaimages/274/274_1.jpg https://www.medicinalplants.in/slokaimages/274/274_2.jpg https://www.medicinalplants.in/slokaimages/274/274_3.jpg
+ocr_text: चारस्य च फलं पक्वं वृष्यं गौल्याम्लकं गुरु| तद्वीजं मधुरं वृष्यं पित्तदाहार्त्तिनाशनम् IRjn ) Pakva phala is amla in rasa, guru in guna, vrshya and gaulya. Its Dija is madhura in rasa, vrshya, alleviates pitta,aaha and arti. वातपित्तहरं वृष्यं पियालं गुरु शीतलम्| चारस्य च फलं पक्वं स्वादुम्लं प्रियम | | चारमज्जा समधुरा वृष्या पित्तानिलापहा | IDhn ) Priyala is guru in guna, sita in veerya, vrshya, alleviates and pitta Pakva phala is svadu, amla in rasa, durjjara, priya Majja is madhura in rasa, vrshya, alleviates pitta and anila दुर्ज्जरं vata चारः पित्तकफास्रघ्न्स्तत्फलं मधुरं गुरु | स्निग्धं सरं मरुत्पित्तदाहज्वरतृषापहम्| | प्रियालमज्जा मधुरो वृष्यः पित्तानिलापहः | हृद्योडतिदुर्ज्जरः स्निग्धो विष्टम्भी चामवर्द्धनः|| (Bpnl Priyala is madhura in rasa , guru, snigaha, sara in guna, alleviates pitta, kasa, asra, marut, pitta, daha, jvara and trsha. Its majja is madhura in rasa, snigaha in guna, vrshya, alleviates pitta ana anila, is hrdya, ati durjjara, vistambhi and increases ama.

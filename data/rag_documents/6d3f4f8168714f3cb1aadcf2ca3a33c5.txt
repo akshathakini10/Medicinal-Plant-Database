@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 6d3f4f8168714f3cb1aadcf2ca3a33c5
+Botanical Name: Mucuna gigantea (WILLD.) DC.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 12 Vernacular names found in 4 languages. Kannada (2) - thorbilingi, turibilangi Malayalam (3) - kakavalli, kaku-valli, kakuvalli Tamil (4) - kakkavali, kakkayvalli, kalakai valli, kalarkayvalli Telugu (3) - enuga-dulagondi, enugadoolagondi, enugadulagondi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d3f4f8168714f3cb1aadcf2ca3a33c5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d3f4f8168714f3cb1aadcf2ca3a33c5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/6d3f4f8168714f3cb1aadcf2ca3a33c5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

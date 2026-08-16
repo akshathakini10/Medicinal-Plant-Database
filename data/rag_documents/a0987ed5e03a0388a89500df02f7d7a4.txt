@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a0987ed5e03a0388a89500df02f7d7a4
+Botanical Name: Mentha piperita STOKES
+Family: Lamiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 6 languages. English (1) - peppermint Hindi (3) - piperment, pudna, vilaiti-pudina Kannada (2) - pudeena, pudina Marathi (1) - pepermint Tamil (1) - puthina Urdu (2) - arq peppermint, roghan podina vilayati
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0987ed5e03a0388a89500df02f7d7a4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0987ed5e03a0388a89500df02f7d7a4
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a0987ed5e03a0388a89500df02f7d7a4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

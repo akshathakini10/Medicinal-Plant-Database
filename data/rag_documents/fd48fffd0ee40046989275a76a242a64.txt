@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: fd48fffd0ee40046989275a76a242a64
+Botanical Name: Aniseia martinicensis (JACQ.) CHOISY
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Aneseia martinicensis (JACQ.) CHOIS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Malayalam (1) - ben-tiru-tali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd48fffd0ee40046989275a76a242a64
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd48fffd0ee40046989275a76a242a64/xclkon/ff24e78b13652dfd74242dbd0c0ef4f2
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/fd48fffd0ee40046989275a76a242a64
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 69094b6f1ba1d0b9964388ec214b1e16
+Botanical Name: Sesbania grandiflora (L.) POIRET
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Agati grandiflora (L.) DEN
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 241 Vernacular names found in 10 languages. English (1) - bakphul Hindi (16) - agast, agasti, agastoya, agust, agusta, bak, balmota, basna, hadaga, hadga, hathia, hathya, hatiya, jalt, jayanti, jhijan Kannada (11) - agace, agache, agaci, agase, agasemara, agashi, agasi, bakapushpa, chinna daare, chogache, kempagase Malayalam (8) - agati, agatti, agaty, akatti, argati, argatti, athi, atti Marathi (16) - agasta, agastha, agasthi, agasthiya, agasti, agastiya, agathi, agati, agosto, chopchini, haadga, hadaga, jainti, shevari, shewari, sirimonta Sanskrit (34) - Sanskrit Comments  agasthya, agasti, agastih, agastivaka, agastya, agastyah, agati, buka, dirghaphalaka, dirghashimbi, kanali, kharadhvansi, kumbhayoni, kumbhayonih, kusuma, muni, munidruma, munidrumah, munipriya, munipushpa, munitaru, pavitra, raktapushpa, shighrapushpa, sthulapushpa, surapriya, vaka, vakrapushpa, vakrapuspa, vakrapuspah, vangasena, vangasenah, vranapaha, vranari Tamil (123) - acaiyam, accam, acci, acham, acokam, acokam 1, acotakatti, agathi, agathi keerai, agaththi, agati, agatti, akacam, akacam 1, akaci, akaddi, akatti, akattikkirai, alakiyal, alakucivappi, alakucivappimaram, ampalacai, ampalakaimaram, anali, aracamiyam, argati, arokkiyamatar, arpakaimaram, arrokkiyamatar, athi, attikkirai, avappittaniti, avappittanti, cakanpanni, cantirantankacci, cayanti, cayanti 1, cenkutamaram, cevvakatti, cevvakattimaram, chittakathi, civappakatti, civappi1, iyaktam, kacikavakatti, kakanaman, karikam, karikamaram, kariram, karunchempa, kilimukkumaram, kilimukkumram, kiraiyakattimaram, kopavairini, kotikkalmaram, kunali1, kunkumapperikamaram, malaiyinmunimaram, malaiyinmunivam, malaiyinmunivanmara, malaiyinmunivanmaram, mayilmunimaram, mayilmunivam, mayilmunivan, mulakariyam, mulakiyam, muni, munipattiri, munippuntu, munitalam, munittorumam, munitturumam, mutanki, nattakatti, paluppuccarruccattukkati, pantukam, pantukam@, pantukamaram, pattiyamuriccan, pavalaakatti, pavalavakatti, pavalavakattimaram, peragatti, pintaputpam 1, piraimalar, pocaki, pocakimaram, pocam, pocam 1, pukal, pukal@, pukalmaram, sevvagatti, tanavakamaram, tetcanamuli, tetcanamurtti, tirakkappalakam, tirkkappalakam, turucu, tuvatacipattiri, tuvatecipattiri, ullulattitam, uppi, utumparam, utumparam1, vaka, vakai, vakai 1, vanitam, vankacenakam, vankacenakam#, vankacenakam@, vellakatti, vinpakam, vinpakavakatti, vintai, vittari, vittaru, vitteri, vittineruppu, vittutti, vittuttimaram, yatakam Telugu (30) - agasi, agathi, agise, agisi, anaga, aneesay, anisay, aushika, avasinara, avesi, avise, avisey, avishi, avisi, bakapushpam, bakku-pushapamu, erraagasi, erraavisi, erragise, ettagise, patta, suka nasam, sukanaasamu, sukanasamu, tella-suiminta, tellaavesi, tellaavisi, tellayavise, thellayavise, yerraavesi Tibetan (1) - a ga sta Urdu (1) - agast
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16/xclkon/c9902c87a0feb76e78ab8e0476de1672
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16/xclkon/c9902c87a0feb76e78ab8e0476de1672
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16/xclkon/c9902c87a0feb76e78ab8e0476de1672
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16/xclkon/c9902c87a0feb76e78ab8e0476de1672
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16/xclkon/c9902c87a0feb76e78ab8e0476de1672
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/69094b6f1ba1d0b9964388ec214b1e16
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Agastya
+sanskrit_name: अगस्त्य
+transliteration: agastya
+ref_drug_name: अगस्त्य
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Agastya
+sanskrit_name: अगस्त्य
+transliteration: agastya
+ref_drug_name: अगस्त्य
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Agastya
+sanskrit_name: अगस्त्य
+transliteration: agastya
+image_urls: https://www.medicinalplants.in/slokaimages/1472/1472_1.jpg https://www.medicinalplants.in/slokaimages/1472/1472_2.jpg https://www.medicinalplants.in/slokaimages/1472/1472_3.jpg
+ocr_text: अगास्तः पित्तकफजिच्चातुर्थिकहरो हिमः रूक्षो वातकरस्तिक्तः प्रतिश्यायनिवारणः |l तत्पुष्पं पीनसश्लेष्मपित्तनक्ताघ्यनाशनम् (Bpn) Agasti is tikta in rasa, ruksa in guna, hima in veerya, increases vata, alleviates pitta and kapha, cures caturthika jvara and pratisyaya. Its puspa alleviates pinasa, slesma, pitta, naktandhya मुनिवृक्षदलं लूताव्रणविध्वंसि श्लेष्मनुत् तत्पुष्पं वातलं तिक्तं कषायं कटुपाकि | क्षयकासहरं चैव पित्तश्लेष्मापकर्षणम चातुर्थिकज्वरहरं नावनेनोपयोजितम् (Sodala ) Muni vrksa dala is luta vrana and slesma hara Its puspa is tikta, kashaya in rasa, katu in paka, increases vata, pitta slesma apakarshana, alleviates ksaya, kasa, caturthika jvara and used in navana अगस्त्यं ( शाकं) नातिशीतोष्णं नक्तान्धानां प्रशस्यते (सुश्रुत सूत्र ४६ २८२) Agastya saka is natisitosna in veerya and effective in curing naktandhya

@@ -1,0 +1,64 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0cde8e5f82a4056d8e0ff6ba531a0544
+Botanical Name: Calligonum polygonoides L.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. Hindi (3) - phog, phoglo, phogro Sanskrit (2) - Sanskrit Comments  phoga, sphurjaka
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cde8e5f82a4056d8e0ff6ba531a0544
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0cde8e5f82a4056d8e0ff6ba531a0544
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Phoga
+sanskrit_name: फोग
+transliteration: phoga
+ref_drug_name: फोग
+status: Accepted source
+discussion: Has been described in Madanapala; Identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Sphurjaka
+sanskrit_name: स्फूर्जक
+transliteration: sphūrjaka
+ref_drug_name: स्फूर्जक
+status: Not available
+discussion: Not available
+reference: [5]
+
+Identity Record 3
+drug_name: Sphurjaka
+sanskrit_name: स्फूर्जक
+transliteration: sphūrjaka
+ref_drug_name: स्फूर्जक
+status: Accepted source
+discussion: Has been mentioned in Caraka and Susruta samhita; Sphurjaka is well known in Rajasthan as 'Phoga' which is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,153 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 297fcf5c215cc8b1a93d83ac1763b38b
+Botanical Name: Bacopa monnieri (L.) PENNELL
+Family: Scrophulariaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Gratiola monnieria L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 183 Vernacular names found in 9 languages. English (1) - water hyssop Hindi (14) - baam, barambhi, barami, brahmi, brambhi, jalbuti, jalneem, jalnim, nirbraini, pan brahmi, safedchamni, safedkammi, sufed-chemni, svetchamni Kannada (9) - brahmi, jalabrahmi, kiri braahmi, kiru brahmi, neer brahmi, neerbrahmi, neeru braahmi, neeru brahmi, neeruppi gida Malayalam (5) - brahmi, brami, neerbrahmi, nirbrahmi, nirubrahmi Marathi (1) - brahmi Sanskrit (44) - Sanskrit Comments  aindri, arameshthini, bharati, brahmi, brmhacharini, brmhakanyaka, divya, divyateja, gundala, indravalli, jala-brahmi, jalabrimmi, jalaprimmi, jalasaya, kapotavanka, kapotavega, mahaushadhi, mandukamata, manduki, matsyakshi, matsyaksi, medhya, nirabrahmi, p vayastha, sarasvati, saraswati, saumyalata, sharada, soma, somavalli, somya, surasa, surashreshtha, sureshta, survarchala, svetakamini, swayambhuvi, tiktalonika, toyavalli, vaidhatri, vallari, vami, vara, vira Tamil (101) - akantapuntu, aramiyacceti, aramiyam2, arapiyam, aritalocanam, attapirami, attapiramicceti, avapulippi, avarukacceti, avarukam, avavulappicceti, brami, campirani, campirani3, campiranippuntu, campiranipuntu, captalai, caracuti, carmakaca, carumam, catala, catcara, cemanavacceti, cemanavam, cempirami, cerrilvalarntamatacci, cerutanilcirukki, cinkamamuli, curapi6, irattappirami, kavaliyacceti, kavaliyam, malanacini, maturatipputu, mulaiccarumuli, muntantakanni 2, mutirntan, nakacattumuli, narivalukkai, narivalukkaicceti, neer brahmi, neer-brahmi, neerbrahmi, neerpirimie, nikava#, nikava@, nikavapputavi, nikavari, nikavaricceti, nilappirami, nir brahmi, nir-brahmi, nir-brami, nirbrahmi, nirbrami, nircconam, nircconappirami, nirpirami, nirpirammi, nirpirimi, nirppirami, nirppiramiyam, noytukacceti, noytukam, pakupeta, pattalakacceti, pattalakam, peravacceti, peravam, peruncampirani, pirakonti, piramamuli, pirami, pirami vazhukkai, pirami vazukkai, piramicceti, piramiya valukkai, piramiya vazhukkai, piramiyam, piramiyapundu, piramiyavalukkai, pirammiya valukkai, punalvalukkai, tirapatti, tirayanti, tutarkkacceti, tutarkkam, utiramalanacani, vakkupalam, vakkupavam, valukkai, vanamali, vankamuli, varalam, varali @, varavi, varayam, vatikam, vimala, virumamuli@, vivitam Telugu (7) - neeri sambraani mokka, sambraanichettu, sambrani chettu, sambrani-aku, sambrani-chettu, sambranichettu, sambrareni aaku Urdu (1) - brahmi buti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/fda561bf16dbac60d7c27b25111e619d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 269
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/269.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/ca7d4b3720e026bbebb7aeeb35fd3ebd
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/e66dbbb0773e468b07d30f61f284ef53
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/6bca410369ae5c403dd56622720395df
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/fda561bf16dbac60d7c27b25111e619d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/ca7d4b3720e026bbebb7aeeb35fd3ebd
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/e66dbbb0773e468b07d30f61f284ef53
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/6bca410369ae5c403dd56622720395df
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/fda561bf16dbac60d7c27b25111e619d
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/ca7d4b3720e026bbebb7aeeb35fd3ebd
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/e66dbbb0773e468b07d30f61f284ef53
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/6bca410369ae5c403dd56622720395df
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/fda561bf16dbac60d7c27b25111e619d
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/ca7d4b3720e026bbebb7aeeb35fd3ebd
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/e66dbbb0773e468b07d30f61f284ef53
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/6bca410369ae5c403dd56622720395df
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/fda561bf16dbac60d7c27b25111e619d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/ca7d4b3720e026bbebb7aeeb35fd3ebd
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/e66dbbb0773e468b07d30f61f284ef53
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/6bca410369ae5c403dd56622720395df
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/297fcf5c215cc8b1a93d83ac1763b38b/xclkon/fda561bf16dbac60d7c27b25111e619d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Aindri
+sanskrit_name: ऐन्द्री
+transliteration: aindrī
+ref_drug_name: ऐन्द्री
+status: Accepted source
+discussion: Aindri is identified with this species
+reference: [3]
+
+Identity Record 2
+drug_name: Aindri
+sanskrit_name: ऐन्द्री
+transliteration: aindrī
+ref_drug_name: ऐन्द्री
+status: Accepted source
+discussion: Aindri is identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Brahmi
+sanskrit_name: ब्राह्मी
+transliteration: brāhmī
+ref_drug_name: ब्राह्मी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Brahmi
+sanskrit_name: ब्राह्मी
+transliteration: brāhmī
+ref_drug_name: ब्राह्मी
+status: Accepted source
+discussion: Brahmi is identified with this species
+reference: [5]
+
+Identity Record 5
+drug_name: Matsyaksi
+sanskrit_name: मत्स्याक्षी
+transliteration: matsyākṣī
+ref_drug_name: ब्राह्मी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 6
+drug_name: Matsyaksi
+sanskrit_name: मत्स्याक्षी
+transliteration: matsyākṣī
+ref_drug_name: ब्राह्मी
+status: Accepted source
+discussion: Brahmi is identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Brahmi
+sanskrit_name: ब्राह्मी
+transliteration: brāhmī
+image_urls: https://www.medicinalplants.in/slokaimages/195/195_1.jpg https://www.medicinalplants.in/slokaimages/195/195_2.jpg https://www.medicinalplants.in/slokaimages/195/195_3.jpg https://www.medicinalplants.in/slokaimages/195/195_4.jpg https://www.medicinalplants.in/slokaimages/195/195_5.jpg https://www.medicinalplants.in/slokaimages/195/195_6.jpg https://www.medicinalplants.in/slokaimages/195/195_7.jpg https://www.medicinalplants.in/slokaimages/195/195_8.jpg
+ocr_text: ब्राह्मी सरस्वती सोमा सत्यास्वा ब्रह्मचारिणी (Mpn) Brahii. sarasvati. somma. satyahva. brahinacarini are the synonyms of brahini बराह्मी कपोतवङ्गा च सोमवल्ली सरस्वती (Bpn) Brahmi. kapotavanga. somavalli. sarasvati are its synonyms ब्राह्मी सौम्या विनिर्दिष्टा दिव्यतेजा महोषधी कपोतवेगा त्वष्टा च सैव ब्रह्मसुवर्चला (Dhn) Brahmi is otherwise called saumya. divyateja mahaushadhi. kapotavega. bralmasuvarcala ताह्यी हिना सरा तिक्ता लघुर्नेच्या च शीतला कषाया मधुरा स्वादुपाकायुष्या रसायनी स्वर्या स्मृतिप्रदा कुष्ठपाण्डुनेहास्रकासजित् | विषशोफज्वरहरी (Bpnl Brahmi is tikta madhura kasaya in rasa hima in veerya 5a1a. laghu in guna svadu in paka medhya sitala ayushya, rasayani, svarya smrti prada cures kustha pandu 1neha asra Tikara kasa T1Sa sopha and jvara ब्राह्मी शीता कषाया च तिक्ता बुद्धिप्रदा मता मेधायुरग्निजननी सारका स्वादुला लघुः कण्ठशुद्धिकरी हृद्या स्मृतिदा रसायना हृद्या मेहं विषं कुष्ठं कास ज्वर जयत | शोफकण्डूप्लीहवातरक्तपित्तारुचिर्जयेत् श्वासं शोष सवदोष कफवातामयानं जयत INir ) Brahii is kashara tikta, svadu in taste laghu in property sita in potency buddhi prada medhya ayushkara saraka kantha suddhikari hrdya smrtida lasava1a hrdva cures meha visa kustha pandu kasa- ]vara sopha kandu pliha roga vatarakta pitta ainici svasa sosa sa1adosha kapha vata amava पाण्ड ब्राह्मी तु पिच्छिलायुष्या सरोन्मादविमर्दिनी वयसःस्थापनी मेध्या वाक्स्वरस्मृतिदा परा तिक्ता हृद्या कटुः पाके श्वासश्लेष्मनिकुन्तनी IGdni Brahmi is tikta in taste picchila in property katu in paka ayushya sara vayasthapati 1edhya vak prada. stara prada smrti prada hrdya and cures svasa slesma and uumade भेदिनी गुर्वी मेध्या तिक्ता कफापहा IRav) Brahmi is tikta, svadu in taste guru in property hima in potency bhedini medhya sara, medhya rasayani and alleviates kapha ग्राह्मी तु ब्राह्मी हिमा सरा स्वादुर्लघुर्मोध्या रसायनी स्वर्या स्मृतिप्रदा कुष्ठपाण्डुमेहास्रकासजित् विषशाफज्वरहरा (Mpn, Ndvi Brahmi is svadu in taste laghu sara in property haa in potency medhya rasayan1 starya s1111t1 prada in karma cures pandu meha asra vikara kasa visa. sopha JTa1a
+
+Shloka Record 2
+drug_name: Matsyaksi
+sanskrit_name: मत्स्याक्षी
+transliteration: matsyākṣī
+image_urls: https://www.medicinalplants.in/slokaimages/195/195_1.jpg https://www.medicinalplants.in/slokaimages/195/195_2.jpg https://www.medicinalplants.in/slokaimages/195/195_3.jpg https://www.medicinalplants.in/slokaimages/195/195_4.jpg https://www.medicinalplants.in/slokaimages/195/195_5.jpg https://www.medicinalplants.in/slokaimages/195/195_6.jpg https://www.medicinalplants.in/slokaimages/195/195_7.jpg https://www.medicinalplants.in/slokaimages/195/195_8.jpg
+ocr_text: ब्राह्मी सरस्वती सोमा सत्यास्वा ब्रह्मचारिणी (Mpn) Brahii. sarasvati. somma. satyahva. brahinacarini are the synonyms of brahini बराह्मी कपोतवङ्गा च सोमवल्ली सरस्वती (Bpn) Brahmi. kapotavanga. somavalli. sarasvati are its synonyms ब्राह्मी सौम्या विनिर्दिष्टा दिव्यतेजा महोषधी कपोतवेगा त्वष्टा च सैव ब्रह्मसुवर्चला (Dhn) Brahmi is otherwise called saumya. divyateja mahaushadhi. kapotavega. bralmasuvarcala ताह्यी हिना सरा तिक्ता लघुर्नेच्या च शीतला कषाया मधुरा स्वादुपाकायुष्या रसायनी स्वर्या स्मृतिप्रदा कुष्ठपाण्डुनेहास्रकासजित् | विषशोफज्वरहरी (Bpnl Brahmi is tikta madhura kasaya in rasa hima in veerya 5a1a. laghu in guna svadu in paka medhya sitala ayushya, rasayani, svarya smrti prada cures kustha pandu 1neha asra Tikara kasa T1Sa sopha and jvara ब्राह्मी शीता कषाया च तिक्ता बुद्धिप्रदा मता मेधायुरग्निजननी सारका स्वादुला लघुः कण्ठशुद्धिकरी हृद्या स्मृतिदा रसायना हृद्या मेहं विषं कुष्ठं कास ज्वर जयत | शोफकण्डूप्लीहवातरक्तपित्तारुचिर्जयेत् श्वासं शोष सवदोष कफवातामयानं जयत INir ) Brahii is kashara tikta, svadu in taste laghu in property sita in potency buddhi prada medhya ayushkara saraka kantha suddhikari hrdya smrtida lasava1a hrdva cures meha visa kustha pandu kasa- ]vara sopha kandu pliha roga vatarakta pitta ainici svasa sosa sa1adosha kapha vata amava पाण्ड ब्राह्मी तु पिच्छिलायुष्या सरोन्मादविमर्दिनी वयसःस्थापनी मेध्या वाक्स्वरस्मृतिदा परा तिक्ता हृद्या कटुः पाके श्वासश्लेष्मनिकुन्तनी IGdni Brahmi is tikta in taste picchila in property katu in paka ayushya sara vayasthapati 1edhya vak prada. stara prada smrti prada hrdya and cures svasa slesma and uumade भेदिनी गुर्वी मेध्या तिक्ता कफापहा IRav) Brahmi is tikta, svadu in taste guru in property hima in potency bhedini medhya sara, medhya rasayani and alleviates kapha ग्राह्मी तु ब्राह्मी हिमा सरा स्वादुर्लघुर्मोध्या रसायनी स्वर्या स्मृतिप्रदा कुष्ठपाण्डुमेहास्रकासजित् विषशाफज्वरहरा (Mpn, Ndvi Brahmi is svadu in taste laghu sara in property haa in potency medhya rasayan1 starya s1111t1 prada in karma cures pandu meha asra vikara kasa visa. sopha JTa1a

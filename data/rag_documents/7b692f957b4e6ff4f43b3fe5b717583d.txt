@@ -1,0 +1,51 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7b692f957b4e6ff4f43b3fe5b717583d
+Botanical Name: Cayratia pedata (LAM.) JUSS. E GAGNEP. var. glabra GAMBLE
+Family: Vitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 11 Vernacular names found in 6 languages. Kannada (2) - kaama pathige balli, kaamapatige balli Malayalam (2) - amarccakkoti, corivalli Marathi (1) - ghotapadvela Sanskrit (1) - Sanskrit Comments  godhapadi Tamil (2) - kattup pirantai, kattuperandai Telugu (3) - edakula mandulamari, gummadi tiga, gummaditige
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 3203
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/3203.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b692f957b4e6ff4f43b3fe5b717583d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kasthagodha
+sanskrit_name: काष्ठगोधा
+transliteration: kāṣṭhagodhā
+ref_drug_name: काष्ठगोधा
+status: Most probable
+discussion: Some identify this plant with this species
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

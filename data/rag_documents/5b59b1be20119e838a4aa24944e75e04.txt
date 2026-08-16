@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5b59b1be20119e838a4aa24944e75e04
+Botanical Name: Eupatorium triplinerve VAHL
+Family: Asteraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Eupatorium ayapana VENT.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 15 Vernacular names found in 6 languages. Hindi (1) - ayapana Kannada (1) - aayaa paana Malayalam (3) - ayyampana, ayyappana, visappacca Marathi (2) - ayapana, ayapanum Sanskrit (4) - Sanskrit Comments  ajaparna, ajaparnah, ayapana, ayaparnah Tamil (4) - ayapani, ayapanie, ayappanai, ayappani
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04/xclkon/8f40a30b109a05fb2211ea5b414ee24e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04/xclkon/8f40a30b109a05fb2211ea5b414ee24e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04/xclkon/8f40a30b109a05fb2211ea5b414ee24e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5b59b1be20119e838a4aa24944e75e04
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Ayapana
+sanskrit_name: आयापान
+transliteration: āyāpāna
+ref_drug_name: आयापान
+status: Accepted source
+discussion: It is identified with this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Ayapana
+sanskrit_name: आयापान
+transliteration: āyāpāna
+image_urls: https://www.medicinalplants.in/slokaimages/76/76_1.jpg
+ocr_text: अजापर्णं तु तुवरं तिक्तं वीर्योष्णमेव च कफपित्तहरं ह्रद्यं ज्वरघ्नं रक्तरोधकम् II (स्व) It is tuvara and tikta in rasa (astringent and bitter), usna in veerya (hot in potency), kaphapitta hara (alleviates vitiation of kapha and pitta ), hrdya (cordial to the heart), alleviates jvara (fever) and acts as an hemostatic

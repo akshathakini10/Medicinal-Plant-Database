@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8783a7235f3055037ecf53fdd382fc39
+Botanical Name: Croton roxburghii BALAK.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Croton oblongifolius ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 8 languages. Hindi (1) - chucka Kannada (7) - aachedimbada baeru, bhootala bhairava, bhootala bhairavi, bhoothaala bhairava, gandhasoori, somari, vumme marada gida Malayalam (2) - kattupatolam, koteputol Marathi (5) - ganasura, ganasuri, ghan-suramg, ghanasaaree, gunsur Sanskrit (6) - Sanskrit Comments  bhutamkusam, bhutankusa, bhuthalabhairi, hastidanti, nagdanti, putrasreni Tamil (4) - bhutankusam, milagunari, milgunari, millakumari Telugu (7) - bhoorhaankusamu, bhootankusam, bhoothalabhairi, bhutala-bhairi, bhutalabhairi, bhutankusam, bhutankusamu Tibetan (1) - na ga da nti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39/xclkon/2ba2214c1eac5ed6152559704bdcaedb
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8783a7235f3055037ecf53fdd382fc39
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

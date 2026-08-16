@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 87ca073e03ed19925b6be7456dec55c4
+Botanical Name: Artocarpus communis J. & G. FORST.
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 21 Vernacular names found in 5 languages. Hindi (1) - bilatti kathal Kannada (1) - deevi halasu Malayalam (4) - kataccakka, katappilavu, simaplavu, vilatipilavu Sanskrit (1) - Sanskrit Comments  ksudrapanasah Tamil (14) - acani, acini, ayini 1, cimaippala, era-pla, irappala@, karippala, nirappala, paccaippala 1, palacam, panacam, rottipalaa, seemapala, simaippala
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ca073e03ed19925b6be7456dec55c4
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ca073e03ed19925b6be7456dec55c4
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/87ca073e03ed19925b6be7456dec55c4
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

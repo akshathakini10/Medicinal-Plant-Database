@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2ca4a1e92e0e98832dd2f3f1d4ab1702
+Botanical Name: Achyranthes aspera L. var. rubro-fusca HOOK. F.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ca4a1e92e0e98832dd2f3f1d4ab1702
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2ca4a1e92e0e98832dd2f3f1d4ab1702
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Apamarga
+sanskrit_name: अपामार्ग
+transliteration: apāmārga
+image_urls: https://www.medicinalplants.in/slokaimages/29/29_1.jpg https://www.medicinalplants.in/slokaimages/29/29_2.jpg https://www.medicinalplants.in/slokaimages/29/29_3.jpg https://www.medicinalplants.in/slokaimages/29/29_4.jpg https://www.medicinalplants.in/slokaimages/29/29_5.jpg https://www.medicinalplants.in/slokaimages/29/29_6.jpg
+ocr_text: मालाकण्टश्च कुब्जश्च त्रयोविशतिनामकः Il (Rjn) Apamarga is otherwise called malakanta kubja. All together it has २३ names अपामार्गः सरस्तीक्ष्णो दापनस्तिक्तकः कटुः पाचना नावनश्छर्दिकफमेदोडनिलापहा |l निहन्ति हृद्रुजाध्मानार्शःकण्डूशूलोदरापची (Bpn) Apamarga is katu, tikta in rasa, sara tiksna in guna dipani, pacani, navana, anila hara, is good in chardi kapha meda, and is also used in hrd ruja, adhmana arsa kandu, sula, udara and apaci. अपामार्गोडग्निकृत् तीक्ष्णो नस्यात् शीर्षकृमीन् जयेत् वामको रक्तसंग्राही रक्तातीसारहृन्मतः II (Sdn) Apamarga is agni karaka, tiksna in guna on nasya it is sirsa krmi hara, vamaka rakia sangrahi and alleviates raktatisara hara. कफमेदोडनिलहरा छेदनी स्रंसनी तथा रसे पाके च कटुका वीर्योष्णा खरमञ्जरी II (Mdn) Kharamanjari is katu in rasa and vipaka, usna in veerya kapha meda anila hara, chedani and samsrani. अपामार्गस्तु तिक्तोष्णः कटुश्च कफनाशनः अर्शकण्डूदराध्मानो रक्तहृद् ग्राहि वान्तिकृत् Il (Dhn, Rjn) Apamarga is tikta, katu in rasa usna in veerya, destroys kapha, is grahi vanti karaka, alleviates arsa, kandu udara and adhmana नस्य वान्ते प्रशस्तः स्यात् दद्रुकण्डूपफापहः अपामार्गाग्निकृत् तीक्ष्णः क्लेदनः स्रंसनः परः Il (Rav) Apamarga is used in nasya and vanti karma. It is agni karaka, tiksna in guna kledana samsrana param alleviates dadru, kandu and kapha

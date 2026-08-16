@@ -1,0 +1,73 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 694eea249cc0c04f6bb9bcc35a8ab92f
+Botanical Name: Zingiber officinale ROSC.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Amomum zingiber L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 94 Vernacular names found in 9 languages. English (1) - ginger Hindi (6) - aadu, ada, adarak, adrak, adrakh, soonth Kannada (16) - aardraka, alla, ardraka, hasi shunti, hasishunthi, hasisunthi, khaara genasu, pali, shunthi, shunti, sonte, sonti, sundi, sunthi, sunti, vanasunthi Malayalam (12) - ardrakam, cincatakam, cinciver, cukku, inchi, inci, injee, inschi, inschikua, ischi, sryngiveram, tikshnottham Marathi (3) - alem, alen, sunte Sanskrit (1) - Sanskrit Comments  ardraka Tamil (27) - allam, artrakam, arttarakam, arukkan, atakam, attirakam, caupannam, cauvarnam, chukku, conti, cukku, cunti, ilakkottai, inci, inji, injie, katu pattiram, moruhalasatam, nakaram, navacuru, sookkoo, sukku, ularnta inci, upakullam, verkkompu, vicvapesajam, vitamutiya amirtan Telugu (13) - aardrakamu, allam, allamu, allumu, ardrakamu, mahaushadamu, mahaushadhamu, shunthi, sonthi, sonti, sringabaeramu, sryngaberamu, sunthi Urdu (15) - ab adrak taza, abe-e-adrak, adrak bayraisha, murraba-i-zanjibil, sonth, sonth nim kofta, tirkuta, zanjabil, zanjibil, zanjibil nim kofta, zanjibil saida, zanjibil sayida, zanjilbil, zinjibil, zufa-i-khushk
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f/xclkon/fa81d0041123d3533d39cc25a7acd75a
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f/xclkon/fa81d0041123d3533d39cc25a7acd75a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f/xclkon/fa81d0041123d3533d39cc25a7acd75a
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f/xclkon/fa81d0041123d3533d39cc25a7acd75a
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f/xclkon/fa81d0041123d3533d39cc25a7acd75a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/694eea249cc0c04f6bb9bcc35a8ab92f
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sunthi
+sanskrit_name: शुण्ठी
+transliteration: śuṇṭhī
+ref_drug_name: शुण्ठी
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Sunthi
+sanskrit_name: शुण्ठी
+transliteration: śuṇṭhī
+ref_drug_name: शुण्ठी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,58 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8582ec2fd3dc3aefecd75589825be340
+Botanical Name: Michelia champaca L.
+Family: Magnoliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 251 Vernacular names found in 9 languages. English (2) - champak, sapu Hindi (8) - campa, campaka, champ, champa, champac, champaca, champaka, champe-ke-phul Kannada (21) - campaka, champa, champaka, champige, gandhaphali, kandasampige, kenda sampige, kendasampige, kolasampiga, kolasampige, kolu sampige, mara sampige, sampage, sampage-huvvu, sampaghy, sampai, sampayi, sampige, sampige mara, sampighi, sempage Malayalam (13) - campakam, cempakam, champa, champaca, champacam, champaga, champak, champakam, chembagam, chembakam, chempacam, chempakam, chempakap-pu Marathi (7) - chamfo, champa, kudchampa, pivalachampa, sona champa, sonachampa, sonchampa Sanskrit (51) - Sanskrit Comments  anjana, atigandhaka, bhramaratithi, bhringmohi, campaca, campaka, campakah, campakam, campeya, chambunala, champaka, champakapushpam, champeya, deepapushpa, gandhaphali, hemanga, hemapushpa, hemapushpika, hemapuspaka, hemavha, kamabana, kancana, kanchana, katu, kumara, kusuma, kusumadhipa, kusumadhirata, nagapushpa, patichampaka, peetapushpa, pitapuspa, punyagandha, rajachampaka, shatapadatithi, shitala, shitalachchada, sthiragandha, sthirpushpa, subhaga, sukumara, surabhi, suvarna, svarnacampaka, svarnachampaka, svarnapushpa, ugragandha, vanadapika, vanadeepa, vanamalika, varalabdha Tamil (117) - akacampanki, akantakaram, amariyam, ancanam, arakkatarukam, arakkatarukamaram, atikantam, atipati, caciya, caciyamaram, campakam, campanki, campankiccetanam, campankiccetanappu, campankippu, campukam, canpakam, canpakappu, carapitani, catalu, catpatati, catpatati1, catpatatiti, catpatatiti1, cempakam, cempakamaram, cempakappu, cempottu, cempu, cempu1, cempuka, cempuka@, cempukappu, cenpakam, cenpakam1, cenpakamaram, champakam, chembagam, cirunkalaimoki, cirunkalimohi, cirunkalimoki, cirunkamoki, citalacatti, citalacatti1, citavikam, citavikam,, citavikappu, cukantini, cukumaraccam, curapi, curapi1, curapitani, cuvanam, cuvanam#, ecavam, eirunti, emaputpam, ilai campanki, irammiyam, irunti1, kanakacanpakam, kanakkan, kancanakuvayam, kancani, kancani1, kancanimaram, kotivacikari, kunalatikam, kuncitam, kutanattikam, maraccampanki, paccakilikamaram, paccakiliyam, paccakuliyam, peruncanpakam, peruncenpakam, peruncenpakamaram, piriyacantecam, pitapukitam, pitapukitamaram, pittikam, pittikam 1, punniyakantam, puspentiram, putpentiram, sambagam, sanbagam, sembagam, sempakam, sempuga, shampang, shampangi, shampangi-pushpam, shanbagam, shanbagapoo, shenbagam, tekku, tipaputpam, tirkkaputpam, tiyaputpam, tutarcci, tuvirepari, tuviropari, vacam, vacam 1, vacanti, vanakunamalarmaram, vanatipam, vandumarmalar, vantukolli, vantukollimaram, vantunamaram, vantunelli, vattukkolli, vericci, visamayiti, visamayitti Telugu (29) - campakamu, campangi, campangipuvvu, campeyamu, canbakam, champakam, champakamu, champakmu, champeyamu, gandha-phali, gandhaphali, gangaraavi, gangaravi, hemaangamu, hemangamu, hemapushpamu, kaanchanamu, kancanamu, kanchanamu, kanjanamu, sampage, sampagiya, sampagnipuvvu, sampanga, sampangi, sampangi-puvvu, sampega, sampenga, vandanamalai Tibetan (3) - gser (gyi) me tog, tsam ba ka, tsam pa ka (d)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8582ec2fd3dc3aefecd75589825be340
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Campaka
+sanskrit_name: चम्पक
+transliteration: campaka
+ref_drug_name: चम्पक
+status: Accepted source
+discussion: Identified with it
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Campaka
+sanskrit_name: चम्पक
+transliteration: campaka
+image_urls: https://www.medicinalplants.in/slokaimages/1102/1102_1.jpg https://www.medicinalplants.in/slokaimages/1102/1102_2.jpg https://www.medicinalplants.in/slokaimages/1102/1102_3.jpg https://www.medicinalplants.in/slokaimages/1102/1102_4.jpg https://www.medicinalplants.in/slokaimages/1102/1102_5.jpg https://www.medicinalplants.in/slokaimages/1102/1102_6.jpg https://www.medicinalplants.in/slokaimages/1102/1102_7.jpg https://www.medicinalplants.in/slokaimages/1102/1102_8.jpg
+ocr_text: चम्पकःसुकुमारश्चसुरभिःशीतलश्चसः चाम्पेयोहेमपुष्पश्चकाञ्चनःषट्पदातिथिः | | Campaka, Sukumara, Surabhi, Sitala, Campeya, Hema Puspa, Kancana are its synonyms एतस्य कलिकागन्धफलोतिकथिताबुधैः | | Its kalika is like gandha phala चम्पकःकटुकस्तिक्तःकषायोमधुरोहिमः विषक्रिमिहरः कृच्छ्रकफवातास्रपित्तजित्|| (Bpn) It is katu tikta, kashaya, madhura in rasa, hima in veerya, cures visha, krmi, krcchra alleviates vitiation of kapha, vata, asra and pitta चम्पकःकटुस्तिक्तःशिशिरोर्दाहनाशनः कुष्ठकण्डूव्रणहरोगुणाढ्योराजचम्पकः (Rin) Campaka is katu, tikta in rasa, sisira in veerya, cures daha, kustha, kandu, vrana Raja campaka is more effective (gunadhya) चम्पकंरक्तपित्तघ्नंशीतोष्णंकफनाशनम्| ( सु॰सं) Campaka is sitosna in veerya, cures raktapitta, alleviates vitiation of kapha चाम्पेयंकुसुमंशीतंकषायंस्वादुपाकिच | कफपित्तहरंतद्वत्पुन्नागस्यचसम्भवम् (शो.नि) Campeya Kusuma is kashaya in rasa, sita in veerya, svadu in paka, alleviates kapha, pitta and similar is for punnaga सुवर्णचम्पश्चोक्तः शीतलस्तिक्तकः कटुः तुवरोमधुरोवृष्योहृद्यश्चैवसुगन्धिदः [ भ्रमराणांघातकरोदाहपित्तकफापहः रक्तदोषंमूत्रकृच्छं वातंकुष्ठंविषंतथा कृमिकण्डूव्रणांश्चैवनाशयेदितिकीर्तितम् (Nir) Suvarna campaka is tikta, katu, tuvara madhura in rasa, sitala in veerya, vrshya, hrdya, sugandhi, bhramaranam aghataka lattracts bees), cures daha pitta kapha hara, rakta dosha, mutrakrcchra, vata, kustha, visha, krmi kandu and vrana चम्पकभेद श्वेतस्तुचम्पकःप्रोक्तोनागादिश्चम्पकस्तथा सुल्तानचम्पकश्चान्योनीलश्चभूमिचम्पकः Sveta campaka, Nagadi campaka Sultana campaka Nila campaka and Bhumi campaka are its types

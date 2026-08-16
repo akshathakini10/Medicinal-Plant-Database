@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: c7ae9e0a842a291805f2219c8380a23d
+Botanical Name: Millingtonia hortensis L.F.
+Family: Bignoniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 33 Vernacular names found in 5 languages. Kannada (5) - beratu, birate mara, biratu, biratu mara, kaark mara Malayalam (2) - katesam, katesham Marathi (1) - akas nimb Tamil (14) - cakkaram 2, cakkaramaram, kattumalli, kirimallikai 2, kirimallikaicceti, kutacam 2, kutakam 3, kutakkaceti, macippaccopitam, macippaccopitamaram, manamatakicceti, maramalli, maramallikai, vaccakam 2 Telugu (11) - aakaashamalle, akasamalle, akashamalli, kaarku mara, kaki, karak, karaku, karapa, kavuki, maanu malle, minumalle
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ae9e0a842a291805f2219c8380a23d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ae9e0a842a291805f2219c8380a23d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/c7ae9e0a842a291805f2219c8380a23d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

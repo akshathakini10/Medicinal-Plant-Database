@@ -1,0 +1,84 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 0dda7b33c0cc4a03b37d976f440b9981
+Botanical Name: Citrullus colocynthis (L.) SCHRADER
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Homeopathy, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Cucumis colocynthis L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 277 Vernacular names found in 10 languages. English (2) - bitter apple, colocynth Hindi (13) - badi indrayan, chota tarbooj, ghorumba, indarayan, indrayan, makal, makhal, makkal, toos, tumba, tumbi, tumbo, turo Kannada (20) - balibandrakshi, daasamekke, dodda haale, doddahallu mekke, haavu mekke kaayi, hamekkae, hara mekke kaayi, hara-mekki-kayi, hava, hava-mekke-kayi, hoa mekke, indravaaruni, kaada kavade, kaadu kavade kaayi, kaadu kavadi kaayi, kakkaavade kaayi, kakkavade kaayi, mekke-kayi, pavamekkekayi, tumtikayi Malayalam (5) - kattuvellari, katuvelleri, paikummatti, peykommutti, valiya pekkummatti Marathi (5) - indraavana, indraphal, kadu-indravani, kaduvrindaavan, kuru-vrandawan Sanskrit (47) - Sanskrit Comments  aindri, atmaraksha, brihadvaruni, brihatphala, chitrala, chitrapala, chitraphala, chitravalli, citra, devi, dirghavalli, eindri, gajachirbhira, gavadani, gavaksi, gvadani, hastidanti, indra, indrahva, indralvaruni, indrasahva, indrasura, indravalli, indravaruni, indravarunika, kapilakshi, katurasa, kaya, kumbhasi, mahaphala, mahendravaruni, mahendri, makhal, mrgabojani, mrgadani, mrgevraru, mrigadini, mrigakshi, ramya, rigevaru, shvetapushpa, soumya, trapusi, tunvasi, urupriya, visala, vishala Tamil (158) - alacai, alakai3, alakaikkommattikkoti, allikam, analacam, antimarittan, antimarittankoti, arruddummatti, arrukkoti2, arrumari, arruttumatti, arruttumatti camulam, arruttumatti caru, arruttummatti, artu-tumatti, aruttumatti, attacikkay, attanatipputu, avirekam, carutka, catamurkkiyam, cempuccuttiyakki, cimitti, cipitti, cirankita, cirupacacikkumitti, cirupeykkumitti, cittirapalam, cittirapalattiram, copotapa, cotanicam, cukkankay1, curapicekam, curapicekkumitti, curnapali, curnapalikkoti, cuvarkkam, cuvetaputpa, ilinkapanti, intiravallarai, intiravaruni#, intiravaruni@, intiravarunikai, intukitakkoti, intukitam, iramakkumitti, kacappuccirikam, kacappuccirikkoti, kacappukkummatti, kacappukkummattikkoti, kacappumancaki, kacappumancakikkoti, kacappuvellari, kacappuvellarikkoti, kaccakkumitti, kaccakkumittikkoti, kaccalkoti, kakamarttam, kalinkam, kalinkam1, kantivaruni, karniyeca, katival, kativarkoti, kattuttummatti, kattuvellari, kavatci1, kecci, kentuvaruni, ketavaikkoti2, komatti, kommai, kommattikkoti, kontalai1, kontalaikkoti#, kontalaikkoti@, kontanai, kukkalinko, kulinkam, kumatti, kumattikkay, kummatti, makapala 2, matca, maturi 3, mirukatcikam, nakatanti3, pacakakkoti, pacakam 2, paedikari attutummatti, paitummatti, palama, paraikkommatti, pasanankaykkulkattu, patukkarakkumatti, patukkaram, paycumuti, pekkommatti, peruncimitti, petam, petikari, petikarikkoti, petummatti, peukkumutti, pey-komatti, peycoomutikai, peykkarumpu, peykkumatti, peykkumutti, peymalikakkumitti, peymalikam, peyt-tumatti, peyttumatti, peyttummatti, peyvellari, piccikkay, pitinkari, talaiviriccan2, talaiviriccankoti, talaivirittan2, tatai@, tataki, tati, tippilikkommatti, tippilikkommattikkoti, tittikam1, tottalveci, tucakakkoti, tucika, tucikacceti, tumatti, tummatti, tummatti2, tummutti2, upavacakakkoti, upavacakam, vallarikkoti, valliri, varagamothankodi, varakamottankoti, varikkommatti, varikkumitti, varikkummatti, varikumatikai, varippiki, varippikikkumutti, varit-tumatti, varittumatti, varittummatti, varriecoomutie, varukam 1, verikkummatti, verittumatti, verrccarrilcempucutti, vicala, vicalam 1, vicaliya, viccalli Telugu (20) - chedu putcha kaaya, chitti-papara, chittipaapara, chittipapara, erri puchcha, eti-puch-cha, eti-puchcha, etipuchchha, etipuchha, kaarkarukamu, paaparabudama, paparabudama, paperabudama, patsakaya, putsakaya, veripuchchha, veriputsa, verri-puch-cha, verri-puchcha, verripuchha Tibetan (3) - bi sa la, bi-sa-la, byi sa la Urdu (4) - hanzal, indrayan ka guda, indyaran, shahme-hinzal
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981/xclkon/e8f74d156a0671de3de7bf05251268c0
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 551
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/551.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981/xclkon/e8f74d156a0671de3de7bf05251268c0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981/xclkon/e8f74d156a0671de3de7bf05251268c0
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981/xclkon/e8f74d156a0671de3de7bf05251268c0
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981/xclkon/e8f74d156a0671de3de7bf05251268c0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981/xclkon/e8f74d156a0671de3de7bf05251268c0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/0dda7b33c0cc4a03b37d976f440b9981/xclkon/e8f74d156a0671de3de7bf05251268c0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Indravaruni
+sanskrit_name: इन्द्रवारुणी
+transliteration: indravāruṇī
+ref_drug_name: इन्द्रवारुणी
+status: Suggested source 1
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Indravaruni
+sanskrit_name: इन्द्रवारुणी
+transliteration: indravāruṇī
+ref_drug_name: इन्द्रवारुणी
+status: Accepted source
+discussion: Indravaruni is identified with this species
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Indravaruni
+sanskrit_name: इन्द्रवारुणी
+transliteration: indravāruṇī
+image_urls: https://www.medicinalplants.in/slokaimages/414/414_1.jpg https://www.medicinalplants.in/slokaimages/414/414_2.jpg https://www.medicinalplants.in/slokaimages/414/414_3.jpg
+ocr_text: इन्द्रवारुणिकाडत्युष्णा रेचनी कटुका तथा | कृमिश्लेष्मव्रणान् हन्ति सर्वोदराण्यपि| | इन्द्रवारुद्वयं तिक्तं कटु पाके विर्योष्णं कामलापित्तकफश्लीपदनाशनम I KDhni Indravarunika is katuka atyusna, recani, and cures krmi, slesma vrana and sarodara Indravaru dvaya is tikta and katu in rasa laghu in guna usna in veerya, katu in paka, alleviates pitta and kapha, cures kamala and slipada रसे लघु | इन्द्रवारुणिका तिक्ता कटुः शीता च रेचनी | गुल्मपित्तोदरश्लेष्मककृमिकुष्ठज्वरापहा महेन्द्रवारुणी ज्ञेया पूर्वोक्तगुणभागिनी | रसे वीर्यो विपाके च किंचिदेषा गुणाधिका|| (jn) Indravarunika is tikta, katu in rasa, sita in veerya is recani, cures gulma, pittodara slesma, krmi, kustha and jvara. Mahendra varuni similar properties to the above. more potent with respect to rasa, virya and vipaka गवाद्रनीद्वयं तिक्तं पाके कटु सरं लघु [ वीर्योष्णं कामलापित्तकफप्लीहोदरापहम् कासश्वासापहं कुष्ठगुल्मग्रन्थिव्रणप्रणुत् प्रमेहमूढगर्भामगंडामयविषापहम् [ T (Bpn) Gavadranidvayam is tikta in rasa sara,laghu in guna usna in virya katu in paka, alleviates pitta and kapha,cures pliha, udara,prameha, muda garbha, gandamaya and visha

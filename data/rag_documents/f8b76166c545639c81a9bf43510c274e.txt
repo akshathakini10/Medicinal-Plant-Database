@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f8b76166c545639c81a9bf43510c274e
+Botanical Name: Brassica oleracea L. var. capitata L.
+Family: Brassicaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 29 Vernacular names found in 7 languages. English (1) - cabbage Hindi (3) - bandh gobhi, bandhgobhi, patagobi Kannada (5) - aele kosu, ele kosu, kyabaej, mudde kosu, yele kosu Marathi (2) - kob, kobi Sanskrit (2) - Sanskrit Comments  kembukah, kemukh Tamil (15) - antakkocu, antakocu, cakacilakacceti, cakacilakam, kocu, kocukkiri, kocumuttai, kovicu, kovicukirai, kovikkirai, manoratacceti, manoratam, matanakkocu, matanam, melliyakocu Telugu (1) - kosapuvvu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8b76166c545639c81a9bf43510c274e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8b76166c545639c81a9bf43510c274e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f8b76166c545639c81a9bf43510c274e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

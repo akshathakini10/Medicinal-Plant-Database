@@ -1,0 +1,107 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 9f461c5fc4028cb583868fc315c34470
+Botanical Name: Piper betle L.
+Family: Piperaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Chavica betle MIQ. Piper betele LINN. var. siriboa (MIQ.) C.DC.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 231 Vernacular names found in 10 languages. English (1) - betel pepper Hindi (6) - nagar-bel, nagarbeldo, pan, pan tamboli, pantamboli, tambuli Kannada (30) - ambaadi yele, ambaadiyaele, ambadiyele, baccire, chigurele, cigurele, ele, ele balli, eleballi, elevalli, naaga valli, nagavali, nagavalli, nagawalli, paanu, panu, pattivilye, tambula, veelayada yele gida, veelyadele, vile, vileya, villayadelay, villayadele, villedele, vilya, vilyadaballi, vilye, vite, yele balli Malayalam (14) - beetla, beetla-codi, gnyhasaya, gryashya, kotinnali, nagavalli, tambulam, verrila, verrilamatippu, vetta, vettila, vettilakkoti, vettilamatippu, vitika Marathi (10) - khavayache-pan, naagavaela, nagvel, paan, paanvel, pan, videchapana, vidyache paan, vidyache-pan, vidyachi pan Sanskrit (24) - Sanskrit Comments  ahivalli, bhakshyapatra, bhujangalata, bhujangavalli, divabhishta, kalaskanda, nagavallari, nagavalli, nagavallika, nagini, parna, parnaguhashaya, parnalata, phanivalli, saptalata, saptashira, saptasira, tambul, tambula, tambulah, tambulavallari, tambulavalli, tambulivalli, vitika Tamil (121) - akilatam, arpositakkoti, arppositam, caruku, catakalatcumi, cilanatini, cinakini, citankani, cittirappen, civanacini, civanakini, civanakini#, civanakini@, civanakiniyilai, civanakkini, civattanam, cukkuli, cukkuliyilai, culi, culilai, culini, culiniyilai, cuntaramatu, ikali, ikani, ilaikkodi, ilaiyamutu, illi3, irakani, irakkani, kamacanani, kamatenu2, kammaru verrilai, kanicci, kanicciyilai, karamattam, karavali, karavalli3, karavallikkoti2, karunkoti, kenitam, kontinni2, kotikkal, kotikkarkoti, mannilaventan 2, mannilaventanilai, mannilventan 2, matikkuruvi, mellataku, mellilai, nakai3, nakanavalli, nakattaiccuranamakki, nakavallari, nakavalli, nakavallittalam, nakavalliyilai, nakini2, navilai, nilakantanilai, niravalli, nirvalli, nirvalli2, nirvalli2@, nirvatan2, nitakam, ompulakkanni, pacaki, pacakikkoti, pacatam, paccai3, pachadam, pallalaki2, pallukkalaku, panal@, pannalakai, pannalatai, pannalataikkoti, pannavalli, patam 2, petrilai, pitikuruvi, sivanagini, sivangagini, sukkuli, sulini, tambulam, tampulakkamalam, tampulakkanni, tampulam, tampulamata, tampulapalam, tampulavalli, tampulikkoti, tampuliyilai, tekalatcumi, tevapetcaiyilai, tevappetcai, tevappittai, tirai, tiraiyal, tiraiyalali, tiraiyalalikkoti, uraikkumilai, urakavalli, utari, vativalaki, vellilai, verrilai, verrilaikkoti, verrilaivalli, vethilai, vetrilai, vettilai, vettilaichurul, vettilaikodi, vettilei, vicayam, virakkoti, virarkoti, vitikai Telugu (18) - aakumadupa, akumadhupa, akumadupa, akumadupu, kameraku, kammeaaku, kammeraku, naagavali, naagavalli, naga-valli, nagavali, nagavalli, phanirajavalli, tamalapaku, tamalapakutamulapataku, thamaalapaaku, thamulapat aaku, vitika Tibetan (1) - na-ga Urdu (6) - burg pan taza, burg tambul, khushk pan, pan desi, pan ke patton ka pani, tambol (paan)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/7d32c72f2437322aad9c354cac54d225
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/7d32c72f2437322aad9c354cac54d225
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/7d32c72f2437322aad9c354cac54d225
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/7d32c72f2437322aad9c354cac54d225
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/7d32c72f2437322aad9c354cac54d225
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470/xclkon/32d85bf12297cd316a17c10ff9bdbc80
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/9f461c5fc4028cb583868fc315c34470
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Cavika
+sanskrit_name: चविका
+transliteration: cavikā
+ref_drug_name: चव्य
+status: Controversial
+discussion: This species is used under the name of Tambula for its leaves and its roots may be examined for Cavya
+reference: [1]
+
+Identity Record 2
+drug_name: Cavya
+sanskrit_name: चव्य
+transliteration: cavya
+ref_drug_name: चव्य
+status: Controversial
+discussion: This species is used under the name of Tambula for its leaves and its roots may be examined for Cavya
+reference: [1]
+
+Identity Record 3
+drug_name: Tambula
+sanskrit_name: ताम्बूल
+transliteration: tāmbūla
+ref_drug_name: ताम्बूल
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Tambula
+sanskrit_name: ताम्बूल
+transliteration: tāmbūla
+ref_drug_name: ताम्बूल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Cavya
+sanskrit_name: चव्य
+transliteration: cavya
+image_urls: https://www.medicinalplants.in/slokaimages/1288/1288_1.jpg https://www.medicinalplants.in/slokaimages/1288/1288_2.jpg
+ocr_text: चविकायाः फलं प्रोज्ञैः कथिता गजपिप्पली चविकागजपिप्पल्यौ पिप्पलीमूलवत् स्मृते (Rjv) Fruits of cavya are known as Gajapippali. Cavika and Gajapippali are similar to Pippalimula. गजकृष्णा श्लेष्मनुद् वह्निवर्धिनी उष्ण निहन्त्यतीसारश्वासकण्ठामयकृमीन् Il (Bpn) Gajakrsna is katu in rasa, usna in veerya, increases vahni, cures vata slesma, atisara, svasa, kantha maya and krmi कटुर्वात

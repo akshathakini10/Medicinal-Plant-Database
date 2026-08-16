@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 7b941dba2fb251f3a0fe7c5d45da599e
+Botanical Name: Bauhinia phoenicea HEYNE.
+Family: Caesalpiniaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Bauhinia phoenica WIGHT & ARN.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 1 languages. Kannada (4) - kembattu balli, kembattuballi, kempayataballi, kempu yatha balli
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b941dba2fb251f3a0fe7c5d45da599e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b941dba2fb251f3a0fe7c5d45da599e/xclkon/ed1f81c7cb69a055fcde4405f644115b
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/7b941dba2fb251f3a0fe7c5d45da599e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

@@ -1,0 +1,62 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: bcce1ec86f24f6da681fb23f80151b5e
+Botanical Name: Triumfetta rhomboidea JACQ.
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Trimufetta rhomboidea JACQ. Triumfetta bartramia L.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 36 Vernacular names found in 6 languages. Hindi (7) - anduli, chikti, chiriyari, chitke, lapa, leswa kura, mandli Kannada (7) - jattoate, jottotte, kaadu bende, kaadubende, kata vaani, katavaani, vatavata Marathi (8) - cheepate, jhinjhira, jhinjudi, kuthari, kuthrevandare, laandge, nichardi, toopkhadi Sanskrit (2) - Sanskrit Comments  jhinjharita, jhinjhirita Tamil (5) - aadaiotti, adayotti, ataiyottippuntu, ottuppullu, puramutti Telugu (7) - chiru sitrika, chirucithrika, cirucitrika, dekki, thuthuribenda, thutthurubenda, tuthura benda
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e/xclkon/396bb1c10f13ab257e76af7e5733f89d
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e/xclkon/6dafe3d3d20ec7c91f46b0768c5a5519
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e/xclkon/396bb1c10f13ab257e76af7e5733f89d
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e/xclkon/6dafe3d3d20ec7c91f46b0768c5a5519
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e/xclkon/396bb1c10f13ab257e76af7e5733f89d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e/xclkon/6dafe3d3d20ec7c91f46b0768c5a5519
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/bcce1ec86f24f6da681fb23f80151b5e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Jhinjhirita
+sanskrit_name: झिञ्झिरीटा
+transliteration: jhiñjhirīṭā
+ref_drug_name: झिञ्झिरीटा
+status: Accepted source
+discussion: It has been mentioned in Raja nighantu and identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

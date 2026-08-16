@@ -1,0 +1,83 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e9685512bf1908889701b8896bc9df7e
+Botanical Name: Celosia cristata L.
+Family: Amaranthaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Celosia argentea L. var. cristata (L.)
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 88 Vernacular names found in 9 languages. English (2) - cockscomb, mfungu Hindi (10) - debkoti, kokan, lalmurghka, morashikha, pilamurghka, safed murgha, sarwari, sufaidmurgha, sufed murgha, survari Kannada (8) - anne soppu, hunjada juttu, kanne hoo, karadoo, khadaka thira, kolijuttina gida, maaravaadi hoo, mayura shikhi Malayalam (4) - belutta-adeca-manjen, cerucira, mullancira, tsjeria-belluta-adeca-manjen Marathi (5) - kurada, kurdu, mayurshikha, morashendya, velud Sanskrit (36) - Sanskrit Comments  barhichuda, barhisikhi, indivara, jadadhari, kekishikha, ksetrabhusha, kurandika, kuranta, kuruntika, kurutah, kuvakutah, madhucchada, mayurachuda, nilakanthashikha, pattura, sahasrahi, shikha, shikhalu, shikhibala, shikhini, shtivara, sikih, siravalika, sirivalika, sirsamanjari, sitavaraka, sitivamaraka, sitivara, sitivarah, sitivaraka, srivarakah, sucipatrah, sunishannaka, sushikha, tanduliyah, vitunna Tamil (9) - cavarcuttuppannai, cavarkontai, cavarpannai, cevalkontaicceti, cevarpannai, cevarpu, koliccutan 2, pannai, pannai keerai Telugu (11) - erra kodi juttuthotta koora, ettakodiyuttatotakuru, gulugkura, gunugu, gurugu, guruvu kura, kodi juttu, kodi juttu chettu, kodijuttu thottakoora, kodijuttutotakura, panchechettu Tibetan (3) - sa ti bi ra, sa ti bi ra (p), si ti bi ra (p)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/b9f76e422a3f33d1bdb0c29edadf3e9a
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/b9f76e422a3f33d1bdb0c29edadf3e9a
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/b9f76e422a3f33d1bdb0c29edadf3e9a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/b9f76e422a3f33d1bdb0c29edadf3e9a
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/848e8c8237d8eee63d638995a9a77fa0
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e9685512bf1908889701b8896bc9df7e/xclkon/b9f76e422a3f33d1bdb0c29edadf3e9a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Mayurasikha
+sanskrit_name: मयूरशिखा
+transliteration: mayūraśikhā
+ref_drug_name: मयूरशिखा
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Rudrajata
+sanskrit_name: रुद्रजात
+transliteration: rudrajāta
+ref_drug_name: रुद्रजात
+status: Most probable
+discussion: Is mentioned in Raja nighantu; Most probably correlated with this species which is widely known as 'Jatadhari'
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Mayurasikha
+sanskrit_name: मयूरशिखा
+transliteration: mayūraśikhā
+image_urls: https://www.medicinalplants.in/slokaimages/44/44_1.jpg https://www.medicinalplants.in/slokaimages/44/44_2.jpg
+ocr_text: नालकण्ठशिखा लघ्वी पित्तश्लेष्माति सारजित् ( IBpn) Nalakantha sikha is Laghu, Pitta slesma atisara hara. बर्हिचूडा रसे स्वादु मूत्रकृच्छ्रनाशिनी | बालग्रहादि दोषघ्नी वश्यकर्मणि शस्यते IRjn) Barhicuda is Svadu in Rasa , Mutrakrcchra nasini, Bala grahadi dosaghna, Vasya karmani sasyate

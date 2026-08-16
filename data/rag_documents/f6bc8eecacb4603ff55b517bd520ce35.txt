@@ -1,0 +1,81 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: f6bc8eecacb4603ff55b517bd520ce35
+Botanical Name: Grewia hirsuta VAHL
+Family: Tiliaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 49 Vernacular names found in 6 languages. Hindi (3) - kakarundah, kukurbicha, phrongli Kannada (9) - chikku dippe, chikkudipe, chikkudippe, cikkudippe, dadachelu, gandaudipe, jaana, udipe, zyani Marathi (1) - govli Sanskrit (2) - Sanskrit Comments  gudasarkara, nagabala Tamil (4) - kalunnu, tavadu, tavidu, tavuttai Telugu (30) - bidaracheepuru, bidarachipuru, bidaracipuru, bidurucheepuru, bontur chettu, budda, chilijana, chimachipuru, chipri, chipuru, chitijana, chittajana, chitti jana, chittijaan, cipuru, ciri jana, cittijana, jibilika, jibilike, kaduru pandlu, kukka budda alam, muvalaku, muvalcu, muvvalasu, navri, sepuru chettu, tadiki, tella jana, tellajana, thellajaana
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/f6bc8eecacb4603ff55b517bd520ce35
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Gudasarkara
+sanskrit_name: गुडशर्करा
+transliteration: guḍaśarkarā
+ref_drug_name: गुडशर्करा
+status: Accepted source
+discussion: Gudasarkara' is considered as the synonym of 'Nagabala' which is identified with this species; It has been cited once in Caraka and once in Susruta samhita
+reference: [5]
+
+Identity Record 2
+drug_name: Nagabala
+sanskrit_name: नागबला
+transliteration: nāgabalā
+ref_drug_name: नागबला
+status: Most probable
+discussion: This species may be identified as Nagabala
+reference: [1]
+
+Identity Record 3
+drug_name: Nagabala
+sanskrit_name: नागबला
+transliteration: nāgabalā
+ref_drug_name: नागबला
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Nagabala
+sanskrit_name: नागबला
+transliteration: nāgabalā
+ref_drug_name: नागबला
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Nagabala
+sanskrit_name: नागबला
+transliteration: nāgabalā
+image_urls: https://www.medicinalplants.in/slokaimages/1483/1483_1.jpg https://www.medicinalplants.in/slokaimages/1483/1483_2.jpg https://www.medicinalplants.in/slokaimages/1483/1483_3.jpg
+ocr_text: गांगेरुकी मधुराम्ला कषायोष्णा गुरुस्तथा कटुस्तिक्ता च वातघ्नी व्रणपित्तविकारजित IDhn) Gangeruki is madhura, amla , kashaya, katu, tikta in rasa, guru in guna usna in veerya, alleviates vata vrana and pitta vikara मधुराम्ला नागबला कषायोष्णा गुरुस्तथा कण्डूतिकुष्ठवातघ्नी व्रणपित्तविकारजित् IRjn) Nagabala is madhura , amla, kashaya in rasa, guru in guna, usna in veerya, cures kandu, kustha, vata, vrana and pitta vikara गांगेरुकीफलं रूक्षं कषायं स्वादु वातलम्| लेखनं स्तम्भनं शीतं विबन्धाध्मानकृद् गुरु १ (ग.नि) Gangeruki phala is ruksa, kashaya, svadu in rasa, guru in guna, sita in veerya, increases vata, is lekhana, stambhana, causes vibandha ana adhmana

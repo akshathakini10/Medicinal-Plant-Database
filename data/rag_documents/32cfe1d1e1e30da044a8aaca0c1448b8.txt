@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 32cfe1d1e1e30da044a8aaca0c1448b8
+Botanical Name: Sapium sebiferum ROB.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 9 Vernacular names found in 3 languages. English (2) - chinese tallow, vegetable tallow Hindi (5) - dudhla, makhan, pahari shisham, pippalyang, vilayatishisham Sanskrit (2) - Sanskrit Comments  agaru, toyapippali
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cfe1d1e1e30da044a8aaca0c1448b8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cfe1d1e1e30da044a8aaca0c1448b8
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/32cfe1d1e1e30da044a8aaca0c1448b8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

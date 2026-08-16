@@ -1,0 +1,116 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: adea83ae493dfc4b7a3ada879d9cab93
+Botanical Name: Callicarpa macrophylla VAHL
+Family: Verbenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 26 Vernacular names found in 5 languages. Hindi (6) - bhirmoli, dahiya, daia, daiya, daya, priyamgu Malayalam (4) - chimpompil, chinpompil, cimpompil, nalal Sanskrit (9) - Sanskrit Comments  anganapriya, gandhaphali, kanta, phalin, phalini, priyangu, priyanguka, syama, vanita Tamil (1) - nalalu Tibetan (6) - ga ndha pri yam ku, gandha pri ya nku (d), gandha priya nku (d), pri yan, pri-yam-ku, pri-yan-ku
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adea83ae493dfc4b7a3ada879d9cab93
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 403
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/403.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adea83ae493dfc4b7a3ada879d9cab93
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/adea83ae493dfc4b7a3ada879d9cab93
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Priyangu
+sanskrit_name: प्रियङ्गु
+transliteration: priyaṅgu
+ref_drug_name: प्रियङ्गु
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Priyangu
+sanskrit_name: प्रियङ्गु
+transliteration: priyaṅgu
+ref_drug_name: प्रियङ्गु
+status: Most probable
+discussion: Three species are widely known as Priyangu and this species is one among them; Present scholars consider this species to be Priyangu
+reference: [5]
+
+Identity Record 3
+drug_name: Priyangu
+sanskrit_name: प्रियङ्गु
+transliteration: priyaṅgu
+ref_drug_name: प्रियङ्गु औषध
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 4
+drug_name: Priyangu - ausadha
+sanskrit_name: प्रियङ्गु औषध
+transliteration: priyaṅgu auṣadha
+ref_drug_name: प्रियङ्गु
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 5
+drug_name: Priyangu - ausadha
+sanskrit_name: प्रियङ्गु औषध
+transliteration: priyaṅgu auṣadha
+ref_drug_name: प्रियङ्गु
+status: Most probable
+discussion: Three species are widely known as Priyangu and this species is one among them; Present scholars consider this species to be Priyangu
+reference: [5]
+
+Identity Record 6
+drug_name: Priyangu - ausadha
+sanskrit_name: प्रियङ्गु औषध
+transliteration: priyaṅgu auṣadha
+ref_drug_name: प्रियङ्गु औषध
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 7
+drug_name: Priyangu - dhanya
+sanskrit_name: प्रियङ्गु धान्य
+transliteration: priyaṅgu dhānya
+ref_drug_name: प्रियङ्गु धान्य
+status: ?
+discussion: ?
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Priyangu
+sanskrit_name: प्रियङ्गु
+transliteration: priyaṅgu
+image_urls: https://www.medicinalplants.in/slokaimages/1352/1352_1.jpg https://www.medicinalplants.in/slokaimages/1352/1352_2.jpg https://www.medicinalplants.in/slokaimages/1352/1352_3.jpg https://www.medicinalplants.in/slokaimages/1352/1352_4.jpg
+ocr_text: शीतला तिक्ता मोहदाहविनाशिनी | ज्वरवान्तेहरा रक्तमुद्रिक्तं च प्रसादयेत्|| IDhnl Priyangu is tikta in rasa, sita in veerya, alleviates moha, daha jvara vanti and rakta dosna प्रियंगुः शीतला तिक्ता दाहपित्तस्रदोषजित् | वान्तिभ्रान्तिज्वरहरा वक्त्रजाड्यविनाशिनी | | IRjn) Priyangu is tikta in rasa, sita in veerya, alleviates daha, pitta, asra Dosha, vanti, bhranti, jvara ana vaktra jadya. प्रियंगुः गन्धप्रियंगुः शोणितपित्तातियोगप्रशमनानाम् चरक Gandha priyangu pacifies sonita , pitta atiyoga शीतला वान्तिदाहपित्तदज्वरास्रजित् | मुखकान्तिप्रजनना गात्रदौर्गन्धयनाशना | | IMdnl Priyangu is sita in veerya, mukha kanti prajanana, alleviates vanti, daha, pitta jvara asra dosha and gatra aaurgandhya. प्रियंगुः
+
+Shloka Record 2
+drug_name: Priyangu - ausadha
+sanskrit_name: प्रियङ्गु औषध
+transliteration: priyaṅgu auṣadha
+image_urls: https://www.medicinalplants.in/slokaimages/1352/1352_1.jpg https://www.medicinalplants.in/slokaimages/1352/1352_2.jpg https://www.medicinalplants.in/slokaimages/1352/1352_3.jpg https://www.medicinalplants.in/slokaimages/1352/1352_4.jpg
+ocr_text: शीतला तिक्ता मोहदाहविनाशिनी | ज्वरवान्तेहरा रक्तमुद्रिक्तं च प्रसादयेत्|| IDhnl Priyangu is tikta in rasa, sita in veerya, alleviates moha, daha jvara vanti and rakta dosna प्रियंगुः शीतला तिक्ता दाहपित्तस्रदोषजित् | वान्तिभ्रान्तिज्वरहरा वक्त्रजाड्यविनाशिनी | | IRjn) Priyangu is tikta in rasa, sita in veerya, alleviates daha, pitta, asra Dosha, vanti, bhranti, jvara ana vaktra jadya. प्रियंगुः गन्धप्रियंगुः शोणितपित्तातियोगप्रशमनानाम् चरक Gandha priyangu pacifies sonita , pitta atiyoga शीतला वान्तिदाहपित्तदज्वरास्रजित् | मुखकान्तिप्रजनना गात्रदौर्गन्धयनाशना | | IMdnl Priyangu is sita in veerya, mukha kanti prajanana, alleviates vanti, daha, pitta jvara asra dosha and gatra aaurgandhya. प्रियंगुः

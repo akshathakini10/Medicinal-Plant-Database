@@ -1,0 +1,135 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a1d8e02df612f312645b458c36c89b1c
+Botanical Name: Clitoria ternatea L.
+Family: Fabaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 225 Vernacular names found in 10 languages. English (4) - blue pea, blue vine, butter pea, butterfly pea Hindi (16) - aparajit, aparajita, aparjit, aprajita, gokarni, kajina, kalina, kalizer, kava-thenthi, kavathenthi, khagin, khagtu, kowa, koyalri, shobanjan, wowatheti Kannada (14) - dhintina, giri karnike, girikarniballi, girikarnikaballi, girikarnike, kantisoppu, karnikay, sanka, sankhapushpaballi, satuga, shanka, shankapushpa, shankhapushpa, shankhapushpi Malayalam (15) - aral, kaka-valli, kakkanamkoti, malayamukki, samkhupuspam, sankapushpam, sankhankuppi, sankhapushpam, sankhupuspam, schanga-cuspi, shankapuspam, shankhankuppi, shankhapushpam, shlongokuspi, shunkoopushpa Marathi (10) - gokaran, gokarana, gokarni, gokarni suphali, gokurna, gokurna-mula, kajili, kajli, sholonga, supli Sanskrit (43) - Sanskrit Comments  ajita, andrikarni, aparajita, aparaka, aprajita, ashphota, ashvakshurardikarni, asphota, bhadra, bhumilagna, garani, gardabhi, gavadini, gavakshi, girikanya, girikarnika, girishalini, gokarna, gokarna-mul, gokarnika, katabhi, khurne, kinihi, nagaparyayakarni, neela-gheriekurnee, nilaghiria, nilagirikarni, romavalli, sankhapushpi, sankhapuspi, sankhini, shankhapushpi, shveta, shvetavarata, sinhapushpi, sitapushpa, supushpi, suputri, sveta, vishnu-kranta, vishnukantri, vishnukranta, vishnukranti Tamil (96) - ancanala#, ancanala@, aral 2, atirikarni, ayittiram 1, canku puspam, cankuputpakkoti, cankuputpam, girikanni, kaakkanam, kakkam 1, kakkana, kakkana ver, kakkanam, kakkanam koti, kakkanan, kakkanan-kodi, kakkanankodi-virai, kakkanankovvai, kakkanatti, kakkankoti, kakkarattan, kakkattan, kakkattan-kodi, kakkorattai, kakkurattai#, kakkurattai@, kannikkodi, kannikkoti, karisanni, karkakartan vayr, karkakartum, karkkurattai, karkokartun, karkurattai, karkurattaikkoti, karttakakkattan, karudakkovai, karudattondai, karunkakkanam, karunkakkattan, karunkakkattankoti, karunkanankoti, karunkattan, karunkattankoti, karuppu-k-kakkanam-koti, karutakanatti, karutakanattikkoti, karutakkovai, karutakkovvai, karutattontai, karuttakakkanam, karuttakakkanan, karuttappu, karuttontai, karuvilai, karuvilaikkakkanam, karuvilam, kauri 2, kaurikkoti, kavachhi, kavetanam, kicinikkoti, kiruttini, kiruttinikkoti, kodi-kakkanam, kokanni, kokarni, kollankovai, kurattai, kurokanatti, kurokanattikkoti, kurottai, kuruvilai, makanatti, makanattikkoti, mayil, minni, muntakkini, muntakkinikkoti, nakanatti, nakanattikkoti, nilakirikaranai, nilakkakkanam, nilakkakkattan, sankapushpam, tarukanni, uromavalli, uyavaikkoti, vainakanatti, vainakanattikkoti, vellai kakkattan, vellai-k-kakkanam, venkakkattan, viranu, vullay kakartan vayr Telugu (20) - adavichikkudu, dintana, dintena, gantina, gilarnika, nall vusiri, nalla dintena, nalladintenatige, nallaghentana, nallavusiniige, nallavusinitige, nelladintena, nullaghentana, sankapushpam, sanku-pushpamu, shanku poolu, shankupushpamu, tantiri, telladintena, thelladintena Tibetan (5) - a sa khu ra, a-pa-ra-dzi-ta, ge ri ka rni ka dkar po, sra na ma geri ka rni ka, sve Urdu (2) - mazeriyunihindi, mazriyun
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a1d8e02df612f312645b458c36c89b1c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Asphota
+sanskrit_name: आस्फोता
+transliteration: āsphotā
+ref_drug_name: आस्फोता
+status: Controversial
+discussion: At some places Asphota is considered to be Girikarnika which is correlated to Clitorea.. but not satisfactorily identified
+reference: [1]
+
+Identity Record 2
+drug_name: Asvakhuraka
+sanskrit_name: अश्वखुरक
+transliteration: aśvakhuraka
+ref_drug_name: अश्वखुरक
+status: Controversial
+discussion: Nighantus have identified it with Aparajita. Its features do not indicate it to be Clitorea..therfore the real Asvakhuraka needs to be investigated
+reference: [1]
+
+Identity Record 3
+drug_name: Asvaksura
+sanskrit_name: अश्वक्षुरा
+transliteration: aśvakṣurā
+ref_drug_name: अश्वक्षुरा
+status: Most probable
+discussion: Commentator of Astanga hrdya has identified Asvaksura with Girikarnika as the name implies flowers resembling the hoof of a horse; This feature is present in Girikarnika which is correlated to this species
+reference: [2]
+
+Identity Record 4
+drug_name: Girikarni
+sanskrit_name: गिरिकर्णी
+transliteration: girikarṇī
+ref_drug_name: गिरिकर्णी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 5
+drug_name: Girikarnika
+sanskrit_name: गिरिकर्णिका
+transliteration: girikarṇikā
+ref_drug_name: गिरिकर्णिका
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 6
+drug_name: Kakanasa
+sanskrit_name: काकनासा
+transliteration: kākanāsā
+ref_drug_name: काकनासा
+status: Suggested source
+discussion: On the basis of regional names this species has been suggested
+reference: [1]
+
+Identity Record 7
+drug_name: Sankhapuspi
+sanskrit_name: शङ्खपुष्पी
+transliteration: śaṅkhapuṣpī
+ref_drug_name: शङ्खपुष्पी
+status: Accepted source
+discussion: Is a controversial drug; Clitorea ternatea has been accepted as Sankhapuspi by the South Indian Vaidyas
+reference: [1]
+
+Identity Record 8
+drug_name: Sankhapuspi
+sanskrit_name: शङ्खपुष्पी
+transliteration: śaṅkhapuṣpī
+ref_drug_name: शङ्खपुष्पी
+status: Controversial
+discussion: With regard to its morphology many plants are correlated to Sankhapuspi and among them this is one of the suggested species
+reference: [2]
+
+Identity Record 9
+drug_name: Sankhini
+sanskrit_name: शङ्खिनी
+transliteration: śaṅkhinī
+ref_drug_name: शङ्खिनी
+status: Most probable
+discussion: South Indian Vaidyas accept Clitorea ternatea as Sankhapuspi so Sankhini might be correlated to this species
+reference: [1]
+
+Identity Record 10
+drug_name: Sveta
+sanskrit_name: श्वेता
+transliteration: śvetā
+ref_drug_name: श्वेता
+status: Accepted source
+discussion: Identified with this species; Sveta was used extensively during the period of Caraka and Susruta; Based on the description given by Cakrapani and Dalhana, 'Sveta' is 'Aparajita'; But in the Brhatrayis the word 'Aparajita' is not mentioned but 'Girikarnika' is used instead;
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

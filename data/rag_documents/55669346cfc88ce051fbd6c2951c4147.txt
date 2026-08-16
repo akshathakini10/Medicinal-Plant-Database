@@ -1,0 +1,61 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 55669346cfc88ce051fbd6c2951c4147
+Botanical Name: Nymphaea stellata WILLD.
+Family: Nymphaeaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 95 Vernacular names found in 8 languages. English (1) - indian blue water-lily Hindi (3) - lilophal, nilkamal, nilpadma Malayalam (1) - sitambel Marathi (8) - kalakamal, kamal, kasturi-salak, krishnakamal, kumtan, porebunder, poyani, uplia-kamal Sanskrit (23) - Sanskrit Comments  asitotpala, indivara, indivaram, indiwar, kahlarah, kandota, kandotha, kumuda, kumudah, kuvalaya, mridutpala, nilakamala, nilaliya, nilambujanma, nilapadma, nilapatra, nilotpala, nilpankaja, nilpatraka, saugandhika, utpala, utpalaka, utpalam Tamil (53) - acitampurukam@, acitorpalam, alli, ampal, ancanala#, ancanala@, ancani 2, anuttinam, caukantikam2, cirralli, cirrampal, intamparam, intamvaram, intiralayam, intiravam, kannapuram, kantotakam, kantotam2, karnapuram, karuneytarpu, karunkavi, karuppalli, kontalmeni, koticcittamarai, maltayam, mekaniram, mekanirattamarai, mirutorpalakkoti, miruturpalam, neydal, neytal, nilakamalam, nilalli, nilampal, nilampucam, nilapatumam, nilapatumam#, nilapatumam@, nilavalli, nilorpalam, nilotpavam, nir, nirkkuvalai, nirkkuvalaikkoti, otaivanitakkoti, otaivanitam, porutaki 1, unampal2, unamparkoti, urpalam3, uta allikkoti, utampal2, utavalli2 Telugu (4) - indeevaramu, kalva puvvu, neeti kaluva, nitikulava Tibetan (2) - u tpa la snon po, u tpa la snos po
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/55669346cfc88ce051fbd6c2951c4147
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kumuda - prajati
+sanskrit_name: कुमुद प्रजाति
+transliteration: kumuda prajāti
+ref_drug_name: कुमुद प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 2
+drug_name: Utpala
+sanskrit_name: उत्पल
+transliteration: utpala
+ref_drug_name: उत्पल
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

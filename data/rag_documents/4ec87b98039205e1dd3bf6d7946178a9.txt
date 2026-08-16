@@ -1,0 +1,89 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 4ec87b98039205e1dd3bf6d7946178a9
+Botanical Name: Peucedanum grande CL.
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 4 Vernacular names found in 2 languages. Hindi (2) - daku, duku Sanskrit (2) - Sanskrit Comments  baspika, ela
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec87b98039205e1dd3bf6d7946178a9
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1623
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1623.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec87b98039205e1dd3bf6d7946178a9
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/4ec87b98039205e1dd3bf6d7946178a9
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Baspika
+sanskrit_name: बाष्पिका
+transliteration: bāṣpikā
+ref_drug_name: बाष्पिका
+status: Accepted source
+discussion: Baspika is correlated to this species
+reference: [2]
+
+Identity Record 2
+drug_name: Baspika
+sanskrit_name: बाष्पिका
+transliteration: bāṣpikā
+ref_drug_name: बाष्पिका
+status: Most probable
+discussion: In Susruta samhita 2 types of 'Baspika' are mentioned based on their colour i.e. black and red; This interpretation by Dalhana gives a perspective that it should be some niryasa (gum resin) from the plant 'Hingu'; Vaidya Bapalal identifies a plant similar to the above and correlates it to Baspika
+reference: [5]
+
+Identity Record 3
+drug_name: Ela
+sanskrit_name: एला
+transliteration: elā
+ref_drug_name: एला
+status: Controversial
+discussion: This species is considered as the bigger variety of Ela in Kerala
+reference: [2]
+
+Identity Record 4
+drug_name: Ela - suksma
+sanskrit_name: एला सूक्ष्म
+transliteration: elā sūkṣma
+ref_drug_name: एला
+status: Controversial
+discussion: This species is considered as the bigger variety of Ela in Kerala
+reference: [2]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Ela
+sanskrit_name: एला
+transliteration: elā
+image_urls: https://www.medicinalplants.in/slokaimages/663/663_1.jpg https://www.medicinalplants.in/slokaimages/663/663_2.jpg https://www.medicinalplants.in/slokaimages/663/663_3.jpg https://www.medicinalplants.in/slokaimages/663/663_4.jpg https://www.medicinalplants.in/slokaimages/663/663_5.jpg https://www.medicinalplants.in/slokaimages/663/663_6.jpg
+ocr_text: शूक्ष्मैलामूत्रकृच्छ्रार्शः श्वासकासक्षये हिता (Soaala ) Suksmela is effective in mutrakrcchra, arsa svasa, kasa ana ksava. एला सूक्ष्मा कफश्वासकासर्शोमूत्रकृच्छ्रहृत् रसे तु कटुका शीता लघ्वी वातहरा मता I| (Bpn) Suksma ela is katu in rasa, laghu in guna, sita in veerya, alleviates vata, cures kapha, svasa , kasa, arsa, mutra krcchra. स्थूलैला रक्तपित्तघ्नी वमिशुक्राश्मजिद् हिमा | तृष्णाहृल्लासकण्डूघ्नी पित्तश्लेष्मामयापहा (Mdn) Sthulaela is hima in veerya, alleviates raktapitta, vami, sukra, asma, trsna, hrllasa, kanau, pitta, slesma and amaya. स्थूलैला कटुका पाके रसे चानलकृल्लघुः रूक्षोष्णा श्लेष्मपित्तास्रकण्डूश्वासतृषापहा हृल्लासविषबस्त्त्यास्यशिरोरुग्वमिकासनुत् (Bpn) Sthulaila is katuka in paka and rasa, laghu, ruksa in guna, usna in veerya, anala karaka, cures slesma, pitta, asra, kanau, svasa, trsa, hrilasa, visa, basti-asya siro ruk, vami ana kasa. स्थूलैला रोचनी तीक्ष्णा लघुष्णा कफवातजित्| सुगन्धिः पाचका शीता चाग्निदीप्तिकरा मता I| IMdn) Sthulaela is tiksna, laghu in हuna, usna in veerya rocani, suganahi, pacaka , sita, dipta kari, alleviates kapha and vata. agni शीतलतिक्तमुक्तं सुगन्धिपित्तार्तिकफापहारि करोति हृद्रोगमलार्तिबरितपुंस्त्वघ्नमत्र स्थविरा गुणाढ्या| | IRjn| Elaavaya is tikta in rasa, sitala in veerya, suganahi, alleviates vitiation of pitta, kapha, cures arti, hrdroga, mala arti and it is pumsatvaghna. एलाद्वयं
+
+Shloka Record 2
+drug_name: Ela - suksma
+sanskrit_name: एला सूक्ष्म
+transliteration: elā sūkṣma
+image_urls: https://www.medicinalplants.in/slokaimages/663/663_1.jpg https://www.medicinalplants.in/slokaimages/663/663_2.jpg https://www.medicinalplants.in/slokaimages/663/663_3.jpg https://www.medicinalplants.in/slokaimages/663/663_4.jpg https://www.medicinalplants.in/slokaimages/663/663_5.jpg https://www.medicinalplants.in/slokaimages/663/663_6.jpg
+ocr_text: शूक्ष्मैलामूत्रकृच्छ्रार्शः श्वासकासक्षये हिता (Soaala ) Suksmela is effective in mutrakrcchra, arsa svasa, kasa ana ksava. एला सूक्ष्मा कफश्वासकासर्शोमूत्रकृच्छ्रहृत् रसे तु कटुका शीता लघ्वी वातहरा मता I| (Bpn) Suksma ela is katu in rasa, laghu in guna, sita in veerya, alleviates vata, cures kapha, svasa , kasa, arsa, mutra krcchra. स्थूलैला रक्तपित्तघ्नी वमिशुक्राश्मजिद् हिमा | तृष्णाहृल्लासकण्डूघ्नी पित्तश्लेष्मामयापहा (Mdn) Sthulaela is hima in veerya, alleviates raktapitta, vami, sukra, asma, trsna, hrllasa, kanau, pitta, slesma and amaya. स्थूलैला कटुका पाके रसे चानलकृल्लघुः रूक्षोष्णा श्लेष्मपित्तास्रकण्डूश्वासतृषापहा हृल्लासविषबस्त्त्यास्यशिरोरुग्वमिकासनुत् (Bpn) Sthulaila is katuka in paka and rasa, laghu, ruksa in guna, usna in veerya, anala karaka, cures slesma, pitta, asra, kanau, svasa, trsa, hrilasa, visa, basti-asya siro ruk, vami ana kasa. स्थूलैला रोचनी तीक्ष्णा लघुष्णा कफवातजित्| सुगन्धिः पाचका शीता चाग्निदीप्तिकरा मता I| IMdn) Sthulaela is tiksna, laghu in हuna, usna in veerya rocani, suganahi, pacaka , sita, dipta kari, alleviates kapha and vata. agni शीतलतिक्तमुक्तं सुगन्धिपित्तार्तिकफापहारि करोति हृद्रोगमलार्तिबरितपुंस्त्वघ्नमत्र स्थविरा गुणाढ्या| | IRjn| Elaavaya is tikta in rasa, sitala in veerya, suganahi, alleviates vitiation of pitta, kapha, cures arti, hrdroga, mala arti and it is pumsatvaghna. एलाद्वयं

@@ -1,0 +1,42 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a8fd3c09f25250014ed56ffaf5a8eb6d
+Botanical Name: Euphorbia resinifera BERQ.
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Unani, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Urdu (2) - farfiyun, furfiyum
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8fd3c09f25250014ed56ffaf5a8eb6d
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8fd3c09f25250014ed56ffaf5a8eb6d
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8fd3c09f25250014ed56ffaf5a8eb6d
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a8fd3c09f25250014ed56ffaf5a8eb6d
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

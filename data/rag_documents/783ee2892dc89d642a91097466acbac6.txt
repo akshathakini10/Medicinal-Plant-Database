@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 783ee2892dc89d642a91097466acbac6
+Botanical Name: Momordica tuberosa COGN.
+Family: Cucurbitaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Momordica cymbalaria HK.F.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 8 Vernacular names found in 4 languages. Kannada (1) - kadavanchi Marathi (1) - kadavanchi Sanskrit (1) - Sanskrit Comments  kuduhunci Telugu (5) - adavi kakara, adavikaakara kaaya, kaasara gadda, kaasara kaaya, pedda chethi aanuga
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/783ee2892dc89d642a91097466acbac6
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/783ee2892dc89d642a91097466acbac6/xclkon/7e2fbabde0b5a33b86153e08001cd208
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/783ee2892dc89d642a91097466acbac6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/783ee2892dc89d642a91097466acbac6/xclkon/7e2fbabde0b5a33b86153e08001cd208
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/783ee2892dc89d642a91097466acbac6
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Kuduhunci
+sanskrit_name: कुडुहूञ्ची
+transliteration: kuḍuhūñcī
+ref_drug_name: कुडुहूञ्ची
+status: Accepted source
+discussion: In Raja nighantu it has been mentioned as a variety of Trapusa; Botanists from Bangalore have identified it with this species; This species has all the features and properties as mentioned in the ancient texts
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

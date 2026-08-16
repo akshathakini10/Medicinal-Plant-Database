@@ -1,0 +1,49 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 15bf037a82a5e4700c4d4b3e46e850f4
+Botanical Name: Convolvulus prostratus FORSSK.
+Family: Convolvulaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Convolvulus microphyllus SIEB.E SPRENG. Convolvulus pluricaulis CHOIS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 3 languages. Hindi (3) - sankhpushpi, santar, santari Malayalam (1) - sankhupuspam Sanskrit (6) - Sanskrit Comments  sankahvah, sankha, sankhakusuma, sankhapushpi, sankhapuspa, sankhapuspi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15bf037a82a5e4700c4d4b3e46e850f4/xclkon/89f65bc3466b08c10a8b4f5407ec2f2a
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 5882
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/5882.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15bf037a82a5e4700c4d4b3e46e850f4/xclkon/bdc2865490e46667cb6360e791357097
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15bf037a82a5e4700c4d4b3e46e850f4
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15bf037a82a5e4700c4d4b3e46e850f4/xclkon/89f65bc3466b08c10a8b4f5407ec2f2a
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15bf037a82a5e4700c4d4b3e46e850f4/xclkon/bdc2865490e46667cb6360e791357097
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15bf037a82a5e4700c4d4b3e46e850f4
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/15bf037a82a5e4700c4d4b3e46e850f4/xclkon/89f65bc3466b08c10a8b4f5407ec2f2a
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

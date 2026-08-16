@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: e2c707ef7d6d7a9ca9017096086f1928
+Botanical Name: Vanilla planifolia ANDR.
+Family: Orchidaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. English (1) - vanilla
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2c707ef7d6d7a9ca9017096086f1928
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2c707ef7d6d7a9ca9017096086f1928
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/e2c707ef7d6d7a9ca9017096086f1928
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

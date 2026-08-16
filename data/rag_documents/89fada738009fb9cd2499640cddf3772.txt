@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 89fada738009fb9cd2499640cddf3772
+Botanical Name: Hedyotis diffusa WILLD.
+Family: Rubiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Oldenlandia diffusa ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 2 languages. Malayalam (1) - parpatakam Sanskrit (1) - Sanskrit Comments  parpatakah
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89fada738009fb9cd2499640cddf3772/xclkon/2bf9480d14046f07f377aad6550a41fc
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89fada738009fb9cd2499640cddf3772
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89fada738009fb9cd2499640cddf3772/xclkon/2bf9480d14046f07f377aad6550a41fc
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89fada738009fb9cd2499640cddf3772
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/89fada738009fb9cd2499640cddf3772/xclkon/2bf9480d14046f07f377aad6550a41fc
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

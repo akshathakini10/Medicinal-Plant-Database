@@ -1,0 +1,79 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 86da902d72336fd05c674e47ca98f36c
+Botanical Name: Hedychium spicatum BUCH.-HAM.
+Family: Zingiberaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Folk, Sowa-Rigpa
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 67 Vernacular names found in 9 languages. English (1) - abir Hindi (9) - bagldu, gandhapalashi, kachor, kafur-kachri, kapurakachari, kapurkachri, kapurkachur, selru, sitruti Kannada (2) - gandha saathi, gandhashati Marathi (7) - kapoorakachari, kapurakachari, kapurkachur, seer, sonatakka, sutthee, vilaayithi kachhar Sanskrit (40) - Sanskrit Comments  amlaharidra, amlanisha, durva, gandapatari, gandasati, gandha, gandhamuli, gandhamulika, gandhapalashi, gandhapalasi, gandharika, gandhasati, gandhavadhu, gandholi, haimi, haridracchadana, himaja, himodbhava, jimutamula, kachhora, karbura, karchura, karpura, karpurakachali, ndhori, prithupalashika, prthupalasika, samudra, sathi, sati, saumya, shadugrantha, shathi, shati, shedwa, sugandha, sugandhamula, sugandhasati, suvata, tuni Tamil (5) - cimai kiccilikkilanku, malai inci, shimai-kich-chilik-kishangu, shimai-kich-chilik-kizhangu, simaikkichilikkilhangu Telugu (1) - sima-kich-chili-gaddalu Tibetan (1) - zur pa dkar po Urdu (1) - kapurakachari
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c
+System: Sowa-Rigpa
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/86da902d72336fd05c674e47ca98f36c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sathi
+sanskrit_name: शठी
+transliteration: śaṭhī
+ref_drug_name: शठी
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+Identity Record 2
+drug_name: Sathi
+sanskrit_name: शठी
+transliteration: śaṭhī
+ref_drug_name: शटी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 3
+drug_name: Sati
+sanskrit_name: शटी
+transliteration: śaṭī
+ref_drug_name: शठी
+status: Most probable
+discussion: Most probably identified with this species
+reference: [1]
+
+Identity Record 4
+drug_name: Sati
+sanskrit_name: शटी
+transliteration: śaṭī
+ref_drug_name: शटी
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

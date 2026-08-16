@@ -1,0 +1,80 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: deb4b8751b6f53622e614818f8690d1c
+Botanical Name: Abies pindrow ROYLE
+Family: Pinaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 10 Vernacular names found in 3 languages. English (1) - himalayan fir Hindi (7) - dodimma, jhilla, morinda tosh, rai, rei, span, tosh Sanskrit (2) - Sanskrit Comments  granthiparna, talisa
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/deb4b8751b6f53622e614818f8690d1c
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 9
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/9.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/deb4b8751b6f53622e614818f8690d1c
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Granthiparni
+sanskrit_name: ग्रन्थिपर्णी
+transliteration: granthiparṇī
+ref_drug_name: ग्रन्थिपर्णी
+status: Most probable
+discussion: In Rajanighantu this appears as a synonym of 'Coraka'; Dalhana and Bhavaprakasa nighantu share the same view where in 'Coraka' is described as a type of 'Granthiparna bheda' (with regard to similarity in features) and 'Sthauneyaka' as 'Granthiparna'; 'Sthauneyaka' and 'Talisa' are similar in features hence correlated to a species of 'Talisa'
+reference: [5]
+
+Identity Record 2
+drug_name: Talisa
+sanskrit_name: तालीश
+transliteration: tālīśa
+ref_drug_name: तालीश प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 3
+drug_name: Talisa - prajati
+sanskrit_name: तालीश प्रजाति
+transliteration: tālīśa prajāti
+ref_drug_name: तालीश प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+Identity Record 4
+drug_name: Talisapatra
+sanskrit_name: तालीशपत्र
+transliteration: tālīśapatra
+ref_drug_name: तालीश प्रजाति
+status: Not available
+discussion: Not available
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Talisapatra
+sanskrit_name: तालीशपत्र
+transliteration: tālīśapatra
+image_urls: https://www.medicinalplants.in/slokaimages/6/6_1.jpg https://www.medicinalplants.in/slokaimages/6/6_2.jpg https://www.medicinalplants.in/slokaimages/6/6_3.jpg
+ocr_text: तालीसं श्वासकासघ्नं दीपनं श्लेष्मपित्तजित् | मुखरोगहरं हद्यं पत्रसंवृतम्| | (Dhnl Talisapatra alleviates slesma and pitta, is dipana, hraya, supatra, patra samvrta, cures svasa, kasa and mukha roga सुपत्रं तालीसपत्रं तिक्तोष्णं मधुरं कफवातहृत् कासहिक्काक्षयश्वासछर्द्दिदोषविनाशकम् IRjn| Talisa patra is tikta, madhura in rasa, usna in veerya, alleviates kapha ana vata, cures kasa, hikka, ksaya, svasa and chardi. तालीसं लघु तिक्तोष्णं श्वासकासकफानिलान् निहन्त्यरुचिगुल्मामवमिमान्द्यक्षयामयान् T IBpn) Talisa is tikta in rasa, laghu in guna, usna in veerya, alleviates kapha ana anila, cures svasa, kasa, aruci gulma, ama, vami, agnimandya, ksaya and amava.

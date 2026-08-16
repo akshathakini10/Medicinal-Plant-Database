@@ -1,0 +1,78 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 1936f618ecaa85cce3eeffd0d18518fa
+Botanical Name: Ferula jaeschkeana VATKE
+Family: Apiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 2 Vernacular names found in 1 languages. Sanskrit (2) - Sanskrit Comments  hingu, hingupatri
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1936f618ecaa85cce3eeffd0d18518fa
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 961
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/961.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/1936f618ecaa85cce3eeffd0d18518fa
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Hingu
+sanskrit_name: हिङ्गु
+transliteration: hiṅgu
+ref_drug_name: हिङ्गु प्रजाति
+status: Accepted source
+discussion: This variety is found in Kashmir
+reference: [3]
+
+Identity Record 2
+drug_name: Hingu - prajati
+sanskrit_name: हिङ्गु प्रजाति
+transliteration: hiṅgu prajāti
+ref_drug_name: हिङ्गु प्रजाति
+status: Accepted source
+discussion: This variety is found in Kashmir
+reference: [3]
+
+Identity Record 3
+drug_name: Hinguparnika
+sanskrit_name: हिङ्गुपर्णिका
+transliteration: hiṅguparṇikā
+ref_drug_name: हिङ्गुपर्णिका
+status: Suggested source
+discussion: May be considered and it needs to be examined
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Hingu
+sanskrit_name: हिङ्गु
+transliteration: hiṅgu
+image_urls: https://www.medicinalplants.in/slokaimages/727/727_1.jpg https://www.medicinalplants.in/slokaimages/727/727_2.jpg https://www.medicinalplants.in/slokaimages/727/727_3.jpg https://www.medicinalplants.in/slokaimages/727/727_4.jpg https://www.medicinalplants.in/slokaimages/727/727_5.jpg https://www.medicinalplants.in/slokaimages/727/727_6.jpg https://www.medicinalplants.in/slokaimages/727/727_7.jpg https://www.medicinalplants.in/slokaimages/727/727_8.jpg
+ocr_text: हिङ्ग्वत्युग्ररसं स्यादत्युग्रं रामठं च शतवेधि बाह्लीकं रक्षोघ्नं सूपधूपनं जरणम् |l उग्रं जतुरसं बस्तसिंहिकं बाह्लीकोद्भवम् निगूढगन्धं सूपेष्टं निर्यासश्रेष्ठमित्यपि Il Aa mal Hingu is called as Atyugra, Ugra, Ramatha, Satavedhi, Bahlika, Jantughna, Raksoghna, Supadhupana, Jarana Jaturasa, Bastisimhika , Bahlika , Nigudagandha, Supesta, Niryas sresta. जन्तुघ्नं हिङ्गूग्रगन्धं भूतरिर्बाह्लीकं जन्तुनाशाम् शूलगुल्मादिरक्षोघ्नमुग्रवीर्यं च रामठम् अगूढगन्धं भेदनं सूपधूपनम् दीप्तं सहस्रवेधीति ज्ञेयं पञचदशाभिधम् Il (Rjnl Hingu also calied a५ Ugraganaha, Bhutihi, Bahlika , Jantunasana, Sulagulmadi raksoghnam, Ugravirya, Ramatha, Agudhagandha, Jarana, Bhedana, Supadhupana, Dipta, Sahasraveahi. जरणं हिङ्गुष्णं पाचनं रुच्यं तीक्ष्णं वातवलासहृत् शूलगुल्मोदरानाहकृमिघ्नं पित्तवर्धनम् |l स्त्रीपुष्पजननं बल्यं मूर्च्छापस्मारहृत् परम् (Bpn) Hingu is rucya, tiksna in guna, usna in veerya, alleviates vata, increases pitta, is pacana, balya, cures sula, gulma, uaara, anaha, krmi, murccha, apsmara ana stri puspa janana लघष्णं पाचनं दीपनं कफवातजित कटुेस्निग्धं सरं तीक्ष्णं शूलाजीर्णविबन्धनुत् Il Isus l Hingu is katu in rasa, laghu, tiksna, snigdha, sara in guna, usna in veerya, alleviates kapha and vata, is dipana, cures sula, ajirna vibandha. हिङ्गु and हिङ्गूष्णं कटुकं हृद्यं सरं वातकफो कृमीन् [ हन्ति गुल्मोदराध्मानबन्धशूलहृदामयान् |l (Dhn) Hingu is katu in rasa, usna in veerya sara in guna, alleviates vata ana kapha, is hrdya, cures krmi, gulma, udara, adhmana, vibanaha, sula and hrdaya amaya हृद्य कटुष्णं च कृमिवातकफापहम् विबन्धाध्मानशूलघ्नं चक्षुष्यं गुल्मनाशनम् ID IRjn) Hingu is katu in rasa, usna in veeryza, alleviates vata and kapha is hrdya, caksushya, cures krmi, vibandha, adhmana, sula and gulma हिङ्गु बाह्लीकं पित्तलं चोष्णं हृद्यं तिक्तं परं कटु रुचिकरं पाचकं चाग्निदीपकम् Il स्निग्धं मलस्तम्भकरं श्वासकासकफापहम् आनाहाध्मानगुल्मघ्नं शूलहृद्रोगनाशनम् वातञ्चाजीर्णंकं जन्तूनुदरं चैव नाशयेत् Il INirl Bahlika is tikta , katu in rasa, tiksna, laghu, snigaha in guna, usna in veerya, increases pitta, is hrdya, rucikara, pacaka, agni dipaka, malastambhakara, cures svasa, kasa, anaha, adhmana, gulma, sula, hrdroga , ajirna, jantu and udara लघुतीक्ष्णं हृद्य कटुष्णञ्च कृमिवातकफापहम् विबन्धाउउनाहशूलघ्नं चक्षुष्यं गुल्मनाशनम् Il (cs) Hingu is katu in rasa, usna in veerya, alleviates kapha, is hrdya, caksushya, cures krmi, vata, vibandha, adhmana, anaha, sula ana हिङ्गु Bulma
+
+Shloka Record 2
+drug_name: Hingu - prajati
+sanskrit_name: हिङ्गु प्रजाति
+transliteration: hiṅgu prajāti
+image_urls: https://www.medicinalplants.in/slokaimages/727/727_1.jpg https://www.medicinalplants.in/slokaimages/727/727_2.jpg https://www.medicinalplants.in/slokaimages/727/727_3.jpg https://www.medicinalplants.in/slokaimages/727/727_4.jpg https://www.medicinalplants.in/slokaimages/727/727_5.jpg https://www.medicinalplants.in/slokaimages/727/727_6.jpg https://www.medicinalplants.in/slokaimages/727/727_7.jpg https://www.medicinalplants.in/slokaimages/727/727_8.jpg
+ocr_text: हिङ्ग्वत्युग्ररसं स्यादत्युग्रं रामठं च शतवेधि बाह्लीकं रक्षोघ्नं सूपधूपनं जरणम् |l उग्रं जतुरसं बस्तसिंहिकं बाह्लीकोद्भवम् निगूढगन्धं सूपेष्टं निर्यासश्रेष्ठमित्यपि Il Aa mal Hingu is called as Atyugra, Ugra, Ramatha, Satavedhi, Bahlika, Jantughna, Raksoghna, Supadhupana, Jarana Jaturasa, Bastisimhika , Bahlika , Nigudagandha, Supesta, Niryas sresta. जन्तुघ्नं हिङ्गूग्रगन्धं भूतरिर्बाह्लीकं जन्तुनाशाम् शूलगुल्मादिरक्षोघ्नमुग्रवीर्यं च रामठम् अगूढगन्धं भेदनं सूपधूपनम् दीप्तं सहस्रवेधीति ज्ञेयं पञचदशाभिधम् Il (Rjnl Hingu also calied a५ Ugraganaha, Bhutihi, Bahlika , Jantunasana, Sulagulmadi raksoghnam, Ugravirya, Ramatha, Agudhagandha, Jarana, Bhedana, Supadhupana, Dipta, Sahasraveahi. जरणं हिङ्गुष्णं पाचनं रुच्यं तीक्ष्णं वातवलासहृत् शूलगुल्मोदरानाहकृमिघ्नं पित्तवर्धनम् |l स्त्रीपुष्पजननं बल्यं मूर्च्छापस्मारहृत् परम् (Bpn) Hingu is rucya, tiksna in guna, usna in veerya, alleviates vata, increases pitta, is pacana, balya, cures sula, gulma, uaara, anaha, krmi, murccha, apsmara ana stri puspa janana लघष्णं पाचनं दीपनं कफवातजित कटुेस्निग्धं सरं तीक्ष्णं शूलाजीर्णविबन्धनुत् Il Isus l Hingu is katu in rasa, laghu, tiksna, snigdha, sara in guna, usna in veerya, alleviates kapha and vata, is dipana, cures sula, ajirna vibandha. हिङ्गु and हिङ्गूष्णं कटुकं हृद्यं सरं वातकफो कृमीन् [ हन्ति गुल्मोदराध्मानबन्धशूलहृदामयान् |l (Dhn) Hingu is katu in rasa, usna in veerya sara in guna, alleviates vata ana kapha, is hrdya, cures krmi, gulma, udara, adhmana, vibanaha, sula and hrdaya amaya हृद्य कटुष्णं च कृमिवातकफापहम् विबन्धाध्मानशूलघ्नं चक्षुष्यं गुल्मनाशनम् ID IRjn) Hingu is katu in rasa, usna in veeryza, alleviates vata and kapha is hrdya, caksushya, cures krmi, vibandha, adhmana, sula and gulma हिङ्गु बाह्लीकं पित्तलं चोष्णं हृद्यं तिक्तं परं कटु रुचिकरं पाचकं चाग्निदीपकम् Il स्निग्धं मलस्तम्भकरं श्वासकासकफापहम् आनाहाध्मानगुल्मघ्नं शूलहृद्रोगनाशनम् वातञ्चाजीर्णंकं जन्तूनुदरं चैव नाशयेत् Il INirl Bahlika is tikta , katu in rasa, tiksna, laghu, snigaha in guna, usna in veerya, increases pitta, is hrdya, rucikara, pacaka, agni dipaka, malastambhakara, cures svasa, kasa, anaha, adhmana, gulma, sula, hrdroga , ajirna, jantu and udara लघुतीक्ष्णं हृद्य कटुष्णञ्च कृमिवातकफापहम् विबन्धाउउनाहशूलघ्नं चक्षुष्यं गुल्मनाशनम् Il (cs) Hingu is katu in rasa, usna in veerya, alleviates kapha, is hrdya, caksushya, cures krmi, vata, vibandha, adhmana, anaha, sula ana हिङ्गु Bulma

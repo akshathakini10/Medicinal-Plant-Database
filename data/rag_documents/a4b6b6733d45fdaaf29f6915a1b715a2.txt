@@ -1,0 +1,47 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: a4b6b6733d45fdaaf29f6915a1b715a2
+Botanical Name: Delphinium glaciale HOOK.F. & THOMSON
+Family: Ranunculaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  tagara
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4b6b6733d45fdaaf29f6915a1b715a2
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 776
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/776.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/a4b6b6733d45fdaaf29f6915a1b715a2
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Tagara - jati
+sanskrit_name: तगर जाति
+transliteration: tagara jāti
+ref_drug_name: तगर जाति
+status: Accepted source
+discussion: Identified with this species with regard to its properties mentioned in the texts
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

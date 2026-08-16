@@ -1,0 +1,77 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d329b135a1331fbffcfc9843b56582d8
+Botanical Name: Ehretia laevis ROB.
+Family: Ehretiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 104 Vernacular names found in 7 languages. Hindi (13) - chamar, chamorar, chamror, dandos, darar, datranga, khoda, koda, kolma, luni, papri, tamboli, tamboliya Kannada (21) - adak, adaka bagari, adake, adike bogari, adiki, avak, bondula, ennebudige, haalippe, haatippe, halippe, hallippe, jhadocodkar, kappura, kappure, kapura, karadaka, karadake, karatuke, pagakina, pigakina Malayalam (4) - cavanti, charandi, chavandi, sondari Marathi (3) - datranga, kalo-gomdo, tamboli Sanskrit (5) - Sanskrit Comments  carmakaravata, carmakasa, carmavrksa, carmiloha, carmivrksa Tamil (10) - kalivirusu, kalvirasu, kalvirusus, kuruviccai, kuruvicci 3, kuruviracu, narivalli, pattaiviccu, pattaiviracu, tavittan Telugu (48) - aadabukkudi, adabukkudu, alabukkudu, bodidhi, bokkadi, bukkedi, buri, chilla poku, gidiguri, giduguri, paaladanthamu, pala dantam, paladantam, paladantamu, paldatam, pedda pikka, pedda pulimaera, peddaburimaeli, peddafurimela, peddapiccika, peddapichaka, peddapulimera, peddapulmera, peddaturimeli, pogada, pogadi, pogadi chettu, pogadichettu, poka, pokachettu, polimiri, potubokada, potubokkada, potubukkedi, reddapulmera, seregad, seregada, shiragadam, shiragadamu, siragadam, siragadamu, tella pisini, telladzuvvi, tellajoovi, tellajuvvi, tellapisuni, thellajihvi, thellapisuni
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d329b135a1331fbffcfc9843b56582d8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Carmakaravata
+sanskrit_name: चर्मकारवट
+transliteration: carmakāravaṭa
+ref_drug_name: चर्मवृक्ष, चर्मिवृक्ष
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 2
+drug_name: Carmakaravata
+sanskrit_name: चर्मकारवट
+transliteration: carmakāravaṭa
+ref_drug_name: चर्मकारवट
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 3
+drug_name: Carmavrksa, carmivrksa
+sanskrit_name: चर्मवृक्ष, चर्मिवृक्ष
+transliteration: carmavṛkṣa, carmivṛkṣa
+ref_drug_name: चर्मवृक्ष, चर्मिवृक्ष
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+Identity Record 4
+drug_name: Carmavrksa, carmivrksa
+sanskrit_name: चर्मवृक्ष, चर्मिवृक्ष
+transliteration: carmavṛkṣa, carmivṛkṣa
+ref_drug_name: चर्मकारवट
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

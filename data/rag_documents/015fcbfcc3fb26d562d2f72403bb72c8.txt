@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 015fcbfcc3fb26d562d2f72403bb72c8
+Botanical Name: Diospyros ferrea (WILLD.) BATCH. F.
+Family: Ebenaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Siddha, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Maba bauxifolia PERS. Maba buxifolia PERS.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 43 Vernacular names found in 4 languages. Hindi (1) - angaru Kannada (7) - karugaana, karugana, piccane, pishanna, semblika, semblikke, simbalike Tamil (7) - irambali, iramballi, irampalai, irumbali, kariantho-varai, kattu-thovarai, marithovarai Telugu (28) - alli, chinna-ullingi, chinnaulinji, chinnavullinji, chinnayalli, cinnavullinji, cinnayalli, erravuti, gulugu, nallamaddi, nallamudi, nallapisinika, pishanna, pishima, pishinna, pisikini, pisikinni, pisinika, pisinild, pissikini, pittapisinika, tella alli, uti, utti, vooti, vuti, wosti, yerruti
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/015fcbfcc3fb26d562d2f72403bb72c8/xclkon/c35191723058317bd1b0b70793a0f5ad
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/015fcbfcc3fb26d562d2f72403bb72c8
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/015fcbfcc3fb26d562d2f72403bb72c8/xclkon/63c28b88277848432efd9d6aedf07014
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/015fcbfcc3fb26d562d2f72403bb72c8/xclkon/c35191723058317bd1b0b70793a0f5ad
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/015fcbfcc3fb26d562d2f72403bb72c8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/015fcbfcc3fb26d562d2f72403bb72c8/xclkon/63c28b88277848432efd9d6aedf07014
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/015fcbfcc3fb26d562d2f72403bb72c8/xclkon/c35191723058317bd1b0b70793a0f5ad
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

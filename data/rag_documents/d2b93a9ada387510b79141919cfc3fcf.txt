@@ -1,0 +1,44 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d2b93a9ada387510b79141919cfc3fcf
+Botanical Name: Ficus semicordata BUCH. E  J. E. SMITH var. conglomerata (ROB.) CORNER
+Family: Moraceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Ficus cunia HAM. E ROB.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 38 Vernacular names found in 7 languages. Hindi (8) - jahrphali, kandori, kandrol, khain, khaina, kheina, khenan, khunia Kannada (6) - ablu, garagasa, garagasada, gargasa, pajavu, pajevu Malayalam (11) - parom, perenateregam, perina, perinateregam, perinterakam, perunterakam, poroh, teregam, tonditerakam, tonditterakam, tontitterakam Marathi (3) - porodumer, poshaudumar, produmer Sanskrit (3) - Sanskrit Comments  corakapatra, kakodumbara, kharapatra Tamil (1) - taragadi Telugu (6) - bomma marri, bommamarri, bommamatthi, erubodd, erubodda, verabudi
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b93a9ada387510b79141919cfc3fcf
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b93a9ada387510b79141919cfc3fcf/xclkon/0c84bb615d7d9a3c0eb1949373cdd4e6
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b93a9ada387510b79141919cfc3fcf
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b93a9ada387510b79141919cfc3fcf/xclkon/0c84bb615d7d9a3c0eb1949373cdd4e6
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d2b93a9ada387510b79141919cfc3fcf
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

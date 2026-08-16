@@ -1,0 +1,52 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 8d0812dcec1feb32e6de6d3d3f45f5c5
+Botanical Name: Bixa orellana L.
+Family: Biaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 121 Vernacular names found in 8 languages. English (4) - anatto, arnatto, roucou, urucu Hindi (7) - gowpurgee, latkan, latkhan, senduria, sinduria, sinduriya, vatkana Kannada (27) - aarnatu, arnattu, bangaara kaayi, bangarakayi, bhangarakai, bhangarakayi, chaayulitha, chayalitha, jaaphra, jaaphredu, japhredu, japrero, kappu mankaali, kappumankala, kesari, kesari rangu, kuppamanhale, rangamalar, rangamali, ranggida, rangoomalai, rangu maale, rangu malle, rangumale, rungamali, sannajabbale, sannajapali Malayalam (7) - korangumunga, korungoomungal, kuppamanjal, kuppamannal, kurangamanchil, kurannamannal, kurannumannal Marathi (8) - kaesari, kesari, keshri, kesui, kesuri, kisri, sendri, shendri Sanskrit (10) - Sanskrit Comments  karachhada, raktabija, raktapushpa, shonapushpi, sindurapuspi, sinduri, sindurpushpi, sunomala, trivapushpi, virpushpa Tamil (50) - amudadaram, amutataram1, amuttaram, amuttiram1, aruna, avam, camankalikam, cappira, cappiran, carani, caruni, curanacanimaram, curattunacani, irakumancal, iram1, jaffra-maram, japhara, kantukam#, kantukam@, karankumankal, konkamaram, konkaram, konkaramam, konkaramaram, konkarayam, konkari, kunguman, kunkumam, kuppaimancal, kurakumancal, kurankumancal, mancatti 1, mancitti 1, manjitti, mantiravanci, nakamucikai, nakamucikaimaram, naravam1, naravu, naravucaram, punkavi, sabara, sappira virai, sappiravirai, tumpacitamaram, turumam, uragumanjai, uragumanjal, varagumanjal, vennaivirai Telugu (8) - jaabara, jaabura, jaapharaa chettu, jabaru kaya, jabura, jaffra, jaffrachettu, jafra
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/8d0812dcec1feb32e6de6d3d3f45f5c5
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Sinduri
+sanskrit_name: सिन्धूरी
+transliteration: sindhūrī
+ref_drug_name: सिन्धूरी
+status: Accepted source
+discussion: Identified with this species
+reference: [5]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

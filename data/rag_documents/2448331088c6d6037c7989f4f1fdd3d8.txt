@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 2448331088c6d6037c7989f4f1fdd3d8
+Botanical Name: Aesculus hippocastamum L.
+Family: Hippocastanaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Homeopathy, Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 5 Vernacular names found in 2 languages. English (4) - buckeye, conker, horse chestnut, horse-chestnut Urdu (1) - baloot
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2448331088c6d6037c7989f4f1fdd3d8
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2448331088c6d6037c7989f4f1fdd3d8
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/2448331088c6d6037c7989f4f1fdd3d8
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

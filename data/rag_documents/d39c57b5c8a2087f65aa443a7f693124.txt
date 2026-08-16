@@ -1,0 +1,72 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: d39c57b5c8a2087f65aa443a7f693124
+Botanical Name: Flacourtia jangomas (LOUR.) RAEUSCH.
+Family: Flacourtiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Unani
+
+SYNONYMS
+------------------------------------------------------------
+Flacourtia cataphracta ROB. E WILLD.
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 140 Vernacular names found in 8 languages. Hindi (15) - barahmi, jamuna, pachnala, paniala, paniamalak, paniamla, paniamlak, paniaunvola, paniyala, paniyamalak, talis-patri, talisapatri, talispatar, talispatri, tallispatar Kannada (17) - cancali, caricali, chanchali, chanchali mara, chankali, charichaii, charichali, goragi, goraji, hulumanikc, kirinelli, koraji, shamper, tahspatram, talisa-patri, talisapatri, tlesapatri Malayalam (20) - caralanka, cholanga, kanci, kanji, tahspatram, taleesapatram, talisam, talisapatram, talishapatram, talishaputri, talishaputtri, thalira, thaliru, thallira, vaiyyankata, vayankatha, vayikattan, vayukattan, vayyamkaitha, vayyankataku Marathi (5) - jangam, jangli-jagam, paanaamle, tambat, thambat Sanskrit (17) - Sanskrit Comments  ahini, kalameshi, khadiraparni, nagara, paniyamalaka, prachinamalaka, pracinamalaka, sruvavrksah, talisa, talisapatra, talisapatraka, talisapatram, talisha, talishapatra, varibadaram, vidara, vikankatah Tamil (51) - acatam, caralanka, caralankam, caralankay, caralu, catapattiram#, catapattiri@, ciropattiravicotani, cukotaram, curovattiravi, cuvacakacaki, cuvatukantakam1, cuvatukantam1, ilavankappattai, mici 2, mullumukanchi, pattiracciliyam, pattiraciliyam, pattirakentam, pattirakkiyam, pattiri1, perunkamicam, perunkamikappattiri, piracciyamalakam, piraciyamalakam, saralu, talica pattiri, talicai, talicam, talicapattiri, talicappattiri, talisa-patu, talisam, talisapatri, talisha pattiri, talisha-pattiri, talishaputrie, talispatram, talispatri, tamalakam, tamalakapattiri, tamalakitalam#, tamalakitalam@, thalisa-paththiri, thalisapathri, thalisapatri, vaiyankarai, vaiyyankarai, valankarai, vayangarai, vayankatucharalu Telugu (12) - kuragayi, kuski, kusus, mullumaana, mullumanu, tahspatram, talisa-patri, talisapatramu, talisapatri, talishapatri, talishaputrie, thaaleesapathramu Urdu (3) - talispatar, tulispatar, zarnab (telispattar)
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124
+
+DISTRIBUTION
+------------------------------------------------------------
+map_id: 1002
+distribution_map_url: http://envis.frlht.org/distrimaps/geomaps/1002.jpg
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124/xclkon/e6dd14dbaf7214338e2d33554f3a4c05
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124/xclkon/e6dd14dbaf7214338e2d33554f3a4c05
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124/xclkon/e6dd14dbaf7214338e2d33554f3a4c05
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/d39c57b5c8a2087f65aa443a7f693124
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Pracinamalaka
+sanskrit_name: प्राचीनामलक
+transliteration: prācīnāmalaka
+ref_drug_name: प्राचीनामलक
+status: Accepted source
+discussion: Identified with it
+reference: [1]
+
+Identity Record 2
+drug_name: Pracinamalaka
+sanskrit_name: प्राचीनामलक
+transliteration: prācīnāmalaka
+ref_drug_name: प्राचीनामलक
+status: Not available
+discussion: Not available
+reference: [4]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+
+Shloka Record 1
+drug_name: Talisapatra
+sanskrit_name: तालीशपत्र
+transliteration: tālīśapatra
+image_urls: https://www.medicinalplants.in/slokaimages/6/6_1.jpg https://www.medicinalplants.in/slokaimages/6/6_2.jpg https://www.medicinalplants.in/slokaimages/6/6_3.jpg
+ocr_text: तालीसं श्वासकासघ्नं दीपनं श्लेष्मपित्तजित् | मुखरोगहरं हद्यं पत्रसंवृतम्| | (Dhnl Talisapatra alleviates slesma and pitta, is dipana, hraya, supatra, patra samvrta, cures svasa, kasa and mukha roga सुपत्रं तालीसपत्रं तिक्तोष्णं मधुरं कफवातहृत् कासहिक्काक्षयश्वासछर्द्दिदोषविनाशकम् IRjn| Talisa patra is tikta, madhura in rasa, usna in veerya, alleviates kapha ana vata, cures kasa, hikka, ksaya, svasa and chardi. तालीसं लघु तिक्तोष्णं श्वासकासकफानिलान् निहन्त्यरुचिगुल्मामवमिमान्द्यक्षयामयान् T IBpn) Talisa is tikta in rasa, laghu in guna, usna in veerya, alleviates kapha ana anila, cures svasa, kasa, aruci gulma, ama, vami, agnimandya, ksaya and amava.

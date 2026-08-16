@@ -1,0 +1,91 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 5331dba07b060e41aff9f09640920bb0
+Botanical Name: Rhododendron falconeri HOOK.
+Family: Ericaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Folk
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5331dba07b060e41aff9f09640920bb0
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Folk
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/5331dba07b060e41aff9f09640920bb0
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Saireyaka
+sanskrit_name: सैरेयक
+transliteration: saireyaka
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 2
+drug_name: Saireyaka - nila
+sanskrit_name: सैरेयक नील
+transliteration: saireyaka nīla
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 3
+drug_name: Saireyaka - pita
+sanskrit_name: सैरेयक पीता
+transliteration: saireyaka pītā
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 4
+drug_name: Saireyaka - svetarakta
+sanskrit_name: सैरेयक श्वेतरक्ता
+transliteration: saireyaka śvetaraktā
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 5
+drug_name: Sairiyaka
+sanskrit_name: सैरीयक
+transliteration: sairīyaka
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+Identity Record 6
+drug_name: Sairiyaka - sveta
+sanskrit_name: सैरीयक श्वेता
+transliteration: sairīyaka śvetā
+ref_drug_name: सैरीयक
+status: Not available
+discussion: Not available
+reference: [1]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

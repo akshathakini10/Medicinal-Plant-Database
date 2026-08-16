@@ -1,0 +1,50 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: ffcdb9b41b8016ae5f68dd16c2401b8e
+Botanical Name: Rheum officinale BAILL.
+Family: Polygonaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Unani, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 3 Vernacular names found in 3 languages. Marathi (1) - ladakirevanda-chini Sanskrit (1) - Sanskrit Comments  amlaparni Urdu (1) - rewand chini
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffcdb9b41b8016ae5f68dd16c2401b8e
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffcdb9b41b8016ae5f68dd16c2401b8e
+System: Unani
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffcdb9b41b8016ae5f68dd16c2401b8e
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/ffcdb9b41b8016ae5f68dd16c2401b8e
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+
+Identity Record 1
+drug_name: Amlaparni - prajati
+sanskrit_name: अम्लपर्णी प्रजाती
+transliteration: amlaparṇī prajātī
+ref_drug_name: अम्लपर्णी प्रजाती
+status: Market source
+discussion: Amlaparni is obtained from this species found in China
+reference: [3]
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

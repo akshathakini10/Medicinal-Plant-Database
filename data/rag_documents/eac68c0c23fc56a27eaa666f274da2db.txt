@@ -1,0 +1,40 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: eac68c0c23fc56a27eaa666f274da2db
+Botanical Name: Calotropis gigantea (L,) R.BR. var. alba
+Family: Asclepiadaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha
+
+SYNONYMS
+------------------------------------------------------------
+Not available
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 50 Vernacular names found in 6 languages. Hindi (3) - akan, akond, madar Kannada (1) - yakkeda-gida Malayalam (1) - erukka Sanskrit (1) - Sanskrit Comments  alarkah Tamil (42) - arulakam, caikattilam, cataputpam2, cuvetakucumam, cuvetakucumoppi, erukku, kantali2, karak@, kattila2, lippacitacceti, lippacitam, mantaracu@, mantaracucceti, mantaram 3, natakinkanam, pacupataki, pacupatakicceti, pacupatasai, pacupatatai, pakavanati, pamotayam, pumikuruvakam, tevanati2, tirkkaputpi, titamai, tittai2, vantumuli, vellaiyerukku, vetanatam, vicaram 2, viccai, viccananta@, viccanta, viccaranti, viccaranticceti, vicittirakam, vikiram, vikuri, vikuricceti, viruntam 2, virutam, vittirakam Telugu (2) - jilledu-chettu, mandaramu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eac68c0c23fc56a27eaa666f274da2db
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eac68c0c23fc56a27eaa666f274da2db
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/eac68c0c23fc56a27eaa666f274da2db
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available

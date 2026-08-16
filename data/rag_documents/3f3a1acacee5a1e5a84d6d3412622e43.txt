@@ -1,0 +1,48 @@
+MEDICINAL PLANT
+============================================================
+Plant ID: 3f3a1acacee5a1e5a84d6d3412622e43
+Botanical Name: Manihot esculenta CRANTZ
+Family: Euphorbiaceae
+
+SYSTEMS OF MEDICINE
+------------------------------------------------------------
+Ayurveda, Siddha, Homeopathy
+
+SYNONYMS
+------------------------------------------------------------
+Manihot utilissima POHL
+
+VERNACULAR NAMES
+------------------------------------------------------------
+Total 87 Vernacular names found in 8 languages. English (8) - brazil arrowroot, cassava, mandioca, manioc, para arrowroot, rio arrowroot, tapioca, yuca Hindi (1) - sakkarkand Kannada (12) - baragaalada gedde, gidada genasu, kaadu genasu, kadugenasu, kalidala gida, kaligala, kanagala, kanagale, kanagilu, mara genasu, maragenasu, sabbakshi Malayalam (22) - chinamulaku, cinakkantal, elilakkilannu, ezhilakkizhannu, kollikkilannu, maraccini, maracheenie, marakilannu, marakkilannu, marakkilanu, marakkizhannu, maramchinikkizhannu, maramcinikilannu, maraveli, maravelikilannu, maravelikkizhannu, pulakkilannu, pulakkilannukappa, pulakkizhannu, velikilanu, velikkilannu, velikkizhannu Marathi (3) - pavde-pharin, portugalem-chimeni, prochugaali chine Sanskrit (2) - Sanskrit Comments  darukandah, kalpakandah Tamil (35) - al-vallik-kizhangu, allvalli kizhangu, alvalli, alvalli#, alvalli@, alvallikkilanku, alvananki2, cavarikkattai, cavvatu, elilaikkilanku, elilaivalli, elilaivallikkilanku, inarmelitacceti, inarmelitam, kattumaravallikkilanku, malaiccarkkaraivalli, maraccini, maravalli, maravalli kizhangu, maravallikkilanku, maravallikkilanku#, maravallikkilanku@, maravallimaram, mavallikkilanku@, mayarkkilanku, mularavalli, peruvalli, pilavayakkilanku, pilavayam, recivalli, tevatamuki, tevatamukikkilanku, turutavakkilanku, turutavam, vacampuka Telugu (4) - karrapendalam, karrapendalamu, manupendalam, manupendalamu
+
+DETAIL URL
+------------------------------------------------------------
+https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3a1acacee5a1e5a84d6d3412622e43/xclkon/c80e8c56413f52855ab6f284b8cc0565
+
+DISTRIBUTION
+------------------------------------------------------------
+Not available
+
+MEDICINAL SYSTEM LINKS
+------------------------------------------------------------
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3a1acacee5a1e5a84d6d3412622e43
+System: Ayurveda
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3a1acacee5a1e5a84d6d3412622e43/xclkon/c80e8c56413f52855ab6f284b8cc0565
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3a1acacee5a1e5a84d6d3412622e43
+System: Siddha
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3a1acacee5a1e5a84d6d3412622e43/xclkon/c80e8c56413f52855ab6f284b8cc0565
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3a1acacee5a1e5a84d6d3412622e43
+System: Homeopathy
+URL: https://www.medicinalplants.in/searchpage/showdetails/xplant_id/3f3a1acacee5a1e5a84d6d3412622e43/xclkon/c80e8c56413f52855ab6f284b8cc0565
+
+AYURVEDIC IDENTITY
+------------------------------------------------------------
+Not available
+
+SANSKRIT SHLOKAS AND MEDICINAL USE INFORMATION
+------------------------------------------------------------
+Not available
