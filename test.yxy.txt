@@ -1,0 +1,108 @@
+
+### Category 1: Classical Ambiguity & Alias Resolution (Tier 1)
+
+*Tests whether common names map to the correct classical plant instead of substitutes, false relatives, or substring collisions.*
+
+| # | Test Query | Expected Entity / Target | Pass Criteria |
+| --- | --- | --- | --- |
+| **1** | `"What is the botanical name and family of Ashoka?"` | *Saraca asoca* (Caesalpiniaceae / Fabaceae) | Resolves to *Saraca asoca*; **must not** return *Picrorhiza kurroa* (Kutki) or *Polyalthia longifolia* (False Ashoka). |
+| **2** | `"Tell me the botanical identity of Tulsi."` | *Ocimum tenuiflorum* / *Ocimum sanctum* (Lamiaceae) | Resolves to *Ocimum*; **must not** resolve to *Chenopodium album* (Vastuka). |
+| **3** | `"What plant is known as Giloy or Guduchi in Ayurveda?"` | *Tinospora cordifolia* (Menispermaceae) | Resolves to *Tinospora cordifolia*; **must not** return *Cynodon dactylon* (Durva). |
+| **4** | `"What is the accepted botanical source of Citraka?"` | *Plumbago zeylanica* (Plumbaginaceae) | Identifies *Plumbago zeylanica*; differentiates from blue Plumbago (*P. capensis*). |
+| **5** | `"What is the botanical name of Haritaki (Harad)?"` | *Terminalia chebula* (Combretaceae) | Identifies *Terminalia chebula*; pulls *Abhaya* synonyms cleanly. |
+| **6** | `"Tell me about Amla or Amalaki."` | *Phyllanthus emblica* / *Emblica officinalis* (Phyllanthaceae) | Maps both common names to *Phyllanthus emblica*. |
+
+---
+
+### Category 2: Reverse Symptom & Condition Traversal (Tier 4)
+
+*Tests backward graph traversal `(Disease)<-[:TREATS]-(Plant)` when no plant name is provided in the prompt.*
+
+| # | Test Query | Expected Routing | Pass Criteria |
+| --- | --- | --- | --- |
+| **7** | `"Which medicinal plant from the database is indicated for treating Prameha?"` | `type: disease` $\rightarrow$ **Prameha** | Retrieves verified plants (e.g., *Tinospora cordifolia*, *Emblica officinalis*); **must not** collide on *"plant"* $\rightarrow$ *Plantago*. |
+| **8** | `"Show me herbs that treat Arsa (piles or hemorrhoids)."` | `type: disease` $\rightarrow$ **Arsa** | Performs graph reverse lookup; returns classical plants (*Plumbago zeylanica*, *Amorphophallus*, *Asparagus*). |
+| **9** | `"Which plants are indicated for Jvara (fever) in the knowledge base?"` | `type: disease` $\rightarrow$ **Jvara** | Pulls fever-relieving plants (*Tinospora*, *Swertia chirata*, *Andrographis paniculata*). |
+| **10** | `"Which medicinal plants cure Kustha (skin diseases)?"` | `type: disease` $\rightarrow$ **Kustha** | Resolves skin-treating herbs (e.g., *Acacia catechu / Khadira*, *Azadirachta indica / Neem*). |
+| **11** | `"What plants treat Krmi (parasites or intestinal worms)?"` | `type: disease` $\rightarrow$ **Krmi** | Retrieves anthelmintic herbs (e.g., *Embelia ribes / Vidanga*, *Azadirachta indica*). |
+| **12** | `"List plants indicated for Svasa and Kasa (asthma and cough)."` | `type: disease` $\rightarrow$ **Svasa / Kasa** | Reverse traversal surfaces respiratory plants (e.g., *Justicia adhatoda / Vasaka*). |
+
+---
+
+### Category 3: Dravyaguna Extraction (Rasa, Virya, Vipaka)
+
+*Tests structured extraction of taste, potency, and post-digestive effects directly from the plant graph nodes.*
+
+| # | Test Query | Target Entity | Pass Criteria |
+| --- | --- | --- | --- |
+| **13** | `"What are the Rasa and Virya of Guduchi?"` | *Tinospora cordifolia* | Outputs *Tikta* (bitter), *Kasaya* (astringent) Rasa and *Usna* (hot) Virya. |
+| **14** | `"What is the Virya (potency) of Citraka?"` | *Plumbago zeylanica* | Identifies *Usna* (hot/heating) Virya; mentions *Tikshna* action. |
+| **15** | `"Tell me the Rasa and Vipaka of Haritaki."` | *Terminalia chebula* | Mentions *Pancha-rasa* (all tastes except Lavana, predominantly *Kasaya*) and *Madhura* Vipaka. |
+| **16** | `"What is the Virya (potency) of Chandana (Santalum album)?"` | *Santalum album* | Identifies *Sheeta* / *Hima* (cold/cooling) Virya. |
+
+---
+
+### Category 4: Multi-System & Regional Taxonomy
+
+*Tests extraction of traditional medicine systems and language-specific vernacular lists.*
+
+| # | Test Query | Target Entity | Pass Criteria |
+| --- | --- | --- | --- |
+| **17** | `"Which traditional systems of medicine use Tulsi?"` | *Ocimum tenuiflorum* | Lists 6 systems: Ayurveda, Siddha, Unani, Folk, Homeopathy, Sowa-Rigpa. |
+| **18** | `"What are the Kannada and Hindi vernacular names for Neem?"` | *Azadirachta indica* | Extracts Kannada (*Bevu*, *Bevina mara*) and Hindi (*Neem*, *Nimb*); filters out unrelated language records. |
+| **19** | `"What systems of medicine recognize Ashwagandha?"` | *Withania somnifera* | Pulls systems (`[:USED_IN]`) including Ayurveda, Siddha, Unani, Sowa-Rigpa. |
+| **20** | `"What are the Malayalam and Tamil names of Haritaki?"` | *Terminalia chebula* | Isolate regional language lines cleanly without Devanagari text contamination. |
+
+---
+
+### Category 5: Complex & Multi-Constraint Graph Traversals
+
+*Tests intersection queries involving multi-hop graph filtering.*
+
+| # | Test Query | Attributes / Constraints | Pass Criteria |
+| --- | --- | --- | --- |
+| **21** | `"Which plants in the Fabaceae or Caesalpiniaceae family treat skin diseases (Kustha)?"` | Family + Disease | Intersects `[:BELONGS_TO]` and `[:TREATS]` edges (e.g., *Saraca asoca*, *Cassia fistula*). |
+| **22** | `"Identify plants with Ushna Virya (hot potency) that also treat digestive disorders (Grahani)."` | Virya + Disease | Surfaces herbs like *Plumbago zeylanica (Citraka)* or *Zingiber officinale (Shunthi)*. |
+| **23** | `"Find plants used across both Ayurveda and Siddha systems that treat Pandu (anemia)."` | Multi-System + Disease | Surfaces overlapping anemia-treating species (*Tinospora*, *Phyllanthus*). |
+
+---
+
+### Category 6: Botanical Binomials & Authority Variations
+
+*Tests resolution of scientific names with and without author abbreviations.*
+
+| # | Test Query | Target Botanical | Pass Criteria |
+| --- | --- | --- | --- |
+| **24** | `"Tell me about the properties of Plantago arenaria DECNE."` | *Plantago arenaria DECNE.* | Successfully matches full scientific string with author suffix. |
+| **25** | `"Tell me about the medicinal uses of Plantago arenaria."` | *Plantago arenaria* | Strips author suffix and matches binomial genus-species cleanly. |
+| **26** | `"What is the family and properties of Azadirachta indica A. Juss.?"` | *Azadirachta indica* | Matches binomial even with `A. JUSS.` suffix; identifies *Meliaceae*. |
+
+---
+
+### Category 7: Out-of-Domain & Guardrail Boundaries
+
+*Tests that modern synthetic drugs, non-botanicals, and unsupported terms are rejected without hallucination.*
+
+| # | Test Query | Target Category | Pass Criteria |
+| --- | --- | --- | --- |
+| **27** | `"What is the recommended Ayurvedic dosage of Paracetamol?"` | Modern Allopathic Drug | **Guardrail Refusal**: States Paracetamol is a synthetic drug not present in traditional Ayurvedic texts. |
+| **28** | `"Can Metformin or Ibuprofen be combined with Ashoka?"` | Modern Allopathic Drugs | Cleanly refuses to hallucinate classical dosage or properties for modern pharmaceuticals. |
+| **29** | `"What are the Ayurvedic Rasa and Virya of Aspirin?"` | Synthetic Chemical | Returns `type: unknown` and declines to assign classical Dravyaguna attributes. |
+
+---
+
+### Category 8: Adversarial Punctuation & Substring Collisions
+
+*Tests regex normalization, quote stripping, and stopword boundary edge cases.*
+
+| # | Test Query | Edge Case Element | Pass Criteria |
+| --- | --- | --- | --- |
+| **30** | `""""What is 'Ashoka'??? Does it cure Arsa?!""""` | Nested quotes, multiple `?`, `!` | Sanitizes input; resolves *Saraca asoca*; verifies anti-hemorrhoidal (*Arsa*) usage. |
+| **31** | `"Can you show me every single plant, herb, and medicine database record?"` | Dense stopword overload | Does not crash or match *Plantago*; responds that the query is overly generic or prompts for a specific plant/condition. |
+| **32** | `"Tell me about Ashok."` | Truncated Hindi/vernacular stem | Resolves to *Saraca asoca* via alias mapping rather than returning unknown. |
+
+---
+
+### Automated Batch Verification
+
+You can run these queries manually through `python src/graph_rag.py` or automate them into an automated test script to record response latency, entity resolution accuracy, and graph edge traversals.

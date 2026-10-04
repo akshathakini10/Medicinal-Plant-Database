@@ -1,0 +1,12 @@
+{
+  "total_questions": 60,
+  "mean_answer_correctness": 0.9998,
+  "mean_semantic_similarity": 0.9997,
+  "strict_entity_resolution_acc": 1.0,
+  "strict_intent_classification_acc": 1.0,
+  "strict_retrieval_success": 1.0,
+  "strict_context_relevance": 0.9333,
+  "strict_faithfulness": 0.896,
+  "language_match_acc": 1.0,
+  "failure_label_frequencies": {}
+}

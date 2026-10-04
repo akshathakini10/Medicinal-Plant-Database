@@ -1,21 +1,46 @@
-# Python
+# -------------------------
+# Python cache
+# -------------------------
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+*$py.class
 
-# Virtual Environment
+# -------------------------
+# Virtual environments
+# -------------------------
 .venv/
-venv/
+.venv-1/
 
-# VS Code
+env/
+
+# -------------------------
+# Environment variables / secrets
+# -------------------------
+.env
+.env.*
+!.env.example
+
+# -------------------------
+# IDE files
+# -------------------------
 .vscode/
+.idea/
 
-# Jupyter
-.ipynb_checkpoints/
-
-# OS Files
+# -------------------------
+# Operating system files
+# -------------------------
 .DS_Store
 Thumbs.db
 
-# Large generated files (optional)
+# -------------------------
+# Generated RAG files
+# -------------------------
+data/rag_documents/
+data/rag_embeddings/
+
+# -------------------------
+# Logs / temporary files
+# -------------------------
 *.log
+*.tmp
+*.temp
