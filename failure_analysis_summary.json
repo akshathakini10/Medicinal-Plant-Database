@@ -1,12 +1,19 @@
 {
   "total_questions": 60,
-  "mean_answer_correctness": 0.9998,
-  "mean_semantic_similarity": 0.9997,
-  "strict_entity_resolution_acc": 1.0,
+  "mean_answer_correctness": 0.7462,
+  "mean_semantic_similarity": 0.8009,
+  "strict_entity_resolution_acc": 0.95,
   "strict_intent_classification_acc": 1.0,
-  "strict_retrieval_success": 1.0,
+  "strict_retrieval_success": 0.9667,
   "strict_context_relevance": 0.9333,
-  "strict_faithfulness": 0.896,
-  "language_match_acc": 1.0,
-  "failure_label_frequencies": {}
+  "strict_faithfulness": 0.8569,
+  "language_match_acc": 0.9833,
+  "failure_label_frequencies": {
+    "INCOMPLETE_ANSWER": 12,
+    "MISSING_FACT": 16,
+    "LLM_GENERATION_ERROR": 4,
+    "ENTITY_RESOLUTION_ERROR": 2,
+    "GRAPH_RETRIEVAL_ERROR": 2,
+    "WRONG_LANGUAGE": 1
+  }
 }

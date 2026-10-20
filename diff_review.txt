@@ -1,0 +1,170 @@
+diff --git a/src/config.py b/src/config.py
+index 0a8d42c..55be773 100644
+--- a/src/config.py
++++ b/src/config.py
+@@ -8,4 +8,4 @@ OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
+ OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "gemma3:12b")
+ EMBED_MODEL_NAME = os.getenv("EMBED_MODEL_NAME", "all-MiniLM-L6-v2")
+ TOP_K = int(os.getenv("TOP_K", "4"))
+-OLLAMA_TIMEOUT = int(os.getenv("OLLAMA_TIMEOUT", "90"))
++OLLAMA_TIMEOUT = int(os.getenv("OLLAMA_TIMEOUT", "240"))
+diff --git a/src/graph_rag.py b/src/graph_rag.py
+index 72dd043..6f3a2c3 100644
+--- a/src/graph_rag.py
++++ b/src/graph_rag.py
+@@ -277,9 +277,32 @@ def detect_language(query: str) -> str:
+     if len(words.intersection(hindi_tokens)) >= 2:
+         return "Hindi+English"
+ 
++    # Explicit language requests take priority over the language of the query itself.
++    if re.search(r"\b(?:in|answer in|respond in)\s+hindi\b|\bhindi mein\b", q_lower):
++        return "Hindi"
++    if re.search(r"\b(?:in|answer in|respond in)\s+kannada\b|\bkannadadalli\b", q_lower):
++        return "Kannada"
++
+     return "English"
+ 
+ 
++def is_general_ayurveda_question(query: str) -> bool:
++    """Identify broad questions about Ayurveda before attempting plant resolution."""
++    q = normalize(query).lower().strip()
++    return bool(re.search(
++        r"\b(?:what is|what's|define|explain|describe|tell me about)\s+ayurveda\b|\bayurveda\s+(?:meaning|definition|overview)\b",
++        q,
++    ))
++
++
++def format_general_ayurveda_answer(lang: str) -> str:
++    if lang == "Hindi":
++        return "αñåαñ»αÑüαñ░αÑìαñ╡αÑçαñª αñ¡αñ╛αñ░αññ αñòαÑÇ αñÅαñò αñ¬αñ╛αñ░αñéαñ¬αñ░αñ┐αñò αñ╕αÑìαñ╡αñ╛αñ╕αÑìαñÑαÑìαñ» αñ¬αñªαÑìαñºαññαñ┐ αñ╣αÑê, αñ£αÑï αñ╢αñ░αÑÇαñ░ αñöαñ░ αñ«αñ¿ αñòαÑç αñ╕αñéαññαÑüαñ▓αñ¿ αññαñÑαñ╛ αñ£αÑÇαñ╡αñ¿αñ╢αÑêαñ▓αÑÇ αñ¬αñ░ αñºαÑìαñ»αñ╛αñ¿ αñªαÑçαññαÑÇ αñ╣αÑêαÑñ αñ»αñ╣ αñ¬αÑìαñ░αñúαñ╛αñ▓αÑÇ αñöαñ╖αñºαÑÇαñ» αñ¬αÑîαñºαÑïαñé αñöαñ░ αñ╕αÑìαñ╡αñ╛αñ╕αÑìαñÑαÑìαñ» αñ╕αÑç αñ£αÑüαñíαñ╝αÑç αñ¬αñ╛αñ░αñéαñ¬αñ░αñ┐αñò αñ£αÑìαñ₧αñ╛αñ¿ αñòαñ╛ αñ¡αÑÇ αñàαñºαÑìαñ»αñ»αñ¿ αñòαñ░αññαÑÇ αñ╣αÑêαÑñ"
++    if lang == "Kannada":
++        return "α▓åα▓»α│üα▓░α│ìα▓╡α│çα▓ªα▓╡α│ü α▓¡α▓╛α▓░α▓ñα▓ª α▓╕α▓╛α▓éα▓¬α│ìα▓░α▓ªα▓╛α▓»α▓┐α▓ò α▓åα▓░α│ïα▓ùα│ìα▓» α▓¬α▓ªα│ìα▓ºα▓ñα▓┐α▓»α▓╛α▓ùα▓┐α▓ªα│ìα▓ªα│ü, α▓ªα│çα▓╣ α▓«α▓ñα│ìα▓ñα│ü α▓«α▓¿α▓╕α│ìα▓╕α▓┐α▓¿ α▓╕α▓«α▓ñα│ïα▓▓α▓¿ α▓╣α▓╛α▓ùα│é α▓£α│Çα▓╡α▓¿α▓╢α│êα▓▓α▓┐α▓ùα│å α▓«α▓╣α▓ñα│ìα▓╡ α▓¿α│Çα▓íα│üα▓ñα│ìα▓ñα▓ªα│å. α▓çα▓ªα│ü α▓öα▓╖α▓ºα│Çα▓» α▓╕α▓╕α│ìα▓»α▓ùα▓│α│ü α▓«α▓ñα│ìα▓ñα│ü α▓åα▓░α│ïα▓ùα│ìα▓»α▓òα│ìα▓òα│å α▓╕α▓éα▓¼α▓éα▓ºα▓┐α▓╕α▓┐α▓ª α▓╕α▓╛α▓éα▓¬α│ìα▓░α▓ªα▓╛α▓»α▓┐α▓ò α▓£α│ìα▓₧α▓╛α▓¿α▓╡α▓¿α│ìα▓¿α│é α▓Æα▓│α▓ùα│èα▓éα▓íα▓┐α▓ªα│å."
++    return "Ayurveda is a traditional Indian system of health that emphasizes balance, daily habits, and wellbeing. It also includes traditional knowledge about medicinal plants and their properties."
++
++
+ # ============================================================
+ # 3. Domain & Intent Classification
+ # ============================================================
+@@ -1107,10 +1130,13 @@ STRICT INSTRUCTIONS:
+    - Plant property comparisons: Provide a concise comparison directly contrasting their key Virya and Rasa properties (e.g. 'Property comparison: Plant A has Usna Virya (hot potency), whereas Plant B has Sita Virya (cool potency).'). Avoid verbose or unrelated background details.
+ 3. Language & Style Consistency:
+    - English query: Answer concisely and naturally in English.
+-   - Hindi query (Devanagari): Answer in natural Hindi using Devanagari script.
+-   - Kannada query (Kannada script): Answer in natural Kannada using Kannada script.
+-   - Hindi-English code-mixed query: Preserve natural code-mixed phrasing (e.g. "Tulsi (Ocimum tenuiflorum) Lamiaceae family ko belong karti hai.").
+-   - Kannada-English code-mixed query: Preserve natural code-mixed phrasing (e.g. "Bilvada (Aegle marmelos) Virya Usna (hot potency) aagide.").
++   - If the user explicitly requests a language, answer in that language regardless of the language used in the question.
++   - Hindi response: Use natural Hindi in Devanagari script.
++   - Kannada response: Use natural Kannada in Kannada script.
++   - Hindi-English code-mixed query without an explicit language request: Preserve natural code-mixed phrasing.
++   - Kannada-English code-mixed query without an explicit language request: Preserve natural code-mixed phrasing.
++   - For requests such as "Tell me about Guduchi in Hindi", provide the answer in Hindi using Devanagari script.
++   - Preserve botanical Latin names in their original Latin script in every language.
+ 4. Botanical & Taxonomic Names:
+    - Keep botanical Latin names in EXACT Latin script (e.g., 'Azadirachta indica A. JUSS.', 'Aegle marmelos'). Never translate or transliterate botanical names.
+ 5. Botanical & Family Completeness:
+@@ -1572,24 +1598,49 @@ class GraphRAGService:
+             "options": {
+                 "temperature": 0.1,
+                 "top_p": 0.9,
+-                "num_predict": num_predict,
++                "num_predict": max(1, min(int(num_predict), 200)),
+             },
+             "keep_alive": "30m"
+         }
+ 
+         candidate = None
+         try:
+-            resp = requests.post(OLLAMA_URL, json=payload, timeout=OLLAMA_TIMEOUT)
++            print(f"[Gemma Debug] Model: {OLLAMA_MODEL}")
++            print(f"[Gemma Debug] URL: {OLLAMA_URL}")
++
++            resp = requests.post(
++                OLLAMA_URL,
++                json=payload,
++                timeout=OLLAMA_TIMEOUT
++            )
++
++            print(f"[Gemma Debug] HTTP status: {resp.status_code}")
++
+             if resp.status_code == 200:
+                 candidate = resp.json().get("response", "").strip()
+-        except Exception:
++                print(f"[Gemma Debug] Response received: {bool(candidate)}")
++                if not candidate:
++                    print("[Gemma Debug] Ollama returned an empty response.")
++            else:
++                print(f"[Gemma Debug] Error body: {resp.text[:500]}")
++
++        except Exception as e:
++            print(f"[Gemma Debug] Request failed: {type(e).__name__}: {e}")
+             candidate = None
+ 
+         latency = time.time() - t0
+         self.telemetry["total_latency_seconds"] += latency
+ 
+         if candidate:
+-            is_grounded, reason = validate_groundedness(candidate, evidence, deterministic_answer)
++            # Reject an answer in the wrong script when Hindi/Kannada was requested.
++            language_ok = not (
++                (lang == "Hindi" and not re.search(r"[\u0900-\u097F]", candidate)) or
++                (lang == "Kannada" and not re.search(r"[\u0C80-\u0CFF]", candidate))
++            )
++            if not language_ok:
++                is_grounded, reason = False, f"Response did not use the requested {lang} script."
++            else:
++                is_grounded, reason = validate_groundedness(candidate, evidence, deterministic_answer)
+             if is_grounded:
+                 self.telemetry["gemma_successes"] += 1
+                 return candidate
+@@ -1605,13 +1656,17 @@ class GraphRAGService:
+                 f"Answer:"
+             )
+             payload["prompt"] = retry_prompt
+-            payload["options"]["num_predict"] = min(num_predict, 70)
++            payload["options"]["num_predict"] = max(1, min(int(num_predict), 200))
+             try:
+                 r_resp = requests.post(OLLAMA_URL, json=payload, timeout=OLLAMA_TIMEOUT)
+                 if r_resp.status_code == 200:
+                     retry_cand = r_resp.json().get("response", "").strip()
++                    retry_language_ok = not (
++                        (lang == "Hindi" and not re.search(r"[\u0900-\u097F]", retry_cand)) or
++                        (lang == "Kannada" and not re.search(r"[\u0C80-\u0CFF]", retry_cand))
++                    )
+                     r_grounded, _ = validate_groundedness(retry_cand, evidence, deterministic_answer)
+-                    if r_grounded:
++                    if retry_language_ok and r_grounded:
+                         self.telemetry["gemma_successes"] += 1
+                         return retry_cand
+             except Exception:
+@@ -1630,7 +1685,12 @@ class GraphRAGService:
+         lang = detect_language(user_query)
+         query_lower = user_query.lower()
+ 
+-        # Step 1: Resolve Entity & Classify Domain
++        # Step 1: Handle broad Ayurveda questions before medicinal-plant entity resolution.
++        # These questions are valid domain questions, but they do not name a plant entity.
++        if is_general_ayurveda_question(user_query):
++            return format_general_ayurveda_answer(lang)
++
++        # Step 2: Resolve Entity & Classify Domain
+         resolved = self.resolver.resolve_query(user_query)
+         res_type = resolved["type"]
+ 
+@@ -2035,7 +2095,15 @@ if __name__ == "__main__":
+             question = input("Ask a plant question (or 'exit'): ").strip()
+             if not question or question.lower() == "exit":
+                 break
+-            print("\n" + service.query(question))
++            answer = service.query(question)
++            print("\n" + answer)
++
++            print("\n--- Runtime Diagnostics ---")
++            print("Gemma calls:", service.telemetry["gemma_calls"])
++            print("Gemma successes:", service.telemetry["gemma_successes"])
++            print("Regeneration attempts:", service.telemetry["regeneration_attempts"])
++            print("Deterministic fallbacks:", service.telemetry["deterministic_fallbacks"])
++
+             print("\n" + "-" * 50 + "\n")
+         except (KeyboardInterrupt, EOFError):
+             print("\nExiting.")

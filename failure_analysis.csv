@@ -1,61 +1,61 @@
 test_id,question,question_type,language,expected_entity,predicted_entity,answer_correctness,semantic_similarity,token_recall,faithfulness,context_relevance,entity_resolution_correct,intent_classification_correct,retrieval_success,language_match,failure_labels,failure_reasons
-1,Tell me about Guduchi.,general_plant_information,English,Guduchi (Tinospora cordifolia),Guduchi,1.0,1.0,1.0,0.9062,1.0,1.0,1.0,1.0,True,,
-2,What is the botanical name of Ashoka?,common_to_botanical_name,English,Ashoka (Saraca asoca),Ashoka,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-3,Which medicinal plant is Tinospora cordifolia?,botanical_to_common_name,English,Tinospora cordifolia,Tinospora Cordifolia,1.0,1.0,1.0,0.8333,1.0,1.0,1.0,1.0,True,,
-4,Which family does Kutki belong to?,family_lookup,English,Kutki (Picrorhiza kurroa),Kutki,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-5,What other names are used for Guduchi?,synonym_lookup,English,Guduchi,Guduchi,1.0,0.9999999403953552,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-6,Resolve the name Amrita to its corresponding medicinal plant.,classical_synonym_resolution,English,Amrita,Amrita (Guduchi),1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-7,What is the Rasa of Ashoka?,rasa_lookup,English,Ashoka,Ashoka,1.0,0.9999999403953552,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-8,What is the Virya of Guduchi?,virya_lookup,English,Guduchi,Guduchi,1.0,1.0,1.0,0.8571,1.0,1.0,1.0,1.0,True,,
-9,What is the Vipaka of Kutki?,vipaka_lookup,English,Kutki,Kutki,0.9902,0.9836755990982056,1.0,0.8889,1.0,1.0,1.0,1.0,True,,
-10,"Give the Rasa, Virya and Vipaka of Guduchi.",combined_ayurvedic_properties,English,Guduchi,Guduchi,1.0,1.0,1.0,0.8,1.0,1.0,1.0,1.0,True,,
-11,Which diseases are associated with Ashoka?,plant_to_disease,English,Ashoka,Ashoka,1.0,0.9999999403953552,1.0,0.8462,1.0,1.0,1.0,1.0,True,,
-12,Which medicinal plants are associated with Prameha?,disease_to_plants,English,Prameha,Prameha,1.0,1.0,1.0,0.9412,1.0,1.0,1.0,1.0,True,,
-13,Which plants are associated with Arsa?,reverse_graph_lookup,English,Arsa,Arsa,1.0,1.0,1.0,0.875,1.0,1.0,1.0,1.0,True,,
-14,List the disease relationships available for Guduchi.,one_plant_multiple_diseases,English,Guduchi,Guduchi,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-15,Which plants in the knowledge base are linked to Jvara?,one_disease_multiple_plants,English,Jvara,Jvara,1.0,1.0,1.0,0.6667,1.0,1.0,1.0,1.0,True,,
-16,Tell me about Kamala as a medicinal plant.,ambiguous_entity_plant,English,Kamala (Plant),Kamala,1.0,1.0,1.0,0.9333,1.0,1.0,1.0,1.0,True,,
-17,Which medicinal plants are associated with Kamala disease?,ambiguous_entity_disease,English,Kamala (Disease),Kamala,1.0,1.0,1.0,0.8333,1.0,1.0,1.0,1.0,True,,
-18,Is Guduchi the same plant as Tinospora cordifolia?,alias_verification,English,Guduchi,Guduchi (Tinospora Cordifolia),1.0,1.0,1.0,0.8889,1.0,1.0,1.0,1.0,True,,
-19,Is Ashoka related to Saraca asoca?,entity_identity_verification,English,Ashoka,Ashoka (Saraca Asoca),1.0,1.0,1.0,0.6923,1.0,1.0,1.0,1.0,True,,
-20,Give the botanical identity and Ayurvedic properties of Guduchi.,multi_field_retrieval,English,Guduchi,Guduchi,1.0,1.0,1.0,0.9375,1.0,1.0,1.0,1.0,True,,
-21,Give the botanical name and disease associations of Ashoka.,multi_relation_query,English,Ashoka,Ashoka,0.9998,0.9996129274368286,1.0,0.9231,1.0,1.0,1.0,1.0,True,,
-22,Which diseases associated with Guduchi are also represented in the knowledge graph?,graph_relation_retrieval,English,Guduchi,Guduchi,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-23,Which plants are common between Prameha and Jvara?,multi_condition_intersection,English,"Prameha, Jvara","Prameha, Jvara",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-24,Do Guduchi and Ashoka share any disease relationships?,plant_comparison,English,"Guduchi, Ashoka","Guduchi, Ashoka",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-25,Compare the Ayurvedic properties of Guduchi and Ashoka.,property_comparison,English,"Guduchi, Ashoka","Guduchi, Ashoka",1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-26,Which plants share the same Virya as Guduchi?,property_based_reverse_lookup,English,Usna Virya,Usna Virya (Guduchi),1.0,1.0,1.0,0.4545,1.0,1.0,1.0,1.0,True,,
-27,Which medicinal plants have disease relationships similar to Ashoka?,relation_similarity,English,Ashoka,Ashoka,1.0,1.0,1.0,0.5,1.0,1.0,1.0,1.0,True,,
-28,Find a medicinal plant associated with both a disease relationship and documented Rasa information.,constraint_based_retrieval,English,Guduchi,Guduchi,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-29,What information does the graph contain about Guduchi besides disease relationships?,graph_exploration,English,Guduchi,Guduchi,1.0,1.0,1.0,0.9545,1.0,1.0,1.0,1.0,True,,
-30,Summarize all available structured information for Ashoka.,complete_entity_summary,English,Ashoka,Ashoka,0.9999,0.999890923500061,1.0,0.9524,1.0,1.0,1.0,1.0,True,,
-31,Which plant in the database is connected with Prameha and also has documented Ayurvedic properties?,multi_hop_query,English,Guduchi,Guduchi,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-32,Find the medicinal plant represented by the botanical name Saraca asoca and give one of its properties.,entity_resolution_plus_property,English,Saraca asoca,Saraca Asoca,1.0,0.9999998807907104,1.0,0.9091,1.0,1.0,1.0,1.0,True,,
-33,What can you tell me about guduchi?,lowercase_robustness,English,Guduchi,Guduchi,1.0,1.0,1.0,0.7143,1.0,1.0,1.0,1.0,True,,
-34,Tell me about GUDUCHI.,uppercase_robustness,English,Guduchi,Guduchi,1.0,1.0,1.0,0.7143,1.0,1.0,1.0,1.0,True,,
-35,Tell me about Guduchi!!!,punctuation_noise_robustness,English,Guduchi,Guduchi,1.0,1.0,1.0,0.7143,1.0,1.0,1.0,1.0,True,,
-36,What is gudchi used for?,misspelled_plant,English,Guduchi,Gudchi (Guduchi),1.0,1.0,1.0,0.9,1.0,1.0,1.0,1.0,True,,
-37,Which plants are linked with prameh?,misspelled_disease,English,Prameha,Prameha,1.0,1.0,1.0,0.7692,1.0,1.0,1.0,1.0,True,,
-38,Guduchi properties?,short_incomplete_query,English,Guduchi,Guduchi,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-39,I heard about a plant called Guduchi. What information do you have about it?,conversational_query,English,Guduchi,Guduchi,1.0,1.0,1.0,0.9,1.0,1.0,1.0,1.0,True,,
-40,"I don't remember the exact spelling, but is there a medicinal plant called Gudchi?",fuzzy_entity_resolution,English,Guduchi,Gudchi (Guduchi),1.0,1.0,1.0,0.875,1.0,1.0,1.0,1.0,True,,
-41,Which plant could I be referring to if I say Amrita?,indirect_synonym_query,English,Amrita / Guduchi,Amrita (Guduchi),1.0,1.0,1.0,0.8333,1.0,1.0,1.0,1.0,True,,
-42,I need a plant connected to Prameha; what does your knowledge base contain?,natural_language_reverse_lookup,English,Prameha,Prameha,1.0,0.9999998807907104,1.0,0.75,1.0,1.0,1.0,1.0,True,,
-43,What medicinal plants are related to a condition similar to Prameha?,semantic_vague_retrieval,English,Prameha,Prameha,1.0,1.0,1.0,0.8462,1.0,1.0,1.0,1.0,True,,
-44,Show me only information that exists in the knowledge base for Guduchi.,grounding_test,English,Guduchi,Guduchi,1.0,1.0,1.0,0.913,1.0,1.0,1.0,1.0,True,,
-45,Does your knowledge base contain evidence that Guduchi treats every disease?,hallucination_resistance,English,Guduchi,Guduchi,1.0,1.0,1.0,0.7143,1.0,1.0,1.0,1.0,True,,
-46,Give me information about an unknown plant called XYZHerb.,unknown_entity,English,XYZHerb,XYZHerb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-47,Which plants are associated with a disease called ABCDisease?,unknown_disease,English,ABCDisease,ABCDisease,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-48,What is the dosage of paracetamol?,out_of_domain_medical,English,None (Out of Domain),None (Out of Domain),1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-49,"Which is better for diabetes, metformin or insulin?",unsupported_modern_drug_comparison,English,None (Out of Domain),None (Out of Domain),1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-50,Who is the Prime Minister of India?,out_of_domain_general,English,None (Out of Domain),None (Out of Domain),1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-51,गुडूची के अन्य नाम क्या हैं?,synonym_lookup,Hindi,Guduchi,गुडूची (Guduchi),1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,True,,
-52,प्रमेह से संबंधित औषधीय पौधे कौन-कौन से हैं?,disease_to_plants,Hindi,Prameha,Prameha,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-53,अशोक का रस क्या है?,rasa_lookup,Hindi,Ashoka,अशोक (Ashoka),1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,True,,
-54,गुडूची का वानस्पतिक नाम और वीर्य बताइए।,multi_field_retrieval,Hindi,Guduchi,गुडूची (Guduchi),1.0,1.0,1.0,0.8571,0.0,1.0,1.0,1.0,True,,
-55,ಗುಡುಚಿಯ ಆಯುರ್ವೇದ ಗುಣಗಳನ್ನು ತಿಳಿಸಿ.,ayurvedic_properties,Kannada,Guduchi,ಗುಡುಚಿ (Guduchi),1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-56,ಪ್ರಮೇಹಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಔಷಧೀಯ ಸಸ್ಯಗಳು ಯಾವುವು?,disease_to_plants,Kannada,Prameha,Prameha,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
-57,ಅಶೋಕದ ಸಸ್ಯಶಾಸ್ತ್ರೀಯ ಹೆಸರು ಏನು?,botanical_name_lookup,Kannada,Ashoka,ಅಶೋಕದ (Ashoka),1.0,0.9999999403953552,1.0,1.0,0.0,1.0,1.0,1.0,True,,
-58,Guduchiya virya mattu vipaka enu?,code_mixed_transliterated_kannada,Kannada+English,Guduchi,Guduchiya (Guduchi),1.0,1.0,1.0,0.9,1.0,1.0,1.0,1.0,True,,
-59,Prameha ge sambandhisida plants alli Ayurvedic properties iro plants yavuvu?,code_mixed_multi_condition,Kannada+English,Prameha,Prameha,1.0,1.0,1.0,0.8571,1.0,1.0,1.0,1.0,True,,
-60,अमृता नाम किस medicinal plant को refer करता है और उसका botanical name क्या है?,code_mixed_entity_resolution,Hindi+English,Amrita (Guduchi),अमृता (Guduchi),1.0,0.9999999403953552,1.0,0.9091,1.0,1.0,1.0,1.0,True,,
+1,Tell me about Guduchi.,general_plant_information,English,Guduchi (Tinospora cordifolia),Guduchi,0.7734,0.8700070381164551,0.6286,0.8276,1.0,1.0,1.0,1.0,True,,
+2,What is the botanical name of Ashoka?,common_to_botanical_name,English,Ashoka (Saraca asoca),Ashoka,0.9981,0.9968533515930176,1.0,1.0,1.0,1.0,1.0,1.0,True,,
+3,Which medicinal plant is Tinospora cordifolia?,botanical_to_common_name,English,Tinospora cordifolia,Guduchi (Tinospora Cordifolia),0.7654,0.9053175449371338,0.5556,1.0,1.0,1.0,1.0,1.0,True,,
+4,Which family does Kutki belong to?,family_lookup,English,Kutki (Picrorhiza kurroa),Kutki,0.968,0.9465992450714111,1.0,0.9167,1.0,1.0,1.0,1.0,True,,
+5,What other names are used for Guduchi?,synonym_lookup,English,Guduchi,Guduchi,0.7001,0.8334653377532959,0.5,0.8519,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+6,Resolve the name Amrita to its corresponding medicinal plant.,classical_synonym_resolution,English,Amrita,Guduchi,0.7985,0.8641741871833801,0.7,0.7333,1.0,1.0,1.0,1.0,True,,
+7,What is the Rasa of Ashoka?,rasa_lookup,English,Ashoka,Ashoka,0.9613,0.9354547262191772,1.0,0.8889,1.0,1.0,1.0,1.0,True,,
+8,What is the Virya of Guduchi?,virya_lookup,English,Guduchi,Guduchi,0.8875,0.8958845734596252,0.875,0.9091,1.0,1.0,1.0,1.0,True,,
+9,What is the Vipaka of Kutki?,vipaka_lookup,English,Kutki,Kutki,0.537,0.5986582040786743,0.4444,1.0,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+10,"Give the Rasa, Virya and Vipaka of Guduchi.",combined_ayurvedic_properties,English,Guduchi,Guduchi,0.7847,0.8079060316085815,0.75,0.8421,1.0,1.0,1.0,1.0,True,,
+11,Which diseases are associated with Ashoka?,plant_to_disease,English,Ashoka,Ashoka,0.617,0.7475645542144775,0.4211,1.0,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+12,Which medicinal plants are associated with Prameha?,disease_to_plants,English,Prameha,Prameha,0.6808,0.7643750309944153,0.5556,0.92,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+13,Which plants are associated with Arsa?,reverse_graph_lookup,English,Arsa,Arsa,0.6474,0.7456250190734863,0.5,0.963,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+14,List the disease relationships available for Guduchi.,one_plant_multiple_diseases,English,Guduchi,Guduchi,0.7794,0.7990421056747437,0.75,0.9444,1.0,1.0,1.0,1.0,True,,
+15,Which plants in the knowledge base are linked to Jvara?,one_disease_multiple_plants,English,Jvara,Jvara,0.5995,0.7398264408111572,0.3889,0.9545,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+16,Tell me about Kamala as a medicinal plant.,ambiguous_entity_plant,English,Kamala (Plant),Kamala,0.7391,0.8459213972091675,0.5789,0.7143,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+17,Which medicinal plants are associated with Kamala disease?,ambiguous_entity_disease,English,Kamala (Disease),Kamala,0.6613,0.7689018249511719,0.5,1.0,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+18,Is Guduchi the same plant as Tinospora cordifolia?,alias_verification,English,Guduchi,Guduchi (Tinospora Cordifolia),0.6735,0.7891117334365845,0.5,0.8696,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+19,Is Ashoka related to Saraca asoca?,entity_identity_verification,English,Ashoka,Ashoka (Saraca Asoca),0.7346,0.8354173302650452,0.5833,0.7778,1.0,1.0,1.0,1.0,False,WRONG_LANGUAGE,Answer language 'Hindi' does not match question language 'English'
+20,Give the botanical identity and Ayurvedic properties of Guduchi.,multi_field_retrieval,English,Guduchi,Guduchi,0.8538,0.867526650428772,0.8333,0.8095,1.0,1.0,1.0,1.0,True,,
+21,Give the botanical name and disease associations of Ashoka.,multi_relation_query,English,Ashoka,Ashoka,0.6976,0.8769217729568481,0.4286,0.8571,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+22,Which diseases associated with Guduchi are also represented in the knowledge graph?,graph_relation_retrieval,English,Guduchi,Guduchi,0.6001,0.523945689201355,0.7143,0.9,1.0,1.0,1.0,1.0,True,LLM_GENERATION_ERROR,LLM generated valid factual answer using different phrasing from reference baseline
+23,Which plants are common between Prameha and Jvara?,multi_condition_intersection,English,"Prameha, Jvara","Prameha, Jvara",0.9336,0.9369113445281982,0.9286,1.0,1.0,1.0,1.0,1.0,True,,
+24,Do Guduchi and Ashoka share any disease relationships?,plant_comparison,English,"Guduchi, Ashoka","Ashoka, Guduchi",0.5953,0.6112264394760132,0.5714,1.0,1.0,1.0,1.0,1.0,True,LLM_GENERATION_ERROR,LLM generated valid factual answer using different phrasing from reference baseline
+25,Compare the Ayurvedic properties of Guduchi and Ashoka.,property_comparison,English,"Guduchi, Ashoka","Ashoka, Guduchi",0.8362,0.8602908849716187,0.8,1.0,1.0,1.0,1.0,1.0,True,,
+26,Which plants share the same Virya as Guduchi?,property_based_reverse_lookup,English,Usna Virya,Guduchi,0.7595,0.8213421106338501,0.6667,0.9032,1.0,0.0,1.0,1.0,True,,
+27,Which medicinal plants have disease relationships similar to Ashoka?,relation_similarity,English,Ashoka,Ashoka,0.5493,0.7488834857940674,0.25,0.16,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+28,Find a medicinal plant associated with both a disease relationship and documented Rasa information.,constraint_based_retrieval,English,Guduchi,Ashoka,0.5547,0.6214317083358765,0.4545,0.3636,1.0,0.0,1.0,0.0,True,"ENTITY_RESOLUTION_ERROR, GRAPH_RETRIEVAL_ERROR, MISSING_FACT","Entity mismatch: expected 'Guduchi', got 'Ashoka', Expected entity evidence missing from retrieved graph facts, RAG answer missed key baseline facts or properties"
+29,What information does the graph contain about Guduchi besides disease relationships?,graph_exploration,English,Guduchi,Guduchi,0.5586,0.7571640014648438,0.2609,0.8696,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+30,Summarize all available structured information for Ashoka.,complete_entity_summary,English,Ashoka,Ashoka,0.7391,0.8076344728469849,0.6364,0.7619,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+31,Which plant in the database is connected with Prameha and also has documented Ayurvedic properties?,multi_hop_query,English,Guduchi,Prameha,0.5117,0.5670634508132935,0.4286,0.8947,1.0,0.0,1.0,0.0,True,"ENTITY_RESOLUTION_ERROR, GRAPH_RETRIEVAL_ERROR, MISSING_FACT","Entity mismatch: expected 'Guduchi', got 'Prameha', Expected entity evidence missing from retrieved graph facts, RAG answer missed key baseline facts or properties"
+32,Find the medicinal plant represented by the botanical name Saraca asoca and give one of its properties.,entity_resolution_plus_property,English,Saraca asoca,Ashoka (Saraca Asoca),0.7657,0.8146238327026367,0.6923,0.7619,1.0,1.0,1.0,1.0,True,,
+33,What can you tell me about guduchi?,lowercase_robustness,English,Guduchi,Guduchi,0.6561,0.7905524969100952,0.4545,0.5641,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+34,Tell me about GUDUCHI.,uppercase_robustness,English,Guduchi,Guduchi,0.6716,0.8162961602210999,0.4545,0.8,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+35,Tell me about Guduchi!!!,punctuation_noise_robustness,English,Guduchi,Guduchi,0.6593,0.7957715392112732,0.4545,0.8,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+36,What is gudchi used for?,misspelled_plant,English,Guduchi,Guduchi,0.6662,0.7513391971588135,0.5385,1.0,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+37,Which plants are linked with prameh?,misspelled_disease,English,Prameha,Prameha,0.6417,0.7618470191955566,0.4615,0.88,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+38,Guduchi properties?,short_incomplete_query,English,Guduchi,Guduchi,0.7335,0.677126944065094,0.8182,0.85,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+39,I heard about a plant called Guduchi. What information do you have about it?,conversational_query,English,Guduchi,Guduchi,0.6966,0.8020368814468384,0.5385,0.8621,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+40,"I don't remember the exact spelling, but is there a medicinal plant called Gudchi?",fuzzy_entity_resolution,English,Guduchi,Guduchi,0.6898,0.6162919998168945,0.8,0.6429,1.0,1.0,1.0,1.0,True,LLM_GENERATION_ERROR,LLM generated valid factual answer using different phrasing from reference baseline
+41,Which plant could I be referring to if I say Amrita?,indirect_synonym_query,English,Amrita / Guduchi,Guduchi,0.5174,0.5766571760177612,0.4286,0.75,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+42,I need a plant connected to Prameha; what does your knowledge base contain?,natural_language_reverse_lookup,English,Prameha,Prameha,0.5946,0.7131446599960327,0.4167,0.84,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+43,What medicinal plants are related to a condition similar to Prameha?,semantic_vague_retrieval,English,Prameha,Prameha,0.6286,0.7399460077285767,0.4615,0.84,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+44,Show me only information that exists in the knowledge base for Guduchi.,grounding_test,English,Guduchi,Guduchi,0.7114,0.8389300107955933,0.52,0.9545,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+45,Does your knowledge base contain evidence that Guduchi treats every disease?,hallucination_resistance,English,Guduchi,Guduchi,0.6962,0.5192524194717407,0.9615,0.7407,1.0,1.0,1.0,1.0,True,LLM_GENERATION_ERROR,LLM generated valid factual answer using different phrasing from reference baseline
+46,Give me information about an unknown plant called XYZHerb.,unknown_entity,English,XYZHerb,xyzherb,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
+47,Which plants are associated with a disease called ABCDisease?,unknown_disease,English,ABCDisease,abcdisease,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,True,,
+48,What is the dosage of paracetamol?,out_of_domain_medical,English,None (Out of Domain),None (Out of Domain),1.0,0.9,0.5625,1.0,1.0,1.0,1.0,1.0,True,,
+49,"Which is better for diabetes, metformin or insulin?",unsupported_modern_drug_comparison,English,None (Out of Domain),None (Out of Domain),1.0,0.9,0.8,1.0,1.0,1.0,1.0,1.0,True,,
+50,Who is the Prime Minister of India?,out_of_domain_general,English,None (Out of Domain),None (Out of Domain),1.0,0.9999999403953552,1.0,1.0,1.0,1.0,1.0,1.0,True,,
+51,गुडूची के अन्य नाम क्या हैं?,synonym_lookup,Hindi,Guduchi,गुडूची,0.8034,0.7899997234344482,0.8235,0.9167,0.0,1.0,1.0,1.0,True,,
+52,प्रमेह से संबंधित औषधीय पौधे कौन-कौन से हैं?,disease_to_plants,Hindi,Prameha,Prameha,0.7551,0.8236640095710754,0.6522,1.0,1.0,1.0,1.0,1.0,True,,
+53,अशोक का रस क्या है?,rasa_lookup,Hindi,Ashoka,अशोक,0.8649,0.9081695079803467,0.8,1.0,0.0,1.0,1.0,1.0,True,,
+54,गुडूची का वानस्पतिक नाम और वीर्य बताइए।,multi_field_retrieval,Hindi,Guduchi,गुडूची,0.9935,0.9891304969787598,1.0,0.8571,0.0,1.0,1.0,1.0,True,,
+55,ಗುಡುಚಿಯ ಆಯುರ್ವೇದ ಗುಣಗಳನ್ನು ತಿಳಿಸಿ.,ayurvedic_properties,Kannada,Guduchi,ಗುಡುಚಿಯ,0.7541,0.8023337125778198,0.6818,0.4286,1.0,1.0,1.0,1.0,True,,
+56,ಪ್ರಮೇಹಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಔಷಧೀಯ ಸಸ್ಯಗಳು ಯಾವುವು?,disease_to_plants,Kannada,Prameha,Prameha,0.6819,0.7457560896873474,0.5862,1.0,1.0,1.0,1.0,1.0,True,INCOMPLETE_ANSWER,Answer correctness below 0.75 threshold due to wording variation or partial coverage
+57,ಅಶೋಕದ ಸಸ್ಯಶಾಸ್ತ್ರೀಯ ಹೆಸರು ಏನು?,botanical_name_lookup,Kannada,Ashoka,ಅಶೋಕ,0.9269,0.9448127746582031,0.9,1.0,0.0,1.0,1.0,1.0,True,,
+58,Guduchiya virya mattu vipaka enu?,code_mixed_transliterated_kannada,Kannada+English,Guduchi,Guduchi,0.7691,0.748462438583374,0.8,0.6522,1.0,1.0,1.0,1.0,True,,
+59,Prameha ge sambandhisida plants alli Ayurvedic properties iro plants yavuvu?,code_mixed_multi_condition,Kannada+English,Prameha,Prameha,0.6215,0.7395223379135132,0.4444,0.64,1.0,1.0,1.0,1.0,True,MISSING_FACT,RAG answer missed key baseline facts or properties
+60,अमृता नाम किस medicinal plant को refer करता है और उसका botanical name क्या है?,code_mixed_entity_resolution,Hindi+English,Amrita (Guduchi),अमृता,0.7746,0.8576741814613342,0.65,1.0,1.0,1.0,1.0,1.0,True,,

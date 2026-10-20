@@ -8,8 +8,8 @@ graph [
     botanical_name "Abelmoschus crinitus WALL."
     sanskrit_name ""
     family "Malvaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 6 Vernacular names found in 3 languages. Hindi (2) - kamalya, kamlya Kannada (1) - kachalu Sanskrit (3) - Sanskrit Comments  karpasi, picuka, piskakanda"
   ]
@@ -86,8 +86,8 @@ graph [
     botanical_name "Abies pindrow ROYLE"
     sanskrit_name "Granthiparni"
     family "Pinaceae"
-    rasa "Tikta, Madhura"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 10 Vernacular names found in 3 languages. English (1) - himalayan fir Hindi (7) - dodimma, jhilla, morinda tosh, rai, rei, span, tosh Sanskrit (2) - Sanskrit Comments  granthiparna, talisa"
   ]
@@ -113,8 +113,8 @@ graph [
     botanical_name "Abies spectabilis (D.DON) SPACH"
     sanskrit_name ""
     family "Pinaceae"
-    rasa "Tikta, Madhura"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 28 Vernacular names found in 8 languages. Hindi (10) - kanda morinda, morinda, raga, rai, span, talis patra, talispatra, talispatri, tapis patra, tosh Kannada (1) - talispatri Malayalam (2) - taleesaptram, talisapatram Sanskrit (8) - Sanskrit Comments  dhatripatra, manduparani, sukodara, talisa, talisam, talisapatra, talisapatradya, talisapatram Tamil (2) - talisapatri, talispatri Telugu (2)"
   ]
@@ -234,13 +234,13 @@ graph [
   ]
   node [
     id 28
-    label "Disease_prameha"
-    name "Prameha"
+    label "Disease_arsa"
+    name "Arsa"
   ]
   node [
     id 29
-    label "Disease_arsa"
-    name "Arsa"
+    label "Disease_prameha"
+    name "Prameha"
   ]
   node [
     id 30
@@ -280,18 +280,18 @@ graph [
   ]
   node [
     id 33
-    label "Disease_sopha"
-    name "Sopha"
-  ]
-  node [
-    id 34
     label "Disease_jvara"
     name "Jvara"
   ]
   node [
-    id 35
+    id 34
     label "Disease_pandu"
     name "Pandu"
+  ]
+  node [
+    id 35
+    label "Disease_sopha"
+    name "Sopha"
   ]
   node [
     id 36
@@ -500,8 +500,8 @@ graph [
     botanical_name "Aerva lanata (L.) JUSS. E SCHULT."
     sanskrit_name "Goraksaganja"
     family "Amaranthaceae"
-    rasa "Tikta, Kashaya"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 103 Vernacular names found in 7 languages. Hindi (7) - chaya, choti-bui, gorakh-boonti, gorakhganja, gorkhabundi, kapurijadi, konda Kannada (8) - bilee sooli gida, bili hindee soppu, bili hooli, bili sooli, bilihindee soppu, bilihindi, bilihooli, hittina donne soppu Malayalam (4) - cerula, cerupula, ceruvula, scheru-bula Marathi (9) - kapoor madhura, kapoorimadhuri, kapoorphuli, kapurimadhur"
   ]
@@ -529,8 +529,8 @@ graph [
     botanical_name "Aconitum bisma (HAM.) RAPAICS"
     sanskrit_name ""
     family "Ranunculaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 3 Vernacular names found in 1 languages. Sanskrit (3) - Sanskrit Comments  ativisa, bikhma, prativisa"
   ]
@@ -542,7 +542,7 @@ graph [
     sanskrit_name "Srngi"
     family "Ranunculaceae"
     rasa "Not specified"
-    virya "Usna"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 9 Vernacular names found in 2 languages. Hindi (3) - mohri, mohru, patis kauri Sanskrit (6) - Sanskrit Comments  amrta, sthavaravisa, vajranaga, vatsanabha, vatsanagaka, visa"
   ]
@@ -756,7 +756,7 @@ graph [
     botanical_name "Adiantum incisum FORSK."
     sanskrit_name ""
     family "Adiantaceae"
-    rasa "Is Svadu"
+    rasa "Not specified"
     virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 13 Vernacular names found in 4 languages. Hindi (3) - aadishe, adashisi, hansraj Kannada (1) - gajkarna Sanskrit (4) - Sanskrit Comments  madhuchada, mayurashikha, mayurasikha, mayurshikha Tamil (5) - malaikalaicci, malaikalakki, mayilkontai, mylekondai, perumalaikalakki"
@@ -797,8 +797,8 @@ graph [
     botanical_name "Haldina cordifolia (ROB.) RIDSDALE"
     sanskrit_name ""
     family "Rubiaceae"
-    rasa "Katu, Tikta, Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 161 Vernacular names found in 8 languages. English (1) - haldu Hindi (11) - haladu, halda, haldava, haldawa, haldu, haludava, harda, hardu, kadami, karam, kurumba Kannada (56) - ahnau, ahnow, anaaru, anagalu, anavu, anigallu, anigalu, anigilu, annavu, arasanategu, arasantaijeh, arasinatege, arishina thaega, arishina thega, arsanatega, arsinatega, arunsantige, attaka, bachenige, dodda kadaga,"
   ]
@@ -836,8 +836,8 @@ graph [
     botanical_name "Aerva javanica (BURM.F.) JUSS.  E SCHULT."
     sanskrit_name "Pasanabheda"
     family "Amaranthaceae"
-    rasa "Tikta, Kashaya"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 34 Vernacular names found in 4 languages. Hindi (2) - bui, safed-bui Sanskrit (6) - Sanskrit Comments  krishnavalli, nilkanthi, pasanabheda, pratanika, tripatra, valliyaka Tamil (23) - avalavi, avalavicceti, cimili, cimilikacceti, cimilikam, kannuppilai, kannuppilaicceti, kulirkonikacceti, kulirkonikam, pasanapeti 3, periyapulai, perum pilai, perumbulai, perumpilai#, perumpilai@, perumpilaic"
   ]
@@ -1369,8 +1369,8 @@ graph [
     botanical_name "Alpinia galanga (L.) WILLD."
     sanskrit_name "Elaparni"
     family "Zingiberaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 180 Vernacular names found in 9 languages. English (1) - siamese ginger Hindi (9) - bara-kalijan, bara-kulanjan, barakalijan, barakulanjan, barakulinjan, kulanajn, kulanjan, kulinjan, saphed-panaki-jhad Kannada (18) - dhumarasmi, doddadumprashme, doopparaasme, dumbaraasme, dumbarasme, dumbraashta, dumpa rasme, dumpa-rasmi, dumparaasme, dumrashta, gandhamoola, kulinjana, raasmi, rasmi, rasmin"
   ]
@@ -1660,8 +1660,8 @@ graph [
     botanical_name "Aphanamixis polystachya (WALL.) PARKER"
     sanskrit_name "Rohitaka"
     family "Meliaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 75 Vernacular names found in 8 languages. English (1) - tasua Hindi (3) - harin-hara, harinhara, harinkhana Kannada (17) - hottenola, mukhya mutthage, mukhyamuttage, mukhyamuttuge, mulen, mullamuttala, mullu mutthala, mullu-muttaga, mulluhitthalu, mullumuttaga, roheethaka, rohitaka, shina, thaktaroheethaka, tittilakayi, tottilakayi, tottile Malayalam (6) - cem, cemmaram, chem, chemmaram, kar"
   ]
@@ -1836,9 +1836,9 @@ graph [
     botanical_name "Anchusa strigosa LABILL."
     sanskrit_name "Gojihva"
     family "Boraginaceae"
-    rasa "Tikta"
-    virya "Sita"
-    vipaka "Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  gojihva"
   ]
   node [
@@ -1860,8 +1860,8 @@ graph [
     botanical_name "Andrographis paniculata (BURM.F.)WALLICH E NEES."
     sanskrit_name "Bhunimba"
     family "Acanthaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 116 Vernacular names found in 8 languages. English (1) - kariyat Hindi (10) - chara-yetah, charayetaah, charayetah, chiraita, kalamegh, kalmegh, kalpanath, kiryat, maha-tita, mahatita Kannada (12) - hasi kiriyaatha, kaala megha, kreata, nela baevu, nela beru, nela bevu, nela-bevinagida, nelabaevinagida, nelabaevu, nelabevinagida, oora kiriyaathu, vaayu hullu Malayalam (8) - cara-caniram, kir"
   ]
@@ -1872,9 +1872,9 @@ graph [
     botanical_name "Cymbopogon citratus (DC.) STAPF."
     sanskrit_name "Jambira"
     family "Poaceae"
-    rasa "Katu, Tikta"
+    rasa "Not specified"
     virya "Not specified"
-    vipaka "Katu"
+    vipaka "Not specified"
     vernacular_names "Total 99 Vernacular names found in 9 languages. English (3) - lemon grass, malabar oil, serai Hindi (9) - aghyaghas, aginghas, gandhatrana, gandhatranan, gandhatrina, gandhatrn, haree-chaha, rohisha, sugandh Kannada (10) - chaa hullu, gavare chacha, gouthi hullu, majjige hullu, majjige-hullu, majjige-hulu, majjigehullu, nimbe hullu, purhalihulla, purhalihullu Malayalam (7) - cennanampullu, chayapu"
   ]
   node [
@@ -1896,9 +1896,9 @@ graph [
     botanical_name "Cymbopogon martini (ROB.) WATS"
     sanskrit_name "Rohisa"
     family "Poaceae"
-    rasa "Katu, Tikta"
+    rasa "Not specified"
     virya "Not specified"
-    vipaka "Katu"
+    vipaka "Not specified"
     vernacular_names "Total 71 Vernacular names found in 9 languages. English (3) - ginger grass, palma-rosa, rusha grass Hindi (12) - gandhabel, gandhej-ghas, makora, merchya, mirchagandh, motio, piriya ghas, rousa-ka-aitr, rousa-ka-tel, rusa, rusa ghas, rusha Kannada (21) - anche hullu, anchi hullu, anchit hullu, bhootika hullu, bili dodda, chatta hullu, chippu hullu, kaachi hullu, kaachihullu, kaashi hullu, kaashihu"
   ]
   node [
@@ -1920,9 +1920,9 @@ graph [
     botanical_name "Cymbopogon nardus (L.) RENDLE"
     sanskrit_name "Jambira"
     family "Poaceae"
-    rasa "Katu, Tikta"
+    rasa "Not specified"
     virya "Not specified"
-    vipaka "Katu"
+    vipaka "Not specified"
     vernacular_names "Total 57 Vernacular names found in 8 languages. English (2) - citronella, mana grass Hindi (5) - ganjini, ganjinikaghas, ganjni, ganjni-ka-aitr, pustbur Kannada (10) - anjai hullu, bodhai-hullu, citronella aenna hullu, citronella hullu, ganda-hanchi-khaddi-yanne, gandahanchikhaddi, gandha hanchi kaddi hullu, kaamaakshi hullu, kamakshihullu, karathai Malayalam (5) - chora-pulla-enna, chorapullu, ka"
   ]
   node [
@@ -1932,9 +1932,9 @@ graph [
     botanical_name "Cymbopogon jwarancusa (JONES) SCHULT. subsp. olivieri (BOISS.) SOENARKO."
     sanskrit_name ""
     family "Poaceae"
-    rasa "Katu, Tikta"
+    rasa "Not specified"
     virya "Not specified"
-    vipaka "Katu"
+    vipaka "Not specified"
     vernacular_names "Total 23 Vernacular names found in 6 languages. Hindi (5) - agyaghas, akya-ghas-ka-aitr, gandhabena, roshel, ruaghas Kannada (2) - purvali-hullu-yanne, vasanehullu-yanne Malayalam (2) - sambhara-pulla-enna, vasanap-pulla-enna Sanskrit (6) - Sanskrit Comments  bhutrina, bhutruna, devajagdhakatailam, dhyamakam, katutrna, mala-trinakam Tamil (6) - camachie pilloo, cukku narippul, karpura-pullu-yenney"
   ]
   node [
@@ -1978,8 +1978,8 @@ graph [
     botanical_name "Anethum graveolens L."
     sanskrit_name ""
     family "Apiaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 108 Vernacular names found in 10 languages. English (5) - dill, dillseed, dillweed, east indian dill, indian dill Hindi (4) - sowa, soya, soyah, suva Kannada (3) - sabbasagi, sabbasige, sabbasige soppu Malayalam (3) - chatukuppa, satakuppa, shatakuppa Marathi (6) - balanta shopa, shepu, shopha, shupa, surva, suva Sanskrit (6) - Sanskrit Comments  chhatra, satahva, satapushpi, satapuspa, shat"
   ]
@@ -2089,8 +2089,8 @@ graph [
     botanical_name "Neolamarckia cadamba (ROB.) BOSSER"
     sanskrit_name ""
     family "Rubiaceae"
-    rasa "Katu, Tikta, Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 190 Vernacular names found in 9 languages. English (3) - kadam, kedam, laran Hindi (4) - haldee, kadam, kadamb, kadamba Kannada (36) - apathyada mara, arisina thaega, bale, cowdeyal, dhaaruja kaare, dharujakaur, etthakada, hellthaega, helthige, kaada balige, kada pode, kadabolige, kadaga, kadaha, kadahada, kadahada mara, kadam, kadamba, kadamba mara, kadambam, kadambole, kadava, kadaval, kad"
   ]
@@ -2304,8 +2304,8 @@ graph [
     botanical_name "Argyreia nervosa (BURM.F.) BOJ."
     sanskrit_name ""
     family "Convolvulaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 149 Vernacular names found in 10 languages. English (2) - elephant climber, wood(en) rose Hindi (11) - ghabel, ghav bel, samandar-ka-pat, samandar-saf, samandar-sof, samandar-sokh, samandarka-pat, samandarsokh, samander-bel, samandrasokh, samudrasos Kannada (15) - bodathara, chandra paada, chandrapada, junga, kadalli, samudra balli, samudra haale, samudra soage, samudraballi, samudrahalaball"
   ]
@@ -2328,8 +2328,8 @@ graph [
     botanical_name "Argyreia setosa (ROB.) CHOISY"
     sanskrit_name ""
     family "Convolvulaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 13 Vernacular names found in 4 languages. Marathi (2) - bhaisvel, masbel Sanskrit (1) - Sanskrit Comments  vrddhadaruka Tamil (8) - irecakakkoti, kalutaikkarikam 2, mutippu 2, unan, unankoti 2#, unankoti 2@, unnayangodi, unnayankoti 2 Telugu (2) - maya tige, verriboddi-tige"
   ]
@@ -2340,9 +2340,9 @@ graph [
     botanical_name "Avicennia officinalis L."
     sanskrit_name "Bana"
     family "Avicenniaceae"
-    rasa "Tikta"
-    virya "Usna"
-    vipaka "Tikta"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 52 Vernacular names found in 7 languages. Hindi (1) - bina Kannada (8) - ipathi, ipati, kaandal, kandaale, kandal, mada, uppathi, uppati Malayalam (7) - oepata, oepatu, orei, uppukutti, upputti, uri, urppam Marathi (3) - tivar, tiwar, upali Sanskrit (7) - Sanskrit Comments  sagarodbhutah, sagarodhurga, thavara, timirah, tivariya, tuvara, tuvaraka Tamil (16) - kandal, kantal4, kantil, kantuka"
   ]
   node [
@@ -2399,7 +2399,7 @@ graph [
     sanskrit_name "Gandhanakuli"
     family "Aristolochiaceae"
     rasa "Tikta, Katu"
-    virya "Usna"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 234 Vernacular names found in 8 languages. Hindi (7) - arkmula, hukka-bel, isarmul, isharmul, isharmul-ki-jar, isvarmul, kiramar Kannada (21) - eeshvari baeru, eeshvari balli, eeshwari beru, eesvurberus, eswari beru, gopaala putti thoppalu, gopalaputti thoppalu, gopalaputtitoppalu, gopataputtitoppalu, isaraber, isaraberu, ishvaraberu, ishvariberu, isvaraballi, isvaraberu, isvariberu, kadula,"
   ]
@@ -2410,9 +2410,9 @@ graph [
     botanical_name "Arnebia benthamii (WALL. E G.DON) JOHNSTON"
     sanskrit_name ""
     family "Boraginaceae"
-    rasa "Tikta"
-    virya "Sita"
-    vipaka "Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  gojihva"
   ]
   node [
@@ -2684,8 +2684,8 @@ graph [
     botanical_name "Wattakaka volubilis (L.F.) STAPF"
     sanskrit_name "Murva"
     family "Asclepiadaceae"
-    rasa "Is Svadu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 127 Vernacular names found in 8 languages. Hindi (10) - akad bel, akad-bel, harandodi, mund bel, murd bel, murd-bel, nakchhikni, nakchikni, padal bel, padel-bel Kannada (11) - dugdhike, dughdike balli, dughike, haema jaavanthika, hovanada hesale, kaada haale balli, kaadahaale balli, kaadu haale balli, kareghije, karegije, karigichi Malayalam (3) - vattakkakkakkoti, watta-kaka-kodi, wattakaka"
   ]
@@ -2732,8 +2732,8 @@ graph [
     botanical_name "Asparagus filicinus BUCH .-HAM. E D. DON"
     sanskrit_name "Satavari"
     family "Liliaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 4 Vernacular names found in 2 languages. Hindi (3) - chiriya-kanda, sahasimuli, sharanoi Sanskrit (1) - Sanskrit Comments  satavari"
   ]
@@ -2874,8 +2874,8 @@ graph [
     botanical_name "Thespesia lampas (CAV.) DALZ. E DALZ."
     sanskrit_name "Karpasa"
     family "Malvaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 47 Vernacular names found in 7 languages. Hindi (6) - ban kapasi, banka-pasi, bankapasi, jangli bhendi, jangli bhindi, tan-bhendy Kannada (9) - adavibende, dabbe, durbe, kaadu bende, kilankoi, maranu, monalige, turubi, turuve Malayalam (5) - daraba, katparuthi, kattuparatii, kattuparatti, katupuvarasu Marathi (6) - jangli bhenda, jangli-bhendi, janglibhenda, ran-bhendi, ranbhendi, ranbhendy "
   ]
@@ -3262,8 +3262,8 @@ graph [
     botanical_name "Bauhinia malabarica ROB."
     sanskrit_name "Asmantaka"
     family "Caesalpiniaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 72 Vernacular names found in 7 languages. Hindi (6) - amli, amlosa, imli, kachnar karal, kacnnar karal, karal Kannada (19) - basavanapaada, basavanapada, cappara, cheppura, chippuru, holeippe, huliaachalu, kogela, kogele, kogge pukka, kudugulu, mandara, nimbede, nimpidi, nimpuli, pulikogelepukke, pullukoilapukku, sappara, shadhu Malayalam (10) - arampuli, arumpuli, attaillupei, attillupai, k"
   ]
@@ -3286,8 +3286,8 @@ graph [
     botanical_name "Bauhinia racemosa LAM."
     sanskrit_name "Asmantaka"
     family "Caesalpiniaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 125 Vernacular names found in 8 languages. Hindi (24) - ashta, asoda, asundra, asundro, dhorara, ghila, gurial, hatera, jhanjhora, jhinghora, jhinja, jhinjha, jhinjheri, jhira, kachnal, kanchnal, karal, karial, koryale, makkuna, marvil maula, papri, sahata, seta Kannada (39) - aapata, aaptha mara, aaralu, achilu, aishuy, ara, araginda, aralukadumandara, aralumandara, are, arelu, arilumandara"
   ]
@@ -3298,8 +3298,8 @@ graph [
     botanical_name "Bauhinia tomentosa L."
     sanskrit_name "Asmantaka"
     family "Caesalpiniaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 121 Vernacular names found in 7 languages. Hindi (2) - kachnar, kanchana Kannada (17) - aane paada, kaadathi, kaadu mandaara, kaadu mandara, kadarti, kadatti, kallarti, kallatti, karanaapu, karanasupu, karanosupu, katarti, sampage, vana sampage gida, vanasampage, vanasampagegida, vanasampige Malayalam (10) - canschena-pou, canschenapou, chanscheha, kancanappu, kancanapu, kanchanappu, kanchen"
   ]
@@ -3310,8 +3310,8 @@ graph [
     botanical_name "Bauhinia vahlii WIGHT &#38; ARN."
     sanskrit_name "Asmantaka"
     family "Caesalpiniaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 53 Vernacular names found in 7 languages. Hindi (14) - jallaur, jallur, mahul, majaup, malghan, maljan, maljhan, malo, malu, maulein, maurain, taur, tor, tour Kannada (8) - aanepaada, ane-padu, anepadu, anipadu, hepparige, kambihoo, kambihu, kambu Malayalam (1) - mottanvalli Marathi (7) - chambal, chambeli, chambil, chambuli, chambura, charbor, maljan Sanskrit (3) - Sanskrit Comments  asmant"
   ]
@@ -3404,8 +3404,8 @@ graph [
     botanical_name "Bergenia ciliata (HOW.) STERN."
     sanskrit_name ""
     family "Saifragaceae"
-    rasa "Tikta, Kashaya"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 40 Vernacular names found in 7 languages. Hindi (11) - bhed, dakachru, pakhanabheda, pakhanbed, pasan, pathar tor, pathartor, pathor tor, silohora kathbiraji, silpara, silparo Kannada (2) - alelgaya, pashanabhedi Marathi (1) - pashanbheda Sanskrit (19) - Sanskrit Comments  ashmabhedaka, ashmaghna, asmabhedaka, asmabhit, bhimayojini, giribhita, kallurvanci, mohanavalli, nagabhita, pasana upal"
   ]
@@ -3575,8 +3575,8 @@ graph [
     botanical_name "Blepharispermum subsessile DC."
     sanskrit_name "Rasna"
     family "Asteraceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 5 Vernacular names found in 3 languages. Kannada (1) - naama banta Sanskrit (1) - Sanskrit Comments  rasna Telugu (3) - adavi banti, adivibanti, nemabanti"
   ]
@@ -3933,8 +3933,8 @@ graph [
     botanical_name "Bridelia montana WILLD."
     sanskrit_name "Asana"
     family "Euphorbiaceae"
-    rasa "Tikta, Kashaya"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 54 Vernacular names found in 6 languages. Hindi (5) - geia, gondni, kargnalia, khaja, kusi Kannada (12) - bandha, bantha, ganduvikke, goonjun mara, kitto, kittoe, kote, kotte, kottoe, mahaaveera, sidigulige, sidigulu Marathi (1) - asana Sanskrit (2) - Sanskrit Comments  asana, pasanabheda Tamil (2) - mulvengai, vengaimaram Telugu (32) - balli, bigalu, bontavegi, gondu, gundabigula, gundu big"
   ]
@@ -3945,8 +3945,8 @@ graph [
     botanical_name "Bridelia retusa SPR."
     sanskrit_name "Ekavira"
     family "Euphorbiaceae"
-    rasa "Tikta, Kashaya"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 174 Vernacular names found in 7 languages. Hindi (16) - aggniya, ekdania, ekdaniya, gadi kuri, gajh, gauli, gaya, kaj, kajja, kasai, kassi, katti-daman, kattian, khaja, koja, lapano Kannada (48) - aasana, asana, asuna, garige, goje, goji, gojji, gojju, goju, gonje, govige, guju, gunjana, guorji, gurige, gworge, havugandha, huvugandha, kogyamunchi, kogyamunji, komanchi, komanjee, komanji, kov"
   ]
@@ -4029,8 +4029,8 @@ graph [
     botanical_name "Kalanchoe pinnata (LAM.) PERS."
     sanskrit_name ""
     family "Crassulaceae"
-    rasa "Tikta, Kashaya"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 36 Vernacular names found in 8 languages. English (1) - air plant Hindi (4) - bish khapru, jakh me jayat, zakhm-e-hayat, zakhmhaiyat Kannada (7) - gandukaaling, gandukalinga, kaadu basale, kaadubasale, lonnahadakana gida, lonnahadakanagida, naayipatha Malayalam (5) - elamarunga, elamarunna, ilamulacci, ilayinmeltai, murikuti Marathi (3) - ayapanum, panphue, phomthi-panam Sanskrit (4) - Sansk"
   ]
@@ -4390,8 +4390,8 @@ graph [
     botanical_name "Calophyllum inophyllum L."
     sanskrit_name "Nagakesara"
     family "Clusiaceae"
-    rasa "Tikta"
-    virya "Alposna"
+    rasa "Madhura"
+    virya "Sita"
     vipaka "Not specified"
     vernacular_names "Total 149 Vernacular names found in 8 languages. English (5) - alexandrian laurel, borneo mahogany, domba oil, pinnay oil, tongan oil Hindi (8) - sultana-champa, sultanachampa, sultanah-champa, sultanchampa, surpan, surpunika, surpunka, undi Kannada (34) - hona, honne, honne kaayi mara, honnu, hoo home, hoo honne, huhome, huhonne, kallu honne, koove mara, mara, naameru mara, namaeru, nameru, namey"
   ]
@@ -4489,8 +4489,8 @@ graph [
     botanical_name "Cinnamomum camphora (L.) PRESL"
     sanskrit_name "Karpura"
     family "Lauraceae"
-    rasa "Katu, Tikta"
-    virya "Sisira"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 104 Vernacular names found in 10 languages. English (2) - camphor, ho wood Hindi (1) - kapur Kannada (14) - candra, chandara, davala, dhavala, kappara, kapura, karpoora, karpoorada mara, karpura, kumuda, kumuda dhavala, paccakarpura, pachakarpura, tuhina Malayalam (10) - cutakkarpuram, ghanarasam, himamsu, himavaluka, karpooram, karppuravriksham, karppuravryksham, karpuram, sitamsu, subhrams"
   ]
@@ -4600,8 +4600,8 @@ graph [
     botanical_name "Canthium coromandelicum (N.BURM.)"
     sanskrit_name ""
     family "Rubiaceae"
-    rasa "Kashaya, Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 87 Vernacular names found in 7 languages. Hindi (2) - kadbar, kirma Kannada (19) - achchumullu, achhu mullu, balasu, ganduka korla, kaare, kaare gida, kaare mullu, kake, kake-gida, kakkendel, karai, kare, karemullu, kirani, lodhija, mullumusta, ollepode, therane, wollepuda Malayalam (12) - cerukara, cherukara, kandangari, kanden-kara, kandenkara, kandenkhara, kantankara, kara, karamullu, ner"
   ]
@@ -4612,8 +4612,8 @@ graph [
     botanical_name "Canthium dicoccum (GAERTN.) TEIJSM. &#38; BINN. var. dicoccum"
     sanskrit_name ""
     family "Rubiaceae"
-    rasa "Kashaya, Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 41 Vernacular names found in 6 languages. Kannada (22) - ababaln, abalu, abblu, baelaache, bilachi, ellele, gandukakkorala, gandukakkorla, gandukakorle, hanagi gaare, hatharaanike, hattaraanike, hatteranike, heddaraanike, hunnageru, kakkorla, kallurukolu, karu, korla, nalla, oppele, yellal Malayalam (4) - anakombi, irumbarappan, nannul, njanjul Marathi (3) - arsul, tupa, ursul Sanskrit (1) -"
   ]
@@ -4744,8 +4744,8 @@ graph [
     botanical_name "Cardiospermum halicacabum L."
     sanskrit_name "Gunja - visa"
     family "Sapindaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 229 Vernacular names found in 9 languages. English (1) - balloon vine Hindi (11) - bari-chirmi, chirphuta, kakadni, kanphata, kanphote, kanphuta, kanphuti, kanputi, kapal phori, kapalphore-bel, kapalphoti Kannada (31) - agniballi, batte kaayi balli, bekkina budde gida, bekkina thoraduballi, bekkina toddina balli, bekkinatoddinaballi, budda kaarana theege, buddakakaratige, chitaki hambu, eram"
   ]
@@ -4756,8 +4756,8 @@ graph [
     botanical_name "Careya arborea ROB."
     sanskrit_name "Katphala"
     family "Lecythidaceae"
-    rasa "Kashaya"
-    virya "Usna"
+    rasa "Tikta, Katu"
+    virya "Hima"
     vipaka "Not specified"
     vernacular_names "Total 184 Vernacular names found in 8 languages. English (2) - ceylon oak, patana oak Hindi (10) - handabhera, handbahera, kali-katbhi, kamba, khumbi, kumbh, kumbhi, kumbi, kumhi, vakamba Kannada (54) - aalagavvele, alagavala, alagavvele, daddal, daddala, dhaddaala mara, doddaale, doddala, doddalada, ganjal, ganju, garva hannu, gaujala mara, gaul, gaulu mara, gavaale, gavagile, gavala, gavalu hann"
   ]
@@ -4869,9 +4869,9 @@ graph [
     botanical_name "Trachyspermum roxburghianum (DC.) CRAIB"
     sanskrit_name ""
     family "Apiaceae"
-    rasa "Katu"
-    virya "Usna"
-    vipaka "Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 74 Vernacular names found in 6 languages. Hindi (7) - ajmod, ajmot, ajmud, ajmuda, ajowan, radhuni, randhuni Kannada (3) - ajamodhavoma, ajmodavama, voma Malayalam (2) - ayamodakam, homam Sanskrit (4) - Sanskrit Comments  ajamoda, ajamoja, ayamoda, kharasva Tamil (51) - acamata, acamatakam, acamatakavomam, acamatakovomam, acamatam, acamotakam, acamotakam 1, acamotam, acamotam 1, acamtakam, a"
   ]
   node [
@@ -4917,8 +4917,8 @@ graph [
     botanical_name "Casearia elliptica WILLD."
     sanskrit_name ""
     family "Flacourtiaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 67 Vernacular names found in 7 languages. Hindi (8) - chilata, chilla, chillak, goela, gotlu, mojal, monja, pimpla Kannada (11) - bili ubbina, chillaka, hanchey, hanice, haniche, hanise, hillangi, hlingi, kadiche, konje, modagi Malayalam (7) - anakkarana, anavananni, anavinga, annakara, tsjerou-kanneli, vaparkonne, vappunnakannan Marathi (11) - bedsi, bogara, chilla, kal-karai, karei, lainja"
   ]
@@ -4934,8 +4934,8 @@ graph [
     botanical_name "Casearia zeylanica (GAERTN.) RHW."
     sanskrit_name ""
     family "Flacourtiaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 60 Vernacular names found in 6 languages. Kannada (12) - allehaniche, dodda haniche, doddahanice, doddahanise, ekanaathana baeru, ekanaayakana gida, hillange, hillangi, hillechinch, hillehanice, hillehanige, hillehanise Malayalam (11) - cerukannan, cherukannan, malampavata, malampavatta, malampavetta, pannimuranga, pannimurangam, tsjerakanneli, vellakannan, vellakunnam, vellakunnan Marathi ("
   ]
@@ -5112,8 +5112,8 @@ graph [
     botanical_name "Catharanthus roseus (L.) G.DON"
     sanskrit_name ""
     family "Apocynaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 39 Vernacular names found in 8 languages. English (3) - cayenne jasmine, old maid, periwinkle Hindi (2) - sada bahar, sadabahar Kannada (7) - batla hoo, bili kaasi kanigalu, ganeshana hoo, kempu kaasi kanigalu, kempu kaayi kanagilu, sadaa mallige, thuruku mallige Malayalam (4) - banappuvu, nityakalyani, savanari, usamalari Marathi (3) - sadaphool, sadaphul, sadaphuli Sanskrit (4) - Sanskrit "
   ]
@@ -5232,7 +5232,7 @@ graph [
     botanical_name "Celosia cristata L."
     sanskrit_name "Mayurasikha"
     family "Amaranthaceae"
-    rasa "Is Svadu"
+    rasa "Not specified"
     virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 88 Vernacular names found in 9 languages. English (2) - cockscomb, mfungu Hindi (10) - debkoti, kokan, lalmurghka, morashikha, pilamurghka, safed murgha, sarwari, sufaidmurgha, sufed murgha, survari Kannada (8) - anne soppu, hunjada juttu, kanne hoo, karadoo, khadaka thira, kolijuttina gida, maaravaadi hoo, mayura shikhi Malayalam (4) - belutta-adeca-manjen, cerucira, mullancira, tsjeria-bel"
@@ -5244,7 +5244,7 @@ graph [
     botanical_name "Celosia argentea L."
     sanskrit_name "Barhisikha"
     family "Amaranthaceae"
-    rasa "Is Svadu"
+    rasa "Not specified"
     virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 23 Vernacular names found in 7 languages. English (2) - quail grass, the white cocks comb Hindi (8) - gadrya, garke, garkha, imarti, kukari, makhamal, sufed murgha, surli Kannada (4) - anne soppu, hanne soppu, khadakatheera, mayoora shikhe Marathi (2) - kurdu, morachendya Sanskrit (2) - Sanskrit Comments  mayurasikha, rudrajata Tamil (2) - makili-k-kirai, pannai keerai Telugu (3) - gurugu, g"
@@ -5297,9 +5297,9 @@ graph [
     botanical_name "Centella asiatica (L.) URBAN"
     sanskrit_name "Brahmi"
     family "Apiaceae"
-    rasa "Tikta, Madhura"
-    virya "Hima"
-    vipaka "Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 127 Vernacular names found in 10 languages. English (1) - gotu kola Hindi (11) - bemgsag, brahma-manduki, brahmamanduki, brahmi, brahmi buti, brahmi-buti, brahmibuti, khulakhudi, khulakudi, kulakudi, popli Kannada (13) - brahmee soppu, brrahmi soppu, elikivi balli, elikivi soppu, gadde baraga, gadde oraga, ilikivi soppu, ondelaga, saraswathi, soppu, thambooli gida, thambooli soppu, vondelaga"
   ]
   node [
@@ -5386,8 +5386,8 @@ graph [
     botanical_name "Ceriscoides turgida (ROB.) TIRUV."
     sanskrit_name ""
     family "Rubiaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 72 Vernacular names found in 7 languages. Hindi (13) - gangli, ghurga, ghurgia, karamba, khuriari, khurrur, khurur, mhaner, padairi, thanela, thanella, thanera, vangli Kannada (10) - bangeri, bengeri, bona gaare, bonagaare, bone gaare, bongeri, boodugaare, magge, makkarai, makke Malayalam (5) - kharkar, makkara, malakara, malamkarai, malankara Marathi (8) - khurphendra, pendra, pendri, phand"
   ]
@@ -5422,8 +5422,8 @@ graph [
     botanical_name "Piper betle L."
     sanskrit_name "Cavika"
     family "Piperaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 231 Vernacular names found in 10 languages. English (1) - betel pepper Hindi (6) - nagar-bel, nagarbeldo, pan, pan tamboli, pantamboli, tambuli Kannada (30) - ambaadi yele, ambaadiyaele, ambadiyele, baccire, chigurele, cigurele, ele, ele balli, eleballi, elevalli, naaga valli, nagavali, nagavalli, nagawalli, paanu, panu, pattivilye, tambula, veelayada yele gida, veelyadele, vile, vileya, vil"
   ]
@@ -5439,8 +5439,8 @@ graph [
     botanical_name "Piper longum L."
     sanskrit_name "Nagakesara"
     family "Piperaceae"
-    rasa "Tikta"
-    virya "Alposna"
+    rasa "Is Svadu"
+    virya "Sita"
     vipaka "Katu, Svadu"
     vernacular_names "Total 369 Vernacular names found in 10 languages. English (1) - long pepper Hindi (9) - gazpipal, pimpli, pipal, pipal mal, pipar, piplamul, pipli, pipli-mool, pipulmul Kannada (14) - hipli, hippali, hippali balli, hippaliballi, ippali, kuna, kuna balli, modi, thippali balli, tippali, tippall, tippili, yippali, yippilli Malayalam (12) - capala, cattu-tirpali, cattutirpali, chapala, cuttaterpati, k"
   ]
@@ -5492,8 +5492,8 @@ graph [
     botanical_name "Chonemorpha fragrans (MOON) ALSTON"
     sanskrit_name ""
     family "Apocynaceae"
-    rasa "Is Svadu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 9 Vernacular names found in 4 languages. Hindi (1) - moorva Kannada (1) - chandrahoovina balli Malayalam (5) - belutta-kaka-kodi, beluttakakakodi, kakkakkoti, palvalli, veluttakkakkakkoti Sanskrit (2) - Sanskrit Comments  morala, murva"
   ]
@@ -5600,8 +5600,8 @@ graph [
     botanical_name "Cichorium endivia L."
     sanskrit_name "Kasani"
     family "Asteraceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 5 Vernacular names found in 5 languages. English (1) - endive Hindi (1) - kasini Kannada (1) - kaasini gida Sanskrit (1) - Sanskrit Comments  kasani Tamil (1) - kashini"
   ]
@@ -5660,8 +5660,8 @@ graph [
     botanical_name "Cinnamomum aromaticum NEES"
     sanskrit_name ""
     family "Lauraceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 37 Vernacular names found in 10 languages. English (4) - bastard cinnamon, cassia lignea, chinese cinnamon, cinnamomum cassia Hindi (2) - dalchini, daruchini Kannada (2) - dalchini, daruchini Malayalam (1) - lowangapattai Marathi (2) - dalchini, daruchini Sanskrit (9) - Sanskrit Comments  coca, gudatvac, gudatvak, thracham, thwak, tvak, twak, varanga, varangam Tamil (5) - elavangappattai, il"
   ]
@@ -5708,8 +5708,8 @@ graph [
     botanical_name "Cinnamomum verum PRESL"
     sanskrit_name ""
     family "Lauraceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 206 Vernacular names found in 10 languages. English (1) - cinnamon Hindi (10) - dalchini, dalcini, dar-chini, darchini, daruchini, darucini, qalami-dal-chini, qalami-dar-chini, qalamidarchini, qulami-dar-chini Kannada (28) - daalchini, daalchinni chakke, dala-chinni, dalachini, dalacinni, dalchini, dalchinni, dalcini, daruchini, ijin, kaduvudalchini, kaduvudalcini, kankutla, lauanga patte, l"
   ]
@@ -5720,8 +5720,8 @@ graph [
     botanical_name "Cinnamomum wightii C.F.W.MEISSN"
     sanskrit_name "Nagakesara"
     family "Lauraceae"
-    rasa "Tikta"
-    virya "Alposna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 33 Vernacular names found in 5 languages. Kannada (14) - adavilavanga, cuddoolavanga, cuddulavanga, dalacinni, dalchini, eluke, ijin, kaadu daalchini, kaadulavanga, kadudalacini, kadudalchini, kadudalcini, kadulavanga, katkaruva Malayalam (5) - ilavangam, katcarua, katkaruva, katoukarua, kattukaruva Sanskrit (1) - Sanskrit Comments  tejpatra Tamil (3) - cempala, naagakesharam, vettadu Telugu"
   ]
@@ -5965,8 +5965,8 @@ graph [
     botanical_name "Clematis triloba HEYNE"
     sanskrit_name "Murva"
     family "Ranunculaceae"
-    rasa "Is Svadu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 32 Vernacular names found in 5 languages. Hindi (2) - churahar, moravela Kannada (5) - habbu balli, hegguru, morhari, souga valli, tikeke Marathi (5) - moravela, morbel, ranjaayi, ranjai, ranjal Sanskrit (19) - Sanskrit Comments  devashreni, devi, dhanurguna, dhanurmala, dridhasutrika, gokarni, laghukarni, laghuparnika, madhulika, madhurasa, madhushreni, madhusrava, morata, murva, piluparni,"
   ]
@@ -6095,9 +6095,9 @@ graph [
     botanical_name "Coccinia glauca -"
     sanskrit_name "Gojihva"
     family "Cucurbitaceae"
-    rasa "Tikta"
-    virya "Sita"
-    vipaka "Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 2 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  gojihva Tamil (1) - kaucupan"
   ]
   node [
@@ -6424,9 +6424,9 @@ graph [
     botanical_name "Cordia dichotoma FORST. F."
     sanskrit_name "Slesmataka"
     family "Cordiaceae"
-    rasa "Is Svadu"
-    virya "Hima"
-    vipaka "Katu, Madhura, Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 158 Vernacular names found in 9 languages. English (2) - sebesten plum, sudan teak Hindi (14) - bada-goonda, bara-gunda, bara-lasora, bhokar, chokar-gond, chokargond, gondi, gonni, gunda, lasoora, lasora, lasura, lesuwa, lisora Kannada (39) - ada, bankegida, callangayi, calle, cella, challe, challe hannu, chandle, chella, chelle, chikka challe, chikka-salle, chikkasale, chikkasalle, chikkusa"
   ]
   node [
@@ -6465,9 +6465,9 @@ graph [
     botanical_name "Cordia wallichii G.DON"
     sanskrit_name "Slesmataka"
     family "Cordiaceae"
-    rasa "Is Svadu"
-    virya "Hima"
-    vipaka "Katu, Madhura, Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 52 Vernacular names found in 7 languages. Hindi (2) - bairola, buralessura Kannada (7) - chadle, challe, chandle, doddachalle, mannadaki, salle, solle mara Malayalam (4) - naruviri, periyaviri, valiyavanichhi, virimaram Marathi (2) - bhonkar, burgunda Sanskrit (21) - Sanskrit Comments  bahuvaraka, bahuwara, bhutadruma, bhutavriksha, dvijakutsita, gandhapushpa, karbudara, karbudaraka, lekhash"
   ]
   node [
@@ -6530,8 +6530,8 @@ graph [
     botanical_name "Coscinium fenestratum (GAERTN.) COLEB."
     sanskrit_name "Daruharidra"
     family "Menispermaceae"
-    rasa "Tikta, Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 143 Vernacular names found in 9 languages. English (1) - false calumba root Hindi (2) - jhar-haldi, jhar-i-haldi Kannada (11) - arasina balli, dodda maradarishna, doddamaradarasina, doddamaradarisana, marada-arishina, maradaarasina, maradarashina, maradarasina, maradarishina, maramanjal, maramanjali Malayalam (3) - haridram, mara-mannal, maramannal Marathi (3) - bhadi halad, jhade-halade, ve"
   ]
@@ -6725,8 +6725,8 @@ graph [
     botanical_name "Piper cubeba L. F."
     sanskrit_name "Kankola"
     family "Piperaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 129 Vernacular names found in 10 languages. English (2) - cubeb, java pepper Hindi (4) - kabab-chini, kabacini, sheetal-chini, sitalachini Kannada (13) - baala menasu, balamenasu, balmenasu, chinamunchi, cinamnnci, gandha menasu, gandha-menasu, gandhamenasu, gandhamunchi, gandhamunci, kankola, mara menasu, maramenasu Malayalam (7) - cavika, chinimulaku, cinamulagu, ciniamulaku, val-milaku, v"
   ]
@@ -6958,8 +6958,8 @@ graph [
     botanical_name "Cyclea arnotii MIERS."
     sanskrit_name "Patha - jati"
     family "Menispermaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 89 Vernacular names found in 7 languages. Hindi (2) - path, pathi Kannada (6) - haade balli, paadaavala balli, padavaliballi, paduvala balli, phalani, tipale Malayalam (5) - pada-kelengu, patakilannu, patakkilannu, patakkitanu, patavalli Marathi (2) - paadvaela, pahadvel Sanskrit (62) - Sanskrit Comments  akaisika, amari, ambastha, ambasthaki, ananta, anda, anuvallika, asitalata, avidhkarni,"
   ]
@@ -6999,9 +6999,9 @@ graph [
     botanical_name "Cymbopogon schoenanthus (L.) SPRENG"
     sanskrit_name "Rohisa"
     family "Poaceae"
-    rasa "Katu, Tikta"
+    rasa "Not specified"
     virya "Not specified"
-    vipaka "Katu"
+    vipaka "Not specified"
     vernacular_names "Total 56 Vernacular names found in 7 languages. English (1) - canal grass Hindi (10) - bujina, buraro, mirchiagand, musel, palakhari, rohisha, rousaghas, rusaghas, saundhiya, sugani Kannada (2) - geranium hullu, vasanchullu Marathi (5) - rohisha, rosegavat, rosegavath, rushagavat, rushagavath Sanskrit (24) - Sanskrit Comments  bhustrna, bhuti, bhutika, devajagdha, devjagdam, dhupagandhika, dhyama,"
   ]
   node [
@@ -7393,8 +7393,8 @@ graph [
     botanical_name "Delphinium semibarbatum BLENERT E BOISS."
     sanskrit_name ""
     family "Ranunculaceae"
-    rasa "Katu, Kashaya"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 9 Vernacular names found in 5 languages. English (1) - zalil Hindi (1) - asbarg Sanskrit (2) - Sanskrit Comments  sprkka, trayamana Tibetan (2) - ni-rma-lya, spri-kka Urdu (3) - gul ghofis, tukhm ghafis, usara-i-ghafts"
   ]
@@ -7607,8 +7607,8 @@ graph [
     botanical_name "Dillenia pentagyna ROB."
     sanskrit_name "Aksikiphala"
     family "Dilleniaceae"
-    rasa "Tikta"
-    virya "Alposna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 88 Vernacular names found in 7 languages. Hindi (3) - aggai, kallai, karmal Kannada (37) - kaadu kanigala, kaadu kanigalu, kaadukanagilu, kadkanagalu, kadkanigila, kadkanyila, kaduganigila, kadukanigala, kanagala, kanagale, kanagalu, kanagulu, kangal, kanigala, karambala, karmal, kolategu, koltega, koltegu, kolthaega, kolthega, koolateegu, kultega, machil, mada thega, madathaega, malegeru, m"
   ]
@@ -7708,8 +7708,8 @@ graph [
     botanical_name "Dioscorea pentaphylla L."
     sanskrit_name "Vidari"
     family "Dioscoreaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 67 Vernacular names found in 7 languages. Hindi (13) - bhusa, bursa, dregal, gajaria, kada kanda, kanta alu, kantaalu, phal alu, phalu alu, ratalu, tena, teona, teoni Kannada (3) - adavigummathiga, kaadu gumbala, kaadugumbala Malayalam (14) - kattunurankilannu, kattunurankizhannu, kattunurunnakilannu, katu-nuren-kelengu, nuraigenassu, nuraikaju, nurankilangu, nurankilannu, nurankizhannu, nur"
   ]
@@ -7761,8 +7761,8 @@ graph [
     botanical_name "Diospyros exsculpta BUCH.-HAM."
     sanskrit_name ""
     family "Ebenaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 40 Vernacular names found in 6 languages. Hindi (3) - kinu, tendu, tumal Kannada (9) - banda-damara, bandadamra, kimburini, thoosra, thumari, thumri, timburani, tindura, tumari Sanskrit (5) - Sanskrit Comments  kakatinduka, kakinduka, tinduka, tinduki, virala Tamil (10) - chilta-tumiki, kakatintu, kulakam1, thumbai, tintikam, tintukam1, tintukanka1, tintukim2, tumpai, tumpi Telugu (12) - chi"
   ]
@@ -7785,8 +7785,8 @@ graph [
     botanical_name "Diospyros peregrina (GAERTN.) GURKE."
     sanskrit_name "Tinduka"
     family "Ebenaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 186 Vernacular names found in 8 languages. English (1) - gaub tree Hindi (11) - gab, gabh, gaub, kala tendu, kala-tendu, kalatendu, make-tendu, makurkendi, taindu, tedu, tendu Kannada (50) - antena, antina, antina mara, banda, bandada, bandada mara, bandadamara, bantha, bhanda, buntha, gavandu, guvandu, hagna, haine, higa, hige, hige bandha, higebanda, higebantha, higebuntha, hole thumri, ho"
   ]
@@ -7797,8 +7797,8 @@ graph [
     botanical_name "Diospyros melanoxylon ROB."
     sanskrit_name "Tinduka"
     family "Ebenaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 125 Vernacular names found in 7 languages. Hindi (11) - abnus, biri-patta, kendu, makartendua, temru, tenda, tendu, tendu-patta, timbarana, timbarna, timru Kannada (30) - abanaashi, abanasi, aenne, aennemara, annathammana mara, balai, bale, bansampa, beediyele mara, bilara, billaaradamara, challaane, chirathinjali, dhuma, duparasu, gandu anne mara, googe, googe mara, guggala, kallapaini, kar"
   ]
@@ -7975,8 +7975,8 @@ graph [
     botanical_name "Dryobalanops aromatica GAERTN. F."
     sanskrit_name "Karpura"
     family "Dipterocarpaceae"
-    rasa "Katu, Tikta"
-    virya "Sisira"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 13 Vernacular names found in 5 languages. English (8) - baros, baros camphor, barus, barus camphor, borneo, borneo camphor, kapur, sumatra camphor Hindi (2) - bhimseni kapoor, himamaluka Marathi (1) - bhimseni kapoor Sanskrit (1) - Sanskrit Comments  bhimasenakarpoora Tamil (1) - paccai-k-karpuram"
   ]
@@ -7987,8 +7987,8 @@ graph [
     botanical_name "Drypetes zeylanica (MUELL.-ARG.) HURUSAWA"
     sanskrit_name ""
     family "Euphorbiaceae"
-    rasa "Katu"
-    virya "Hima"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  putranjivaka"
   ]
@@ -8047,8 +8047,8 @@ graph [
     botanical_name "Eclipta prostrata (L.) L."
     sanskrit_name ""
     family "Asteraceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 286 Vernacular names found in 10 languages. English (1) - eclipta Hindi (14) - babri, bhagra, bhamgra, bhangra, bhangri, bhangro, bhangru, bharangraj, bhrangraj, bungrah mochrand, jal-bhangro, jalmagra, mocakand, mochkand Kannada (20) - ajaagara, ajagara, bara-garagada-gida, bhringaraja, garagada-sappu, garagadasappu, garagalu, garga, garuga, garugada soppu, garugalu, garung, garunga, kaadig"
   ]
@@ -8146,9 +8146,9 @@ graph [
     botanical_name "Elephantopus scaber L."
     sanskrit_name "Barhisikha"
     family "Asteraceae"
-    rasa "Tikta"
-    virya "Sita"
-    vipaka "Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 76 Vernacular names found in 7 languages. Hindi (2) - adhomukha, gobhi Kannada (14) - aane gida, aane kaalu gida, aanekaalu gida, aetthina naalige gida, gojihwa, hakkarike, hastipaada, naayi naalige gida, naayi nalige gida, nelaganagalu, nelamucchala, nelamucchilu, yetthina naalige gida, yulu naalige Malayalam (3) - ana-schovadi, anaccuvati, anayatiyan Marathi (5) - gayjib, gojeebh, hasthipa"
   ]
   node [
@@ -8283,7 +8283,7 @@ graph [
     botanical_name "Ephedra gerardiana WALL."
     sanskrit_name "Soma"
     family "Ephedraceae"
-    rasa "Katu, Tikta"
+    rasa "Not specified"
     virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 28 Vernacular names found in 6 languages. Hindi (9) - ain, janusar, khanda, khanta, kharna, kunawar, somlata, torgatha, tutgautha Kannada (4) - janusar, khanda, kharna, kunawar Malayalam (4) - janusar, khanda, kharna, kunawar Sanskrit (3) - Sanskrit Comments  saumya, som, soma Tamil (4) - janusar, khanda, kharna, kunawar Telugu (4) - janusar, khanda, kharan, kunawar"
@@ -8372,8 +8372,8 @@ graph [
     botanical_name "Erythrina variegata L."
     sanskrit_name "Paribhadra"
     family "Fabaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 242 Vernacular names found in 8 languages. Hindi (12) - dadap, farad, mandar, mandara, pamkara, pangara, pangra, panjira, pharad, pharhad, rakta madar, raktamadar Kannada (47) - bilee vaarjipe, bilivarijapa, bilivarjaya, haarivaana, halivana, halivara, hangara, hangaraka, hngaraka, holivara, hongaara, hongara, hongaraka, karakalli, kempuvarijapa, kempuvarippe, mandara, mullumarige, mullumuri"
   ]
@@ -8396,8 +8396,8 @@ graph [
     botanical_name "Erythrina variegata L. var. orientalis MERR."
     sanskrit_name ""
     family "Fabaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 40 Vernacular names found in 6 languages. Hindi (3) - dhobi-palas, jangli-sem, palas Kannada (11) - bili vaarjipae, haalivaana, haaravaana, haaru vaana, hongara, hongarike, kempu vaari jaapa, mandaara, mullu murige, murige, muruku Malayalam (1) - murikku Marathi (5) - mandar, paangaara, pangara, pangaru, phandra Sanskrit (4) - Sanskrit Comments  paribhadra, paribhadrah, parijata, raktapuspa "
   ]
@@ -8449,7 +8449,7 @@ graph [
     botanical_name "Syzygium jambos (L.) ALSTON"
     sanskrit_name "Jambu"
     family "Myrtaceae"
-    rasa "Amla"
+    rasa "Not specified"
     virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 89 Vernacular names found in 9 languages. English (2) - jambu, rose apple Hindi (5) - gulab-jamun, gulabjaman, gulabjamun, jamun, sn jambu Kannada (20) - dodda seeme nerale, jaamba, jama, jamba, jambaneradi, jambooneralu, jambu, jambu nerale, jambunerale, jambuneralu, jambunerolu, malle-nerale, mallenerale, nerale sevu, pannaeralu, panneer hannu, pannerale, pannerali, pennerale, punnerl Mala"
@@ -8461,7 +8461,7 @@ graph [
     botanical_name "Syzygium cerasoides (ROB.) CHATT. &#38; KANJI"
     sanskrit_name ""
     family "Myrtaceae"
-    rasa "Amla"
+    rasa "Not specified"
     virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 20 Vernacular names found in 4 languages. Hindi (8) - dugdugia, jamava, jamawa, paiman, piaman, rai-jaman, raijaman, thuti Malayalam (2) - naral, nyara Sanskrit (9) - Sanskrit Comments  bhramareshta, bhringavallabha, bhumijambu, jalajambuka, kashtajambu, pikabhaksha, rhasva, rhasvaphala, sukshmapatra Tamil (1) - naral"
@@ -8569,8 +8569,8 @@ graph [
     botanical_name "Euphorbia antiquorum L."
     sanskrit_name "Snuhi"
     family "Euphorbiaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 221 Vernacular names found in 8 languages. Hindi (7) - sehund, tidhara, tidhara-schnd, tidhara-sehna, tidhara-sehnel, tidhara-sehnr, tidhara-sehud Kannada (29) - bontakalli, bonte kalli, bontegalli, bontekalli, bonthe kalli, bonthekalli, cadarakalli, caturakalli, chadara kalli, chadaragalli, chandara galli, chathura kalli, chaturagalli, daare kalli, darekalli, jade kalli, jadegalli, jadekall"
   ]
@@ -8617,8 +8617,8 @@ graph [
     botanical_name "Euphorbia neriifolia L."
     sanskrit_name "Snuhi"
     family "Euphorbiaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 144 Vernacular names found in 9 languages. Hindi (10) - danda thuar, danda-thor, gangi-chhu, patton-ke-send, patton-ki-send, pattonkisend, sehund, sij, thohar, thuar Kannada (11) - aelaegalli, dundukalli, elegalli, elekalli, gootagalli, ilaikalli, irekalli, mundagalli, yalekalli, yellegulla, yellikalli Malayalam (5) - elakkalli, ilaikalli, ilakalli, ilakkalli, kalli Marathi (10) - kaantethos"
   ]
@@ -8653,8 +8653,8 @@ graph [
     botanical_name "Euphorbia nivulia BUCH.-HAM."
     sanskrit_name "Adhoguda"
     family "Euphorbiaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 113 Vernacular names found in 7 languages. Hindi (9) - ghota thor, ghotathor, katathohar, sehund, senhur, sij, thor, thuhar, thura Kannada (20) - belakalli, dabba kalli, dabha galli, debbe galli, dubbakalli, dundugalli, dundukalli, dundukalli elegalli, elegalli, elekalli, goota kalli, gootagalli, gutagalli, gutakalli, irekalli, mabba kalli, motataria, yellakalli, yelli-kalli, yellikalli Mala"
   ]
@@ -8665,8 +8665,8 @@ graph [
     botanical_name "Euphorbia pilosa L."
     sanskrit_name "Kankustha"
     family "Euphorbiaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 12 Vernacular names found in 2 languages. Hindi (3) - chopalo, chounpalu, chuplya Sanskrit (9) - Sanskrit Comments  bahapenarasa, carmakara, carmashva, copalo, kankusta, saptala, saptalika, satala, tiktala"
   ]
@@ -8677,8 +8677,8 @@ graph [
     botanical_name "Euphorbia royleana BOISS."
     sanskrit_name "Saptala"
     family "Euphorbiaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 20 Vernacular names found in 3 languages. Hindi (10) - chhun, danda thor, senhur, shakar pitan, shakarpitan, shuru, sulla, surai, suru, thor Sanskrit (9) - Sanskrit Comments  nanda, nisrinsapatra, saptala, snuhi, snuk, sudha, thuhara, vajra, vajravrksa Urdu (1) - thuhar"
   ]
@@ -8713,8 +8713,8 @@ graph [
     botanical_name "Euphorbia tirucalli L."
     sanskrit_name "Saptala"
     family "Euphorbiaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 132 Vernacular names found in 8 languages. English (1) - tirucalli rubber Hindi (16) - angli thor, anglithor, barki-sehund, barki-thohar, gangli-thor, konpahlsehnd, konpal, konpal-sehnd, sehnd, sehnr, sehud, sehund, sendh, shirthohar, sindh, thohra Kannada (32) - bonta-kalli, bontakalli, bontekalli, bottu kalli, bottugalli, jiggalli, jiggu kalli, kadunevali, kalli, kodekalli, kodu galli, kod"
   ]
@@ -8737,8 +8737,8 @@ graph [
     botanical_name "Euphorbia trigona HAW."
     sanskrit_name "Snuhi"
     family "Euphorbiaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 24 Vernacular names found in 4 languages. Kannada (1) - mandagalli Sanskrit (8) - Sanskrit Comments  nanda, nisrnsapatra, snuhi, snuk, sudha, tidharasehundabheda, vajra, vajravrksa Tamil (8) - kalli6, kattimantu, mandangalli, mantankalli, mantankalli@, muntukalli#, muntukalli@, palkalli Telugu (7) - cattimandoo, cattimandu, kathimandu, kattimandu, kundigi, mudumula-jemudu, mudumulajemudu"
   ]
@@ -8855,8 +8855,8 @@ graph [
     botanical_name "Fagopyrum tataricum (L.) GAERTN."
     sanskrit_name "Udumbara"
     family "Polygonaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 7 Vernacular names found in 3 languages. English (3) - kangra buckwheat, siberian buckwheat, tartary buckwheat Hindi (3) - kaspat, phapara, phaphar Sanskrit (1) - Sanskrit Comments  ukhala"
   ]
@@ -8915,8 +8915,8 @@ graph [
     botanical_name "Ferula galbaniflua BOISS. &#38; BUHSE."
     sanskrit_name "Hingu"
     family "Apiaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 11 Vernacular names found in 4 languages. English (1) - galbanum Hindi (3) - barijagonda, gandhabiroza, gandhaburoja Sanskrit (4) - Sanskrit Comments  gaoshira, gavasira, javashira, javasira Urdu (3) - jaosheer, jaoshir, jausheer"
   ]
@@ -9107,8 +9107,8 @@ graph [
     botanical_name "Ficus heterophylla L. F."
     sanskrit_name "Trayamana"
     family "Moraceae"
-    rasa "Katu, Kashaya"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 22 Vernacular names found in 6 languages. Kannada (6) - adavi bende, adavibende, balli atthi, bili athi, bili atthi, dhidyarobhindaro Malayalam (3) - valli-teregam, valliteregam, vallitterakam Marathi (2) - datir, kharavamti-vel Sanskrit (3) - Sanskrit Comments  trayamana, trayamani, trayantika Tamil (6) - avanam, buroni, kattatarikam, kodi-atthi, kodiyatti, kotiyatti Telugu (2) - buroni, ku"
   ]
@@ -9179,8 +9179,8 @@ graph [
     botanical_name "Ficus religiosa L."
     sanskrit_name "Asmantaka"
     family "Moraceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Madhura, Kashaya"
+    virya "Sitala"
     vipaka "Not specified"
     vernacular_names "Total 408 Vernacular names found in 10 languages. English (4) - bo-tree, peepul, pipal, pipul Hindi (13) - asvattha, peepal, peepla, peepli, peeplo, pimpal, pimpli, pipal, pipal (cultivated), pipar, pipli, pippal, pripal Kannada (43) - agaki, alli, aniki, arali, arali mara, aralimara, aralli, aralu, aramimara, arani, arase, arase mara, arayaalu, arayalu, arli, aroli, ashvathamara, ashwatha, ashwat"
   ]
@@ -9239,8 +9239,8 @@ graph [
     botanical_name "Flacourtia jangomas (LOUR.) RAEUSCH."
     sanskrit_name "Pracinamalaka"
     family "Flacourtiaceae"
-    rasa "Tikta, Madhura"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 140 Vernacular names found in 8 languages. Hindi (15) - barahmi, jamuna, pachnala, paniala, paniamalak, paniamla, paniamlak, paniaunvola, paniyala, paniyamalak, talis-patri, talisapatri, talispatar, talispatri, tallispatar Kannada (17) - cancali, caricali, chanchali, chanchali mara, chankali, charichaii, charichali, goragi, goraji, hulumanikc, kirinelli, koraji, shamper, tahspatram, talisa-p"
   ]
@@ -9376,8 +9376,8 @@ graph [
     botanical_name "Fumaria vaillantii LOISEL"
     sanskrit_name "Parpata"
     family "Fumariaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 52 Vernacular names found in 8 languages. Hindi (7) - papara, pit papra, pithpaparo, pitpapada, pitpapara, pitpapra, shahatra Malayalam (1) - parpatakam Marathi (1) - pitpapda Sanskrit (25) - Sanskrit Comments  araka, charaka, kalapanga, katupatra, kavachanamaka, krishnashakha, ksheparpata, nakra, panshu, panshuparyaya, parpata, parpataka, parpatakah, parpati, pittari, pragandha, renu, shita"
   ]
@@ -9388,8 +9388,8 @@ graph [
     botanical_name "Fumaria officinalis L."
     sanskrit_name "Parpata"
     family "Fumariaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 20 Vernacular names found in 6 languages. English (4) - earth-smoke, fumitory, hedge fumitory, wax dolls Hindi (2) - pit-papara, pitpapara Sanskrit (3) - Sanskrit Comments  khsetra parpati, parpatah, yavanaparpata Tamil (2) - tura, turu Telugu (1) - chata-rashi Urdu (8) - pitpapda, pitpapra, shahtara, shahtarah, shahtaruh, shahtava, shahterah, tukhm shahtarah"
   ]
@@ -9436,8 +9436,8 @@ graph [
     botanical_name "Garcinia cowa ROB. E  DC."
     sanskrit_name "Kosamra"
     family "Clusiaceae"
-    rasa "Amla"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 3 Vernacular names found in 1 languages. Sanskrit (3) - Sanskrit Comments  dvipaja, dvipakharjuri, paravata"
   ]
@@ -9472,7 +9472,7 @@ graph [
     botanical_name "Garcinia morella (GAERTN.) DESR."
     sanskrit_name "Kankustha"
     family "Clusiaceae"
-    rasa "Tikta"
+    rasa "Madhura"
     virya "Usna"
     vipaka "Not specified"
     vernacular_names "Total 119 Vernacular names found in 8 languages. Hindi (3) - gotaghanba, tamal, tamel Kannada (44) - aradaala, aradala, arandaal, arandal, arasinagurge, arasinagurse, ardala, aridaala, arishina gurige, arisina gurgi, arsinagurgi, daevanahuli, devana huli, devanahuli, haralaangushta, haralam gushta, hardala, jaarige, jaarige huli, jarige, jarigehuli, jarigepuli, jarize, jirigehuli, kaanabheerunda, "
@@ -9568,8 +9568,8 @@ graph [
     botanical_name "Gardenia resinifera ROTH."
     sanskrit_name ""
     family "Rubiaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 68 Vernacular names found in 6 languages. Hindi (3) - dekamari, dikamali, dikmali Kannada (13) - aeribikke, bikke, bikke maena, bikke, dikkamalli, birki, bukki, dikkaamali, dikkamaali, dikkamalli, kallarige, kumbe, kunte, naadihingu Marathi (4) - dekamari, dikaamaali, dikamali, nanamat Sanskrit (14) - Sanskrit Comments  hingu, hingunadika, hingusivatika, jantuka, nadhihingu, nadihingu, palas"
   ]
@@ -9621,8 +9621,8 @@ graph [
     botanical_name "Swertia chirayita ROB. E  (FLEMING) KARST."
     sanskrit_name "Kirata"
     family "Gentianaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 87 Vernacular names found in 9 languages. Hindi (8) - charaita, charayatah, chiraitu, chirata, chirayata, cirayata, kiryat-charayatah, nepalinim Kannada (4) - chiraayitha, kiraatha kaddi, nela baevu, nelabevu Malayalam (4) - kiriyatta, kiriyattu, nilaveppa, uttarakiriyattu Marathi (5) - charayatah, chiraayitha, chirayita, kaade kiraaith, kiraaith Sanskrit (35) - Sanskrit Comments  anaryatikt"
   ]
@@ -9645,8 +9645,8 @@ graph [
     botanical_name "Gentiana olivieri GRISEB."
     sanskrit_name "Trayamana"
     family "Gentianaceae"
-    rasa "Katu, Kashaya"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  trayamana"
   ]
@@ -9703,8 +9703,8 @@ graph [
     botanical_name "Gloriosa superba L."
     sanskrit_name "Langalaka"
     family "Liliaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 248 Vernacular names found in 10 languages. English (3) - climbing lily, flame lily, glory lily Hindi (18) - bachnag, carrihari, kalhar, kaligari, kalihari, kalihari sans.n. langalie, kariari, karihari, karkari, karlari, kathari, kulhari, lakya, lalukhri, langali, langli, langlya, languli Kannada (41) - aghni shikhe, aginsikhe, agni sikhe, agnisikhe, akka thangi balli, akkatangaballi, balipa"
   ]
@@ -9828,8 +9828,8 @@ graph [
     botanical_name "Gossypium arboreum L."
     sanskrit_name "Karpasa"
     family "Malvaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 150 Vernacular names found in 9 languages. English (1) - tree cotton Hindi (8) - deokapas, diyokapas, kapas, kapas-ka-per, kapaska-per, nurma, nutma, rui Kannada (15) - anji, bangaali hathhi, daevakapaas, hanji, hatti, hatti-gida, jade-hatti-gida, jadehatthi, karee hatthi, kari hatthi, karibatthi, karihatti, karunganni hatthi, kirungani, marahatthi Malayalam (8) - cemparutti, chemparutti, cu"
   ]
@@ -9840,8 +9840,8 @@ graph [
     botanical_name "Gossypium barbadense L."
     sanskrit_name "Karpasa"
     family "Malvaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 39 Vernacular names found in 8 languages. English (2) - peru cotton, sea island cotton Hindi (2) - kapas, kapas-ka-per Kannada (7) - eejipt daeshada hatthi, jade hatthi, kari beejada hatthi, kariatti, karihatthi, karihatti, vilayatihatti Malayalam (2) - cemparutti, chemparutti Marathi (1) - devakaa poosa Sanskrit (5) - Sanskrit Comments  karpasa, karpasa-vrikshaha, karpasaha, maghani, purvam"
   ]
@@ -9912,8 +9912,8 @@ graph [
     botanical_name "Grewia optiva DRUMMOND"
     sanskrit_name "Dhanvana"
     family "Tiliaceae"
-    rasa "Madhura, Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 11 Vernacular names found in 2 languages. Hindi (9) - beul, beulang, bhimal, bhiunal, bihul, biul, dhaman, dhaman/beul, dhamman Sanskrit (2) - Sanskrit Comments  dhanvanah, todana"
   ]
@@ -10044,9 +10044,9 @@ graph [
     botanical_name "Gynocardia odorata R.BR."
     sanskrit_name "Tuvara"
     family "Flacourtiaceae"
-    rasa "Tikta"
-    virya "Usna"
-    vipaka "Tikta"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 11 Vernacular names found in 3 languages. Hindi (6) - chal-mogre-ke-binj, chaulmogra, chaulmugra, chhalmugra, chkal-mogre-ke-binj, choulmungri Kannada (1) - surantaeil Sanskrit (4) - Sanskrit Comments  alasakapaha, kushthapa, sagarodbhuta, tuvaraka"
   ]
   node [
@@ -10188,8 +10188,8 @@ graph [
     botanical_name "Hedyotis corymbosa (L.) LAM."
     sanskrit_name ""
     family "Rubiaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 35 Vernacular names found in 7 languages. Hindi (4) - daman pappar, daman-paper, damanpapar, pitpapra Kannada (6) - hutcchu nelabevu, kallasabatrasige, kallu sabbasige, kallu sabseege, kshaethra parpaata, parpata hullu Malayalam (4) - parpadagam, parpatakam, parppatakam, parppatakappullu Marathi (6) - papti, paripaata, parpat, parpato, phapti, poripath Sanskrit (7) - Sanskrit Comments  ksetr"
   ]
@@ -10260,8 +10260,8 @@ graph [
     botanical_name "Pueraria tuberosa (ROB. E. WILLD.) DC."
     sanskrit_name "Vidari"
     family "Fabaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 83 Vernacular names found in 9 languages. Hindi (19) - badar, bidarikand, bilaikand, dhodhala, ghora-bel, ghorvela, godra, gor-bel, gudbel, salod, salorh, saral, sarul, siralu, sirola, slod, surai, sural, vidarikand Kannada (7) - bhoochakra gedde, bhoosakkare gedde, bidrerakanda, dari, gumadi gida, gummadi balli, gummadi gida Malayalam (2) - mutukku, palmutukku Marathi (7) - badra, bharda, b"
   ]
@@ -10308,8 +10308,8 @@ graph [
     botanical_name "Helicteres isora L. var. glabrescens"
     sanskrit_name ""
     family "Sterculiaceae"
-    rasa "Is Svadu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  avarttani"
   ]
@@ -10469,8 +10469,8 @@ graph [
     botanical_name "Holarrhena pubescens (BUCH.-HAM.) WALLICH E DO"
     sanskrit_name ""
     family "Apocynaceae"
-    rasa "Tikta"
-    virya "Sitala"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 339 Vernacular names found in 10 languages. English (4) - conessi, kumbanzo, kurchi bark, tellichery bark Hindi (33) - akariya, dhudi hat, dudhie, dundi, inderajo, kad ankadiya, kad-ankadiya, kadwa, kara, karchi, kari, karra, karva-indarjou, karvaindarjau, kaura, kaureya, keor, kero, kod, koorwa, kora, kuar, kuda, kura, kurci, kureya, kuri, kurwa, kutaja, major phali, marod phali, maror phal"
   ]
@@ -10505,8 +10505,8 @@ graph [
     botanical_name "Homonoia riparia LOUR."
     sanskrit_name "Pasanabheda"
     family "Euphorbiaceae"
-    rasa "Tikta, Kashaya"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 67 Vernacular names found in 7 languages. Hindi (2) - jalbent, serni Kannada (16) - abbe koralu, hole mekki, hole nage, hole nekki, holemekki, holenage, holenekki, kiral bogi, kshudra paashaana bhedi, neela kanagilu, neerganigile, neernekki, neeru ganigale, niraganugulu, nirganagile, sannapasanabheda Malayalam (14) - attuvanni, kallurvanci, katallari, katalluri, kattalari, kattalluree, kullu"
   ]
@@ -10587,9 +10587,9 @@ graph [
     botanical_name "Hydnocarpus kurzii (KING) WARB."
     sanskrit_name "Tuvara"
     family "Flacourtiaceae"
-    rasa "Tikta"
-    virya "Usna"
-    vipaka "Tikta"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 11 Vernacular names found in 4 languages. English (1) - chaulmoogra oil Hindi (1) - chaulmoogra Sanskrit (1) - Sanskrit Comments  tuvaraka Tamil (8) - maravetti, neeradi muththu, niradimutu, nirati, nirati muttu, niratimuttu, niretti muttu, nirvetti muttu"
   ]
   node [
@@ -10693,8 +10693,8 @@ graph [
     botanical_name "Ichnocarpus frutescens R.BR."
     sanskrit_name "Gopavalli"
     family "Apocynaceae"
-    rasa "Madhura"
-    virya "Rasa"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 128 Vernacular names found in 8 languages. Hindi (14) - bakarbel, bakkar bel, bakkar-bel, bakkarbel, dhimar-bel, dudhi, dudhilata, kali doodhli, kali dudhi, kali-doodhli, kali-dudhi, kalidudhi, siama-lota, siamalata Kannada (23) - chidara-lanbilu, chidaralanbilu, gopi, gorwiballi, gouriballi, gowri balli, gowriballi, haalu genasu, haalugenasu, kappunamadaberu, karampa, kare anantha moola, ka"
   ]
@@ -10722,8 +10722,8 @@ graph [
     botanical_name "Imperata cylindrica (L.) RAEUSCH."
     sanskrit_name "Darbha"
     family "Poaceae"
-    rasa "Kashaya"
-    virya "Hima"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 33 Vernacular names found in 7 languages. English (5) - alang-alang, cogon grass, cotton grass, lalang, thatch grass Hindi (6) - dab, dabh, kans, rasni-dab, sauraun, ulu Kannada (5) - neeru brahmi, neeru hatthi hullu, sanna dabbe hullu, sannadabbaihullu, sannadabbehullu Malayalam (4) - darbha, darbhappullu, kodi-pullu, vidulam Sanskrit (4) - Sanskrit Comments  balbajamu, barhissu, darbha, da"
   ]
@@ -10866,8 +10866,8 @@ graph [
     botanical_name "Inula racemosa HOOK. F."
     sanskrit_name "Puskaramula"
     family "Asteraceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 30 Vernacular names found in 8 languages. Hindi (2) - pohakarmul, puskarmul Kannada (1) - rasnabheda Malayalam (2) - puskaramulam, puskkaramulam Marathi (1) - pushakar Sanskrit (16) - Sanskrit Comments  kasmira, kusthabheda, padmapatra, pauskara, pauskaram, pauskaramula, pushkaramula, pushkaramulaka, puskara, puskarahva, puskarajajata, puskarajata, puskarakhya, puskaram, puskaramula, rasna T"
   ]
@@ -10914,8 +10914,8 @@ graph [
     botanical_name "Ipomoea pes-caprae (L,) R.BR."
     sanskrit_name "Chagalantri"
     family "Convolvulaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 109 Vernacular names found in 8 languages. Hindi (2) - dopateluta, dopatilata Kannada (14) - aadambu, aadu balli, aaduballi, adambuballi, adumbaballi, adumbu balli, adumbuburu, bangada balli, bangadaballi, bangadivalli, kempu bangada balli, kempubangadaballi, kempubangaduballi, maralu balli Malayalam (10) - aatambu, atampa, atampu, atampuvalli, chuvannatambu, chuvannatampu, cukannaatampu, cu"
   ]
@@ -11178,8 +11178,8 @@ graph [
     botanical_name "Jasminum bignoniaceum WALL. E. G. DON"
     sanskrit_name ""
     family "Oleaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 82 Vernacular names found in 9 languages. English (2) - italian jasmine, yellow jasmine Hindi (15) - ban chameli, ban malti, chambeli, chameli, kurang, malti, malto, peetmalati, pila-chambeli, pili chameli, pitmalti, shonjoi, sohzard, sune, surmarhi Kannada (5) - haladi mallige, hasarumallige, hasiru mallige, hasirumallige, swarna mallige Malayalam (4) - kattumulla, pita, ponmallika, punmull"
   ]
@@ -11286,9 +11286,9 @@ graph [
     botanical_name "Jatropha glandulifera ROB."
     sanskrit_name "Danti"
     family "Euphorbiaceae"
-    rasa "Katu"
-    virya "Usna"
-    vipaka "Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 71 Vernacular names found in 7 languages. Hindi (4) - jangli-erandi, janglierandi, lal-bhranda, undarbibi Kannada (7) - kadi, kari thuraka haralu, kariturukahalugida, seeme haralu, totla, totlagida, totta Malayalam (3) - atala, katalavanakku, nakadanti Marathi (5) - jangli-erandi, jangliarandi, ran-erandi, ranaerandi, underbibi Sanskrit (11) - Sanskrit Comments  akhukarnika, citra, dravanthi"
   ]
   node [
@@ -11363,8 +11363,8 @@ graph [
     botanical_name "Juniperus polycarpos C. KOCH."
     sanskrit_name ""
     family "Cupressaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 7 Vernacular names found in 2 languages. Hindi (6) - bhutal, dhup, guggal, shupa, shupe, shur Sanskrit (1) - Sanskrit Comments  hapusa"
   ]
@@ -11445,8 +11445,8 @@ graph [
     botanical_name "Justicia procumbens L."
     sanskrit_name "Parpata"
     family "Acanthaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 72 Vernacular names found in 7 languages. Hindi (2) - kagner, makhania ghas Kannada (3) - huchhu nelabaevu, nela bevu, nucchu nelabevu Malayalam (1) - tsjeru-tardavel Marathi (2) - ghati-pittapapada, ghatipithpapra Sanskrit (5) - Sanskrit Comments  kavacanamaka, pansuparyaya, parpata, renu, varatikta Tamil (58) - ampalakkotakam, aracalai, aram 3, cailakotacalai, cailakotakam, calai 2, calaip"
   ]
@@ -11457,8 +11457,8 @@ graph [
     botanical_name "Rungia repens (L.) NEES"
     sanskrit_name "Parpata"
     family "Acanthaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 20 Vernacular names found in 6 languages. Hindi (2) - kharmar, kharmor Kannada (2) - kodaga saale gida, kodagasaale gida Marathi (1) - ghatipitpapada Sanskrit (2) - Sanskrit Comments  parpata, parpatha Tamil (12) - cataikkaranti, cayacutani, karuroman, kodaga saleh, kodagasalai, kodagasaleh, kotacari, kotaculi, kotacuri, kotacuri 2, kotakacalai, maram Telugu (1) - palakavelli"
   ]
@@ -11916,8 +11916,8 @@ graph [
     botanical_name "Phyla nodiflora (L.) GREENE"
     sanskrit_name ""
     family "Verbenaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 94 Vernacular names found in 8 languages. Hindi (9) - bakkan, bhu-kokra, bhuiokra, chota-okra, jal - butti, jal pipali, jalapapili, jalpapli, ludra Kannada (8) - jala pippali, kere hippali, neela hippali, neeru hippali, neeru pippali, nela hippali, nela-hippali, nelahippali Malayalam (4) - ana-coluppa, kattuttippali, katu-tippali, nirtippali Marathi (6) - adali, jalapimpali, ratalio, ratolia"
   ]
@@ -12046,8 +12046,8 @@ graph [
     botanical_name "Luffa acutangula ROB. var. amara (ROB.) CL."
     sanskrit_name ""
     family "Cucurbitaceae"
-    rasa "Katu"
-    virya "Sisira"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 84 Vernacular names found in 7 languages. Hindi (7) - jhimani, karvi-turai, karvi-turi, karvitarui, karvituri, rantorai, sankirah Kannada (4) - kahi heere, kahi-keera, kahire, naaga daali balli Malayalam (1) - athanga Marathi (7) - dadudodaka, divali, kadudodaki, kadudodka, kadushirali, kaduturai, ranturai Sanskrit (11) - Sanskrit Comments  dhamargava, ghantali, jhingaka, katuki, kosataki, k"
   ]
@@ -12059,7 +12059,7 @@ graph [
     sanskrit_name "Dhamargava"
     family "Cucurbitaceae"
     rasa "Tikta, Katu"
-    virya "Sisira"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 89 Vernacular names found in 9 languages. English (2) - loofah, vegetable sponge Hindi (11) - dhodka, dhodka ghiya turai, ghia-torai, ghia-tori, ghiatarui, ghiatarul, ghiaturai, ghiya tori, khiya tori, nenua, purula Kannada (7) - araheere, bolaheere, thipri kaayi, thuppada heere, thuppeere kayi, tiprikayi, tuppahire Malayalam (7) - cattu-picinna, kattupiccil, kattupiram, perumpiram, piccinna"
   ]
@@ -12070,8 +12070,8 @@ graph [
     botanical_name "Luffa echinata ROB."
     sanskrit_name "Devadali"
     family "Cucurbitaceae"
-    rasa "Katu"
-    virya "Sisira"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 77 Vernacular names found in 7 languages. Hindi (14) - bidali, bindaal, dutar toru, duttar-toru, ghagara-bela, ghagarabela, ghagerbel, ghusarana, jangli-tori, kakora, khaksi, kukurlata, sonaiya, vandala Kannada (4) - daevadaali, daevadangaar, daevadangari, devadangar Marathi (6) - daevadaagaree, daevadangaree, devadali, devadangari, kukadvel, kukdavel Sanskrit (38) - Sanskrit Comments  akhuv"
   ]
@@ -12118,9 +12118,9 @@ graph [
     botanical_name "Macrotyloma uniflorum (LAM.) VERDC."
     sanskrit_name ""
     family "Fabaceae"
-    rasa "Kashaya"
-    virya "Usna"
-    vipaka "Amla"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 102 Vernacular names found in 10 languages. English (1) - horse gram Hindi (9) - gahat, gaheth, koolthee, kulat, kulath, kulatha, kulthi, kulti, kultthi Kannada (4) - hulge, hurali, huruli, jurli Malayalam (4) - kollu, kullu, muthera, mutira Marathi (3) - hulga, kulith, kulthi Sanskrit (23) - Sanskrit Comments  kalavrinta, khalakula, khalva, kolutha, kulastha, kulasthah, kulatha, kulathika, "
   ]
   node [
@@ -12142,8 +12142,8 @@ graph [
     botanical_name "Maerua oblongifolia (FORSK.) A.RICH"
     sanskrit_name ""
     family "Capparaceae"
-    rasa "Is Svadu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 54 Vernacular names found in 6 languages. Kannada (2) - bhoochakra gedde, nela sakre gedde Marathi (3) - hemakand, kaatigolo, vikat Sanskrit (8) - Sanskrit Comments  madhusrava, madhuvalli, morata, murahari, murva, piluparni, piluparnika, pipluparni Tamil (20) - carukkaraikkilanku2, cerankilanku, kattuccarukkarai, kattuccarukkaraik kilanku, kurutikkakitakkilanku, kurutikkakitam, kutalakkilan"
   ]
@@ -12298,8 +12298,8 @@ graph [
     botanical_name "Marsdenia roylei WIGHT"
     sanskrit_name "Murva"
     family "Asclepiadaceae"
-    rasa "Is Svadu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 3 Vernacular names found in 3 languages. Hindi (1) - mariabel Kannada (1) - kadahaale balli Sanskrit (1) - Sanskrit Comments  murva"
   ]
@@ -12553,8 +12553,8 @@ graph [
     botanical_name "Mesua nagassarium (BURM.F.) KOSTERM."
     sanskrit_name ""
     family "Clusiaceae"
-    rasa "Tikta"
-    virya "Alposna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 270 Vernacular names found in 10 languages. English (1) - ironwood Hindi (9) - gajapushpam, nag-kesar, nag-kesar-ka-aitr, nagakesar, nagakesara, nagesar, nagesar-ka-aitr, naghas, nagkesar Kannada (22) - atha, atta, irupu mara, kaanchana, kancana, kanchana, kasara, kesara, naaga keasari, naaga sampige, naagaakeshara, naagachampa, naagakesara, naagasampige, naga, naga sampege, nagachampa, naga"
   ]
@@ -12738,8 +12738,8 @@ graph [
     botanical_name "Mollugo cerviana SER."
     sanskrit_name "Parpata"
     family "Molluginaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 68 Vernacular names found in 7 languages. Hindi (5) - chirimorio, chiriya ro khet, jima, parpat, taph-jhad Kannada (5) - kaage purale gida, kaage purule gida, kage purale gida, parpaataka gida, parpataka Malayalam (1) - parpataka Marathi (1) - pada Sanskrit (4) - Sanskrit Comments  grishmasundara, parpata, parpataka, phanya Tamil (46) - citalacatti2, citam, citam2, citappiriyan, cukkumapatti"
   ]
@@ -12894,8 +12894,8 @@ graph [
     botanical_name "Moringa concanensis NIMMO E DALZ. &#38; GIBSON"
     sanskrit_name "Madhusigru"
     family "Moringaceae"
-    rasa "Tikta"
-    virya "Hima"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 77 Vernacular names found in 8 languages. Hindi (8) - jangli-sargua, jangli-sergua, sainjana, sainjna, sajana, sargua, sarguro, segu Kannada (2) - kaadu nugge, nugge Malayalam (1) - murinna Marathi (4) - moshimg, muwa, ranshegat, sajana Sanskrit (26) - Sanskrit Comments  aksiva, bahulada, bahupallava, bahupatraka, garbhapataka, kesari, krishnabija, krsnagandha, madhushigru, madhusigru, mriga"
   ]
@@ -13036,8 +13036,8 @@ graph [
     botanical_name "Myrica esculenta BUCH.-HAM."
     sanskrit_name "Katphala"
     family "Myricaceae"
-    rasa "Kashaya"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 20 Vernacular names found in 7 languages. Hindi (4) - kaiphal, kaphal, kayaphul, myrica sapida Kannada (1) - kirishivani Malayalam (1) - marutamtoli Marathi (2) - kaiphal, kayaphul Sanskrit (3) - Sanskrit Comments  katphala, katphalah, mahavalkala Tamil (7) - cavviyaci, cavviyacimaram, cippirakaruppam, kaitariyam, kirusnakarppam, marudam-pattai, marutam 3 Telugu (2) - kaidanyamu, kaidaryamu"
   ]
@@ -13118,9 +13118,9 @@ graph [
     botanical_name "Myrsine africana L."
     sanskrit_name "Vidanga"
     family "Myrsinaceae"
-    rasa "Katu"
-    virya "Usna"
-    vipaka "Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 14 Vernacular names found in 2 languages. Hindi (13) - bandraru oleander, banwa, banwan, basuti, chapra, chhota mehndru, chhota mendhru, chitring, chota mendru, chupra, jhunjhra, kanaru, pahari cha Sanskrit (1) - Sanskrit Comments  vidanga"
   ]
   node [
@@ -13356,9 +13356,9 @@ graph [
     botanical_name "Nymphaea nouchali BURM. F."
     sanskrit_name "Kumuda"
     family "Nymphaeaceae"
-    rasa "Tikta"
-    virya "Hima"
-    vipaka "Svaau"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 186 Vernacular names found in 10 languages. English (1) - egyptian lotus Hindi (10) - bhenght, chota kanval, kamal, kanval, koi, koka, kokka, krishna-kamal, kumudini, nilofar Kannada (11) - bile-naidilay, bile-tavaray, bilenaydilie, biletavare, kannaidele, kannaidile, kendaavare, kole hoo, neela naidile, neela thaavare, neela thavare Malayalam (5) - ambel, ampal, cit-ambel, neerampal, vellan"
   ]
   node [
@@ -13481,8 +13481,8 @@ graph [
     botanical_name "Ocimum basilicum L. subsp. minimum DAMERT"
     sanskrit_name ""
     family "Lamiaceae"
-    rasa "Tikta, Kashaya"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  maruvaka"
   ]
@@ -14161,9 +14161,9 @@ graph [
     botanical_name "Peucedanum grande CL."
     sanskrit_name "Baspika"
     family "Apiaceae"
-    rasa "Katu"
-    virya "Sita"
-    vipaka "Katuka"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 4 Vernacular names found in 2 languages. Hindi (2) - daku, duku Sanskrit (2) - Sanskrit Comments  baspika, ela"
   ]
   node [
@@ -14557,8 +14557,8 @@ graph [
     botanical_name "Piper nigrum L."
     sanskrit_name "Marica"
     family "Piperaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 362 Vernacular names found in 10 languages. English (4) - black pepper, madagascar pepper, pepper, white pepper Hindi (13) - chocamirch, filfilgird, gol-mirch, golmirch, gulmirch, habush, kali-mirch, kalimirc, kalimirch, kalimirich, mirc, mirch, safedmirch Kannada (20) - eddemunchi, eddemunci, kaalu menasu, karee menasu, karimenasu, menasina balli, menasinaballi, menasinakaalu, menasinakalu,"
   ]
@@ -14605,8 +14605,8 @@ graph [
     botanical_name "Piper crassipes KORTH. E. C.DC."
     sanskrit_name "Kankola"
     family "Piperaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 1 Vernacular names found in 1 languages. Sanskrit (1) - Sanskrit Comments  kankolam"
   ]
@@ -14944,8 +14944,8 @@ graph [
     botanical_name "Polyalthia longifolia BENTH. &#38; HOOK. F."
     sanskrit_name "Asoka"
     family "Annonaceae"
-    rasa "Kashaya"
-    virya "Sitala"
+    rasa "Tikta"
+    virya "Usna"
     vipaka "Not specified"
     vernacular_names "Total 128 Vernacular names found in 8 languages. English (1) - indian willow Hindi (10) - asapala, ashok, asok, asoka, debdari, deodar, devadar, devadaru, devdaru, devidari Kannada (15) - ashoka, asoka, assoti, ghangu, hebbe, kambada mara, kanthri kadama, kumbada mara, naadu ashoka, pandil, pungu, putharajeevi, putrajivi, puttrajivi, ubbina mara Malayalam (20) - arana, aranamaram, aranei, aruna, a"
   ]
@@ -14956,8 +14956,8 @@ graph [
     botanical_name "Polycarpaea corymbosa LAM."
     sanskrit_name "Parpata"
     family "Caryophyllaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 17 Vernacular names found in 7 languages. Hindi (2) - bugyale, zutniokhad Kannada (3) - paade mullu gida, poude mullu, poude mullu gida Malayalam (1) - katu-mailosina Marathi (2) - koyap, maitosin Sanskrit (4) - Sanskrit Comments  bhisatta, okharadi, parpata, tadagamritikodbhava Tamil (3) - cataicciver, nilaisedachi, pallippuntu Telugu (2) - bommasari, rajuma"
   ]
@@ -15062,8 +15062,8 @@ graph [
     botanical_name "Scindapsus officinalis SCHOTT."
     sanskrit_name "Gajapippali"
     family "Araceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 141 Vernacular names found in 9 languages. Hindi (13) - badipipli, bari-pipli, baripipli, baripippli, braipipli, gaj peepal, gaj-pipli, gajapipal, gajapipli, hathkaul, maidah, pipaljhamgha, pippalijhhanca Kannada (7) - dodda hippali, dodda hippli, doddahippali, gaja hippali, gajahippali, kapivalli, kari hippali Malayalam (4) - anaitippali, anattippali, attittippali, aunatippilie Marathi (3) "
   ]
@@ -15086,8 +15086,8 @@ graph [
     botanical_name "Pygmaeopremna herbacea (ROB.) MOLD."
     sanskrit_name ""
     family "Verbenaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 42 Vernacular names found in 9 languages. Hindi (2) - bharangi, kamraj Kannada (2) - bhuminerale, nayit-yaga Malayalam (1) - cerutekku Marathi (1) - bharangi Sanskrit (6) - Sanskrit Comments  bharngi, bhumi-jambuka, bhumijambu, bhumjambu, boomi-jambuka, phanji Tamil (15) - ankarakavalli, ankaravallan1, ankaravalli2, bumisamba, caleyam2, chiru thekku, chirudekku, cirutekku, kantu paranki, kan"
   ]
@@ -15098,8 +15098,8 @@ graph [
     botanical_name "Premna serratifolia L."
     sanskrit_name ""
     family "Verbenaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 140 Vernacular names found in 8 languages. English (1) - headache tree Hindi (3) - agetha, arni, ustabunda Kannada (17) - agnimandha, agnimathha, bachanige mara, bhootha naeralu, eegigida, eeji gida, ichu, icu, ije, ishe, narahuli, narapelu, naravalu, narave, naruvalu, takkile, thakkile Malayalam (4) - appel, ben-moenja, munna, panira Marathi (8) - aeran, aran, chamari, kharanarvel, kharo na"
   ]
@@ -15218,8 +15218,8 @@ graph [
     botanical_name "Prunus mahaleb L."
     sanskrit_name "Gandhapriyangu"
     family "Rosaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 5 Vernacular names found in 2 languages. English (2) - mahaleb, st lucie cherry Sanskrit (3) - Sanskrit Comments  gandhapriyangu, priyangu, priyunger"
   ]
@@ -15379,8 +15379,8 @@ graph [
     botanical_name "Drypetes roxburghii (WALL.) HURUSAWA"
     sanskrit_name ""
     family "Euphorbiaceae"
-    rasa "Katu"
-    virya "Hima"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 115 Vernacular names found in 8 languages. Hindi (19) - jaiaputa, jaipota, jaiputa, jiaputa, jivputrak, jiyapota, joti, juti, patigia, patji, pitmar, puta-jan, putajan, putajen, putijia, putjia, putra-jiva, putrajiva, putranjiva Kannada (13) - amaami, amani, kaal damani, kalo, menasina kaale, menasinakaale, menasinakale, putrajiva, putrajivi, putranjeeva, putranjeevi, putranjivi, putremjiva "
   ]
@@ -15403,9 +15403,9 @@ graph [
     botanical_name "Quercus leucotrichophora A. CAMUS"
     sanskrit_name ""
     family "Fagaceae"
-    rasa "Katu"
-    virya "Usna"
-    vipaka "Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 8 Vernacular names found in 3 languages. Hindi (5) - ban, ban oak, bani, banj, banjha Sanskrit (1) - Sanskrit Comments  mayaphala Urdu (2) - baloot, balooth"
   ]
   node [
@@ -15420,9 +15420,9 @@ graph [
     botanical_name "Quercus infectoria OLIV."
     sanskrit_name "Ambastha"
     family "Fagaceae"
-    rasa "Katu"
-    virya "Usna"
-    vipaka "Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 41 Vernacular names found in 8 languages. Hindi (4) - majuphal, majuphul, mazu, muphal Kannada (3) - machi kaayi, machikai, macike Malayalam (2) - masikka, mayakku Marathi (2) - maayaphal, majuphala Sanskrit (8) - Sanskrit Comments  ambastha, majjaphala, majuphal, majuphul, manjuphal, mayakku, mayaphala, mayuka Tamil (15) - cakkirakacikakkay, cakkirakacikam, civatakitakkay, maasikkai, macakk"
   ]
   node [
@@ -15504,8 +15504,8 @@ graph [
     botanical_name "Rotula aquatica LOUR."
     sanskrit_name "Pasanabheda"
     family "Boraginaceae"
-    rasa "Tikta, Kashaya"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 9 Vernacular names found in 6 languages. Kannada (1) - pasanabheda Malayalam (1) - kallurvanci Marathi (1) - machim Sanskrit (3) - Sanskrit Comments  pasanabheda, pasanabhedah, pashanabheda Tamil (2) - cheppunerinjal, seppunerinji Telugu (1) - pasanabheda"
   ]
@@ -15516,8 +15516,8 @@ graph [
     botanical_name "Rhamnus wightii WIGHT &#38; ARN."
     sanskrit_name "Rohitaka"
     family "Rhamnaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 4 Vernacular names found in 2 languages. Sanskrit (1) - Sanskrit Comments  raktarohita Tamil (3) - peyppla, peyppula, peypulla"
   ]
@@ -15545,8 +15545,8 @@ graph [
     botanical_name "Rheum australe D.DON"
     sanskrit_name ""
     family "Polygonaceae"
-    rasa "Kashaya, Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 65 Vernacular names found in 8 languages. English (2) - himalayan rhubard, indian rhubard Hindi (6) - archa, dolu, hindi-revand-chini, hindirevandchini, rawardchni, revand-chini Kannada (4) - nat-reva-chinni, natrevalchinni, natrevvachinni, reval-chini Marathi (4) - ladakirevanda-chini, mulkacharevalchinni, raevaachini, revachini Sanskrit (10) - Sanskrit Comments  amlaparni, amlavetasa, gand"
   ]
@@ -15617,8 +15617,8 @@ graph [
     botanical_name "Rhododendron anthopogon D.DON"
     sanskrit_name "Talisa"
     family "Ericaceae"
-    rasa "Tikta, Madhura"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 5 Vernacular names found in 2 languages. Hindi (4) - atarasu, talis, talisiri, talshi Sanskrit (1) - Sanskrit Comments  talisapatra"
   ]
@@ -15958,9 +15958,9 @@ graph [
     botanical_name "Salvadora oleoides DECNE"
     sanskrit_name "Pilu"
     family "Salvadoraceae"
-    rasa "Is Svaau"
-    virya "Usna"
-    vipaka "Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 28 Vernacular names found in 4 languages. Hindi (7) - bahapilu, chhotapilu, jal, jhal, khara-jal, kharo jhal, pilu Marathi (4) - godpilu, khakan, kharkanela, pilu Sanskrit (14) - Sanskrit Comments  dhani, gudaphala, kallabhavallabha, karavallabha, laghupilu, mahapilu, pilu, piluka, shakhi, shitasaha, shyama, sramsi, sransi, virechanaphala Tamil (3) - kalawa, karkol, ughaiputtai"
   ]
   node [
@@ -15970,9 +15970,9 @@ graph [
     botanical_name "Salvadora persica L. var. wightiana (PLANCH E THW.) VERDC."
     sanskrit_name "Murva"
     family "Salvadoraceae"
-    rasa "Is Svadu"
-    virya "Usna"
-    vipaka "Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 151 Vernacular names found in 8 languages. English (1) - tooth-brush tree Hindi (13) - badapilu, chhota-pilu, chhotapilu, chota-pilu, dhalu, jal, jhai, jhak, kharjal, mitha jal, mithi-jal, mithi-pilu, pilu Kannada (14) - geya, goni, goni mara, goni-mara, gonimara, kankhina, kareegoni, kari goni mara, kireegoni, kirgonji, kiri gonee mara, kirigoni mara, koyya, kunni Malayalam (1) - uka Marath"
   ]
   node [
@@ -16035,8 +16035,8 @@ graph [
     botanical_name "Sansevieria roxburghiana SCHULT. F."
     sanskrit_name "Murva"
     family "Agavaceae"
-    rasa "Is Svadu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 95 Vernacular names found in 8 languages. Hindi (3) - marul, murahri, murva Kannada (11) - goddu manji, goddu mumbe, heggurantige, heggurantike, heggurutike, madhurase, manjina naaru, manjinanaru, manjinnaaru, maruga, nanjina naaru Malayalam (2) - katukapel, sanam Marathi (3) - ghanasaaphan, ghannasaphan, nagphan Sanskrit (8) - Sanskrit Comments  darvikari, marura, muruva, murva, nagadamana,"
   ]
@@ -16100,9 +16100,9 @@ graph [
     botanical_name "Sapindus mukorossi GAERTN."
     sanskrit_name "Aristaka"
     family "Sapindaceae"
-    rasa "Tikta, Katu"
-    virya "Usna"
-    vipaka "Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 9 Vernacular names found in 2 languages. Hindi (6) - aritha, dodan, kanmar, reetha, ritha, soap nut Sanskrit (3) - Sanskrit Comments  aristaka, phenila, urista"
   ]
   node [
@@ -16148,7 +16148,7 @@ graph [
     botanical_name "Sarcostemma acidum VOIGT"
     sanskrit_name "Soma"
     family "Asclepiadaceae"
-    rasa "Katu, Tikta"
+    rasa "Not specified"
     virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 106 Vernacular names found in 7 languages. Hindi (3) - soma, somalata, somlata Kannada (20) - braahmi, brahmi, haalu kalli, hambu balli, hambu kalli, hambukalli, hambukkalli, haralu valla, jolugalli, kallihambu, konana balli, konana hambu, soma lathe, somaballi, somalata, somalate, somalatha, vasukaanthi, vasukaanti, vasukanti Malayalam (5) - somalata, somam, somavallari, somavalli, vayastha"
@@ -16213,8 +16213,8 @@ graph [
     botanical_name "Schleichera oleosa (LOUR.) OKEN"
     sanskrit_name "Kosamra"
     family "Sapindaceae"
-    rasa "Amla"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 119 Vernacular names found in 8 languages. English (4) - ceylon oak, kosumba, kussum oil, macassar oil Hindi (3) - kausum, kosumb, kusum Kannada (30) - akota, cakate, candala, chagadai, chagade, chagate, chagati, chakata, chakate, chakota, chendaala, chendala, hakuta, hulimaaya, hulimaya, hulimiro, hulunaai, jagadi, jendalacekota, kaakuta, kakuta, kendaale, kendala, paparti, sagade, sagadi, "
   ]
@@ -16423,7 +16423,7 @@ graph [
     sanskrit_name "Asoka"
     family "Dipterocarpaceae"
     rasa "Kashaya"
-    virya "Sitala"
+    virya "Usna"
     vipaka "Not specified"
     vernacular_names "Total 196 Vernacular names found in 10 languages. English (1) - sal Hindi (14) - damar, dhonah, dhuna, kandar, ral, sakher, sakhu, sakhua, sakhuya, sakoh, sal, sala, salwa, shal Kannada (23) - aseena, aseena mara, ashina, ashvakarna, asina, asu, asvakarna, bile-bhogimara, bile-bovu, bilibodige, daamaru banke, daambara mara, guggala, guggula, jal, jalada, kaabbu, kabba, kabbu, sala, sarja, thalli, "
   ]
@@ -16446,8 +16446,8 @@ graph [
     botanical_name "Sida alba L."
     sanskrit_name ""
     family "Malvaceae"
-    rasa "Madhura, Amla, Kashaya, Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 73 Vernacular names found in 8 languages. Hindi (4) - bariara, gulsakari, kantio bal, katiobal Kannada (6) - gattigaruke, kaadu menthya, kaadumenthya, kadira, kadumenthya, kallangadale Malayalam (2) - kattu-ventiyam, kuruntotti Marathi (10) - banabaavari, gaangshi, gandedhaman, gangaavathi, gangeti, kaanteri thupakadee, kaanterithukati, kanteritukati, naagabala, tukati-khareti Sanskrit (28) "
   ]
@@ -16631,8 +16631,8 @@ graph [
     botanical_name "Solanum anguivi LAM."
     sanskrit_name ""
     family "Solanaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 202 Vernacular names found in 8 languages. Hindi (22) - ban bhatta, ban tambaku, ban tobacco, ban tobaccoo, bantobacco, barhanta, barhata, barikatai, bhatakataiya, bhtkataya, bhui ringna, bhui-ringna, bhut kataia, bhutkataiya, birhatta, dolari-ringa, dolri ringna, kandiari, kattarha, kolsi, lagwal, vadikadheri Kannada (29) - badane, biligulle, bitthi gulla, chunde, gulla, habbagulla, habbugu"
   ]
@@ -16727,8 +16727,8 @@ graph [
     botanical_name "Solanum torvum SWARTZ"
     sanskrit_name "Brhati"
     family "Solanaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 72 Vernacular names found in 7 languages. Hindi (2) - bhurat, tit-baigun Kannada (25) - borasunde, bovasonde, bovasunde, busende, busunde, chinde, chundai, chunde, kaada kallatti, kaadu badane, kaadu kadane, kaadu kallate, kaadu kallunte, kaadu sonde, kadakadana, kadakallate, kadchunde, kadubadene, kadusonde, karase, karashe, katukallante, shundakkayi, sonde, sonde gida Malayalam (7) - chund"
   ]
@@ -16883,8 +16883,8 @@ graph [
     botanical_name "Stephania japonica (THUNB.) MIERS."
     sanskrit_name "Rajapatha"
     family "Menispermaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 15 Vernacular names found in 5 languages. Hindi (1) - tamarki Malayalam (5) - padakelenga, padavalli, patakilannu, patakkilannu, patavalli Sanskrit (5) - Sanskrit Comments  ambashtha, patha, rajapatha, vanatik-tika, vanatikta Tamil (2) - ampastai, molakaranaikkoti Telugu (2) - duvvathige, duvyatige"
   ]
@@ -16907,8 +16907,8 @@ graph [
     botanical_name "Sterculia urens ROB."
     sanskrit_name "Arjuna"
     family "Sterculiaceae"
-    rasa "Kashaya"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 114 Vernacular names found in 8 languages. English (1) - kutira gum Hindi (13) - bali, gular, gulu, kabru, kadai, kadaya, kandois, karrai, karu, katira, kulu, tabsi, tanuku Kannada (17) - balnaaru, bhoothali, bhutali, bujolladha, bujulla, buthale, chevaadi, chevadi, kempu daale, kempu daili, kempudaale, kempudaili, kempudale, kurai, penari, pinari, punike Malayalam (6) - anainar, anathondi, "
   ]
@@ -17268,8 +17268,8 @@ graph [
     botanical_name "Taxus wallichiana ZUCC."
     sanskrit_name ""
     family "Taaceae"
-    rasa "Tikta, Madhura"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 33 Vernacular names found in 6 languages. English (2) - english yew, irish yew Hindi (15) - barhmi, barmi, birch, birmi, brahmi, fhalsh, gallu, neyamdal, rakhal, rakhale, thuna, thuneer, thuner, thuno, zirnubbirmi Marathi (1) - barmi Sanskrit (9) - Sanskrit Comments  barahmi, granthi parna, manduparni, sthauneyaka, sthouneyaka, talisam, talisapatra, talisapatram, talispatra Tamil (4) - talee"
   ]
@@ -17285,9 +17285,9 @@ graph [
     botanical_name "Tecomella undulata (SM.)SEEM."
     sanskrit_name "Rohitaka"
     family "Bignoniaceae"
-    rasa "Katu, Tikta"
+    rasa "Katu"
     virya "Usna"
-    vipaka "Katu"
+    vipaka "Not specified"
     vernacular_names "Total 39 Vernacular names found in 5 languages. Hindi (5) - bohirareora, roheda, rohira, rohiro, rugtrora Marathi (3) - rakhtreora, rakhtroda, raktarohida Sanskrit (26) - Sanskrit Comments  chalachhada, dadimacchada, dadimapuspa, dadimapuspaka, dadimpushpasanjinaka, kushalmali, kutashalmali, mansadalana, plihagna, plihanashana, plihari, plihasatru, raktaghna, raktaprasadana, raktapushpa, rohi, roh"
   ]
   node [
@@ -17357,8 +17357,8 @@ graph [
     botanical_name "Terminalia alata HEYNE E ROTH."
     sanskrit_name "Jaranadruma"
     family "Combretaceae"
-    rasa "Kashaya"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 217 Vernacular names found in 9 languages. English (2) - asna, indian laurel Hindi (19) - ain, aisan, aisan sain, alsan, alson, asain, asaina, asan, asin, asna, assain, hadad, kauha, sadad, sadri, sain, saj, soj, yen Kannada (41) - aini, banappu, banapu, banavu, banipu, banpu, banupu, bhudri, bonepoe, egin, haini, hebbulive, hebbulure, hebbuluve, hebhuluve, karee matthi, kareematthi, karimad"
   ]
@@ -17465,8 +17465,8 @@ graph [
     botanical_name "Thalictrum foliolosum DC."
     sanskrit_name "Trayamana"
     family "Ranunculaceae"
-    rasa "Katu, Kashaya"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 48 Vernacular names found in 5 languages. Hindi (7) - macharmar, machhar mar, mamira, mamiro, pili-jari, pilijari, pinjari Marathi (4) - beeni gha, garbeeni, mameeri, pinjari Sanskrit (2) - Sanskrit Comments  piyaranga, trayamana Tamil (31) - arirokani, arttapiracatani, citarokani, inkukati, inkutati, kannukkulircci, kavu, kavurokani, pacumaranam, peetharogini, petarokini, pilacari, piruka, "
   ]
@@ -17674,8 +17674,8 @@ graph [
     botanical_name "Zaleya decandra (L.) BURM. F."
     sanskrit_name ""
     family "Aizoaceae"
-    rasa "Madhura, Tikta, Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 35 Vernacular names found in 6 languages. Hindi (2) - gadabani, khari-buti Kannada (6) - bilee komme, bilikomme, gaija soppu, gaijasoppu, gajja soppu, jaija-soppu Marathi (1) - phasartani Sanskrit (1) - Sanskrit Comments  punarnavi Tamil (19) - caranai, caratai, caruvelai, catti caranai, catti-c-caranai, catticcaranai, catticcattaranai, charanai, saranai, sarvalai, sattichcharanai, siru char"
   ]
@@ -17686,8 +17686,8 @@ graph [
     botanical_name "Trianthema portulacastrum L."
     sanskrit_name "Punarnava"
     family "Aizoaceae"
-    rasa "Madhura, Tikta, Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 81 Vernacular names found in 8 languages. English (2) - giant pigweed, horse purslane Hindi (15) - bawra, dhedo santo, dhedo-santo, hato, lal-sabuni, nasur janghi, sabuni, safed santo, salsabuni, santhi, santo, satto, svetsabuni, swet punarva, vishakhapara Kannada (8) - bili komme, bili punarnava, gaijaa soppu, komme, muchchugoni, muchhugoni, muchugoni, neeli belladakilu Malayalam (2) - talu"
   ]
@@ -17758,9 +17758,9 @@ graph [
     botanical_name "Trichosanthes tricuspidata LOUR."
     sanskrit_name ""
     family "Cucurbitaceae"
-    rasa "Katuka, Tikta, Katu"
-    virya "Usna"
-    vipaka "Katuka, Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 103 Vernacular names found in 7 languages. Hindi (10) - ankh phootaniyo veldi, ankh-phootaniyo-veldi, ilaru, indrayan, lal indrayan, lal-indravan, lal-indrayan, lalindrayan, mahakal, makal Kannada (14) - avagoode kaayi, avagude, avagude-hannu, avagudehannu, haavumekke, hiri haavumekke, kaage mandala, kaage mari gida, kaage thonde balli, kaagemari balli, kaakimandali, kakemandali, kavade ball"
   ]
   node [
@@ -18032,8 +18032,8 @@ graph [
     botanical_name "Urena lobata L."
     sanskrit_name "Nagabala"
     family "Malvaceae"
-    rasa "Madhura, Amla, Kashaya, Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 60 Vernacular names found in 8 languages. English (4) - aramina fibre, congo jute, cousin mahoe, guaxima Hindi (13) - bachata, bachit, bachita, bala-bhed, brachta, chatkura, dudh-khal, kapasi, kunjia, lapetua, lotloti, unga, vilaiti san Kannada (9) - baralu kaddi mara, bekkina hejje gida, dodda bende, dooda bende, hamsapaadi, kaadu thutthi, otte, otte mara, vatta Malayalam (8) - kuruntotti, "
   ]
@@ -18073,9 +18073,9 @@ graph [
     botanical_name "Valeriana hardwickii WALL."
     sanskrit_name "Balaka"
     family "Valerianaceae"
-    rasa "Tikta"
-    virya "Sita"
-    vipaka "Madhura, Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 14 Vernacular names found in 3 languages. Hindi (10) - asarun, nakh, nakh nihani, nakhnihani, nihani, nlhani, pind tagar, shammia, shumeo, taggar Sanskrit (2) - Sanskrit Comments  balaka, tagara Urdu (2) - asarun, taggar"
   ]
   node [
@@ -18085,9 +18085,9 @@ graph [
     botanical_name "Valeriana jatamansi JONES"
     sanskrit_name ""
     family "Valerianaceae"
-    rasa "Tikta"
-    virya "Sita"
-    vipaka "Madhura, Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 69 Vernacular names found in 9 languages. Hindi (11) - bala-tagra, balchhari, mansi, mushakbala, mushk bala, mushkbala, nihani, smak, sumaya, swak, tagar Kannada (5) - jatale, mandibattal, naati jatamaansi, nandu batlu, tagara Malayalam (1) - takaram Marathi (2) - tagar-ganthoda, thagar mool Sanskrit (38) - Sanskrit Comments  barhana, chakra, danda, dandahasta, dipana, hasti, jatamansi, jihm"
   ]
   node [
@@ -18121,8 +18121,8 @@ graph [
     botanical_name "Vallaris solanacea (ROTH.) KUNTZE."
     sanskrit_name "Asphota"
     family "Apocynaceae"
-    rasa "Madhura"
-    virya "Rasa"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 42 Vernacular names found in 6 languages. Hindi (10) - chamarikivel, dudh bcl, dudh bel, dudh khal, dudhali, dudhi, dudhibel, kali dudhali, ramsar, safed bel Kannada (7) - bugadi, bugudi balli, bugudi hambu, cilakri, isa mallige, isamallige, nn Malayalam (1) - attukottappala Marathi (2) - dudhbel, vikha mogari Sanskrit (7) - Sanskrit Comments  asphota, bhadra-valli, bhadramunja, bhadravalli,"
   ]
@@ -18133,8 +18133,8 @@ graph [
     botanical_name "Vanda tessellata (ROB.) DON"
     sanskrit_name "Rasna"
     family "Orchidaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 70 Vernacular names found in 7 languages. Hindi (9) - akash-bel, akashvel, banda, nai, perasara, persara, rasna, rasna nai, vanda Kannada (8) - badanika, badanike, bandanike, bangaali raasna, jkeevanthige, marabaale, vandaka, vandaka gida Marathi (3) - raasna, rasma, rasna Sanskrit (25) - Sanskrit Comments  atirasa, bhujangakshi, chhatraki, dronagandhika, elaparni, gandhanakuli, muktarasa, n"
   ]
@@ -18157,8 +18157,8 @@ graph [
     botanical_name "Ventilago madraspatana GAERTN."
     sanskrit_name "Rohitaka"
     family "Rhamnaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 102 Vernacular names found in 7 languages. Hindi (1) - pitti Kannada (21) - boppalichakkai, haruge, ithaala beelu, kabbilu, kobbilu, kubbila, malai maithra, malamaitra, male ithaala, malemaitra, malemytala, pampli, papli, paplichakka, pappali, pappalicakke, papplichakkay, papudi, papuli, popli, poppli Malayalam (1) - vempata Marathi (4) - kevati, khandvel, lokhandi, sakalyel Sanskrit (5) - S"
   ]
@@ -18241,8 +18241,8 @@ graph [
     botanical_name "Viola odorata L."
     sanskrit_name "Rasna"
     family "Violaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 29 Vernacular names found in 6 languages. English (7) - blue violet, devon violet, english violet, parma violet, parma violets, sweet violet, sweet-scented violet Hindi (5) - bag-banosa, banafsa, banafsha, banafshah, banaphsa Marathi (1) - bagabanosa Sanskrit (4) - Sanskrit Comments  banafsha, banapsa, vanaphsa, vanspika Tamil (6) - curiyakan ti, orital-t-tamarai, ratna purus, ratnapurucu, v"
   ]
@@ -18265,8 +18265,8 @@ graph [
     botanical_name "Viscum album L."
     sanskrit_name "Rasna"
     family "Viscaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 9 Vernacular names found in 3 languages. English (1) - mistletoe Hindi (6) - ban, banda, bhanga, bhangra, chuluka-banda, mistletoe Sanskrit (2) - Sanskrit Comments  rasna, vandakah"
   ]
@@ -18318,8 +18318,8 @@ graph [
     botanical_name "Vitex trifolia L. F."
     sanskrit_name "Nirgundi"
     family "Verbenaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 129 Vernacular names found in 8 languages. Hindi (10) - nichinda, nirgunda, nishinda, pani-ke-sanbhalu, pani-ki-samhalu, pani-ki-shambalu, panikisanbhalu, saphed-samhalu, sufed-sanbhalu, sufedsanbhalu Kannada (27) - karanuchi, karinekki, karinocci, karinochi, karinoochi, karnucci, lakki, lakkili, lakkli, leckee, lingura, maralu lakki, neer ghunga, neer lakki, neergundi, neerlakki, nekki, nek"
   ]
@@ -18395,8 +18395,8 @@ graph [
     botanical_name "Wrightia arborea (DENNST.) MABB."
     sanskrit_name ""
     family "Apocynaceae"
-    rasa "Tikta"
-    virya "Sitala"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 88 Vernacular names found in 7 languages. Hindi (8) - beri khinna, daira, darula, dharauli, dudhi, khalawa, meetha kuda, summa Kannada (16) - benkee gida, beppale, bili kendra kanigale, bilikude gida, bilikudegidda kadunagalu, haladi beppaale, kaadu ganagalu, kaadu janagalu, kaadu kanaigalu, kaadu veppaale, kaadu veppale, kaadunagalu, kaduganagalu, kaduveppale, kodsige, vepala Malayalam (9) "
   ]
@@ -18676,8 +18676,8 @@ graph [
     botanical_name "Chlorophytum tuberosum BAKER"
     sanskrit_name "Musali"
     family "Liliaceae"
-    rasa "Madhura, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 6 Vernacular names found in 5 languages. Hindi (1) - safed-musali Kannada (1) - dravanti Sanskrit (1) - Sanskrit Comments  musali Tamil (1) - tiravanticam Telugu (2) - kuchhela, sarala pagada"
   ]
@@ -18688,8 +18688,8 @@ graph [
     botanical_name "Cichorium intybus L."
     sanskrit_name "Kasani"
     family "Asteraceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 44 Vernacular names found in 9 languages. English (8) - blue sailor, blue-sailors, chicory, coffeeweed, radicchio, radiccio, succory, witloof Hindi (2) - hinduba, kasni Kannada (1) - chikory Malayalam (1) - cikkari Marathi (1) - kachani Sanskrit (1) - Sanskrit Comments  kasani Tamil (14) - cikkari, civattamullanki, erumakitakkirai, erumakitam, kacikikirai, kacini, kacinikkirai 2, kacinivirai"
   ]
@@ -19128,8 +19128,8 @@ graph [
     botanical_name "Cyperus esculentus L."
     sanskrit_name "Kaseruka"
     family "Cyperaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 25 Vernacular names found in 6 languages. English (5) - chufa nut, earth almond, rush or zulu nut, tiger nut, zulu nut Hindi (3) - chichada, cicada, cicoda Kannada (4) - musthe, nela baadaami hullu, nela badami hullu, nelabaadami hullu Malayalam (2) - kalimuttanna, muttanna Sanskrit (8) - Sanskrit Comments  bhadramusta, kaseruka, kshudramusta, musta, nagaramustakah, sugandhi, sukanda, sukare"
   ]
@@ -19236,8 +19236,8 @@ graph [
     botanical_name "Juniperus communis L."
     sanskrit_name "Hapusa"
     family "Coniferae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 36 Vernacular names found in 6 languages. English (6) - common juniper, dwarf juniper, ground juniper, hackmatack, horse savin, juniper Hindi (6) - aaraar, bither, guggal, haubera, jhora, padmak Marathi (1) - hosha Sanskrit (19) - Sanskrit Comments  aparajita, ashvathaphala, dhmankshanashini, habusha, hapusa, hapusha, havusa, kachhughna, kaphaghni, kapotapanka, matsyagandha, plihahantri, pli"
   ]
@@ -19289,8 +19289,8 @@ graph [
     botanical_name "Piper clusii C.DC."
     sanskrit_name "Kankola"
     family "Piperaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 4 Vernacular names found in 2 languages. English (3) - african black pepper, african cubeb, west african black pepper Sanskrit (1) - Sanskrit Comments  kankolam"
   ]
@@ -19313,9 +19313,9 @@ graph [
     botanical_name "Quercus ilex L."
     sanskrit_name "Mayaphala"
     family "Fagaceae"
-    rasa "Katu"
-    virya "Usna"
-    vipaka "Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 5 Vernacular names found in 3 languages. English (3) - holly oak, holm oak, ilex Hindi (1) - breh Sanskrit (1) - Sanskrit Comments  mayaphala"
   ]
   node [
@@ -19337,9 +19337,9 @@ graph [
     botanical_name "Ricinus communis L."
     sanskrit_name "Danti"
     family "Euphorbiaceae"
-    rasa "Katu"
+    rasa "Tikta"
     virya "Usna"
-    vipaka "Katu"
+    vipaka "Not specified"
     vernacular_names "Total 358 Vernacular names found in 10 languages. English (4) - castor oil, castor oil plant, palma-christi, wild castor Hindi (24) - aerand, andi, arand, arand-ke-binj, arandi, arandi-ka-per, arandi-ke-binj, arandka-per, arend, castor, chhoti-arand, chhoti-arand-ka-per, chhoti-arand-ke-binj, chhoti-arandi, chhoti-arandi-ka-per, chhoti-arandi-ke-binj, endi, erand, erandi, erend, ind, irandia, naud"
   ]
   node [
@@ -19361,8 +19361,8 @@ graph [
     botanical_name "Scirpus grossus L. F."
     sanskrit_name "Kaseru"
     family "Cyperaceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 18 Vernacular names found in 7 languages. Hindi (3) - kasuru, keshur, kesur Marathi (2) - kasara, tamtacho-mundlyo Sanskrit (6) - Sanskrit Comments  gundakanda, kaseru, kaseruh, kaseruka, kasheruka, rajakaseruka Tamil (2) - gunda-tunga-gaddi, kuccimulikam Telugu (2) - gundatiga-gaddi, gundatungagaddi Tibetan (2) - sla ba, tsho byed Urdu (1) - kaseru"
   ]
@@ -19469,8 +19469,8 @@ graph [
     botanical_name "Vitex negundo L. var. purpurascens SIVARAJAN &#38; MOLDENKE"
     sanskrit_name ""
     family "Verbenaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 3 Vernacular names found in 2 languages. Malayalam (2) - karinocci, nocci Sanskrit (1) - Sanskrit Comments  nirgundi"
   ]
@@ -19529,8 +19529,8 @@ graph [
     botanical_name "Piper guineense SCHUM &#38; THONN."
     sanskrit_name "Kankola"
     family "Piperaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 5 Vernacular names found in 2 languages. English (4) - ash pepper, ashanti or benin pepper, benin pepper, guinea cubeb Sanskrit (1) - Sanskrit Comments  kankolam"
   ]
@@ -21434,8 +21434,8 @@ graph [
     botanical_name "Erythrina suberosa ROB."
     sanskrit_name "Paribhadra"
     family "Fabaceae"
-    rasa "Katu"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 47 Vernacular names found in 5 languages. Hindi (11) - dhaul, greru, madar, madaru, mandara, pariara, pariaru, paribhadara, paryara, pungar vel, punger-vel Kannada (10) - kaadu paarivaala, kadparwala, kaduparivala, mullu hongara, mullu mutthuga, mullu paarivaala, mulluhalivara, mulluhangara, mulluhongara, mulul mutthaala Marathi (2) - kaantepalasa, pangra Tamil (9) - arakeyuram, mullumurukku"
   ]
@@ -22436,8 +22436,8 @@ graph [
     botanical_name "Lagerstroemia parviflora ROB."
     sanskrit_name "Dhava"
     family "Lythraceae"
-    rasa "Madhura"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 56 Vernacular names found in 6 languages. Hindi (9) - bakli, dhaura, dhauri, kakadiyo, kakarwa, kakon, kalihara, lendia, sidi Kannada (17) - bhutara, bolnandi, burra, cannangi, cennangi, chanangi, channangana mara, channangi, channangi mara, cheemange, cheemangi, chenengi, cheninge, chennagi, chennangi mara, cimangi, ventaku Malayalam (4) - cheemangi, cimanci, cimanii, ventekku Marathi (5) -"
   ]
@@ -23471,8 +23471,8 @@ graph [
     botanical_name "Premna latifolia ROB."
     sanskrit_name ""
     family "Verbenaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 37 Vernacular names found in 4 languages. Hindi (4) - bakar, bakaru, bharkhar, gin Kannada (1) - agnimantha Tamil (18) - celumalaron, chedi munnai, erumaimunnai, erumunnai, erumunnaimaram, ilatatavikam, ilatatavikamaram, kalakamitanti, karanattuppuntu, karunaimunnai, karunaimunnaimaram, minni, munnai, munnai 1, pachumallai, vacukintan, valarvatimaran, yuntaranayukantan Telugu (14) - konda ma"
   ]
@@ -25148,9 +25148,9 @@ graph [
     botanical_name "Embelia robusta C.B.CLARK."
     sanskrit_name "Vidanga"
     family "Myrsinaceae"
-    rasa "Katu"
-    virya "Usna"
-    vipaka "Katu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 5 Vernacular names found in 3 languages. Hindi (1) - baobring Malayalam (2) - ceriyannatam, tsjeriamcottam Urdu (2) - babarang, baobarang"
   ]
   node [
@@ -38358,9 +38358,9 @@ graph [
     botanical_name "Cymbopogon caesius STAPH."
     sanskrit_name "Rohisa"
     family "Poaceae"
-    rasa "Katu, Tikta"
+    rasa "Not specified"
     virya "Not specified"
-    vipaka "Katu"
+    vipaka "Not specified"
     vernacular_names "Total 12 Vernacular names found in 4 languages. Kannada (6) - anji hullu, kaamaanchi hullu, kaasi hullu, kamanchahullu, kharadaa kaasi hullu, naati laamancha Malayalam (1) - inchi-pul Tamil (2) - kamakshi-pillu, kamati Telugu (3) - adavi nimma gaddi, kaasi gaddi, kamanchi-gaddi"
   ]
   node [
@@ -40015,8 +40015,8 @@ graph [
     botanical_name "Dodonaea angustifolia (L.F.) BENTH."
     sanskrit_name ""
     family "Sapindaceae"
-    rasa "Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 3 Vernacular names found in 1 languages. Hindi (3) - mehndi, sinatha, vilayati mehndi"
   ]
@@ -40843,9 +40843,9 @@ graph [
     botanical_name "Elettaria cardamomum MATON var. miniscula"
     sanskrit_name ""
     family "Zingiberaceae"
-    rasa "Katu"
-    virya "Sita"
-    vipaka "Katuka"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 1 Vernacular names found in 1 languages. English (1) - cardamom"
   ]
   node [
@@ -42677,8 +42677,8 @@ graph [
     botanical_name "Ficus lacor BUCH.- HAM. var. wightiana"
     sanskrit_name ""
     family "Moraceae"
-    rasa "Katu, Kashaya"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names ""
   ]
@@ -42989,8 +42989,8 @@ graph [
     botanical_name "Foeniculum vulgare GAERTN var. dulce"
     sanskrit_name ""
     family "Apiaceae"
-    rasa "Katu, Tikta"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names ""
   ]
@@ -45133,8 +45133,8 @@ graph [
     botanical_name "Hedyotis biflora (L.) LAMK"
     sanskrit_name ""
     family "Rubiaceae"
-    rasa "Tikta"
-    virya "Sita"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 1 Vernacular names found in 1 languages. Hindi (1) - daman-papra"
   ]
@@ -46425,9 +46425,9 @@ graph [
     botanical_name "Hydrocotyle javanica THUNB. var. poduntha MOLKENBOER E C.B. CLARKE"
     sanskrit_name ""
     family "Apiaceae"
-    rasa "Tikta, Madhura"
-    virya "Hima"
-    vipaka "Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names ""
   ]
   node [
@@ -46437,9 +46437,9 @@ graph [
     botanical_name "Hydrocotyle sibthorpiodes LAM."
     sanskrit_name ""
     family "Apiaceae"
-    rasa "Tikta, Madhura"
-    virya "Hima"
-    vipaka "Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names "Total 6 Vernacular names found in 4 languages. Hindi (2) - garh brahmi, khulkhuri Marathi (1) - ballarikerai Sanskrit (1) - Sanskrit Comments  mandukaparani Telugu (2) - aelika chaevi koora, babbasa"
   ]
   node [
@@ -59710,8 +59710,8 @@ graph [
     botanical_name "Rhododendron campanulatum DON."
     sanskrit_name "Talisa"
     family "Ericaceae"
-    rasa "Tikta, Madhura"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 11 Vernacular names found in 1 languages. Hindi (11) - atarasu, cherailu, kashimiri patha, kashmiri patha, kashmiri patta, samgar, sarangar, sarngar, semru, semuru, sirmang"
   ]
@@ -69829,9 +69829,9 @@ graph [
     botanical_name "Piper peepuloides ROB."
     sanskrit_name "Pippali"
     family "Piperaceae"
-    rasa "Is Svadu"
-    virya "Sita"
-    vipaka "Katu, Svadu"
+    rasa "Not specified"
+    virya "Not specified"
+    vipaka "Not specified"
     vernacular_names ""
   ]
   node [
@@ -69906,8 +69906,8 @@ graph [
     botanical_name "Rhododendron lepidotum WALL."
     sanskrit_name "Talisa"
     family "Ericaceae"
-    rasa "Tikta, Madhura"
-    virya "Usna"
+    rasa "Not specified"
+    virya "Not specified"
     vipaka "Not specified"
     vernacular_names "Total 4 Vernacular names found in 1 languages. Hindi (4) - atarasu, simris, sumral, talshi"
   ]
@@ -70473,7 +70473,34 @@ graph [
     source 0
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 0
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 0
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 5
@@ -70575,13 +70602,23 @@ graph [
     source 10
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 10
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 14
@@ -70617,13 +70654,23 @@ graph [
     source 14
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 14
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 16
@@ -70687,27 +70734,91 @@ graph [
   ]
   edge [
     source 18
-    target 13
+    target 20
     key 0
     relation "TREATS"
+    evidence_hash "86f4f9dce849778bdbea702d9c8cd42b1ce1af92354feec1868060291bd6b687"
+    source_drug "Gunja"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 18
     target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "86f4f9dce849778bdbea702d9c8cd42b1ce1af92354feec1868060291bd6b687"
+    source_drug "Gunja"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 18
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "86f4f9dce849778bdbea702d9c8cd42b1ce1af92354feec1868060291bd6b687"
+    source_drug "Gunja"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 18
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "86f4f9dce849778bdbea702d9c8cd42b1ce1af92354feec1868060291bd6b687"
+    source_drug "Gunja"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 18
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "86f4f9dce849778bdbea702d9c8cd42b1ce1af92354feec1868060291bd6b687"
+    source_drug "Gunja"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 18
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "86f4f9dce849778bdbea702d9c8cd42b1ce1af92354feec1868060291bd6b687"
+    source_drug "Gunja"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 18
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "86f4f9dce849778bdbea702d9c8cd42b1ce1af92354feec1868060291bd6b687"
+    source_drug "Gunja"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 18
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "86f4f9dce849778bdbea702d9c8cd42b1ce1af92354feec1868060291bd6b687"
+    source_drug "Gunja"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 22
@@ -70831,27 +70942,179 @@ graph [
   ]
   edge [
     source 27
-    target 12
+    target 28
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 27
-    target 20
-    key 0
-    relation "TREATS"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 27
     target 28
+    key 1
+    relation "TREATS"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 27
+    target 28
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 27
+    target 28
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 27
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 27
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 27
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 27
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 27
     target 29
     key 0
     relation "TREATS"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 27
+    target 29
+    key 1
+    relation "TREATS"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 27
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 27
+    target 29
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 27
+    target 20
+    key 0
+    relation "TREATS"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 27
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 27
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 27
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3fe009f2b832668b58179eb9f381bb8fbbfc05ffb79be139c76d9aea52cc1b53"
+    source_drug "Babbula - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 30
@@ -70939,51 +71202,179 @@ graph [
   ]
   edge [
     source 32
-    target 4
+    target 33
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 32
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 32
-    target 28
-    key 0
-    relation "TREATS"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 32
     target 33
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 32
     target 34
     key 0
     relation "TREATS"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 32
-    target 35
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 32
-    target 12
-    key 0
-    relation "TREATS"
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 32
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 32
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 32
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 32
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 32
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 32
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 32
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 32
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 32
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 32
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 32
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 32
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2082f3b169c14602c5fed298c6278d554f634d4bb3972e2a137e92ba86c61d57"
+    source_drug "Khadira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 36
@@ -71373,19 +71764,34 @@ graph [
     source 55
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 55
     target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 55
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 56
@@ -71427,13 +71833,23 @@ graph [
     source 58
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "0732a4e9e4ed20f724937fb0a0360aeb8fa02f989b63bab5b555b228462180ab"
+    source_drug "Ativisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 58
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "0732a4e9e4ed20f724937fb0a0360aeb8fa02f989b63bab5b555b228462180ab"
+    source_drug "Ativisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 59
@@ -71457,7 +71873,12 @@ graph [
     source 59
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7c0764597d9301b8061aa63a72270847e9f8f95c24247bbf2aaa8ff40e69d185"
+    source_drug "Vatsanabha"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 60
@@ -71524,6 +71945,22 @@ graph [
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "7c0764597d9301b8061aa63a72270847e9f8f95c24247bbf2aaa8ff40e69d185"
+    source_drug "Vatsanabha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 62
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7c0764597d9301b8061aa63a72270847e9f8f95c24247bbf2aaa8ff40e69d185"
+    source_drug "Vatsanabha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 63
@@ -71566,12 +72003,44 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "0732a4e9e4ed20f724937fb0a0360aeb8fa02f989b63bab5b555b228462180ab"
+    source_drug "Ativisa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 63
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "0732a4e9e4ed20f724937fb0a0360aeb8fa02f989b63bab5b555b228462180ab"
+    source_drug "Ativisa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 63
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "0732a4e9e4ed20f724937fb0a0360aeb8fa02f989b63bab5b555b228462180ab"
+    source_drug "Ativisa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 63
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "0732a4e9e4ed20f724937fb0a0360aeb8fa02f989b63bab5b555b228462180ab"
+    source_drug "Ativisa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 64
@@ -71650,6 +72119,22 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "7fab251017198cf1349fe98b8c6d512d1276432d89d8be2b724efd35373c92e7"
+    source_drug "Vaca"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 65
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7fab251017198cf1349fe98b8c6d512d1276432d89d8be2b724efd35373c92e7"
+    source_drug "Vaca"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 67
@@ -71839,39 +72324,267 @@ graph [
   ]
   edge [
     source 79
-    target 13
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 79
-    target 21
+    target 33
+    key 1
+    relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 79
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 79
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 79
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 79
+    target 29
+    key 1
+    relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 79
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 79
+    target 29
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 79
     target 80
     key 0
     relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 79
-    target 28
-    key 0
+    target 80
+    key 1
     relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 79
-    target 34
-    key 0
-    relation "TREATS"
+    target 80
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 79
+    target 80
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 79
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 79
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 79
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 79
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 79
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 79
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 79
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 79
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 79
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 79
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 79
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 79
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "879ffe0ea2875a29c8344da632975591eca110c6121a2cdc4194e659567a46ef"
+    source_drug "Vasaka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 81
@@ -71955,7 +72668,23 @@ graph [
     source 85
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "fc2b5c075eb3ec580411c1b8309a50b97cd7a4da0abc7430c4236e4b69b73aa3"
+    source_drug "Kadamba"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 85
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "fc2b5c075eb3ec580411c1b8309a50b97cd7a4da0abc7430c4236e4b69b73aa3"
+    source_drug "Kadamba - bheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 87
@@ -72004,6 +72733,22 @@ graph [
     target 89
     key 0
     relation "TREATS"
+    evidence_hash "1663d22cf0a732245beb47c2fb43e9c772e0490097b65766a944f1625e6fab48"
+    source_drug "Bilva"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 87
+    target 89
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1663d22cf0a732245beb47c2fb43e9c772e0490097b65766a944f1625e6fab48"
+    source_drug "Bilva"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 90
@@ -72033,19 +72778,34 @@ graph [
     source 90
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 90
     target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 90
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 91
@@ -72187,21 +72947,69 @@ graph [
   ]
   edge [
     source 98
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "098b0a3a3d5a9e39a6d423f64428085da0c03e81b439693678fc798f872e7d56"
+    source_drug "Agastya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 98
-    target 4
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "098b0a3a3d5a9e39a6d423f64428085da0c03e81b439693678fc798f872e7d56"
+    source_drug "Agastya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 98
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "098b0a3a3d5a9e39a6d423f64428085da0c03e81b439693678fc798f872e7d56"
+    source_drug "Agastya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 98
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "098b0a3a3d5a9e39a6d423f64428085da0c03e81b439693678fc798f872e7d56"
+    source_drug "Agastya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 98
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "098b0a3a3d5a9e39a6d423f64428085da0c03e81b439693678fc798f872e7d56"
+    source_drug "Agastya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 98
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "098b0a3a3d5a9e39a6d423f64428085da0c03e81b439693678fc798f872e7d56"
+    source_drug "Agastya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 99
@@ -72376,12 +73184,44 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "90fa15b372d7133e20af99e28b5bd05a522b6754ef8714312888f77df85692cd"
+    source_drug "Aralu"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 108
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "90fa15b372d7133e20af99e28b5bd05a522b6754ef8714312888f77df85692cd"
+    source_drug "Aralu"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 108
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "90fa15b372d7133e20af99e28b5bd05a522b6754ef8714312888f77df85692cd"
+    source_drug "Aralu"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 108
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "90fa15b372d7133e20af99e28b5bd05a522b6754ef8714312888f77df85692cd"
+    source_drug "Aralu"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 110
@@ -72727,9 +73567,25 @@ graph [
   ]
   edge [
     source 128
-    target 28
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "9e93f3a2ee13bda3651d8662077fec57e55f49b6c9a4a49f050411c2df469401"
+    source_drug "Palandu"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 128
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9e93f3a2ee13bda3651d8662077fec57e55f49b6c9a4a49f050411c2df469401"
+    source_drug "Palandu"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 129
@@ -72787,9 +73643,25 @@ graph [
   ]
   edge [
     source 130
-    target 28
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "7d33d04a59a87ef3a70fe1f39d4e63334bd12e1b7429da060717f35f1a67b13f"
+    source_drug "Jambu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 130
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7d33d04a59a87ef3a70fe1f39d4e63334bd12e1b7429da060717f35f1a67b13f"
+    source_drug "Jambu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 131
@@ -72975,25 +73847,45 @@ graph [
     source 142
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 142
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 142
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 142
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 142
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 142
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 143
@@ -73135,45 +74027,311 @@ graph [
   ]
   edge [
     source 147
-    target 13
+    target 33
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 147
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 147
-    target 28
-    key 0
-    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 147
     target 33
-    key 0
+    key 1
     relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 147
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 147
     target 34
     key 0
     relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 34
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 34
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 147
+    target 34
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 147
     target 35
     key 0
     relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 35
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 35
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 147
+    target 35
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 147
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 29
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 147
+    target 29
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 147
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 147
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 147
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 147
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 147
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 147
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 147
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 148
@@ -73633,15 +74791,47 @@ graph [
   ]
   edge [
     source 168
-    target 20
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 168
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka - sveta"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 168
+    target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 168
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka - sveta"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 169
@@ -73951,27 +75141,47 @@ graph [
   ]
   edge [
     source 185
-    target 34
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 185
-    target 28
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 185
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 185
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 185
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 186
@@ -74029,45 +75239,80 @@ graph [
   ]
   edge [
     source 187
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 187
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 187
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 187
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 187
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 187
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 187
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 187
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 187
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 187
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 187
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 187
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 188
@@ -74101,21 +75346,36 @@ graph [
   ]
   edge [
     source 188
-    target 34
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 188
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 188
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 188
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 189
@@ -74173,21 +75433,36 @@ graph [
   ]
   edge [
     source 190
-    target 34
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 190
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 190
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 190
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 191
@@ -74233,21 +75508,69 @@ graph [
   ]
   edge [
     source 191
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "a1139b2811c1fedd37b5dc8f425269d5a0e42cf56a29e128b5afafa8936997c8"
+    source_drug "Usira"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 191
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a1139b2811c1fedd37b5dc8f425269d5a0e42cf56a29e128b5afafa8936997c8"
+    source_drug "Usira"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 191
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "a1139b2811c1fedd37b5dc8f425269d5a0e42cf56a29e128b5afafa8936997c8"
+    source_drug "Usira"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 191
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a1139b2811c1fedd37b5dc8f425269d5a0e42cf56a29e128b5afafa8936997c8"
+    source_drug "Usira"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 191
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "a1139b2811c1fedd37b5dc8f425269d5a0e42cf56a29e128b5afafa8936997c8"
+    source_drug "Usira"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 191
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a1139b2811c1fedd37b5dc8f425269d5a0e42cf56a29e128b5afafa8936997c8"
+    source_drug "Usira"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 192
@@ -74275,21 +75598,36 @@ graph [
   ]
   edge [
     source 192
-    target 34
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 192
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 192
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 192
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 193
@@ -74305,21 +75643,36 @@ graph [
   ]
   edge [
     source 193
-    target 34
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 193
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 193
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 193
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 194
@@ -74413,15 +75766,25 @@ graph [
   ]
   edge [
     source 198
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "262299e7b8a2cb0b55dba3daaca4f773e0ead19ded85c17928a0718f25c4369c"
+    source_drug "Satapuspa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 198
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "262299e7b8a2cb0b55dba3daaca4f773e0ead19ded85c17928a0718f25c4369c"
+    source_drug "Satapuspa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 199
@@ -74599,15 +75962,47 @@ graph [
   ]
   edge [
     source 207
-    target 28
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "d2e9cddee87f56569ca47afc9a906a59c3ce5ff743438cfe461e1c294f550c86"
+    source_drug "Dhava"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 207
-    target 35
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d2e9cddee87f56569ca47afc9a906a59c3ce5ff743438cfe461e1c294f550c86"
+    source_drug "Dhava"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 207
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "d2e9cddee87f56569ca47afc9a906a59c3ce5ff743438cfe461e1c294f550c86"
+    source_drug "Dhava"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 207
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d2e9cddee87f56569ca47afc9a906a59c3ce5ff743438cfe461e1c294f550c86"
+    source_drug "Dhava"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 209
@@ -74643,7 +76038,23 @@ graph [
     source 209
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "fc2b5c075eb3ec580411c1b8309a50b97cd7a4da0abc7430c4236e4b69b73aa3"
+    source_drug "Kadamba"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 209
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "fc2b5c075eb3ec580411c1b8309a50b97cd7a4da0abc7430c4236e4b69b73aa3"
+    source_drug "Kadamba - bheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 210
@@ -74728,6 +76139,22 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "4505a0e1d7ae3449cbdd0c45e43dad87eba6a306f9fdb125779bd0517a28c345"
+    source_drug "Ajamoda"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 213
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "4505a0e1d7ae3449cbdd0c45e43dad87eba6a306f9fdb125779bd0517a28c345"
+    source_drug "Ajamoda"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 214
@@ -74800,6 +76227,22 @@ graph [
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "36c961b9e78703113d07484bcf1f89ae2dcf7d0750e311b6a8c12582112d0942"
+    source_drug "Agaru"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 216
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "36c961b9e78703113d07484bcf1f89ae2dcf7d0750e311b6a8c12582112d0942"
+    source_drug "Agaru"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 218
@@ -74905,9 +76348,25 @@ graph [
   ]
   edge [
     source 224
-    target 35
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "e2f25189ec479414ba59cc8925f615b389b2b2594b1d68a319ec63761cb5f83f"
+    source_drug "Puga"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 224
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e2f25189ec479414ba59cc8925f615b389b2b2594b1d68a319ec63761cb5f83f"
+    source_drug "Puga"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 226
@@ -74950,24 +76409,88 @@ graph [
     target 33
     key 0
     relation "TREATS"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 226
-    target 34
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 226
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 226
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 226
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 226
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 226
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 226
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 228
@@ -75037,39 +76560,69 @@ graph [
   ]
   edge [
     source 231
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 231
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 231
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 231
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 231
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 231
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 231
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 231
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 231
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 231
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 232
@@ -75103,39 +76656,80 @@ graph [
   ]
   edge [
     source 233
-    target 13
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37f2ba0541f09fe77dd578f7c0a2da1fee9aa306156e3b7aee6ba57840da9ea6"
+    source_drug "Vidari"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 233
-    target 28
-    key 0
-    relation "TREATS"
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 233
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 233
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 233
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 233
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 233
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 233
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 233
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 234
@@ -75163,45 +76757,80 @@ graph [
   ]
   edge [
     source 234
-    target 29
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 234
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 234
-    target 4
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 234
     target 28
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 234
-    target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 234
-    target 34
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 234
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 234
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 234
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 234
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 234
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 236
@@ -75259,33 +76888,135 @@ graph [
   ]
   edge [
     source 238
-    target 13
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "3e546471ab71ca41f766607aa294ef61a7a9390f1bdaed7a03b8d484a8f579bc"
+    source_drug "Kitamari"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 238
     target 33
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3e546471ab71ca41f766607aa294ef61a7a9390f1bdaed7a03b8d484a8f579bc"
+    source_drug "Kitamari"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 238
-    target 34
-    key 0
-    relation "TREATS"
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 238
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "3e546471ab71ca41f766607aa294ef61a7a9390f1bdaed7a03b8d484a8f579bc"
+    source_drug "Kitamari"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 238
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3e546471ab71ca41f766607aa294ef61a7a9390f1bdaed7a03b8d484a8f579bc"
+    source_drug "Kitamari"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 238
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 238
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "3e546471ab71ca41f766607aa294ef61a7a9390f1bdaed7a03b8d484a8f579bc"
+    source_drug "Kitamari"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 238
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3e546471ab71ca41f766607aa294ef61a7a9390f1bdaed7a03b8d484a8f579bc"
+    source_drug "Kitamari"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 238
+    target 35
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 238
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "3e546471ab71ca41f766607aa294ef61a7a9390f1bdaed7a03b8d484a8f579bc"
+    source_drug "Kitamari"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 238
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3e546471ab71ca41f766607aa294ef61a7a9390f1bdaed7a03b8d484a8f579bc"
+    source_drug "Kitamari"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 238
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 240
@@ -75325,33 +77056,69 @@ graph [
   ]
   edge [
     source 240
-    target 13
+    target 4
     key 0
     relation "TREATS"
+    evidence_hash "72fa50ed290195405337373ecaddf1e05eeaef7ddffd4ad985d33619ae93ea64"
+    source_drug "Isvari"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 240
     target 4
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "72fa50ed290195405337373ecaddf1e05eeaef7ddffd4ad985d33619ae93ea64"
+    source_drug "Isvari"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 240
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 240
-    target 34
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "C (Sub)"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 240
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "C (Sub)"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 240
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "C (Sub)"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 240
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "C (Sub)"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 241
@@ -75373,27 +77140,47 @@ graph [
   ]
   edge [
     source 241
-    target 34
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 241
-    target 28
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 241
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 241
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 241
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 242
@@ -75508,6 +77295,22 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "6a89bd944cbb790993cd63df501f470116e15fd50557c523b177eb0f05887f09"
+    source_drug "Cauhara"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 246
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6a89bd944cbb790993cd63df501f470116e15fd50557c523b177eb0f05887f09"
+    source_drug "Cauhara"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 247
@@ -75937,21 +77740,69 @@ graph [
   ]
   edge [
     source 265
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 265
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 265
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 265
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 265
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 265
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 266
@@ -75991,21 +77842,36 @@ graph [
   ]
   edge [
     source 267
-    target 33
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Suggested source 2"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 267
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Suggested source 2"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 267
     target 89
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 267
-    target 29
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Suggested source 2"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 268
@@ -76033,21 +77899,36 @@ graph [
   ]
   edge [
     source 269
-    target 33
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 269
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 269
     target 89
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 269
-    target 29
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 270
@@ -76111,21 +77992,69 @@ graph [
   ]
   edge [
     source 271
-    target 33
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 271
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 271
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 271
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 271
     target 89
     key 0
     relation "TREATS"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 271
-    target 29
-    key 0
-    relation "TREATS"
+    target 89
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 272
@@ -76153,21 +78082,69 @@ graph [
   ]
   edge [
     source 272
-    target 33
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 272
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 272
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 272
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 272
     target 89
     key 0
     relation "TREATS"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 272
-    target 29
-    key 0
-    relation "TREATS"
+    target 89
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d4716d7378e3d0e3d84baac30407237429867668212e4276e1e7c43bfcae0050"
+    source_drug "Satavari"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 273
@@ -76213,15 +78190,47 @@ graph [
   ]
   edge [
     source 273
-    target 33
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "5887152174e514eea68861be33fe29c5f9e1619aaa8948dccbb8721a17181162"
+    source_drug "Kokilaksa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 273
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5887152174e514eea68861be33fe29c5f9e1619aaa8948dccbb8721a17181162"
+    source_drug "Kokilaksa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 273
     target 35
     key 0
     relation "TREATS"
+    evidence_hash "5887152174e514eea68861be33fe29c5f9e1619aaa8948dccbb8721a17181162"
+    source_drug "Kokilaksa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 273
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5887152174e514eea68861be33fe29c5f9e1619aaa8948dccbb8721a17181162"
+    source_drug "Kokilaksa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 274
@@ -76393,33 +78402,113 @@ graph [
   ]
   edge [
     source 281
-    target 4
+    target 33
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 281
-    target 21
-    key 0
-    relation "TREATS"
+    evidence_hash "7f6f70484f2c44bbd5c25701ecbb3366574a4ea1d5d8d3203b824bd7818038e8"
+    source_drug "Nimba"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 281
     target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 281
-    target 34
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7f6f70484f2c44bbd5c25701ecbb3366574a4ea1d5d8d3203b824bd7818038e8"
+    source_drug "Nimba"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 281
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "7f6f70484f2c44bbd5c25701ecbb3366574a4ea1d5d8d3203b824bd7818038e8"
+    source_drug "Nimba"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 281
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7f6f70484f2c44bbd5c25701ecbb3366574a4ea1d5d8d3203b824bd7818038e8"
+    source_drug "Nimba"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 281
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "7f6f70484f2c44bbd5c25701ecbb3366574a4ea1d5d8d3203b824bd7818038e8"
+    source_drug "Nimba"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 281
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7f6f70484f2c44bbd5c25701ecbb3366574a4ea1d5d8d3203b824bd7818038e8"
+    source_drug "Nimba"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 281
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "7f6f70484f2c44bbd5c25701ecbb3366574a4ea1d5d8d3203b824bd7818038e8"
+    source_drug "Nimba"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 281
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7f6f70484f2c44bbd5c25701ecbb3366574a4ea1d5d8d3203b824bd7818038e8"
+    source_drug "Nimba"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 281
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "7f6f70484f2c44bbd5c25701ecbb3366574a4ea1d5d8d3203b824bd7818038e8"
+    source_drug "Nimba"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 281
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7f6f70484f2c44bbd5c25701ecbb3366574a4ea1d5d8d3203b824bd7818038e8"
+    source_drug "Nimba"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 282
@@ -76449,7 +78538,34 @@ graph [
     source 282
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 282
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa - prajati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 282
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 283
@@ -76513,45 +78629,311 @@ graph [
   ]
   edge [
     source 285
-    target 13
+    target 33
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 285
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 285
-    target 28
-    key 0
-    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 285
     target 33
-    key 0
+    key 1
     relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 285
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 285
     target 34
     key 0
     relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 34
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 34
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 285
+    target 34
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 285
     target 35
     key 0
     relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 35
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 35
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 285
+    target 35
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 285
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 29
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 285
+    target 29
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 285
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 285
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 285
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 285
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 285
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 285
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 285
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 286
@@ -76594,18 +78976,66 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "29e3bd6ee732214acdd16d12509a0b8dbd416b2bdf0743c5d6d9a310c3fb7317"
+    source_drug "Ingudi"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 286
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "29e3bd6ee732214acdd16d12509a0b8dbd416b2bdf0743c5d6d9a310c3fb7317"
+    source_drug "Ingudi"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 286
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "29e3bd6ee732214acdd16d12509a0b8dbd416b2bdf0743c5d6d9a310c3fb7317"
+    source_drug "Ingudi"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 286
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "29e3bd6ee732214acdd16d12509a0b8dbd416b2bdf0743c5d6d9a310c3fb7317"
+    source_drug "Ingudi"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 286
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "29e3bd6ee732214acdd16d12509a0b8dbd416b2bdf0743c5d6d9a310c3fb7317"
+    source_drug "Ingudi"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 286
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "29e3bd6ee732214acdd16d12509a0b8dbd416b2bdf0743c5d6d9a310c3fb7317"
+    source_drug "Ingudi"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 288
@@ -76771,15 +79201,47 @@ graph [
   ]
   edge [
     source 295
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "26d9bdfc778cbe03819e61c5d4f4681b146c6dcc4d1bcad00cda276acd0ec365"
+    source_drug "Bola"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 295
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "26d9bdfc778cbe03819e61c5d4f4681b146c6dcc4d1bcad00cda276acd0ec365"
+    source_drug "Bola"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 295
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "26d9bdfc778cbe03819e61c5d4f4681b146c6dcc4d1bcad00cda276acd0ec365"
+    source_drug "Bola"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 295
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "26d9bdfc778cbe03819e61c5d4f4681b146c6dcc4d1bcad00cda276acd0ec365"
+    source_drug "Bola"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 296
@@ -76825,27 +79287,91 @@ graph [
   ]
   edge [
     source 297
-    target 21
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "2cd7425744a2df5f53e7ac65763eeda20f2529d3c3b8d236b346b03dc302efe8"
+    source_drug "Vamsa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 297
     target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2cd7425744a2df5f53e7ac65763eeda20f2529d3c3b8d236b346b03dc302efe8"
+    source_drug "Vamsa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 297
+    target 21
     key 0
     relation "TREATS"
+    evidence_hash "2cd7425744a2df5f53e7ac65763eeda20f2529d3c3b8d236b346b03dc302efe8"
+    source_drug "Vamsa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 297
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2cd7425744a2df5f53e7ac65763eeda20f2529d3c3b8d236b346b03dc302efe8"
+    source_drug "Vamsa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 297
     target 29
     key 0
     relation "TREATS"
+    evidence_hash "2cd7425744a2df5f53e7ac65763eeda20f2529d3c3b8d236b346b03dc302efe8"
+    source_drug "Vamsa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 297
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2cd7425744a2df5f53e7ac65763eeda20f2529d3c3b8d236b346b03dc302efe8"
+    source_drug "Vamsa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 297
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "2cd7425744a2df5f53e7ac65763eeda20f2529d3c3b8d236b346b03dc302efe8"
+    source_drug "Vamsa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 297
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2cd7425744a2df5f53e7ac65763eeda20f2529d3c3b8d236b346b03dc302efe8"
+    source_drug "Vamsa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 299
@@ -77191,9 +79717,14 @@ graph [
   ]
   edge [
     source 319
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "838138c4a6786d92898fa9c0f6428c4d6dfd269b7f5b10c4e0ab6f59ade2c768"
+    source_drug "Asmantaka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 320
@@ -77245,9 +79776,14 @@ graph [
   ]
   edge [
     source 321
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "838138c4a6786d92898fa9c0f6428c4d6dfd269b7f5b10c4e0ab6f59ade2c768"
+    source_drug "Asmantaka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 322
@@ -77275,21 +79811,80 @@ graph [
   ]
   edge [
     source 322
-    target 34
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "838138c4a6786d92898fa9c0f6428c4d6dfd269b7f5b10c4e0ab6f59ade2c768"
+    source_drug "Asmantaka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 322
-    target 28
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 322
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 322
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 322
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 322
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 322
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 323
@@ -77311,21 +79906,80 @@ graph [
   ]
   edge [
     source 323
-    target 34
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "838138c4a6786d92898fa9c0f6428c4d6dfd269b7f5b10c4e0ab6f59ade2c768"
+    source_drug "Asmantaka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 323
-    target 28
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 323
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 323
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 323
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 323
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 323
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 324
@@ -77425,21 +80079,69 @@ graph [
   ]
   edge [
     source 326
-    target 13
+    target 4
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 326
-    target 28
-    key 0
-    relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 326
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 326
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 326
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 326
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 326
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 328
@@ -77467,21 +80169,69 @@ graph [
   ]
   edge [
     source 328
-    target 13
+    target 4
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 328
-    target 28
-    key 0
-    relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 328
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 328
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 328
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 328
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 328
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 329
@@ -77541,19 +80291,34 @@ graph [
     source 332
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 332
     target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 332
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 333
@@ -77689,15 +80454,91 @@ graph [
   ]
   edge [
     source 339
-    target 33
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 339
+    target 35
+    key 1
+    relation "TREATS"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 339
+    target 35
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 339
+    target 35
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 339
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 339
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 339
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 339
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 341
@@ -77847,25 +80688,45 @@ graph [
     source 348
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 348
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 348
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 348
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 348
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 348
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 349
@@ -77935,9 +80796,25 @@ graph [
   ]
   edge [
     source 351
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "708d1c790ab528f9de469d73f224230a1c35240817c0d49323cd357492ec540c"
+    source_drug "Kukundara"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 351
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "708d1c790ab528f9de469d73f224230a1c35240817c0d49323cd357492ec540c"
+    source_drug "Kukundara"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 352
@@ -77989,21 +80866,201 @@ graph [
   ]
   edge [
     source 354
-    target 12
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 354
-    target 29
+    target 28
+    key 1
+    relation "TREATS"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 354
+    target 28
+    key 2
+    relation "TREATS"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 354
+    target 28
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 354
+    target 28
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 354
+    target 28
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 354
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 354
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 354
+    target 12
+    key 2
+    relation "TREATS"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 354
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 354
+    target 12
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 354
+    target 12
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 354
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 354
+    target 4
+    key 1
+    relation "TREATS"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 354
+    target 4
+    key 2
+    relation "TREATS"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 354
+    target 4
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 354
+    target 4
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 354
+    target 4
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 356
@@ -78151,27 +81208,91 @@ graph [
   ]
   edge [
     source 361
-    target 13
+    target 20
     key 0
     relation "TREATS"
+    evidence_hash "1a8c882774b6200b0c87973179d2cb8fb1b954e882f66b7231e837fb4c04e634"
+    source_drug "Tala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 361
     target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1a8c882774b6200b0c87973179d2cb8fb1b954e882f66b7231e837fb4c04e634"
+    source_drug "Tala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 361
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "1a8c882774b6200b0c87973179d2cb8fb1b954e882f66b7231e837fb4c04e634"
+    source_drug "Tala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 361
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1a8c882774b6200b0c87973179d2cb8fb1b954e882f66b7231e837fb4c04e634"
+    source_drug "Tala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 361
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "1a8c882774b6200b0c87973179d2cb8fb1b954e882f66b7231e837fb4c04e634"
+    source_drug "Tala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 361
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1a8c882774b6200b0c87973179d2cb8fb1b954e882f66b7231e837fb4c04e634"
+    source_drug "Tala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 361
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "1a8c882774b6200b0c87973179d2cb8fb1b954e882f66b7231e837fb4c04e634"
+    source_drug "Tala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 361
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1a8c882774b6200b0c87973179d2cb8fb1b954e882f66b7231e837fb4c04e634"
+    source_drug "Tala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 362
@@ -78253,21 +81374,135 @@ graph [
   ]
   edge [
     source 364
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 364
-    target 29
+    target 33
+    key 1
+    relation "TREATS"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki - bheda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 364
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 364
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki - bheda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 364
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 364
+    target 28
+    key 1
+    relation "TREATS"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki - bheda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 364
+    target 28
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 364
+    target 28
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki - bheda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 364
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 364
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki - bheda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 364
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 364
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "355b560da9a26b0216f9c30e4216310cf16c622b8312604532be733adb41273c"
+    source_drug "Sallaki - bheda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 365
@@ -78394,18 +81629,66 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "1be13f9c0683d3fad1c006e3d8e96a50e54222030e78b387dabe9ca9f14cb3b1"
+    source_drug "Sarsapa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 370
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1be13f9c0683d3fad1c006e3d8e96a50e54222030e78b387dabe9ca9f14cb3b1"
+    source_drug "Sarsapa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 370
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "1be13f9c0683d3fad1c006e3d8e96a50e54222030e78b387dabe9ca9f14cb3b1"
+    source_drug "Sarsapa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 370
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1be13f9c0683d3fad1c006e3d8e96a50e54222030e78b387dabe9ca9f14cb3b1"
+    source_drug "Sarsapa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 370
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "1be13f9c0683d3fad1c006e3d8e96a50e54222030e78b387dabe9ca9f14cb3b1"
+    source_drug "Sarsapa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 370
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1be13f9c0683d3fad1c006e3d8e96a50e54222030e78b387dabe9ca9f14cb3b1"
+    source_drug "Sarsapa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 371
@@ -78466,18 +81749,66 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "2ee2ae38b5c6626ba35aa1bb0d63b4551c6899ce0352d400bf6726dd28e03fab"
+    source_drug "Rajika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 372
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2ee2ae38b5c6626ba35aa1bb0d63b4551c6899ce0352d400bf6726dd28e03fab"
+    source_drug "Rajika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 372
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "2ee2ae38b5c6626ba35aa1bb0d63b4551c6899ce0352d400bf6726dd28e03fab"
+    source_drug "Rajika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 372
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2ee2ae38b5c6626ba35aa1bb0d63b4551c6899ce0352d400bf6726dd28e03fab"
+    source_drug "Rajika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 372
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "2ee2ae38b5c6626ba35aa1bb0d63b4551c6899ce0352d400bf6726dd28e03fab"
+    source_drug "Rajika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 372
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2ee2ae38b5c6626ba35aa1bb0d63b4551c6899ce0352d400bf6726dd28e03fab"
+    source_drug "Rajika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 373
@@ -78633,19 +81964,34 @@ graph [
     source 379
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 379
     target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 379
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 380
@@ -78675,19 +82021,34 @@ graph [
     source 380
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 380
     target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 380
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 381
@@ -78867,19 +82228,34 @@ graph [
     source 387
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 387
     target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 387
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 389
@@ -78919,15 +82295,47 @@ graph [
   ]
   edge [
     source 389
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "a8ca9ac34b622802e1fbe4cfad8aeb46a01d553fedbdc157f990e797b48f3373"
+    source_drug "Priyala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 389
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a8ca9ac34b622802e1fbe4cfad8aeb46a01d553fedbdc157f990e797b48f3373"
+    source_drug "Priyala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 389
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "a8ca9ac34b622802e1fbe4cfad8aeb46a01d553fedbdc157f990e797b48f3373"
+    source_drug "Priyala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 389
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a8ca9ac34b622802e1fbe4cfad8aeb46a01d553fedbdc157f990e797b48f3373"
+    source_drug "Priyala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 390
@@ -79243,15 +82651,47 @@ graph [
   ]
   edge [
     source 404
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "95e90b32f8b08cfa29df296e02055661bc028fe74ca008fd52c04c8e99915fe2"
+    source_drug "Patranga"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 404
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "95e90b32f8b08cfa29df296e02055661bc028fe74ca008fd52c04c8e99915fe2"
+    source_drug "Patranga"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 404
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "95e90b32f8b08cfa29df296e02055661bc028fe74ca008fd52c04c8e99915fe2"
+    source_drug "Patranga"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 404
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "95e90b32f8b08cfa29df296e02055661bc028fe74ca008fd52c04c8e99915fe2"
+    source_drug "Patranga"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 405
@@ -79459,9 +82899,47 @@ graph [
   ]
   edge [
     source 415
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "9112b34e751e404502799f94b2a9403c22c08d392b865f8308b5b85aabee6009"
+    source_drug "Priyangu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 415
+    target 33
+    key 1
+    relation "TREATS"
+    evidence_hash "9112b34e751e404502799f94b2a9403c22c08d392b865f8308b5b85aabee6009"
+    source_drug "Priyangu - ausadha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 415
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9112b34e751e404502799f94b2a9403c22c08d392b865f8308b5b85aabee6009"
+    source_drug "Priyangu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 415
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9112b34e751e404502799f94b2a9403c22c08d392b865f8308b5b85aabee6009"
+    source_drug "Priyangu - ausadha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 416
@@ -79537,21 +83015,69 @@ graph [
   ]
   edge [
     source 420
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 420
-    target 29
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 420
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 420
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 420
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 420
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 422
@@ -79681,9 +83207,25 @@ graph [
   ]
   edge [
     source 427
-    target 28
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "7d33d04a59a87ef3a70fe1f39d4e63334bd12e1b7429da060717f35f1a67b13f"
+    source_drug "Jambu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 427
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7d33d04a59a87ef3a70fe1f39d4e63334bd12e1b7429da060717f35f1a67b13f"
+    source_drug "Jambu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 428
@@ -79951,15 +83493,25 @@ graph [
   ]
   edge [
     source 441
-    target 13
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "82d419ef06c45cbc38001852ddb94e952b4c1c0d8eef9e5d9606dd6407f8dd65"
+    source_drug "Karira"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 441
-    target 4
+    target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "82d419ef06c45cbc38001852ddb94e952b4c1c0d8eef9e5d9606dd6407f8dd65"
+    source_drug "Karira"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 442
@@ -79987,15 +83539,25 @@ graph [
   ]
   edge [
     source 442
-    target 13
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "82d419ef06c45cbc38001852ddb94e952b4c1c0d8eef9e5d9606dd6407f8dd65"
+    source_drug "Karira"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 442
-    target 4
+    target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "82d419ef06c45cbc38001852ddb94e952b4c1c0d8eef9e5d9606dd6407f8dd65"
+    source_drug "Karira"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 443
@@ -80035,15 +83597,47 @@ graph [
   ]
   edge [
     source 443
-    target 13
+    target 4
     key 0
     relation "TREATS"
+    evidence_hash "82d419ef06c45cbc38001852ddb94e952b4c1c0d8eef9e5d9606dd6407f8dd65"
+    source_drug "Karira"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 443
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "82d419ef06c45cbc38001852ddb94e952b4c1c0d8eef9e5d9606dd6407f8dd65"
+    source_drug "Karira"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 443
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "82d419ef06c45cbc38001852ddb94e952b4c1c0d8eef9e5d9606dd6407f8dd65"
+    source_drug "Karira"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 443
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "82d419ef06c45cbc38001852ddb94e952b4c1c0d8eef9e5d9606dd6407f8dd65"
+    source_drug "Karira"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 444
@@ -80161,9 +83755,25 @@ graph [
   ]
   edge [
     source 449
-    target 33
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "92072b7ea385f57f29169fe38679514414a0c16e40b6dfa624c9e4162d8c0029"
+    source_drug "Himsra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 449
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "92072b7ea385f57f29169fe38679514414a0c16e40b6dfa624c9e4162d8c0029"
+    source_drug "Himsra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 450
@@ -80289,7 +83899,12 @@ graph [
     source 453
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "60e351ca61c471caa5e15484e698d3a8c82978fd347e9b7cb0d7704d6dba874f"
+    source_drug "Jyotismati"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 454
@@ -80317,45 +83932,102 @@ graph [
   ]
   edge [
     source 454
-    target 13
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "31ac0832e0d46698de85ce01c531a3452d21ef7fda84769a324cc61183338627"
+    source_drug "Kumbhi"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 454
-    target 29
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 454
-    target 89
-    key 0
-    relation "TREATS"
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "31ac0832e0d46698de85ce01c531a3452d21ef7fda84769a324cc61183338627"
+    source_drug "Kumbhi"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 454
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 454
     target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 454
-    target 35
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 454
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 454
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 454
+    target 89
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 456
@@ -80410,12 +84082,44 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "2213c9c955e474185df601fff204be588f8a2a0e627cf92f759f0f712db8351d"
+    source_drug "Erandakarkati"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 457
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2213c9c955e474185df601fff204be588f8a2a0e627cf92f759f0f712db8351d"
+    source_drug "Erandakarkati"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 457
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "2213c9c955e474185df601fff204be588f8a2a0e627cf92f759f0f712db8351d"
+    source_drug "Erandakarkati"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 457
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2213c9c955e474185df601fff204be588f8a2a0e627cf92f759f0f712db8351d"
+    source_drug "Erandakarkati"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 458
@@ -80626,12 +84330,44 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "0bbc01501a72b53fffdd0e2198cff2d901c3287d13cd77fd682d3d5019c9abb0"
+    source_drug "Yavani"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 463
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "0bbc01501a72b53fffdd0e2198cff2d901c3287d13cd77fd682d3d5019c9abb0"
+    source_drug "Yavani"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 463
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "0bbc01501a72b53fffdd0e2198cff2d901c3287d13cd77fd682d3d5019c9abb0"
+    source_drug "Yavani"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 463
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "0bbc01501a72b53fffdd0e2198cff2d901c3287d13cd77fd682d3d5019c9abb0"
+    source_drug "Yavani"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 464
@@ -80667,7 +84403,12 @@ graph [
     source 464
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "4505a0e1d7ae3449cbdd0c45e43dad87eba6a306f9fdb125779bd0517a28c345"
+    source_drug "Ajamoda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 465
@@ -80710,12 +84451,44 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "ba9d2fcf4c63af822a819118b17505b5b7672fa4678006f0c2fd5114119ea2b8"
+    source_drug "Lavanga"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 465
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ba9d2fcf4c63af822a819118b17505b5b7672fa4678006f0c2fd5114119ea2b8"
+    source_drug "Lavanga"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 465
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "ba9d2fcf4c63af822a819118b17505b5b7672fa4678006f0c2fd5114119ea2b8"
+    source_drug "Lavanga"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 465
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ba9d2fcf4c63af822a819118b17505b5b7672fa4678006f0c2fd5114119ea2b8"
+    source_drug "Lavanga"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 466
@@ -80803,39 +84576,69 @@ graph [
   ]
   edge [
     source 468
-    target 29
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b41daf2ee0c0fa2cfe66096bc7bfe7a827097bc4a8b5a6c718542b0d4b92f939"
+    source_drug "Hapusa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 468
     target 89
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 468
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 468
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 468
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b41daf2ee0c0fa2cfe66096bc7bfe7a827097bc4a8b5a6c718542b0d4b92f939"
+    source_drug "Hapusa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 468
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "df69a7420067d71b8336a8d3a37f282ea9222ae6c65d2cc258fb60d4781d9fe6"
+    source_drug "Kampillaka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 468
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "df69a7420067d71b8336a8d3a37f282ea9222ae6c65d2cc258fb60d4781d9fe6"
+    source_drug "Kampillaka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 468
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "df69a7420067d71b8336a8d3a37f282ea9222ae6c65d2cc258fb60d4781d9fe6"
+    source_drug "Kampillaka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 468
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "df69a7420067d71b8336a8d3a37f282ea9222ae6c65d2cc258fb60d4781d9fe6"
+    source_drug "Kampillaka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 470
@@ -80857,15 +84660,25 @@ graph [
   ]
   edge [
     source 470
-    target 89
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b41daf2ee0c0fa2cfe66096bc7bfe7a827097bc4a8b5a6c718542b0d4b92f939"
+    source_drug "Hapusa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 470
-    target 29
+    target 89
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b41daf2ee0c0fa2cfe66096bc7bfe7a827097bc4a8b5a6c718542b0d4b92f939"
+    source_drug "Hapusa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 471
@@ -80905,27 +84718,91 @@ graph [
   ]
   edge [
     source 471
-    target 13
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 471
-    target 33
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 471
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 471
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 471
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 471
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 471
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 471
-    target 29
-    key 0
-    relation "TREATS"
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 472
@@ -81016,24 +84893,88 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "d2a4a7ffb77dd6ff7b86d0c1424f18e6c1f8fcffd638c008f5703e985ebb2545"
+    source_drug "Avartaki"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 474
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d2a4a7ffb77dd6ff7b86d0c1424f18e6c1f8fcffd638c008f5703e985ebb2545"
+    source_drug "Avartaki"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 474
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "d2a4a7ffb77dd6ff7b86d0c1424f18e6c1f8fcffd638c008f5703e985ebb2545"
+    source_drug "Avartaki"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 474
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d2a4a7ffb77dd6ff7b86d0c1424f18e6c1f8fcffd638c008f5703e985ebb2545"
+    source_drug "Avartaki"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 474
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "d2a4a7ffb77dd6ff7b86d0c1424f18e6c1f8fcffd638c008f5703e985ebb2545"
+    source_drug "Avartaki"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 474
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d2a4a7ffb77dd6ff7b86d0c1424f18e6c1f8fcffd638c008f5703e985ebb2545"
+    source_drug "Avartaki"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 474
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "e31e8d1bb6214839a1d5bf94af8a6d452aad828fe41a33e52b04b846bf42b30e"
+    source_drug "Avartani"
+    identity_status "Most probable"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 474
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 474
-    target 21
-    key 0
-    relation "TREATS"
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e31e8d1bb6214839a1d5bf94af8a6d452aad828fe41a33e52b04b846bf42b30e"
+    source_drug "Avartani"
+    identity_status "Most probable"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 475
@@ -81073,21 +85014,69 @@ graph [
   ]
   edge [
     source 475
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "9179a50bb24f6f4844f0236c79e9ef00d75ed02fe6f2a5783154a201e2d10c2f"
+    source_drug "Aragvadha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 475
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9179a50bb24f6f4844f0236c79e9ef00d75ed02fe6f2a5783154a201e2d10c2f"
+    source_drug "Aragvadha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 475
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "9179a50bb24f6f4844f0236c79e9ef00d75ed02fe6f2a5783154a201e2d10c2f"
+    source_drug "Aragvadha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 475
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9179a50bb24f6f4844f0236c79e9ef00d75ed02fe6f2a5783154a201e2d10c2f"
+    source_drug "Aragvadha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 475
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "9179a50bb24f6f4844f0236c79e9ef00d75ed02fe6f2a5783154a201e2d10c2f"
+    source_drug "Aragvadha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 475
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9179a50bb24f6f4844f0236c79e9ef00d75ed02fe6f2a5783154a201e2d10c2f"
+    source_drug "Aragvadha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 476
@@ -81166,6 +85155,22 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "a3165cfa17572aa9b9ddd24f1839fd72fdd904ac325430ad4b8d14ad462cadac"
+    source_drug "Kasamarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 478
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a3165cfa17572aa9b9ddd24f1839fd72fdd904ac325430ad4b8d14ad462cadac"
+    source_drug "Kasamarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 479
@@ -81235,33 +85240,113 @@ graph [
   ]
   edge [
     source 480
-    target 13
+    target 20
     key 0
     relation "TREATS"
+    evidence_hash "dc55e8018ebc63ccb5e0ae124759e7855cac7d3ded2d6472c876169c6fb71ad2"
+    source_drug "Cakramarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 480
-    target 21
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dc55e8018ebc63ccb5e0ae124759e7855cac7d3ded2d6472c876169c6fb71ad2"
+    source_drug "Cakramarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 480
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "dc55e8018ebc63ccb5e0ae124759e7855cac7d3ded2d6472c876169c6fb71ad2"
+    source_drug "Cakramarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 480
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dc55e8018ebc63ccb5e0ae124759e7855cac7d3ded2d6472c876169c6fb71ad2"
+    source_drug "Cakramarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 480
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "dc55e8018ebc63ccb5e0ae124759e7855cac7d3ded2d6472c876169c6fb71ad2"
+    source_drug "Cakramarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 480
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dc55e8018ebc63ccb5e0ae124759e7855cac7d3ded2d6472c876169c6fb71ad2"
+    source_drug "Cakramarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 480
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "dc55e8018ebc63ccb5e0ae124759e7855cac7d3ded2d6472c876169c6fb71ad2"
+    source_drug "Cakramarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 480
-    target 12
-    key 0
-    relation "TREATS"
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dc55e8018ebc63ccb5e0ae124759e7855cac7d3ded2d6472c876169c6fb71ad2"
+    source_drug "Cakramarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 480
-    target 20
+    target 21
     key 0
     relation "TREATS"
+    evidence_hash "dc55e8018ebc63ccb5e0ae124759e7855cac7d3ded2d6472c876169c6fb71ad2"
+    source_drug "Cakramarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 480
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dc55e8018ebc63ccb5e0ae124759e7855cac7d3ded2d6472c876169c6fb71ad2"
+    source_drug "Cakramarda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 481
@@ -81363,25 +85448,45 @@ graph [
     source 486
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 486
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 486
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 486
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 486
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 486
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 487
@@ -81634,6 +85739,22 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "60e351ca61c471caa5e15484e698d3a8c82978fd347e9b7cb0d7704d6dba874f"
+    source_drug "Jyotismati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 495
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "60e351ca61c471caa5e15484e698d3a8c82978fd347e9b7cb0d7704d6dba874f"
+    source_drug "Jyotismati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 496
@@ -81787,45 +85908,157 @@ graph [
   ]
   edge [
     source 502
-    target 13
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 502
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 502
-    target 28
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 502
     target 33
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 502
     target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 502
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 502
     target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 502
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 502
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 502
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 502
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 502
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 502
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 502
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 502
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 502
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 503
@@ -81892,6 +86125,22 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "054cf007730cc25db6702126a39e3b4acb288c6d3ebbd44fe85306346158caa4"
+    source_drug "Aranyajiraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 504
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "054cf007730cc25db6702126a39e3b4acb288c6d3ebbd44fe85306346158caa4"
+    source_drug "Aranyajiraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 505
@@ -81931,15 +86180,47 @@ graph [
   ]
   edge [
     source 507
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "415635c877eb024da1ae003a1da94d2be4e3f4002d15a329360818d427e22011"
+    source_drug "Saivala"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 507
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "415635c877eb024da1ae003a1da94d2be4e3f4002d15a329360818d427e22011"
+    source_drug "Saivala"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 507
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "415635c877eb024da1ae003a1da94d2be4e3f4002d15a329360818d427e22011"
+    source_drug "Saivala"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 507
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "415635c877eb024da1ae003a1da94d2be4e3f4002d15a329360818d427e22011"
+    source_drug "Saivala"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 509
@@ -81991,39 +86272,69 @@ graph [
   ]
   edge [
     source 510
+    target 33
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 510
+    target 20
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 510
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 510
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 510
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 510
     target 4
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 510
-    target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 510
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 510
-    target 12
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 510
-    target 20
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 511
@@ -82089,13 +86400,23 @@ graph [
     source 513
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5e2aa1de2189b0ab9aa73736e3094f2d9d89436c1520da39c613223bf60c4195"
+    source_drug "Cavya"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 513
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5e2aa1de2189b0ab9aa73736e3094f2d9d89436c1520da39c613223bf60c4195"
+    source_drug "Cavya"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 515
@@ -82135,39 +86456,157 @@ graph [
   ]
   edge [
     source 515
-    target 29
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 515
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 515
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 515
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 515
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 515
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 515
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 515
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 515
+    target 20
+    key 0
+    relation "TREATS"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 515
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 515
+    target 28
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 515
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 515
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 515
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 515
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 515
-    target 12
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 515
-    target 20
-    key 0
-    relation "TREATS"
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 516
@@ -82273,21 +86712,69 @@ graph [
   ]
   edge [
     source 520
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 520
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 520
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 520
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 520
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 520
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 521
@@ -82609,21 +87096,69 @@ graph [
   ]
   edge [
     source 534
+    target 28
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 534
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 534
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 534
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 534
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 534
-    target 29
-    key 0
-    relation "TREATS"
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 535
@@ -82711,21 +87246,179 @@ graph [
   ]
   edge [
     source 537
+    target 28
+    key 0
+    relation "TREATS"
+    evidence_hash "983a236074949c8d5dcaa76cb447718d4c7c31ab89118674ab670431f26b492a"
+    source_drug "Tamala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 537
+    target 28
+    key 1
+    relation "TREATS"
+    evidence_hash "983a236074949c8d5dcaa76cb447718d4c7c31ab89118674ab670431f26b492a"
+    source_drug "Tamala - vrksa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 537
+    target 28
+    key 2
+    relation "TREATS"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 537
+    target 28
+    key 3
+    relation "TREATS"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 537
+    target 28
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "983a236074949c8d5dcaa76cb447718d4c7c31ab89118674ab670431f26b492a"
+    source_drug "Tamala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 537
+    target 28
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "983a236074949c8d5dcaa76cb447718d4c7c31ab89118674ab670431f26b492a"
+    source_drug "Tamala - vrksa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 537
+    target 28
+    key 6
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 537
+    target 28
+    key 7
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 537
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 537
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 537
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 537
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 537
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 537
-    target 29
-    key 0
+    target 20
+    key 1
     relation "TREATS"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 537
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 537
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 538
@@ -82771,21 +87464,69 @@ graph [
   ]
   edge [
     source 538
+    target 28
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 538
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 538
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 538
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 538
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 538
-    target 29
-    key 0
-    relation "TREATS"
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ed22ad2b17f34b639f756ff0d93a57923ee1aa6890ec5c01d15dee27f5abc088"
+    source_drug "Tvak - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 539
@@ -82807,21 +87548,69 @@ graph [
   ]
   edge [
     source 539
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 539
-    target 29
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 539
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 539
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 539
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 539
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 540
@@ -82867,39 +87656,267 @@ graph [
   ]
   edge [
     source 540
-    target 13
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 540
-    target 21
-    key 0
+    target 33
+    key 1
     relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 540
-    target 4
-    key 0
-    relation "TREATS"
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 540
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 540
-    target 34
-    key 0
-    relation "TREATS"
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 540
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 540
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 540
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 540
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 540
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 540
+    target 29
+    key 1
+    relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 540
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 540
+    target 29
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 540
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 540
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 540
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 540
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 540
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 540
+    target 4
+    key 1
+    relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 540
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 540
+    target 4
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 540
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 540
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 540
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 540
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 541
@@ -83065,21 +88082,69 @@ graph [
   ]
   edge [
     source 546
+    target 28
+    key 0
+    relation "TREATS"
+    evidence_hash "752b3dbec000b93bbf02ea2030e74d824be306668e6fdc770f1aeaf2a85d0e50"
+    source_drug "Nimbuka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 546
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "752b3dbec000b93bbf02ea2030e74d824be306668e6fdc770f1aeaf2a85d0e50"
+    source_drug "Nimbuka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 546
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "752b3dbec000b93bbf02ea2030e74d824be306668e6fdc770f1aeaf2a85d0e50"
+    source_drug "Nimbuka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 546
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "752b3dbec000b93bbf02ea2030e74d824be306668e6fdc770f1aeaf2a85d0e50"
+    source_drug "Nimbuka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 546
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "752b3dbec000b93bbf02ea2030e74d824be306668e6fdc770f1aeaf2a85d0e50"
+    source_drug "Nimbuka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 546
-    target 29
-    key 0
-    relation "TREATS"
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "752b3dbec000b93bbf02ea2030e74d824be306668e6fdc770f1aeaf2a85d0e50"
+    source_drug "Nimbuka"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 547
@@ -83383,21 +88448,69 @@ graph [
   ]
   edge [
     source 560
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 560
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 560
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 560
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 560
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 560
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 561
@@ -83485,15 +88598,91 @@ graph [
   ]
   edge [
     source 564
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "195868f4892e95a1417e5c1a2f9555e9ed1808285c63e7068e3f64339149489f"
+    source_drug "Tilaparni"
+    identity_status "Suggested source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 564
+    target 33
+    key 1
+    relation "TREATS"
+    evidence_hash "195868f4892e95a1417e5c1a2f9555e9ed1808285c63e7068e3f64339149489f"
+    source_drug "Tilaparni - pita"
+    identity_status "Suggested source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 564
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "195868f4892e95a1417e5c1a2f9555e9ed1808285c63e7068e3f64339149489f"
+    source_drug "Tilaparni"
+    identity_status "Suggested source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 564
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "195868f4892e95a1417e5c1a2f9555e9ed1808285c63e7068e3f64339149489f"
+    source_drug "Tilaparni - pita"
+    identity_status "Suggested source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 564
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "195868f4892e95a1417e5c1a2f9555e9ed1808285c63e7068e3f64339149489f"
+    source_drug "Tilaparni"
+    identity_status "Suggested source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 564
+    target 4
+    key 1
+    relation "TREATS"
+    evidence_hash "195868f4892e95a1417e5c1a2f9555e9ed1808285c63e7068e3f64339149489f"
+    source_drug "Tilaparni - pita"
+    identity_status "Suggested source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 564
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "195868f4892e95a1417e5c1a2f9555e9ed1808285c63e7068e3f64339149489f"
+    source_drug "Tilaparni"
+    identity_status "Suggested source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 564
+    target 4
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "195868f4892e95a1417e5c1a2f9555e9ed1808285c63e7068e3f64339149489f"
+    source_drug "Tilaparni - pita"
+    identity_status "Suggested source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 565
@@ -83563,39 +88752,135 @@ graph [
   ]
   edge [
     source 566
-    target 13
+    target 33
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 566
-    target 4
-    key 0
-    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 566
     target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 566
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 566
-    target 12
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 566
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 566
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 566
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 566
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 566
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 566
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 566
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 566
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 566
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 566
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 567
@@ -83617,39 +88902,135 @@ graph [
   ]
   edge [
     source 567
-    target 13
+    target 33
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 567
-    target 4
-    key 0
-    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 567
     target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 567
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 567
-    target 12
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 567
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 567
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 567
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 567
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 567
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 567
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 567
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 567
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 567
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 567
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 568
@@ -83737,27 +89118,47 @@ graph [
   ]
   edge [
     source 572
-    target 34
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 572
-    target 28
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 572
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 572
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 572
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 573
@@ -83797,9 +89198,25 @@ graph [
   ]
   edge [
     source 573
-    target 28
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "5b5bdf89c275f180ad61982719868d484e1434715a6b1e7eba8c33f02c94129c"
+    source_drug "Narikela"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 573
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5b5bdf89c275f180ad61982719868d484e1434715a6b1e7eba8c33f02c94129c"
+    source_drug "Narikela"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 574
@@ -84321,19 +89738,34 @@ graph [
     source 600
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1e74eb057683c8bb390a37b25c678563724b21c0dd2f6cc2a414c9b81d8d58f7"
+    source_drug "Slesmataka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 600
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1e74eb057683c8bb390a37b25c678563724b21c0dd2f6cc2a414c9b81d8d58f7"
+    source_drug "Slesmataka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 600
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1e74eb057683c8bb390a37b25c678563724b21c0dd2f6cc2a414c9b81d8d58f7"
+    source_drug "Slesmataka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 602
@@ -84417,19 +89849,34 @@ graph [
     source 604
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1e74eb057683c8bb390a37b25c678563724b21c0dd2f6cc2a414c9b81d8d58f7"
+    source_drug "Slesmataka"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 604
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1e74eb057683c8bb390a37b25c678563724b21c0dd2f6cc2a414c9b81d8d58f7"
+    source_drug "Slesmataka"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 604
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1e74eb057683c8bb390a37b25c678563724b21c0dd2f6cc2a414c9b81d8d58f7"
+    source_drug "Slesmataka"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 605
@@ -84469,33 +89916,113 @@ graph [
   ]
   edge [
     source 605
-    target 13
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 605
-    target 29
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 605
-    target 34
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 605
-    target 12
-    key 0
-    relation "TREATS"
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 605
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 605
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 605
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 605
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 605
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 605
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 606
@@ -84577,21 +90104,36 @@ graph [
   ]
   edge [
     source 610
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 610
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 610
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 610
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 610
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 611
@@ -84646,6 +90188,22 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "853f9bda920761980c32399884f5f046d27fbc42a7a79182bd58bb87825f3412"
+    source_drug "Varuna"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 612
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "853f9bda920761980c32399884f5f046d27fbc42a7a79182bd58bb87825f3412"
+    source_drug "Varuna"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 613
@@ -84739,9 +90297,25 @@ graph [
   ]
   edge [
     source 617
-    target 33
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "484536fc328a741f12c6a53dbb22e05bcacfd6df501ff43a6a123646f66985d9"
+    source_drug "Sudarsana"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 617
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "484536fc328a741f12c6a53dbb22e05bcacfd6df501ff43a6a123646f66985d9"
+    source_drug "Sudarsana"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 618
@@ -85051,363 +90625,539 @@ graph [
   ]
   edge [
     source 631
-    target 13
+    target 33
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 631
-    target 4
-    key 0
-    relation "TREATS"
+    evidence_hash "347b4b24e2073818e7bd161a7d334382779c757dffc01f60e3551f781e951b0a"
+    source_drug "Iksvaku"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 631
     target 33
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "347b4b24e2073818e7bd161a7d334382779c757dffc01f60e3551f781e951b0a"
+    source_drug "Iksvaku"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 631
-    target 34
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "347b4b24e2073818e7bd161a7d334382779c757dffc01f60e3551f781e951b0a"
+    source_drug "Iksvaku"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 631
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "347b4b24e2073818e7bd161a7d334382779c757dffc01f60e3551f781e951b0a"
+    source_drug "Iksvaku"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 631
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "347b4b24e2073818e7bd161a7d334382779c757dffc01f60e3551f781e951b0a"
+    source_drug "Iksvaku"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
-    source 632
-    target 314
+    source 631
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "347b4b24e2073818e7bd161a7d334382779c757dffc01f60e3551f781e951b0a"
+    source_drug "Iksvaku"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 631
+    target 13
     key 0
-    relation "BELONGS_TO"
+    relation "TREATS"
+    evidence_hash "347b4b24e2073818e7bd161a7d334382779c757dffc01f60e3551f781e951b0a"
+    source_drug "Iksvaku"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
-    source 632
-    target 2
-    key 0
-    relation "USED_IN"
+    source 631
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "347b4b24e2073818e7bd161a7d334382779c757dffc01f60e3551f781e951b0a"
+    source_drug "Iksvaku"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
-    source 632
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 632
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 633
-    target 314
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 633
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 633
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 634
-    target 314
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 634
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 634
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 635
-    target 314
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 635
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 635
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 635
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 635
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 635
-    target 15
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 636
-    target 314
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 636
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 636
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 636
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 636
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 637
-    target 314
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 637
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 637
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 637
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 637
-    target 19
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 637
-    target 15
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 638
-    target 140
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 638
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 638
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 638
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 638
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 639
-    target 140
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 639
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 639
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 639
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 639
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 640
-    target 140
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 640
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 640
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 640
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 640
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 641
-    target 140
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 641
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 641
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 641
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 641
-    target 19
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 641
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 641
-    target 15
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 641
+    source 631
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "347b4b24e2073818e7bd161a7d334382779c757dffc01f60e3551f781e951b0a"
+    source_drug "Iksvaku"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 631
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "347b4b24e2073818e7bd161a7d334382779c757dffc01f60e3551f781e951b0a"
+    source_drug "Iksvaku"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 632
+    target 314
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 632
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 632
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 632
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 633
+    target 314
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 633
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 633
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 634
+    target 314
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 634
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 634
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 635
+    target 314
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 635
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 635
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 635
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 635
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 635
+    target 15
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 636
+    target 314
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 636
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 636
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 636
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 636
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 637
+    target 314
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 637
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 637
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 637
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 637
+    target 19
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 637
+    target 15
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 638
+    target 140
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 638
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 638
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 638
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 638
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 639
+    target 140
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 639
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 639
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 639
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 639
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 640
+    target 140
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 640
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 640
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 640
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 640
+    target 3
+    key 0
+    relation "USED_IN"
   ]
   edge [
     source 641
-    target 21
+    target 140
     key 0
-    relation "TREATS"
+    relation "BELONGS_TO"
   ]
   edge [
     source 641
-    target 28
+    target 2
     key 0
-    relation "TREATS"
+    relation "USED_IN"
   ]
   edge [
     source 641
-    target 33
+    target 6
     key 0
-    relation "TREATS"
+    relation "USED_IN"
   ]
   edge [
     source 641
-    target 35
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 641
+    target 19
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 641
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 641
+    target 15
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 641
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 641
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 641
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 641
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 641
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 641
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 641
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 641
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 641
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 641
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 641
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 641
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9381a4bd1b935e3ea4bddb38047eb6d07ee6d00b2c6427776cafe3997726291f"
+    source_drug "Haridra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 642
@@ -85567,39 +91317,135 @@ graph [
   ]
   edge [
     source 648
-    target 13
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 648
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 648
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 648
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 648
-    target 34
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 648
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 648
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 648
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 648
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 648
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 648
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 648
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 648
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 648
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 648
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 649
@@ -85675,21 +91521,36 @@ graph [
   ]
   edge [
     source 652
-    target 34
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 652
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 652
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 652
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 653
@@ -85963,9 +91824,25 @@ graph [
   ]
   edge [
     source 666
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "5deb4113f22c09eeafcbcf933bc40d5ad220a3e4f451fe3ed6268faad5bf805e"
+    source_drug "Goraksa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 666
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5deb4113f22c09eeafcbcf933bc40d5ad220a3e4f451fe3ed6268faad5bf805e"
+    source_drug "Goraksa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 667
@@ -86065,33 +91942,113 @@ graph [
   ]
   edge [
     source 670
-    target 4
+    target 33
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 670
-    target 21
-    key 0
-    relation "TREATS"
+    evidence_hash "6909f5caef67e414f296b12c938e003d6a391a8cc1bf15bea6b8f0f74549157e"
+    source_drug "Simsapa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 670
     target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 670
-    target 34
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6909f5caef67e414f296b12c938e003d6a391a8cc1bf15bea6b8f0f74549157e"
+    source_drug "Simsapa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 670
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "6909f5caef67e414f296b12c938e003d6a391a8cc1bf15bea6b8f0f74549157e"
+    source_drug "Simsapa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 670
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6909f5caef67e414f296b12c938e003d6a391a8cc1bf15bea6b8f0f74549157e"
+    source_drug "Simsapa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 670
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "6909f5caef67e414f296b12c938e003d6a391a8cc1bf15bea6b8f0f74549157e"
+    source_drug "Simsapa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 670
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6909f5caef67e414f296b12c938e003d6a391a8cc1bf15bea6b8f0f74549157e"
+    source_drug "Simsapa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 670
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "6909f5caef67e414f296b12c938e003d6a391a8cc1bf15bea6b8f0f74549157e"
+    source_drug "Simsapa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 670
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6909f5caef67e414f296b12c938e003d6a391a8cc1bf15bea6b8f0f74549157e"
+    source_drug "Simsapa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 670
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "6909f5caef67e414f296b12c938e003d6a391a8cc1bf15bea6b8f0f74549157e"
+    source_drug "Simsapa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 670
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6909f5caef67e414f296b12c938e003d6a391a8cc1bf15bea6b8f0f74549157e"
+    source_drug "Simsapa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 671
@@ -86431,9 +92388,14 @@ graph [
   ]
   edge [
     source 686
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8ecd37ba6e6ea48f7bb5b67504218fbcc0311e3e8284472df6723d812aff6e84"
+    source_drug "Trayamana"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 687
@@ -86707,27 +92669,179 @@ graph [
   ]
   edge [
     source 698
-    target 80
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 698
-    target 34
-    key 0
+    target 33
+    key 1
     relation "TREATS"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 698
-    target 13
-    key 0
-    relation "TREATS"
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 698
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 698
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 698
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 698
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 698
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 698
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 698
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 698
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 698
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 698
+    target 80
+    key 0
+    relation "TREATS"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 698
+    target 80
+    key 1
+    relation "TREATS"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 698
+    target 80
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 698
+    target 80
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 699
@@ -86857,21 +92971,69 @@ graph [
   ]
   edge [
     source 705
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 705
-    target 29
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 705
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 705
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 705
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 705
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 706
@@ -87061,9 +93223,14 @@ graph [
   ]
   edge [
     source 714
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37f2ba0541f09fe77dd578f7c0a2da1fee9aa306156e3b7aee6ba57840da9ea6"
+    source_drug "Vidari"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 715
@@ -87139,9 +93306,14 @@ graph [
   ]
   edge [
     source 719
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d0caa73ba7b81a53c5e28c11ccdfaff2f1d66afb97a9a65205631b217d5c07dc"
+    source_drug "Tinduka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 720
@@ -87187,9 +93359,14 @@ graph [
   ]
   edge [
     source 721
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d0caa73ba7b81a53c5e28c11ccdfaff2f1d66afb97a9a65205631b217d5c07dc"
+    source_drug "Tinduka"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 722
@@ -87223,9 +93400,14 @@ graph [
   ]
   edge [
     source 722
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d0caa73ba7b81a53c5e28c11ccdfaff2f1d66afb97a9a65205631b217d5c07dc"
+    source_drug "Tinduka"
+    identity_status "Suggested source 2"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 723
@@ -87295,33 +93477,223 @@ graph [
   ]
   edge [
     source 725
-    target 4
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 725
-    target 28
-    key 0
+    target 34
+    key 1
     relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 725
-    target 35
-    key 0
-    relation "TREATS"
+    target 34
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 725
-    target 12
-    key 0
-    relation "TREATS"
+    target 34
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 725
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 725
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 725
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 725
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 725
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 725
+    target 29
+    key 1
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 725
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 725
+    target 29
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 725
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 725
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 725
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 725
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 725
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 725
+    target 4
+    key 1
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 725
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 725
+    target 4
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 727
@@ -87349,33 +93721,223 @@ graph [
   ]
   edge [
     source 727
-    target 4
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 727
-    target 28
-    key 0
+    target 34
+    key 1
     relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 727
-    target 35
-    key 0
-    relation "TREATS"
+    target 34
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 727
-    target 12
-    key 0
-    relation "TREATS"
+    target 34
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 727
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 727
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 727
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 727
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 727
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 727
+    target 29
+    key 1
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 727
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 727
+    target 29
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 727
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 727
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 727
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 727
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 727
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 727
+    target 4
+    key 1
+    relation "TREATS"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 727
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 727
+    target 4
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "258c9261a3a577a17935700c159f9bcd89d46c39b2527e3c05c1cb0739f9a6bf"
+    source_drug "Asvakarna - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 728
@@ -87775,39 +94337,135 @@ graph [
   ]
   edge [
     source 744
-    target 13
+    target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 744
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 744
-    target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 744
-    target 35
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 744
-    target 12
-    key 0
-    relation "TREATS"
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 744
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 744
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 744
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 744
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 744
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 744
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 744
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 744
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 744
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 744
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 745
@@ -87955,27 +94613,47 @@ graph [
   ]
   edge [
     source 754
-    target 34
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 754
-    target 28
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 754
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 754
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 754
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 755
@@ -88078,6 +94756,22 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "c2a1fedf3d23d3afa66a293288b5c9042a3ff7d26f44b5a31bf2d7dad8b903c0"
+    source_drug "Vidanga"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 760
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c2a1fedf3d23d3afa66a293288b5c9042a3ff7d26f44b5a31bf2d7dad8b903c0"
+    source_drug "Vidanga"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 761
@@ -88135,15 +94829,47 @@ graph [
   ]
   edge [
     source 762
-    target 33
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "21456a54e31c363fd89e2557023a9ed667d360574e957f65a51fb4a22dae4767"
+    source_drug "Amalaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 762
-    target 28
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "21456a54e31c363fd89e2557023a9ed667d360574e957f65a51fb4a22dae4767"
+    source_drug "Amalaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 762
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "21456a54e31c363fd89e2557023a9ed667d360574e957f65a51fb4a22dae4767"
+    source_drug "Amalaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 762
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "21456a54e31c363fd89e2557023a9ed667d360574e957f65a51fb4a22dae4767"
+    source_drug "Amalaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 763
@@ -88365,7 +95091,12 @@ graph [
     source 774
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "769bd29f3eabe431e2880a2160c620873fb54666d4137b39b2a1d499685bc979"
+    source_drug "Paribhadra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 775
@@ -88405,21 +95136,36 @@ graph [
   ]
   edge [
     source 776
-    target 34
+    target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "769bd29f3eabe431e2880a2160c620873fb54666d4137b39b2a1d499685bc979"
+    source_drug "Paribhadra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 776
-    target 20
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f3e46c788820137398f825bbf2f0eba3e9215c4b92dac80e54ce811597129b77"
+    source_drug "Parijata"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 776
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f3e46c788820137398f825bbf2f0eba3e9215c4b92dac80e54ce811597129b77"
+    source_drug "Parijata"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 777
@@ -88525,9 +95271,14 @@ graph [
   ]
   edge [
     source 781
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7d33d04a59a87ef3a70fe1f39d4e63334bd12e1b7429da060717f35f1a67b13f"
+    source_drug "Jambu"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 782
@@ -88555,9 +95306,14 @@ graph [
   ]
   edge [
     source 782
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7d33d04a59a87ef3a70fe1f39d4e63334bd12e1b7429da060717f35f1a67b13f"
+    source_drug "Jambu"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 783
@@ -88681,9 +95437,25 @@ graph [
   ]
   edge [
     source 789
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "933e3fbc56b42e6c4730122438c85befcf26c9521e07aecdbcafae4c8f839150"
+    source_drug "Ayapana"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 789
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "933e3fbc56b42e6c4730122438c85befcf26c9521e07aecdbcafae4c8f839150"
+    source_drug "Ayapana"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 790
@@ -88735,21 +95507,69 @@ graph [
   ]
   edge [
     source 791
-    target 28
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 791
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 791
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 791
-    target 4
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 791
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 791
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 792
@@ -88867,21 +95687,69 @@ graph [
   ]
   edge [
     source 795
-    target 28
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 795
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 795
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 795
-    target 4
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 795
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 795
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 796
@@ -88933,21 +95801,69 @@ graph [
   ]
   edge [
     source 798
-    target 28
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 798
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 798
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 798
-    target 4
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 798
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 798
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 799
@@ -88963,21 +95879,36 @@ graph [
   ]
   edge [
     source 799
-    target 33
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 799
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 799
     target 20
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 799
-    target 4
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 800
@@ -88999,21 +95930,69 @@ graph [
   ]
   edge [
     source 800
-    target 28
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 800
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 800
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 800
-    target 4
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 800
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 800
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 801
@@ -89032,30 +96011,154 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 801
-    target 21
-    key 0
-    relation "TREATS"
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 801
-    target 33
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 801
-    target 34
-    key 0
+    target 35
+    key 1
     relation "TREATS"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 801
+    target 35
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 801
+    target 35
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 801
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 801
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 801
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 801
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 801
+    target 33
+    key 0
+    relation "TREATS"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 801
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 801
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 801
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 802
@@ -89113,21 +96216,69 @@ graph [
   ]
   edge [
     source 803
-    target 28
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 803
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 803
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 803
-    target 4
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 803
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 803
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 804
@@ -89167,21 +96318,69 @@ graph [
   ]
   edge [
     source 805
-    target 28
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 805
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 805
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 805
-    target 4
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 805
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 805
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "057b06a635ced461a16423da8cdee5a7a52ddbb8d885e7a2656ff395ef4b5be3"
+    source_drug "Snuhi - jati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 806
@@ -89383,15 +96582,25 @@ graph [
   ]
   edge [
     source 816
-    target 20
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8f4206a7ae89bb7d5c62a914f1e91a9ad659288d92e056c0ae82e6da0f9a293e"
+    source_drug "Udumbara"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 816
-    target 4
+    target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8f4206a7ae89bb7d5c62a914f1e91a9ad659288d92e056c0ae82e6da0f9a293e"
+    source_drug "Udumbara"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 817
@@ -89509,21 +96718,135 @@ graph [
   ]
   edge [
     source 820
-    target 13
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 820
     target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 820
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 820
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 820
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 820
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 820
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 820
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 820
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 820
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 820
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 820
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 821
@@ -89545,21 +96868,69 @@ graph [
   ]
   edge [
     source 821
-    target 13
+    target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 821
     target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 821
+    target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 821
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 821
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 821
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 822
@@ -89575,21 +96946,135 @@ graph [
   ]
   edge [
     source 822
-    target 13
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 822
     target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 822
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 822
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 822
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 822
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 822
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 822
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 822
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 822
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 822
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 822
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 823
@@ -89623,21 +97108,135 @@ graph [
   ]
   edge [
     source 823
-    target 13
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 823
     target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 823
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 823
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 823
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 823
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 823
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 823
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 823
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 823
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 823
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 823
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 824
@@ -89689,21 +97288,135 @@ graph [
   ]
   edge [
     source 826
-    target 13
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 826
     target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 826
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 826
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 826
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 826
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 826
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 826
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 826
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 826
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 826
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 826
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6551984303b8a1780bfd02b63b223e15db723d81e01311a5b8bfad25dbc9b0a3"
+    source_drug "Hingu - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 827
@@ -89836,36 +97549,116 @@ graph [
     target 15
     key 0
     relation "USED_IN"
-  ]
-  edge [
-    source 831
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 831
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 831
-    target 28
-    key 0
-    relation "TREATS"
   ]
   edge [
     source 831
     target 33
     key 0
     relation "TREATS"
+    evidence_hash "3eaaceb7c953501d2adc021d445d8c5ba3555ab7de5d4830013c41af6a7d515b"
+    source_drug "Vata"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 831
-    target 34
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3eaaceb7c953501d2adc021d445d8c5ba3555ab7de5d4830013c41af6a7d515b"
+    source_drug "Vata"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 831
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "3eaaceb7c953501d2adc021d445d8c5ba3555ab7de5d4830013c41af6a7d515b"
+    source_drug "Vata"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 831
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3eaaceb7c953501d2adc021d445d8c5ba3555ab7de5d4830013c41af6a7d515b"
+    source_drug "Vata"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 831
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "3eaaceb7c953501d2adc021d445d8c5ba3555ab7de5d4830013c41af6a7d515b"
+    source_drug "Vata"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 831
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3eaaceb7c953501d2adc021d445d8c5ba3555ab7de5d4830013c41af6a7d515b"
+    source_drug "Vata"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 831
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "3eaaceb7c953501d2adc021d445d8c5ba3555ab7de5d4830013c41af6a7d515b"
+    source_drug "Vata"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 831
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3eaaceb7c953501d2adc021d445d8c5ba3555ab7de5d4830013c41af6a7d515b"
+    source_drug "Vata"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 831
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "3eaaceb7c953501d2adc021d445d8c5ba3555ab7de5d4830013c41af6a7d515b"
+    source_drug "Vata"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 831
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3eaaceb7c953501d2adc021d445d8c5ba3555ab7de5d4830013c41af6a7d515b"
+    source_drug "Vata"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 832
@@ -89992,18 +97785,50 @@ graph [
     target 15
     key 0
     relation "USED_IN"
+  ]
+  edge [
+    source 836
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "8f4206a7ae89bb7d5c62a914f1e91a9ad659288d92e056c0ae82e6da0f9a293e"
+    source_drug "Udumbara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 836
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8f4206a7ae89bb7d5c62a914f1e91a9ad659288d92e056c0ae82e6da0f9a293e"
+    source_drug "Udumbara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 836
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "8f4206a7ae89bb7d5c62a914f1e91a9ad659288d92e056c0ae82e6da0f9a293e"
+    source_drug "Udumbara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 836
-    target 4
-    key 0
-    relation "TREATS"
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8f4206a7ae89bb7d5c62a914f1e91a9ad659288d92e056c0ae82e6da0f9a293e"
+    source_drug "Udumbara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 837
@@ -90031,9 +97856,14 @@ graph [
   ]
   edge [
     source 837
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8ecd37ba6e6ea48f7bb5b67504218fbcc0311e3e8284472df6723d812aff6e84"
+    source_drug "Trayamana"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 838
@@ -90076,6 +97906,22 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "ef7944c25d67f46cae1f7fc9196be26c477af9050dd684451b4c019ed93ddd7c"
+    source_drug "Kakodumbarika"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 838
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ef7944c25d67f46cae1f7fc9196be26c477af9050dd684451b4c019ed93ddd7c"
+    source_drug "Kakodumbarika"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 839
@@ -90205,27 +98051,80 @@ graph [
   ]
   edge [
     source 843
-    target 12
+    target 4
     key 0
     relation "TREATS"
+    evidence_hash "f1d99d04fc67c82cf1064753f65e37ffd09a20c51c8c7f2638f2f87d28c4407b"
+    source_drug "Asvattha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 843
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f1d99d04fc67c82cf1064753f65e37ffd09a20c51c8c7f2638f2f87d28c4407b"
+    source_drug "Asvattha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 843
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "df69a7420067d71b8336a8d3a37f282ea9222ae6c65d2cc258fb60d4781d9fe6"
+    source_drug "Kampillaka"
+    identity_status "To be examined"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 843
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "838138c4a6786d92898fa9c0f6428c4d6dfd269b7f5b10c4e0ab6f59ade2c768"
+    source_drug "Asmantaka"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 843
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "df69a7420067d71b8336a8d3a37f282ea9222ae6c65d2cc258fb60d4781d9fe6"
+    source_drug "Kampillaka"
+    identity_status "To be examined"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 843
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "df69a7420067d71b8336a8d3a37f282ea9222ae6c65d2cc258fb60d4781d9fe6"
+    source_drug "Kampillaka"
+    identity_status "To be examined"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 843
-    target 28
+    target 12
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 843
-    target 4
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "df69a7420067d71b8336a8d3a37f282ea9222ae6c65d2cc258fb60d4781d9fe6"
+    source_drug "Kampillaka"
+    identity_status "To be examined"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 844
@@ -90321,13 +98220,23 @@ graph [
     source 848
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 848
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 849
@@ -90529,9 +98438,14 @@ graph [
   ]
   edge [
     source 860
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "699b3cc73906ce1372a912a433c4ec2a67c41aa397736c4a26081ac76f852603"
+    source_drug "Parpata"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 861
@@ -90559,9 +98473,14 @@ graph [
   ]
   edge [
     source 861
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "699b3cc73906ce1372a912a433c4ec2a67c41aa397736c4a26081ac76f852603"
+    source_drug "Parpata"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 862
@@ -90657,13 +98576,23 @@ graph [
     source 865
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a2166b71dc009f6a260b428054bcfe7b3e29ee042d5614b76b5dab8c461b186b"
+    source_drug "Kosamra"
+    identity_status "A-C"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 865
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a2166b71dc009f6a260b428054bcfe7b3e29ee042d5614b76b5dab8c461b186b"
+    source_drug "Kosamra"
+    identity_status "A-C"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 866
@@ -90703,21 +98632,69 @@ graph [
   ]
   edge [
     source 867
-    target 89
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "93da2f89507a7702113592039c80292899e2b82aece3fdd6a61e7d636ea6ea47"
+    source_drug "Vrksamla"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 867
-    target 29
-    key 0
-    relation "TREATS"
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "93da2f89507a7702113592039c80292899e2b82aece3fdd6a61e7d636ea6ea47"
+    source_drug "Vrksamla"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 867
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "93da2f89507a7702113592039c80292899e2b82aece3fdd6a61e7d636ea6ea47"
+    source_drug "Vrksamla"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 867
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "93da2f89507a7702113592039c80292899e2b82aece3fdd6a61e7d636ea6ea47"
+    source_drug "Vrksamla"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 867
+    target 89
+    key 0
+    relation "TREATS"
+    evidence_hash "93da2f89507a7702113592039c80292899e2b82aece3fdd6a61e7d636ea6ea47"
+    source_drug "Vrksamla"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 867
+    target 89
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "93da2f89507a7702113592039c80292899e2b82aece3fdd6a61e7d636ea6ea47"
+    source_drug "Vrksamla"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 868
@@ -90763,39 +98740,124 @@ graph [
   ]
   edge [
     source 868
-    target 29
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "983a236074949c8d5dcaa76cb447718d4c7c31ab89118674ab670431f26b492a"
+    source_drug "Tamala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 868
-    target 21
-    key 0
+    target 28
+    key 1
     relation "TREATS"
+    evidence_hash "983a236074949c8d5dcaa76cb447718d4c7c31ab89118674ab670431f26b492a"
+    source_drug "Tamala - vrksa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 868
+    target 28
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "983a236074949c8d5dcaa76cb447718d4c7c31ab89118674ab670431f26b492a"
+    source_drug "Tamala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 868
+    target 28
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "983a236074949c8d5dcaa76cb447718d4c7c31ab89118674ab670431f26b492a"
+    source_drug "Tamala - vrksa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 868
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 868
-    target 33
+    target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 868
-    target 34
-    key 0
-    relation "TREATS"
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 868
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "500ab064792775840a21bdf68d8b2bf24c7ca1f94f54db4ae4aac3b82d63347b"
+    source_drug "Kankustha"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 868
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 868
+    target 33
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 868
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "de56455017d35e32e6c070847a1a267acc099000e3b2c492fa15fc784301ae92"
+    source_drug "Svarnaksiri"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 869
@@ -90817,21 +98879,69 @@ graph [
   ]
   edge [
     source 869
+    target 28
+    key 0
+    relation "TREATS"
+    evidence_hash "484bea49e990524c48bd11425b53d687ec0c097adcccae126a032a11de93e4cb"
+    source_drug "Amlavetasa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 869
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "484bea49e990524c48bd11425b53d687ec0c097adcccae126a032a11de93e4cb"
+    source_drug "Amlavetasa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 869
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "484bea49e990524c48bd11425b53d687ec0c097adcccae126a032a11de93e4cb"
+    source_drug "Amlavetasa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 869
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "484bea49e990524c48bd11425b53d687ec0c097adcccae126a032a11de93e4cb"
+    source_drug "Amlavetasa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 869
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "484bea49e990524c48bd11425b53d687ec0c097adcccae126a032a11de93e4cb"
+    source_drug "Amlavetasa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 869
-    target 29
-    key 0
-    relation "TREATS"
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "484bea49e990524c48bd11425b53d687ec0c097adcccae126a032a11de93e4cb"
+    source_drug "Amlavetasa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 870
@@ -91105,45 +99215,80 @@ graph [
   ]
   edge [
     source 881
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 881
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 881
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 881
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 881
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 881
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 881
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 881
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 881
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 881
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 881
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 881
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f469dadcfa0fd43b8683bfc4d8df60573d01c1c0d3e4215521bbfa38af57749e"
+    source_drug "Kiratatikta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 882
@@ -91171,9 +99316,25 @@ graph [
   ]
   edge [
     source 882
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "8ecd37ba6e6ea48f7bb5b67504218fbcc0311e3e8284472df6723d812aff6e84"
+    source_drug "Trayamana"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 882
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8ecd37ba6e6ea48f7bb5b67504218fbcc0311e3e8284472df6723d812aff6e84"
+    source_drug "Trayamana"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 883
@@ -91189,9 +99350,14 @@ graph [
   ]
   edge [
     source 883
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8ecd37ba6e6ea48f7bb5b67504218fbcc0311e3e8284472df6723d812aff6e84"
+    source_drug "Trayamana"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 884
@@ -91297,27 +99463,47 @@ graph [
   ]
   edge [
     source 889
-    target 33
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cf5db8e60ca2744947e0b0ebc0a804bfa440b67358f90590e2d7a55479e0aafb"
+    source_drug "Langali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 889
-    target 29
+    target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cf5db8e60ca2744947e0b0ebc0a804bfa440b67358f90590e2d7a55479e0aafb"
+    source_drug "Langali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 889
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cf5db8e60ca2744947e0b0ebc0a804bfa440b67358f90590e2d7a55479e0aafb"
+    source_drug "Langali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 889
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cf5db8e60ca2744947e0b0ebc0a804bfa440b67358f90590e2d7a55479e0aafb"
+    source_drug "Langali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 890
@@ -91363,9 +99549,25 @@ graph [
   ]
   edge [
     source 891
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "df16f5e7f9f353c5166e01a84539d742539dd4c23c5c1476cc23dd026e7fdc29"
+    source_drug "Masaparni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 891
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "df16f5e7f9f353c5166e01a84539d742539dd4c23c5c1476cc23dd026e7fdc29"
+    source_drug "Masaparni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 892
@@ -91459,15 +99661,47 @@ graph [
   ]
   edge [
     source 895
-    target 33
+    target 4
     key 0
     relation "TREATS"
+    evidence_hash "a6cd5c3d53f4006f2b53ff6deed6dcb0c53906ccbca57785f9d44fa174e99d8e"
+    source_drug "Yastimadhu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 895
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a6cd5c3d53f4006f2b53ff6deed6dcb0c53906ccbca57785f9d44fa174e99d8e"
+    source_drug "Yastimadhu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 895
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "a6cd5c3d53f4006f2b53ff6deed6dcb0c53906ccbca57785f9d44fa174e99d8e"
+    source_drug "Yastimadhu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 895
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a6cd5c3d53f4006f2b53ff6deed6dcb0c53906ccbca57785f9d44fa174e99d8e"
+    source_drug "Yastimadhu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 896
@@ -91504,18 +99738,66 @@ graph [
     target 33
     key 0
     relation "TREATS"
+    evidence_hash "6bf60781aab0c2a43455bc528478ff9321bf43ee1ab0cd27cd325842939c0cd5"
+    source_drug "Gambhari"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 896
-    target 34
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6bf60781aab0c2a43455bc528478ff9321bf43ee1ab0cd27cd325842939c0cd5"
+    source_drug "Gambhari"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 896
-    target 29
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "6bf60781aab0c2a43455bc528478ff9321bf43ee1ab0cd27cd325842939c0cd5"
+    source_drug "Gambhari"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 896
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6bf60781aab0c2a43455bc528478ff9321bf43ee1ab0cd27cd325842939c0cd5"
+    source_drug "Gambhari"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 896
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "6bf60781aab0c2a43455bc528478ff9321bf43ee1ab0cd27cd325842939c0cd5"
+    source_drug "Gambhari"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 896
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6bf60781aab0c2a43455bc528478ff9321bf43ee1ab0cd27cd325842939c0cd5"
+    source_drug "Gambhari"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 897
@@ -91587,7 +99869,34 @@ graph [
     source 900
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 900
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa - prajati"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 900
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasi"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 901
@@ -91623,7 +99932,34 @@ graph [
     source 901
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 901
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa - prajati"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 901
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasi"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 902
@@ -91672,6 +100008,66 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 902
+    target 4
+    key 1
+    relation "TREATS"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 902
+    target 4
+    key 2
+    relation "TREATS"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 902
+    target 4
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 902
+    target 4
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasa - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 902
+    target 4
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "017c75f3906392d5934587d9332fa981ecd1fbd0d524cbd7d9a6325ec5b74b79"
+    source_drug "Karpasi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 903
@@ -91756,12 +100152,44 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 906
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 906
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 906
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 907
@@ -91785,13 +100213,23 @@ graph [
     source 907
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "397bbe6ae40144d2659859a8aef7f7aa7a927f0c9516ee4382b692b90d4c1c76"
+    source_drug "Dhanvana"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 907
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "397bbe6ae40144d2659859a8aef7f7aa7a927f0c9516ee4382b692b90d4c1c76"
+    source_drug "Dhanvana"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 908
@@ -91822,12 +100260,44 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 908
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 908
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 908
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 909
@@ -91858,12 +100328,44 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "397bbe6ae40144d2659859a8aef7f7aa7a927f0c9516ee4382b692b90d4c1c76"
+    source_drug "Dhanvana"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 909
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "397bbe6ae40144d2659859a8aef7f7aa7a927f0c9516ee4382b692b90d4c1c76"
+    source_drug "Dhanvana"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 909
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "397bbe6ae40144d2659859a8aef7f7aa7a927f0c9516ee4382b692b90d4c1c76"
+    source_drug "Dhanvana"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 909
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "397bbe6ae40144d2659859a8aef7f7aa7a927f0c9516ee4382b692b90d4c1c76"
+    source_drug "Dhanvana"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 910
@@ -92059,45 +100561,80 @@ graph [
   ]
   edge [
     source 918
-    target 29
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 918
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 918
-    target 4
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 918
     target 28
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 918
-    target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 918
-    target 34
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 918
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 918
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 918
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 918
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 918
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 919
@@ -92299,9 +100836,14 @@ graph [
   ]
   edge [
     source 930
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "699b3cc73906ce1372a912a433c4ec2a67c41aa397736c4a26081ac76f852603"
+    source_drug "Parpata"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 931
@@ -92455,9 +100997,14 @@ graph [
   ]
   edge [
     source 936
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37f2ba0541f09fe77dd578f7c0a2da1fee9aa306156e3b7aee6ba57840da9ea6"
+    source_drug "Vidari"
+    identity_status "Suggested source 1"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 937
@@ -92545,27 +101092,102 @@ graph [
   ]
   edge [
     source 940
-    target 34
+    target 12
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 940
-    target 28
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d2a4a7ffb77dd6ff7b86d0c1424f18e6c1f8fcffd638c008f5703e985ebb2545"
+    source_drug "Avartaki"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 940
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d2a4a7ffb77dd6ff7b86d0c1424f18e6c1f8fcffd638c008f5703e985ebb2545"
+    source_drug "Avartaki"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 940
-    target 12
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 940
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 940
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d2a4a7ffb77dd6ff7b86d0c1424f18e6c1f8fcffd638c008f5703e985ebb2545"
+    source_drug "Avartaki"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 940
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 940
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 940
+    target 33
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 940
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 941
@@ -92881,27 +101503,179 @@ graph [
   ]
   edge [
     source 954
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 954
-    target 20
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 954
-    target 29
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 28
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 28
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 954
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 20
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 954
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 955
@@ -92932,12 +101706,44 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "34944c4b943a45abeb326f8eb04654dc17ff48fcd3c31a39e5323430f80b65e0"
+    source_drug "Cirabilva"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 955
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "34944c4b943a45abeb326f8eb04654dc17ff48fcd3c31a39e5323430f80b65e0"
+    source_drug "Cirabilva"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 955
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "34944c4b943a45abeb326f8eb04654dc17ff48fcd3c31a39e5323430f80b65e0"
+    source_drug "Cirabilva"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 955
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "34944c4b943a45abeb326f8eb04654dc17ff48fcd3c31a39e5323430f80b65e0"
+    source_drug "Cirabilva"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 956
@@ -92979,19 +101785,34 @@ graph [
     source 957
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 957
     target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 957
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 958
@@ -93151,45 +101972,80 @@ graph [
   ]
   edge [
     source 965
-    target 29
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 965
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 965
-    target 4
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Suggested source 1"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 965
     target 28
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 965
-    target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 965
-    target 34
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Suggested source 1"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 965
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Suggested source 1"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 965
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Suggested source 1"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 965
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Suggested source 1"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 965
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Suggested source 1"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 965
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "094742775724cf0fa01c0a704e6443aa6ddd97d9d1a0553eb1cd5f9f7636d443"
+    source_drug "Tuvaraka"
+    identity_status "Suggested source 1"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 966
@@ -93298,6 +102154,22 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "37b1dfaa1ce8d8aae99a715946bcf94dafcb1690a9c8ad154fa3cfe53de1bd15"
+    source_drug "Parasikayavani"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 971
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37b1dfaa1ce8d8aae99a715946bcf94dafcb1690a9c8ad154fa3cfe53de1bd15"
+    source_drug "Parasikayavani"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 972
@@ -93337,15 +102209,91 @@ graph [
   ]
   edge [
     source 972
-    target 33
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sigru"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 972
+    target 35
+    key 1
+    relation "TREATS"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sobhanjana"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 972
+    target 35
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sigru"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 972
+    target 35
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sobhanjana"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 972
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sigru"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 972
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sobhanjana"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 972
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sigru"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 972
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sobhanjana"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 974
@@ -93397,33 +102345,113 @@ graph [
   ]
   edge [
     source 975
-    target 13
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 975
-    target 21
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 975
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 975
-    target 34
-    key 0
-    relation "TREATS"
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 975
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 975
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 975
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 975
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 975
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 975
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 976
@@ -93469,27 +102497,91 @@ graph [
   ]
   edge [
     source 978
+    target 33
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 978
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 978
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 978
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 978
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 978
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 978
     target 80
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 978
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 978
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 978
-    target 12
-    key 0
-    relation "TREATS"
+    target 80
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "6622a9ed16202cfa4cda0586fbe1c441f0149a373b1bae2796a9220dd09929bd"
+    source_drug "Kusa - bheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 979
@@ -93747,25 +102839,45 @@ graph [
     source 990
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 990
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 990
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 990
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 990
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 990
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 991
@@ -93847,39 +102959,69 @@ graph [
   ]
   edge [
     source 994
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 994
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 994
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 994
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 994
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 994
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 994
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 994
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 994
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 994
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "dbabbdbbd09a81f779cc6a4268bebdb86b38bda5812a4c7ae29b6956b1e155ed"
+    source_drug "Vrddhadaruka"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 995
@@ -94342,6 +103484,22 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "54980092794f50f0bbda5c55058e38a5d6e0e5593c1679e506d4fde2d4aaaa6e"
+    source_drug "Yuthika"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1014
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "54980092794f50f0bbda5c55058e38a5d6e0e5593c1679e506d4fde2d4aaaa6e"
+    source_drug "Yuthika"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1015
@@ -94407,13 +103565,23 @@ graph [
     source 1016
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f7e08639a99a7ad81e7d17f5b2b285bdd8a05c24003b3754acb6adcaad4c3cf1"
+    source_drug "Jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1016
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f7e08639a99a7ad81e7d17f5b2b285bdd8a05c24003b3754acb6adcaad4c3cf1"
+    source_drug "Jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1017
@@ -94456,12 +103624,44 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "f7e08639a99a7ad81e7d17f5b2b285bdd8a05c24003b3754acb6adcaad4c3cf1"
+    source_drug "Jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1017
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f7e08639a99a7ad81e7d17f5b2b285bdd8a05c24003b3754acb6adcaad4c3cf1"
+    source_drug "Jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1017
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "f7e08639a99a7ad81e7d17f5b2b285bdd8a05c24003b3754acb6adcaad4c3cf1"
+    source_drug "Jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1017
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f7e08639a99a7ad81e7d17f5b2b285bdd8a05c24003b3754acb6adcaad4c3cf1"
+    source_drug "Jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1018
@@ -94546,12 +103746,44 @@ graph [
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "f7e08639a99a7ad81e7d17f5b2b285bdd8a05c24003b3754acb6adcaad4c3cf1"
+    source_drug "Jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1020
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f7e08639a99a7ad81e7d17f5b2b285bdd8a05c24003b3754acb6adcaad4c3cf1"
+    source_drug "Jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1020
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "f7e08639a99a7ad81e7d17f5b2b285bdd8a05c24003b3754acb6adcaad4c3cf1"
+    source_drug "Jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1020
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f7e08639a99a7ad81e7d17f5b2b285bdd8a05c24003b3754acb6adcaad4c3cf1"
+    source_drug "Jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1021
@@ -94705,39 +103937,69 @@ graph [
   ]
   edge [
     source 1025
-    target 29
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1025
-    target 21
+    target 28
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1025
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1025
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1025
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1025
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1025
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1025
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1025
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1026
@@ -94873,15 +104135,25 @@ graph [
   ]
   edge [
     source 1032
-    target 89
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b41daf2ee0c0fa2cfe66096bc7bfe7a827097bc4a8b5a6c718542b0d4b92f939"
+    source_drug "Hapusa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1032
-    target 29
+    target 89
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b41daf2ee0c0fa2cfe66096bc7bfe7a827097bc4a8b5a6c718542b0d4b92f939"
+    source_drug "Hapusa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1034
@@ -95005,9 +104277,14 @@ graph [
   ]
   edge [
     source 1040
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "699b3cc73906ce1372a912a433c4ec2a67c41aa397736c4a26081ac76f852603"
+    source_drug "Parpata"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1041
@@ -95035,9 +104312,14 @@ graph [
   ]
   edge [
     source 1041
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "699b3cc73906ce1372a912a433c4ec2a67c41aa397736c4a26081ac76f852603"
+    source_drug "Parpata"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1042
@@ -95449,15 +104731,47 @@ graph [
   ]
   edge [
     source 1060
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "08a06935b607c4963e267964e0af995915f713558271c23825c7ce9128b1655b"
+    source_drug "Madayantika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1060
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "08a06935b607c4963e267964e0af995915f713558271c23825c7ce9128b1655b"
+    source_drug "Madayantika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1060
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "08a06935b607c4963e267964e0af995915f713558271c23825c7ce9128b1655b"
+    source_drug "Madayantika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1060
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "08a06935b607c4963e267964e0af995915f713558271c23825c7ce9128b1655b"
+    source_drug "Madayantika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1061
@@ -95848,6 +105162,22 @@ graph [
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "ad6b889e66bb04b19b390d88c38557a7007b85db774c0d448d5a46cd07e64a4b"
+    source_drug "Atasi"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1080
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ad6b889e66bb04b19b390d88c38557a7007b85db774c0d448d5a46cd07e64a4b"
+    source_drug "Atasi"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1081
@@ -95881,27 +105211,47 @@ graph [
   ]
   edge [
     source 1081
-    target 33
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cf5db8e60ca2744947e0b0ebc0a804bfa440b67358f90590e2d7a55479e0aafb"
+    source_drug "Langali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1081
-    target 29
+    target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cf5db8e60ca2744947e0b0ebc0a804bfa440b67358f90590e2d7a55479e0aafb"
+    source_drug "Langali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1081
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cf5db8e60ca2744947e0b0ebc0a804bfa440b67358f90590e2d7a55479e0aafb"
+    source_drug "Langali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1081
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cf5db8e60ca2744947e0b0ebc0a804bfa440b67358f90590e2d7a55479e0aafb"
+    source_drug "Langali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1082
@@ -96151,27 +105501,91 @@ graph [
   ]
   edge [
     source 1093
-    target 33
+    target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1093
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1093
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1093
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1093
     target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1093
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1093
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1093
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1094
@@ -96211,33 +105625,201 @@ graph [
   ]
   edge [
     source 1094
-    target 29
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "f8333cd2bb3fcc30df271bbc8e96193386614fc0bb8c8003f5be0f217062a485"
+    source_drug "Dhamargava"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1094
-    target 21
-    key 0
-    relation "TREATS"
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f8333cd2bb3fcc30df271bbc8e96193386614fc0bb8c8003f5be0f217062a485"
+    source_drug "Dhamargava"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1094
-    target 33
+    target 34
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Suggested source 3"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1094
+    target 34
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Suggested source 3"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1094
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "f8333cd2bb3fcc30df271bbc8e96193386614fc0bb8c8003f5be0f217062a485"
+    source_drug "Dhamargava"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1094
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f8333cd2bb3fcc30df271bbc8e96193386614fc0bb8c8003f5be0f217062a485"
+    source_drug "Dhamargava"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1094
     target 35
     key 0
     relation "TREATS"
+    evidence_hash "f8333cd2bb3fcc30df271bbc8e96193386614fc0bb8c8003f5be0f217062a485"
+    source_drug "Dhamargava"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1094
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f8333cd2bb3fcc30df271bbc8e96193386614fc0bb8c8003f5be0f217062a485"
+    source_drug "Dhamargava"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1094
+    target 35
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Suggested source 3"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1094
+    target 35
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Suggested source 3"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1094
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "f8333cd2bb3fcc30df271bbc8e96193386614fc0bb8c8003f5be0f217062a485"
+    source_drug "Dhamargava"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1094
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f8333cd2bb3fcc30df271bbc8e96193386614fc0bb8c8003f5be0f217062a485"
+    source_drug "Dhamargava"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1094
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Suggested source 3"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1094
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Suggested source 3"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1094
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "f8333cd2bb3fcc30df271bbc8e96193386614fc0bb8c8003f5be0f217062a485"
+    source_drug "Dhamargava"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1094
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f8333cd2bb3fcc30df271bbc8e96193386614fc0bb8c8003f5be0f217062a485"
+    source_drug "Dhamargava"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1094
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Suggested source 3"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1094
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Suggested source 3"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1095
@@ -96277,27 +105859,91 @@ graph [
   ]
   edge [
     source 1095
-    target 33
+    target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1095
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1095
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1095
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1095
     target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1095
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1095
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1095
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3732be3f5d542c4672e7626684244a106a5ed0234295ee8430673eb1477f499b"
+    source_drug "Kosataki catustaya"
+    identity_status "Suggested source 4"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1096
@@ -96373,27 +106019,47 @@ graph [
   ]
   edge [
     source 1099
-    target 13
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1099
-    target 33
+    target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1099
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1099
     target 12
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1099
-    target 29
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "2d76658858d4ee7ac8c6e9e52803c308eab63f9ca98505f48b7a468d0262d552"
+    source_drug "Kulattha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1100
@@ -96427,15 +106093,47 @@ graph [
   ]
   edge [
     source 1100
-    target 13
+    target 4
     key 0
     relation "TREATS"
+    evidence_hash "80d05b49a50dfb968e30675a11f8bad05eaf2519be3105608ea620ccae205e51"
+    source_drug "Madhuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1100
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "80d05b49a50dfb968e30675a11f8bad05eaf2519be3105608ea620ccae205e51"
+    source_drug "Madhuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1100
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "80d05b49a50dfb968e30675a11f8bad05eaf2519be3105608ea620ccae205e51"
+    source_drug "Madhuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1100
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "80d05b49a50dfb968e30675a11f8bad05eaf2519be3105608ea620ccae205e51"
+    source_drug "Madhuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1101
@@ -96469,21 +106167,69 @@ graph [
   ]
   edge [
     source 1101
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1101
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1101
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1101
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1101
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1101
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1102
@@ -96697,9 +106443,25 @@ graph [
   ]
   edge [
     source 1108
-    target 28
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "eee5221cfd7bc1fdd1ff03dd58363f8c795e403fe3cecbbe617e75cff63200ac"
+    source_drug "Amra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1108
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eee5221cfd7bc1fdd1ff03dd58363f8c795e403fe3cecbbe617e75cff63200ac"
+    source_drug "Amra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1109
@@ -96847,21 +106609,69 @@ graph [
   ]
   edge [
     source 1114
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1114
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1114
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1114
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1114
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1114
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1115
@@ -96877,21 +106687,135 @@ graph [
   ]
   edge [
     source 1115
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1115
-    target 28
-    key 0
+    target 33
+    key 1
     relation "TREATS"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1115
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1115
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1115
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1115
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1115
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1115
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1115
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1115
+    target 29
+    key 1
+    relation "TREATS"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1115
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1115
+    target 29
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1116
@@ -97249,15 +107173,47 @@ graph [
   ]
   edge [
     source 1134
-    target 33
+    target 4
     key 0
     relation "TREATS"
+    evidence_hash "c427018cb960c6241c8012c8ef257105599349543d1654345f354aa434f1780f"
+    source_drug "Putiha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1134
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c427018cb960c6241c8012c8ef257105599349543d1654345f354aa434f1780f"
+    source_drug "Putiha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1134
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "c427018cb960c6241c8012c8ef257105599349543d1654345f354aa434f1780f"
+    source_drug "Putiha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1134
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c427018cb960c6241c8012c8ef257105599349543d1654345f354aa434f1780f"
+    source_drug "Putiha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1135
@@ -97333,21 +107289,69 @@ graph [
   ]
   edge [
     source 1137
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1137
-    target 29
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1137
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1137
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1137
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1137
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "772f99da6c5d71266a134112a87afc860071b55d97cd7f8b130dbe3cddcfef33"
+    source_drug "Nagakesaram"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1138
@@ -97396,18 +107400,66 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "a300e63b4db6dcc859988e3545e5cd610e12684b2615e3241ed92dadaf18e238"
+    source_drug "Campaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1139
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a300e63b4db6dcc859988e3545e5cd610e12684b2615e3241ed92dadaf18e238"
+    source_drug "Campaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1139
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "a300e63b4db6dcc859988e3545e5cd610e12684b2615e3241ed92dadaf18e238"
+    source_drug "Campaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1139
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a300e63b4db6dcc859988e3545e5cd610e12684b2615e3241ed92dadaf18e238"
+    source_drug "Campaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1139
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "a300e63b4db6dcc859988e3545e5cd610e12684b2615e3241ed92dadaf18e238"
+    source_drug "Campaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1139
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a300e63b4db6dcc859988e3545e5cd610e12684b2615e3241ed92dadaf18e238"
+    source_drug "Campaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1141
@@ -97453,33 +107505,113 @@ graph [
   ]
   edge [
     source 1142
-    target 13
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "3f801a0d126ae9724892ca18a2c01a5787d5a9d027714a856ec1cd3308c23341"
+    source_drug "Sami"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1142
-    target 29
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1142
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1142
-    target 12
-    key 0
-    relation "TREATS"
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3f801a0d126ae9724892ca18a2c01a5787d5a9d027714a856ec1cd3308c23341"
+    source_drug "Sami"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1142
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "3f801a0d126ae9724892ca18a2c01a5787d5a9d027714a856ec1cd3308c23341"
+    source_drug "Sami"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1142
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3f801a0d126ae9724892ca18a2c01a5787d5a9d027714a856ec1cd3308c23341"
+    source_drug "Sami"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1142
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "3f801a0d126ae9724892ca18a2c01a5787d5a9d027714a856ec1cd3308c23341"
+    source_drug "Sami"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1142
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3f801a0d126ae9724892ca18a2c01a5787d5a9d027714a856ec1cd3308c23341"
+    source_drug "Sami"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1142
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "3f801a0d126ae9724892ca18a2c01a5787d5a9d027714a856ec1cd3308c23341"
+    source_drug "Sami"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1142
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3f801a0d126ae9724892ca18a2c01a5787d5a9d027714a856ec1cd3308c23341"
+    source_drug "Sami"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1142
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "3f801a0d126ae9724892ca18a2c01a5787d5a9d027714a856ec1cd3308c23341"
+    source_drug "Sami"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1142
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3f801a0d126ae9724892ca18a2c01a5787d5a9d027714a856ec1cd3308c23341"
+    source_drug "Sami"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1143
@@ -97585,27 +107717,91 @@ graph [
   ]
   edge [
     source 1148
-    target 33
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "10a50c01e0a615e16955bb0002253b7bef78436a47e849baca328f103968ed1e"
+    source_drug "Lajjalu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1148
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "10a50c01e0a615e16955bb0002253b7bef78436a47e849baca328f103968ed1e"
+    source_drug "Lajjalu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1148
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "10a50c01e0a615e16955bb0002253b7bef78436a47e849baca328f103968ed1e"
+    source_drug "Lajjalu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1148
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "10a50c01e0a615e16955bb0002253b7bef78436a47e849baca328f103968ed1e"
+    source_drug "Lajjalu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1148
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "10a50c01e0a615e16955bb0002253b7bef78436a47e849baca328f103968ed1e"
+    source_drug "Lajjalu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1148
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "10a50c01e0a615e16955bb0002253b7bef78436a47e849baca328f103968ed1e"
+    source_drug "Lajjalu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1148
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "10a50c01e0a615e16955bb0002253b7bef78436a47e849baca328f103968ed1e"
+    source_drug "Lajjalu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1148
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "10a50c01e0a615e16955bb0002253b7bef78436a47e849baca328f103968ed1e"
+    source_drug "Lajjalu"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1149
@@ -97717,9 +107913,14 @@ graph [
   ]
   edge [
     source 1153
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "699b3cc73906ce1372a912a433c4ec2a67c41aa397736c4a26081ac76f852603"
+    source_drug "Parpata"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1154
@@ -97999,15 +108200,47 @@ graph [
   ]
   edge [
     source 1166
-    target 33
+    target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sigru"
+    identity_status "Suggested source 2"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1166
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sobhanjana"
+    identity_status "Suggested source 2"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1166
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sigru"
+    identity_status "Suggested source 2"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1166
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a1d56af3252fbd3d408281111c4e7665664c15a72b5c2c135b67beb990e5599"
+    source_drug "Sobhanjana"
+    identity_status "Suggested source 2"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1167
@@ -98281,45 +108514,80 @@ graph [
   ]
   edge [
     source 1179
-    target 13
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1179
-    target 29
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1179
-    target 89
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1179
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1179
     target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1179
-    target 35
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1179
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1179
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1179
+    target 89
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "AS"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1181
@@ -98359,45 +108627,157 @@ graph [
   ]
   edge [
     source 1181
-    target 13
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1181
-    target 29
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1181
-    target 89
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1181
     target 28
     key 0
     relation "TREATS"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1181
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1181
     target 34
     key 0
     relation "TREATS"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1181
-    target 35
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1181
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1181
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1181
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1181
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1181
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1181
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1181
+    target 89
+    key 0
+    relation "TREATS"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1181
+    target 89
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "884d8379277182319a0e827bd866637b3e2ca227c72ddd97437814887d1e03ac"
+    source_drug "Katphala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1182
@@ -98473,27 +108853,91 @@ graph [
   ]
   edge [
     source 1185
+    target 20
+    key 0
+    relation "TREATS"
+    evidence_hash "cca7a08acf887c8f8d8c9ee2fa84bd81e114180ab32f38f1c19dcf2d3e0b7853"
+    source_drug "Jatiphala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1185
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cca7a08acf887c8f8d8c9ee2fa84bd81e114180ab32f38f1c19dcf2d3e0b7853"
+    source_drug "Jatiphala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1185
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "cca7a08acf887c8f8d8c9ee2fa84bd81e114180ab32f38f1c19dcf2d3e0b7853"
+    source_drug "Jatiphala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1185
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cca7a08acf887c8f8d8c9ee2fa84bd81e114180ab32f38f1c19dcf2d3e0b7853"
+    source_drug "Jatiphala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1185
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "cca7a08acf887c8f8d8c9ee2fa84bd81e114180ab32f38f1c19dcf2d3e0b7853"
+    source_drug "Jatiphala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1185
-    target 20
-    key 0
-    relation "TREATS"
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cca7a08acf887c8f8d8c9ee2fa84bd81e114180ab32f38f1c19dcf2d3e0b7853"
+    source_drug "Jatiphala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1185
-    target 28
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "cca7a08acf887c8f8d8c9ee2fa84bd81e114180ab32f38f1c19dcf2d3e0b7853"
+    source_drug "Jatiphala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1185
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cca7a08acf887c8f8d8c9ee2fa84bd81e114180ab32f38f1c19dcf2d3e0b7853"
+    source_drug "Jatiphala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1186
@@ -98541,7 +108985,12 @@ graph [
     source 1187
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c2a1fedf3d23d3afa66a293288b5c9042a3ff7d26f44b5a31bf2d7dad8b903c0"
+    source_drug "Vidanga"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1188
@@ -98668,12 +109117,88 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "45a61f8fe41bc5fa322db2861ba69734668610695a10c872980195b2412864fb"
+    source_drug "Kamala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1193
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "45a61f8fe41bc5fa322db2861ba69734668610695a10c872980195b2412864fb"
+    source_drug "Padmabija"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1193
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "45a61f8fe41bc5fa322db2861ba69734668610695a10c872980195b2412864fb"
+    source_drug "Kamala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1193
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "45a61f8fe41bc5fa322db2861ba69734668610695a10c872980195b2412864fb"
+    source_drug "Padmabija"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1193
     target 80
     key 0
     relation "TREATS"
+    evidence_hash "45a61f8fe41bc5fa322db2861ba69734668610695a10c872980195b2412864fb"
+    source_drug "Kamala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1193
+    target 80
+    key 1
+    relation "TREATS"
+    evidence_hash "45a61f8fe41bc5fa322db2861ba69734668610695a10c872980195b2412864fb"
+    source_drug "Padmabija"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1193
+    target 80
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "45a61f8fe41bc5fa322db2861ba69734668610695a10c872980195b2412864fb"
+    source_drug "Kamala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1193
+    target 80
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "45a61f8fe41bc5fa322db2861ba69734668610695a10c872980195b2412864fb"
+    source_drug "Padmabija"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1195
@@ -98743,15 +109268,47 @@ graph [
   ]
   edge [
     source 1196
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "77afe949ab2f38262cb4ac0b70344aa388706eb5ac5ab9c4b89c1da0f62eb4e5"
+    source_drug "Karavira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1196
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "77afe949ab2f38262cb4ac0b70344aa388706eb5ac5ab9c4b89c1da0f62eb4e5"
+    source_drug "Karavira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1196
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "77afe949ab2f38262cb4ac0b70344aa388706eb5ac5ab9c4b89c1da0f62eb4e5"
+    source_drug "Karavira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1196
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "77afe949ab2f38262cb4ac0b70344aa388706eb5ac5ab9c4b89c1da0f62eb4e5"
+    source_drug "Karavira"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1197
@@ -98929,15 +109486,25 @@ graph [
   ]
   edge [
     source 1204
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f3e46c788820137398f825bbf2f0eba3e9215c4b92dac80e54ce811597129b77"
+    source_drug "Parijata"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1204
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f3e46c788820137398f825bbf2f0eba3e9215c4b92dac80e54ce811597129b77"
+    source_drug "Parijata"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1205
@@ -99249,19 +109816,34 @@ graph [
     source 1219
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1219
     target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1219
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1220
@@ -99391,27 +109973,91 @@ graph [
   ]
   edge [
     source 1224
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1224
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1224
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1224
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1224
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1224
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1224
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1224
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "738c26d5fcd60040cda9847938c515a89b98561a66b2b96d7631d09107fff193"
+    source_drug "Gojihva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1225
@@ -99643,33 +110289,113 @@ graph [
   ]
   edge [
     source 1236
-    target 13
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1236
-    target 29
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1236
-    target 34
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1236
-    target 12
-    key 0
-    relation "TREATS"
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1236
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1236
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1236
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1236
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1236
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1236
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3a7ca0a02100c53f366ff6b1a4c76804de81841eee25a3b80a6051bfc7a86039"
+    source_drug "Dhanyaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1237
@@ -100135,33 +110861,113 @@ graph [
   ]
   edge [
     source 1261
+    target 33
+    key 0
+    relation "TREATS"
+    evidence_hash "f62e4906df5b84fd82c506799d1fb226830ccbd5d178ad4e971fc0ffa76f34ac"
+    source_drug "Saileya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1261
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f62e4906df5b84fd82c506799d1fb226830ccbd5d178ad4e971fc0ffa76f34ac"
+    source_drug "Saileya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1261
+    target 28
+    key 0
+    relation "TREATS"
+    evidence_hash "f62e4906df5b84fd82c506799d1fb226830ccbd5d178ad4e971fc0ffa76f34ac"
+    source_drug "Saileya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1261
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f62e4906df5b84fd82c506799d1fb226830ccbd5d178ad4e971fc0ffa76f34ac"
+    source_drug "Saileya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1261
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "f62e4906df5b84fd82c506799d1fb226830ccbd5d178ad4e971fc0ffa76f34ac"
+    source_drug "Saileya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1261
-    target 29
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1261
-    target 21
-    key 0
-    relation "TREATS"
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f62e4906df5b84fd82c506799d1fb226830ccbd5d178ad4e971fc0ffa76f34ac"
+    source_drug "Saileya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1261
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "f62e4906df5b84fd82c506799d1fb226830ccbd5d178ad4e971fc0ffa76f34ac"
+    source_drug "Saileya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1261
-    target 34
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f62e4906df5b84fd82c506799d1fb226830ccbd5d178ad4e971fc0ffa76f34ac"
+    source_drug "Saileya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1261
+    target 21
     key 0
     relation "TREATS"
+    evidence_hash "f62e4906df5b84fd82c506799d1fb226830ccbd5d178ad4e971fc0ffa76f34ac"
+    source_drug "Saileya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1261
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f62e4906df5b84fd82c506799d1fb226830ccbd5d178ad4e971fc0ffa76f34ac"
+    source_drug "Saileya"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1262
@@ -100531,33 +111337,223 @@ graph [
   ]
   edge [
     source 1277
-    target 13
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1277
-    target 21
-    key 0
+    target 33
+    key 1
     relation "TREATS"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1277
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1277
-    target 34
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1277
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1277
+    target 29
+    key 1
+    relation "TREATS"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1277
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1277
+    target 29
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1277
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1277
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1277
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1277
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1277
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1277
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1277
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1277
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1277
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1277
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1277
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1277
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1278
@@ -100579,21 +111575,69 @@ graph [
   ]
   edge [
     source 1278
+    target 28
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1278
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela - suksma"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1278
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1278
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela - suksma"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1278
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1278
-    target 29
-    key 0
-    relation "TREATS"
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela - suksma"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1279
@@ -100621,15 +111665,47 @@ graph [
   ]
   edge [
     source 1279
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "262299e7b8a2cb0b55dba3daaca4f773e0ead19ded85c17928a0718f25c4369c"
+    source_drug "Satapuspa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1279
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "262299e7b8a2cb0b55dba3daaca4f773e0ead19ded85c17928a0718f25c4369c"
+    source_drug "Satapuspa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1279
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "262299e7b8a2cb0b55dba3daaca4f773e0ead19ded85c17928a0718f25c4369c"
+    source_drug "Satapuspa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1279
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "262299e7b8a2cb0b55dba3daaca4f773e0ead19ded85c17928a0718f25c4369c"
+    source_drug "Satapuspa"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1280
@@ -100738,12 +111814,6 @@ graph [
     target 2
     key 0
     relation "USED_IN"
-  ]
-  edge [
-    source 1284
-    target 21
-    key 0
-    relation "TREATS"
   ]
   edge [
     source 1285
@@ -101026,12 +112096,44 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "c726cf31f7e7eeb9ce500eb8c1bfd6097fbb6744f89165f4a0e42bd10638eda4"
+    source_drug "Bhumyamalaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1297
-    target 28
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c726cf31f7e7eeb9ce500eb8c1bfd6097fbb6744f89165f4a0e42bd10638eda4"
+    source_drug "Bhumyamalaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1297
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "c726cf31f7e7eeb9ce500eb8c1bfd6097fbb6744f89165f4a0e42bd10638eda4"
+    source_drug "Bhumyamalaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1297
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c726cf31f7e7eeb9ce500eb8c1bfd6097fbb6744f89165f4a0e42bd10638eda4"
+    source_drug "Bhumyamalaki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1298
@@ -101101,15 +112203,47 @@ graph [
   ]
   edge [
     source 1299
-    target 33
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "65105e73f132bd7863c131e79c5e0acc494ef7e0146438404877b041adf03b1d"
+    source_drug "Asvagandha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1299
     target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "65105e73f132bd7863c131e79c5e0acc494ef7e0146438404877b041adf03b1d"
+    source_drug "Asvagandha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1299
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "65105e73f132bd7863c131e79c5e0acc494ef7e0146438404877b041adf03b1d"
+    source_drug "Asvagandha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1299
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "65105e73f132bd7863c131e79c5e0acc494ef7e0146438404877b041adf03b1d"
+    source_drug "Asvagandha"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1300
@@ -101179,39 +112313,135 @@ graph [
   ]
   edge [
     source 1302
-    target 13
+    target 33
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 1302
-    target 4
-    key 0
-    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1302
     target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1302
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1302
-    target 12
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1302
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1302
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1302
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1302
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1302
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1302
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1302
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1302
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1302
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1302
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1303
@@ -101377,21 +112607,69 @@ graph [
   ]
   edge [
     source 1309
-    target 33
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "1b84c37d1d05a782e9c807b1e44d45d07acc63c54dbb8ef45632ab407578d031"
+    source_drug "Sarala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1309
     target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1b84c37d1d05a782e9c807b1e44d45d07acc63c54dbb8ef45632ab407578d031"
+    source_drug "Sarala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1309
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "1b84c37d1d05a782e9c807b1e44d45d07acc63c54dbb8ef45632ab407578d031"
+    source_drug "Sarala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1309
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1b84c37d1d05a782e9c807b1e44d45d07acc63c54dbb8ef45632ab407578d031"
+    source_drug "Sarala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1309
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "1b84c37d1d05a782e9c807b1e44d45d07acc63c54dbb8ef45632ab407578d031"
+    source_drug "Sarala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1309
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "1b84c37d1d05a782e9c807b1e44d45d07acc63c54dbb8ef45632ab407578d031"
+    source_drug "Sarala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1310
@@ -101524,12 +112802,44 @@ graph [
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "5e2aa1de2189b0ab9aa73736e3094f2d9d89436c1520da39c613223bf60c4195"
+    source_drug "Cavya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1314
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5e2aa1de2189b0ab9aa73736e3094f2d9d89436c1520da39c613223bf60c4195"
+    source_drug "Cavya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1314
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "5e2aa1de2189b0ab9aa73736e3094f2d9d89436c1520da39c613223bf60c4195"
+    source_drug "Cavya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1314
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5e2aa1de2189b0ab9aa73736e3094f2d9d89436c1520da39c613223bf60c4195"
+    source_drug "Cavya"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1315
@@ -101896,24 +113206,88 @@ graph [
     target 33
     key 0
     relation "TREATS"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1333
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1333
-    target 13
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1333
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1333
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1333
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1333
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1333
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1333
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1334
@@ -102025,45 +113399,311 @@ graph [
   ]
   edge [
     source 1338
-    target 29
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1338
-    target 21
-    key 0
+    target 34
+    key 1
     relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1338
-    target 89
-    key 0
-    relation "TREATS"
+    target 34
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1338
-    target 33
-    key 0
-    relation "TREATS"
+    target 34
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1338
-    target 35
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1338
-    target 12
-    key 0
+    target 28
+    key 1
     relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 28
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1338
+    target 28
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1338
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1338
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1338
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 35
+    key 1
+    relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 35
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1338
+    target 35
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1338
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1338
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1338
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1338
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1338
+    target 89
+    key 0
+    relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 89
+    key 1
+    relation "TREATS"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1338
+    target 89
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1338
+    target 89
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "008b30f9b8b8978b60b774501acbb5374475c19ae499ddefc83f09092548186e"
+    source_drug "Citraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1339
@@ -102217,27 +113857,47 @@ graph [
   ]
   edge [
     source 1345
-    target 33
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1345
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1345
     target 20
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1345
-    target 29
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1345
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1346
@@ -102265,9 +113925,14 @@ graph [
   ]
   edge [
     source 1346
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "699b3cc73906ce1372a912a433c4ec2a67c41aa397736c4a26081ac76f852603"
+    source_drug "Parpata"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1348
@@ -102441,13 +114106,23 @@ graph [
     source 1356
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5e2aa1de2189b0ab9aa73736e3094f2d9d89436c1520da39c613223bf60c4195"
+    source_drug "Cavya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1356
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5e2aa1de2189b0ab9aa73736e3094f2d9d89436c1520da39c613223bf60c4195"
+    source_drug "Cavya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1357
@@ -102499,39 +114174,69 @@ graph [
   ]
   edge [
     source 1358
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1358
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1358
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1358
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1358
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1358
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1358
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1358
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1358
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1358
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "22539c5bd08a1b4af9df8fe05b1d5e9ea62f5e08298037c82f23f4258f31f109"
+    source_drug "Bharngi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1359
@@ -102559,21 +114264,36 @@ graph [
   ]
   edge [
     source 1359
-    target 33
+    target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1359
-    target 29
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1359
     target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1360
@@ -102595,21 +114315,69 @@ graph [
   ]
   edge [
     source 1360
-    target 33
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1360
-    target 29
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1360
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1360
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1360
     target 35
     key 0
     relation "TREATS"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1360
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1361
@@ -102721,21 +114489,135 @@ graph [
   ]
   edge [
     source 1365
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1365
+    target 33
+    key 1
+    relation "TREATS"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka - upajati"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1365
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1365
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka - upajati"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1365
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1365
+    target 4
+    key 1
+    relation "TREATS"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka - upajati"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1365
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1365
+    target 4
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka - upajati"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1365
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1365
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka - upajati"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1365
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1365
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "61c8c9c5ed850874ced73705d394b7834273ff6b10e66a0595e439d8d89d0621"
+    source_drug "Padmaka - upajati"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1366
@@ -102823,9 +114705,25 @@ graph [
   ]
   edge [
     source 1369
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9112b34e751e404502799f94b2a9403c22c08d392b865f8308b5b85aabee6009"
+    source_drug "Priyangu"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1369
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9112b34e751e404502799f94b2a9403c22c08d392b865f8308b5b85aabee6009"
+    source_drug "Priyangu - ausadha"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1370
@@ -102955,51 +114853,179 @@ graph [
   ]
   edge [
     source 1373
-    target 13
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1373
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1373
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1373
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1373
     target 34
     key 0
     relation "TREATS"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1373
-    target 35
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1373
-    target 12
-    key 0
-    relation "TREATS"
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1373
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1373
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1373
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1373
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1373
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1373
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1373
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1373
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1373
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1373
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1373
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1373
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "37c0554fee05d4b150ded527464b9800b327fbf6e1ad41a805b935de29f60b41"
+    source_drug "Bakuci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1374
@@ -103225,9 +115251,25 @@ graph [
   ]
   edge [
     source 1381
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "cd525515591000e65d8170e252285923cfa778e331aead59be5855bcc4097724"
+    source_drug "Dadima"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1381
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cd525515591000e65d8170e252285923cfa778e331aead59be5855bcc4097724"
+    source_drug "Dadima"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1383
@@ -103363,15 +115405,91 @@ graph [
   ]
   edge [
     source 1388
-    target 33
+    target 35
     key 0
     relation "TREATS"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1388
+    target 35
+    key 1
+    relation "TREATS"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1388
+    target 35
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1388
+    target 35
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1388
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1388
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1388
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1388
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c3be9fe358e79349c5bdcc3114bb4a49b421a49585e0d11a6c7b817543c53600"
+    source_drug "Patala - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1389
@@ -103465,15 +115583,47 @@ graph [
   ]
   edge [
     source 1391
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "4cfcb3a9b24fa5365e293a24c92a165cd6825f4a7697529e834e028e5b9d71cd"
+    source_drug "Mulaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1391
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "4cfcb3a9b24fa5365e293a24c92a165cd6825f4a7697529e834e028e5b9d71cd"
+    source_drug "Mulaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1391
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "4cfcb3a9b24fa5365e293a24c92a165cd6825f4a7697529e834e028e5b9d71cd"
+    source_drug "Mulaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1391
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "4cfcb3a9b24fa5365e293a24c92a165cd6825f4a7697529e834e028e5b9d71cd"
+    source_drug "Mulaka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1392
@@ -103551,19 +115701,34 @@ graph [
     source 1394
     target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1394
     target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1394
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "38d46d4af2c56d410deae51f37ab3e5e443b6dbaf9e9d6661e14790644448e95"
+    source_drug "Pasanabheda"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1395
@@ -103591,15 +115756,47 @@ graph [
   ]
   edge [
     source 1395
-    target 20
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1395
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka - sveta"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1395
+    target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1395
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka - sveta"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1397
@@ -103651,21 +115848,36 @@ graph [
   ]
   edge [
     source 1398
+    target 28
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "484bea49e990524c48bd11425b53d687ec0c097adcccae126a032a11de93e4cb"
+    source_drug "Amlavetasa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1398
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "484bea49e990524c48bd11425b53d687ec0c097adcccae126a032a11de93e4cb"
+    source_drug "Amlavetasa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1398
     target 12
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1398
-    target 29
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "484bea49e990524c48bd11425b53d687ec0c097adcccae126a032a11de93e4cb"
+    source_drug "Amlavetasa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1399
@@ -103779,13 +115991,23 @@ graph [
     source 1404
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1404
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1405
@@ -104365,27 +116587,91 @@ graph [
   ]
   edge [
     source 1427
-    target 80
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "292e26b82a56061a4f2056a952136c7a2497c80fc738b9a2bf9eef2ff3a5335b"
+    source_drug "Kasa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1427
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1427
-    target 13
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "292e26b82a56061a4f2056a952136c7a2497c80fc738b9a2bf9eef2ff3a5335b"
+    source_drug "Kasa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1427
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "292e26b82a56061a4f2056a952136c7a2497c80fc738b9a2bf9eef2ff3a5335b"
+    source_drug "Kasa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1427
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "292e26b82a56061a4f2056a952136c7a2497c80fc738b9a2bf9eef2ff3a5335b"
+    source_drug "Kasa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1427
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "292e26b82a56061a4f2056a952136c7a2497c80fc738b9a2bf9eef2ff3a5335b"
+    source_drug "Kasa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1427
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "292e26b82a56061a4f2056a952136c7a2497c80fc738b9a2bf9eef2ff3a5335b"
+    source_drug "Kasa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1427
+    target 80
+    key 0
+    relation "TREATS"
+    evidence_hash "292e26b82a56061a4f2056a952136c7a2497c80fc738b9a2bf9eef2ff3a5335b"
+    source_drug "Kasa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1427
+    target 80
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "292e26b82a56061a4f2056a952136c7a2497c80fc738b9a2bf9eef2ff3a5335b"
+    source_drug "Kasa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1428
@@ -104509,9 +116795,14 @@ graph [
   ]
   edge [
     source 1433
-    target 29
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "618648c9aa4224866b271c90c4e01bca4e4c4a86ae8d2f78e3bdb35b79cecfc9"
+    source_drug "Pilu"
+    identity_status "Suggested source 1"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1434
@@ -104545,27 +116836,80 @@ graph [
   ]
   edge [
     source 1434
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1434
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1434
-    target 29
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1434
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1434
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1434
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1434
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "?"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1434
+    target 28
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "618648c9aa4224866b271c90c4e01bca4e4c4a86ae8d2f78e3bdb35b79cecfc9"
+    source_drug "Pilu"
+    identity_status "Suggested source 2"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1435
@@ -104653,21 +116997,69 @@ graph [
   ]
   edge [
     source 1440
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1440
-    target 28
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1440
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1440
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1440
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1440
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc0e1a873ab71758bf013c6b857b536ac883a19cb048e7f1ddf8078e2fd7d64b"
+    source_drug "Murva - prajati"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1441
@@ -104713,15 +117105,135 @@ graph [
   ]
   edge [
     source 1441
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1441
+    target 33
+    key 1
+    relation "TREATS"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana - bheda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1441
+    target 33
+    key 2
+    relation "TREATS"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1441
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1441
+    target 33
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana - bheda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1441
+    target 33
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1441
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1441
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana - bheda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1441
+    target 20
+    key 2
+    relation "TREATS"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1441
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1441
+    target 20
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana - bheda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1441
+    target 20
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "486dc3e5fada26a375f7422b2c28d5f8388ddcec3b2bfa9f9c715c0ba233e0af"
+    source_drug "Candana - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1443
@@ -104794,6 +117306,22 @@ graph [
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "41dbcf65c86543ca81012db528f138c58cbe6f2af8bcb65f88677ef6be7d8d19"
+    source_drug "Aristaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1445
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "41dbcf65c86543ca81012db528f138c58cbe6f2af8bcb65f88677ef6be7d8d19"
+    source_drug "Aristaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1446
@@ -104811,7 +117339,12 @@ graph [
     source 1446
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "41dbcf65c86543ca81012db528f138c58cbe6f2af8bcb65f88677ef6be7d8d19"
+    source_drug "Aristaka"
+    identity_status "Suggested source 1"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1447
@@ -104887,27 +117420,91 @@ graph [
   ]
   edge [
     source 1449
-    target 33
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1449
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1449
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1449
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1449
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1449
-    target 29
-    key 0
-    relation "TREATS"
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1449
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1449
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1450
@@ -104992,12 +117589,44 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "b72837fbc175e5c98176ee90255663cc658293d9357e807cb9b130e5d9b26a29"
+    source_drug "Kustha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1453
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b72837fbc175e5c98176ee90255663cc658293d9357e807cb9b130e5d9b26a29"
+    source_drug "Kustha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1453
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "b72837fbc175e5c98176ee90255663cc658293d9357e807cb9b130e5d9b26a29"
+    source_drug "Kustha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1453
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b72837fbc175e5c98176ee90255663cc658293d9357e807cb9b130e5d9b26a29"
+    source_drug "Kustha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1454
@@ -105051,13 +117680,23 @@ graph [
     source 1456
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a2166b71dc009f6a260b428054bcfe7b3e29ee042d5614b76b5dab8c461b186b"
+    source_drug "Kosamra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1456
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a2166b71dc009f6a260b428054bcfe7b3e29ee042d5614b76b5dab8c461b186b"
+    source_drug "Kosamra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1457
@@ -105427,45 +118066,157 @@ graph [
   ]
   edge [
     source 1474
-    target 29
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "8cf14704e1f0cdc8743a2d03d8ba03fb2b4ff86341c00c5dcd8f632c5009da89"
+    source_drug "Sala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1474
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1474
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1474
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1474
-    target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1474
-    target 35
-    key 0
-    relation "TREATS"
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8cf14704e1f0cdc8743a2d03d8ba03fb2b4ff86341c00c5dcd8f632c5009da89"
+    source_drug "Sala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1474
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "8cf14704e1f0cdc8743a2d03d8ba03fb2b4ff86341c00c5dcd8f632c5009da89"
+    source_drug "Sala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1474
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1474
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8cf14704e1f0cdc8743a2d03d8ba03fb2b4ff86341c00c5dcd8f632c5009da89"
+    source_drug "Sala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1474
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "8cf14704e1f0cdc8743a2d03d8ba03fb2b4ff86341c00c5dcd8f632c5009da89"
+    source_drug "Sala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1474
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8cf14704e1f0cdc8743a2d03d8ba03fb2b4ff86341c00c5dcd8f632c5009da89"
+    source_drug "Sala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1474
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "8cf14704e1f0cdc8743a2d03d8ba03fb2b4ff86341c00c5dcd8f632c5009da89"
+    source_drug "Sala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1474
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1474
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8cf14704e1f0cdc8743a2d03d8ba03fb2b4ff86341c00c5dcd8f632c5009da89"
+    source_drug "Sala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1474
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "8cf14704e1f0cdc8743a2d03d8ba03fb2b4ff86341c00c5dcd8f632c5009da89"
+    source_drug "Sala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1474
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8cf14704e1f0cdc8743a2d03d8ba03fb2b4ff86341c00c5dcd8f632c5009da89"
+    source_drug "Sala"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1474
+    target 28
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1474
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "da8c5a465f87c09db4ff79994f2b81517158d47f0da76173e195ffbfb2ac1cb6"
+    source_drug "Asoka"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1475
@@ -105525,13 +118276,23 @@ graph [
     source 1476
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1476
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1477
@@ -105823,27 +118584,91 @@ graph [
   ]
   edge [
     source 1491
-    target 33
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "3540feb93ef3a56ed27f1ab496d404f4d85f3675c404e2804b778d9d43b997df"
+    source_drug "Kakamaci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1491
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3540feb93ef3a56ed27f1ab496d404f4d85f3675c404e2804b778d9d43b997df"
+    source_drug "Kakamaci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1491
+    target 35
+    key 0
+    relation "TREATS"
+    evidence_hash "3540feb93ef3a56ed27f1ab496d404f4d85f3675c404e2804b778d9d43b997df"
+    source_drug "Kakamaci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1491
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3540feb93ef3a56ed27f1ab496d404f4d85f3675c404e2804b778d9d43b997df"
+    source_drug "Kakamaci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1491
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "3540feb93ef3a56ed27f1ab496d404f4d85f3675c404e2804b778d9d43b997df"
+    source_drug "Kakamaci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1491
-    target 28
-    key 0
-    relation "TREATS"
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3540feb93ef3a56ed27f1ab496d404f4d85f3675c404e2804b778d9d43b997df"
+    source_drug "Kakamaci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1491
     target 29
     key 0
     relation "TREATS"
+    evidence_hash "3540feb93ef3a56ed27f1ab496d404f4d85f3675c404e2804b778d9d43b997df"
+    source_drug "Kakamaci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1491
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3540feb93ef3a56ed27f1ab496d404f4d85f3675c404e2804b778d9d43b997df"
+    source_drug "Kakamaci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1492
@@ -105877,33 +118702,58 @@ graph [
   ]
   edge [
     source 1492
-    target 13
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1492
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1492
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1492
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3374014002bdf2255e7de1d6c6ba5d30fd730552c28a8e0810b8c50ca870ed29"
+    source_drug "Brhati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1492
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3374014002bdf2255e7de1d6c6ba5d30fd730552c28a8e0810b8c50ca870ed29"
+    source_drug "Brhati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1492
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3374014002bdf2255e7de1d6c6ba5d30fd730552c28a8e0810b8c50ca870ed29"
+    source_drug "Brhati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1492
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3374014002bdf2255e7de1d6c6ba5d30fd730552c28a8e0810b8c50ca870ed29"
+    source_drug "Brhati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1492
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3374014002bdf2255e7de1d6c6ba5d30fd730552c28a8e0810b8c50ca870ed29"
+    source_drug "Brhati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1493
@@ -106129,33 +118979,58 @@ graph [
   ]
   edge [
     source 1500
-    target 13
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1500
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1500
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1500
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3374014002bdf2255e7de1d6c6ba5d30fd730552c28a8e0810b8c50ca870ed29"
+    source_drug "Brhati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1500
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3374014002bdf2255e7de1d6c6ba5d30fd730552c28a8e0810b8c50ca870ed29"
+    source_drug "Brhati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1500
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3374014002bdf2255e7de1d6c6ba5d30fd730552c28a8e0810b8c50ca870ed29"
+    source_drug "Brhati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1500
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3374014002bdf2255e7de1d6c6ba5d30fd730552c28a8e0810b8c50ca870ed29"
+    source_drug "Brhati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1500
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3374014002bdf2255e7de1d6c6ba5d30fd730552c28a8e0810b8c50ca870ed29"
+    source_drug "Brhati"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1501
@@ -106261,21 +119136,69 @@ graph [
   ]
   edge [
     source 1504
-    target 13
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "55282f5ff080887a2c9fdfea1604cf14d813136f9104c5ef2ca6f3a0164dc550"
+    source_drug "Mamsarohini"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1504
     target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "55282f5ff080887a2c9fdfea1604cf14d813136f9104c5ef2ca6f3a0164dc550"
+    source_drug "Mamsarohini"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1504
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "55282f5ff080887a2c9fdfea1604cf14d813136f9104c5ef2ca6f3a0164dc550"
+    source_drug "Mamsarohini"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1504
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "55282f5ff080887a2c9fdfea1604cf14d813136f9104c5ef2ca6f3a0164dc550"
+    source_drug "Mamsarohini"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1504
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "55282f5ff080887a2c9fdfea1604cf14d813136f9104c5ef2ca6f3a0164dc550"
+    source_drug "Mamsarohini"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1504
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "55282f5ff080887a2c9fdfea1604cf14d813136f9104c5ef2ca6f3a0164dc550"
+    source_drug "Mamsarohini"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1505
@@ -106327,27 +119250,179 @@ graph [
   ]
   edge [
     source 1506
-    target 12
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1506
+    target 34
+    key 1
+    relation "TREATS"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1506
+    target 34
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1506
+    target 34
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1506
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1506
-    target 28
-    key 0
+    target 20
+    key 1
     relation "TREATS"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1506
-    target 35
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1506
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1506
+    target 12
     key 0
     relation "TREATS"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1506
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1506
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1506
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1506
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1506
+    target 29
+    key 1
+    relation "TREATS"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1506
+    target 29
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1506
+    target 29
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "3715ae429f73885730726f721a967efd782f724d50cce5238f9f508529594cc4"
+    source_drug "Mundi - jati"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1507
@@ -106495,39 +119570,135 @@ graph [
   ]
   edge [
     source 1513
-    target 13
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1513
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1513
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1513
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1513
-    target 34
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1513
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1513
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1513
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1513
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1513
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1513
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1513
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1513
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1513
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1513
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "824a3d1d179db68f29d7ab33117acdfae520d9af5d3f5753a2c0a021eb1044a2"
+    source_drug "Patha - anya"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1514
@@ -106576,18 +119747,28 @@ graph [
     target 3
     key 0
     relation "USED_IN"
-  ]
-  edge [
-    source 1515
-    target 28
-    key 0
-    relation "TREATS"
   ]
   edge [
     source 1515
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "954d96ecf5880b1b7b0b938940157cd4a7e885e56a66296d4f593f8307a0e6fd"
+    source_drug "Arjuna"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1515
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "954d96ecf5880b1b7b0b938940157cd4a7e885e56a66296d4f593f8307a0e6fd"
+    source_drug "Arjuna"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1516
@@ -106750,12 +119931,44 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "84e416f5fa61476054c91e7232d49be85e53c3a778f5dff135ab919c9c3cb534"
+    source_drug "Kataka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1522
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "84e416f5fa61476054c91e7232d49be85e53c3a778f5dff135ab919c9c3cb534"
+    source_drug "Kataka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1522
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "84e416f5fa61476054c91e7232d49be85e53c3a778f5dff135ab919c9c3cb534"
+    source_drug "Kataka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1522
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "84e416f5fa61476054c91e7232d49be85e53c3a778f5dff135ab919c9c3cb534"
+    source_drug "Kataka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1523
@@ -106921,9 +120134,25 @@ graph [
   ]
   edge [
     source 1533
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "58577648981d98837ca9974bfb101faf48203158cf37a31f6e6af0bbf93009e9"
+    source_drug "Lodhra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1533
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "58577648981d98837ca9974bfb101faf48203158cf37a31f6e6af0bbf93009e9"
+    source_drug "Lodhra"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1534
@@ -107017,9 +120246,25 @@ graph [
   ]
   edge [
     source 1540
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "4e2d4fa530800fd9fa4d0e6b461563da6462b6406b0f3618c4a404d30aa1d8f5"
+    source_drug "Jhandu"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1540
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "4e2d4fa530800fd9fa4d0e6b461563da6462b6406b0f3618c4a404d30aa1d8f5"
+    source_drug "Jhandu"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1541
@@ -107188,18 +120433,66 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "0e470c4f60942a2f9c4579b73ca1c47cd0019daabf899dd7ab15d805c5d2677f"
+    source_drug "Dugdhapheni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1547
-    target 28
-    key 0
-    relation "TREATS"
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "0e470c4f60942a2f9c4579b73ca1c47cd0019daabf899dd7ab15d805c5d2677f"
+    source_drug "Dugdhapheni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1547
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "0e470c4f60942a2f9c4579b73ca1c47cd0019daabf899dd7ab15d805c5d2677f"
+    source_drug "Dugdhapheni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1547
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "0e470c4f60942a2f9c4579b73ca1c47cd0019daabf899dd7ab15d805c5d2677f"
+    source_drug "Dugdhapheni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1547
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "0e470c4f60942a2f9c4579b73ca1c47cd0019daabf899dd7ab15d805c5d2677f"
+    source_drug "Dugdhapheni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1547
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "0e470c4f60942a2f9c4579b73ca1c47cd0019daabf899dd7ab15d805c5d2677f"
+    source_drug "Dugdhapheni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1548
@@ -107247,13 +120540,23 @@ graph [
     source 1548
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1548
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1550
@@ -107281,33 +120584,124 @@ graph [
   ]
   edge [
     source 1550
-    target 13
+    target 4
     key 0
     relation "TREATS"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1550
     target 4
-    key 0
+    key 1
     relation "TREATS"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1550
-    target 34
-    key 0
-    relation "TREATS"
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1550
-    target 12
-    key 0
-    relation "TREATS"
+    target 4
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1550
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1550
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1550
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1550
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1550
+    target 33
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1550
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1550
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1551
@@ -107389,33 +120783,113 @@ graph [
   ]
   edge [
     source 1554
-    target 13
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "4e54e22a4993a54314fa175121dd33c80b572fc8b1b1df04407e0685b4f19fad"
+    source_drug "Sarapunkha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1554
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1554
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1554
-    target 12
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "4e54e22a4993a54314fa175121dd33c80b572fc8b1b1df04407e0685b4f19fad"
+    source_drug "Sarapunkha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1554
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "4e54e22a4993a54314fa175121dd33c80b572fc8b1b1df04407e0685b4f19fad"
+    source_drug "Sarapunkha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1554
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "4e54e22a4993a54314fa175121dd33c80b572fc8b1b1df04407e0685b4f19fad"
+    source_drug "Sarapunkha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1554
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "4e54e22a4993a54314fa175121dd33c80b572fc8b1b1df04407e0685b4f19fad"
+    source_drug "Sarapunkha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1554
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "4e54e22a4993a54314fa175121dd33c80b572fc8b1b1df04407e0685b4f19fad"
+    source_drug "Sarapunkha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1554
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "4e54e22a4993a54314fa175121dd33c80b572fc8b1b1df04407e0685b4f19fad"
+    source_drug "Sarapunkha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1554
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "4e54e22a4993a54314fa175121dd33c80b572fc8b1b1df04407e0685b4f19fad"
+    source_drug "Sarapunkha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1554
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "4e54e22a4993a54314fa175121dd33c80b572fc8b1b1df04407e0685b4f19fad"
+    source_drug "Sarapunkha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1554
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "4e54e22a4993a54314fa175121dd33c80b572fc8b1b1df04407e0685b4f19fad"
+    source_drug "Sarapunkha"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1555
@@ -107467,15 +120941,25 @@ graph [
   ]
   edge [
     source 1556
-    target 28
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "954d96ecf5880b1b7b0b938940157cd4a7e885e56a66296d4f593f8307a0e6fd"
+    source_drug "Arjuna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1556
-    target 4
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "954d96ecf5880b1b7b0b938940157cd4a7e885e56a66296d4f593f8307a0e6fd"
+    source_drug "Arjuna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1557
@@ -107521,147 +121005,189 @@ graph [
   ]
   edge [
     source 1557
-    target 28
+    target 4
     key 0
     relation "TREATS"
+    evidence_hash "954d96ecf5880b1b7b0b938940157cd4a7e885e56a66296d4f593f8307a0e6fd"
+    source_drug "Arjuna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1557
     target 4
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "954d96ecf5880b1b7b0b938940157cd4a7e885e56a66296d4f593f8307a0e6fd"
+    source_drug "Arjuna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
-    source 1558
-    target 208
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1558
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1558
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1558
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1558
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1559
-    target 208
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1559
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1559
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1559
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1559
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1560
-    target 208
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1560
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1560
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1560
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1560
-    target 19
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1560
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1560
-    target 15
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1561
-    target 208
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1561
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1561
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1561
+    source 1557
     target 29
     key 0
     relation "TREATS"
+    evidence_hash "954d96ecf5880b1b7b0b938940157cd4a7e885e56a66296d4f593f8307a0e6fd"
+    source_drug "Arjuna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1557
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "954d96ecf5880b1b7b0b938940157cd4a7e885e56a66296d4f593f8307a0e6fd"
+    source_drug "Arjuna"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1558
+    target 208
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1558
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1558
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1558
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1558
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1559
+    target 208
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1559
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1559
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1559
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1559
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1560
+    target 208
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1560
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1560
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1560
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1560
+    target 19
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1560
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1560
+    target 15
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1561
+    target 208
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1561
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1561
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1561
+    target 28
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "16b1aa61dcca408c4d754dc55473107f374de07cb46bf090d2b646402ab42bfb"
+    source_drug "Haritaki"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1561
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "16b1aa61dcca408c4d754dc55473107f374de07cb46bf090d2b646402ab42bfb"
+    source_drug "Haritaki"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1562
@@ -107743,9 +121269,14 @@ graph [
   ]
   edge [
     source 1565
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "8ecd37ba6e6ea48f7bb5b67504218fbcc0311e3e8284472df6723d812aff6e84"
+    source_drug "Trayamana"
+    identity_status "Suggested source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1566
@@ -107917,57 +121448,201 @@ graph [
   ]
   edge [
     source 1571
-    target 29
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1571
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1571
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1571
-    target 80
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1571
     target 28
     key 0
     relation "TREATS"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1571
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1571
     target 34
     key 0
     relation "TREATS"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1571
-    target 35
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1571
-    target 12
-    key 0
-    relation "TREATS"
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1571
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1571
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1571
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1571
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1571
+    target 80
+    key 0
+    relation "TREATS"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1571
+    target 80
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1571
+    target 12
+    key 0
+    relation "TREATS"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1571
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1571
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1571
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1571
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1571
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f6e14720da7ff4cbdca4e55cc7fd9b976e72aef2c2d576df3130d57458d0a626"
+    source_drug "Guduci"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1572
@@ -108187,21 +121862,102 @@ graph [
   ]
   edge [
     source 1583
-    target 12
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1583
-    target 29
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1583
+    target 28
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1583
+    target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1583
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1583
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1583
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1583
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1583
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1584
@@ -108229,21 +121985,102 @@ graph [
   ]
   edge [
     source 1584
-    target 12
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1584
-    target 29
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1584
+    target 28
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1584
+    target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1584
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1584
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1584
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1584
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - rakta"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1584
+    target 4
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "697120ccabb1a16c20efc95f2b14ae668367f004ed22ed2dc0c4ec2dfbc76333"
+    source_drug "Punarnava - sveta"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1585
@@ -108385,39 +122222,69 @@ graph [
   ]
   edge [
     source 1590
-    target 80
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1590
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1590
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1590
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1590
-    target 34
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1590
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1590
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1590
+    target 80
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1590
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1590
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1591
@@ -108583,9 +122450,25 @@ graph [
   ]
   edge [
     source 1597
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "26108691ef26aab947e5e8a33843e13b0289c68d273e870ba4f4900f1c042641"
+    source_drug "Methika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1597
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "26108691ef26aab947e5e8a33843e13b0289c68d273e870ba4f4900f1c042641"
+    source_drug "Methika"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1598
@@ -108871,27 +122754,91 @@ graph [
   ]
   edge [
     source 1613
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "64b3bff9b6cfeda137e03866e6079e0c719f032fc2c809bf186665fe80827ef5"
+    source_drug "Prsniparni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1613
-    target 13
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "64b3bff9b6cfeda137e03866e6079e0c719f032fc2c809bf186665fe80827ef5"
+    source_drug "Prsniparni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1613
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "64b3bff9b6cfeda137e03866e6079e0c719f032fc2c809bf186665fe80827ef5"
+    source_drug "Prsniparni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1613
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "64b3bff9b6cfeda137e03866e6079e0c719f032fc2c809bf186665fe80827ef5"
+    source_drug "Prsniparni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1613
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "64b3bff9b6cfeda137e03866e6079e0c719f032fc2c809bf186665fe80827ef5"
+    source_drug "Prsniparni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1613
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "64b3bff9b6cfeda137e03866e6079e0c719f032fc2c809bf186665fe80827ef5"
+    source_drug "Prsniparni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1613
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "64b3bff9b6cfeda137e03866e6079e0c719f032fc2c809bf186665fe80827ef5"
+    source_drug "Prsniparni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1613
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "64b3bff9b6cfeda137e03866e6079e0c719f032fc2c809bf186665fe80827ef5"
+    source_drug "Prsniparni"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1614
@@ -108921,13 +122868,23 @@ graph [
     source 1614
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1614
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ef78f2ed8a91d0a811f76ca7b8786d3f786cb5d6888ef5fd6562bfa6eb697220"
+    source_drug "Nagabala"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1615
@@ -108993,7 +122950,12 @@ graph [
     source 1618
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "493cf31538a11a49d161cde0e36ac13dd9b5f61d691bbd14c9ea2af1d8a75de5"
+    source_drug "Tagara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1619
@@ -109035,7 +122997,12 @@ graph [
     source 1619
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "493cf31538a11a49d161cde0e36ac13dd9b5f61d691bbd14c9ea2af1d8a75de5"
+    source_drug "Tagara"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1620
@@ -109087,33 +123054,113 @@ graph [
   ]
   edge [
     source 1622
-    target 13
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1622
-    target 21
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1622
-    target 28
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1622
-    target 34
-    key 0
-    relation "TREATS"
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1622
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1622
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1622
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1622
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1622
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1622
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "32cad7f52d8848886e732309bfd6827351cdb2d3f8db48354b9bc8b38668e582"
+    source_drug "Sariva - prakara"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1623
@@ -109149,25 +123196,45 @@ graph [
     source 1623
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1623
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1623
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1623
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1623
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1623
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1624
@@ -109225,15 +123292,47 @@ graph [
   ]
   edge [
     source 1625
-    target 20
+    target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1625
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka - sveta"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1625
+    target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1625
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "35382d053d2bc2c4cbed16b18ff09ead1e59ad48c34a13ceced932a56cfe6a8e"
+    source_drug "Rohitaka - sveta"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1626
@@ -109261,363 +123360,656 @@ graph [
   ]
   edge [
     source 1626
-    target 13
+    target 34
     key 0
     relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1626
-    target 21
-    key 0
+    target 34
+    key 1
     relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1626
-    target 33
+    target 34
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1626
+    target 34
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1626
+    target 20
     key 0
     relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1626
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1626
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1626
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1626
     target 35
     key 0
     relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1626
+    target 35
+    key 1
+    relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1626
+    target 35
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1626
+    target 35
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1626
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1626
+    target 12
+    key 1
+    relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1626
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1626
+    target 12
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1626
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1626
+    target 13
+    key 1
+    relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1626
+    target 13
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1626
+    target 13
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1626
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1626
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1626
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1626
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "9d88669b60b6486d54349dc1bf0cde5580a893165a521979d94ae604d59df8f4"
+    source_drug "Bhrngaraja - sveta"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1627
+    target 17
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1627
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1628
+    target 17
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1628
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1629
+    target 17
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1629
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1630
+    target 17
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1630
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1631
+    target 963
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1631
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1632
+    target 963
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1632
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1632
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1632
+    target 19
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1632
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1632
+    target 33
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1632
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1632
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1632
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1633
+    target 963
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1633
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1633
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1634
+    target 1635
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1634
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1634
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1634
+    target 19
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1634
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1634
+    target 33
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1634
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1634
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1634
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Controversial"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1636
+    target 1635
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1636
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1636
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1637
+    target 414
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1637
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1637
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1637
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1637
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1637
+    target 15
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1638
+    target 414
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1638
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1638
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1639
+    target 414
+    key 0
+    relation "BELONGS_TO"
+  ]
+  edge [
+    source 1639
+    target 2
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1639
+    target 6
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1639
+    target 7
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1639
+    target 3
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1639
+    target 15
+    key 0
+    relation "USED_IN"
+  ]
+  edge [
+    source 1639
+    target 33
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c715fbe175e442207383661c97fc3b4820da01221f3625728e66b67624f78c5a"
+    source_drug "Nirgundi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1639
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c715fbe175e442207383661c97fc3b4820da01221f3625728e66b67624f78c5a"
+    source_drug "Nirgundi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
-    source 1627
-    target 17
+    source 1639
+    target 35
     key 0
-    relation "BELONGS_TO"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c715fbe175e442207383661c97fc3b4820da01221f3625728e66b67624f78c5a"
+    source_drug "Nirgundi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
-    source 1627
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1628
-    target 17
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1628
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1629
-    target 17
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1629
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1630
-    target 17
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1630
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1631
-    target 963
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1631
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1632
-    target 963
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1632
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1632
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1632
-    target 19
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1632
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1632
-    target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1632
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1632
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1632
+    source 1639
     target 12
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1633
-    target 963
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1633
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1633
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1634
-    target 1635
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1634
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1634
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1634
-    target 19
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1634
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1634
-    target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1634
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1634
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1634
-    target 12
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1636
-    target 1635
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1636
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1636
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1637
-    target 414
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1637
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1637
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1637
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1637
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1637
-    target 15
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1638
-    target 414
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1638
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1638
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1639
-    target 414
-    key 0
-    relation "BELONGS_TO"
-  ]
-  edge [
-    source 1639
-    target 2
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1639
-    target 6
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1639
-    target 7
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1639
-    target 3
-    key 0
-    relation "USED_IN"
-  ]
-  edge [
-    source 1639
-    target 15
-    key 0
-    relation "USED_IN"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c715fbe175e442207383661c97fc3b4820da01221f3625728e66b67624f78c5a"
+    source_drug "Nirgundi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1639
     target 21
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1639
-    target 33
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1639
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1639
-    target 12
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1639
-    target 20
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c715fbe175e442207383661c97fc3b4820da01221f3625728e66b67624f78c5a"
+    source_drug "Nirgundi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1640
@@ -109657,21 +124049,69 @@ graph [
   ]
   edge [
     source 1640
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "979acabc4f63b449efbe08e25bff1c00be9c88f56c20b0ab950240ab60b4f8b6"
+    source_drug "Draksa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1640
-    target 13
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "979acabc4f63b449efbe08e25bff1c00be9c88f56c20b0ab950240ab60b4f8b6"
+    source_drug "Draksa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1640
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "979acabc4f63b449efbe08e25bff1c00be9c88f56c20b0ab950240ab60b4f8b6"
+    source_drug "Draksa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1640
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "979acabc4f63b449efbe08e25bff1c00be9c88f56c20b0ab950240ab60b4f8b6"
+    source_drug "Draksa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1640
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "979acabc4f63b449efbe08e25bff1c00be9c88f56c20b0ab950240ab60b4f8b6"
+    source_drug "Draksa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1640
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "979acabc4f63b449efbe08e25bff1c00be9c88f56c20b0ab950240ab60b4f8b6"
+    source_drug "Draksa"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1641
@@ -109771,15 +124211,47 @@ graph [
   ]
   edge [
     source 1645
-    target 20
+    target 4
     key 0
     relation "TREATS"
+    evidence_hash "a9afbd35818caf3a8d1474ed667768980413f5cf939ac5211f1f27f8a4f6d4a8"
+    source_drug "Dhataki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1645
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a9afbd35818caf3a8d1474ed667768980413f5cf939ac5211f1f27f8a4f6d4a8"
+    source_drug "Dhataki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1645
+    target 20
     key 0
     relation "TREATS"
+    evidence_hash "a9afbd35818caf3a8d1474ed667768980413f5cf939ac5211f1f27f8a4f6d4a8"
+    source_drug "Dhataki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1645
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a9afbd35818caf3a8d1474ed667768980413f5cf939ac5211f1f27f8a4f6d4a8"
+    source_drug "Dhataki"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1646
@@ -109807,27 +124279,179 @@ graph [
   ]
   edge [
     source 1646
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1646
-    target 20
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1646
-    target 29
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 28
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 28
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1646
     target 21
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 20
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1646
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1647
@@ -109879,27 +124503,355 @@ graph [
   ]
   edge [
     source 1648
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1648
-    target 20
-    key 0
+    target 33
+    key 1
     relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1648
-    target 29
+    target 33
+    key 2
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 33
+    key 3
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 33
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 33
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 33
+    key 6
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 33
+    key 7
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 28
+    key 1
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 28
+    key 2
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 28
+    key 3
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 28
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 28
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 28
+    key 6
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 28
+    key 7
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1648
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 21
+    key 2
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 21
+    key 3
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 21
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 21
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 21
+    key 6
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 21
+    key 7
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 20
+    key 0
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 20
+    key 2
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 20
+    key 3
+    relation "TREATS"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1648
+    target 20
+    key 4
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 20
+    key 5
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - jati"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 20
+    key 6
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - punkutaja"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1648
+    target 20
+    key 7
+    relation "MENTIONS_DISEASE"
+    evidence_hash "27f28e04d50ce3dddb08954ce7153aa8b57947e08b8a495b190e2615e137a84a"
+    source_drug "Kutaja - stri"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1649
@@ -110224,12 +125176,44 @@ graph [
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "b255738a9155f0e12c6863a5742635e49e22c4a9997bc4a13ed4219bf14a2de6"
+    source_drug "Badara"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1662
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b255738a9155f0e12c6863a5742635e49e22c4a9997bc4a13ed4219bf14a2de6"
+    source_drug "Badara"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1662
     target 13
     key 0
     relation "TREATS"
+    evidence_hash "b255738a9155f0e12c6863a5742635e49e22c4a9997bc4a13ed4219bf14a2de6"
+    source_drug "Badara"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1662
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b255738a9155f0e12c6863a5742635e49e22c4a9997bc4a13ed4219bf14a2de6"
+    source_drug "Badara"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1663
@@ -110359,21 +125343,69 @@ graph [
   ]
   edge [
     source 1668
-    target 13
+    target 4
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 1668
-    target 28
-    key 0
-    relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1668
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1668
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1668
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1668
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1668
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1669
@@ -110629,9 +125661,25 @@ graph [
   ]
   edge [
     source 1680
-    target 28
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "d59f5b030d410f1d4716c254fc75d25f038d3197edd3c975e6125105664060b2"
+    source_drug "Todari"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1680
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d59f5b030d410f1d4716c254fc75d25f038d3197edd3c975e6125105664060b2"
+    source_drug "Todari"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1681
@@ -110863,39 +125911,135 @@ graph [
   ]
   edge [
     source 1692
-    target 80
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1692
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1692
-    target 4
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1692
-    target 28
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1692
-    target 34
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1692
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1692
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1692
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1692
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1692
+    target 80
+    key 0
+    relation "TREATS"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1692
+    target 80
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1692
+    target 4
+    key 0
+    relation "TREATS"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1692
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1692
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1692
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ec7c1a03405b3116bd84871957e3d5d541d8eac64ad3f106b126daab20911daf"
+    source_drug "Indravaruni"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1693
@@ -111169,33 +126313,113 @@ graph [
   ]
   edge [
     source 1703
-    target 29
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "b6f102e37060854efdddc9db84bc0486c68b842c3716287a36534c94c98ba75a"
+    source_drug "Kebuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1703
-    target 21
-    key 0
-    relation "TREATS"
+    target 33
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b6f102e37060854efdddc9db84bc0486c68b842c3716287a36534c94c98ba75a"
+    source_drug "Kebuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1703
     target 28
     key 0
     relation "TREATS"
+    evidence_hash "b6f102e37060854efdddc9db84bc0486c68b842c3716287a36534c94c98ba75a"
+    source_drug "Kebuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1703
-    target 34
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b6f102e37060854efdddc9db84bc0486c68b842c3716287a36534c94c98ba75a"
+    source_drug "Kebuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1703
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "b6f102e37060854efdddc9db84bc0486c68b842c3716287a36534c94c98ba75a"
+    source_drug "Kebuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1703
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b6f102e37060854efdddc9db84bc0486c68b842c3716287a36534c94c98ba75a"
+    source_drug "Kebuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1703
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "b6f102e37060854efdddc9db84bc0486c68b842c3716287a36534c94c98ba75a"
+    source_drug "Kebuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1703
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b6f102e37060854efdddc9db84bc0486c68b842c3716287a36534c94c98ba75a"
+    source_drug "Kebuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1703
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "b6f102e37060854efdddc9db84bc0486c68b842c3716287a36534c94c98ba75a"
+    source_drug "Kebuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1703
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b6f102e37060854efdddc9db84bc0486c68b842c3716287a36534c94c98ba75a"
+    source_drug "Kebuka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1705
@@ -111295,27 +126519,179 @@ graph [
   ]
   edge [
     source 1707
-    target 34
+    target 33
     key 0
     relation "TREATS"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1707
-    target 89
-    key 0
+    target 33
+    key 1
     relation "TREATS"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1707
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1707
+    target 33
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1707
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1707
+    target 20
+    key 1
+    relation "TREATS"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1707
+    target 20
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1707
+    target 20
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1707
     target 21
     key 0
     relation "TREATS"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1707
+    target 21
+    key 1
+    relation "TREATS"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1707
+    target 21
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1707
+    target 21
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1707
+    target 89
+    key 0
+    relation "TREATS"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1707
+    target 89
+    key 1
+    relation "TREATS"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1707
+    target 89
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1707
+    target 89
+    key 3
+    relation "MENTIONS_DISEASE"
+    evidence_hash "28c20be523f3c274acc8fb327d5bea267be2ee1b2cbe2420eb5b23f1dd5c5b6f"
+    source_drug "Jiraka - sveta"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1708
@@ -111469,9 +126845,25 @@ graph [
   ]
   edge [
     source 1715
-    target 28
+    target 29
     key 0
     relation "TREATS"
+    evidence_hash "838138c4a6786d92898fa9c0f6428c4d6dfd269b7f5b10c4e0ab6f59ade2c768"
+    source_drug "Asmantaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1715
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "838138c4a6786d92898fa9c0f6428c4d6dfd269b7f5b10c4e0ab6f59ade2c768"
+    source_drug "Asmantaka"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1716
@@ -111559,15 +126951,25 @@ graph [
   ]
   edge [
     source 1719
-    target 89
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b41daf2ee0c0fa2cfe66096bc7bfe7a827097bc4a8b5a6c718542b0d4b92f939"
+    source_drug "Hapusa"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1719
-    target 29
+    target 89
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "b41daf2ee0c0fa2cfe66096bc7bfe7a827097bc4a8b5a6c718542b0d4b92f939"
+    source_drug "Hapusa"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1721
@@ -111769,57 +127171,179 @@ graph [
   ]
   edge [
     source 1728
-    target 29
+    target 33
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 1728
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1728
-    target 13
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1728
-    target 4
-    key 0
-    relation "TREATS"
+    evidence_hash "02b9cb09f201ba4294d70a8780bb5c3555136d86a2e4481d29b035dc9bf0b844"
+    source_drug "Eranda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 1728
     target 33
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1728
+    target 33
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "02b9cb09f201ba4294d70a8780bb5c3555136d86a2e4481d29b035dc9bf0b844"
+    source_drug "Eranda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1728
     target 34
     key 0
     relation "TREATS"
+    evidence_hash "02b9cb09f201ba4294d70a8780bb5c3555136d86a2e4481d29b035dc9bf0b844"
+    source_drug "Eranda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1728
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "02b9cb09f201ba4294d70a8780bb5c3555136d86a2e4481d29b035dc9bf0b844"
+    source_drug "Eranda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1728
     target 35
     key 0
     relation "TREATS"
+    evidence_hash "02b9cb09f201ba4294d70a8780bb5c3555136d86a2e4481d29b035dc9bf0b844"
+    source_drug "Eranda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1728
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "02b9cb09f201ba4294d70a8780bb5c3555136d86a2e4481d29b035dc9bf0b844"
+    source_drug "Eranda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1728
     target 12
     key 0
     relation "TREATS"
+    evidence_hash "02b9cb09f201ba4294d70a8780bb5c3555136d86a2e4481d29b035dc9bf0b844"
+    source_drug "Eranda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1728
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1728
+    target 12
+    key 2
+    relation "MENTIONS_DISEASE"
+    evidence_hash "02b9cb09f201ba4294d70a8780bb5c3555136d86a2e4481d29b035dc9bf0b844"
+    source_drug "Eranda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1728
+    target 13
+    key 0
+    relation "TREATS"
+    evidence_hash "02b9cb09f201ba4294d70a8780bb5c3555136d86a2e4481d29b035dc9bf0b844"
+    source_drug "Eranda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1728
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "02b9cb09f201ba4294d70a8780bb5c3555136d86a2e4481d29b035dc9bf0b844"
+    source_drug "Eranda"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1728
+    target 28
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1728
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1728
+    target 4
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1728
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "e33b2a69b5a187cc3e0c2964734a8b3548eb4456ba47c2f8aa94546e40a800ed"
+    source_drug "Danti"
+    identity_status "Adulterated source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1729
@@ -112033,33 +127557,58 @@ graph [
   ]
   edge [
     source 1739
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1739
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1739
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 1739
-    target 12
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c715fbe175e442207383661c97fc3b4820da01221f3625728e66b67624f78c5a"
+    source_drug "Nirgundi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1739
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c715fbe175e442207383661c97fc3b4820da01221f3625728e66b67624f78c5a"
+    source_drug "Nirgundi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1739
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c715fbe175e442207383661c97fc3b4820da01221f3625728e66b67624f78c5a"
+    source_drug "Nirgundi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1739
+    target 12
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c715fbe175e442207383661c97fc3b4820da01221f3625728e66b67624f78c5a"
+    source_drug "Nirgundi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 1739
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c715fbe175e442207383661c97fc3b4820da01221f3625728e66b67624f78c5a"
+    source_drug "Nirgundi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1740
@@ -112114,6 +127663,22 @@ graph [
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "cc35bb5834f687803d4699dd207268f74bc2555e8c981b52c3adf1160dc69477"
+    source_drug "Bakula"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 1741
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "cc35bb5834f687803d4699dd207268f74bc2555e8c981b52c3adf1160dc69477"
+    source_drug "Bakula"
+    identity_status "Accepted source"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1742
@@ -114693,7 +130258,12 @@ graph [
     source 1908
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "769bd29f3eabe431e2880a2160c620873fb54666d4137b39b2a1d499685bc979"
+    source_drug "Paribhadra"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1909
@@ -116053,15 +131623,25 @@ graph [
   ]
   edge [
     source 1995
-    target 28
+    target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d2e9cddee87f56569ca47afc9a906a59c3ce5ff743438cfe461e1c294f550c86"
+    source_drug "Dhava"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1995
-    target 35
+    target 29
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d2e9cddee87f56569ca47afc9a906a59c3ce5ff743438cfe461e1c294f550c86"
+    source_drug "Dhava"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 1996
@@ -117487,21 +133067,36 @@ graph [
   ]
   edge [
     source 2083
-    target 33
+    target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 2083
-    target 29
+    target 28
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 2083
     target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "f94b19410f23c7f50a03262626ad828a63bfd427bd09bbf94b80a75526e186ea"
+    source_drug "Agnimantha"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 2084
@@ -119611,21 +135206,69 @@ graph [
   ]
   edge [
     source 2218
-    target 13
+    target 4
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 2218
-    target 28
-    key 0
-    relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 2218
     target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 2218
+    target 13
     key 0
     relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 2218
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 2218
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 2218
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "5be0b05bbf4d0b2ba17bbc573b0aace9a1c00a033da82fd179275f6fab0ccb0c"
+    source_drug "Daruharidra"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 2219
@@ -119793,7 +135436,12 @@ graph [
     source 2228
     target 20
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c2a1fedf3d23d3afa66a293288b5c9042a3ff7d26f44b5a31bf2d7dad8b903c0"
+    source_drug "Vidanga"
+    identity_status "Market source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 2229
@@ -122149,15 +137797,47 @@ graph [
   ]
   edge [
     source 2386
-    target 20
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "d05c2e1689eafd5fa26f680f373cfcddf8c0d2a702e84d4c92c293a9f351fe60"
+    source_drug "Apamarga"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 2386
-    target 29
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d05c2e1689eafd5fa26f680f373cfcddf8c0d2a702e84d4c92c293a9f351fe60"
+    source_drug "Apamarga"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 2386
+    target 20
     key 0
     relation "TREATS"
+    evidence_hash "d05c2e1689eafd5fa26f680f373cfcddf8c0d2a702e84d4c92c293a9f351fe60"
+    source_drug "Apamarga"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 2386
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "d05c2e1689eafd5fa26f680f373cfcddf8c0d2a702e84d4c92c293a9f351fe60"
+    source_drug "Apamarga"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 2387
@@ -128479,33 +144159,113 @@ graph [
   ]
   edge [
     source 2937
-    target 29
+    target 28
     key 0
     relation "TREATS"
-  ]
-  edge [
-    source 2937
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 2937
-    target 89
-    key 0
-    relation "TREATS"
+    evidence_hash "ce988950942fd5e3d80bd8fc496e00bd65a0c772f9b42d54d6efa21ab4a9541f"
+    source_drug "Palasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
   ]
   edge [
     source 2937
     target 28
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ce988950942fd5e3d80bd8fc496e00bd65a0c772f9b42d54d6efa21ab4a9541f"
+    source_drug "Palasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 2937
     target 20
     key 0
     relation "TREATS"
+    evidence_hash "ce988950942fd5e3d80bd8fc496e00bd65a0c772f9b42d54d6efa21ab4a9541f"
+    source_drug "Palasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 2937
+    target 20
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ce988950942fd5e3d80bd8fc496e00bd65a0c772f9b42d54d6efa21ab4a9541f"
+    source_drug "Palasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 2937
+    target 29
+    key 0
+    relation "TREATS"
+    evidence_hash "ce988950942fd5e3d80bd8fc496e00bd65a0c772f9b42d54d6efa21ab4a9541f"
+    source_drug "Palasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 2937
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ce988950942fd5e3d80bd8fc496e00bd65a0c772f9b42d54d6efa21ab4a9541f"
+    source_drug "Palasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 2937
+    target 21
+    key 0
+    relation "TREATS"
+    evidence_hash "ce988950942fd5e3d80bd8fc496e00bd65a0c772f9b42d54d6efa21ab4a9541f"
+    source_drug "Palasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 2937
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ce988950942fd5e3d80bd8fc496e00bd65a0c772f9b42d54d6efa21ab4a9541f"
+    source_drug "Palasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 2937
+    target 89
+    key 0
+    relation "TREATS"
+    evidence_hash "ce988950942fd5e3d80bd8fc496e00bd65a0c772f9b42d54d6efa21ab4a9541f"
+    source_drug "Palasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 2937
+    target 89
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "ce988950942fd5e3d80bd8fc496e00bd65a0c772f9b42d54d6efa21ab4a9541f"
+    source_drug "Palasa"
+    identity_status "Unknown"
+    shared_evidence 0
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 2938
@@ -133219,21 +148979,36 @@ graph [
   ]
   edge [
     source 3351
-    target 34
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 3351
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 3351
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 3351
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "81c8195c6db1d3ecbaafdd9af6c8958443afb0286d8b138c63507b71a37d9794"
+    source_drug "Rohisa"
+    identity_status "Substituted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 3352
@@ -134823,25 +150598,45 @@ graph [
     source 3492
     target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 3492
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 3492
-    target 13
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 3492
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 3492
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 3492
+    target 35
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "eaa9526b1923d7edf8d0f259383e0fe792f6ca88240dcce9ea3d03ecfd606514"
+    source_drug "Rasna"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 3493
@@ -135673,21 +151468,69 @@ graph [
   ]
   edge [
     source 3561
+    target 28
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 3561
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela - suksma"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 3561
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 3561
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela - suksma"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 3561
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 3561
-    target 29
-    key 0
-    relation "TREATS"
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "7247fbc16120cd3dad103f434eb7c0a1201dc00de849a0635e388c66987ed8c1"
+    source_drug "Ela - suksma"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 3562
@@ -137785,15 +153628,25 @@ graph [
   ]
   edge [
     source 3741
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "262299e7b8a2cb0b55dba3daaca4f773e0ead19ded85c17928a0718f25c4369c"
+    source_drug "Satapuspa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 3741
     target 4
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "262299e7b8a2cb0b55dba3daaca4f773e0ead19ded85c17928a0718f25c4369c"
+    source_drug "Satapuspa"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 3742
@@ -139921,9 +155774,14 @@ graph [
   ]
   edge [
     source 3922
-    target 34
+    target 33
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "699b3cc73906ce1372a912a433c4ec2a67c41aa397736c4a26081ac76f852603"
+    source_drug "Parpata"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 3923
@@ -141169,45 +157027,157 @@ graph [
   ]
   edge [
     source 4032
-    target 13
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 4032
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 4032
-    target 28
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 4032
     target 33
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 4032
     target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4032
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 4032
     target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4032
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4032
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4032
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 4032
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4032
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4032
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4032
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4032
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4032
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 4033
@@ -141223,45 +157193,157 @@ graph [
   ]
   edge [
     source 4033
-    target 13
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 4033
-    target 21
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 4033
-    target 28
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 4033
     target 33
-    key 0
-    relation "TREATS"
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 4033
     target 34
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4033
+    target 34
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 4033
     target 35
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4033
+    target 35
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4033
+    target 29
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4033
+    target 29
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 4033
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4033
+    target 12
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4033
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4033
+    target 13
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4033
+    target 21
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Brahmi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 4033
+    target 21
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "a65d704ea32c9a5eea49823433b4a98d6ff4f37ebef1c24cd87eaee3903c2153"
+    source_drug "Matsyaksi"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 4034
@@ -154149,13 +170231,23 @@ graph [
     source 5156
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 5156
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 5157
@@ -158845,15 +174937,47 @@ graph [
   ]
   edge [
     source 5564
-    target 29
+    target 28
     key 0
     relation "TREATS"
+    evidence_hash "16b1aa61dcca408c4d754dc55473107f374de07cb46bf090d2b646402ab42bfb"
+    source_drug "Haritaki"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 5564
+    target 28
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "16b1aa61dcca408c4d754dc55473107f374de07cb46bf090d2b646402ab42bfb"
+    source_drug "Haritaki"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 5564
     target 4
     key 0
     relation "TREATS"
+    evidence_hash "16b1aa61dcca408c4d754dc55473107f374de07cb46bf090d2b646402ab42bfb"
+    source_drug "Haritaki"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "keyword_candidate"
+  ]
+  edge [
+    source 5564
+    target 4
+    key 1
+    relation "MENTIONS_DISEASE"
+    evidence_hash "16b1aa61dcca408c4d754dc55473107f374de07cb46bf090d2b646402ab42bfb"
+    source_drug "Haritaki"
+    identity_status "Accepted source"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 5565
@@ -163999,27 +180123,47 @@ graph [
   ]
   edge [
     source 6015
-    target 13
+    target 33
     key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 6015
-    target 34
-    key 0
-    relation "TREATS"
-  ]
-  edge [
-    source 6015
-    target 20
-    key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 6015
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 6015
+    target 13
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
+  ]
+  edge [
+    source 6015
+    target 20
+    key 0
+    relation "MENTIONS_DISEASE"
+    evidence_hash "c69442828fc62aea0cae2b582dd927294c3197728b8e5d7af8cd8ba7bd51fb4a"
+    source_drug "Pippali"
+    identity_status "Unknown"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 6016
@@ -164091,13 +180235,23 @@ graph [
     source 6022
     target 12
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 6022
     target 13
     key 0
-    relation "TREATS"
+    relation "MENTIONS_DISEASE"
+    evidence_hash "98d322b169e67ff644a6e768ada93bd055fc26870cacdbdffebe49aa01e8eccc"
+    source_drug "Talisapatra"
+    identity_status "Most probable"
+    shared_evidence 1
+    evidence_type "ocr_source_mention_only"
   ]
   edge [
     source 6023

@@ -277,7 +277,30 @@ def detect_language(query: str) -> str:
     if len(words.intersection(hindi_tokens)) >= 2:
         return "Hindi+English"
 
+    # Explicit language requests take priority over the language of the query itself.
+    if re.search(r"\b(?:in|answer in|respond in)\s+hindi\b|\bhindi mein\b", q_lower):
+        return "Hindi"
+    if re.search(r"\b(?:in|answer in|respond in)\s+kannada\b|\bkannadadalli\b", q_lower):
+        return "Kannada"
+
     return "English"
+
+
+def is_general_ayurveda_question(query: str) -> bool:
+    """Identify broad questions about Ayurveda before attempting plant resolution."""
+    q = normalize(query).lower().strip()
+    return bool(re.search(
+        r"\b(?:what is|what's|define|explain|describe|tell me about)\s+ayurveda\b|\bayurveda\s+(?:meaning|definition|overview)\b",
+        q,
+    ))
+
+
+def format_general_ayurveda_answer(lang: str) -> str:
+    if lang == "Hindi":
+        return "आयुर्वेद भारत की एक पारंपरिक स्वास्थ्य पद्धति है, जो शरीर और मन के संतुलन तथा जीवनशैली पर ध्यान देती है। यह प्रणाली औषधीय पौधों और स्वास्थ्य से जुड़े पारंपरिक ज्ञान का भी अध्ययन करती है।"
+    if lang == "Kannada":
+        return "ಆಯುರ್ವೇದವು ಭಾರತದ ಸಾಂಪ್ರದಾಯಿಕ ಆರೋಗ್ಯ ಪದ್ಧತಿಯಾಗಿದ್ದು, ದೇಹ ಮತ್ತು ಮನಸ್ಸಿನ ಸಮತೋಲನ ಹಾಗೂ ಜೀವನಶೈಲಿಗೆ ಮಹತ್ವ ನೀಡುತ್ತದೆ. ಇದು ಔಷಧೀಯ ಸಸ್ಯಗಳು ಮತ್ತು ಆರೋಗ್ಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಸಾಂಪ್ರದಾಯಿಕ ಜ್ಞಾನವನ್ನೂ ಒಳಗೊಂಡಿದೆ."
+    return "Ayurveda is a traditional Indian system of health that emphasizes balance, daily habits, and wellbeing. It also includes traditional knowledge about medicinal plants and their properties."
 
 
 # ============================================================
@@ -981,17 +1004,21 @@ def format_disease_to_plants_answer(disease_name: str, plants_list: list, lang: 
     for p in plants_list[:5]:
         b = p.get("botanical_name", "")
         s = p.get("sanskrit_name", "")
-        p_names.append(f"{s} ({b})" if s else b)
-    p_str = ", ".join(p_names)
+        label = f"{s} ({b})" if s else b
+        rels = p.get("relationship_types", [])
+        if rels and "TREATS" not in rels and "MENTIONS_DISEASE" in rels:
+            label += " [shared-source mention only]"
+        p_names.append(label)
+    p_str = ", ".join(p_names) if p_names else "none documented"
 
     if lang == "Hindi":
-        return f"{disease_name} से संबंधित मुख्य औषधीय पौधे {p_str} हैं।"
+        return f"{disease_name} के स्रोत-साक्ष्य में ये पौधे दर्ज हैं: {p_str}। साझा OCR में केवल उल्लेख होना उपचार का प्रमाण नहीं है।"
     elif lang == "Kannada":
-        return f"{disease_name}ಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಮುಖ್ಯ ಔಷಧೀಯ ಸಸ್ಯಗಳು: {p_str}."
+        return f"{disease_name}ಗೆ ಸಂಬಂಧಿಸಿದ ಮೂಲ-ಸಾಕ್ಷ್ಯದಲ್ಲಿ ಈ ಸಸ್ಯಗಳು ದಾಖಲಾಗಿವೆ: {p_str}. ಹಂಚಿದ OCR ಉಲ್ಲೇಖ ಮಾತ್ರ ಚಿಕಿತ್ಸೆಗಾಗಿ ಸಾಕ್ಷಿಯಲ್ಲ."
     elif "Kannada" in lang:
-        return f"{disease_name} ge sambandhisida plants: {p_str}."
+        return f"{disease_name} ge sambandhisida source evidence nalli ee plants dakhalaagive: {p_str}. Shared OCR mention alone is not proof of treatment."
     else:
-        return f"Medicinal plants associated with {dis_disp} include {p_str}."
+        return f"Plants documented in source evidence for {dis_disp} include {p_str}. A shared-OCR mention alone is not evidence that a plant treats the condition."
 
 
 def format_plant_to_diseases_answer(common_name: str, botanical_name: str, diseases_list: list, in_graph: bool, lang: str) -> str:
@@ -1004,18 +1031,22 @@ def format_plant_to_diseases_answer(common_name: str, botanical_name: str, disea
 
 def format_disease_intersection_answer(d1: str, d2: str, common_plants: list, lang: str) -> str:
     p_names = []
-    for p in common_plants[:4]:
+    for p in common_plants[:10]:
         b = p.get("botanical_name", "")
         s = p.get("sanskrit_name", "")
-        p_names.append(f"{s} ({b})" if s else b)
+        label = f"{s} ({b})" if s else b
+        rels = p.get("relationship_types", [])
+        if rels and "TREATS" not in rels and "MENTIONS_DISEASE" in rels:
+            label += " [shared-source mention only]"
+        p_names.append(label)
     p_str = ", ".join(p_names) if p_names else "none documented"
 
     if lang == "Hindi":
-        return f"{d1} और {d2} दोनों के लिए सामान्य औषधीय पौधे {p_str} हैं।"
+        return f"{d1} और {d2} के स्रोत-साक्ष्य में समान रूप से दर्ज पौधे: {p_str}। साझा OCR में उल्लेख उपचार का प्रमाण नहीं है।"
     elif lang == "Kannada":
-        return f"{d1} ಮತ್ತು {d2} ಎರಡಕ್ಕೂ ಸಾಮಾನ್ಯವಾದ ಔಷಧೀಯ ಸಸ್ಯಗಳು: {p_str}."
+        return f"{d1} ಮತ್ತು {d2} ಮೂಲ-ಸಾಕ್ಷ್ಯಗಳಲ್ಲಿ ಸಾಮಾನ್ಯವಾಗಿ ದಾಖಲಾಗಿರುವ ಸಸ್ಯಗಳು: {p_str}. ಹಂಚಿದ OCR ಉಲ್ಲೇಖ ಮಾತ್ರ ಚಿಕಿತ್ಸೆಗಾಗಿ ಸಾಕ್ಷಿಯಲ್ಲ."
     else:
-        return f"Medicinal plants common to both {d1} and {d2} include {p_str}."
+        return f"Plants appearing in source evidence for both {d1} and {d2} include {p_str}. Shared-source mentions alone do not establish treatment."
 
 
 def format_property_reverse_lookup_answer(target_plant_name: str, prop_name: str, prop_val: str, matched_plants: list, lang: str) -> str:
@@ -1107,10 +1138,13 @@ STRICT INSTRUCTIONS:
    - Plant property comparisons: Provide a concise comparison directly contrasting their key Virya and Rasa properties (e.g. 'Property comparison: Plant A has Usna Virya (hot potency), whereas Plant B has Sita Virya (cool potency).'). Avoid verbose or unrelated background details.
 3. Language & Style Consistency:
    - English query: Answer concisely and naturally in English.
-   - Hindi query (Devanagari): Answer in natural Hindi using Devanagari script.
-   - Kannada query (Kannada script): Answer in natural Kannada using Kannada script.
-   - Hindi-English code-mixed query: Preserve natural code-mixed phrasing (e.g. "Tulsi (Ocimum tenuiflorum) Lamiaceae family ko belong karti hai.").
-   - Kannada-English code-mixed query: Preserve natural code-mixed phrasing (e.g. "Bilvada (Aegle marmelos) Virya Usna (hot potency) aagide.").
+   - If the user explicitly requests a language, answer in that language regardless of the language used in the question.
+   - Hindi response: Use natural Hindi in Devanagari script.
+   - Kannada response: Use natural Kannada in Kannada script.
+   - Hindi-English code-mixed query without an explicit language request: Preserve natural code-mixed phrasing.
+   - Kannada-English code-mixed query without an explicit language request: Preserve natural code-mixed phrasing.
+   - For requests such as "Tell me about Guduchi in Hindi", provide the answer in Hindi using Devanagari script.
+   - Preserve botanical Latin names in their original Latin script in every language.
 4. Botanical & Taxonomic Names:
    - Keep botanical Latin names in EXACT Latin script (e.g., 'Azadirachta indica A. JUSS.', 'Aegle marmelos'). Never translate or transliterate botanical names.
 5. Botanical & Family Completeness:
@@ -1221,8 +1255,8 @@ def extract_full_evidence_context(service, resolved: dict, query_text: str = "")
     elif res_type == "disease_intersection" and isinstance(r_data, list):
         if len(r_data) >= 2:
             d1, d2 = r_data[0], r_data[1]
-            p1 = service.get_plants_for_disease(d1)
-            p2 = service.get_plants_for_disease(d2)
+            p1 = service.get_plants_with_disease_mentions(d1)
+            p2 = service.get_plants_with_disease_mentions(d2)
             p2_ids = {p["plant_id"] for p in p2}
             common_plants = [p for p in p1 if p["plant_id"] in p2_ids]
             facts_parts.extend([d1, d2])
@@ -1407,26 +1441,61 @@ class GraphRAGService:
         return details
 
     def get_plants_for_disease(self, disease_name: str) -> list:
+        """Return only plants with candidate TREATS edges.
+
+        A keyword-derived TREATS edge is still a database candidate, not clinical
+        validation. Shared OCR that is not accepted for a plant identity is
+        deliberately excluded here.
+        """
+        return self._get_disease_linked_plants(disease_name, include_mentions=False)
+
+    def get_plants_with_disease_mentions(self, disease_name: str) -> list:
+        """Return candidate TREATS links plus explicitly labelled shared-OCR mentions."""
+        return self._get_disease_linked_plants(disease_name, include_mentions=True)
+
+    def _get_disease_linked_plants(self, disease_name: str, include_mentions: bool) -> list:
         dis_node_id = f"Disease_{disease_name.lower()}"
         if not self.G.has_node(dis_node_id):
             return []
 
-        matched_plants = []
+        by_plant = {}
+        allowed_relations = {"TREATS", "MENTIONS_DISEASE"} if include_mentions else {"TREATS"}
         for plant_node, _, edge_data in self.G.in_edges(dis_node_id, data=True):
-            if edge_data.get("relation") == "TREATS":
-                p_attr = self.G.nodes[plant_node]
-                matched_plants.append({
-                    "plant_id": p_attr.get("plant_id"),
-                    "botanical_name": p_attr.get("botanical_name"),
-                    "sanskrit_name": p_attr.get("sanskrit_name"),
-                    "family": p_attr.get("family"),
-                    "rasa": p_attr.get("rasa", "Not specified"),
-                    "virya": p_attr.get("virya", "Not specified"),
-                })
+            relation = edge_data.get("relation")
+            if relation not in allowed_relations:
+                continue
 
-        # Prominent classical plants sorted first
+            p_attr = self.G.nodes[plant_node]
+            plant_id = str(p_attr.get("plant_id", "")).strip() or plant_node
+            item = by_plant.setdefault(plant_id, {
+                "plant_id": p_attr.get("plant_id"),
+                "botanical_name": p_attr.get("botanical_name"),
+                "sanskrit_name": p_attr.get("sanskrit_name"),
+                "family": p_attr.get("family"),
+                "rasa": p_attr.get("rasa", "Not specified"),
+                "virya": p_attr.get("virya", "Not specified"),
+                "relationship_types": [],
+                "evidence_sources": [],
+            })
+            if relation not in item["relationship_types"]:
+                item["relationship_types"].append(relation)
+            source = {
+                "source_drug": edge_data.get("source_drug", "Unknown"),
+                "identity_status": edge_data.get("identity_status", "Unknown"),
+                "shared_evidence": str(edge_data.get("shared_evidence", "False")).lower() == "true",
+                "evidence_type": edge_data.get("evidence_type", "Unknown"),
+            }
+            if source not in item["evidence_sources"]:
+                item["evidence_sources"].append(source)
+
+        matched_plants = list(by_plant.values())
+        # Prefer direct candidate treatment links, then prominent classical plants.
         prominent_stems = ["tinospora", "saraca", "acacia", "aerva", "justicia", "azadirachta", "aegle", "plumbago"]
-        matched_plants.sort(key=lambda p: 0 if any(s in (p.get("botanical_name") or "").lower() for s in prominent_stems) else 1)
+        matched_plants.sort(key=lambda p: (
+            0 if "TREATS" in p["relationship_types"] else 1,
+            0 if any(s in (p.get("botanical_name") or "").lower() for s in prominent_stems) else 1,
+            (p.get("botanical_name") or "").lower(),
+        ))
         return matched_plants
 
     def get_plants_by_property(self, prop_name: str, prop_val: str) -> list:
@@ -1572,24 +1641,49 @@ class GraphRAGService:
             "options": {
                 "temperature": 0.1,
                 "top_p": 0.9,
-                "num_predict": num_predict,
+                "num_predict": max(1, min(int(num_predict), 200)),
             },
             "keep_alive": "30m"
         }
 
         candidate = None
         try:
-            resp = requests.post(OLLAMA_URL, json=payload, timeout=OLLAMA_TIMEOUT)
+            print(f"[Gemma Debug] Model: {OLLAMA_MODEL}")
+            print(f"[Gemma Debug] URL: {OLLAMA_URL}")
+
+            resp = requests.post(
+                OLLAMA_URL,
+                json=payload,
+                timeout=OLLAMA_TIMEOUT
+            )
+
+            print(f"[Gemma Debug] HTTP status: {resp.status_code}")
+
             if resp.status_code == 200:
                 candidate = resp.json().get("response", "").strip()
-        except Exception:
+                print(f"[Gemma Debug] Response received: {bool(candidate)}")
+                if not candidate:
+                    print("[Gemma Debug] Ollama returned an empty response.")
+            else:
+                print(f"[Gemma Debug] Error body: {resp.text[:500]}")
+
+        except Exception as e:
+            print(f"[Gemma Debug] Request failed: {type(e).__name__}: {e}")
             candidate = None
 
         latency = time.time() - t0
         self.telemetry["total_latency_seconds"] += latency
 
         if candidate:
-            is_grounded, reason = validate_groundedness(candidate, evidence, deterministic_answer)
+            # Reject an answer in the wrong script when Hindi/Kannada was requested.
+            language_ok = not (
+                (lang == "Hindi" and not re.search(r"[\u0900-\u097F]", candidate)) or
+                (lang == "Kannada" and not re.search(r"[\u0C80-\u0CFF]", candidate))
+            )
+            if not language_ok:
+                is_grounded, reason = False, f"Response did not use the requested {lang} script."
+            else:
+                is_grounded, reason = validate_groundedness(candidate, evidence, deterministic_answer)
             if is_grounded:
                 self.telemetry["gemma_successes"] += 1
                 return candidate
@@ -1605,13 +1699,17 @@ class GraphRAGService:
                 f"Answer:"
             )
             payload["prompt"] = retry_prompt
-            payload["options"]["num_predict"] = min(num_predict, 70)
+            payload["options"]["num_predict"] = max(1, min(int(num_predict), 200))
             try:
                 r_resp = requests.post(OLLAMA_URL, json=payload, timeout=OLLAMA_TIMEOUT)
                 if r_resp.status_code == 200:
                     retry_cand = r_resp.json().get("response", "").strip()
+                    retry_language_ok = not (
+                        (lang == "Hindi" and not re.search(r"[\u0900-\u097F]", retry_cand)) or
+                        (lang == "Kannada" and not re.search(r"[\u0C80-\u0CFF]", retry_cand))
+                    )
                     r_grounded, _ = validate_groundedness(retry_cand, evidence, deterministic_answer)
-                    if r_grounded:
+                    if retry_language_ok and r_grounded:
                         self.telemetry["gemma_successes"] += 1
                         return retry_cand
             except Exception:
@@ -1630,7 +1728,12 @@ class GraphRAGService:
         lang = detect_language(user_query)
         query_lower = user_query.lower()
 
-        # Step 1: Resolve Entity & Classify Domain
+        # Step 1: Handle broad Ayurveda questions before medicinal-plant entity resolution.
+        # These questions are valid domain questions, but they do not name a plant entity.
+        if is_general_ayurveda_question(user_query):
+            return format_general_ayurveda_answer(lang)
+
+        # Step 2: Resolve Entity & Classify Domain
         resolved = self.resolver.resolve_query(user_query)
         res_type = resolved["type"]
 
@@ -1688,14 +1791,14 @@ class GraphRAGService:
                             d_found.append(d["name"])
             if len(d_found) >= 2:
                 d1, d2 = d_found[0], d_found[1]
-                p1 = self.get_plants_for_disease(d1)
-                p2 = self.get_plants_for_disease(d2)
+                p1 = self.get_plants_with_disease_mentions(d1)
+                p2 = self.get_plants_with_disease_mentions(d2)
                 p2_ids = {p["plant_id"] for p in p2}
                 common = [p for p in p1 if p["plant_id"] in p2_ids]
                 deterministic_answer = format_disease_intersection_answer(d1, d2, common, lang)
                 evidence = {
                     "diseases": [d1, d2],
-                    "matching_plants": common[:4],
+                    "matching_plants": common[:10],
                     "requested_fields": ["common_plants"],
                     "num_predict": 95
                 }
@@ -1810,7 +1913,7 @@ class GraphRAGService:
         elif res_type == "disease" or intent == "disease_to_plants":
             disease_data = resolved.get("data") or {}
             disease_name = disease_data.get("name") if isinstance(disease_data, dict) else str(resolved.get("matched_term", "Condition"))
-            matching_plants = self.get_plants_for_disease(disease_name)
+            matching_plants = self.get_plants_with_disease_mentions(disease_name)
             deterministic_answer = format_disease_to_plants_answer(disease_name, matching_plants, lang)
             
             alias_map_hi = {"kasa": "कास (Kasa / खांसी)", "prameha": "प्रमेह (Prameha / मधुमेह)", "jvara": "ज्वर (Jvara / बुखार)"}
@@ -2035,7 +2138,15 @@ if __name__ == "__main__":
             question = input("Ask a plant question (or 'exit'): ").strip()
             if not question or question.lower() == "exit":
                 break
-            print("\n" + service.query(question))
+            answer = service.query(question)
+            print("\n" + answer)
+
+            print("\n--- Runtime Diagnostics ---")
+            print("Gemma calls:", service.telemetry["gemma_calls"])
+            print("Gemma successes:", service.telemetry["gemma_successes"])
+            print("Regeneration attempts:", service.telemetry["regeneration_attempts"])
+            print("Deterministic fallbacks:", service.telemetry["deterministic_fallbacks"])
+
             print("\n" + "-" * 50 + "\n")
         except (KeyboardInterrupt, EOFError):
             print("\nExiting.")

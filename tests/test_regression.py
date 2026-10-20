@@ -83,13 +83,41 @@ def test_kannada_answer_remains_kannada():
     assert "Saraca asoca" in ans or "ಸಸ್ಯಶಾಸ್ತ್ರೀಯ" in ans
 
 
-def test_complete_disease_plant_enumeration_not_truncated():
+def test_disease_candidates_and_shared_source_mentions_are_separated():
     rag = get_service()
-    plants = rag.get_plants_for_disease("Prameha")
-    assert len(plants) > 8
-    assert len(plants) >= 100
-    b_names = [p.get("botanical_name", "").lower() for p in plants]
-    assert any("tinospora cordifolia" in b for b in b_names)
+
+    # TREATS remains the conservative set: shared OCR mentions for an
+    # unaccepted identity must not be promoted to plant-level treatment claims.
+    treatment_candidates = rag.get_plants_for_disease("Prameha")
+    assert len(treatment_candidates) > 8
+    assert all("TREATS" in p.get("relationship_types", []) for p in treatment_candidates)
+    assert any("tinospora cordifolia" in p.get("botanical_name", "").lower()
+               for p in treatment_candidates)
+
+    # Broader source lookup retains shared-OCR disease mentions separately.
+    source_candidates = rag.get_plants_with_disease_mentions("Prameha")
+    assert len(source_candidates) >= 100
+    assert len(source_candidates) >= len(treatment_candidates)
+    assert any(
+        "MENTIONS_DISEASE" in p.get("relationship_types", [])
+        for p in source_candidates
+    )
+
+
+def test_shared_ocr_mentions_are_not_worded_as_treatment_claims():
+    from src.graph_rag import format_disease_to_plants_answer
+
+    answer = format_disease_to_plants_answer(
+        "Prameha",
+        [{
+            "plant_id": "example",
+            "botanical_name": "Example species",
+            "relationship_types": ["MENTIONS_DISEASE"],
+        }],
+        "English",
+    )
+    assert "shared-source mention only" in answer
+    assert "not evidence that a plant treats the condition" in answer
 
 
 def test_unknown_entity_handling():
@@ -146,8 +174,13 @@ def test_unseen_disease_reverse_lookup_kasa():
 def test_unseen_disease_intersection_kasa_svasa():
     rag = get_service()
     ans = rag.query("Which plants are common between Kasa and Svasa?", use_llm=False)
-    # Must dynamically find common plants between Kasa and Svasa from graph
-    assert any(tax in ans for tax in ["Abies pindrow", "Abies spectabilis", "Abrus precatorius", "Carica papaya", "Peucedanum"])
+    # The intersection uses both candidate treatment links and separately
+    # labelled shared-source mentions, without claiming that mentions prove treatment.
+    assert any(tax in ans for tax in [
+        "Abies pindrow", "Abies spectabilis", "Abrus precatorius",
+        "Carica papaya", "Peucedanum"
+    ])
+    assert "Shared-source mentions alone do not establish treatment" in ans
 
 
 def test_kannada_morphological_inflection_bilvada():
